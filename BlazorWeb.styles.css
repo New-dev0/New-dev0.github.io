@@ -1,3 +1,56 @@
+/* /Shared/Header.razor.rz.scp.css */
+.navbar-toggler[b-5598gyjw6p] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+.oi[b-5598gyjw6p] {
+    width: 2rem;
+    font-size: 1.1rem;
+    vertical-align: text-top;
+    top: -2px;
+}
+
+.nav-item[b-5598gyjw6p] {
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+}
+
+    .nav-item:first-of-type[b-5598gyjw6p] {
+        padding-top: 1rem;
+    }
+
+    .nav-item:last-of-type[b-5598gyjw6p] {
+        padding-bottom: 1rem;
+    }
+
+    .nav-item[b-5598gyjw6p]  a {
+        color: #d7d7d7;
+        border-radius: 4px;
+        height: 3rem;
+        display: flex;
+        align-items: center;
+        line-height: 3rem;
+    }
+
+.nav-item[b-5598gyjw6p]  a.active {
+    background-color: rgba(255,255,255,0.25);
+    color: white;
+}
+
+.nav-item a:hover[b-5598gyjw6p] {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-5598gyjw6p] {
+        display: none;
+    }
+
+    .collapse[b-5598gyjw6p] {
+        /* Never collapse the sidebar for wide screens */
+        display: none;
+    }
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-lm8yj1iyw2] {
     position: relative;
@@ -9,73 +62,12 @@ main[b-lm8yj1iyw2] {
     flex: 1;
 }
 
+/* background: url("https://images.unsplash.com/photo-1618472609777-b038f1f04b8d"), repeat-x, top;
+    */
+
 .topbar[b-lm8yj1iyw2] {
     top: 0;
-    width: 100vh;
-    height: 250px;
-    background-color: whitesmoke;
-
-}
-/* /Shared/NavMenu.razor.rz.scp.css */
-.navbar-toggler[b-le0us1btlw] {
-    background-color: rgba(255, 255, 255, 0.1);
-}
-
-.top-row[b-le0us1btlw] {
-    height: 3.5rem;
-    background-color: rgba(0,0,0,0.4);
-}
-
-.navbar-brand[b-le0us1btlw] {
-    font-size: 1.1rem;
-}
-
-.oi[b-le0us1btlw] {
-    width: 2rem;
-    font-size: 1.1rem;
-    vertical-align: text-top;
-    top: -2px;
-}
-
-.nav-item[b-le0us1btlw] {
-    font-size: 0.9rem;
-    padding-bottom: 0.5rem;
-}
-
-    .nav-item:first-of-type[b-le0us1btlw] {
-        padding-top: 1rem;
-    }
-
-    .nav-item:last-of-type[b-le0us1btlw] {
-        padding-bottom: 1rem;
-    }
-
-    .nav-item[b-le0us1btlw]  a {
-        color: #d7d7d7;
-        border-radius: 4px;
-        height: 3rem;
-        display: flex;
-        align-items: center;
-        line-height: 3rem;
-    }
-
-.nav-item[b-le0us1btlw]  a.active {
-    background-color: rgba(255,255,255,0.25);
-    color: white;
-}
-
-.nav-item a:hover[b-le0us1btlw] {
-    background-color: rgba(255,255,255,0.1);
-    color: white;
-}
-
-@media (min-width: 641px) {
-    .navbar-toggler[b-le0us1btlw] {
-        display: none;
-    }
-
-    .collapse[b-le0us1btlw] {
-        /* Never collapse the sidebar for wide screens */
-        display: none;
-    }
+    width: 100%;
+    height: fit-content;
+    background: url("https://images.unsplash.com/photo-1620641788421-7a1c342ea42e"), repeat-x, top;
 }
