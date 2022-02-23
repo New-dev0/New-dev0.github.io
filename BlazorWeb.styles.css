@@ -1,6 +1,6 @@
 /* /Shared/Header.razor.rz.scp.css */
 .navbar-toggler[b-5598gyjw6p] {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: lightgray;
 }
 .oi[b-5598gyjw6p] {
     width: 2rem;
@@ -22,7 +22,7 @@
         padding-bottom: 1rem;
     }
 
-    .nav-item[b-5598gyjw6p]  a {
+    .nav-item  a[b-5598gyjw6p] {
         color: #d7d7d7;
         border-radius: 4px;
         height: 3rem;
@@ -31,7 +31,7 @@
         line-height: 3rem;
     }
 
-.nav-item[b-5598gyjw6p]  a.active {
+.nav-item a.active[b-5598gyjw6p] {
     background-color: rgba(255,255,255,0.25);
     color: white;
 }
@@ -62,8 +62,6 @@ main[b-lm8yj1iyw2] {
     flex: 1;
 }
 
-/* background: url("https://images.unsplash.com/photo-1618472609777-b038f1f04b8d"), repeat-x, top;
-    */
 
 .topbar[b-lm8yj1iyw2] {
     top: 0;
