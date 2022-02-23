@@ -51,6 +51,11 @@
         display: none;
     }
 }
+
+
+.navbutton[b-5598gyjw6p] {
+    background-color: #a563db;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-lm8yj1iyw2] {
     position: relative;
@@ -67,5 +72,5 @@ main[b-lm8yj1iyw2] {
     top: 0;
     width: 100%;
     height: fit-content;
-    background: url("https://images.unsplash.com/photo-1620641788421-7a1c342ea42e"), repeat-x, top;
+    background: #1a0041;
 }
