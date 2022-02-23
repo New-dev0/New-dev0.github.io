@@ -1,22 +1,21 @@
-﻿@page "/tgtwitterbot"
+﻿@page "/tgtwitterstreamer"
+
 @inject NavigationManager NavManager
 
-<PageTitle>TGTwitterBot</PageTitle>
+<PageTitle>TGTwitterStreamer</PageTitle>
 
 <div align="center">
    
-    <RadzenLabel Text="TgTwitterBot" Style="font-size:40px;" /><br />
+    <RadzenLabel Text="TgTwitterStreamer" Style="font-size:40px;" /><br />
     <RadzenImage Style="pointer-events:none; width:280px;height:280px;" Path="https://raw.githubusercontent.com/New-dev0/TgTwitterBot/main/logo.png"></RadzenImage>
     <br /><i>Telegram - Twitter - Bot</i>
-    <br /><img alt="GitHub forks" src="https://img.shields.io/github/forks/New-dev0/TgTwitterBot?style=social">
-     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/New-dev0/TgTwitterBot?style=social">
+    <br /><img alt="GitHub forks" src="https://img.shields.io/github/forks/New-dev0/TgTwitterStreamer?style=social">
+     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/New-dev0/TgTwitterStreamer?style=social">
     <br />-----------------
 </div>
 
 <br />
-
 <TgTwitterDeploymentGuide />
-
 <br />
 
 <RadzenCard id="local-deploy" class="dnote-box py-3" @onclick="(() => Navigate(0))">
@@ -24,10 +23,10 @@
     </RadzenCard>
 <RadzenCard>
     <li>Clone the Github Repo.<br>
-        <code>git clone https://github.com/New-dev0/TgTwitterBot.git<br>cd TgTwitterBot</code>
+        <code>git clone https://github.com/New-dev0/TgTwitterStreamer.git<br>cd TgTwitterBot</code>
     </li>
     <li>Install Requirements<br><code>pip install -r requirements.txt</code></li>
-    <li>Start The Bot<br><code>python -m twitterbot</code></li>
+    <li>Start The Bot<br><code>python -m tgtwitterstreamer</code></li>
 </RadzenCard>
 
 @code {
