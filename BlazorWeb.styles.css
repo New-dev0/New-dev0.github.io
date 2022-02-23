@@ -47,7 +47,6 @@
     }
 
     .collapse[b-5598gyjw6p] {
-        /* Never collapse the sidebar for wide screens */
         display: none;
     }
 }
