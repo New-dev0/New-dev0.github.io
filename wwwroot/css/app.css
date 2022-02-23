@@ -62,6 +62,7 @@ a, .btn-link {
 
 
 
-img {
+.centimg {
     pointer-events: none;
+    border-radius: 50%;
 }
