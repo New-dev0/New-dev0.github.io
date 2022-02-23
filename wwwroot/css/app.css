@@ -66,3 +66,27 @@ a, .btn-link {
     pointer-events: none;
     border-radius: 50%;
 }
+
+.dnote {
+}
+
+.dnote-box {
+
+}
+    .dnote-box:hover {
+        background-color:aliceblue;
+    }
+
+
+code {
+    background-color:floralwhite;
+    padding:5px;
+    border-radius:20px;
+
+}
+
+.center {
+    align-content:center;
+    vertical-align:central;
+    justify-content:center;
+}

@@ -1,15 +1,64 @@
 ﻿@page "/tgtwitterbot"
+@inject NavigationManager NavManager
 
 <PageTitle>TGTwitterBot</PageTitle>
 
 <div align="center">
    
     <RadzenLabel Text="TgTwitterBot" Style="font-size:40px;" /><br />
-    <RadzenImage class="w-25 h-25" Style="pointer-events:none;" Path="https://raw.githubusercontent.com/New-dev0/TgTwitterBot/main/logo.png"></RadzenImage>
+    <RadzenImage Style="pointer-events:none; width:280px;height:280px;" Path="https://raw.githubusercontent.com/New-dev0/TgTwitterBot/main/logo.png"></RadzenImage>
+    <br /><i>Telegram - Twitter - Bot</i>
+    <br />-----------------
 </div>
 
+<br />
 
-<h3 id="local-deploy">Local Deploy</h3>
+<RadzenCard id="deployment-guide" class="dnote-box py-3" @onclick="(() => Navigate(0))">
+    <h2><b># Deploying Guide</b></h2>
+    </RadzenCard>
+    <RadzenCard>
+<h3>Getting ENV's</h3>
+<ol>
+    <li>Create a <a href="https://developer.twitter.com/en">Twitter Developer Account</a>.<br>
+        <img class="center" src="https://1000logos.net/wp-content/uploads/2017/06/logo-Twitter-500x180.png" width="600"><br></li><br>
+    <li>Go to Developer Portal/Dashboard.</li>
+    <li>Create a Application and fill the details Asked !</li>
+    <li>Change the App Setting to <code>Read + Write</code>.</li>
+    <li>Go to <code>Keys and Token</code> Tab.</li>
+    <li>You can see <code>Consumer Key</code>'s Heading<br><img class="center" src="https://telegra.ph/file/53cd6e806af38801df381.jpg" width="600"><br> Generate the Api Key & Secret<br> Generated Api Key will be <code>CONSUMER_KEY</code> and Api Secret will be <code>CONSUMER_SECRET</code><br>Which
+        are Required in ENV.
+    </li>
+    <li>Check <i>Authentication Token</i><br><br>
+        <img class="center" src="https://telegra.ph/file/bc7b4923f87f48e0c1be2.jpg" width="600">
+        <br>Generate Your Access Token and Secret.<br> Access Token will be <code>ACCESS_TOKEN</code><br> Access Secret will be <code>ACCESS_TOKEN_SECRET</code>,
+        Required.
+    </li>
+ 
+    <li>Add the User Id of users in <code>AUTHUSERS</code> Var. They will have Access to Use Your BOT.</li>
+    
+    <li>Go to <a href="https://my.telegram.org">my.telegram.org</a><br>
+        <ul type="square">
+            <li>Login with Your Account.</li>
+            <li>Go to <i color="black">API Development tools</i> Tab</li>
+            <li>Create A Telegram APP.</li>
+            <li>You will Get Your <code>API_ID</code> and <code>API_HASH</code></li>
+        </ul><br>
+    </li>
+    <li>Go to <a href="https://t.me/botfather">BotFather</a>
+        <ul type="circle">
+            <li>Create a Bot and you will get Bot Token.</li>
+            <li>Fill it as <code>BOT_TOKEN</code></li>
+        </ul>
+    </li>
+    <li>and <b>Done</b> !</li>
+</ol>
+</RadzenCard>
+
+<br />
+
+<RadzenCard id="local-deploy" class="dnote-box py-3" @onclick="(() => Navigate(1))">
+    <h2><b># Deploying Locally</b></h2>
+    </RadzenCard>
 <RadzenCard>
     <li>Clone the Github Repo.<br>
         <code>git clone https://github.com/New-dev0/TgTwitterBot.git<br>cd TgTwitterBot</code>
@@ -20,4 +69,21 @@
 
 @code {
 
+    void Navigate (int num)
+    {
+        string path;
+        switch (num)
+        {
+            case (0):
+                path = "#deployment-guide";
+                break;
+            case (1):
+                path = "#local-deploy";
+                break;
+            default:
+                path = "";
+                break;
+        }
+        NavManager.NavigateTo(NavManager.Uri.Split('#')[0] + path, true);
+    }
 }
