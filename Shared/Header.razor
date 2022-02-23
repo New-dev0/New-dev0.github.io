@@ -3,23 +3,19 @@
         <a class="navbar-brand" href="">
             <RadzenHeading Text="New-Dev0" Style="padding-top:10px; padding-bottom:10px;"/>
             </a>
-        <RadzenButton ButtonStyle="ButtonStyle.Secondary" Click="ToggleNavMenu">
-            <span class="navbar-toggler-icon"></span>
-        </RadzenButton>
+        <RadzenButton Style="background-image:url(https://www.gifgit.com/site-images/toolpage-images/gradient-tool-example1.jpg)" Text="Projects" Click="ToggleNavMenu" />
     </div>
 </div>
 
 <div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
     <nav class="flex-column">
         <div class="nav-item px-3">
-            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                <span class="oi oi-home" aria-hidden="true"></span> Home
+            <NavLink class="nav-link" href="/tgtwitterbot" Match="NavLinkMatch.All">
+                <span class="oi oi-home" aria-hidden="true"></span> TgTwitterBot
             </NavLink>
-        </div>
-        <div class="nav-item px-3">
-            <RadzenDropDown class="oi oi-home" TValue="string" Placeholder="Projects">
-            </RadzenDropDown>
-                
+            <NavLink class="nav-link" href="/tgtwitterstreamer" Match="NavLinkMatch.All">
+                <span class="oi oi-home" aria-hidden="true"></span> TgTwitterStreamer
+            </NavLink>
         </div>
     </nav>
 </div>
