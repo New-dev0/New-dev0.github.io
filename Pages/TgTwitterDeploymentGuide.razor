@@ -1,10 +1,6 @@
 ﻿@inject NavigationManager NavManager
 
-
-<RadzenCard id="deployment-guide" class="dnote-box py-3" @onclick="Navigate">
-    <h2><b># Deploying Guide</b></h2>
-    </RadzenCard>
-    <RadzenCard>
+<RadzenCard>
 <h3>Getting ENV's</h3>
 <ol>
     <li>Create a <a href="https://developer.twitter.com/en">Twitter Developer Account</a>.<br>
@@ -41,11 +37,3 @@
     <li>and <b>Done</b> !</li>
 </ol>
 </RadzenCard>
-
-
-@code {
-    void Navigate()
-    {
-        NavManager.NavigateTo(NavManager.Uri.Split("#")[0] + "#deployment-guide");
-    }
-}

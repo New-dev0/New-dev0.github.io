@@ -7,14 +7,17 @@
 <div align="center">
    
     <RadzenLabel Text="TgTwitterStreamer" Style="font-size:40px;" /><br />
-    <RadzenImage Style="pointer-events:none; width:280px;height:280px;" Path="https://raw.githubusercontent.com/New-dev0/TgTwitterBot/main/logo.png"></RadzenImage>
-    <br /><i>Telegram - Twitter - Bot</i>
+    <RadzenImage class="w-50 h-50" Style="pointer-events:none;" Path="https://raw.githubusercontent.com/New-dev0/TgTwitterStreamer/main/TgTwitterStreamer/assets/START.webp"></RadzenImage>
+    <br /><i>TgTwitterStreamer</i>
     <br /><img alt="GitHub forks" src="https://img.shields.io/github/forks/New-dev0/TgTwitterStreamer?style=social">
      <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/New-dev0/TgTwitterStreamer?style=social">
     <br />-----------------
 </div>
 
 <br />
+<RadzenCard id="deployment-guide" class="dnote-box py-3" @onclick="(() => Navigate(1))">
+    <h2><b># Deploying Guide</b></h2>
+    </RadzenCard>
 <TgTwitterDeploymentGuide />
 <br />
 
@@ -26,7 +29,7 @@
         <code>git clone https://github.com/New-dev0/TgTwitterStreamer.git<br>cd TgTwitterBot</code>
     </li>
     <li>Install Requirements<br><code>pip install -r requirements.txt</code></li>
-    <li>Start The Bot<br><code>python -m tgtwitterstreamer</code></li>
+    <li>Start The Bot<br><code>python -m TgTwitterStreamer</code></li>
 </RadzenCard>
 
 @code {
@@ -38,6 +41,9 @@
         {
             case (0):
                 path = "#local-deploy";
+                break;
+            case (1):
+                path = "#deployment-guide";
                 break;
             default:
                 path = "";

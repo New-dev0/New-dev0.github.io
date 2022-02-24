@@ -15,6 +15,9 @@
 
 <br />
 
+<RadzenCard id="deployment-guide" class="dnote-box py-3" @onclick="(() => Navigate(1))">
+    <h2><b># Deploying Guide</b></h2>
+    </RadzenCard>
 <TgTwitterDeploymentGuide />
 
 <br />
@@ -39,6 +42,9 @@
         {
             case (0):
                 path = "#local-deploy";
+                break;
+            case (1):
+                path = "deployment-guide";
                 break;
             default:
                 path = "";
