@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
 
+/*
 const withMDX = require('@next/mdx')({
   extension: /\.mdx?$/,
   options: {
@@ -7,6 +8,7 @@ const withMDX = require('@next/mdx')({
     rehypePlugins: [],
   },
 })
+*/
 
 const nextConfig = {
   reactStrictMode: true,
@@ -26,4 +28,4 @@ const nextConfig = {
   }
 }
 
-module.exports = withMDX(nextConfig);
+module.exports = nextConfig;
