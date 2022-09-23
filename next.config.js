@@ -15,6 +15,7 @@ const nextConfig = {
   swcMinify: true,
   pageExtensions: ["p.js", "md", "mdx"],
   images: {
+    unoptimized: true,
     domains: [
       "telegram.org",
       "pngimg.com",
