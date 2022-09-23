@@ -12,7 +12,7 @@ function CreateCard({ title, description, image, href }) {
         <h2>{title}</h2> {!image && <p style={{ paddingLeft: "2rem" }}>{description}</p>}
         {image && <div style={{ display: "flex" }}>
             <Image src={image} width="200" height="100" alt={title} />
-            <p>{description}</p>
+            <div>{description}</div>
         </div>}
     </div>
     </a>
