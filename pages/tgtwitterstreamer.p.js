@@ -12,7 +12,7 @@ export default function Streamer() {
         <Template>
             <h1>TgTwitterStreamer</h1>
             <div className={styles.timage}>
-                <Image width={500} height={300} src="https://raw.githubusercontent.com/New-dev0/TgTwitterStreamer/main/TgTwitterStreamer/assets/START.webp"></Image>
+                <Image alt="Twitter" width={500} height={300} src="https://raw.githubusercontent.com/New-dev0/TgTwitterStreamer/main/TgTwitterStreamer/assets/START.webp"></Image>
             </div>   <br />
             <p style={{ minWidth: "20px" }}>
                 <Image width={100} height={30} alt="GitHub forks" src="https://Img.shields.io/github/forks/New-dev0/TgTwitterStreamer?style=social" />
@@ -20,10 +20,10 @@ export default function Streamer() {
             </p>
             <div className={styles.card} style={{ fontSize: 20 }}>
 
-                <h3>Getting ENV's</h3>
+                <h3>Getting ENV&apos;s</h3>
                 <ol>
                     <li>Create a <a href="https://developer.twitter.com/en">Twitter Developer Account</a>.<br />
-                        <Image width={800} height={300} src="https://1000logos.net/wp-content/uploads/2017/06/logo-Twitter-500x180.png" /><br /></li><br />
+                        <Image alt="Twitter" width={800} height={300} src="https://1000logos.net/wp-content/uploads/2017/06/logo-Twitter-500x180.png" /><br /></li><br />
                     <li>Go to Developer Portal/Dashboard.</li>
                     <li>Create a Application and fill the details Asked !</li>
                     <li>Change the App Setting to <code>Read + Write</code>.</li>

@@ -11,7 +11,7 @@ function CreateCard({ title, description, image, href }) {
     return <a href={href || title.toLowerCase()}><div className={styles.card}>
         <h2>{title}</h2> {!image && <p style={{ paddingLeft: "2rem" }}>{description}</p>}
         {image && <div style={{ display: "flex" }}>
-            <Image src={image} width="200" height="100" />
+            <Image src={image} width="200" height="100" alt={title} />
             <p>{description}</p>
         </div>}
     </div>

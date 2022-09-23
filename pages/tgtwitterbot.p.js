@@ -12,7 +12,8 @@ export default function TgTwitterBot() {
         <Template>
             <>
                 <h1>TgTwitterBot</h1>
-                <div className={styles.timage}><Image width={300} height={300} src="https://raw.githubusercontent.com/New-dev0/TgTwitterBot/main/logo.png"></Image>
+                <div className={styles.timage}>
+                    <Image alt="Twitterbot" width={300} height={300} src="https://raw.githubusercontent.com/New-dev0/TgTwitterBot/main/logo.png"></Image>
                 </div>
                 <br />
                 <p>
@@ -21,23 +22,23 @@ export default function TgTwitterBot() {
                 </p>
                 <div className={styles.card} style={{ fontSize: 20 }}>
 
-                    <h3>Getting ENV's</h3>
+                    <h3>Getting ENV&apos;s</h3>
                     <ol>
                         <li>Create a <a href="https://developer.twitter.com/en">Twitter Developer Account</a>.<br />
-                            <Image width={800} height={300} src="https://1000logos.net/wp-content/uploads/2017/06/logo-Twitter-500x180.png" /><br /></li><br />
+                            <Image alt="twitter" width={800} height={300} src="https://1000logos.net/wp-content/uploads/2017/06/logo-Twitter-500x180.png" /><br /></li><br />
                         <li>Go to Developer Portal/Dashboard.</li>
                         <li>Create a Application and fill the details Asked !</li>
                         <li>Change the App Setting to <code>Read + Write</code>.</li>
                         <li>Go to <code>Keys and Token</code> Tab.</li>
-                        <li>You can see <code>Consumer Key</code>'s Heading<br />
-                            <Image width={650} height={300} src="https://graph.org/file/53cd6e806af38801df381.jpg" >
+                        <li>You can see <code>Consumer Key</code>&apos;s Heading<br />
+                            <Image alt="authentication" width={650} height={300} src="https://graph.org/file/53cd6e806af38801df381.jpg" >
                             </Image>
                             <br />
                             Generate the Api Key & Secret<br /> Generated Api Key will be <code>CONSUMER_KEY</code> and Api Secret will be <code>CONSUMER_SECRET</code><br />Which
                             are Required in ENV.
                         </li>
                         <li>Check <i>Authentication Token</i><br />
-                            <Image width={600} height={380} src="https://graph.org/file/bc7b4923f87f48e0c1be2.jpg" />
+                            <Image alt="access token" width={600} height={380} src="https://graph.org/file/bc7b4923f87f48e0c1be2.jpg" />
                             <br />Generate Your Access Token and Secret.<br /> Access Token will be <code>ACCESS_TOKEN</code><br /> Access Secret will be <code>ACCESS_TOKEN_SECRET</code>,
                             Required.
                         </li>

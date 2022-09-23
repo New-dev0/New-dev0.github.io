@@ -5,7 +5,7 @@ export default function RedirectResponse() {
     const router = useRouter();
     useEffect(() => {
         router.push("/");
-    }, []);
+    });
     return <>
     </>
 }

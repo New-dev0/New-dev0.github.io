@@ -10,7 +10,7 @@ export default function Home() {
     </Head>
     <Template show_footer={false}>
       <div className={styles.card} style={{ marginTop: "4rem" }}>
-        <Image className={styles.avatar} src="/avatar.png" width="250" height="250" />
+        <Image className={styles.avatar} alt="Devesh Pal"  src="/avatar.png" width="250" height="250" />
         <hr />
         <p>Devesh Pal</p>
         <div className={styles.social}>
