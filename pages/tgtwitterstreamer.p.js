@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { Template } from "./template";
+import { Template } from "./_template";
 import styles from "../styles/Projects.module.css";
 import Image from "next/image";
 

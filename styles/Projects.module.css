@@ -1,9 +1,9 @@
 
 .card {
+    display: block;
     color: black;
-    width: 60vh;
+    width: 90%;
     max-width: 100%;
-    min-width: 60vh;
     background-color: whitesmoke;
     border-radius: 20px;
     padding: 1rem;

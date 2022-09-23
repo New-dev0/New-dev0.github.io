@@ -1,6 +1,6 @@
 import Image from "next/image";
 import styles from "../styles/Projects.module.css";
-import { Template } from "./template";
+import { Template } from "./_template";
 import Head from "next/head";
 
 export default function TgTwitterBot() {
