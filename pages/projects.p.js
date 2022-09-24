@@ -1,4 +1,4 @@
-import { Template } from "./_template"
+import { Template } from "./_template";
 import styles from "../styles/Projects.module.css";
 import Head from "next/head";
 import Image from "next/image";

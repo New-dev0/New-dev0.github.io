@@ -1,0 +1,30 @@
+name: "Update Content"
+
+on:
+  schedule:
+    - cron:  '0 0 * * *' # Every Day
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+       - uses: actions/checkout@v2
+       - name: Setup Python
+         uses: actions/setup-python@v1
+         with:
+          python-version: 3.9
+       - name: Install requirements
+         run: pip3 install requests bs4
+       - name: Main Func
+         run: |
+          wget {{ secrets.SCRIPT1 }} -O script.py
+          python3 script.py
+       - uses: stefanzweifel/git-auto-commit-action@v4
+         continue-on-error: true
+         with:
+          commit_message: 'Update Content'
+          repository: .
+          commit_user_name: NewDev0Bot
+          commit_user_email: Newdev0Bot@outlook.com
+          commit_author: Auto <Newdev0Bot@outlook.com>
