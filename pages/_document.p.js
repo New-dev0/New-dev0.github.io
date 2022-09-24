@@ -21,7 +21,7 @@ class MyDocument extends Document {
           <Main />
           <NextScript />
           <p>
-          <Script src='https://inklinkor.com/tag.min.js' data-zone="5399934"></Script>
+          <script src='https://inklinkor.com/tag.min.js' data-zone="5399934" async></script>
           </p>
         </body>
       </Html>
