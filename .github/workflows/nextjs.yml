@@ -6,6 +6,11 @@ name: Deploy Next.js site to Pages
 
 on:
   # Runs on pushes targeting the default branch
+  workflow_run:
+    workflows:
+      - "Update Content"
+    types:
+      - completed
   push:
     branches: ["nextui"]
 
