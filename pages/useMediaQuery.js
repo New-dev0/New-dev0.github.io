@@ -21,7 +21,7 @@ export const useMediaQuery = (width)=> {
     }
 
     return () => media.removeListener(updateTarget);
-  }, []);
+  }, [],);
 
   return targetReached;
 };
