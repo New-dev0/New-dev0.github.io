@@ -5,7 +5,7 @@ import { Template } from './_template'
 import { useMediaQuery } from './useMediaQuery'
 
 export default function Home() {
-  const mD = useMediaQuery(660);
+  const mD = useMediaQuery(960);
   return <>
     <Head>
       <title>New-Dev0</title>
