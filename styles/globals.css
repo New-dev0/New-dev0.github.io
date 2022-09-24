@@ -8,6 +8,10 @@ body {
   background-color: rgb(215, 215, 228);
 }
 
+main {
+  color: black;
+}
+
 i {
   text-decoration: underline dotted;
 }
@@ -38,8 +42,11 @@ img::selection{
   html {
     color-scheme: dark;
   }
-  body {
+  body{
     color: white;
     background: linear-gradient(rgb(19, 64, 101), rgb(47, 85, 71));
+  }
+  main {
+    color: white;
   }
 }
