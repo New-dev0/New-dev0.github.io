@@ -24,7 +24,7 @@
 
 .header {
   display: flex;
-  background:linear-gradient(#332159, rgb(21, 64, 100)); 
+  background: linear-gradient(#332159, rgb(21, 64, 100));
   padding: 0 2rem;
   font-weight: bold;
   justify-content: space-between;
@@ -126,7 +126,7 @@
   border-width: 1px;
 }
 
-.card h2 {
+.card h2{
   margin: 0 0 1rem 0;
   font-size: 1.5rem;
 }
@@ -146,6 +146,20 @@
   margin-left: 0.5rem;
 }
 
+.social2 span {
+  display: flex;
+  vertical-align: middle;
+}
+.social2 p {
+  text-align: start;
+  margin-top: 10px;
+}
+
+.social2 p:focus,
+.social2 p:hover {
+  text-decoration: underline salmon dotted;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
@@ -154,6 +168,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
+
   .card,
   .footer {
     border-color: #222;
@@ -162,15 +177,16 @@
   .card {
     border-color: transparent;
   }
-  
+
   .code {
     background: #111;
   }
+
   .logo img {
     filter: invert(1);
   }
-  
+
   .footer {
     background-color: rgb(34, 53, 58)
-}
+  }
 }

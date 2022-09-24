@@ -11,9 +11,8 @@ export default function Streamer() {
         </Head>
         <Template>
             <h1>TgTwitterStreamer</h1>
-            <div className={styles.timage}>
-                <Image alt="Twitter" width={500} height={300} src="https://raw.githubusercontent.com/New-dev0/TgTwitterStreamer/main/TgTwitterStreamer/assets/START.webp"></Image>
-            </div>   <br />
+             <Image alt="Twitter" width={500} height={300} src="https://raw.githubusercontent.com/New-dev0/TgTwitterStreamer/main/TgTwitterStreamer/assets/START.webp"></Image>
+             <br />
             <p style={{ minWidth: "20px" }}>
                 <Image width={100} height={30} alt="GitHub forks" src="https://Img.shields.io/github/forks/New-dev0/TgTwitterStreamer?style=social" />
                 <Image style={{ marginLeft: "10px" }} width={100} height={30} alt="GitHub Repo stars" src="https://Img.shields.io/github/stars/New-dev0/TgTwitterStreamer?style=social" />

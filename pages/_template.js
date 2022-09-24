@@ -16,7 +16,7 @@ export function Template({ children, show_footer = true, show_content = true }) 
         <header className={styles.header}>
             <p style={{width: "100%", justifyContent: "space-between", display: "flex"}}>
                 <span onClick={() => TitlePress(router)}>New-Dev0</span>
-            {show_content && <a href="/projects" style={{ justifySelf: "flex-end",  fontSize: 22 }}>Projects</a>}
+            {show_content && <a href="/projects" style={{ justifySelf: "flex-end",  fontSize: 22, marginTop: "5px" }}>Projects</a>}
             </p>
         </header>
         <main className={styles.main}>
