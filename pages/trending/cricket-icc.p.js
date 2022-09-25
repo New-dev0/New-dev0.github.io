@@ -7,7 +7,8 @@ import Image from "next/image";
 export default function Page() {
     const md = useMediaQuery(960);
     return <><Head>
-        <title>Cricket ICC</title></Head><Template>
+        <title>Cricket ICC</title>
+        <meta name="description" content="Trending News about Cricket ICC" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Cricket ICC</h1>
             <Image width={800} height={500} src="https://resources.pulse.icc-cricket.com/ICC/photo/2022/09/23/6f571b29-ff2d-42c4-9b85-127af93ea877/GettyImages-1367149743.jpg" alt="Cricket ICC"/>
             <h3>Recent News</h3>
