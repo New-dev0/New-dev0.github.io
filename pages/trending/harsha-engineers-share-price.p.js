@@ -20,19 +20,19 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS08HKt-7EvRO36luRGiGaXnuwzal4U48BeIHJtfxocilIkRQfOO9RCebLpv-M407gzt4lIwJoW" alt="Missed Harsha Engineers shares in allotment? Should you buy after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Harsha Engineers share price opened on BSE at ₹444 apiece levels, delivering 36% listing gain to the allottees.</p></div>
             </div>
+        </a><a href='https://economictimes.indiatimes.com/markets/stocks/news/should-you-book-profits-in-harsha-engineers-or-hold-it-for-long-run/articleshow/94450270.cms'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Should you book profits in Harsha Engineers or hold it for long run?</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT7FXue4cXI-B4wwJTNnN8E-jd-Wzfub98-1pC7LDv-VdJ6aAUJPPliK74VkhvlwhCl8mczRnJs" alt="Should you book profits in Harsha Engineers or hold it for long run?" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Harsha Engineers International is the largest manufacturer of precision bearing cages, in terms of revenue, in the organised sector in India,&nbsp;...</p></div>
+            </div>
         </a><a href='https://www.businesstoday.in/markets/company-stock/story/harsha-engineers-shares-listing-bse-nse-premium-to-issue-price-348154-2022-09-26'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Harsha Engineers shares make stellar debut, list at 36% premium to ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTiXa8sycIAgNOnupo4YIG8Zisbj22DWH-zvYS9tqYEx0vsE4WMgQDe_w8PFJjYH3ljVtiP_YOb" alt="Harsha Engineers shares make stellar debut, list at 36% premium to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRkj3ERXWwVq-wOeQB7lgp6XpTRvDaixWK3FMH4542DNU1FVU4Tb5bmQ-dDGvX73YyPeUhoN6Qb" alt="Harsha Engineers shares make stellar debut, list at 36% premium to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Harsha Engineers International stock listing: The company listed at Rs 450 (up 36.36 per cent) on the NSE against the IPO issue price of Rs 330.</p></div>
-            </div>
-        </a><a href='https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-the-news-harsha-engineers-bpcl-coal-india-redington-india-and-britannia/articleshow/94442230.cms'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Stocks in the news: Harsha Engineers, BPCL, Coal India, Redington ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSUrmmV1d2iykmrSNVVXrxEPDAnInz-trIQp4SL-leLi_WoKVaY75z9SiH7o0a2ShkQSgyaTx1F" alt="Stocks in the news: Harsha Engineers, BPCL, Coal India, Redington ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Stocks in the news: Harsha Engineers, BPCL, Coal India, Redington India and Britannia &middot; Harsha Engineers is scheduled to make its Dalal Street debut on Monday as&nbsp;...</p></div>
             </div>
         </a><a href='https://www.moneycontrol.com/news/business/ipo/harsha-engineers-grey-market-premium-falls-nearly-60-ahead-of-listing-today-9230271.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -43,17 +43,17 @@ export default function Page() {
             </div>
         </a><a href='https://www.zeebiz.com/market-news/live-updates-live-harsha-engineers-ipo-listing-today-shares-expected-to-make-strong-debut-on-nse-bse-what-anil-singhvi-expert-recommend-200424'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Live: Harsha Engineers IPO Listing Today: Shares jump 47% on ...</h3>
+                <h3>Harsha Engineers IPO Listing: Shares end 47% higher on debut day ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSAxConruGZm5OpaNlwUMYb8WnbWRz3A9NQ2fej7rO64l6uZexElWu5IvsnC41RSP7tAL_r46-W" alt="Live: Harsha Engineers IPO Listing Today: Shares jump 47% on ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSAxConruGZm5OpaNlwUMYb8WnbWRz3A9NQ2fej7rO64l6uZexElWu5IvsnC41RSP7tAL_r46-W" alt="Harsha Engineers IPO Listing: Shares end 47% higher on debut day ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Harsha Engineers IPO listing date: Shares of Harsha Engineers International Limited made a strong debut amid a falling market. Get more Markets News and&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.news18.com/news/business/markets/harsha-engineers-listing-on-bse-nse-today-listing-time-gains-share-price-key-details-6036607.html'>
+        </a><a href='https://www.financialexpress.com/market/ipo-news/harsha-engineers-premium-listing-on-bse-nse-shares-gain-36-from-ipo-price-debut-at-rs-450-on-bourses/2690714/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Harsha Engineers Listing on BSE, NSE Today: Listing Time, Gains ...</h3>
+                <h3>Harsha Engineers premium listing on BSE, NSE: Shares end 47 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRq31pjinmpyEl0OWm1nKCnBoKH4Dx3t0nK2Qi-ONSD2v2NjVdW8zP5eqKGNQS-KgOPEEautaKS" alt="Harsha Engineers Listing on BSE, NSE Today: Listing Time, Gains ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Harsha Engineers IPO: Harsha Engineers International&#39;s initial public offering, The company&#39;s unlisted shares are trading at a premium of Rs 162.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSD_wXODBjvgZ9BVFYQCH4s3yx8WuWs1Kr0rVdVZTLyiNgkvtCAUtxOG-SEIFQaegq4df2z5gck" alt="Harsha Engineers premium listing on BSE, NSE: Shares end 47 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Harsha Engineers launched its Rs 755-crore initial public offering (IPO) from September 14-16 and received strong demand across investor categories.</p></div>
             </div>
         </a>
         </Template></>;
