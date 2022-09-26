@@ -55,33 +55,33 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRnx4K1vd17A2hJFp8nzLSJYx9qD_w_UKguKwK_LNznl0JLu45y27lTCoTl2_tmvxfDWNvBoDPQ" alt="Veteran Congress leader Aryadan Muhammed, 87, passes away" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Thiruvananthapuram: Veteran Congress leader and former Minister for Electricity and Transport Aryadan Muhammed passed away on Sunday morning while&nbsp;...</p></div>
             </div>
-        </a><a href='https://economictimes.indiatimes.com/news/politics-and-nation/senior-congress-leader-aryadan-muhammed-passes-away/articleshow/94428259.cms'>
+        </a><a href='https://www.manoramaonline.com/news/kerala/2022/09/26/aryadan-muhammed-as-legislator.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Senior Congress leader Aryadan Muhammed passes away</h3>
+                <h3>സ്വയം വളർന്ന വൻമരം</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQK8guKutD532d9FbdGQh67NNpmMgBRHdANOCRIfQdzUedn4hitQlJKPUd0_1LKgjDfPlWIN7Vw" alt="Senior Congress leader Aryadan Muhammed passes away" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>He was an 8-time MLA &amp; represented the Nilambur constituency in Malappuram district.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTyV-u1xQQXQMlriA06H9RDJboQ7i1y8agOYyvJ4GC9mmox6jZdfUSV8-lZ4ykhG5UPYKMh0O5B" alt="സ്വയം വളർന്ന വൻമരം" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>ഓരോ പേജിലും ചില വാർത്തകൾക്കു താഴെ ആര്യാടന്റെ വര ഉണ്ടാകും. എന്നുവച്ചാൽ അതു&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.mathrubhumi.com/news/kerala/congress-leader-aryadan-muhammed-passes-away-1.7904413'>
+        </a><a href='https://www.deccanherald.com/national/south/kerala-congress-leader-aryadan-muhammed-passes-away-1148140.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>മുൻ മന്ത്രിയും മുതിർന്ന കോൺഗ്രസ് ...</h3>
+                <h3>Kerala Congress leader Aryadan Muhammed passes away</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRnx4K1vd17A2hJFp8nzLSJYx9qD_w_UKguKwK_LNznl0JLu45y27lTCoTl2_tmvxfDWNvBoDPQ" alt="മുൻ മന്ത്രിയും മുതിർന്ന കോൺഗ്രസ് ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>2011-ലെ നിയമസഭാ തിരഞ്ഞെടുപ്പിലാണ് അദ്ദേഹം അവസാനമായി നിലമ്പൂരില്‍ നിന്ന് ജനവിധി തേടിയത്.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ5AIrJ8GW_XbShOsKazfsqHhVZx-pFoZi4DNuQW5GpyXNh8KEAloG_mSYxIfhGCLWvTF3HVKua" alt="Kerala Congress leader Aryadan Muhammed passes away" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Senior Kerala Congress leader and former minister Aryadan Muhammed passed away on Sunday. He was 87. A native of Nilambur in Malappuram district,&nbsp;...</p></div>
             </div>
-        </a><a href='https://zeenews.india.com/malayalam/kerala/breaking-former-minister-senior-congress-leader-aryadan-muhammed-passed-away-107430'>
+        </a><a href='https://www.manoramaonline.com/news/editorial/2022/09/26/congress-leader-aryadan-muhammed-passes-away.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Aryadan Muhammed : മുതിർന്ന കോൺഗ്രസ്സ് ...</h3>
+                <h3>ആര്യാടൻ ഹൗസിലെ വിളക്കുമരം</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTdJ6ASSNBBlE17W-Cmb4zoogp3AF9IdgQhzKjg5io96ER7XkhmxznJvzSa9ee_rHzA88fAkLQd" alt="Aryadan Muhammed : മുതിർന്ന കോൺഗ്രസ്സ് ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>കുറച്ച് നാളുകളായി രോഗബാധിതനായിരുന്നു. Aryadan Muhammed : മുതിർന്ന കോൺഗ്രസ്സ് നേതാവ് ആര്യാടൻ&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRtTHhsW7XV7BDMLAO0QcSJGkkEt2Jtv7jspMHiNQT1qTapYRt0ID-DEMhJUeiQu4kYpAy8hiEC" alt="ആര്യാടൻ ഹൗസിലെ വിളക്കുമരം" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Tags: Kerala Pradesh Congress Committee (KPCC) &middot; Aryadan Muhammed &middot; Editorial. ManoramaOnline.</p></div>
             </div>
-        </a><a href='https://www.manoramaonline.com/news/kerala/2022/09/26/congress-leader-aryadan-muhammed-passes-away.html'>
+        </a><a href='https://www.mathrubhumi.com/news/kerala/aryadan-muhammed-aryadan-shoukkath-1.7907035'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>വിട, ആര്യാടൻ</h3>
+                <h3>ബാപ്പ എന്റെ പാഠശാല, ധീരനായ ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ2YFlZpRY4c3D80zq6SBfKLq5wA9cR9jVx_eQyybRAvX-JcMlRFynXi4i0_eGIegAuGp5Xf6bl" alt="വിട, ആര്യാടൻ" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>മലബാറിൽ കോൺഗ്രസിന്റെ കരുത്തും കാതലുമായിരുന്ന മുൻമന്ത്രി ആര്യാടൻ മുഹമ്മദ് (87)&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ_a6t1MqBk9DzSP9nEX9q-zASTDblJxLfxqnvRAxXEEYNMWGFKRZWAHi51vBrqkxXCnCja6XKD" alt="ബാപ്പ എന്റെ പാഠശാല, ധീരനായ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Content Highlights: Aryadan Muhammed Aryadan Shoukkath &middot; More from this section &middot; Most Commented.</p></div>
             </div>
         </a>
         </Template></>;

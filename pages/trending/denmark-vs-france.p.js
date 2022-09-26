@@ -18,14 +18,7 @@ export default function Page() {
                 <h3>Denmark vs France: Live stream, TV channel, kick-off time &amp; how to ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR0K7eKf3QpKrOLqSpr-etWW_qV5LLIR3L_6_TzSmhvkFmx68kjfrsuKD-MSPDNbz1vUikJnrTy" alt="Denmark vs France: Live stream, TV channel, kick-off time &amp; how to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The 2022-23 UEFA Nations Legaue enters its final stages this week as Denmark welcome France to face them at Parken Stadium in a Group A1 encounter.</p></div>
-            </div>
-        </a><a href='https://www.goal.com/en-gb/news/denmark-vs-france-predictions-tips-and-betting-odds/bltb7dbc98310d50d66'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Denmark vs France: Predictions, tips &amp; betting odds</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQd79UV79LJycnVYprgo2RSm2FTr1CmcELZ1kDuZsARL5V6cffwYCK75Mup9EnHtvpcjPGmHcbS" alt="Denmark vs France: Predictions, tips &amp; betting odds" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>France are looking to rescue their UEFA Nations League campaign when they take on Denmark on Sunday. Les Bleus are five points off of top spot after five&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Here&#39;s how you can watch Denmark against France on TV and stream the game live...</p></div>
             </div>
         </a><a href='https://www.espn.com/soccer/report?gameId=624023'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -34,19 +27,33 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSsLSx8RBvNaYWvPgCbtWrAgbLMf4erYAUQAG-C2uOSTweXUgMOJsfrQgYTStb-zRY4GdW3yLI8" alt="Denmark vs. France - Football Match Report - September 25, 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Get a report of the Denmark vs. France 2022-23 UEFA Nations League, Group Stage football match.</p></div>
             </div>
-        </a><a href='https://www.insidesport.in/uefa-nations-league-2022-live-denmark-aim-for-shock-upset-over-france-with-finals-qualification-at-stake-check-denmark-vs-france-live-predicted-xi-live-streaming-follow-live/'>
+        </a><a href='https://www.goal.com/en-gb/news/denmark-vs-france-predictions-tips-and-betting-odds/bltb7dbc98310d50d66'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>UEFA Nations League 2022 LIVE: DEN 2-0 FRA,France are yet to ...</h3>
+                <h3>Denmark vs France: Predictions, tips &amp; betting odds</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTo7lAVP4Yv_Jas6JL8iSmA9Ll5-67ZoQ6T5hd_g4zEqBKBgE0qM0MFQh_fLqtjIXZ5ScvtoQOF" alt="UEFA Nations League 2022 LIVE: DEN 2-0 FRA,France are yet to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>UEFA Nations League 2022 LIVE: Denmark aim for SHOCK UPSET over France with Finals qualification at stake, Check Denmark vs France LIVE, Live Streaming –</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQd79UV79LJycnVYprgo2RSm2FTr1CmcELZ1kDuZsARL5V6cffwYCK75Mup9EnHtvpcjPGmHcbS" alt="Denmark vs France: Predictions, tips &amp; betting odds" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>France are looking to rescue their UEFA Nations League campaign when they take on Denmark on Sunday. Les Bleus are five points off of top spot after five&nbsp;...</p></div>
             </div>
-        </a><a href='https://zeenews.india.com/football/kylian-mbappes-france-vs-denmark-uefa-nations-league-match-livestreaming-details-when-and-where-to-watch-fra-vs-den-2514200.html'>
+        </a><a href='https://www.insidesport.in/uefa-nations-league-2022-live-den-2-0-fra-denmark-fall-short-to-reach-finals-even-with-a-commanding-win-check-highlights/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Kylian Mbappes France vs Denmark UEFA Nations League match ...</h3>
+                <h3>UEFA Nations League 2022 HIGHLIGHTS: DEN 2-0 FRA, Denmark ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRPJ0K5AEPwN0-nxiMeN3gD9Rrf9yWlxNznhr9B7LpppV-HrcRrYg_nfQ52IkAa8n6YB48Q_5L5" alt="Kylian Mbappes France vs Denmark UEFA Nations League match ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>France will take on Denmark as the UEFA Nations League 2022-23 enters its final stages at the Parken Stadium in the Group A1 fixture. It&#39;s good a match for&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTlIohu8yB3U7kDEZzA24JDuD_guD98Re2vtzo_Zmr3oA3slyAiDngjrkq2lvWCu9Ah43bYG7FN" alt="UEFA Nations League 2022 HIGHLIGHTS: DEN 2-0 FRA, Denmark ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>UEFA Nations League 2022 HIGHLIGHTS: DEN 2-0 FRA, Denmark FALL short to reach Finals , France AVOID relegation despite Loss – Check Highlights,</p></div>
+            </div>
+        </a><a href='https://www.fourfourtwo.com/features/denmark-vs-france-live-stream-how-to-watch-nations-league'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Denmark vs France match preview, team news and kick-off time for ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQf4yISJ0JYBadZLb6fW7I4REzw_Rf-czIoU9Q1_5HXl2Dk23moHasL63GDlVLMe7vhVE27gMN4" alt="Denmark vs France match preview, team news and kick-off time for ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Jump to: Match preview; Form; Referee; Stadium; Other games in this group; Kick-off and channel; VPN guide; UK TV rights; US TV rights; Canada TV&nbsp;...</p></div>
+            </div>
+        </a><a href='https://theathletic.com/live-blogs/denmark-france-nations-league-score/Cyy33yV0OXEp/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>How Denmark beat France 2-0 in Nations League thanks to Dolberg ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS_4sTX6W7BFF4GWMrZ71Zz_5Xqw2obYqXN9tKGhxX97bK_ijHXpMTn4kHVaYUgWiHts0wJjNS2" alt="How Denmark beat France 2-0 in Nations League thanks to Dolberg ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Denmark starred in Copenhagen to beat France 2-0 in each nation&#39;s final game before November&#39;s World Cup in Qatar.Kasper Dolberg opened the scoring for the&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
