@@ -7,79 +7,81 @@ import Image from "next/image";
 export default function Page() {
     const md = useMediaQuery(960);
     return <><Head>
-        <title>Virat Kohli</title></Head><Template>
+        <title>Virat Kohli</title>
+        <meta name="keywords" content="news,trending,latest,sports,breaking,top,Virat Kohli"/>
+        <meta name="description" content="Trending News about Virat Kohli" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Virat Kohli</h1>
-            <Image width={800} height={500} src="https://navbharattimes.indiatimes.com/photo/msid-94409823,imgsize-48792/pic.jpg" alt="Virat Kohli"/>
+            <Image width={800} height={500} src="https://img.etimg.com/thumb/msid-94446560,width-1070,height-580,imgsize-974819,overlay-economictimes/photo.jpg" alt="Virat Kohli"/>
             <h3>Recent News</h3>
-            <a href='https://navbharattimes.indiatimes.com/sports/cricket/india-vs-australia/virat-kohli-gets-out-8th-time-by-adam-zampa-in-ind-vs-aus-2nd-t20i-in-nagpur-watch-video/articleshow/94409716.cms'>
+            <a href='https://economictimes.indiatimes.com/news/new-updates/watch-virat-kohlis-celebration-with-rohit-sharma-tells-the-story/articleshow/94446190.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Virat Kohli vs Adam Zampa: कोहली की ऐसी कौन सी नस पकड़ बैठे हैं जम्पा ...</h3>
+                <h3>Watch: Virat Kohli&#39;s celebration with Rohit Sharma tells the story</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRO_Sqm85bPraGP3GQzX_lGHvOmHJ4yltKXhoeCrfaEKmADGZzocKV32RMu-nzpYj7ndqeNu5wp" alt="Virat Kohli vs Adam Zampa: कोहली की ऐसी कौन सी नस पकड़ बैठे हैं जम्पा ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Virat Kohli vs Adam Zampa: अब एडम जम्पा विराट कोहली को सबसे ज्यादा बार आउट करने वाले ऑस्ट्रेलियाई&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTzcF6Y7bd3gu-nxo2PwXH_t1_-wjhFYGcuR3KNZXQi_bMKMJFeuEPXU2FoEtcu2tWCSC_0sWYr" alt="Watch: Virat Kohli&#39;s celebration with Rohit Sharma tells the story" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Virat Kohli played a major role in India chasing down Australia&#39;s total in the series decider at Hyderabad.</p></div>
             </div>
-        </a><a href='https://www.hindustantimes.com/cricket/virat-kohli-shuts-rcb-rcb-chants-by-pointing-toward-india-logo-in-india-vs-australia-2nd-t20i-harshal-patel-in-splits-watch-video-101664004462397.html'>
+        </a><a href='https://www.royalchallengers.com/rcb-cricket-news/news/i-am-working-hard-on-my-process-virat-kohli'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Watch: Virat Kohli shuts &#39;RCB, RCB&#39; chants by pointing toward India ...</h3>
+                <h3>I am working hard on my process: Virat Kohli</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSYy9FtYAju5V4cdb7h_SRu-GwfIiEi4Eb7RP11n98TLll0HEaLj_5eOV-aJ4Gv5sJYVeolFE73" alt="Watch: Virat Kohli shuts &#39;RCB, RCB&#39; chants by pointing toward India ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>When the capacity crowd at the VCA Stadium was chanting &quot;RCB! RCB!&quot; seeing Kohli in the dressing room waiting eagerly for the match to begin, Kohli pointed&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRFvbdVPtdw0sGT932dxBCX952CCikpIQ7fUVobOGwy_y8z9LYLCVP5-BCMpXcRKJgVWcUZbn63" alt="I am working hard on my process: Virat Kohli" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>After a silent couple of games, Virat Kohli roared back to life in the series decider against the Aussies as the former Indian skipper pumped out a&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.hindustantimes.com/cricket/virat-kohli-reacts-to-viral-photo-of-roger-federer-and-rafa-nadal-weeping-101664003999628.html'>
+        </a><a href='https://www.amarujala.com/photo-gallery/cricket/cricket-news/sanju-samson-deepak-hooda-and-sreysh-iyer-career-was-destroyed-due-to-virat-kohli'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Virat Kohli reacts to viral photo of Federer and Nadal weeping</h3>
+                <h3>Virat Kohli: विराट कोहली की वजह से खत्म हो रहा इन तीन खिलाड़ियों का ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQZlz5N3QxYVdZnnKACtrEmmJ8updHu8CNQUQK3yxSIcrcstZRwyBAdO_v4D4h1mVZvFVg9kie2" alt="Virat Kohli reacts to viral photo of Federer and Nadal weeping" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Roger Federer bid an emotional goodbye to the sport after losing the double&#39;s tie against Frances Tiafoe and Jack Sock, which saw the 20-time Grand Slam&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT7YnsZQC_sNBnt0rmFjj-2V7uEmRx6s3Xcd2VKfi7DMz_FxzJTAAIERiiLKj6_7LpbbDO5RMty" alt="Virat Kohli: विराट कोहली की वजह से खत्म हो रहा इन तीन खिलाड़ियों का ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>लगभग पिछले 10 वर्षों से विराट कोहली भारतीय टीम के नियमित सदस्य हैं। वह लगातार भारत को मैच&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.indiatoday.in/sports/tennis/story/virat-kohli-shares-image-of-rafael-nadal-crying-for-roger-federer-most-beautiful-sporting-picture-for-me-2004222-2022-09-24'>
+        </a><a href='https://english.jagran.com/cricket/virat-kohli-rohit-sharmas-reaction-to-indias-last-over-win-is-epic-watch-10050225'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Virat Kohli shares image of Rafael Nadal crying for Roger Federer ...</h3>
+                <h3>Virat Kohli, Rohit Sharma&#39;s Reaction To India&#39;s Last Over Win Is Epic ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQWhX8cRMkeBBEb6RVv0uKx4G4qvfuFilmzjMRZo0OKYqimMw_t_cQuvJQqioKIBEUlXD8yIQN2" alt="Virat Kohli shares image of Rafael Nadal crying for Roger Federer ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Virat Kohli shared the emotional picture of on-court rivals Roger Federer and Rafael Nadal, saying it is the most beautiful sporting picture for him.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTfoG4M-UVaujuJcoUq-rj3B7t52A0Oxlsf_LRArj_4-n9HuoBjGIWAZM0SLsCT7vIyu5Ou0-EI" alt="Virat Kohli, Rohit Sharma&#39;s Reaction To India&#39;s Last Over Win Is Epic ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The celebration of Rohit and Virat is going viral on social media as both the batters were seen shouting and smiling while patting each other&#39;s back after&nbsp;...</p></div>
             </div>
-        </a><a href='https://zeenews.india.com/hindi/sports/cricket/adam-zampa-took-wicket-of-virat-kohli-8th-time-in-limited-overs-ind-vs-aus-2nd-t20i-at-nagpur/1365253'>
+        </a><a href='https://indianexpress.com/article/sports/cricket/watch-rohit-sharma-and-virat-kohli-break-into-wild-celebration-after-hardik-pandya-hits-winning-boundary-8173171/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Virat Kohli: विराट को एडम जम्पा के सामने क्या हो जाता है? नागपुर में भी ...</h3>
+                <h3>Watch: Rohit Sharma and Virat Kohli break into wild celebration after ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSpecvX9Rgmx_SC_OB9xp1w88rHPN24P920EKevM3lkrs_X7l7AIwn30xLg7x2oKE-gsgQhO1Bq" alt="Virat Kohli: विराट को एडम जम्पा के सामने क्या हो जाता है? नागपुर में भी ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>विराट कोहली की गिनती मौजूदा दौर के सर्वश्रेष्ठ बल्लेबाजों में होती है. टीम इंडिया के&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS3hEyin1K5N3PFDnGiAVKSY6e2fy46Ys-pxcwJlKDQLFz1tc30vpnEgcaAeKmT8KD2LpEhrNIo" alt="Watch: Rohit Sharma and Virat Kohli break into wild celebration after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>India beat Australia by six wickets in Sunday&#39;s third and final T20I in Hyderabad. With the win, India sealed their first home T20 series victory against&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.wionews.com/sports/most-beautiful-sporting-picture-ever-virat-kohli-on-image-of-rafael-nadal-crying-alongside-roger-federer-519233'>
+        </a><a href='https://www.firstpost.com/firstcricket/sports-news/watch-virat-kohli-rohit-sharmas-wild-celebrations-as-india-win-t20i-series-against-australia-11332281.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Most beautiful sporting picture ever: Virat Kohli on image of Rafael ...</h3>
+                <h3>Virat Kohli, Rohit Sharma&#39;s epic celebration as India beat Australia</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQOAS-neGNns7egDGy1XqHZglD7SIlEq-s6gZHjKASfYwk3C0LlMotylXjT-v9KqZcqZuK3sfVE" alt="Most beautiful sporting picture ever: Virat Kohli on image of Rafael ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Indian cricket team superstar Virat Kohli shared a picture of Rafael Nadal crying alongside his rival Roger Federer at his final career match calling it the&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSXJTN20yBpHMTfBw8pRjvKahUJQjAhk8C3deA2-unRXRK97BtlNWYvI-bfkfGg8YKRDsBmirrR" alt="Virat Kohli, Rohit Sharma&#39;s epic celebration as India beat Australia" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Virat Kohli and Rohit Sharma celebrated India&#39;s T20I series win over Australia with an epic reaction that has gone viral on Twitter.</p></div>
             </div>
-        </a><a href='https://zeenews.india.com/cricket/virat-kohli-opens-up-on-viral-crying-roger-federer-rafael-nadal-pic-says-nothing-but-respect-for-these-2-2513756.html'>
+        </a><a href='https://www.jagran.com/cricket/bouncer-virat-kohli-king-kohli-is-the-most-successful-run-chase-master-of-t20i-and-he-has-scored-the-most-runs-in-the-world-with-an-average-of-more-than90-23099264.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Virat Kohli opens up on viral crying Roger Federer, Rafael Nadal ...</h3>
+                <h3>Virat Kohli: T20I के रन चेज मास्टर हैं किंग कोहली, 90 से ज्यादा की औसत ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ3RigRwqycBV8qBCyGj6pAUPsLdBZua7npL-CzhFC7HHnHgzCy-uWzxa_W-zGmYN-SBTUWovYI" alt="Virat Kohli opens up on viral crying Roger Federer, Rafael Nadal ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Nadal was a bundle of emotions during this whole time. He cried as much as retiring Federer. The picture of them went viral on the internet, leading to&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTeJ_ndsmNmSVRN6FmBuUUJe9-ZGxVQ3-0X_pYsMfgJyP5jmJ48A-6A7dUG2AaddYCKDOVD1bba" alt="Virat Kohli: T20I के रन चेज मास्टर हैं किंग कोहली, 90 से ज्यादा की औसत ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>विराट कोहली टी20 इंटरनेशनल क्रिकेट में सफल रन चेज करते हुए सबसे ज्यादा रन बनाने वाले&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.news18.com/cricketnext/news/watch-unimpressed-virat-kohli-points-to-his-india-jersey-after-fans-chant-rcb-rcb-in-nagpur-6028831.html'>
+        </a><a href='https://www.abplive.com/sports/cricket/virat-kohli-breaks-rahul-dravid-record-become-the-2nd-indian-with-most-runs-2224118'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Watch: Unimpressed Virat Kohli Points to His India Jersey After Fans ...</h3>
+                <h3>Virat Kohli ने राहुल द्रविड़ को पछाड़ा, सचिन के बाद सबसे ज्यादा रन बनाने ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQSYhlicAacTv4OiILY7dRotJktUkD2A2sGsY-Fd7QHfLj_zceSzcBQUDWiPm4M32-guSesCpSq" alt="Watch: Unimpressed Virat Kohli Points to His India Jersey After Fans ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Virat Kohli, Harshal Patel and Yuzvendra Chahal were chatting with each other as they awaited the start of 2nd T20I vs Australia when a bunch of fans began&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS-e-g0Mj-BvlzyuFFpFXYvsqt6vb87pxnIV9fjj4KNrbW0g_TLZyT7GGeQpEmKLiRI6nSiIA0H" alt="Virat Kohli ने राहुल द्रविड़ को पछाड़ा, सचिन के बाद सबसे ज्यादा रन बनाने ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>विराट कोहली ने अपनी 63 रन की पारी के साथ बेहद ही खास मुकाम हासिल किया है.</p></div>
             </div>
-        </a><a href='https://www.timesnownews.com/sports/cricket/watch-virat-kohli-redeems-himself-by-ending-cameron-greens-stay-with-direct-throw-after-dropping-his-catch-article-94409454'>
+        </a><a href='https://zeenews.india.com/cricket/ind-vs-aus-3rd-t20i-anushka-sharma-cant-keep-calm-as-chasemaster-virat-kohli-hits-another-fifty-posts-this-message-for-husband-check-2514640.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>WATCH: Virat Kohli redeems himself by ending Cameron Green&#39;s ...</h3>
+                <h3>Anushka Sharma posts THIS for husband Virat Kohli after Team ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSPObsWhm4agTPHcDQX18GvkWkrpWyJB1q1_RdMr1Gewiy1lh52HeXlM92dtd2OWnqTetN_frTH" alt="WATCH: Virat Kohli redeems himself by ending Cameron Green&#39;s ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Former Indian skipper Virat Kohli is one of the finest fielders in the Indian team. The 33-year-old on Friday (September 23) during the second T20I against&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ1ylEh7CQ_seJARuR4SyLrvVmMt5yllCZq9yFQLaiMcFgkP0nGdGgcGbg9Ytqf2GEiFyrsMh4h" alt="Anushka Sharma posts THIS for husband Virat Kohli after Team ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Now, Kohli has 16004 runs across T20I and ODI formats. These runs have come in 369 matches in white-ball cricket across 352 innings at an average of 55.95.</p></div>
             </div>
-        </a><a href='https://www.news18.com/cricketnext/news/ind-vs-aus-virat-kohli-drops-cameron-green-but-redeems-himself-with-sharp-throw-watch-6025117.html'>
+        </a><a href='https://www.aajtak.in/sports/cricket/story/virat-kohli-rohit-sharma-hug-celebration-india-vs-australia-t20-viral-video-tspo-1544549-2022-09-26'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>IND vs AUS: Virat Kohli Drops Cameron Green, But Redeems ...</h3>
+                <h3>Virat Kohli-Rohit Sharma: फिफ्टी पर शाबाशी, जीत पर झप्पी... रोहित ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSbyH3GrxGzB_wdcj7xm30lVQpWwTS7OW3lrqUGl0AczwEBViDeIV8SqXnc9e0mCfS7JpykxiLR" alt="IND vs AUS: Virat Kohli Drops Cameron Green, But Redeems ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Kohli, however, redeemed himself in the next delivery when his quick throw helped Axar to dislodge the stumps and end Green&#39;s stay.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSxGk7LCM3LcCixf1nIJgii0s9qWAohUTfDguYDgqiRVoNj7zcpRM4-3je0nrxnM6kC7dCMhMw7" alt="Virat Kohli-Rohit Sharma: फिफ्टी पर शाबाशी, जीत पर झप्पी... रोहित ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>भारतीय टीम ने ऑस्ट्रेलिया को तीसरे टी-20 में 6 विकेट से हराकर सीरीज़ अपने नाम कर ली है.</p></div>
             </div>
         </a>
         </Template></>;

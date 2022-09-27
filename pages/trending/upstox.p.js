@@ -17,7 +17,7 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Zerodha, Upstox users report login issues on volatile trading day ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRTX8TfeB_MsS_uht_j6R83QI0S06wnyu3oZS5TJzpWj96C-cCz6swoNYIP3TNfkq1Vx76Elr75" alt="Zerodha, Upstox users report login issues on volatile trading day ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcScPHLFoQ6UeLYFDK6q2qnSn_ilnFN2lMZ46Gswhzfr-s6FbFe78eoIhp0I9Sf2OxWSsZqyG5Xi" alt="Zerodha, Upstox users report login issues on volatile trading day ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Users took to Twitter and shared their grievances. Upstox said the login issues have since been resolved.</p></div>
             </div>
         </a><a href='https://www.moneycontrol.com/news/business/markets/upstox-trading-platform-down-for-an-hour-users-complain-of-losses-9230731.html'>

@@ -20,12 +20,12 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS_sZW4z0KrHugW2YJjCNqZ3665JQfzzjlMg1gwxvNfDazPbGjePDsTNnw1TJZUIX_fFALpgx-V" alt="India Legends vs Bangladesh Legends Highlights, Road Safety ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>India Legends vs Bangladesh Legends Live Score, Road Safety World Series 2022 Updates: Check here for all the live score, live match text updates from IND-L&nbsp;...</p></div>
             </div>
-        </a><a href='https://zeenews.india.com/cricket/india-legends-vs-bangladesh-legends-live-streaming-when-and-where-to-watch-ind-l-vs-ban-l-in-road-safety-world-series-t20-2022-in-india-on-tv-and-online-2514150.html'>
+        </a><a href='https://zeenews.india.com/cricket/live-updates/highlights-india-legends-vs-bangladesh-legends-road-safety-world-series-2022-t20-cricket-match-score-and-updates-match-ends-with-no-result-2514161'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>India Legends vs Bangladesh Legends Live Streaming: When and ...</h3>
+                <h3>Highlights India Legends vs Bangladesh Legends Road Safety ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTE5ofzAGlFBCy8qDFYNrASr4ag9fk2q_gcN1XITPUKkZHjuCDsqHUQmf8uP7WIDKy8OWi6RpX7" alt="India Legends vs Bangladesh Legends Live Streaming: When and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Here is all you need to know about India Legends vs Bangladesh Legends in the Road Safety World Series T20 2022.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQk6xUyH7mJpZFDu9PY2QzbJLGLCoumco7ePY_h1q3VAKaYXEKepk2LUqFFskMmV5T7QvQ8H7Mf" alt="Highlights India Legends vs Bangladesh Legends Road Safety ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Sachin Tendulkar-led India Legends will face Bangladesh Legends in match no. 18th of the ongoing Road Safety World Series T20 2022 at the Rajiv Gandhi&nbsp;...</p></div>
             </div>
         </a><a href='https://www.insidesport.in/ind-l-vs-ban-l-highlights-india-legends-bangladesh-legends-match-abandoned-sachin-tendulkar-team-india-qualifies-for-semis-watch-rsws-2022-highlights/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -34,6 +34,13 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR_1NYwtON3HsZnLUHEwgUBTcBlYWtx9vOZwr_4QNs8A94Tq4zEMtIUrXsAr5pdof5EkpTL1Cpm" alt="IND-L vs BAN-L Highlights: India-legends &amp; Bangladesh-Legends ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>IND-L vs BAN-L Highlights: India-legends &amp; Bangladesh-Legends share spoils as rain plays SPOILSPORT, Watch RSWS 2022 Highlights, Road Safety World Series.</p></div>
             </div>
+        </a><a href='https://m.cricbuzz.com/cricket-commentary/52652/banl-vs-indl-18th-match-road-safety-world-series-t20-2022'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>India Legends vs Bangladesh Legends, 18th Match, Road Safety ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="" alt="India Legends vs Bangladesh Legends, 18th Match, Road Safety ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Follow India Legends vs Bangladesh Legends, 18th Match, Sep 25, Road Safety World Series T20 2022 with live Cricket score, ball by ball commentary updates&nbsp;...</p></div>
+            </div>
         </a><a href='https://cricketaddictor.com/cricket-news/india-legends-vs-bangladesh-legends-live-streaming-details-live-telecast-channel-in-india-road-safety-world-series-2022-match-18/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>India Legends vs Bangladesh Legends Live Streaming Details, Live ...</h3>
@@ -41,12 +48,12 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRZ8X6fHQ3yOz5fwPlft3YeekSIgSTo4TPcE7DwfMIMbbC0t9QBw6UNMX58E1zD8u61bRzxO7nf" alt="India Legends vs Bangladesh Legends Live Streaming Details, Live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>India Legends vs Bangladesh Legends Live Streaming Details, Live Telecast Channel In India. Road Safety World Series 2022 Match 18.</p></div>
             </div>
-        </a><a href='https://www.republicworld.com/sports-news/cricket-news/india-legends-vs-bangladesh-legends-in-l-vs-bn-l-dream11-prediction-fantasy-tips-and-more-articleshow.html'>
+        </a><a href='https://www.latestly.com/sports/cricket/india-legends-vs-bangladesh-legends-road-safety-world-series-2022-live-streaming-online-on-voot-get-free-telecast-details-of-ind-l-vs-ban-l-cricket-match-with-timing-in-ist-4247534.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>India Legends vs Bangladesh Legends: IN-L vs BN-L Dream11 ...</h3>
+                <h3>India Legends vs Bangladesh Legends, Road Safety World Series ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRPK9APGyAZTDPVQAc52d7JwYHl4fALYsjSuCpMo3a2E3vBAtDMR7aJMZt3gQ7LL-3HXIzSFtCk" alt="India Legends vs Bangladesh Legends: IN-L vs BN-L Dream11 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The match is scheduled to be played at Rajiv Gandhi International Cricket Stadium, Dehradun and will start at 7:30 pm IST. India Legends are currently second on&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTw3vKbpu4U87wKsKs3TMD9JXQ7s1Dk60By4gAlXF0REXmfvqExe_AYPeEh_YQ-Xs3eBPf11-Sr" alt="India Legends vs Bangladesh Legends, Road Safety World Series ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Sachin Tendulkar&#39;s side have made a decent start to their campaign in the Road Safety World Series this season as they have won the two games that have been&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
