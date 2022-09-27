@@ -32,7 +32,7 @@ export default function Page() {
                 <h3>DID Super Moms 2022 Winner, 1st Runner-up Name, Prize Money ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTfzUzo1IlAa53iN2SiEnbbZf6Th-g4iZH3QExNkNEDEwNK7Btv1WtRfpPeAcVgdK_RHjQey8CD" alt="DID Super Moms 2022 Winner, 1st Runner-up Name, Prize Money ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>This season of Dance India Dance for mothers started on 2nd July 2022 with 12 contestants who were mentored by their choreographers. From these 12 dancers, we&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Zee TV&#39;s dance reality show DID Super Moms 2022 (Season 3) reached the grand finale with top 6 finalists. This season of Dance India Dance for mothers&nbsp;...</p></div>
             </div>
         </a><a href='https://www.indiatoday.in/television/reality-tv/story/did-super-moms-winner-is-varsha-bumra-takes-home-the-trophy-and-rs-7-5-lakh-prize-money-2004593-2022-09-25'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -55,12 +55,12 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ9QMKyB86GX4VBU67rAG6CqtbAFj3Bih4BV6QOtl5cKh9ZgkrEEVSqRS363__FVgS38jqTvQCq" alt="DID Super Moms Season 3 Winner: Varsha Bumra Wins The Title ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>On Sunday, Varsha Bumra won the dance reality show, taking home the trophy and Rs 5 lakh in cash and a sponsored cheque of Rs 2.5 lakh.</p></div>
             </div>
-        </a><a href='https://www.adgully.com/varsha-bumra-is-crowned-winner-of-did-super-moms-season-3-123109.html'>
+        </a><a href='https://www.bollywoodhungama.com/news/bollywood/varsha-bumra-haryana-wins-super-moms-season-3/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Varsha Bumra is crowned winner of DID Super Moms Season 3</h3>
+                <h3>Varsha Bumra from Haryana wins DID Super Moms Season 3</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS2gHLtlNpJqIPF8s9zFNueGWBV-C8cEtaf7scNXV4j1RWw4SAOIogAXblyrl7UmAa_jKawk8o-" alt="Varsha Bumra is crowned winner of DID Super Moms Season 3" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Finale episode saw excitement hit the roof with the presence of special guests Rashmika Mandana, Neena Gupta and Govinda along with judges - Remo D&#39;Souza,&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTWR_JfVm7taGeVAHks_58nGGIHltZTVvz0tW3_cJ5WMrYz92lHBG1UE8dQ_53h7yd2ytLCh_iH" alt="Varsha Bumra from Haryana wins DID Super Moms Season 3" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The finale episode saw a host of special guests like Rashmika Mandanna, Neena Gupta and Govinda who entertained the audiences along with the judges Remo D&#39;Souza&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
