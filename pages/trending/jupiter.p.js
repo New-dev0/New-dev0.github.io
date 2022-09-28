@@ -11,49 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Jupiter"/>
         <meta name="description" content="Trending News about Jupiter" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Jupiter</h1>
-            <Image width={800} height={500} src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202209/Jupiter_1_3-647x363.jpeg?M_xv1NLg0U_gv.NuUNcCYCN47KccQGiD" alt="Jupiter"/>
+            <Image width={800} height={500} src="https://th-i.thgim.com/public/incoming/dioxyn/article65940902.ece/alternates/LANDSCAPE_615/AP08_23_2022_000061A.jpg" alt="Jupiter"/>
             <h3>Recent News</h3>
-            <a href='https://www.indiatoday.in/science/story/watch-live-jupiter-comes-closest-to-earth-in-59-years-it-won-t-for-next-107-years-2005006-2022-09-26'>
+            <a href='https://www.thehindu.com/sci-tech/science/jupiter-makes-closest-approach-to-earth-in-59-years/article65940914.ece'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Jupiter makes closest approach to Earth in 59 years</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRjq4Y58vgibSqb5d0bBmouYqSDOxPWuBk9Wobmcntru4xbab3_hE50emXTmQ8t1DLLnB8McLrH" alt="Jupiter makes closest approach to Earth in 59 years" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>With an orbit that takes 12 years to complete, the gas giant is approximately 600 million miles (965.6 million km) away from Earth at its farthest point. It&nbsp;...</p></div>
+            </div>
+        </a><a href='https://astronomy.com/magazine/news/2022/09/hail-to-the-king'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Jupiter reaches its biggest and brightest in nearly 60 years</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQZh0qB1Ieunch3BVW8f5RQX3KWJgjC6xRXqco_RgwtfqekaWlUl6vMyfRW8DTeh_lbiNI_4A-w" alt="Jupiter reaches its biggest and brightest in nearly 60 years" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The shadow of Ganymede falls across Jupiter in this image taken by NASA&#39;s Juno probe. The shadow seems especially large in this image because of how close&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.siasat.com/stargazers-capture-jupiter-its-4-moons-in-rare-closest-date-with-earth-2422041/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Stargazers capture Jupiter, its 4 moons in rare closest date with Earth</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT3VG2C2AjJj1nOoClbrt6gxQOmsZoR4hLq_dhos-PpCI2jbqzS0AKovQCgQHW8np4q0tLKGCc1" alt="Stargazers capture Jupiter, its 4 moons in rare closest date with Earth" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Stargazers across the world were left mesmerised when they caught the closest glimpse of the giant gas planet with its four moons some lucky souls saw it&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.livehindustan.com/astrology/story-jupiter-2022-today-jupiter-and-earth-will-be-close-together-this-is-happening-for-the-first-time-in-59-years-know-for-which-zodiac-sign-lucky-7141331.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Jupiter 2022: वक्री गुरु आज धरती के होंगे पास, 59 साल में हो रहा पहली बार ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTSMcYSEiQ7tiIRv5Mz8tg9dhG44GD78wDihx22E1v1CFOx4F2JqGH_3xMNLdWWKXoXfjBjU66f" alt="Jupiter 2022: वक्री गुरु आज धरती के होंगे पास, 59 साल में हो रहा पहली बार ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>आज गुरु ग्रह पृथ्वी के बेहद करीब होंगे। यह खगोलीय घटना करीब 50 सालों बाद हो रही है।</p></div>
+            </div>
+        </a><a href='https://www.travelandleisureindia.in/insight/what-you-need-to-know/jupiter-sighting-from-earth/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Jupiter Will Be Closer to Earth Than It Has Been in 59 Years Tonight ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRX2sVEyAUZnIgP22etDIRdPFToeeZRaKjMsoz2AgFILNMZhxILyZ24tpariIwqZ_-XiRBDvGbO" alt="Jupiter Will Be Closer to Earth Than It Has Been in 59 Years Tonight ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Earth is passing right in between Jupiter and the sun, resulting in a sighting of the planet known as the Red Giant.</p></div>
+            </div>
+        </a><a href='https://www.indiatoday.in/science/story/watch-live-jupiter-comes-closest-to-earth-in-59-years-it-won-t-for-next-107-years-2005006-2022-09-26'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>WATCH LIVE | Jupiter comes closest to Earth in 59 years, it won&#39;t for ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRB-zypjGe7jU7OAnkgosPGQ2em2YEDTzuSL5UDN6e_YB8cbvU1waYO3RSwLixq7dzEpTeBIE0d" alt="WATCH LIVE | Jupiter comes closest to Earth in 59 years, it won&#39;t for ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Jupiter is at its closest to the Sun in 59 years, making it an unmissable celestial event as the planet will not be this close for another 107 years.</p></div>
             </div>
-        </a><a href='https://www.business-standard.com/article/international/jupiter-to-be-closest-to-earth-in-59-years-today-here-s-how-to-watch-122092600823_1.html'>
+        </a><a href='https://www.indiatimes.com/technology/science-and-future/jupiter-is-currently-closest-to-earth-in-6-decades-580666.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Jupiter to be closest to Earth in 59 years today; heres how to watch</h3>
+                <h3>Jupiter Is Currently Closest To Earth In 6 Decades And You Can ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRsMGvvWoaKv35mTBw58QqGiaHtTMaryKyyw9XmtonYrlmV2r2uXZFpdeICCkcLHb9NApNvx-4b" alt="Jupiter to be closest to Earth in 59 years today; heres how to watch" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>According to the National Aeronautics and Space Administration (NASA), opposition occurs when any astronomical object rises in the east as the Sun and sets in&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS9peVwA-9euxpHhi_h0gev-s6klNfV1vrj-uHIPdSiKFTwI98ovNNi3dXNaRv5Dd9U5IqDvoqFGQ" alt="Jupiter Is Currently Closest To Earth In 6 Decades And You Can ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Jupiter is currently making its closest approach to Earth since 1963, and guess what? You can watch it in the night sky! The largest planet in our solar&nbsp;...</p></div>
             </div>
-        </a><a href='https://gizmodo.com/jupiter-closest-approach-binoculars-1849581096'>
+        </a><a href='https://www.jagran.com/news/national-nasa-juno-will-perform-close-flyby-of-jupiter-icy-moon-europa-23101644.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Look at Jupiter With Binoculars Tonight</h3>
+                <h3>Jupiter के विशाल चंद्रमा Europa के बेहद करीब से गुजरने वाला है नासा का ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSyJnnk706X4VSlcI_ICrK3nHFHKmGKNQWMse_7XgubrKTbDZCA078fIdrGABoNzdNzYo4fAx0D" alt="Look at Jupiter With Binoculars Tonight" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The gas giant is making its closest approach to Earth in 59 years.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS6coXHbG-qOBeS35o85XrW3Hp3qovfg--J0s5AV9irsN3JG-3rtq4BozDRXzHg9jVplL3hcCdQ" alt="Jupiter के विशाल चंद्रमा Europa के बेहद करीब से गुजरने वाला है नासा का ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>29 सितंबर को नासा का स्‍पेसक्राफ्ट जूनो सौरमंडल के सबसे बड़े ग्रह जूपिटर के सबसे बड़े&nbsp;...</p></div>
             </div>
-        </a><a href='https://youthistaan.com/the-wait-of-59-years-is-over-jupiter-came-close-to-the-earth-now-this-wonderful-sight-will-be-seen-after-107-years/'>
+        </a><a href='https://telugu.news18.com/news/business/tvs-motor-company-launched-tvs-jupiter-classic-know-price-and-features-ss-1452524.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>The wait of 59 years is over, Jupiter came close to the earth, now this ...</h3>
+                <h3>TVS Jupiter Classic: కొత్త జ్యుపిటర్ వచ్చేసింది... ధర, ఫీచర్స్ వివరాలివే</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRGqLSzK55OadjXN7fYQsV2v7smmYmOignMidxs87dd_Z_oeI3d1M7eRCMGkO1puLTTMwLt9Aq5" alt="The wait of 59 years is over, Jupiter came close to the earth, now this ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>This is a good news for the people interested in the field of space. Jupiter (Jupiter), the largest planet in the solar system, has come very close to the&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQsqigClWD8XgKiBqFPDtKhw1SXcjsZ5QaA5xgYU7429UPNsUaBvKomgqi-CZV2bgAWbz7APV6F" alt="TVS Jupiter Classic: కొత్త జ్యుపిటర్ వచ్చేసింది... ధర, ఫీచర్స్ వివరాలివే" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>టీవీఎస్ మోటార్ కంపెనీ జ్యుపిటర్ క్లాసిక్ (Jupiter Classic) పేరుతో కొత్త మోడల్ లాంఛ్ చేసింది.</p></div>
             </div>
-        </a><a href='https://newsroomodisha.com/dont-miss-jupiters-closest-date-with-earth-in-59-years/'>
+        </a><a href='https://indiaeducationdiary.in/leiden-university-jupiter-steals-the-show-in-cloudy-night-skies/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Don&#39;t miss Jupiter&#39;s closest date with Earth in 59 years | News Room ...</h3>
+                <h3>Leiden University: Jupiter steals the show in cloudy night skies</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSu1SNVTDhjuuphhPILkP2mVVNsFvR18vIU6bzy7Q2OM5VnN7Ry_-rh1L00ob5xbbmgEtlsGNIJ" alt="Don&#39;t miss Jupiter&#39;s closest date with Earth in 59 years | News Room ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>“Stargazers: Jupiter will make its closest approach to Earth in 59 years! Weather-permitting, expect excellent views on September 26. A good pair of binoculars&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.deseret.com/2022/9/26/23373649/jupiter-closest-to-earth-time-nasa'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>How to observe planet Jupiter Monday night?</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="" alt="How to observe planet Jupiter Monday night?" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Planet Jupiter is passing by Earth and coming the closest it&#39;s been in 59 years on Monday. This will happen as the sun, Earth and Jupiter align in a&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSddMcyneB3keowe2xbIBLFhrOzCW1g87QNrYNVKv2DEM0iyM8kVfOWycv3ZdRysV9roPSZKlsB" alt="Leiden University: Jupiter steals the show in cloudy night skies" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>After months of preparation, the moment of truth had arrived: would the skies above Leiden clear for the promised glitzy planet-and-star show?</p></div>
             </div>
         </a>
         </Template></>;
