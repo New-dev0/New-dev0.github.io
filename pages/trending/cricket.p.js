@@ -7,79 +7,53 @@ import Image from "next/image";
 export default function Page() {
     const md = useMediaQuery(960);
     return <><Head>
-        <title>Cricket</title></Head><Template>
+        <title>Cricket</title>
+        <meta name="keywords" content="news,trending,latest,sports,breaking,top,Cricket"/>
+        <meta name="description" content="Trending News about Cricket" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Cricket</h1>
             <Image width={800} height={500} src="" alt="Cricket"/>
             <h3>Recent News</h3>
-            <a href='https://www.usacricket.org/media-release/notice-of-usa-cricket-agm-2022/'>
+            <a href='https://www.hindustantimes.com/cricket/is-cricket-taking-root-in-the-northeast-101664367629311.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Notice of USA Cricket AGM 2022 - USA Cricket</h3>
+                <h3>Is cricket taking root in the NorthEast?</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR_61Zd1I5CDcyuPjEF9GtHFHEzn9plpRiUJeSPcL_IrJnkiP6VU-Thbe1DhhUVD5DhWwXtasXn" alt="Notice of USA Cricket AGM 2022 - USA Cricket" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>In accordance with the USA Cricket constitution, the 2022 Annual General Meeting of USA Cricket, will be held on Sunday, October 9th, at 3pm PST/6pm EST.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRDhKLHfy51YnpCO4xxnCebavrzjVDgSOSpwWIPAvbCmy2apgcjCs0VPgpr4Qgq-qIVmRiqmHUR" alt="Is cricket taking root in the NorthEast?" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>For Hokaito Zhimomi and the Nagaland players, the pre-quarterfinal of the 2021/22 Ranji Trophy in March quickly turned from a promising opportunity to an&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.icc-cricket.com/media-releases/2800653'>
+        </a><a href='https://www.dailypioneer.com/2022/columnists/durand-faultlines-on-cricket-pitch.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ICC U19 Men&#39;s Cricket World Cup 2024 Qualification continues as ...</h3>
+                <h3>Durand faultlines on cricket pitch</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQHdwGLmWWlP4VMDtUk0MlVBfRHV_OpA5WmtSIjXk0eqQwkhrtJnjPhnI1QGl2k4eNrGKxx_VcC" alt="ICC U19 Men&#39;s Cricket World Cup 2024 Qualification continues as ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ICC U19 Men&#39;s Cricket World Cup Asia Division 2 Qualifier takes place in Oman from 29 September to 7 October; Eight teams will compete for two places in the&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSia8prA55JmCNCTxisUvn1HJ6VmVW_M_4Bo5RcmCEq9iwrUjj0Qyv6qYwolMgmQSfFCPtEEaZ6" alt="Durand faultlines on cricket pitch" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>When the former Pakistani speedster and motor-mouth Shoaib Akhtar railed against the ostensible behaviour of Afghan players and fans in the recent Asia Cup&nbsp;...</p></div>
             </div>
-        </a><a href='https://zeenews.india.com/hindi/sports/cricket/photo-gallery-cricket-most-unique-records-and-stats-chris-gayle-sourav-ganguly-sunil-gavaskar/1365204'>
+        </a><a href='https://www.dailythanthi.com/Sports/Cricket/irani-cup-cricket-hanuma-vihari-captains-rest-of-india-803474'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Cricket Records: क्रिकेट इतिहास के सबसे अजीबोगरीब रिकॉर्ड्स, सालों से ...</h3>
+                <h3>இரானி கோப்பை கிரிக்கெட்: ரெஸ்ட் ஆப் இந்தியா ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSxpmZe2tAeXVyClEW4VVH-VDnlbCWMq15K-jq4cI7k1G2nkh3Ol3crwjU0qB3qBG3ztbySPvJL" alt="Cricket Records: क्रिकेट इतिहास के सबसे अजीबोगरीब रिकॉर्ड्स, सालों से ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cricket Most Unique Records: खिलाड़ियों की दुनिया रिकॉर्ड्स के इर्द-गिर्द घूमती है. क्रिकेट में कई&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTLFGZ0jXJDjocVQQd1h5h-ovgatzDs0ucTWwIaQPZFLcE8MYJe36pJzuLUItNF9_h-plXLF1T5" alt="இரானி கோப்பை கிரிக்கெட்: ரெஸ்ட் ஆப் இந்தியா ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>இரானி கோப்பை கிரிக்கெட் போட்டியில் ரெஸ்ட் ஆப் இந்தியா அணிக்கு ஹனுமா விஹாரி கேப்டனாக&nbsp;...</p></div>
             </div>
-        </a><a href='https://zeenews.india.com/telugu/sports/legends-league-cricket-viewership-legends-league-cricket-2022-recorded-16-million-plus-unique-viewers-in-india-77254'>
+        </a><a href='https://www.cricket.com.au/news/str8bat-cricket-technology-batting-360-view-real-time-analysis-players-coaches/2022-09-29'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Legends League Cricket Viewership: రికార్డ్ బ్రేకింగ్ వ్యూవర్‌షిప్‌ను ...</h3>
+                <h3>Radical technology to unlock data insights for batters</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRBJU7OuBvTLISyYkhav6vJ5ObF6t9ex6LYGzm5oXLlhbUiCAiKeddiXViN0sjUKL1MQH3VeoY0" alt="Legends League Cricket Viewership: రికార్డ్ బ్రేకింగ్ వ్యూవర్‌షిప్‌ను ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Legends League Cricket 2022 Hits Record-breaking Viewership. భారత్‌లో జరుగుతున్న లెజెండ్స్‌ లీగ్‌ క్రికెట్ 2022&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQO8K6peIioVQ0KH7SSbOgfZeVKT8il_eyHoYgEZa9reQC0bmDtJmV-cO2Cecf6y5zYki18vSpj" alt="Radical technology to unlock data insights for batters" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cricket Australia has announced a partnership with str8bat, which gives players and coaches from juniors to the elite level a 360-degree view of every shot&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.eenadu.net/telugu-news/sports/legends-league-cricket-hits-recordbreaking-viewership/0400/122181945'>
+        </a><a href='https://www.theguardian.com/sport/2022/sep/28/county-cricket-2022-awards-the-spins-final-word-on-the-season'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Legends League Cricket: వ్యూవర్‌షిప్‌లో దూసుకుపోతున్న లెజెండ్స్‌ ...</h3>
+                <h3>County cricket 2022 awards: the Spin&#39;s final word on the season</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRH2SA5EVtFLquiXyuUudfC_JhzRTWlVczj9DkPihPP1lcO_wx5es14GYOPX7nfnAM6f4_oEPN3" alt="Legends League Cricket: వ్యూవర్‌షిప్‌లో దూసుకుపోతున్న లెజెండ్స్‌ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>క్రికెట్ దిగ్గజం సచిన్‌ తెందూల్కర్‌ సహా దేశ విదేశాలకు చెందిన ఎందరో మహామహులు&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQbe1V2v_AdQ3pXens_Uw8R-YZtLfY36rgSD3lNBG_9f0noAefICHP00A_yRCvlni36jdjHIjTQ" alt="County cricket 2022 awards: the Spin&#39;s final word on the season" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Spin dishes out the gongs to the best, worst, and most memorable events of the 2022 Championship season.</p></div>
             </div>
-        </a><a href='https://www.jagran.com/uttar-pradesh/moradabad-city-three-players-of-moradabad-division-selected-in-up-under-19-cricket-team-23094187.html'>
+        </a><a href='https://www.hindutamil.in/news/sports/875787-sai-kishore-named-in-irani-cup-cricket-rest-of-india-squad.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Moradabad News: यूपी अंडर-19 क्रिकेट टीम में मुरादाबाद मंडल के तीन ...</h3>
+                <h3>இரானி கோப்பை கிரிக்கெட் - ரெஸ்ட் ஆஃப் இந்தியா ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQXpGRW2HWHT7ms1321JqvTvbmXG3lxwcsrbmL_eVm3k2HZh3cFwU55MVKFX0ltGVso0YKDPB79" alt="Moradabad News: यूपी अंडर-19 क्रिकेट टीम में मुरादाबाद मंडल के तीन ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>UP Under-19 Cricket Team उत्तर-प्रदेश क्रिकेट एसोसिएशन द्वारा यूपी अंडर-19 की टीम का चयन किया गया&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.amarujala.com/uttar-pradesh/siddharthnagar/district-cricket-team-become-winner-siddharthnagar-news-gkp4515594196'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>जिले की क्रिकेट टीम ने मंडल में मारी बाजी</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ1yYQDgfNXUU3yB2Y_y7QfgRdDgHdxfXxaw3E26Iu-Ak8hVMFeKFl1SaERQPAqtfWFU1HXSopL" alt="जिले की क्रिकेट टीम ने मंडल में मारी बाजी" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>निर्णायक के रूप में स्पर्श वर्मा, सुनील चौरसिया, दौलत बाबू गुप्ता, लव सिंह, राजकुमार यादव&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.livehindustan.com/jharkhand/bokaro/story-rural-cricket-competition-will-be-organized-in-chas-7126957.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>चास में ग्रामीण क्रिकेट प्रतियोगिता का होगा आयोजन</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="" alt="चास में ग्रामीण क्रिकेट प्रतियोगिता का होगा आयोजन" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>चास। भारत जोड़ो यात्रा अभियान के तहत अंतर्गत प्रखंड ग्रामीण क्रिकेट प्रतियोगिता का&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.dailythanthi.com/News/State/prizes-for-winning-teams-in-cricket-matches-799556'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>கிரிக்கெட் போட்டியில் வெற்றி பெற்ற அணிகளுக்கு பரிசு</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTB0GXmh2h9UKnpWMajr2APbiObGxKkNRFtGJtpBYAuv8IgNf1aVSHTN5KZElFmYfeQdK20bWbB" alt="கிரிக்கெட் போட்டியில் வெற்றி பெற்ற அணிகளுக்கு பரிசு" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>மேலத்தானியத்தில் கிரிக்கெட் போட்டியில் வெற்றி பெற்ற அணிகளுக்கு பரிசு&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.enavabharat.com/sports/cricket/gujarat-giants-revealed-what-the-teams-fanatics-do-before-the-match-621822/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>मैच से पहले क्या &#39;टोटका&#39; करते हैं टीम के धुरंधर, गुजरात जायंट्स ने किया खुलासा</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRGDBbduRrMgEUKCbekRnJmwh933rQ1Aj3LCz_UwDibuansVMLadH4QiP_RheINdueahHa0Hg6L" alt="मैच से पहले क्या &#39;टोटका&#39; करते हैं टीम के धुरंधर, गुजरात जायंट्स ने किया खुलासा" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>गुजरात जायंट्स और मणिपाल टाइगर्स के बीच होने वाला मुकाबला रद्द हो गया।</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS8U5QIeKAgbX2WIjDpsMK5UJhZji-bfrH9LMmAyPuTr-2zPWDXoD5plF2tRO7QLCZQaNSG9z_J" alt="இரானி கோப்பை கிரிக்கெட் - ரெஸ்ட் ஆஃப் இந்தியா ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>அணி விவரம்: ஹனுமா விஹாரி (கேப்டன்), அபிமன்யு ஈஸ்வரன், பிரியங்க் பன்சால், மயங்க் அகர்வால்&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
