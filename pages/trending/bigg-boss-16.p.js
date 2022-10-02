@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Bigg Boss 16"/>
         <meta name="description" content="Trending News about Bigg Boss 16" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Bigg Boss 16</h1>
-            <Image width={800} height={500} src="https://images.indianexpress.com/2022/09/bigg-boss-16.jpg" alt="Bigg Boss 16"/>
+            <Image width={800} height={500} src="" alt="Bigg Boss 16"/>
             <h3>Recent News</h3>
-            <a href='https://indianexpress.com/article/entertainment/television/rapper-mc-stan-bigg-boss-2-marathi-winner-shiv-thakare-confirmed-for-bigg-boss-16-8178229/'>
+            <a href='https://www.amarujala.com/live/entertainment/television/bigg-boss-16-live-updates-salman-khan-show-contestants-nimrat-kaur-ahluwalia-colors-tv-voot'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Rapper MC Stan and Bigg Boss Marathi 2 winner Shiv Thakare ...</h3>
+                <h3>Bigg Boss 16 Live Updates: बेड को लेकर निमरत पर भड़कीं अर्चना ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR-XC0fx3qvDImqJPMKdeLt2i67tAbIbQdzaIuhDUVwmEwesjH0_Loh8sSSZHJzc9IQ4pNict73" alt="Rapper MC Stan and Bigg Boss Marathi 2 winner Shiv Thakare ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ahead of Bigg Boss 16 launch, here are two more name - MC Stan and Shiv Thakare , who have been confirmed as contestants.</p></div>
+                <Image src="" alt="Bigg Boss 16 Live Updates: बेड को लेकर निमरत पर भड़कीं अर्चना ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Bigg Boss 16 Live Updates: बिग बॉस के 16वें सीजन का आगाज हो गया है। शो के होस्ट सलमान खान उन सभी&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.siasat.com/bigg-boss-16-host-salman-khans-salary-net-worth-2022-2422843/'>
+        </a><a href='https://www.hindustantimes.com/entertainment/tv/bigg-boss-16-premiere-live-updates-salman-khan-set-to-kickstart-new-season-101664636278286.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bigg Boss 16 host Salman Khan&#39;s salary, net worth 2022</h3>
+                <h3>Bigg Boss 16 highligts: Sajid Khan joins show as contestant</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTLMPoJosf-wpU_oKgNG2SueFAk8ROxxET-zigzIh8KwF2EjS2uG_Wtr_3B9DowI1VRoJvMOUd5" alt="Bigg Boss 16 host Salman Khan&#39;s salary, net worth 2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mumbai: Salman Khan aka Bhaijaan, one of the richest actors of India, is currently making headlines for his upcoming show Bigg Boss 16 where he will be.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQzsMUbxyhjGYMovnQJGqm75zeNT70ioVTTkm7L8JlVb-65VzHIt0-kAxQK0A0AEGmHfTy0sloX" alt="Bigg Boss 16 highligts: Sajid Khan joins show as contestant" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Bigg Boss 16 premiere highlights: Sajid Khan, Tina Dutta, Sreejita, Sumbul Touqeer are the latest contestants on the show hosted by Salman Khan.</p></div>
             </div>
-        </a><a href='https://www.abplive.com/entertainment/television/rapper-mc-stan-to-participate-in-bigg-boss-16-2226149'>
+        </a><a href='https://indianexpress.com/article/entertainment/television/bigg-boss-16-live-updates-salman-khan-show-contestants-colors-tv-voot-8184157/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bigg Boss 16: रैपर MC Stan भी आ रहे हैं बिग बॉस के घर में, इन नामों पर ...</h3>
+                <h3>Bigg Boss 16 Live Updates: Shehnaaz Gill wishes Sajid Khan as he ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSq-YlBbgmTNJRKzwq2hv0wt9J2TAPqsYMaOLcr1COjw6EOHDIZT57rmlpgQ6s_f8QXXyj9hr35" alt="Bigg Boss 16: रैपर MC Stan भी आ रहे हैं बिग बॉस के घर में, इन नामों पर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Rapper MC Stan In Bigg Boss 16: सलमान खान (Salman Khan) बहुत जल्‍द अपना पॉपुलर रियलिटी शो &#39;बिग बॉस&#39; लेकर&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSaznHdV1Nsjb_ZHF4BOgkYgSOjr5SXWipS5LWYLGgOIJQwZ4j_61aeTMUcFybaddgQzVeY_C8x" alt="Bigg Boss 16 Live Updates: Shehnaaz Gill wishes Sajid Khan as he ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Bigg Boss 16 Live, Bigg Boss 16 Contestants List: Salman Khan introduces the celebrity contestants who will be locked up inside the Bigg Boss house for the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.jagran.com/entertainment/tv-bigg-boss-16-salman-khan-show-changes-in-theme-style-contestants-what-will-be-new-in-bigg-boss-23105944.html'>
+        </a><a href='https://www.prabhatkhabar.com/live/bigg-boss-16-live-updates-salman-khan-show-confirmed-contestants-photos-videos-colors-tv-voot-bud'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bigg Boss 16: इतिहास में पहली बार बिग बॉस में हो रहे हैं ये तीन बड़े बदलाव ...</h3>
+                <h3>Bigg Boss 16 Updates: सलमान खान के शो में इन कंटेस्टेंट्स ने ली ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTOitO0jV35i3Ab3WCwLpjnFfaWsH9Q8NH11PjoHkTdJz44bOssH5D2Sya8Dnl8JcH8IETiDOlY" alt="Bigg Boss 16: इतिहास में पहली बार बिग बॉस में हो रहे हैं ये तीन बड़े बदलाव ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Bigg Boss 16 Salman Khan Show टीवी इंडस्ट्री का सबसे मनोरंजक और कंट्रोवर्शियल रियलिटी शो बिग बॉस&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQSw_mHxceeSh1_7LKrHfebjNjTimxBErLJKZJBupVmmWhKjQp1mXijpyegrg_iKKGzQPnYejMi" alt="Bigg Boss 16 Updates: सलमान खान के शो में इन कंटेस्टेंट्स ने ली ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>शो के पहले कंटेस्टेंट अब्दु रोजिक हैं और सलमान ने कुछ दिनों पहले ही उनके नाम की घोषणा&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.aajtak.in/entertainment/television/story/bigg-boss-16-promo-salman-khan-mc-stan-rapper-abdu-rozik-confirm-contestant-tmovb-1545910-2022-09-28'>
+        </a><a href='https://www.businesstoday.in/trending/entertainment/story/bigg-boss-16-who-are-the-14-confirmed-contestants-348765-2022-10-01'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bigg Boss 16: जिस रैपर पर Ex गर्लफ्रेंड ने लगाये थे गंभीर आरोप, बिग बॉस ...</h3>
+                <h3>Bigg Boss 16: Who are the 14 confirmed contestants?</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQSN5bFpFLBkvtggp-BwB4yBi-y-wMMpXWIM0-m97DnoJu6j0OdZYt7hHSNywGwPncwWL2SyCvn" alt="Bigg Boss 16: जिस रैपर पर Ex गर्लफ्रेंड ने लगाये थे गंभीर आरोप, बिग बॉस ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>प्रोमो में कंटेस्टेंट बिग बॉस से ब्रो... ब्रो... ब्रो... स्टाइल में बात करता नजर आया.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQtQhOro2Bl2Y86A3nOZ-08YGuTZsZwcTplY-o1XWtx4qSxdwY3jFDq2ELk3HaSkppkw25HZWUT" alt="Bigg Boss 16: Who are the 14 confirmed contestants?" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The reality show&#39;s final 14 contestants have already entered the house and the shooting of the show has begun. Interestingly, Salman Khan is hosting show&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.jagran.com/entertainment/tv-bigg-boss-16-salman-khan-show-latest-video-on-air-time-and-date-of-bigg-boss-23104628.html'>
+        </a><a href='https://indianexpress.com/article/entertainment/television/meet-bigg-boss-16-contestant-sajid-khan-8183316/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bigg Boss 16: बिग बॉस में फिर भटकेगी राखी सावंत की आत्मा? उड़ेगी ...</h3>
+                <h3>Meet Bigg Boss 16 contestant, director Sajid Khan</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTfgSwgg-xGTc0fnZV0vMAQuQ9bvchHaKTHSRHJA9atd1dVyasG9j_JCSuUKpV6qMnkHi8dtOgE" alt="Bigg Boss 16: बिग बॉस में फिर भटकेगी राखी सावंत की आत्मा? उड़ेगी ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Bigg Boss 16 बिग बॉस 16 को लेकर जैसे-जैसे दिन बीतते जा रहे हैं फैंस का एक्साइटमेंट लेवल भी&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSA1-3811TvUdl2l5c50btSMGusi0HgA5DiFMwgl_dPltalHPEK9LRbyP_7MaodKMmHuIf3tzvE" alt="Meet Bigg Boss 16 contestant, director Sajid Khan" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>It&#39;s that time of the year when Bigg Boss returns and we stick to the small screen for hours together to watch how a string of contestants aka housemates&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.herzindagi.com/society-culture/who-is-abdu-rozik-bigg-boss-16-confirmed-contestant-article-209189'>
+        </a><a href='https://www.hindustantimes.com/entertainment/tv/bigg-boss-16-when-and-where-to-watch-the-salman-khan-show-101664607403286.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Who Is Abdu Rozik? Bigg Boss 16&#39;s Yet Another Confirmed Contestant</h3>
+                <h3>Bigg Boss 16: When and where to watch the Salman Khan show</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcScFysWc0fchMbVC9oPoXFz9Z2gI3C38RYFsjoLT9lfic6zrMjtjT9KK06dkyoiTiN-8gUyG8tt" alt="Who Is Abdu Rozik? Bigg Boss 16&#39;s Yet Another Confirmed Contestant" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Bigg Boss 16 is set to premiere on Colors this weekend, October 1, 2022. author-profile. Namrata Ganguly; Editorial. Published -28 Sep 2022, 14&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcROtBYCM5XTi0KFdgLgCDmfB4sGQFdkAVdp_Av2XdBMvFuVzqK4XWvfF9a-8YXyWONLhJwu4uD2" alt="Bigg Boss 16: When and where to watch the Salman Khan show" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Bigg Boss 16 will premiere on television on Saturday and will mark the return of Salman Khan as host for the 13th time. Here&#39;s all about the new season.</p></div>
             </div>
-        </a><a href='https://www.jagran.com/entertainment/tv-bigg-boss-contestants-monologues-which-went-viral-shehnaaz-gill-pooja-mishra-krk-hina-khan-dolly-bindra-bigg-boss-famous-dialogues-salman-khan-show-23104946.html'>
+        </a><a href='https://www.koimoi.com/bigg-boss/bigg-boss-16-sajid-khan-reveals-success-destroyed-him-adding-mera-credit-cheen-liya-gaya-netizens-react-horrible-to-see-metoo-convict/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bigg Boss 16: आइकॉनिक है शहनाज गिल का साडा कुत्ता टॉमी, डॉली बिंद्रा ...</h3>
+                <h3>Bigg Boss 16: Sajid Khan Reveals &#39;Success Destroyed&#39; Him Adding ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT4Q6IIotmO2BTbNkAV0ai7pa9-7k67iNHU2K1-o03ri-QfM0mpQPhibwIJELQACvU8bRaCL6ah" alt="Bigg Boss 16: आइकॉनिक है शहनाज गिल का साडा कुत्ता टॉमी, डॉली बिंद्रा ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Bigg Boss 16 Salman Khan Show बिग बॉस के घर में शहनाज गिल से लेकर डॉली बिंद्रा तक कई कंटेस्टेंट्स&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQBkL-QADJ7D1tns16DkIN-qXE03A35tzlRTNX1-13wFF_gIXyBPggXBwFtFZ0T0hKgkBM8ySf9" alt="Bigg Boss 16: Sajid Khan Reveals &#39;Success Destroyed&#39; Him Adding ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Bigg Boss 16: Sajid Khan opens up on facing lows in his career after #MeToo allegations, angry netizens troll him. Read on!</p></div>
             </div>
-        </a><a href='https://www.newsnationtv.com/specials/explainer/bigg-boss-16-meet-first-declared-contestant-abdu-rozik-from-tajikistan-308416.html'>
+        </a><a href='https://www.koimoi.com/bigg-boss/bigg-boss-16-sidharth-shuklas-fans-miss-the-late-actor-while-calling-his-journey-epic-labelling-him-as-goat-on-the-internet/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bigg Boss 16: अब्दू रोजिक... &#39;छोटा पैकेट बड़ा धमाका&#39; होंगे साबित, जाने कैसे</h3>
+                <h3>Bigg Boss 16: Sidharth Shukla&#39;s Fans Miss The Late Actor While ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSq84U2ll6gwM3AlOfai5HKq-iYxoAoKgltAHThLP3I1EFk5IFjoDMDwZX-HaunHATlHzYfIIKQ" alt="Bigg Boss 16: अब्दू रोजिक... &#39;छोटा पैकेट बड़ा धमाका&#39; होंगे साबित, जाने कैसे" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>अब्दू रोजिक का एक एव्लोड मीडिया के नाम से यू-ट्यूब चैनल है, जिसके 580k से अधिक&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRlJOQIKMvmGNnnU9sOIdMx-6rUrFJELbKDZniXEha8lSWVqEuEdJVAI3Zk8PU-Dlu1BGAP1VM8" alt="Bigg Boss 16: Sidharth Shukla&#39;s Fans Miss The Late Actor While ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Bigg Boss 16: Sidharth Shukla fans miss the late actor on social media while labelling him as GOAT. Read to know more.</p></div>
             </div>
-        </a><a href='https://english.jagran.com/entertainment/bigg-boss-16-confirmed-contestants-list-2022-with-photos-check-complete-list-here-10050422'>
+        </a><a href='https://www.indiatoday.in/television/reality-tv/story/bigg-boss-16-grand-premiere-live-updates-salman-khan-finally-kickstarts-new-season-2007237-2022-10-01'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bigg Boss 16 Confirmed Contestants: Abdu Rozik, Sumbul Toqueer ...</h3>
+                <h3>Bigg Boss 16 Grand Premiere Highlights: MeToo accused Sajid ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ3vxdBhAvdl29pf27kB_5wACDOTw5xNttYQNOl3M3ypRwjVhVOnrCihheiPMFKNw1FvL-wLfKo" alt="Bigg Boss 16 Confirmed Contestants: Abdu Rozik, Sumbul Toqueer ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Bigg Boss 16: Salman Khan&#39;s hosted show will go on air on October 1. The Weekend Ka Vaar episodes will air on Friday and Saturday.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTYKPLQni8VlBlzykBxMwAVedxUQuRcwtf4u4tQCE37a8gOr4gXaL9vOjx5neoQFuHJkOqToVHc" alt="Bigg Boss 16 Grand Premiere Highlights: MeToo accused Sajid ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Television&#39;s most popular reality show, Bigg Boss, has returned with its 16th season. Salman Khan, who returns as the host of the show,&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

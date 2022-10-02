@@ -11,56 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Bayern Munich"/>
         <meta name="description" content="Trending News about Bayern Munich" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Bayern Munich</h1>
-            <Image width={800} height={500} src="https://cdn.vox-cdn.com/thumbor/2reRfCSpvfp63CpIeNCgYP_jSzs=/0x7:3713x1951/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24069824/1429112682.jpg" alt="Bayern Munich"/>
+            <Image width={800} height={500} src="https://cdn.vox-cdn.com/thumbor/K8pijRgsn6mk4gTKS5n1wYXrN0g=/0x0:6151x3220/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24067054/1425771686.jpg" alt="Bayern Munich"/>
             <h3>Recent News</h3>
-            <a href='https://www.bavarianfootballworks.com/2022/9/30/23378655/match-awards-player-ratings-bayern-munich-win-bayer-leverkusen-bundesliga-kimmich-musiala-sane-mane'>
+            <a href='https://www.bavarianfootballworks.com/2022/10/1/23379845/alexander-nubel-bayern-munich-manuel-neuer-as-monaco-transfer-salihamidzic-nagelsmann-brazzo-muller'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Match awards from Bayern Munich&#39;s 4-0 win over Bayer Leverkusen</h3>
+                <h3>Alexander Nübel reiterates that he won&#39;t return to Bayern Munich if ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQCiISqKpKWKjvB7Jfj5rkZdT-_sfPCHF6v0qqy2MNU70dhoB7CDj0kPv0B8BaMtwZKaP4A7pa2" alt="Match awards from Bayern Munich&#39;s 4-0 win over Bayer Leverkusen" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Jonathan Tah was one of the few Leverkusen players who actually did something defensively. Bayern concentrated their attacks down the left flank, with Tah often&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT63VdxTpkqtrb5JQB-2GitLcHcTko9iVxgYvyr-ezmudTLG0fG4jtuuEj2klkh7fGaI-YM4ozh" alt="Alexander Nübel reiterates that he won&#39;t return to Bayern Munich if ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Would he consider a return to Bavaria? Not if Manuel Neuer is there the starter with Bayern Munich. Nübel does not dislike Neuer — quite the contrary actually —&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.marca.com/en/football/bundesliga/cronica/2022/09/30/6337546cca47413d758b45bb.html'>
+        </a><a href='https://www.espn.in/football/report/_/gameId/638507'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bayern Munich trounce Leverkusen and return to winning ways after ...</h3>
+                <h3>Bayern Munich vs. Bayer Leverkusen - Football Match Report ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ_kH7s0N0VgnDn9t7u0IzayRSGT6XTnR0l08bfQu7bmcdQX4pkOnUv4q9LJE3WilmQOGxABior" alt="Bayern Munich trounce Leverkusen and return to winning ways after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Bayern Munich returned to action after the international break and did so in style with a comfortable Bundesliga win over a Bayer Leverkusen side that&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTmpXYMvyr3KRII3lAYMrDjAUzu-0cm38aXdk8L6XDQQbh5d9_tRdhYDjYdMuoSOwszQy8eJvWq" alt="Bayern Munich vs. Bayer Leverkusen - Football Match Report ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Get a report of the Bayern Munich vs. Bayer Leverkusen 2022-23 German Bundesliga football match.</p></div>
             </div>
-        </a><a href='https://sports.ndtv.com/football/bayern-munich-vs-bayer-leverkusen-bundesliga-when-and-where-to-watch-live-telecast-live-streaming-3392859'>
+        </a><a href='https://www.bavarianfootballworks.com/2022/10/1/23381409/bayern-munich-bayer-leverkusen-bundesliga-man-buns-sabitzer-leroy-sane-gnabry-haaland-bale-van-dijk'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bayern Munich vs Bayer Leverkusen, Bundesliga: When And Where ...</h3>
+                <h3>It&#39;s Man Bun Mania at Bayern Munich</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTFawuvilLNmsJx7RWj_rU3CP214tA4rjIVNQYVLLrpzgKYr_QLZLGkpsTpyfsayohWEj59uq70" alt="Bayern Munich vs Bayer Leverkusen, Bundesliga: When And Where ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Bayern Munich are winless since mid-August, an unfamiliar position for a club which is vying for 11 titles in a row, and currently sit fifth in the points&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQplcnZq8cKzP3H26g3y2kCCQDXLvwXx3r6azqM_I0BKo9ixfsusBlaSjv5JSn8CD59_Q0DDnsO" alt="It&#39;s Man Bun Mania at Bayern Munich" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Marcel Sabitzer, then Leroy Sané, now Serge Gnabry: man buns are all the rage in Bavaria with the German Rekordmeister. Find out why and what it all means.</p></div>
             </div>
-        </a><a href='https://footballexpress.in/bayern-munich-were-desperate-to-sign-a-barcelona-starlet/'>
+        </a><a href='https://www.timesnownews.com/sports/football/superb-jamal-musiala-guides-bayern-munich-to-brutal-win-over-bayer-leverkusen-article-94573989'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bayern Munich were desperate to sign a Barcelona starlet</h3>
+                <h3>Superb Jamal Musiala guides Bayern Munich to &#39;brutal&#39; win over ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTnyafSA5uag0MUog85sCv6Ht-eSNLWq3SM9e2XLOihTfz20fpA8PqPs7F1YmI5dp1JbE2uihJY" alt="Bayern Munich were desperate to sign a Barcelona starlet" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Bayern Munich target Gavi turned 18 on August 5<sup>th</sup>. Yet the young midfielder has taken the world by surprise. His rise through the academy ranks into a&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQiBucAgYFuoX_uzkJhWvBusTqtRqJXkgTwZuVqexhylIIZwX99ZPGjkE-KHuvO5Kv_oXJjfZTq" alt="Superb Jamal Musiala guides Bayern Munich to &#39;brutal&#39; win over ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A masterclass from Jamal Musiala, as well as a first goal in five games for Sadio Mane, helped Bayern Munich thump hapless Bayer Leverkusen 4-0 at home on&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.theguardian.com/football/2022/sep/30/musiala-and-mane-help-bayern-end-winless-run-in-style-against-leverkusen'>
+        </a><a href='https://www.hindustantimes.com/sports/football/jamal-musiala-sparkles-as-bayern-munich-crush-bayer-leverkusen-4-0-to-snap-winless-run-101664590192442.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Musiala and Mané help Bayern end winless run in style against ...</h3>
+                <h3>Musiala sparkles as Bayern crush Leverkusen 4-0 to snap winless run</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTQ2UhFOaZiSszWk1qQ-BWXXXDwf7gwAYeOgQZ9mmlX18Y6js-HYvG1aughyl8h41d_hQ8j-XKz" alt="Musiala and Mané help Bayern end winless run in style against ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSy0pk-LkRNHx1WFEwkqJP1WoBMpxkv0BZOgg6x6o3dZUQKCPxQJ7J1vDc1lVEowitiyuf5LP9w" alt="Musiala sparkles as Bayern crush Leverkusen 4-0 to snap winless run" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Jamal Musiala scored once and set up two more goals as champions Bayern Munich cruised past Bayer Leverkusen 4-0 on Friday to snap a four-game winless run&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.eurosport.co.uk/football/bundesliga/2022-2023/bayern-munich-v-bayer-leverkusen-bundesliga-live_sto9162328/story.shtml'>
+        </a><a href='https://www.insidesport.in/bayern-munich-vs-viktoria-plzen-live-bayern-munich-aim-for-hat-trick-of-wins-against-viktoria-plzen-check-team-news-injuries-suspensions-live-telecast-starting-xi-predictions/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Sadio Mane breaks drought as Bayern Munich hit four past Bayer ...</h3>
+                <h3>Bayern Munich vs Viktoria Plzen LIVE: Bayern Munich AIM for HAT ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRoFe5BvpSrdQlWlqdT0MVdLmtEr_dirKmU34T9DHRJuix8JKrjhwxgMehTAqBbHujNuz3flhSF" alt="Sadio Mane breaks drought as Bayern Munich hit four past Bayer ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Bayern Munich ended their mini-Bundesliga slump with a crushing victory over Bayer Leverkusen at the Allianz Arena on Friday.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRgMfDyNWsq8M5u3-TSvbZ0n4TSF2q2fJI-wQdnHH-PQI70R8xT9eCoy0lhjxIk3DNy0f5yCQcz" alt="Bayern Munich vs Viktoria Plzen LIVE: Bayern Munich AIM for HAT ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Young German star Jamal Musiala has been the star of the show, with former Liverpool striker Sadio Mane also continuing his impressive form since switching to&nbsp;...</p></div>
             </div>
-        </a><a href='https://indianexpress.com/article/sports/football/nagelsmann-not-responsible-for-everything-amid-bayerns-league-struggles-8182313/'>
+        </a><a href='http://english.news.cn/20221001/971c8086d18f4909944380ead8384fc2/c.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Nagelsmann &#39;not responsible for everything&#39; amid Bayern&#39;s league ...</h3>
+                <h3>German Bundesliga football match: Bayern Munich vs. Bayer 04 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ8IGjEF86itluQKKawNjyG9XsOZrU_5ISLSY5BiGwaAtD82kr_TseVg8_ScIHiQdsE8mfUMvBK" alt="Nagelsmann &#39;not responsible for everything&#39; amid Bayern&#39;s league ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Bayern Munich head coach Julian Nagelsmann said he is not solely to blame for the German champions&#39; poor start to the Bundesliga campaign and that the whole&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQCgjIp0Z7NVdp0yF9fOqtBSJnfWc1HZsNPYsx4BllQVkLv39rtaQXydKId8WNHlfXTockvFMdU" alt="German Bundesliga football match: Bayern Munich vs. Bayer 04 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Jamal Musiala (bottom) of Bayern Munich vies with Robert Andrich of Leverkusen during the German first division Bundesliga football match between Bayern&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

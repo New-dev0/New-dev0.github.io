@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,October"/>
         <meta name="description" content="Trending News about October" /></Head><Template>
             <h1 style={{fontSize: "30"}}>October</h1>
-            <Image width={800} height={500} src="https://www.jagranimages.com/images/newimg/30092022/30_09_2022-saturday-rashifal_23110050.jpg" alt="October"/>
+            <Image width={800} height={500} src="https://akm-img-a-in.tosshub.com/aajtak/images/story/202210/kumbh_1200_0-sixteen_nine.jpg" alt="October"/>
             <h3>Recent News</h3>
-            <a href='https://www.jagran.com/spiritual/religion-aaj-ka-rashifal-1-october-2022-dainik-rashifal-in-hindi-23110050.html'>
+            <a href='https://www.aajtak.in/religion/rashiphal/story/october-2022-arthik-rashifal-these-five-zodiac-signs-get-financial-benefits-tlifdu-1547903-2022-10-01'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Aaj Ka Rashifal 1 October 2022: अक्टूबर महीने के पहले दिन कैसा रहेगा ...</h3>
+                <h3>October 2022 Aarthik Rashifal: अक्टूबर में कुंभ समेत इन 5 राशियों को ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSzmv7xoz9tyvpNwDJaXUqz06uZTynQvIKZ_9OGgGgLT1w3BV5sUH-sCdfJfYci8-TVxP-tpzbQ" alt="Aaj Ka Rashifal 1 October 2022: अक्टूबर महीने के पहले दिन कैसा रहेगा ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>मेष दैनिक राशिफल (Aries Daily Horoscope). m. चली आ रही समस्या का समाधान होगा। धार्मिक प्रवृत्ति में&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSfa_sCTa5JoYqTP31_EOvMr8xramz8ay959Mu89rvl13qHR8S-q4RtrY7V4PPtC1u3bBtnZRhq" alt="October 2022 Aarthik Rashifal: अक्टूबर में कुंभ समेत इन 5 राशियों को ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>October 2022 Arthik rashifal: त्योहार के मौसम में लोगों की खर्चे बहुत बढ़ जाते है.</p></div>
             </div>
-        </a><a href='https://www.vogue.in/horoscope/collection/monthly-love-horoscope-october-2022/'>
+        </a><a href='https://www.jagran.com/spiritual/religion-aaj-ka-rashifal-2-october-2022-dainik-rashifal-in-hindi-23112342.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Monthly Love Horoscope: October 2022</h3>
+                <h3>Aaj Ka Rashifal 2 October 2022: इन राशि के जातकों की बढ़ेगी धार्मिक ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTz2f8f07sfpDUGZwHn7kUrisuh5MAQl1f9l1XDYWPYn_SbIbQtn4Wh5RYDfCAOZ0U_g5LuVON5" alt="Monthly Love Horoscope: October 2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Just a reminder, Pisces: you are in the life you manifested a long time ago. So, allow yourself to be in the energy of receiving, wild one.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSyb8iAhBDlZLhN7R7A4gNZcylKrU02TcY1FWDQuQR-O-hYuEICFLKo-CZrmHVW4MyNOpul_H9X" alt="Aaj Ka Rashifal 2 October 2022: इन राशि के जातकों की बढ़ेगी धार्मिक ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Aaj ka rashifal 2 October 2022 साल 2022 के अक्टूबर माह के दुसरे दिन सभी राशियों के लिए मिला-जुला रहेगा&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.gnttv.com/astrology/rashifal/story/monthly-horoscope-october-2022-libra-monthly-horoscope-october-2022-tula-rashifal-october-hindi-453288-2022-09-30'>
+        </a><a href='https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2-october-2022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Monthly Horoscope for October 2022: तुला राशि वाले अक्टूबर में खरीद ...</h3>
+                <h3>पढ़ें 2 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज़</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRIdr_va9W-MO1aa-6kwww4BA4rFV5-ZpEbWQx9ecNNlwNR1rzMEZI3rRjqV2DjaGpb5p-9j9uT" alt="Monthly Horoscope for October 2022: तुला राशि वाले अक्टूबर में खरीद ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>libra October Monthly horoscope in hindi: अक्टूबर का महीना आपके लिए शांति, प्यार और खुशियां लेकर आएगा.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRLMJvdENK0WhQ2mFE2MLEtRRHUwYcUn1IJF1RhI5ju5SOrj_xSz1X_I4vF5X-KvlfJTxtGYLsL" alt="पढ़ें 2 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज़" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>पढ़ें 2 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज़ &middot; 09:01 PM, 01-Oct-2022. Corbett Tiger Reserve:&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.livemint.com/horoscope/horoscope-today-money-astrological-predictions-for-october-1-2022-11664529330626.html'>
+        </a><a href='https://www.livehindustan.com/astrology/story-monthly-horoscope-masik-rashifal-october-2022-future-predictions-lucky-and-unlucky-rashi-zodiac-signs-7161007.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Horoscope Today: Money astrological predictions for October 1 ...</h3>
+                <h3>October Ka Rashifal : अक्टूबर माह में मेष से लेकर मीन राशि वालों के जीवन ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSfRYeOjmD3JaxUB_Ct7VOzIXis_cijoZ8TnbD3xfDWzSl2uKBaejufnJDqUzKzBseJRxKahue2" alt="Horoscope Today: Money astrological predictions for October 1 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Read October 1,2022 daily horoscope by Chirag Bejan Daruwalla to know astrological predictions related to career, business and money for all zodiac signs.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT36pBClOkXwxEz9yd7-nQBj2sGs0blqvnC-7agUvUhPIjQgMetXH1HH3V_QfENETSU9twiPsXL" alt="October Ka Rashifal : अक्टूबर माह में मेष से लेकर मीन राशि वालों के जीवन ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Masik Rashifal October 2022 horoscope lucky unlucky zodiac signs : अक्टूबर महीने में कई बड़े ग्रहों का राशि&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.abplive.com/utility-news/national-international-important-days-and-dates-in-october-2022-2227849'>
+        </a><a href='https://www.abplive.com/astro/horoscope-today-2-october-2022-aaj-ka-rashifal-dainik-rashifal-virgo-horoscope-and-all-zodiac-signs-2228390'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>National International Days: अक्टूबर 2022 में राष्ट्रीय-अंतर्राष्ट्रीय ...</h3>
+                <h3>Horoscope Today 2 October 2022: कन्या, मकर, मीन राशि वालों को हो ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRuqEqF2M4t4FRI01HzpjdfRyvMkXh7a3k5X7DfloAEIjIt63asqVgBDAGZnfiIde-3TDx2s2oJ" alt="National International Days: अक्टूबर 2022 में राष्ट्रीय-अंतर्राष्ट्रीय ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>हर साल 1 अक्टूबर को दुनियाभर में रोस्टरों, बरिस्ता, किसानों और कॉफी शॉप मालिक आदि को&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSvzsAKvPRfUA-ejnLt_Bypw-G7WETXdQw0yeLLV6J3Em44G40tGtrkIV08s6FfKl6awuGBGQ0L" alt="Horoscope Today 2 October 2022: कन्या, मकर, मीन राशि वालों को हो ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Horoscope Today 2 October 2022, Aaj Ka Rashifal: पंचांग के अनुसार 2 अक्टूबर 2022, रविवार का दिन मेष से मीन राशि&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-1-october-2022'>
+        </a><a href='https://www.aajtak.in/business/news/story/bank-holidays-in-october-due-to-dussehra-and-diwali-full-list-here-tutd-1547592-2022-10-01'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>पढ़ें 1 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज़</h3>
+                <h3>Bank Holidays in October: अक्टूबर में छुट्टियों की भरमार, महीने में 21 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQek67d36GWtXz6LCftw_YIeX6dVIbLi70qJQpUwD_Qdnjwc3jNObaEs4lLEsA_eI6YiC0XsooW" alt="पढ़ें 1 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज़" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>पढ़ें 1 अक्टूबर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज़ &middot; 12:00 AM, 01-Oct-2022. Vikram Vedha Day 1&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSC8XqfNAPOQdirGQXtTziorcsNXT8A61M976vq39hpnRS3r-c5bgzNaVUtHJuIIURi8IM0tU-L" alt="Bank Holidays in October: अक्टूबर में छुट्टियों की भरमार, महीने में 21 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Bank Holiday in October: इस महीने में किसी भी दिन अगर बैंक जा रहे हैं, तो एक बार छुट्टियों की लिस्ट&nbsp;...</p></div>
             </div>
-        </a><a href='https://navbharattimes.indiatimes.com/astro/rashifal/bolen-sitare/horoscope-today-1-october-2022-aaj-ka-rashifal-in-hindi-know-how-the-first-day-of-october-will-be-from-aries-to-pisces/articleshow/94553407.cms'>
+        </a><a href='https://www.amarujala.com/photo-gallery/astrology/predictions/daily-love-rashifal-for-02-october-2022-love-horoscope-aaj-ka-love-rashifal'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Horoscope Today 1 October 2022 Aaj Ka Rashifal आज का राशिफल ...</h3>
+                <h3>Daily Love Rashifal 02 October : जानिए आपके प्रेम जीवन और वैवाहिक ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRWUXMY6bKkpSBWSXcH0UbPhodXe--VaqDmChQ7AJChyO1AJP8vBI9gI3XWdc2K0GkHrGCcMSpD" alt="Horoscope Today 1 October 2022 Aaj Ka Rashifal आज का राशिफल ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>मेष राशि वालों के लिए गणेशजी कहते हैं कि, अपनी धुन में हैं तो उसी में रहिए किसी की बात को&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.abplive.com/astro/aquarius-horoscope-today-1-october-aaj-ka-rashifal-kumbh-rashifal-2227457'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Aquarius Horoscope Today 1 October 2022: कुंभ राशि वालों का आज का ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTDp-cSKa_7VUJmyHzxi55kyDAvJeG_IQyDJCjSUuXrhdbeezwfhs01sjFLk9k3Q67QtlrSAC8X" alt="Aquarius Horoscope Today 1 October 2022: कुंभ राशि वालों का आज का ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Kumbh Rashifal Today, Aquarius Daily Horoscope 1 October 2022: कुंभ राशि वालों का शनिवार का दिन बहुत अच्छा रहने&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.amarujala.com/photo-gallery/astrology/predictions/daily-love-rashifal-for-01-october-2022-love-horoscope-aaj-ka-love-rashifal'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Daily Love Rashifal 01 October : जानिए आपके प्रेम जीवन और वैवाहिक ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRMXZs2LBvZqx318im6arFJcnh52-Rjwpt0JGOlj4wlFaf8f4WowK8Jzz50tdbEH8nP0E0dRP6D" alt="Daily Love Rashifal 01 October : जानिए आपके प्रेम जीवन और वैवाहिक ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQCA-YXjDINuazip3xma6McQhyVbmMGjyTfF2JGAR8V0_T-TJ5sEpK2Fu72lxCyig0toLxFmpg5" alt="Daily Love Rashifal 02 October : जानिए आपके प्रेम जीवन और वैवाहिक ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>दैनिक लव राशिफल के माध्यम से जानते हैं सभी 12 राशि के जातकों के लिए कैसा बीतेगा पूरा दिन&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.thehindu.com/news/cities/Delhi/delhi-may-breathe-better-air-during-october-november/article65956679.ece'>
+        </a><a href='https://www.abplive.com/business/bank-holidays-in-october-2022-bank-remain-close-for-21-days-dussehra-diwali-2022-know-2228010'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Delhi may breathe better air during October-November</h3>
+                <h3>Bank Holidays in October 2022: अक्टूबर में त्योहारों के कारण बैंक में ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQszUOLknnv7rqE9EPzr0HDWwXRHLHrNgr7H51WApes3bqrtYSHNfs-5gZycR-eaNGkX0SaDFaX" alt="Delhi may breathe better air during October-November" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Early withdrawal of monsoon may result in fewer “severe” and “very poor” air quality days over the next two months, according to Central government-run air&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR85ywH8RWV_wPrLiTf9Id_ot5UVn1huAsT-MEid8eBIsqzEHreDeVOxV8Xqbg6GV6hJLz4W63r" alt="Bank Holidays in October 2022: अक्टूबर में त्योहारों के कारण बैंक में ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Holidays in October 2022: रिजर्व बैंक की ओर से जारी की गई बैंक हॉलिडे लिस्ट के मुताबिक इस महीने&nbsp;...</p></div>
+            </div>
+        </a><a href='https://navbharattimes.indiatimes.com/astro/rashifal/bolen-sitare/horoscope-today-2-october-2022-aaj-ka-rashifal-in-hindi-mercury-direct-in-virgo-know-impact-on-aries-to-pisces-zodiac-sign/articleshow/94581847.cms'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Horoscope Today 2 October 2022 Aaj Ka Rashifal आज का राशिफल ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTzX4NiFUoUW4GWlzjnb-uJypydhyaOg6OW23Vj4AGSIDN_bH7D2d3vta4evb1gZRIDW01sbsaM" alt="Horoscope Today 2 October 2022 Aaj Ka Rashifal आज का राशिफल ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>आज का राशिफल : रविवार 2 अक्टूबर आज बुध मार्गी हो रहे हैं जिसका असर कुछ राशियों पर शुभ और&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.livehindustan.com/business/story-bank-holidays-october-2022-bank-remain-shut-down-21-days-7-days-continuously-bank-band-7160907.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Bank Holidays: अक्टूबर में त्योहारों की लंबी लिस्ट, 21 दिन बंद रहेंगे बैंक ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTvH18babSAM7Mm-UeosJOVWyWsEXRnhre7KpOTxzq3P1UTxtgTJ4TWnGSuiya6iaBU50vyqC2M" alt="Bank Holidays: अक्टूबर में त्योहारों की लंबी लिस्ट, 21 दिन बंद रहेंगे बैंक ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>अक्टूबर का महीना शुरू हो गया है। अक्टूबर के महीने में दुर्गा पूजा, गांधी जयंती, दिवाली,&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
