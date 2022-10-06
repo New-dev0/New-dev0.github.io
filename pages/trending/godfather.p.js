@@ -11,56 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Godfather"/>
         <meta name="description" content="Trending News about Godfather" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Godfather</h1>
-            <Image width={800} height={500} src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202210/GodFatherBoxoffice_1-647x363.jpeg?xqJaqs.1rr1VQzx_gAR3Kb4yFQxE8NDm" alt="Godfather"/>
+            <Image width={800} height={500} src="" alt="Godfather"/>
             <h3>Recent News</h3>
-            <a href='https://www.indiatoday.in/movies/regional-cinema/story/godfather-box-office-prediction-what-chiranjeevi-s-last-5-films-made-2008333-2022-10-04'>
+            <a href='https://www.hindustantimes.com/entertainment/telugu-cinema/godfather-twitter-reviews-fans-react-to-chiranjeevi-s-telugu-remake-of-mohanlal-s-lucifer-101664966632762.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>GodFather box office prediction + what Chiranjeevi&#39;s last 5 films made</h3>
+                <h3>GodFather Twitter reviews: Fans react to Chiranjeevi&#39;s remake of ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQwru9rpAxL4wapc_9MRlRGHyE6mU-I_VInRNUOHlNmpnpeIhiG3uvwZXYaAdyUQf_xyrnP3vVE" alt="GodFather box office prediction + what Chiranjeevi&#39;s last 5 films made" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>GodFather is Chiranjeevi first film after Acharya, which bombed at the box office earlier this year. The film is directed by Mohan Raja. In this piece, let us&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRmYp1M3vbkmRSsgxIoUbBa5EqSW4nLQ4-MWBsra9ZInUuarm1sCEeYMNhU0pyFy-M0PQNUSmj2" alt="GodFather Twitter reviews: Fans react to Chiranjeevi&#39;s remake of ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>GodFather movie reviews on Twitter praised Chiranjeevi&#39;s film. The Telugu drama is the remake of Malayalam hit film Lucifer, which starred Mohanlal in the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.koimoi.com/box-office/godfather-box-office-day-1-advance-booking-1-day-to-go-theres-a-huge-distance-to-be-covered-from-good-to-excellent-might-miss-the-bumper-opening/'>
+        </a><a href='https://www.abplive.com/entertainment/celebrities/salman-khan-promoted-chiranjeevi-godfather-said-desh-aur-desh-ki-janta-mein-hai-bada-dum-2231458'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Godfather Box Office Day 1 Advance Booking (1 Day To Go): There&#39;s ...</h3>
+                <h3>&#39;देश की जनता में है बड़ा दम...&#39;- चिरंजीवी की &#39;गॉडफादर&#39; का प्रमोशन करते हुए ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTgrlOMEgrgvR9PoV9BOgn3M-kjgkqw8vnfiCxdw97g_H27SsVdB_4zNJCvDlkGQ94o4WC6D9lW" alt="Godfather Box Office Day 1 Advance Booking (1 Day To Go): There&#39;s ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Chiranjeevi&#39;s Godfather is all set to hit theatres tomorrow. The film is releasing in Telugu and Hindi and there&#39;s an attraction for both audiences.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSuiQ2mK3Z6bvv92RTl1RbEAfbGjBOiipNVd4WYXQk_RU6qcOw5lDN0WZ8SED9ecATq5iGAvxgo" alt="&#39;देश की जनता में है बड़ा दम...&#39;- चिरंजीवी की &#39;गॉडफादर&#39; का प्रमोशन करते हुए ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Salman Khan Godfather: साउथ अभिनेता चिरंजीवी (Chiranjeevi) की फिल्म &#39;गॉडफादर&#39; रिलीज हो चुकी है.</p></div>
             </div>
-        </a><a href='https://www.telugu360.com/godfather-2022-movie-review/'>
+        </a><a href='https://indianexpress.com/article/entertainment/movie-review/godfather-movie-review-rating-chiranjeevi-nayanthara-8190530/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>GodFather 2022 Movie Review, rating, public talk</h3>
+                <h3>GodFather movie review: Chiranjeevi-Salman Khan starrer is a ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS83YkfZ1BrTo3442m-j7KHHJ5jhE-pasazgHqIqCNTlJryYT2TFm0p2wgarK6HdR6FTGFYmfRp" alt="GodFather 2022 Movie Review, rating, public talk" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Final Report : Godfather stays true to the original, but there are enough tweaks to appeal to telugu audience. Megastar Chiranjeevi is tailor made for the&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSWTVmPBXrYZfMenfL4D3IUAJDSTDeCBtmZ7HT9d_Q4_K_a86fkwIB8vVCVL7JJrVMG9O7_Chua" alt="GodFather movie review: Chiranjeevi-Salman Khan starrer is a ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>GodFather review: Filmmaker Mohan Raja has packed GodFather with all the elements to satisfy the core fan base of Chiranjeevi and Salman Khan.</p></div>
             </div>
-        </a><a href='https://filmyfocus.com/trouble-for-god-father-release/'>
+        </a><a href='https://telugu.greatandhra.com/movies/reviews/godfather-movie-review-130402.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Trouble for God Father Release - Filmy Focus</h3>
+                <h3>Godfather Review: మూవీ రివ్యూ: గాడ్ ఫాదర్</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRDCSKWLZol6EuIR4uxAQ4Q1YxU7TsJJT28fM04Z4L6iH7r2IfmNkfe9eYKwiHxHbm5k1-1JhFg" alt="Trouble for God Father Release - Filmy Focus" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Megastar Chiranjeevi&#39;s political drama, GodFather under the direction of Mohan Raja is gearing up for October 5th release. Co-starring Bollywood star&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQJ701PDp87I4uDlGCK8VsVsxVy34EAmAcVl9SyzIDynhH2cAeA-PSjewvQm7mrWlUDwqWps6Eq" alt="Godfather Review: మూవీ రివ్యూ: గాడ్ ఫాదర్" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>చిత్రం: గాడ్ ఫాదర్ రేటింగ్: 2.75/5 తారాగణం: చిరంజీవి, సల్మాన్ ఖాన్, నయనతార, పూరి జగన్నాథ్,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.indiatvnews.com/entertainment/celebrities/godfather-advance-booking-report-chiranjeevi-salman-khan-telugu-film-to-create-magic-on-box-office-2022-10-04-813680'>
+        </a><a href='https://navbharattimes.indiatimes.com/entertainment/south-movie/godfather-twitter-review-chiranjeevi-salman-khan-movie-impress-fans-by-political-drama/articleshow/94660903.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Godfather Advance Booking Report: Chiranjeevi-Salman Khan&#39;s film ...</h3>
+                <h3>Godfather Twitter Review: चिरंजीवी की &#39;गॉडफादर&#39; को सोशल मीडिया ने ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTZcMmZi3FT0EP8cQS1jAtBmvLjmTLzaBwCyLyQjQO5tfkVprswbjOcs___qMlu97CnJM20J8U-" alt="Godfather Advance Booking Report: Chiranjeevi-Salman Khan&#39;s film ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Godfather Advance Booking Report: Helmed by Mohan Raja, Chiranjeevi and Salman Khan starrer is an official Telugu remake of the 2019 Malayalam film&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSplVRMBlqZDm6SxWNgjtHdG0AEwy_pTXRAaw_eK3c_-UklA4DUVcoeDVwWyhPvK2yEdl6zkjBw" alt="Godfather Twitter Review: चिरंजीवी की &#39;गॉडफादर&#39; को सोशल मीडिया ने ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>फिल्म &#39;गॉडफादर&#39; सिनेमाघरों में दशहरा के मौके पर रिलीज हो चुकी है। ट्विटर पर फर्स्ट डे&nbsp;...</p></div>
             </div>
-        </a><a href='https://english.sakshi.com/news/tollywood/megastar-chiranjeevis-godfather-first-day-collection-prediction-162208'>
+        </a><a href='https://www.amarujala.com/entertainment/bollywood/godfather-movie-review-in-hindi-by-pankaj-shukla-chiranjeevi-salman-khan-nayanthara-satyadev-puri-jagannadh'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Megastar Chiranjeevi&#39;s Godfather First Day Collection Prediction</h3>
+                <h3>GodFather Movie Review: चिरंजीवी की फिल्म में चमका &#39;रामसेतु&#39; का ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRYlDl2QUxdLB-5k0iqCUOSL6BdPmYwHtO6vvUBkfK8TqqjGY37j_NL4wGb31wmaPWJ5SBVolx4" alt="Megastar Chiranjeevi&#39;s Godfather First Day Collection Prediction" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Megastar Chiranjeevi&#39;s Godfather is gearing up for theatrical release. Just a day left for the film to hit the big screens. The trailer, teaser, and posters&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTNJmAQ34mtnA3l4cmmMkYkVSXdArIkfbwUgJXty1XRtU9zLkJUJ93pC1eON3SnBI0gBlRZhnNX" alt="GodFather Movie Review: चिरंजीवी की फिल्म में चमका &#39;रामसेतु&#39; का ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>अब हिंदी सिनेमा के सितारे वहां की फिल्मों को लपक रहे हैं। फिल्म &#39;गॉडफादर&#39; सलमान खान की&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.telugubulletin.com/chiranjeevi-2022-godfather-review-and-rating-167285'>
+        </a><a href='https://www.zeebiz.com/trending/news-godfather-chiranjeevi-slaman-khan-movie-hits-theatre-how-ram-charan-jayam-ravi-others-reacted-on-malayalam-film-lucifer-remake-201836'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Godfather Telugu Review, Godfather Movie Review, Godfather 2022 ...</h3>
+                <h3>Godfather: Chiranjeevi, Slaman Khan movie hits theatre; how Ram ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT1FSndzLWhJDq7ZcIvNfc_LikgmhqScXanDZoUFtFAqPkhxMxlqWsYGcvhdZFWXNvTkGm61l--" alt="Godfather Telugu Review, Godfather Movie Review, Godfather 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Megastar chiranjeevi&#39;s Godfather is a political action-thriller film directed by Mohan Raja and produced by Ram Charan, R. B. Choudary and N. V. Prasad.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQZhGP9bfGBuRNjPri4H0zYN_Fs8vIctqzrDKI17o8rbYgZ5xobqCu42wCGjDq3_kBHrislvXOO" alt="Godfather: Chiranjeevi, Slaman Khan movie hits theatre; how Ram ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The movie is also being praised by many actors and producers Get more Trending News and Business News on Zee Business.</p></div>
+            </div>
+        </a><a href='https://www.indiatoday.in/movies/regional-cinema/story/godfather-movie-review-chiranjeevi-turns-boss-of-bosses-in-lucifer-remake-with-salman-for-company-2008606-2022-10-05'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>GodFather Movie Review: Chiranjeevi turns &#39;boss of bosses&#39; in ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTHN1rC9ucFtGe80YuQy-MYtJhr--yrj-aDyj6DmLioOQBCcmr-7Csstr06jqbUIKap7_7s-XK0" alt="GodFather Movie Review: Chiranjeevi turns &#39;boss of bosses&#39; in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>GodFather, starring Chiranjeevi and Salman Khan, is an action-packed remake of Mohanlal&#39;s Lucifer. The Telugu movie proves to be a treat for Megastar&#39;s fans&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.koimoi.com/reviews/box-office-reviews/godfather-box-office-review-hindi-chiranjeevis-massy-entertainer-gets-mileage-at-ticket-windows-thanks-to-salman-khans-cameo/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Godfather Box Office Review (Hindi): Chiranjeevi&#39;s Massy ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRJR3OMEFR-afD4rg8iZCiTVfMKMN_M1l5tDP7ypzpVCqG9VCQmHLcMY2kEkWAPLVCUwiRAQtd3JQ" alt="Godfather Box Office Review (Hindi): Chiranjeevi&#39;s Massy ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Godfather starring Chiranjeevi is finally out in theatres &amp; it could be said that Salman Khan&#39;s cameo has packed a punch! Read on.</p></div>
+            </div>
+        </a><a href='https://theprint.in/features/reel-take/does-chiranjeevis-godfather-oust-mohanlals-lucifer-yes-and-no/1155619/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Does Chiranjeevi&#39;s GodFather oust Mohanlal&#39;s Lucifer? Yes and no</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRnJT00LFoxC9UYHWkg1B8cOalAhzhUATvHzAtYMssqQ1WOQyE2dQdot2kK3ZLxNCEzjzQGkrgU" alt="Does Chiranjeevi&#39;s GodFather oust Mohanlal&#39;s Lucifer? Yes and no" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lucifer was the directorial debut for Malayalam superstar Prithviraj Sukumaran. With the legendary actor Mohanlal Viswanathan playing the titular role, the film&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

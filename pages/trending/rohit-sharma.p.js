@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Rohit Sharma"/>
         <meta name="description" content="Trending News about Rohit Sharma" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Rohit Sharma</h1>
-            <Image width={800} height={500} src="" alt="Rohit Sharma"/>
+            <Image width={800} height={500} src="https://navbharattimes.indiatimes.com/photo/msid-94666077,imgsize-42092/pic.jpg" alt="Rohit Sharma"/>
             <h3>Recent News</h3>
-            <a href='https://www.hindustantimes.com/cricket/just-feel-that-dinesh-needs-rohit-sharma-gives-verdict-on-karthik-vs-rishabh-pant-debate-after-australia-series-101664176661090.html'>
+            <a href='https://navbharattimes.indiatimes.com/sports/cricket/india-vs-south-africa/rohit-sharma-superfan-crosses-all-limits-to-meet-india-captain-in-indore-watch-video-ind-vs-sa-2022/articleshow/94666043.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Rohit Sharma gives verdict on Karthik vs Pant debate after Australia ...</h3>
+                <h3>Rohit Sharma fan: स्टेडियम की पहली मंजिल से कूदा, जोखिम में डाली जान ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRRinoPHdFxvj1MwTMWvbOekykoUAAxxQYLp4W7b4cPFpfuIafxB9jZU8-Cv9-cSUCrq9qnZiI9" alt="Rohit Sharma gives verdict on Karthik vs Pant debate after Australia ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Speaking at the press conference after the conclusion of the Australia series on Sunday, Indian skipper Rohit Sharma asserted that Rishabh Pant and Dinesh&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRDX8vFQ7oYAx-HtNDmii7Jaxt4A581RFP10LY-x_yuRTxOg2fBnHIb6G3xj3NBR9zy0HFPd_Oz" alt="Rohit Sharma fan: स्टेडियम की पहली मंजिल से कूदा, जोखिम में डाली जान ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ind vs Sa 2022 Rohit Sharma Fan: तिरुवनंतपुरम में खेले गए पहले मैच में भी फैंस के बीच गजब उत्साह था।</p></div>
             </div>
-        </a><a href='https://www.indiatv.in/sports/cricket/rohit-sharma-never-lose-a-single-series-in-rohit-sharma-captaincy-watch-his-record-as-permanent-captain-of-india-2022-09-26-887416'>
+        </a><a href='https://www.abplive.com/sports/cricket/indian-cricket-team-rohit-sharma-suryakumar-yadav-big-concern-2231359'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Rohit Sharma: रोहित के कप्तान बनते ही पलटी भारत की किस्मत, देखें भारत ...</h3>
+                <h3>Suryakumar Yadav की फॉर्म हमारे लिए सबसे बड़ी चिंता का विषय, Rohit ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQRWEfFcy1JchX1tILBrF6tG16DIo8jRf_azs9QZLBpnAKZCBuNd_UTLNijpnh4j56nXv7KBKfu" alt="Rohit Sharma: रोहित के कप्तान बनते ही पलटी भारत की किस्मत, देखें भारत ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Rohit Sharma: भारत के परमानेंट कप्तान के रूप में रोहित शर्मा का रिकॉड शानदार रहा है।</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS1RZNMNQohARdISenPOF5KT1GkqUgSiGA_IcTSq_6JEEgii0Qf_S71uzZvI738JB0bT4VZDe0b" alt="Suryakumar Yadav की फॉर्म हमारे लिए सबसे बड़ी चिंता का विषय, Rohit ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>भारतीय टीम की चिंता को लेकर पूछे गए सवाल पर रोहित शर्मा ने Suryakumar Yadav का नाम लेते हुए&nbsp;...</p></div>
             </div>
-        </a><a href='https://sportstar.thehindu.com/cricket/ind-vs-aus-rohit-sharma-bhuvneshwar-harshal-bowling-form-kohli-suryakumar-yadav/article65937257.ece'>
+        </a><a href='https://www.abplive.com/sports/cricket/rohit-sharma-create-history-after-winning-series-against-south-africa-2231395'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>IND vs AUS: Rohit Sharma on Bhuvneshwar-Harshal form, Kohli ...</h3>
+                <h3>IND vs SA: दक्षिण अफ्रीका से सीरीज जीतकर रोहित शर्मा बनाया खास ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTntTxY62iO7RGekb93RAN_rzQzuC1krGpVPwMWQKryLcx_4AhRMz-OvseN202g9Kt6g-GRLYao" alt="IND vs AUS: Rohit Sharma on Bhuvneshwar-Harshal form, Kohli ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>IND vs AUS: Rohit Sharma has backed Bhuvneshwar Kumar and Harshal Patel to regain their form ahead of the T20 World Cup after lacklustre performances&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTV7qQuF6F-Yey3aPwM42n_Hwmjj7bi_hXXwib8ci65UzHotFEnzwjfdT6l0z6ThIR0jSA6VCve" alt="IND vs SA: दक्षिण अफ्रीका से सीरीज जीतकर रोहित शर्मा बनाया खास ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Rohit Sharma: दक्षिण अफ्रीका के खिलाफ टी20 सीरीज जीतकर भारतीय कप्तान रोहित शर्मा ने इतिहास&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.royalchallengers.com/rcb-cricket-news/news/we-wanted-to-put-up-a-show-and-we-did-that-well-rohit-sharma'>
+        </a><a href='https://www.livehindustan.com/cricket/story-rohit-sharma-completes-10-bilateral-series-wins-after-taking-charge-as-full-time-captain-of-team-india-7177787.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>We wanted to put up a show, and we did that well: Rohit Sharma</h3>
+                <h3>रोहित शर्मा का परफेक्ट 10, फुल टाइम कैप्टन बनने के बाद से जारी है हिटमैन ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS0YNf9iwc9eYB3o9Ijmx73V7unKUVw4V9nOCzhwIwHnN1pzxknc6MLICQTJwnFXVwbcgIxEHwo" alt="We wanted to put up a show, and we did that well: Rohit Sharma" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Indian captain highlighted that the win was a boost for India&#39;s spirits and shed light upon why India will have to get their homework done properly&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTx-ev-9-QkxIHpNF4JWgfzxPiS4ST1L1OrnLxKhyfuc7q8tJIKECGOe97riCoW5uEEpBZT8Yg6" alt="रोहित शर्मा का परफेक्ट 10, फुल टाइम कैप्टन बनने के बाद से जारी है हिटमैन ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>रोहित शर्मा ने लगातार 10वीं द्विपक्षीय सीरीज जीतने का कमाल किया है। फुल टाइम कैप्टन&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.aajtak.in/sports/cricket/story/virat-kohli-rohit-sharma-hug-celebration-india-vs-australia-t20-viral-video-tspo-1544549-2022-09-26'>
+        </a><a href='https://hindi.insidesport.in/latest/rohit-sharma-after-winning-the-series-against-south-africa-rohit-created-history-the-captain-victory-chariot-continues-check-out-503937/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Virat Kohli-Rohit Sharma: फिफ्टी पर शाबाशी, जीत पर झप्पी... रोहित ...</h3>
+                <h3>Rohit Sharma: साउथ अफ्रीका के खिलाफ सीरीज जीतने के बाद रोहित ने रचा ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcREXHGOMkt5Wt-of1qTPICsOPr7ClnF5Z2iHa_YXDalmyrY9I-iuIf3opYwF3c7_31IvYqF2qMK" alt="Virat Kohli-Rohit Sharma: फिफ्टी पर शाबाशी, जीत पर झप्पी... रोहित ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>भारतीय टीम ने ऑस्ट्रेलिया को तीसरे टी-20 में 6 विकेट से हराकर सीरीज़ अपने नाम कर ली है.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR5pog7mzjM9Be2XLLkBKk2r4WG2Nro52zHlF-IkoCPrSz_h7sL7V3GYU9ZCn8khyBK5I2zH2Wc" alt="Rohit Sharma: साउथ अफ्रीका के खिलाफ सीरीज जीतने के बाद रोहित ने रचा ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Rohit Sharma: टी20 वर्ल्ड कप 2021 (T20 World Cup 2021) के बाद से जब से रोहित शर्मा (Rohit Sharma) ने सभी फॉर्मेट&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.telegraphindia.com/sports/cricket/struggling-bhuvi-needs-more-space-rohit-sharma/cid/1888942'>
+        </a><a href='https://www.indiatv.in/sports/cricket/t20-world-cup-2022-rohit-sharma-is-in-such-form-this-year-have-a-look-at-the-figures-2022-10-05-890316'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Struggling Bhuvi needs more space: Rohit Sharma</h3>
+                <h3>T20 World Cup 2022: रोहित शर्मा इस साल ऐसे फार्म में हैं, आंकड़ों पर ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRX4UMjSK2inBmr4r3vNVDh8QdsGu7c3LupS5gDsCClT_8f2e5Wfb88IbJ4idmCTkB4GesBpYui" alt="Struggling Bhuvi needs more space: Rohit Sharma" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Skipper Rohit Sharma has backed the struggling Bhuvneshwar Kumar to come out of the difficult phase he&#39;s going through. Bhuvneshwar&#39;s disappointing show&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS2f0RXXz4GwlgD5K3BYejQsXhrFMAZj_W0gZFxUpap1hpOMtbm-8ipqhoar5hSNRU8KaZOS6CT" alt="T20 World Cup 2022: रोहित शर्मा इस साल ऐसे फार्म में हैं, आंकड़ों पर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>T20 World Cup 2022: टी20 विश्व कप 2022 में भारतीय टीम पहले ही मैच में 23 अक्टूबर को पाकिस्तान के&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.wionews.com/sports/watch-rohit-sharma-virat-kohli-go-bonkers-celebrate-wildly-after-india-win-t20i-series-vs-australia-519779'>
+        </a><a href='https://www.indiatv.in/sports/cricket/rohit-sharma-broke-virat-kohli-embarrassing-record-ms-dhoni-never-did-this-work-2022-10-05-890221'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Watch: Rohit Sharma, Virat Kohli go bonkers, celebrate wildly after ...</h3>
+                <h3>रोहित शर्मा ने तोड़ा विराट कोहली का शर्मनाक रिकॉर्ड, एमएस धोनी ने कभी ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSMKFQBbPwSChvnX69BykElOoYnSng4R9k0jh2_h6IdrVRXSAOGvpA6CPhyRcIBlyH1PhLJ7b-m" alt="Watch: Rohit Sharma, Virat Kohli go bonkers, celebrate wildly after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>India and Australia were involved in another high-scoring thriller in the third and final T20I, in Hyderabad, on Sunday evening (September 25).</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQa-booXERscvyhBzAnZ9eQWuURUFGC6_j4f1rWZEoH1XOmZBzeM0yW7OSZ-FekGJymEkvAzqX9" alt="रोहित शर्मा ने तोड़ा विराट कोहली का शर्मनाक रिकॉर्ड, एमएस धोनी ने कभी ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>भारत बनाम दक्षिण अफ्रीका सीरीज के आखिरी मैच में विराट कोहली और केएल राहुल को रेस्ट&nbsp;...</p></div>
             </div>
-        </a><a href='https://english.jagran.com/cricket/virat-kohli-rohit-sharmas-reaction-to-indias-last-over-win-is-epic-watch-10050225'>
+        </a><a href='https://hindi.news18.com/news/sports/cricket-rohit-sharma-becomes-second-most-successful-captain-in-t20-format-4697905.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Virat Kohli, Rohit Sharma&#39;s Reaction To India&#39;s Last Over Win Is Epic ...</h3>
+                <h3>कोहली-धोनी को पछाड़ने के बाद क्या रोहित शर्मा लाएंगे वर्ल्ड कप ट्रॉफी ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTfoG4M-UVaujuJcoUq-rj3B7t52A0Oxlsf_LRArj_4-n9HuoBjGIWAZM0SLsCT7vIyu5Ou0-EI" alt="Virat Kohli, Rohit Sharma&#39;s Reaction To India&#39;s Last Over Win Is Epic ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>WHAT A sight for cricket loves as two of their favourite superstars of Indian cricket -- Rohit Sharma and Virat Kohli -- were caught together celebrating in&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRY-0_Jm8i_qPD1CgXyv9OvG0e9HuTRib0NDsj9V_B0zS2GW2Oc7oq-3l8wrLJ9GZ4YZGslNEK9" alt="कोहली-धोनी को पछाड़ने के बाद क्या रोहित शर्मा लाएंगे वर्ल्ड कप ट्रॉफी ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>नई दिल्ली. रोहित शर्मा (Rohit Sharma) की कप्तानी में टीम इंडिया ने अभी तक बेहतरीन प्रदर्शन&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.abplive.com/sports/cricket/virat-kohli-and-rohit-sharma-celebrates-win-over-australia-in-t20-series-ind-vs-aus-3rd-t20i-2224351'>
+        </a><a href='https://www.livehindustan.com/cricket/story-rohit-sharma-give-incredible-reaction-after-sarcastic-concern-remark-on-suryakumar-yadav-form-7177693.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Watch: 9 साल बाद ऑस्ट्रेलिया के खिलाफ सीरीज जीतते ही रोहित की पीठ ...</h3>
+                <h3>रोहित शर्मा ने सूर्यकुमार यादव की फॉर्म को बताया चिंता का विषय, फिर ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSelubrgbJRnOjngYrtDosu2ACpAiarnbm0Yk2yWvorokr9f7CTzuZv_HBnXicAn_VH1ai3kclw" alt="Watch: 9 साल बाद ऑस्ट्रेलिया के खिलाफ सीरीज जीतते ही रोहित की पीठ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>IND vs AUS T20 Series: टीम इंडिया ने ऑस्ट्रेलिया के खिलाफ तीन मैचों की टी20 सीरीज 2-1 से अपने नाम&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSLodzXR6z6y2oBpjE6JfE8Oa-jwPiOgx5HDh-W2Z0GqXOz7p6kK86zQOdyPBIEi10qMr9_3eGu" alt="रोहित शर्मा ने सूर्यकुमार यादव की फॉर्म को बताया चिंता का विषय, फिर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>टीम इंडिया के कप्तान रोहित शर्मा ने सूर्यकुमार यादव की फॉर्म को चिंता का विषय बताया,&nbsp;...</p></div>
             </div>
-        </a><a href='https://news.abplive.com/sports/cricket/rohit-sharma-backs-bhuvneshwar-kumar-and-harshal-patel-ahead-of-t20-world-cup-1555348'>
+        </a><a href='https://www.agniban.com/shameful-record-registered-in-the-name-of-rohit-sharma-was-out-on-zero/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Rohit Sharma Backs Bhuvneshwar Kumar And Harshal Patel Ahead ...</h3>
+                <h3>रोहित शर्मा के नाम दर्ज है शर्मनाक रिकार्ड, जीरो पर हुए थे आउट</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR7D21p6REh_svugRU1bzM-PkoTu9wTEdGlLl96pJn_2tH-jQMcKFFbDcN0x2Ox6VZk2H80l9-8" alt="Rohit Sharma Backs Bhuvneshwar Kumar And Harshal Patel Ahead ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Rohit Sharma was seen encouraging the UP-based bowler, despite his disappointing run in the recently concluded India vs Australia series.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTt33S8QBG0jMu_D3V5BbYoFWR8anbtfkb7-P-700O8gDfUD-AzJ_5sjS5RY0DCKcH0o8YyVqC0" alt="रोहित शर्मा के नाम दर्ज है शर्मनाक रिकार्ड, जीरो पर हुए थे आउट" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>मुंबई। भारतीय टीम के कप्तान रोहित शर्मा (Indian team captain Rohit Sharma) का फॉर्म टीम के लिए थोड़ा&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
