@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,AUS vs WI"/>
         <meta name="description" content="Trending News about AUS vs WI" /></Head><Template>
             <h1 style={{fontSize: "30"}}>AUS vs WI</h1>
-            <Image width={800} height={500} src="https://cricxtasy.com/static/c1e/client/95405/uploaded_original/4e173402ae33bef5ef657cae3e4ab5f2.jpg" alt="AUS vs WI"/>
+            <Image width={800} height={500} src="https://www.jagranimages.com/images/newimg/07102022/07_10_2022-dawidwarnerap_23125085.jpg" alt="AUS vs WI"/>
             <h3>Recent News</h3>
-            <a href='https://cricxtasy.com/fantasycricket/AUS-vs-WI-Dream11-Prediction-Fantasy-Cricket-Tips-Probable/cid8701037.htm'>
+            <a href='https://www.jagran.com/cricket/match-report-aus-vs-wi-australia-won-t20i-series-against-west-indies-david-warner-scored-75-runs-in-2nd-t20i-match-23125085.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>AUS vs WI Dream11 Prediction, Fantasy Cricket Tips, Dream11 ...</h3>
+                <h3>Aus vs WI: डेविड वार्नर की दमदार पारी से आस्ट्रेलिया ने वेस्टइंडीज को ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ5_itJuVChfT6X4QS0Qu4hANLp9NWCL0aq1zyJo4bXnv-wrfTugKZdaxFzmsDQUSxGIQfdXFKH" alt="AUS vs WI Dream11 Prediction, Fantasy Cricket Tips, Dream11 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>West Indies will play a 2-match T20I series against Australia before the World T20 2022. It&#39;ll be a great opportunity for both teams to test their strength&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSjYQO947ncwjRs5u0LO09wvVP4eu4LCk2KbzAkqwxyeyC1AbY2mcVPMGWLPHqDiqw0TUF-Kb8W" alt="Aus vs WI: डेविड वार्नर की दमदार पारी से आस्ट्रेलिया ने वेस्टइंडीज को ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>ब्रिसबेन, प्रेट्र। Australia vs West Indies T20I series: आस्ट्रेलिया क्रिकेट टीम के ओपनर बल्लेबाज डेविड&nbsp;...</p></div>
             </div>
-        </a><a href='https://indianexpress.com/article/sports/cricket/kyle-mayers-aus-vs-wi-monster-six-viral-watch-video-8191185/'>
+        </a><a href='https://www.abplive.com/sports/cricket/aus-vs-wi-tim-david-hits-110-meter-monstrous-six-against-west-indies-2233018'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>AUS vs WI: Kyle Mayers&#39; monster 105-meter six goes viral, watch video</h3>
+                <h3>AUS vs WI: टिम डेविड ने ठोका 110 मीटर लंबा छक्का, गेंदबाज के भी उड़े होश ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRYnnQ5NC9pN5u1CIfVXkTFH4u69cZfDezJGYuXBfRe8O8OuUIyHarCkNwmYxCWst2dIv7dxSV9" alt="AUS vs WI: Kyle Mayers&#39; monster 105-meter six goes viral, watch video" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>AUS vs WI 2022: West Indies will play two T20s against Australia this week and two unofficial warmup games in Melbourne next week before beginning the&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQw6SXOMD3zXsLV1nbQm1EyW6qWhige8pb6jzKHrX5x9DUaeCFVowfMPXT1ss-8U8GDhLN1O49I" alt="AUS vs WI: टिम डेविड ने ठोका 110 मीटर लंबा छक्का, गेंदबाज के भी उड़े होश ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Tim David: ऑस्ट्रेलिया के आलराउंडर टिम डेविड ने वेस्टइंडीज के खिलाफ दूसरे टी20 मुकाबले में&nbsp;...</p></div>
             </div>
-        </a><a href='https://sportstar.thehindu.com/cricket/aus-vs-wi-australia-vs-west-indies-live-score-match-updates-playing-11/article65971350.ece'>
+        </a><a href='https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/aus-vs-wi-australia-made-a-ruckus-warner-and-team-david-blasted-against-west-indies/articleshow/94710276.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>AUS vs WI 1st T20I Highlights: Australia beats West Indies by 3 wickets</h3>
+                <h3>AUS vs WI: विश्व कप से पहले ऑस्ट्रेलिया ने भरी हुंकार, वार्नर और टीम ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRYPb2tndv2CJilrxtME1cM45bxNr9ZnXvrJO_wqYHT9eZ8LXc8_uIm68LlAoeTqP20wnADLwGl" alt="AUS vs WI 1st T20I Highlights: Australia beats West Indies by 3 wickets" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Follow for all Live Score updates from Australia vs West Indies 1st T20I.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR_9prjG2z8INSb49SS4VUBzKm_wmI2_J71jgH2z0XSbwlzQNYONMDqCozYa17cqcRlLwAbsy5h" alt="AUS vs WI: विश्व कप से पहले ऑस्ट्रेलिया ने भरी हुंकार, वार्नर और टीम ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>AUS vs WI: वेस्टइंडीज के खिलाफ दूसरे टी20 मैच में ऑस्ट्रेलिया ने 31 रन से दमदार जीत दर्ज 2-0 से&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.abplive.com/sports/cricket/aus-vs-wi-kyle-mayers-monster-105-meter-six-goes-viral-watch-video-2231328'>
+        </a><a href='https://www.espncricinfo.com/series/west-indies-in-australia-2022-23-1317465/australia-vs-west-indies-2nd-t20i-1317483/match-report'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>AUS vs WI: Kyle Mayers ने कवर्स के ऊपर से लगाया ऐसा छक्का कि देखकर ...</h3>
+                <h3>Warner, David and Starc shine as Australia secure convincing win</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSGC1tD4jExamSsSdaNlg4NlJtofVL5eZFb4OiHPxI3Hm6edthA-MbOXt7usVZYXhBSlvz1nE6a" alt="AUS vs WI: Kyle Mayers ने कवर्स के ऊपर से लगाया ऐसा छक्का कि देखकर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Kyle Mayers Six Viral Video: कैमरून ग्रीन की गेंद पर काइल मेयर्स ने लगाया कवर्स के ऊपर से चौंकाने&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTnllRfUMM-Rr7PDVsOEjhzEYGXZ0zu4cism1nyduqFs0SFUGdvR-cpu2EZu32BznO4rDNrYAql" alt="Warner, David and Starc shine as Australia secure convincing win" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Warner dominated the first half of the innings and David turned on the power in the latter stages before West Indies&#39; chase struggled to build a consistent&nbsp;...</p></div>
             </div>
-        </a><a href='https://timesofindia.indiatimes.com/sports/cricket/australia-vs-west-indies-1st-t20i-today-match-2022-live-cricket-score-updates/liveblog/94621138.cms'>
+        </a><a href='https://sportstar.thehindu.com/cricket/australia-vs-west-indies-live-score-2nd-t20i-scorecard-updates/article65979723.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Australia vs West Indies 1st T20I Highlights: Australia beat West ...</h3>
+                <h3>Australia vs West Indies Highlights 2nd T20I: Warner, Starc shine as ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT3j5mnrwPVhoOFR2-5E9-SLGpj_7XbfVeo8dnvWz67DtFN63fGYXQ_Ep3b9BhzyG_2MemfdgVT" alt="Australia vs West Indies 1st T20I Highlights: Australia beat West ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Get live cricket score updates of match between Australia vs West Indies. Check live scorecard, ball by ball commentary, cricket score online on Time.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ7JlIS9FF_1-8KeUlUA6vRpCux8C41PFJhXbbyjdsO7xLt29ylErg6WV-PV-TjAmPylf3OE9xr" alt="Australia vs West Indies Highlights 2nd T20I: Warner, Starc shine as ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Australia vs West Indies live score: Follow live score, updates, commentary and highlights from the second T20I between Aus and WI.</p></div>
             </div>
-        </a><a href='https://www.jansatta.com/khel/aus-vs-wi-aaron-finch-returned-form-before-t20-world-cup-australia-won-after-12-years-against-west-indies-on-home/2410530/'>
+        </a><a href='https://www.indiatoday.in/sports/cricket/story/aus-vs-wi-2nd-t20i-david-warner-and-tim-david-were-the-difference-in-the-match-says-aaron-finch-2009474-2022-10-07'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>AUS vs WI: T20 विश्व कप से पहले फॉर्म में लौटे एरोन फिंच, घरेलू मैदान पर ...</h3>
+                <h3>AUS vs WI, 2nd T20I: David Warner and Tim David were the ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRsPv8a8QFjDG5W9UnGFtQ1MteDOoIEy6_L138EBjoz59r2sk4Sc3upBjxLddLgdQILh5FBf4ZD" alt="AUS vs WI: T20 विश्व कप से पहले फॉर्म में लौटे एरोन फिंच, घरेलू मैदान पर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Australia vs West Indies, 1st T20I: वेस्टइंडीज ने पहले 20 ओवर में 9 विकेट पर 145 रन बनाए थे।</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRawYsnQWeO-S9Ek2u6TMVR0x6ld8syIc-IQZlzwdx3tIfPAf_jJZPUXC0qDD3RniI_Q7JTAjBX" alt="AUS vs WI, 2nd T20I: David Warner and Tim David were the ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Australia captain Aaron Finch said that David Warner and Tim David were the difference in the second T20I against West Indies.</p></div>
             </div>
-        </a><a href='https://www.outlookindia.com/sports/aus-vs-wi-t20i-aaron-finch-matthew-wade-star-as-australia-beat-sloppy-west-indies-news-227828'>
+        </a><a href='https://www.dnaindia.com/cricket/report-aus-vs-wi-tim-david-hits-monstrous-110m-six-vs-west-indies-in-the-2nd-t20i-watch-video-2991083'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>AUS Vs WI, 1st T20I: Aaron Finch, Matthew Wade Star As Australia ...</h3>
+                <h3>AUS vs WI: Tim David hits monstrous 110m six vs West Indies in the ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTrDT6glv_xPQ8ZRP7uHyUJtUFej06RwQiA0WYA4_2Rs4qHVyRzs93JAoAV-fN8MfIPqVIbrZy6" alt="AUS Vs WI, 1st T20I: Aaron Finch, Matthew Wade Star As Australia ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Skipper Aaron Finch hit a brilliant 58 and along with Matthew Wade, steered Australia to a three-wicket win over the West Indies in the opening T20I at the&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQuk-MUBmXCX6FwQgsrW4E_ajglX_2J8gh8zLGf9ieZccZyeInSZd-Fc1gR9GQyqqzEGl3uRSlj" alt="AUS vs WI: Tim David hits monstrous 110m six vs West Indies in the ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>David went 4, 6, 6, 4 on the first four balls of the 17th over bowled by Obed McCoy.</p></div>
             </div>
-        </a><a href='https://www.news18.com/cricketnext/news/aus-vs-wi-aaron-finch-matthew-wade-guide-australia-to-a-close-win-over-west-indies-6105691.html'>
+        </a><a href='https://zeenews.india.com/cricket/aus-vs-wi-2nd-t20i-david-warner-tim-david-show-lights-up-the-gabba-before-t20-world-cup-2022-watch-2519055.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Aus vs WI: Aaron Finch, Matthew Wade Guide Australia to A Close ...</h3>
+                <h3>AUS vs WI 2nd T20I: David Warner, Tim David show lights up The ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSGW0oUOzzkONiBT_eKXa1AfyFxIazNKQ9dt-T35RWJ3PCOze4OCPw8wNFS941HbMlZrvgIAVfx" alt="Aus vs WI: Aaron Finch, Matthew Wade Guide Australia to A Close ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Aaron Finch and Matthew Wade revived Australia&#39;s run chase before Mitchell Starc clinched the three-wicket win with a ball to spare Wednesday in a dramatic&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR5Pw9tiBFXKuCUlP6dltOv5ZKSGj95L6D2I0q1WkPyInDW805FhGYbgufKkAlMcp-hBLep4RB7" alt="AUS vs WI 2nd T20I: David Warner, Tim David show lights up The ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Batting first on Thursday vs West Indies, Australia put on 178/7 in 20 overs. Apart from Warner&#39;s fifty, other standout performer was David who smashed 42&nbsp;...</p></div>
             </div>
-        </a><a href='https://newstrack.com/sports/aus-vs-wi-1st-t20-highlights-australia-beat-west-indies-by-3-wicket-take-1-0-lead-339398'>
+        </a><a href='https://sports.ndtv.com/cricket/australia-vs-west-indies-2nd-t20i-live-updates-3410137'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>AUS vs WI 1st T20: ऑस्ट्रेलिया ने दर्ज की रोमांचक जीत, वेस्टइंडीज को ...</h3>
+                <h3>Australia vs West Indies, 2nd T20I Highlights: David Warner, Mitchell ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTEhMAB_TDAR0lsGgc-2PA_GivgfIG3MccoJI-jd0aeEP19XyyQC9nZKfl3yvZOWlWhJ_jtI9c7" alt="AUS vs WI 1st T20: ऑस्ट्रेलिया ने दर्ज की रोमांचक जीत, वेस्टइंडीज को ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>AUS vs WI 1st T20: ऑस्ट्रेलिया और वेस्टइंडीज के के बीच दो मैचों की टी-20 सीरीज का पहला मुकाबला&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTbJShk3oi3Sjeytv9a2x6Xyq9MaFku4h1WBFssxNbsM1S3gw1CO8zFQy6fRAu2QfE1rbwQJZUQ" alt="Australia vs West Indies, 2nd T20I Highlights: David Warner, Mitchell ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Australia vs West Indies, 2nd T20I Highlights: Australia on Friday defeated West Indies by 31 runs in the second T20I in Brisbane to sweep the two-match&nbsp;...</p></div>
             </div>
-        </a><a href='https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/finch-returns-to-form-australia-thrilling-win-over-west-indies/articleshow/94663726.cms'>
+        </a><a href='https://hindi.oneindia.com/news/sports/cricket/tim-david-hits-massive-110-metre-six-australia-won-by-31-runs-against-west-indies-717269.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>AUS vs WI highlights: आखिरी ओवर में जीता ऑस्ट्रेलिया, सांस थामने वाले ...</h3>
+                <h3>Aus vs WI: टिम डेविड ने जड़ा 110 मीटर का जोरदार छक्का, गेंदबाज हक्का ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTkPIqn_KcYHyWJ90im5qqxp7hg10eELeKoY70fAnXfssikhE2zgdhuFIi1SIRkZojiAVpKRdGa" alt="AUS vs WI highlights: आखिरी ओवर में जीता ऑस्ट्रेलिया, सांस थामने वाले ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>AUS vs WI highlights: मेजबान ऑस्ट्रेलिया और वेस्टइंडीज के बीच दो मैच की की टी-20 सीरीज का पहला&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTuZjEMqaA3JHQPvYdmd6naK428yfNRrEDET_YVZnYMT_u4r5AIalHUdF8cdL8ek_0LN4bYj4DA" alt="Aus vs WI: टिम डेविड ने जड़ा 110 मीटर का जोरदार छक्का, गेंदबाज हक्का ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>ऑस्ट्रेलिया और वेस्टइंडीज (AUS vs WI) के बीच दो मैचों की टी20 सीरीज का दूसरा मैच 7 अक्टूबर को&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
