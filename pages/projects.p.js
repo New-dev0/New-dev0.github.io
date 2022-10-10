@@ -28,7 +28,7 @@ export default function Projects() {
         <Template show_content={false}>
             <h1 className={styles.heading}>Projects</h1>
             <CreateCard title="TgTwitterStreamer" description={"Automate posting of Twitter tweets on Telegram."} image="https://raw.githubusercontent.com/New-dev0/TgTwitterStreamer/main/TgTwitterStreamer/assets/START.webp" style={{width: query ? "40vh": "90vh"}} />
-            <CreateCard title="Template-Generater" description="Create profile templates for Github, Telegram and more." href="https://template.newdev0.in" style={{ width: query ? "40vh": "90vh"}}/>
+            <CreateCard title="Template-Generator" description="Create profile templates for Github, Telegram and more." href="https://template.newdev0.in" style={{ width: query ? "40vh": "90vh"}}/>
             <CreateCard title="TgTwitterBot" description={"Control and Explore Twitter from Telegram."} image="https://raw.githubusercontent.com/New-dev0/TgTwitterStreamer/main/TgTwitterStreamer/assets/START.webp" style={{width: query ? "40vh": "90vh"}}/>
             <CreateCard title="Bing-Chatbot" description={"Bing AI Based Telegram Chat bot."} href={gh("Bing-ChatBot")}  style={{width: query ? "40vh": "90vh"}}/>
         </Template>
