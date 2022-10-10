@@ -7,9 +7,9 @@ import Image from "next/image";
 export default function Page() {
     const md = useMediaQuery(960);
     return <><Head>
-        <title>World Teachers' Day</title>
+        <title>World Teacher&#39;s Day</title>
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,World Teachers' Day"/>
-        <meta name="description" content="Trending News about World Teachers' Day" /></Head><Template>
+        <meta name="description" content="Trending News about World Teachers&#39; Day" /></Head><Template>
             <h1 style={{fontSize: "30"}}>World Teachers' Day</h1>
             <Image width={800} height={500} src="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production Library/19-08-2022_UNICEF_Syria.jpg/image770x420cropped.jpg" alt="World Teachers' Day"/>
             <h3>Recent News</h3>
