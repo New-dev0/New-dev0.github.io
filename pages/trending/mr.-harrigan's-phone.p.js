@@ -7,9 +7,9 @@ import Image from "next/image";
 export default function Page() {
     const md = useMediaQuery(960);
     return <><Head>
-        <title>Mr. Harrigan's Phone</title>
+        <title>Mr. Harrigan&#39;s Phone</title>
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Mr. Harrigan's Phone"/>
-        <meta name="description" content="Trending News about Mr. Harrigan's Phone" /></Head><Template>
+        <meta name="description" content="Trending News about Mr. Harrigan&#39;s Phone" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Mr. Harrigan's Phone</h1>
             <Image width={800} height={500} src="https://images.indianexpress.com/2022/10/mr-harrigans-phone-review.jpg" alt="Mr. Harrigan's Phone"/>
             <h3>Recent News</h3>
