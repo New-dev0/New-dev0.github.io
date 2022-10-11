@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Kapil Dev"/>
         <meta name="description" content="Trending News about Kapil Dev" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Kapil Dev</h1>
-            <Image width={800} height={500} src="https://spiderimg.amarujala.com/assets/images/2021/06/25/750x506/kapil-dev_1624642277.jpeg" alt="Kapil Dev"/>
+            <Image width={800} height={500} src="https://images.indianexpress.com/2022/10/kapil-dev-mental-health.jpg" alt="Kapil Dev"/>
             <h3>Recent News</h3>
-            <a href='https://www.amarujala.com/cricket/cricket-news/kapil-dev-said-pepole-say-there-is-pressure-in-ipl-i-would-say-don-t-play'>
+            <a href='https://indianexpress.com/article/trending/trending-in-india/kapil-devs-comments-on-depression-and-passion-spark-debate-on-mental-health-8200758/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Kapil Dev&#39;s comments on &#39;depression&#39; and &#39;passion&#39; spark debate on ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRhS-IWamDVH0i4t1XfLwfckZnLls730Pyx7wWTNj_JOtmos28p1BZsysb8vyaTMs8wIkyVAEJp" alt="Kapil Dev&#39;s comments on &#39;depression&#39; and &#39;passion&#39; spark debate on ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kapil Dev said during an event he does not understand &#39;American words&#39; like pressure and depression.</p></div>
+            </div>
+        </a><a href='https://www.hindustantimes.com/cricket/childish-and-immature-he-s-speaking-nonsense-kapil-dev-lambasted-for-comments-mental-health-in-viral-video-101665331873423.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>&#39;Immature, nonsense&#39;: Kapil lambasted for mocking mental health in ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR-klV_xkTOGQ-mQ8Nqv0olgy2io3IHMDzD8FDaRvqO5QkvKs3ayonu0z_IUClwDpuKpOvqpgdY" alt="&#39;Immature, nonsense&#39;: Kapil lambasted for mocking mental health in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Legendary India captain Kapil Dev, in a viral video, made a statement on &#39;pressure&#39; and &#39;deperession&#39; being &#39;American words&#39;, but fans were left angered as&nbsp;...</p></div>
+            </div>
+        </a><a href='https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/if-there-is-pressure-and-depression-then-don-play-kapil-dev-got-trolled-for-his-statement/articleshow/94764198.cms'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Kapil Dev: प्रेशर और डिप्रेशन है तो मत खेलो...! अपने इस बयान को लेकर ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR7-lQiabI_Nb0LXCwZWvfk9WeWKizcK83-AGJsS4n-TAjzNraB3Mv587AvlAALGXr3tz4NPBc9" alt="Kapil Dev: प्रेशर और डिप्रेशन है तो मत खेलो...! अपने इस बयान को लेकर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kapil Dev: भारतीय क्रिकेट टीम के पूर्व कप्तान कपिल देव हाल ही में मेंटल हेल्थ पर अपने बयान&nbsp;...</p></div>
+            </div>
+        </a><a href='https://economictimes.indiatimes.com/news/new-updates/dont-play-kapil-dev-gives-simple-advise-to-players-on-pressure-angry-fans-call-it-foolish-immature/articleshow/94753127.cms'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>&#39;Don&#39;t play&#39;: Kapil Dev gives simple advise to players on pressure ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT_M6DKM2BsyOo0-Kq8_kmk0UFI0_zPKd8zoL3d4AwMvYqec785t5c4vUvNSox8RDfprINDYxJX" alt="&#39;Don&#39;t play&#39;: Kapil Dev gives simple advise to players on pressure ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mocking them as &quot;American words&quot; he said that if players feel there is a pressure in playing IPL, then they should not play the league.</p></div>
+            </div>
+        </a><a href='https://www.thenewsminute.com/article/no-kapil-dev-depression-not-american-fad-168755'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>No Kapil Dev, &#39;depression&#39; is not an American fad</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTGGMa9pndQbVUfp-eFmbsC6SAvo8lRhJTP8F-Hb6afK_P3t9NsONiq9oW38SBkVdPRGZI6l3iZ" alt="No Kapil Dev, &#39;depression&#39; is not an American fad" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>In a country where the number of student deaths by suicide saw an increase by 4.5% last year, the cricketing legend comes off as someone out of touch with&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.patrika.com/cricket-news/kapil-dev-gets-slammed-by-netizens-over-his-remarks-7813799/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>कपिल देव के बयान पर मिली-जुली प्रतिक्रिया, कुछ लोगों ने सराहा, कईयों ने ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQpOaWFLMsl8O7SQGpXuIumbbj6NJhKtjdktG9N-fpphWZrIW7J7Tdqhew5qFFn3dKA_00SDBRX" alt="कपिल देव के बयान पर मिली-जुली प्रतिक्रिया, कुछ लोगों ने सराहा, कईयों ने ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>क्रिकेट जगत में कपिल देव (Kapil Dev) का नाम बड़े सम्मान से लिया जाता है।</p></div>
+            </div>
+        </a><a href='https://www.amarujala.com/cricket/cricket-news/kapil-dev-said-pepole-say-there-is-pressure-in-ipl-i-would-say-don-t-play'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Kapil Dev: आईपीएल को लेकर बोले कपिल देव- लोग कहते हैं इसमें बहुत दबाव ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSnlhY1i1tcmnvDtFqF_G9dn7QIV_kTPsf1QM6Fl2j9MHF1lziHJ-2AvIThYNNax_gebjYKaRgQ" alt="Kapil Dev: आईपीएल को लेकर बोले कपिल देव- लोग कहते हैं इसमें बहुत दबाव ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>कपिल देव ने मौजूदा खिलाड़ियों पर निशाना साधते हुए कहा है कि अगर आपको आईपीएल में बहुत&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.hindustantimes.com/cricket/kapil-dev-gives-blunt-advice-to-players-ahead-of-t20-world-cup-2022-don-t-play-in-ipl-if-you-101665296515511.html'>
+        </a><a href='https://www.mensxp.com/health/mental-health/119376-kapil-dev-mental-health-viral-video-talk-to-your-parents-about-pressure-depression.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Don&#39;t play in IPL if you...&#39;: Kapil&#39;s blunt advice to players ahead of ...</h3>
+                <h3>Kapil Dev Dismissing Depression Is Exactly Why We Hide Mental ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRNwUNn-GH8AcohkDjoaaFHUW1j-j6KtnkMH__xCD1C8KwPdJ3N049wXG0q33uka0MLXMd0lhYc" alt="&#39;Don&#39;t play in IPL if you...&#39;: Kapil&#39;s blunt advice to players ahead of ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Addressing an audience, legendary cricketer Kapil Dev shared his views on how demanding competitive cricket has become in the modern era. | Cricket.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS7ynNd3NTQVBqrlf86_l3SKbhffjZcC6WrfZqWBGcFhgThr_vXM0dWAnDsPdYKQNrYWWPMTJVk" alt="Kapil Dev Dismissing Depression Is Exactly Why We Hide Mental ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kapil Dev called depression an American term &amp; mocked those who face pressure. It&#39;s why India needs mental health awareness.</p></div>
             </div>
-        </a><a href='https://www.abplive.com/sports/cricket/former-indian-cricketer-kapil-said-if-you-feel-pressure-in-playing-ipl-than-i-will-say-don-t-play-it-2234236'>
+        </a><a href='https://www.dnaindia.com/hindi/sports/news-kapil-dev-slams-jasprit-bumrah-says-people-say-theres-pressure-ipl-i-would-say-dont-play-4055482'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;IPL में इतना दबाव होता है तो मत खेलो...&#39; टी20 वर्ल्ड कप से पहले कपिल देव ...</h3>
+                <h3>Kapil Dev: जसप्रीत बुमराह और विराट कोहली पर कपिल देव का तंज, दबाव है ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTzDtq-RoHTisiY8Zdp1ljpHdIY3xH7HIlUtjbyD-OCbllRuBGA2w2A6hjIzDC2AT6hGacEhnPh" alt="&#39;IPL में इतना दबाव होता है तो मत खेलो...&#39; टी20 वर्ल्ड कप से पहले कपिल देव ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Kapil Dev On IPL: साल 1983 में टीम इंडिया को पहली बार वर्ल्ड कप जिताने वाले कप्तान कपिल देव ने&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTqDEDnvsEE7RBAWe4D1Q0V5o1xEqsnr2_RKk5VYHGH_B2oyxKkHeAqbUDFGDKqCyHjDW6H9DVm" alt="Kapil Dev: जसप्रीत बुमराह और विराट कोहली पर कपिल देव का तंज, दबाव है ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kapil Dev On Bumrah: पूर्व भारतीय कप्तान ने खिलाड़ियों के वर्कलोड और डिप्रेशन जैसी बातों पर&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.aajtak.in/sports/cricket/story/kapil-dev-statement-on-ipl-players-pressure-team-india-game-work-load-management-tspo-1552737-2022-10-09'>
+        </a><a href='https://www.firstpost.com/firstcricket/sports-news/kapil-dev-brutally-slammed-for-mocking-pressure-depression-as-american-words-11420461.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Kapil Dev IPL: वर्कलोड मैनेजमेंट पर कपिल देव का बयान वायरल, बोले- तो ...</h3>
+                <h3>Netizens slam Kapil Dev for mocking mental health and depression</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQcjOA-M-73o8ymiQY3faPYkr1ZI-Hi4La8-tecEstWK1ptaR1KOEqLaA-TEd-XXmJTFeWlFqBA" alt="Kapil Dev IPL: वर्कलोड मैनेजमेंट पर कपिल देव का बयान वायरल, बोले- तो ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>टीम इंडिया को 1983 का वर्ल्डकप जिताने वाले कप्तान कपिल देव का एक बयान सुर्खियों में है.</p></div>
-            </div>
-        </a><a href='https://www.livehindustan.com/cricket/story-kapil-dev-gives-blunt-advice-to-players-says-i-hear-a-lot-of-pressure-on-players-to-play-in-the-ipl-then-i-say-do-not-play-7194184.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>कपिल देव ने कोहली सहित अन्य खिलाड़ियों को लगाई फटकार, कहा- अगर इतना ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRINg-9WgZpwSsz8IbOlmw5XE5AFm2MKEY3zP__u8GUNf15vdNb9M_jy0XweHjLQWu9FZ32Ub1f" alt="कपिल देव ने कोहली सहित अन्य खिलाड़ियों को लगाई फटकार, कहा- अगर इतना ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>भारत के पूर्व कप्तान कपिल देव ने खिलाड़ियों से कहा है कि अगर वे बहुत अधिक दबाव महसूस&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.mensxp.com/sports/cricket/119285-kapil-dev-slammed-for-mocking-mental-health-in-public-forum.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;How Can A Legend Be So Foolish?&#39; Angry Fans Lash Out At Kapil ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTIsfy-MipDrOXHM_WxWy9HfHVjlJIHawQWFhS0AHJK0Z_S5YAGvxCjBk5oWuUWLVUkU1vBdqK4" alt="&#39;How Can A Legend Be So Foolish?&#39; Angry Fans Lash Out At Kapil ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Indian cricket legend Kapil Dev shared his views about depression and mental health at an event recently and it led to an outrage on social media.</p></div>
-            </div>
-        </a><a href='https://www.timesnownews.com/sports/cricket/i-cant-understand-these-american-terms-like-depression-kapil-dev-makes-shocking-remark-on-handling-pressure-article-94740064'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>I can&#39;t understand these American words like depression: Kapil Dev ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS9nhd_cPf7WQ-EJGcRgfvfLdMR2iejB3CaS8mBlTTlQUZg8PXqkJ2rVeiqA2DSkv7u59AqRljD" alt="I can&#39;t understand these American words like depression: Kapil Dev ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Former Indian captain Kapil Dev opened up on players handling pressure in the current days. Kapil stated that players should enjoy what they are doing and&nbsp;...</p></div>
-            </div>
-        </a><a href='https://hindi.insidesport.in/latest/kapil-dev-on-ipl-says-pressure-and-depression-american-words-i-dont-know-but-if-you-feel-in-cricket-then-do-not-play-504986/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Kapil Dev on IPL: मत खेलो क्रिकेट अगर प्रेशर है तो, जानिए कपिल देव ने ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQx7egkdjx_oFly29ze6TR9N6jYLfMvl89v-MYpKF3nR4qc0Ba4OxEJpBIExX0CE2xQcFj9hmy2" alt="Kapil Dev on IPL: मत खेलो क्रिकेट अगर प्रेशर है तो, जानिए कपिल देव ने ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Kapil Dev on IPL: टीम इंडिया (India Cricket Team) के पूर्व कप्तान कपिल देव ने एक इवेंट में कहा कि&nbsp;...</p></div>
-            </div>
-        </a><a href='https://zeenews.india.com/telugu/sports/kapil-dev-says-do-not-play-in-ipl-if-you-feel-lot-of-pressure-78891'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>అలా అయితే ఐపీఎల్ ఆడడం మానేయండి.. టీమిండియా ఆటగాళ్లకు కపిల్‌ దేవ్‌ ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRWJom5pNlqQkJvny0FpsObFp_770aquTRa0fgHoe34oIeG-zViJ5I797gmlPdruOG0UsO7G-aM" alt="అలా అయితే ఐపీఎల్ ఆడడం మానేయండి.. టీమిండియా ఆటగాళ్లకు కపిల్‌ దేవ్‌ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>అలా అయితే ఐపీఎల్ ఆడడం మానేయండి.. టీమిండియా ఆటగాళ్లకు కపిల్‌ దేవ్‌ కౌంటర్‌! Updated: Oct 09, 2022, 10:&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.eenadu.net/telugu-news/sports/kapil-devs-remarks-spark-debate-on-cricketers-pressure/0400/122191991'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>kapil dev: క్రికెటర్లపై ఒత్తిడి?.. కపిల్‌ దేవ్‌ స్ట్రాంగ్‌ కౌంటర్‌</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTlIQ2Xjq_jQ8raiwV-tH1Me1mV3GV_Ndl0-oJWy0055OeXkUT-LOWR_RwgmYZanwTmRQN4q8Fr" alt="kapil dev: క్రికెటర్లపై ఒత్తిడి?.. కపిల్‌ దేవ్‌ స్ట్రాంగ్‌ కౌంటర్‌" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ఒత్తిడితో ఆడేది ఆట అనిపించుకోదని, ఆస్వాదించలేని వారు దాన్ని వదిలేయడమే మంచిదంటూ&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSLlXQqDdOqsSrwGOWOE_oXdEClmXphX_u4jFRUbp01XpcKMmQvkJkSRYt3we6bMgwSTFd7hOOI" alt="Netizens slam Kapil Dev for mocking mental health and depression" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>While featuring in a conversation show named &#39;Chat with Champions&#39;, Dev mocked words like &#39;pressure&#39; and &#39;depression&#39; as &#39;American words&#39; and stated that he&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
