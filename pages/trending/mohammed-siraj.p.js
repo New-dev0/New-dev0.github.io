@@ -11,56 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Mohammed Siraj"/>
         <meta name="description" content="Trending News about Mohammed Siraj" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Mohammed Siraj</h1>
-            <Image width={800} height={500} src="" alt="Mohammed Siraj"/>
+            <Image width={800} height={500} src="https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/347300/347308.6.jpg" alt="Mohammed Siraj"/>
             <h3>Recent News</h3>
-            <a href='https://www.hindustantimes.com/cricket/mohammed-siraj-argues-with-umpire-after-conceding-four-overthrows-during-ind-vs-sa-2nd-odi-video-101665317359589.html'>
+            <a href='https://www.espncricinfo.com/story/smooth-and-skilful-mohammed-siraj-emerges-as-india-s-new-ball-trump-card-1339504'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Watch - Siraj argues with umpire after conceding four overthrows ...</h3>
+                <h3>Smooth and skilful Siraj emerges as India&#39;s new-ball trump card</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQroyE8OVHVmw-QJAizYLzdA2A_dxjo8QbEf47xTHPe3NbJBJ9lA0JmrQbnqQ6vqPVToCUOj3gJ" alt="Watch - Siraj argues with umpire after conceding four overthrows ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Spearheading the Indian attack, Mohammed Siraj finished his ten overs quota with three wickets, while conceding just 38 runs. | Cricket.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQja0AZ0PvTh6-Y3S7pQ4zxTbsVbLFXl_CPXkiZpDNy_beSPWw9SZpIu31qIjWXXeCpiY_MQeJW" alt="Smooth and skilful Siraj emerges as India&#39;s new-ball trump card" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>His control and rhythm has been instrumental in India turning around a dismal record in the first powerplay.</p></div>
             </div>
-        </a><a href='https://cricxtasy.com/watch/mohammed-siraj-takes-brilliant-catch-ind-sa-odi-series/cid8759105.htm'>
+        </a><a href='https://www.abplive.com/sports/cricket/fast-bowler-mohammad-siraj-was-adjudged-man-of-the-match-in-the-india-south-africa-3-match-series-2235774'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Watch: Mohammed Siraj takes brilliant running catch; holds onto ball ...</h3>
+                <h3>IND vs SA 2022: तेज गेंदबाज मोहम्मद सिराज बने मैन ऑफ द सीरीज ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQSHrm9zHwnLiX4x9IBzs2pfUyC7FXm_ZnrUQ0eZhRssXwdE4LzyefMnsI-Hk9p5k_WdSN4s8Jllg" alt="Watch: Mohammed Siraj takes brilliant running catch; holds onto ball ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Indian fast-bowler showcased his impressive fielding abilities in the back half of the South African first-innings batting effort.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRZxLCwuZZuTA6ll-vYVDRIx_bbQ_epXUpcm3W97Z3RADf5Z0Dt8_yZgbP6GPBlZ8e2ZvVcAPEL" alt="IND vs SA 2022: तेज गेंदबाज मोहम्मद सिराज बने मैन ऑफ द सीरीज ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>भारत ने साउथ अफ्रीका के खिलाफ 3 वनडे मैचों की सीरीज 2-1 से अपने नाम कर लिया.</p></div>
             </div>
-        </a><a href='https://crickettimes.com/2022/10/ind-vs-sa-watch-mohammed-siraj-takes-a-blinder-to-dismiss-heinrich-klaasen-in-ranchi-odi/'>
+        </a><a href='https://hindi.cricketaddictor.com/cricket/mohammed-siraj-on-performance/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>IND vs SA: WATCH - Mohammed Siraj takes a blinder to dismiss ...</h3>
+                <h3>Mohammed Siraj अपने शानदार प्रदर्शन के चलते बने प्लेयर ऑफ द सीरीज</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT4WxUTJomcAGDoajJ2mBXB5AeFX2uq-bGywm9M_2JjFCSZKEwkLUuIivCHE3YueZb9qqUkYZye" alt="IND vs SA: WATCH - Mohammed Siraj takes a blinder to dismiss ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mohammed Siraj was at his best in the ongoing second One-Day International (ODI) against South Africa at JSCA International Stadium Complex in Ranchi on&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcREh7YKtc-go48deTRUh4Hr8bHjDWC-uezK4i3LlLNhArRPPYT0jDf7ijkmRkfNW--LklxNAMhV" alt="Mohammed Siraj अपने शानदार प्रदर्शन के चलते बने प्लेयर ऑफ द सीरीज" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>दक्षिण अफ्रीका के खिलाफ भारतीय गेंदबाज मोहम्मद सिराज (Mohammed Siraj) का प्रदर्शन काफी&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.timesnownews.com/sports/cricket/mohammed-siraj-misses-stumps-and-concedes-four-overthrow-runs-gets-into-heated-argument-with-umpire-watch-article-94742283'>
+        </a><a href='https://hindi.indiaaheadnews.com/cricket/with-his-impressive-bowling-in-ind-vs-sa-odi-series-mohammed-siraj-increased-the-tension-of-bcci-will-he-get-chance-in-t20-wc-2022-in-place-of-jasprit-bumrah-236978/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mohammed Siraj misses stumps and concedes four overthrow runs ...</h3>
+                <h3>T20 WC 2022: विश्व कप से पहले इस गेंदबाज ने बढ़ाई BCCI की टेंशन</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTcMivtzM2QW5YcOWExpAm6rJrwcj15sX1U0OxcbnmlHeg-nPiRddreTklGl3rbY_mKLdqKla2u" alt="Mohammed Siraj misses stumps and concedes four overthrow runs ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Indian pacer Mohammed Siraj&#39;s attempts and trying to steal a clever run-out ended in embarrassment as he ended up missing the stumps and conceding four&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQoGNtqnT8maVK-T-8AlA_CEKokememMXkY3mOin-nZK6FJY1npRzrn2Tg-eixe3keXG55NIZqo" alt="T20 WC 2022: विश्व कप से पहले इस गेंदबाज ने बढ़ाई BCCI की टेंशन" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>T20 WC 2022: भारत और साउथ अफ्रीका के बीच 3 वनडे मैचों की सीरीज समाप्त हो चुकी है.</p></div>
             </div>
-        </a><a href='https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-2nd-odi-mohammed-siraj-runout-david-miller-2283083-2022-10-09'>
+        </a><a href='https://zeenews.india.com/hindi/sports/cricket/mohammed-siraj-lethal-fast-bowling-against-south-africa-team-india-pace-bowler-mohammed-siraj-indian-team/1390962'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>IND vs SA, 2nd ODI: Mohammed Siraj hilariously concedes 4-byes ...</h3>
+                <h3>आपको अपने अंदर उस आग की जरूरत होती है, टीम इंडिया के इस खिलाड़ी ने ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSRY2tlAx-4Te7aSwS-WlmrRX15nR0ET2K0hCeqd5_Ljf5FEEIinFKw6ywqBdKgQgHLcNLMx-2N" alt="IND vs SA, 2nd ODI: Mohammed Siraj hilariously concedes 4-byes ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>India vs South Africa, 2nd ODI: Mohammed Siraj conceded a boundary while trying to run out South Africa&#39;s David Miller, late in the first innings of the&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQeTOROsnsAPWdQ7E6BWej5cDWHAZHKFd30_91cvVnE9OjaGZ5CTBxjjbkplv2Vd1U96XjqLhp6" alt="आपको अपने अंदर उस आग की जरूरत होती है, टीम इंडिया के इस खिलाड़ी ने ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Team India: भारत के तेज गेंदबाज मोहम्मद सिराज उन कुछ खिलाड़ियों में शामिल हैं, जिन्होंने&nbsp;...</p></div>
             </div>
-        </a><a href='https://sportscafe.in/cricket/articles/2022/oct/09/ind-vs-sa-twitter-reacts-to-quinton-de-kock-mocking-mohammed-siraj-by-generously-demanding-dead-ball'>
+        </a><a href='https://www.india.com/hindi-news/cricket-hindi/india-vs-south-africa-3rd-odi-mohammad-siraj-player-of-the-tournament-responds-to-match-winning-performance-5681386/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>IND vs SA | Twitter reacts to Quinton de Kock &#39;mocking&#39; Mohammed ...</h3>
+                <h3>Mohammad Siraj : &#39;मैदान पर सिराज को क्‍यों आता है इतना गुस्‍सा, मैच के ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQHLqf6BIHGux8jrPSIW18Kb0izJ8lUBeVbht3t9lP3_VViXLHVw1fV0tlNVUEvxsY5In5KyghN" alt="IND vs SA | Twitter reacts to Quinton de Kock &#39;mocking&#39; Mohammed ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The second ODI between India and South Africa was full of drama as Mohammed Siraj&#39;s antics in the first innings were the talking point of the game.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTJOQgNyFrOFQWS3mz7A1gyW3VLu9U3wDZjc9Pu7T6vOPWjg1JYyekT2gdJPsUUQoZFuCg7skc1" alt="Mohammad Siraj : &#39;मैदान पर सिराज को क्‍यों आता है इतना गुस्‍सा, मैच के ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>मोहम्‍मद सिराज ने वनडे सीरीज के दौरान कुल पांच विकेट अपने नाम किए. जिसके चलते उन्‍हें&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.dnaindia.com/cricket/report-watch-mohammed-siraj-concedes-4-leg-byes-in-an-attempt-to-run-out-david-miller-2991478'>
+        </a><a href='https://hindi.cricketnmore.com/cricket-photo-news/performing-against-a-good-team-gives-you-a-lot-of-confidence-says-mohammed-siraj-12751'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Watch: Mohammed Siraj concedes 4 leg-byes in an attempt to run ...</h3>
+                <h3>मुझे जिम्मेदारी लेनी पड़ी, साउथ अफ्रीका पर सीरीज जीत के बाद बोले ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTK0E1c9DNtkMszE-zWco56ZRttk-58uVp8k7W8uOM37uZitkiZrSzugNjOwBjkkoRlTXoANoBY" alt="Watch: Mohammed Siraj concedes 4 leg-byes in an attempt to run ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>India&#39;s Mohammed Siraj hilariously conceded a boundary in 48th over of the game, while trying to run out David Miller on the non striker&#39;s end.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRcfRyr4YTzFKA6G1vO-_tF3pV1Saj4ZC4uIbwfuU3KFWMlWlSDR4MXQurAQzjBD4igK-4TyTiJ" alt="मुझे जिम्मेदारी लेनी पड़ी, साउथ अफ्रीका पर सीरीज जीत के बाद बोले ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>भारत के तेज गेंदबाज मोहम्मद सिराज (Mohammed Siraj) उन कुछ खिलाड़ियों में शामिल हैं, जिन्होंने&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

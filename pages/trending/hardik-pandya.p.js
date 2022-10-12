@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Hardik Pandya"/>
         <meta name="description" content="Trending News about Hardik Pandya" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Hardik Pandya</h1>
-            <Image width={800} height={500} src="https://akm-img-a-in.tosshub.com/aajtak/images/story/202209/imgonline-com-ua-twotoone-vwkxqy0fcp-sixteen_nine.jpg" alt="Hardik Pandya"/>
+            <Image width={800} height={500} src="https://www.jagranimages.com/images/newimg/11102022/11_10_2022-hardik_pandya_team_india_all_rounder_23132498.jpg" alt="Hardik Pandya"/>
             <h3>Recent News</h3>
-            <a href='https://www.aajtak.in/sports/cricket/story/hardik-pandya-first-meeting-with-father-and-mother-in-law-watch-the-video-natasa-stankovic-team-india-tspo-1544711-2022-09-26'>
+            <a href='https://www.jagran.com/cricket/headlines-happy-birthday-hardik-pandya-most-promising-all-rounder-of-team-india-who-can-be-x-factor-in-t20-world-cup-turn-29-year-today-23132498.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Hardik Pandya: हार्दिक पंड्या पहली बार अपने सास-ससुर से मिले, शेयर ...</h3>
+                <h3>Happy Birthday Hardik Pandya: 29 के हुए हार्दिक, वर्ल्ड कप में इंडिया ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQmBF9wI8IpgtKG6J_evjyXNyzfOzZS6yXU8TWwy2G5QRhHmP3s5QHTvpeHz71IomsevPto0UPf" alt="Hardik Pandya: हार्दिक पंड्या पहली बार अपने सास-ससुर से मिले, शेयर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>टीम इंडिया के ऑलराउंडर हार्दिक पंड्या ने पहली बार अपने सास-ससुर से मुलाकात की है.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTHOvBs9NrJuGWCZ1uoHSm5iuDkrkwgfinMbCQV9RxM635kfnTqJ9sQiXTLOczn3ep090d661WE" alt="Happy Birthday Hardik Pandya: 29 के हुए हार्दिक, वर्ल्ड कप में इंडिया ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Happy Birthday Hardik Pandya टीम इंडिया के ऑलराउंडर हार्दिक पांड्या आज 29 साल के हो गए हैं।</p></div>
             </div>
-        </a><a href='https://hindi.news18.com/news/sports/cricket-hardik-pandya-first-meeting-with-in-laws-turns-emotional-all-rounder-shares-video-4652161.html'>
+        </a><a href='https://www.amarujala.com/cricket/cricket-news/hardik-pandya-birthday-virat-kohli-kl-rahul-dinesh-karthik-krunal-pandya-natasa-stankovic-wishes-hardik'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>हार्दिक पंड्या पहली बार मिले अपने ससुरालवालों से, ऑलराउंडर ने शेयर किया ...</h3>
+                <h3>Hardik Birthday: विराट-राहुल समेत इन खिलाड़ियों ने हार्दिक को दी ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTplZLzeRZz5Bx-rHkSC6NwtQymmhrtwsNC4t-YRfNJuRDBnC2z2tryr4xmQBv9HT-awQ0S8hrV" alt="हार्दिक पंड्या पहली बार मिले अपने ससुरालवालों से, ऑलराउंडर ने शेयर किया ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>नताशा स्टेनकोविक से शादी के बाद पहली बार कुछ वक्त पहले हार्दिक अपने ससुराल वालों से मिले&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ6Fi1jg6D_MFRxiyAVv5dTiGVyqV7mmLK92hptdK6LiL9Bsf5Pju_uNtylGPO_mSdqujBwhdko" alt="Hardik Birthday: विराट-राहुल समेत इन खिलाड़ियों ने हार्दिक को दी ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Hardik Pandya Birthday Virat kohli KL Rahul Dinesh karthik Krunal pandya natasa stankovic wishes hardik: हार्दिक आगामी टी20 वर्ल्ड कप&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.timesnownews.com/entertainment-news/ram-charan-invites-hardik-pandya-and-other-cricketers-to-his-home-after-hyderabad-match-heres-what-we-know-article-94453079'>
+        </a><a href='https://www.onmanorama.com/sports/cricket/2022/10/11/hardik-pandya-celebrates-birthday.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ram Charan invites Hardik Pandya and other cricketers to his home ...</h3>
+                <h3>Hardik Pandya celebrates birthday | Cricket News | Onmanorama</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ7cdWUJv_90lBMTxQhAe4lYb3mSjL7AHBkb0yynfQrZU2FBjrkdmDR7nyXiNE-QLcK0GNn7m6z" alt="Ram Charan invites Hardik Pandya and other cricketers to his home ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>If reports are anything to go by, RRR actor Ram Charan invited Hardik Pandya and other cricketers to his home after their match against Australia in&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTpNB7uNuQgkSYbDu3deTJsgaAsw8yLASI0VlECeYYYYER2tf82xnT2xkjxIur7N2Nw3MwyHlHE" alt="Hardik Pandya celebrates birthday | Cricket News | Onmanorama" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The BCCI took to Twitter to greet the Baroda all-rounder..Hardik Pandya. birthday. Team India. T20 World Cup.</p></div>
             </div>
-        </a><a href='https://www.enavabharat.com/sports/cricket/hardik-pandya-was-happy-to-meet-his-in-laws-for-the-first-time-shared-a-funny-video-on-twitter-623343/'>
+        </a><a href='https://hindi.news18.com/news/sports/cricket-hardik-pandya-misses-his-son-agastya-on-birthday-calls-him-the-best-gift-i-have-received-watch-video-4725823.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>अपने सास-ससुर से पहली बार मिलकर खुश हुए हार्दिक पंड्या, ट्विटर पर शेयर ...</h3>
+                <h3>Hardik Pandya Birthday: हार्दिक पंड्या बर्थडे पर सबसे ज्यादा मिस कर ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQu_2CYnRxICJGBb3uLTXkOL9yaP3P_0nGh8Vq33ugwUdRODqwfXxWv9VLZ_a98_hyCG9EIEXnb" alt="अपने सास-ससुर से पहली बार मिलकर खुश हुए हार्दिक पंड्या, ट्विटर पर शेयर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>नई दिल्ली: भारतीय टीम के स्टार ऑलराउंडर हार्दिक पंड्या (Hardik Pandya) अपने शानदार खेल के लिए&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT3A3xEqBsXObyUtCzyoMnCWQWlT5ULrOXvNfE-VligQfS56lqUWqXgKuPG6gYR1Iz3Cd4-tLkX" alt="Hardik Pandya Birthday: हार्दिक पंड्या बर्थडे पर सबसे ज्यादा मिस कर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Hardik Pandya 29th birthday: टीम इंडिया के सुपरस्टार ऑलराउंडर खिलाड़ी हार्दिक पंड्या अपने 29वें&nbsp;...</p></div>
             </div>
-        </a><a href='https://hindi.latestly.com/socially/sports/cricket/hardik-pandya-met-his-mother-in-law-for-the-first-time-shared-the-surprise-video-1524177.html'>
+        </a><a href='https://www.aajtak.in/sports/cricket/story/happy-birthday-hardik-pandya-son-agastya-give-birth-gift-pandya-wife-natasa-stankovic-tspo-1553891-2022-10-11'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Hardik Pandya: पहली बार अपने सास-ससुर से मिले हार्दिक पंड्या, शेयर ...</h3>
+                <h3>Happy Birthday Hardik Pandya: 2 साल के बेटे से मिला अनमोल बर्थडे ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR80y1oCdwNgHGjMZxcRCXpEcSvhYxEhCM6qTSSzCU31hpQ62Hw8DdBoEaAZu-Zwm_9r1Nj89MF" alt="Hardik Pandya: पहली बार अपने सास-ससुर से मिले हार्दिक पंड्या, शेयर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>नताशा और हार्दिक ने 2020 की शुरुआत में अपनी सगाई की घोषणा की थी. फिर नताशा ने जुलाई 2020 में&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRlvTYWFutCq-XD3uebl6k2XskglqqQtJY1ny957RY_4E6Wztajjnnst_pL9-QoOwKrAOoVfReq" alt="Happy Birthday Hardik Pandya: 2 साल के बेटे से मिला अनमोल बर्थडे ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>टीम इंडिया के स्टार ऑलराउंडर हार्दिक पंड्या आज (11 अक्टूबर) अपना 29वां बर्थडे सेलेब्रेट&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.123telugu.com/mnews/hardik-pandya-parties-with-ram-charan.html'>
+        </a><a href='https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/natasa-stankovic-shares-special-message-to-hardik-pandya-on-his-birthday/articleshow/94776947.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Hardik Pandya parties with Ram Charan | 123telugu.com</h3>
+                <h3>Hardik Pandya Birthday: हार्दिक पंड्या पर नताशा स्टेनकोविक ने भर ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRYlpZbYmfgQJA3RdLPytPBhTPD_jE51yZGOssYrEHzvE0X_JXdx0zpVfhZT9d4wxv_8V2LADcE" alt="Hardik Pandya parties with Ram Charan | 123telugu.com" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The news is that Ram Charan invited allrounder Hardik Pandya and a few other cricketers of the Indian cricket team yesterday after the match between India and&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTu8NQyUyr4ZR8yHHeLqjflh2dXlm5VevAJVDu5r_SYKcWhTFYrwXmBQtFg3qLGXOI6-OciQigy" alt="Hardik Pandya Birthday: हार्दिक पंड्या पर नताशा स्टेनकोविक ने भर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Happy Birthday Hardik Pandya: हार्दिक पंड्या के लिए उनकी वाइफ नताशा ने एक वीडियो शेयर किया है।</p></div>
             </div>
-        </a><a href='https://www.insidesport.in/t20-world-cup-india-all-rounder-hardik-pandya-to-land-in-bengaluru-on-monday-will-be-at-nca-for-conditioning-work-before-t20-world-cup-follow-live-updates/'>
+        </a><a href='https://www.zeebiz.com/hindi/trending/sports/happy-birthday-hardik-pandya-fans-remember-his-innings-against-pakistan-in-asia-cup-99453'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>T20 World Cup: Hardik Pandya to land in Bengaluru on Monday, will ...</h3>
+                <h3>Hardik Pandya Birthday: 29 साल के हुए &#39;कुंग फू पंड्या&#39;, फैंस ने क्यों याद ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTkfCIsEA27UWAcMtHRBR-GrGje8z8uUo--IpfM72Dy9qYYVA7oopMxO_d24QbQr_f89KVfQ4PP" alt="T20 World Cup: Hardik Pandya to land in Bengaluru on Monday, will ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>T20 World Cup: India all-rounder Hardik Pandya to land in Bengaluru on Monday, will be at NCA for &#39;conditioning work&#39; before T20 WC, follow live updates.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSK-RsVbl9ZVTNB7CI2cbzVPvad17YYjPdiDmPu2xZGKdhy5jwxNTF8NPQj5h0SqPsZCz2l3JkS" alt="Hardik Pandya Birthday: 29 साल के हुए &#39;कुंग फू पंड्या&#39;, फैंस ने क्यों याद ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>हार्दिक को फैंस कुंग-फू पंड्या (Kung Fu Pandya) भी कहते हैं. बर्थडे पर सोशल मीडिया पर फैंस&nbsp;...</p></div>
             </div>
-        </a><a href='https://jandhara24.com/news/117716/with-which-film-star-did-hardik-pandya-have-a-lot-of-fun-at-the-party/'>
+        </a><a href='https://www.news18.com/cricketnext/news/forever-by-your-side-natasa-stankovic-wishes-hardik-pandya-on-his-birthday-watch-6142381.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Hardik Pandya ने किस फिल्मी सितारे के साथ की पार्टी में जमकर मस्ती</h3>
+                <h3>&#39;Forever By Your Side&#39; - Natasa Stankovic Wishes Hardik Pandya on ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSEd4Lk6Zc3xNzrxAU9t3g618d7Hm12sGdcJvdzd7-oygts8pgOekaL3MAewtS-HXL7kVkShhog" alt="Hardik Pandya ने किस फिल्मी सितारे के साथ की पार्टी में जमकर मस्ती" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Hardik Pandya भारत और ऑस्ट्रेलिया के बीच हुए मैच के बाद ऑलराउंडर हार्दिक पांड्या ने एक&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRghX57IbYyijM-7kM9E-RP2IMUSSj11doJ6XIqh38AYbn1T3y-ox7dOHLSX08ctpTmfVBtSBBa" alt="&#39;Forever By Your Side&#39; - Natasa Stankovic Wishes Hardik Pandya on ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Indian cricketer Hardik Pandya celebrated his 29th birthday on October 11. The cricketer received loads of wishes from friends, family and fans on his&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.ottplay.com/news/hardik-pandya-parties-hard-with-ram-charan-other-cricketers-after-indias-2-1-win-over-australia/f155cce409524'>
+        </a><a href='https://www.hindustantimes.com/entertainment/bollywood/natasa-stankovic-wishes-hardik-pandya-on-birthday-with-family-pics-videos-with-son-watch-101665466646773.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Hardik Pandya parties hard with Ram Charan, other cricketers after ...</h3>
+                <h3>Natasa Stankovic wishes Hardik Pandya on birthday with family pics ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSJZvFF6XzzTRksGzhgHqIC4rNGSBLCCYq4GU04olcSKss-eXxAkLzAcH6jxw1EUifFX1f_yjT5" alt="Hardik Pandya parties hard with Ram Charan, other cricketers after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Team India, after a loss in the first T20I, came back stronger and clinched victories in the 2nd and 3rd games to win the three-match T20I series against&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSq8gIQjOPGB-IJpzx7lrosUuxDn8jpdhwHQYlvcmdksNEwKU1Eauc4LG1CZHnvtGgJYdEwSUzF0Q" alt="Natasa Stankovic wishes Hardik Pandya on birthday with family pics ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Natasa Stankovic shared Instagram Reels for cricketer-husband Hardik Pandya&#39;s 29th birthday on Tuesday. The video comprised of their beautiful family&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.tv9hindi.com/sports/cricket-news/hardik-pandya-meets-natasha-stankovic-parents-share-video-on-twitter-au149-1474726.html'>
+        </a><a href='https://telugu.news18.com/news/sports/t20-world-cup-2022-hbd-hardik-pandya-team-india-all-rounder-emotional-post-goes-viral-srd-1466548.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>हार्दिक पंड्या को मिला दूसरा परिवार, मिलते ही गले लगा लिया, देखें Video</h3>
+                <h3>Hardik Pandya: అయ్యో, హార్దిక్ కి ఎంత కష్టమొచ్చింది.. తీవ్రబాధలో ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTJK79UzAqhXCflcuIEOSj_0Auk7Erg8alC8QkHOy7XicKiyrEuK14yBMgkjr6dOvpxO5ZN5JbY" alt="हार्दिक पंड्या को मिला दूसरा परिवार, मिलते ही गले लगा लिया, देखें Video" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>हार्दिक पंड्या हाल ही में ऑस्ट्रेलिया को तीन मैचों की टी20 सीरीज में मात देने वाली&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQk1qjCn23soBzhm4adOolwHdsEWCdNVxOuPlPprL-SDNazYMEIzFjO5DfWPmKwNZ4JsvP_DbOv" alt="Hardik Pandya: అయ్యో, హార్దిక్ కి ఎంత కష్టమొచ్చింది.. తీవ్రబాధలో ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>T20 World Cup 2022 HBD Hardik Pandya Team India All Rounder Emotional Post Goes Viral srd - Hardik Pandya: ప్రస్తుతం టీమిండియాతో&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

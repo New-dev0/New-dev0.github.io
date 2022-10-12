@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Ram Setu"/>
         <meta name="description" content="Trending News about Ram Setu" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Ram Setu</h1>
-            <Image width={800} height={500} src="https://cdn.siasat.com/wp-content/uploads/2022/09/ram-setu-teaser.jpg" alt="Ram Setu"/>
+            <Image width={800} height={500} src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202210/ezgif-sixteen_nine_16.jpg" alt="Ram Setu"/>
             <h3>Recent News</h3>
-            <a href='https://www.siasat.com/watch-akshay-kumars-next-film-ram-setu-teaser-here-2421044/'>
+            <a href='https://www.businesstoday.in/trending/entertainment/story/ram-setu-trailer-divides-twitter-users-some-back-concept-others-criticise-it-for-sub-par-vfx-349540-2022-10-11'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Watch Akshay Kumar&#39;s next film &#39;Ram Setu&#39; teaser here</h3>
+                <h3>&#39;Ram Setu&#39; trailer divides Twitter users; some back concept, others ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRvvO0Ir8wSCaT2k_G6T06RTuPNRc_JN5HXEcdlisoNH-5Rdhz4fup7QKp_1lgwlnSnM3OYhDZi" alt="Watch Akshay Kumar&#39;s next film &#39;Ram Setu&#39; teaser here" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>New Delhi: Makers of the upcoming action-adventure &#39;Ram Setu&#39; on Sunday unveiled the teaser of the film. Taking to Instagram, actor Akshay Kumar shared.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSRUXGgQOM2nnUYfKHVnzz9AyxuE8Cxmlv0NIypwH_i3KxztXsA4070j1Rb88GkuHDa2oFwDd2p" alt="&#39;Ram Setu&#39; trailer divides Twitter users; some back concept, others ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Trailer of Akshay Kumar and Jacqueline Fernandez-starrer Ram Setu released today. Soon after the trailer dropped, netizens had mixed reactions as some&nbsp;...</p></div>
             </div>
-        </a><a href='https://indianexpress.com/article/entertainment/bollywood/ram-setu-first-teaser-akshay-kumars-harrowed-archaeologist-8173398/'>
+        </a><a href='https://www.herzindagi.com/hindi/society-culture/ram-setu-trailer-released-akshay-kumar-back-in-action-article-210503'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ram Setu first teaser: Akshay Kumar&#39;s archaeologist goes on a deep ...</h3>
+                <h3>Ram Setu Trailer: रिलीज हुआ अक्षय कुमार की फिल्म का ट्रेलर, जानें क्या ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ7PjvOt89sXnvctxe-nfKfQnuCn6LoOAtJm-Fgh79FDaV5RN6mfORh8pcD4OEq1Ooy8NKGdHo4" alt="Ram Setu first teaser: Akshay Kumar&#39;s archaeologist goes on a deep ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The tension-filled teaser of Ram Setu sees Akshay Kumar running through forests, and sliding down muddy paths, battling explosions and bullets.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRabP0sq2nCGuwOoJXUwXFn0Nds9luwtkUsySIRDkAmQ1_EWQUA_vM-a3jyelWJCFn1hIWiuFSz" alt="Ram Setu Trailer: रिलीज हुआ अक्षय कुमार की फिल्म का ट्रेलर, जानें क्या ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>अक्षय कुमार की अपकमिंग फिल्म &#39;रामसेतु&#39; का ट्रेलर रिलीज हो गया है, चलिए जानते हैं इस&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.businesstoday.in/trending/entertainment/story/watch-akshay-kumar-jacqueline-fernandez-starrer-ram-setu-teaser-out-film-to-hit-theatres-on-october-25-348197-2022-09-26'>
+        </a><a href='https://www.telegraphindia.com/entertainment/ram-setu-women-talking-har-har-mahadev-yezhu-kadal-yezhu-malai-wendell-wild-new-teasers-and-trailers/cid/1891417'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Watch: Akshay Kumar, Jacqueline Fernandez-starrer &#39;Ram Setu ...</h3>
+                <h3>Ram Setu, Women Talking, Har Har Mahadev, Yezhu Kadal Yezhu ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQrPYA-sE6_6E0IysEDV35fa265HcZfuxaeRmYaT6q1sw1Wozqr2khjtLPIyubcFkjpOOJQ7Kui" alt="Watch: Akshay Kumar, Jacqueline Fernandez-starrer &#39;Ram Setu ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ram Setu is an action-adventure drama revolving around the journey of an archaeologist (played by Akshay Kumar) investigating whether Ram Setu is a myth or&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMm9lFvL0txxiKcbnxR0niG0T69h3Isd8YPrCRkE5NjxdSMNV9zWRa1FPS1OlkiNhHMt_NkX4R" alt="Ram Setu, Women Talking, Har Har Mahadev, Yezhu Kadal Yezhu ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Akshay Kumar&#39;s Ram Setu teaser is out. Directed by Abhishek Sharma, the film also features Nassar, Nushratt Bharuccha, Jacqueline Fernandez and Satyadev&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.telegraphindia.com/entertainment/ram-setu-kumari-koffee-with-karan-s7-e13-asterix-and-obelix-new-teasers-and-trailers/cid/1888867'>
+        </a><a href='https://www.herzindagi.com/society-culture/ram-setu-trailer-twitter-reactions-baahubali-adipurush-article-210489'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ram Setu, Kumari, Koffee with Karan S7 E13, Asterix and Obelix ...</h3>
+                <h3>Ram Setu Trailer: Twitter Gives Mixed Reactions, Compares It To ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRMt0irXSiajGYTmCM3HrU9xGPJnsVA0eYFqCXluZUTlrMOIMJTaoY5UeXBxJ4mVeOsHJceUpWf" alt="Ram Setu, Kumari, Koffee with Karan S7 E13, Asterix and Obelix ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The teaser of Akshay Kumar&#39;s film Ram Setu has been released by the makers. Directed by Abhishek Sharma, the film also features Nassar, Nushratt Bharuccha,&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRabP0sq2nCGuwOoJXUwXFn0Nds9luwtkUsySIRDkAmQ1_EWQUA_vM-a3jyelWJCFn1hIWiuFSz" alt="Ram Setu Trailer: Twitter Gives Mixed Reactions, Compares It To ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ram Setu&#39;s trailer was released on October 11, and twitter is flooded with funny reactions. Take a look.</p></div>
             </div>
-        </a><a href='https://www.zeebiz.com/trending/entertainment/news-ram-setu-official-teaser-out-akshay-kumars-much-awaited-film-to-release-on-this-date-details-200546'>
+        </a><a href='https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/ram-setu-trailer-releases-akshay-kumar-in-search-of-lord-ram-bridge-seen-walking-on-water-film-stars-jacqueline-fernandez-nassar-nushrratt-bharuccha/articleshow/94780239.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Ram Setu&#39; official teaser out: Akshay Kumar&#39;s much-awaited film to ...</h3>
+                <h3>Ram Setu Trailer Releases: राम सेतु का ट्रेलर रिलीज, इस बार हाथ में ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTTpvKoraJ4qUhbvVJJrMAV44AgFyEgnCyPgDSPrmL9e1t5Ecu40RhGfV2vHXPrTuAH59_AvRjw" alt="&#39;Ram Setu&#39; official teaser out: Akshay Kumar&#39;s much-awaited film to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ram Setu teaser released: This action-adventure movie is directed by &quot;Parmanu&quot; and &quot;Tere Bin Laden&quot;-fame director Abhishek Sharma. &quot;Ram Setu&quot; also stars&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRIJTuFERfHdO8-Yob8K2KG2DOpvYnULqgw8vBRiPC7qCzcZOd-44Z9c0aeRS8Yzu9HKVWME1cg" alt="Ram Setu Trailer Releases: राम सेतु का ट्रेलर रिलीज, इस बार हाथ में ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ram Setu Trailer Releases Akshay Kumar In Search Of Lord Ram Bridge Seen Walking: अक्षय कुमार की फिल्म &#39;राम सेतु&#39; का ट्रेलर&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.dnaindia.com/hindi/spiritual/report-ram-setu-new-akshay-kumar-film-know-complete-story-ram-setu-adams-bridge-real-or-fake-ramayan-4053064'>
+        </a><a href='https://www.zeebiz.com/trending/entertainment/news-ram-setu-trailer-released-movie-release-date-cast-akshay-kumar-jacqueline-fernandez-nushrratt-bharuccha-202551'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ram Setu: कब और कैसे बना था राम सेतु, जानिए पूरा किस्सा राम के लंका तक ...</h3>
+                <h3>Ram Setu Trailer Released: Akshay Kumar back in action - Watch ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQri_HW3K_ja5Al5REJCYlqy83q-eqs7Bvd5kuKqXOieuiRHHKof1pU7dO5ZHwX0VrF9WOn0U-uTQ" alt="Ram Setu: कब और कैसे बना था राम सेतु, जानिए पूरा किस्सा राम के लंका तक ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ram Setu : भारत में कन्या कुमारी से श्री लंका के बीच के पुल का ज़िक्र सबसे पहली बार महर्षि&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTp93IfTUyOLJTgRPvoZGhaMHmjTzeoak1Nltp0oIEYZE5YDWRwutOLMa2DGVI5NGA6uhEH_4uY" alt="Ram Setu Trailer Released: Akshay Kumar back in action - Watch ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ram Setu Trailer Released: Helmed by Abhishek Sharma, the film stars Akshay Kumar Jacqueline Fernandez, Nushrratt Bharuccha and veteran actor Nassar in lead&nbsp;...</p></div>
             </div>
-        </a><a href='https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/akshay-kumar-ram-setu-teaser-out-twitter-reaction-jacqueline-fernandez-nushrat-bharucha-watch-video/articleshow/94449960.cms'>
+        </a><a href='https://www.amarujala.com/entertainment/bollywood/ram-setu-movie-trailer-twitter-review-akshay-kumar-nushrratt-bharuccha-and-jacqueline-fernandez-film'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ram Setu Teaser: अक्षय कुमार की &#39;राम सेतु&#39; का टीजर आउट, यूजर्स ने ...</h3>
+                <h3>Ram Setu Twitter Review: राम सेतु का ट्रेलर देख लोगों ने उड़ाया अक्षय ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQoK7SWusa9b2vXqEFkN9si-Qon7jAEgXZRgCgd1yHoX_PRcjogTk0uEfYCxAjFQXuwarX2TB3e" alt="Ram Setu Teaser: अक्षय कुमार की &#39;राम सेतु&#39; का टीजर आउट, यूजर्स ने ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>अक्षय कुमार की फिल्म &#39;राम सेतु&#39; का टीजर रिलीज हो गया है। इसके बाद सोशल मीडिया पर लोगों&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTexFjzEl5QDeLpy8uyJKeP3svL0FB3PekUDrb9SiLrE_s-HwpXwdvj1DPWDhP2QLTrSeLk8kyd" alt="Ram Setu Twitter Review: राम सेतु का ट्रेलर देख लोगों ने उड़ाया अक्षय ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>अक्षय कुमार की जिस फिल्म का दर्शकों को बेसब्री से इंतजार था, उसका ट्रेलर रिलीज हो गया&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.jagran.com/entertainment/bollywood-ram-setu-teaser-twitter-reaction-akshay-kumar-jacqueline-fernandez-nushrratt-bharuccha-starrer-ram-setu-film-impresses-fans-with-its-fantacy-action-adventure-story-23099197.html'>
+        </a><a href='https://www.jansatta.com/entertainment/ram-setu-trailer-akshay-kumar-walks-on-water-saves-the-bridge-built-by-lord-ram-watch/2419048/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ram Setu Teaser Twitter Review: राम सेतु के टीजर ने फैंस की बढ़ाई ...</h3>
+                <h3>Ram Setu Trailer Out: जान की बाजी लगाकर &#39;रामसेतु&#39; को बचाने निकले ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTZcBrB94SI4ZqMjC43tKJ-5hDEeRn-T-UmijrsGbPwSvbYmcWnr-0MenSETlAVw8pcACA2Kjha" alt="Ram Setu Teaser Twitter Review: राम सेतु के टीजर ने फैंस की बढ़ाई ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ram Setu Teaser Twitter Review अक्षय कुमार की फिल्म राम सेतु का 26 सितंबर को टीजर रिलीज कर दिया गया है&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS2n1yPdhj-lNHF1LzotzFknLVaGS3hdmPHvpdZAYTWYHFhH9bb9COWXHYLf5eHcYkVTlLdf6Fh" alt="Ram Setu Trailer Out: जान की बाजी लगाकर &#39;रामसेतु&#39; को बचाने निकले ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ram Setu Trailer Released Akshay kumar Jacqueline fernandez and Hushrat bharucha latest news in Hindi: अक्षय कुमार,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.thelallantop.com/entertainment/post/akshay-kumar-s-ram-setu-teaser-sees-him-as-archaeologist-trying-to-save-ram-setu'>
+        </a><a href='https://www.siasat.com/ram-setu-trailer-akshay-kumar-goes-on-epic-adventure-walks-on-water-2431620/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>अक्षय की &#39;राम सेतु&#39; का टीज़र आया, जिसे &#39;PS1&#39;, &#39;2.0&#39; जैसी फ़िल्में बनाने वालों ...</h3>
+                <h3>Ram Setu Trailer: Akshay Kumar goes on epic adventure, walks on ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT3hHsEY5Ii_ZO986COpsR6SC8u35iYfWk4Rq_AvmuXQ9xnruXAuJtM-9eHQIa_2HgqVtt644GM" alt="अक्षय की &#39;राम सेतु&#39; का टीज़र आया, जिसे &#39;PS1&#39;, &#39;2.0&#39; जैसी फ़िल्में बनाने वालों ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>&#39;राम सेतु&#39;. 2022 में आनेवाली अक्षय कुमार की पांचवी फिल्म. 2020 में फिल्म का पोस्टर रिलीज़ किया&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSjj9vsBzbG7O4o8rEczrQOkppvZD0uL4ABEjX4XHgeLhxcH-DUOR-aWZY4d7ziSZcuD3Qn9KFk" alt="Ram Setu Trailer: Akshay Kumar goes on epic adventure, walks on ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mumbai: &quot;Duniya main Shri Ram ke lakhon mandir hai par Setu sirf ek&quot; -- is a line that actor Akshay Kumar is heard saying while he&#39;s seen walking on water.</p></div>
             </div>
-        </a><a href='https://www.dinamani.com/cinema/cinema-news/2022/sep/26/ram-setu-teaser-akshay-kumar-3922680.html'>
+        </a><a href='https://www.indiatv.in/entertainment/bollywood/ram-setu-trailer-rock-on-twitter-akshay-kumar-looks-craze-for-lord-ram-watch-trailer-2022-10-11-892156'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>புதிய சர்ச்சைகளை உருவாக்குமா?: அக்‌ஷய் குமாரின் ...</h3>
+                <h3>Ram Setu Trailer: रिलीज होते ही छाया &#39;राम सेतु&#39; का धांसू ट्रेलर, Akshay ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSL6UbFGaLtpJbzkykhRq6F2Mezfq84ycg5L3fITM9dGv7gSRH66tqEQ1Mu3_BIIk_FGQngp2Qg" alt="புதிய சர்ச்சைகளை உருவாக்குமா?: அக்‌ஷய் குமாரின் ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>புதிய சர்ச்சைகளை உருவாக்குமா?: அக்‌ஷய் குமாரின் ராம் சேது பட டீசர் வெளியானது! By DIN | Published&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRBu52syhB46kCtAIDuQ8PCUGEfqzsVchIBV3z6dMIPASG1qR2ZT2MGA7KzGicwuKuA4yIwWTw6" alt="Ram Setu Trailer: रिलीज होते ही छाया &#39;राम सेतु&#39; का धांसू ट्रेलर, Akshay ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ram Setu Trailer: बॉलीवुड के &#39;खिलाड़ी&#39; अक्षय कुमार की मोस्ट अवेटेड फिल्म &#39;रामसेतु&#39; का ट्रेलर&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
