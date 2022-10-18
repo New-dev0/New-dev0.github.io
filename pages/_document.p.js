@@ -31,14 +31,11 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-          <meta name="theme-color" content="#90cdf4" />
+          <meta name="theme-color" content="#003399" />
           </Head>
         <body>
           <Main />
           <NextScript />
-          <p>
-          <script src='https://inklinkor.com/tag.min.js' data-zone="5399934" async></script>
-          </p>
         </body>
       </Html>
     );
