@@ -78,7 +78,7 @@ export default function Page() {
             </div>
         </a><a href='https://ipowatch.in/tracxn-ipo-subscription-status/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Tracxn IPO Subscription Status Today {Day 1 Live}</h3>
+                <h3>Tracxn IPO Subscription Status Today Day 1 Live</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcShNEjLd8EJFIAUEwhs0TpRmJLXz-hnagNN8V5BbwK57cLs7p2pR7ES1fG8MAWfjUhBoNIJ9bMW" alt="Tracxn IPO Subscription Status Today {Day 1 Live}" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Tracxn IPO subscription status live numbers. Get latest subscription status of Tracxn IPO from NSE and BSE.</p></div>
