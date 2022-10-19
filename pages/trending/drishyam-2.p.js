@@ -11,70 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Drishyam 2"/>
         <meta name="description" content="Trending News about Drishyam 2" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Drishyam 2</h1>
-            <Image width={800} height={500} src="https://navbharattimes.indiatimes.com/photo/msid-94508031,imgsize-64842/pic.jpg" alt="Drishyam 2"/>
+            <Image width={800} height={500} src="https://spiderimg.amarujala.com/assets/images/2022/10/18/750x506/thashayama_1666074189.png" alt="Drishyam 2"/>
             <h3>Recent News</h3>
-            <a href='https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/drishyam-2-first-look-poster-release-starrer-by-ajay-devgn-tabu/articleshow/94508031.cms'>
+            <a href='https://www.amarujala.com/photo-gallery/entertainment/bollywood/drishyam-2-before-the-release-of-second-part-know-the-story-of-vijay-salgaonkar-urf-ajay-devgn-drishyam'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Drishyam 2 First Look: अजय देवगन की &#39;दृश्यम 2&#39; का फर्स्ट लुक रिलीज ...</h3>
+                <h3>Drishyam 2: विजय सलगांवकर ने फिल्म &#39;दृश्यम&#39; में कैसे दिया पुलिस को ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQGsL-B1nfx4UJtWCPt3DUoBHM-iLFokdyYVFJpr-bGybjDrd6dop2XwFFZuWsT_nXbesD83FyA" alt="Drishyam 2 First Look: अजय देवगन की &#39;दृश्यम 2&#39; का फर्स्ट लुक रिलीज ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>दृश्यम 2 का ऑफिशियल फर्स्ट लुक रिलीज; अजय देवगन ने लिखा ये कैप्शन; साउथ की रीमेक है ये&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT83rF7YK7avsVABqgtcFmnGciYdVzeiuoSiBZHZfK-NtO8a_7lO94I8iFOq3Ed4BuuHTss6oMz" alt="Drishyam 2: विजय सलगांवकर ने फिल्म &#39;दृश्यम&#39; में कैसे दिया पुलिस को ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>अजय देवगन, तब्बू, श्रिया सरन, इशिता दत्ता, मृणाल जाधव और रजित कपूर स्टारर फिल्म &#39;दृश्यम&#39;&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.amarujala.com/photo-gallery/entertainment/bollywood/drishyam-2-actor-ajay-devgn-shared-old-bills-of-his-movie-before-2-october'>
+        </a><a href='https://collider.com/drishyam-2-trailer-ajay-devgn-akshaye-khanna/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Drishyam 2: बड़े पर्दे पर दमदार वापसी को तैयार अजय देवगन, इस दिन ...</h3>
+                <h3>&#39;Drishyam 2&#39; Trailer: Ajay Devgn and Akshaye Khanna Face Off in ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSW9l3AenSnYWiEarC3pzHCPC-4b2nZbtIM4CrMyuXztQcU28rKBIZEC4FAmwJQPakzVN1cjr3C" alt="Drishyam 2: बड़े पर्दे पर दमदार वापसी को तैयार अजय देवगन, इस दिन ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>अजय देवगन की &#39;दृश्यम&#39; ने रिलीज के बाद दर्शकों के दिलों में गहरी छाप छोड़ी थी।</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSo6eQhnqxwMghAif7aahx6HbyNDUDsNIAoQEN_fNaxHk7GZDQCuYQEgdP9nz_jXLQKq_Hby_MI" alt="&#39;Drishyam 2&#39; Trailer: Ajay Devgn and Akshaye Khanna Face Off in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>T-Series and Panorama Studios have debuted the first trailer for the upcoming Bollywood thriller Drishyam 2, a sequel to the hit 2015 film starring Ajay&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.abplive.com/entertainment/bollywood/drishyam-2-first-look-ajay-devgan-shares-poster-know-about-teaser-release-date-2226151'>
+        </a><a href='https://www.koimoi.com/bollywood-news/drishyam-2-is-different-from-mohanlals-malayalam-film-says-ajay-devgn/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Drishyam 2 First Look: अजय देवगन की फिल्म &#39;दृश्यम 2&#39; का फर्स्ट लुक ...</h3>
+                <h3>Drishyam 2 Is Different From Mohanlal&#39;s Malayalam Film, Says Ajay ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRhnNwNouwQ3NQs3akq3mjOfvYUpP-OgkyC5mfGEdmXCyxt8ibGN6Nv4JYDKCTlSdQYFHxrYQ5b" alt="Drishyam 2 First Look: अजय देवगन की फिल्म &#39;दृश्यम 2&#39; का फर्स्ट लुक ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Drishyam 2 Poster: अपने परिवार के साथ विजय सालगोंकर एक बार फिर से लौट रहे हैं. अजय देवगन (Ajay Devgan)&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTrff9EVyMQc8GXxh3UkFU4Qbn-Yz40nT8zVa5LzJYcFu72_XJ3SlXtVRd489674ptTdrWpdO1f" alt="Drishyam 2 Is Different From Mohanlal&#39;s Malayalam Film, Says Ajay ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Drishyam 2 actor Ajay Devgn reacts to the audience&#39;s response to the trailer, says its different from Mohanlal&#39;s Malayalam film. Read on!</p></div>
             </div>
-        </a><a href='https://www.aajtak.in/entertainment/bollywood-news/story/drishyam-2-ajay-devgn-tabu-2-october-vijay-salgaonkar-mahasatsang-drishyam-2-teaser-release-tmovk-1546000-2022-09-28'>
+        </a><a href='https://indianexpress.com/article/entertainment/bollywood/drishyam-2-ajay-devgn-as-vijay-salgaonkar-to-confess-his-crime-watch-trailer-8213615/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Drishyam 2: &#39;महासत्संग&#39; में क्या हुआ था? खुलने जा रहा है बड़ा राज, इस ...</h3>
+                <h3>Drishyam 2: Ajay Devgn as Vijay Salgaonkar to confess his crime ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS0cK5f0g-RiwzMHxUFQtzb8iaXSoyJzauKi3enm7ht3sZLuYDC-Q8df2wxAJKqLoqHQcp6SC5U" alt="Drishyam 2: &#39;महासत्संग&#39; में क्या हुआ था? खुलने जा रहा है बड़ा राज, इस ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>फैन्स जिस दिन का बेसब्री से इंतजार कर रहे थे, वह आ गया है. फिल्म &#39;दृश्यम 2&#39; 18 नवंबर को&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTjz8hhrQuDGdCfujTtavXMplXA2PZSnoGSIsTfsEydEsdDmVp8EunejpQ6NlzqcNH9NpwQS2dV" alt="Drishyam 2: Ajay Devgn as Vijay Salgaonkar to confess his crime ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The trailer of Drishyam 2 gives a glimpse of Vijay Salgaonkar trying his best to protect his family, seven years after they got embroiled in a murder case.</p></div>
             </div>
-        </a><a href='https://www.enavabharat.com/entertainment/ajay-devgan-shared-the-first-look-poster-of-drishyam-2-the-teaser-of-the-film-will-be-released-on-this-day-624524/'>
+        </a><a href='https://www.hindustantimes.com/entertainment/bollywood/ajay-devgn-says-drishyam-2-is-very-different-from-mohanlal-s-version-101666021525898.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>अजय देवगन ने शेयर किया &#39;दृश्यम 2&#39; का फर्स्ट लुक पोस्टर, इस दिन रिलीज ...</h3>
+                <h3>Ajay Devgn says Drishyam 2 is very different from Mohanlal&#39;s version</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRyIu6YBiCBdxidu4g4mdmXNnXMxfBNcpjiuz6-0ee7n5v6xPk_yjjfgdoar_1Z3OZfqTSipITB" alt="अजय देवगन ने शेयर किया &#39;दृश्यम 2&#39; का फर्स्ट लुक पोस्टर, इस दिन रिलीज ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>मुंबई : बॉलीवुड (Bollywood) एक्टर (Actor) अजय देवगन (Ajay Devgan) ने हाल ही में अपने इंस्टाग्राम&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSiN9RvkHh9H7iPqKRAaK4sg9qCzkCHGymjcwszO6sFebt1xcSerK_A00HlWNkHUO6UD9FAJH-3" alt="Ajay Devgn says Drishyam 2 is very different from Mohanlal&#39;s version" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ajay Devgn and director Abhishek Pathak revealed how their upcoming film, Drishyam 2, is different from the Malayalam original. | Bollywood.</p></div>
             </div>
-        </a><a href='https://www.ntnews.com/cinema/hindi-drishyam-2-firstlook-teaser-will-be-out-on-this-780618'>
+        </a><a href='https://www.herzindagi.com/hindi/society-culture/drishyam-2-official-trailer-out-know-all-about-movie-article-211063'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Drishyam 2 | గెట్ రెడీ..దృశ్యం 2 టీజ‌ర్‌, ఫ‌స్ట్ లుక్ టైం ఫిక్స్‌</h3>
+                <h3>Drishyam 2 Trailer : क्या आपको पता है कि 2 अक्टूबर को क्या हुआ था ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSxM8vB_X97UriZpXPY5tQBsqKTIKaZIAmS2fjaypjAx7TTAyBq5FgJLEdyTaFrcN_3ZUhLNK9Z" alt="Drishyam 2 | గెట్ రెడీ..దృశ్యం 2 టీజ‌ర్‌, ఫ‌స్ట్ లుక్ టైం ఫిక్స్‌" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>హిందీలో రాబోతున్న దృశ్యం 2పై అప్ డేట్ వ‌చ్చేసింది. అజ‌య్ దేవ్‌గ‌న్‌, శ్రియ కాంబినేష‌న్&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQCAMYEzNa3xFK1iGznacUM1j-q24eZDyKluBQhnxwGyGZBCXUnzAZ21wyESuM4OWvgMFRYSQpF" alt="Drishyam 2 Trailer : क्या आपको पता है कि 2 अक्टूबर को क्या हुआ था ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Drishyam 2 फिल्म का ट्रेलर रिलीज हो गया है। चलिए जानते हैं कि इस बार हमें क्या-क्या खास&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.jagran.com/entertainment/bollywood-drishyam-2-ajay-devgn-tabu-and-ishita-dutta-starrer-film-first-look-out-teaser-release-on-this-date-23104541.html'>
+        </a><a href='https://www.zeebiz.com/hindi/trending/entertainment/drishyam-2-trailer-out-fight-between-ajay-devgn-tabu-begins-after-seven-year-watch-full-trailer-here-drishyam-2-release-date-100280'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Drishyam 2 First Poster Out: फिर खुलेगा विजय सलगांवकर का केस, जानिए ...</h3>
+                <h3>Drishyam 2 Trailer Out: 7 साल बाद खुलेगा जमीन के नीचे दफ्न राज, क्या ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS1-GwDZMKPBl1vCVrzGrjj0Rn0FGFEVFq20ozQpFa-5e3cKV4Q92pfsFkn8QdyXLuM275c_i5c" alt="Drishyam 2 First Poster Out: फिर खुलेगा विजय सलगांवकर का केस, जानिए ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Drishyam 2 First Poster Out अजय देवगन और तब्बू स्टारर फिल्म दृश्यम 2 का फैंस को बेसब्री से इंतजार&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS7VWxDDv0Q4n6LVK2gbQfU3IXSh13Nc2-6bFokCFz5Ew9_Njo53yEyInJ9_Pq6SyDygAj3eg2T" alt="Drishyam 2 Trailer Out: 7 साल बाद खुलेगा जमीन के नीचे दफ्न राज, क्या ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Drishyam 2 Trailer Out: अजय देवगन की फिल्म दृश्यम 2 (Drishyam 2) का धमाकेदार ट्रेलर रिलीज हो चुका है,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.jansatta.com/entertainment/drishyam-2-actor-ajay-devgn-tabu-and-vijay-salgaonkar-movie-first-look-poster-release-today/2400916/'>
+        </a><a href='https://www.telegraphindia.com/entertainment/drishyam-2-bhediya-kaapa-head-bush-new-teasers-trailers-and-posters/cid/1892601'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Drishyam 2 First Look: &#39;दृश्यम 2&#39; का फर्स्ट लुक आया सामने,अजय देवगन ...</h3>
+                <h3>Drishyam 2, Bhediya, Kaapa, Head Bush: New teasers, trailers and ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR2pd2WhOqpI19IamGP5rhWMvIWi7NXzi97oodfzwQOznnEJB8XJaMFyA-i2z95RNk1sK8RKtQ8" alt="Drishyam 2 First Look: &#39;दृश्यम 2&#39; का फर्स्ट लुक आया सामने,अजय देवगन ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>अजय देवगन ने सोशल मीडिया पर फिल्म का लुक शेयर करते हुए लिखा कि 2 अक्टूबर को याद है न&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcThcEdqLEJ4MrNpgky4JittDOwwfyF9aTo2I20YZvFzoeDb4YgOKxwsLPikm-wZ9w-OJyQngoIu" alt="Drishyam 2, Bhediya, Kaapa, Head Bush: New teasers, trailers and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The trailer for Ajay Devgn-and-Tabu-starrer Drishyam 2, a follow-up to the 2015 crime thriller Dhrishyam, is out. The film follows the story of Vijay Salgaonkar&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sakshi.com/telugu-news/movies/drishyam-2-first-look-and-teaser-out-tomorrow-1489828'>
+        </a><a href='https://economictimes.indiatimes.com/news/new-updates/drishyam-2-trailer-out-netizens-give-a-thumbs-up-film-to-release-on-nov-18/articleshow/94920129.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>దృశ్యం 2 క్రేజీ అప్‌డేట్.. టీజ‌ర్‌ డేట్ ఫిక్స్</h3>
+                <h3>Drishyam 2 trailer out: Fans excited as film to hit theatres on Nov 18</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRp6cPxrOSIdfNkUDc6G4G2B7lMxsDCxlbBB3WY_yFbUhruAXm5IT1nn4wor_xOQeEGOUrVfJF3" alt="దృశ్యం 2 క్రేజీ అప్‌డేట్.. టీజ‌ర్‌ డేట్ ఫిక్స్" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>అజయ్ దేవగణ్ ప్రధాన పాత్రలో తెరకెక్కుతున్న చిత్రం దృశ్యం-2. మ‌లయాళంలో సూప‌ర్ హిట్&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTDMRPwf-T9iGdyveK2wfl5UpBkDRY14owMH-77HiQf5VKDUq3bq2HNIOHETZ2UA_G6_v2gamVM" alt="Drishyam 2 trailer out: Fans excited as film to hit theatres on Nov 18" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The over two-minute trailer starts with Vijay saying that his family is still being troubled by IG Meera Deshmukh&#39;s son Sam&#39;s disappearance seven years ago.</p></div>
+            </div>
+        </a><a href='https://www.aajtak.in/entertainment/bollywood-news/story/drishyam-2-trailer-ajay-devgn-going-to-reveal-the-2-october-truth-as-akshaye-khanna-grills-him-hard-tmovs-1557893-2022-10-17'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Drishyam 2 Trailer: अजय देवगन खोलने वाले हैं 2 अक्टूबर का राज, अक्षय ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRnTnhnSp8BiR6sNvYXwkdqgcfmp6TS1OliZOIjmLSaaVANxxgJlDr3-otE48pWzR6qs-Njswlr" alt="Drishyam 2 Trailer: अजय देवगन खोलने वाले हैं 2 अक्टूबर का राज, अक्षय ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>अजय देवगन की फिल्म &#39;दृश्यम 2&#39; का इंतजार फैन्स बड़ी बेसब्री से कर रहे थे.</p></div>
             </div>
         </a>
         </Template></>;
