@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Real Madrid"/>
         <meta name="description" content="Trending News about Real Madrid" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Real Madrid</h1>
-            <Image width={800} height={500} src="https://ss-i.thgim.com/public/incoming/790kgy/article65998732.ece/alternates/FREE_1200/2022-10-11T201223Z_1055439522_UP1EIAB1K4LG0_RTRMADP_3_SOCCER-CHAMPIONS-SHK-MAD-REPORT.JPG" alt="Real Madrid"/>
+            <Image width={800} height={500} src="https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1019%2Fr1078293_1296x729_16%2D9.jpg" alt="Real Madrid"/>
             <h3>Recent News</h3>
-            <a href='https://sportstar.thehindu.com/football/uefa-champions-league-live-commentary-shakhtar-donetsk-vs-real-madrid-group-f-highlights/article65998500.ece'>
+            <a href='https://www.espn.in/football/spanish-laliga/story/4776029/real-madrid-beat-elche-as-ballon-dor-winner-benzema-scores'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shakhtar Donetsk 1-0 Real Madrid LIVE, Champions League ...</h3>
+                <h3>Real Madrid beat Elche as Ballon d&#39;Or winner Benzema scores</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQcmb9LXzFj_b6ZVUsyFx1G2VNFyBDNSKs41vKSsV9GhI_9YcJaH4RouHE8oOZwEQQyUEyoaKNH" alt="Shakhtar Donetsk 1-0 Real Madrid LIVE, Champions League ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Shakhtar Donetsk vs Real Madrid, Champions League: Catch the live score, updates, and commentary from the Group F match at the Parken Stadium, Denmark.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRs8WSh1y4DTqXJcomCnvwqw_peL6Hl-AtzO-pBkaCkY0BDsm75PGW1gntZA5-P9mygZcpYE02F" alt="Real Madrid beat Elche as Ballon d&#39;Or winner Benzema scores" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Days after Real Madrid beat Barcelona and Karim Benzema winning the Ballon d&#39;Or, both team and player had little trouble against Elche.</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-in/news/real-madrid-progress-champions-league-knockouts-last-minute-equaliser-bloodied-rudiger-shakhtar/blt9892febc1163ac7d'>
+        </a><a href='https://www.goal.com/en-in/news/var-real-madrid-benzema-goals-ballon-d-or-rodrygo-elche/blt4fb2878af33de306'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Still unbeaten, but only just! Real Madrid progress to Champions ...</h3>
+                <h3>Not even VAR can stop Benzema &amp; Real Madrid! Ballon d&#39;Or winner ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcScju8SDCMggg_8lhkHDzhUaMJbUGnVv77BqWOjLbNvIbYniay3I07Om9zbNAnz8h8Z6EUJ__J1" alt="Still unbeaten, but only just! Real Madrid progress to Champions ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Still unbeaten, but only just! Real Madrid progress to Champions League knockouts thanks to last-minute equaliser from bloodied Rudiger against Shakhtar. Ed&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRVkgp25LOHSIEO4ONL2PqgDGx9wfwD0yepssFv18_Fl_KMIC5tWTEfjv0UzQ457LheawWn17c7" alt="Not even VAR can stop Benzema &amp; Real Madrid! Ballon d&#39;Or winner ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>WHAT HAPPENED? The in-form Fede Valverde was on target once again for the Blancos against struggling opposition, as was Marco Asensio, while Karim Benzema&nbsp;...</p></div>
             </div>
-        </a><a href='https://therealchamps.com/2022/10/11/real-madrid-mbappe-transfer-decision/'>
+        </a><a href='https://sportstar.thehindu.com/football/real-madrid-beats-bottom-placed-elche-la-liga-karim-benzema-fede-valverde/article66033144.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Real Madrid have made Kylian Mbappe transfer decision</h3>
+                <h3>Real Madrid breezes past rock-bottom Elche</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT_vaMujR9syhElIgoSrJxe21cRZ3nVAD-YV_pNr8qxQW3KliEo-kywOSPaRFsRni_kuMwjTRmz" alt="Real Madrid have made Kylian Mbappe transfer decision" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Real Madrid have already made their decision surrounding Kylian Mbappe, who is looking for an exit from Paris Saint-Germain.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTJDPbx7eeRQs5EQnw1_RI0D0U0rpYeolTvktoZ2ddw9ZhRPN-QZTy0ulZ_eqK5NL-mrhVq5nTZ" alt="Real Madrid breezes past rock-bottom Elche" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Real Madrid tops the table with 28 points, six ahead second-placed Barcelona which has a game in hand and hosts Villarreal on Thursday.</p></div>
             </div>
-        </a><a href='https://en.as.com/soccer/shakhtar-donetsk-real-madrid-live-online-scores-stats-and-updates-champions-league-n/'>
+        </a><a href='https://www.goal.com/en/news/real-madrid-vs-sevilla-live-stream-tv-channel-kick-off-time-and-where-to-watch/blt26bae87fa0f97d0b'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shakhtar Donetsk 1-1 Real Madrid summary: Rudiger goal, score ...</h3>
+                <h3>Real Madrid vs Sevilla: Live stream, TV channel, kick-off time ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQMyZga8g32cfJOe6EircBUfF05Ks3hgU8Cz8QDmSDcoFc3eDVsWtiQh22zwGDeWyZVDBykLDtJ" alt="Shakhtar Donetsk 1-1 Real Madrid summary: Rudiger goal, score ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Real Madrid equalised in the 95th minute thanks to a Rudiger header and advance to the last 16 of the Champions League.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSfHAPdNas2xB00xjF4l-CALUE6P5LmGKeSvAxpE-FiKg1jyE2bVpj_raxP9mgck1LyIzxdZNoc" alt="Real Madrid vs Sevilla: Live stream, TV channel, kick-off time ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Los Blancos are in an impressive vein of form as they head into this fixture on the back of a comprehensive 3-0 victory over Elche. They showed no signs of post&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-in/news/shakhtar-donetsk-vs-real-madrid-predictions-tips-and-betting-odds/blte36fadf7adb637f8'>
+        </a><a href='https://www.outlookindia.com/sports/la-liga-2022-23-ballon-d-or-winner-karim-benzema-scores-as-real-madrid-beat-elche-in-pics-photos-231296'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shakhtar Donetsk vs Real Madrid: Predictions, tips &amp; betting odds</h3>
+                <h3>La Liga 2022-23: Ballon d&#39;Or Winner Karim Benzema Scores As ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTJKw4Mu-yZ7xkyxGXF-7ct0mHAy0Sw2qS9zcDXhU2fShL_rZFX1ngVOkKzlMJEyoag3HATyL7E" alt="Shakhtar Donetsk vs Real Madrid: Predictions, tips &amp; betting odds" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Real Madrid travel to Warsaw to face Shakhtar Donetsk on matchday four the Champions League with Carlo Ancelotti&#39;s men looking for their fourth consecutive&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSq5YG-aCThxD1iV3uvnnvwRR4kBFXvnbZ5Ok9pabuKnizHNJKzdQNWLSQpN1jmLaf5hbpUgXg9" alt="La Liga 2022-23: Ballon d&#39;Or Winner Karim Benzema Scores As ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Karim Benzema celebrated his maiden Ballon d&#39;Or trophy with a goal as Real Madrid defeated Elche 3-0 on Wednesday night in La Liga 2022-23.</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-in/news/real-madrid-legend-roberto-carlos-best-ever-goal-brazil-free-kick/blta9c8f7f6103f560e'>
+        </a><a href='https://a-sports.tv/laliga-real-madrid-cruise-past-elche-to-extend-lead-at-top/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Real Madrid legend Roberto Carlos picks his best-ever goal - and ...</h3>
+                <h3>LaLiga: Real Madrid cruise past Elche to extend lead at top</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQezxC4uhVGsuLG3tExCA1wVgokQFfx7FReJGHWQTDtMY8jdQmUed3daMSXz7sMtIO_D-D-ODF-" alt="Real Madrid legend Roberto Carlos picks his best-ever goal - and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Real Madrid legend Roberto Carlos has named the best goal he ever scored, but it is not his famous curling free-kick for Brazil against France in 1997.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT8O0OGgRZ-M5_35mvLgrVNA3bwM1Z8pmXcYyiufiAj__9ZNQpookD_4NwZ2hyaCr7yTDruf8fN" alt="LaLiga: Real Madrid cruise past Elche to extend lead at top" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Reigning Champions Real Madrid sealed a comfortable 3-0 win against the bottom side Elche on Wednesday to extend their lead at the top of the LaLiga table.</p></div>
             </div>
-        </a><a href='https://www.espn.com/soccer/report?gameId=652641'>
+        </a><a href='https://www.realmadrid.com/en/news/2022/10/20/benzema-it-was-the-best-season-of-my-career'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shakhtar Donetsk vs. Real Madrid - Football Match Report - October ...</h3>
+                <h3>Benzema: “It was the best season of my career”</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT1NkxIudUZ06EsQdFkZ1rz5xrz9fDbIjya0zL9EDg0uimOHT_8l4Mu9p2VvbEclTv0gG9nvGr9" alt="Shakhtar Donetsk vs. Real Madrid - Football Match Report - October ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Get a report of the Shakhtar Donetsk vs. Real Madrid 2022-23 UEFA Champions League, Group Stage football match.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTAqBLY49LSt0kLWhXRIOSStQFu2uNE7gChVlzxtZqzV1rECHLFfhWK6-_jJV9eqZwVp7x9Mn1O" alt="Benzema: “It was the best season of my career”" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>I&#39;d been dreaming about it since I was a kid”, said the Real Madrid captain in Paris.</p></div>
             </div>
-        </a><a href='https://therealchamps.com/2022/10/11/real-madrid-star-deserves-starting-role/'>
+        </a><a href='https://therealchamps.com/2022/10/19/perez-benzema-two-real-madrid-legends/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Real Madrid star proves that he deserves starting role</h3>
+                <h3>Florentino Perez compares Karim Benzema to two Real Madrid ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRp0Ny8MoK5Od8MTMNZr-4lKx6NnRcr70gkVAp9VGXfOcG7uSb1nMir_L6JuRVPuVQ8vsQmiF87" alt="Real Madrid star proves that he deserves starting role" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Real Madrid managed to qualify for the knockout stages of the UEFA Champions League with two games to spare in the group stage, thanks to a late winner from&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS7QCdL0kDiCFwjuGBtKEI6loYAaHa3KJpdjy_M4z-QrQLpS2m1syq1MHcmP25QJxbcRaXrEawQ" alt="Florentino Perez compares Karim Benzema to two Real Madrid ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Except for Luka Modric, the Real Madrid striker is the only other player to win the most prestigious award in football during the Lionel Messi and Cristiano&nbsp;...</p></div>
             </div>
-        </a><a href='http://www.espn.in/football/report?gameId=652641'>
+        </a><a href='https://www.realmadrid.com/en/about-real-madrid/the-club/sponsors/kaiyun'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shakhtar Donetsk vs. Real Madrid - Football Match Report - October ...</h3>
+                <h3>Kaiyun | Real Madrid CF</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSkZDBIDHIkIWNZ4AQa5K3oCXtM8w8gPTgfpTFAjXW15Y0w-mEO80iPA0bVa0DFL1HM1Tr7IlQ9" alt="Shakhtar Donetsk vs. Real Madrid - Football Match Report - October ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Get a report of the Shakhtar Donetsk vs. Real Madrid 2022-23 UEFA Champions League, Group Stage football match.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSI0S3kHiUUH6G3geCXoXvkUr1baDltwgAjGO0PXjFnaWQ6vXSCWbS6oYSq6C1Cu6im9YMk1n2O" alt="Kaiyun | Real Madrid CF" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Shaking the world of sports! Kaiyun Sports and the Real Madrid C.F. , one of La Liga giants, have officially reached a strategic cooperation in extension to&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.marca.com/en/football/real-madrid/2022/10/11/6345a571e2704e707c8b45b7.html'>
+        </a><a href='https://www.marca.com/en/football/real-madrid/2022/10/20/6351ab7546163f352a8b45b6.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Real Madrid&#39;s future does not lie with Kylian Mbappe</h3>
+                <h3>Benzema: I&#39;ve fulfilled the three dreams I had in my life</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTxZvqY3V6ULfyUVOhNghVJUsej5FFhbq_EJ2r9qNlWjcXPjiOoR3TC3XUB4VBKQm_NCUz5a6ic" alt="Real Madrid&#39;s future does not lie with Kylian Mbappe" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Real Madrid are not surprised by what is happening at Paris Saint-Germain with Kylian Mbappe. Los Blancos are following the story as mere witnesses of the&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRf0-W9iakv3X5nhigoyGPHq4K0lM1WjXB7mQ2x43wBD25XCxyNKD7aLEgM6VCGfNJyP3oPlR0_" alt="Benzema: I&#39;ve fulfilled the three dreams I had in my life" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Karim Benzema&#39;s fantastic year was capped off by his Ballon d&#39;Or victory earlier this week, and the French striker admits he&#39;s now completed all the goals&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
