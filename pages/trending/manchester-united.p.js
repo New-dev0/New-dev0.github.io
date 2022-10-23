@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Manchester United"/>
         <meta name="description" content="Trending News about Manchester United" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Manchester United</h1>
-            <Image width={800} height={500} src="" alt="Manchester United"/>
+            <Image width={800} height={500} src="https://images.indianexpress.com/2022/10/Casemiro.png" alt="Manchester United"/>
             <h3>Recent News</h3>
-            <a href='https://www.wionews.com/sports/the-goat-virat-kohli-hails-cristiano-ronaldo-as-manchester-united-star-completes-700-club-goals-524159'>
+            <a href='https://indianexpress.com/article/sports/football/chelsea-vs-manchester-united-live-score-updates-premier-league-2022-8225383/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>The GOAT: Virat Kohli hails Cristiano Ronaldo as Manchester ...</h3>
+                <h3>Chelsea vs Manchester United Highlights: Casemiro&#39;s late goal ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRDPlbdigbBqR3dpXg7PJPQcLFpmNVUrBukQ7U2_yXyDRj8ocWgIsUBkFOvWX0QESAm7RrcRP2e" alt="The GOAT: Virat Kohli hails Cristiano Ronaldo as Manchester ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cristiano Ronaldo finally brought an end to his long-standing drought as he scored his first goal of the season in the Premier League for Manchester United.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcStTpNWwWMne3vcJTCbP_qDLzARVoJ3qotg16rC6oY_QajwPQ0ltlLrb-omRYEpvln8JUuE3nWg" alt="Chelsea vs Manchester United Highlights: Casemiro&#39;s late goal ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Chelsea vs Manchester United, Premier League Highlights: Late drama with two goals in seven minutes led to a 1-1 draw between Chelsea and Manchester United&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.hindustantimes.com/cricket/virat-kohli-drops-epic-reaction-after-cristiano-ronaldo-reaches-another-massive-landmark-in-manchester-united-vs-everton-clash-in-premier-league-101665395805044.html'>
+        </a><a href='https://sportstar.thehindu.com/football/chelsea-manchester-united-live-score-premier-league-2022-23-updates-commentary-epl-highlights-lineups/article66045883.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Virat Kohli drops epic reaction after Ronaldo reaches another ...</h3>
+                <h3>Chelsea 1-1 Manchester United, Highlights Premier League ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR4QkHPUt3YgVicVn2Yn-DoxjDck3OLZWB3MNm-S3YuDYtkJOF0YvafUF-q9mL912kGai8AjDRdiA" alt="Virat Kohli drops epic reaction after Ronaldo reaches another ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Former Indian skipper Virat Kohli has hailed goal-machine Cristiano Ronaldo after the Manchester United star scored a landmark goal against Everton in the&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ0IhpeUe-si5QnbQNT-9hDruijArJtAuWKOfNzLpDDhXLMye65DM4DRfF5hc1-ADodayM4Zl7Z" alt="Chelsea 1-1 Manchester United, Highlights Premier League ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Chelsea vs Manchester United, Premier League: Catch the live score, updates and commentary from the match at Stamford Bridge, London.</p></div>
             </div>
-        </a><a href='https://www.manutd.com/en/news/detail/casemiro-performance-against-everton-shows-what-the-brazilian-will-bring-to-man-utd'>
+        </a><a href='https://khelnow.com/football/2022-10-world-football-premier-league-2022-23-chelsea-vs-manchester-united'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Why Casemiro is United&#39;s midfield general</h3>
+                <h3>Premier League 2022-23: Chelsea 1-1 Manchester United Replay</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ3thvcHm2SF1-5ODTaHfFlGq5Vn_-soIEdNmQos5VpbdndfaH5mKCqy7ABuArPHhro8Q_RROxj" alt="Why Casemiro is United&#39;s midfield general" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>When Erik ten Hag&#39;s starting XI was revealed for Manchester United&#39;s clash away at Everton on Sunday evening, Casemiro&#39;s first Premier League start as a Red&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQNbebRFBNQXu4q7EDnYmbEcX0WwwHccoGEwmoO6DBwEhNErGc433IMuyuZRXCmuMjoS7UfsQox" alt="Premier League 2022-23: Chelsea 1-1 Manchester United Replay" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Hello everyone and welcome to Khel Now&#39;s LIVE COVERAGE of the Chelsea vs Manchester United match in the Premier League 2022-23.</p></div>
             </div>
-        </a><a href='https://www.tribuneindia.com/news/sports/cristiano-ronaldo-nets-700th-club-goal-to-guide-manchester-united-past-everton-439945'>
+        </a><a href='https://www.telegraphindia.com/sports/football/english-premier-league-manchester-united-chelsea-play-for-draw/cid/1893701'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Cristiano Ronaldo nets 700th Club goal to guide Manchester United ...</h3>
+                <h3>English Premier League: Manchester United, Chelsea play for draw</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSGs6Xaud2fGipgeygrB4LQFEjAa-xg9vJ1_q1Mr53ujabLEE9MZwLC58nWJsBnjkf7vIztfBk-" alt="Cristiano Ronaldo nets 700th Club goal to guide Manchester United ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cristiano Ronaldo set a new milestone on Sunday in the Premier League when he scored his career&#39;s 700th club goal while playing as a substitute for&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSJyQnpWa-Hp8AUt_j9A6e_6WbNAlIqst9ua2p7ffp62uXRKix4KZUgfcOIKDXuYhLpfazPjzej" alt="English Premier League: Manchester United, Chelsea play for draw" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The two sides had been heading for a lively if disjointed goalless draw until an 87th-minute Jorginho penalty looked to have settled the match in Chelsea&#39;s&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-casemiro-ronaldo-rashford-25220539'>
+        </a><a href='https://khelnow.com/football/2022-10-world-football-top-10-players-played-for-both-chelsea-manchester-united'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Three Manchester United players told how Casemiro helped them ...</h3>
+                <h3>Top 10 players who have played for both Chelsea and Manchester ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ9E_HWM67niRJTW4de0iAimWZnHW2qS1rI2tPfTrS-C3PxtSlNCYf138i-bsD7oYFqA_lvqgkJ" alt="Three Manchester United players told how Casemiro helped them ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>He, Ronaldo and Bruno Fernandes all put in solid showings as United went within a point of the top four thanks to the win. But speaking on BT Sport after the&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS6HUG4KWZTuziCjrgx13YYzgyJVCN0TRUIHpA4GyV8-csk-accS1h15Ur_lO5C4f8G9-J9wEnN" alt="Top 10 players who have played for both Chelsea and Manchester ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>10. Mark Hughes &middot; 9. Juan Sebastian Veron &middot; 8. Radamel Falcao &middot; 7. Juan Mata &middot; 6. Romelu Lukaku &middot; 5. George Graham &middot; 4. Nemanja Matic &middot; 3. Paul Parker.</p></div>
             </div>
-        </a><a href='https://www.moneycontrol.com/news/trends/sports-trends/english-premier-league-manchester-uniteds-antony-creates-history-with-goal-against-everton-9303381.html'>
+        </a><a href='https://theathletic.com/live-blogs/chelsea-manchester-united-score/AN6Go0lWRyxd/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Premier League: Manchester United&#39;s Antony creates history with ...</h3>
+                <h3>How Chelsea and Manchester United drew 1-1 in Premier League ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRn2T0xaza2QkWWLNHulkQWJhi5DAOMUxZtoDqvcUCzHtPgvaYK_D3zaLGWnofEZI6EDYuyf7jZ" alt="Premier League: Manchester United&#39;s Antony creates history with ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Antony Matheus dos Santos beat Zlatan Ibrahimovic&#39;s record, who had scored in two consecutive games for Manchester United in 2016. (Image credit: @antony00/&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS5NFHbb4EVwOdaA2HuXn8G2-juTB1jbgM6xZqEuJg8unX6H3g6Fa0RWCmUfGufppfTreIObRzj" alt="How Chelsea and Manchester United drew 1-1 in Premier League ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Chelsea and Manchester United battled to a 1-1 draw at Stamford Bridge in the Premier League after Jorginho&#39;s penalty was canceled out by Casemiro&#39;s&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sportstiger.com/news/the-goat-former-indian-skipper-virat-kohli-reacts-after-manchester-united-star-cristiano-ronaldo-completes-700-goals'>
+        </a><a href='https://en.as.com/soccer/chelsea-manchester-united-live-online-score-stats-and-updates-premier-league-202223-n/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>The GOAT: Virat Kohli reacts after Manchester United star Cristiano ...</h3>
+                <h3>Chelsea - Manchester United summary: score, goals and highlights ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSxQVmrIcF9vJ1d9QegzJGXxmeyZggAdE9F43clFSTypuM5rsGdQFDKAA4UszXYZk7_N0LEDxM8" alt="The GOAT: Virat Kohli reacts after Manchester United star Cristiano ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Portuguese legend Cristiano Ronaldo redeemed himself on Sunday as he played an instrumental role in notching up a thrilling victory for Manchester United&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSQQ3Prwm7zchXQEbindRey_Zy3ch-2CjVII-nyQbGbATg6G9Vm7n5CPI_APRYt1SiTud78AzCq" alt="Chelsea - Manchester United summary: score, goals and highlights ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>An exciting finish saw a penalty stroked home by Jorginho before Casemiro headed in to share the points.</p></div>
             </div>
-        </a><a href='https://www.outlookindia.com/sports/cristiano-ronaldo-s-700th-club-goal-helps-manchester-united-beat-everton-in-premier-league-2022-23-in-pics-photos-228797'>
+        </a><a href='https://economictimes.indiatimes.com/news/international/uk/manchester-united-vs-chelsea-rio-ferdinand-reveals-manager-erik-ten-hag-made-mistake-with-cristiano-ronaldo/articleshow/95037106.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Cristiano Ronaldo&#39;s 700th Club Goal Helps Manchester United Beat ...</h3>
+                <h3>Manchester United vs Chelsea: Rio Ferdinand claims manager Erik ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQkbr7sbfy44aSqtc5Vs735KxR9O_KZGICX_daWqbjxbO7uO-iZ7XKLmUol1t5otQwXjdYfJolm" alt="Cristiano Ronaldo&#39;s 700th Club Goal Helps Manchester United Beat ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cristiano Ronaldo scored the 700th club goal of his career to earn Manchester United a 2-1 victory at Everton that moved his team a point off the Premier&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS3iDGiJCaXC0d5urOlrjc_w5RuHipT29C58C_dfOfjPnrlgcfWqFmeH88Lh3893GTQy_1bGCHd" alt="Manchester United vs Chelsea: Rio Ferdinand claims manager Erik ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Former footballer Rio Ferdinand has blamed Erik ten Hag for sending mixed signals to Cristiano Ronaldo and said Manchester United manager must accept he is&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.manchestereveningnews.co.uk/sport/football/football-news/cristiano-ronaldo-garnacho-man-united-25226311'>
+        </a><a href='https://www.manchestereveningnews.co.uk/sport/football/football-news/gary-neville-man-united-ronaldo-25331383'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Manchester United&#39;s Alejandro Garnacho sends Cristiano Ronaldo ...</h3>
+                <h3>Gary Neville slams Cristiano Ronaldo and tells Manchester United ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSf6xRxzAHAAC0e9ZqExSFE-3CXXbjl2fNffgzf1dy5McgClwjmqkW1hjcHVRREASNpt9Kxm4Ma" alt="Manchester United&#39;s Alejandro Garnacho sends Cristiano Ronaldo ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cristiano Ronaldo scored his 700th club career goal against Everton and Alejandro Garnacho has reacted to his &#39;idol&#39;.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ_amJrZdzokSLJhOhrkO-GBKPZLnsHkmiEz-FfxuosBNxZvqr0iG3E4MFm_vHaeJeovqbQ-qBI" alt="Gary Neville slams Cristiano Ronaldo and tells Manchester United ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Gary Neville has delivered his verdict on Cristiano Ronaldo&#39;s refusal to step off the bench during Man United&#39;s 2-0 win over Tottenham Hotspur.</p></div>
             </div>
-        </a><a href='https://talksport.com/football/1215350/casemiro-tank-man-utd-cristiano-ronaldo-premier-league-everton/'>
+        </a><a href='https://www.skysports.com/football/news/11095/12727692/cristiano-ronaldo-gary-neville-says-manchester-united-should-move-the-striker-on-after-tottenham-walkout'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Casemiro labelled &#39;tank&#39; as Manchester United star assists Cristiano ...</h3>
+                <h3>Cristiano Ronaldo: Gary Neville says Manchester United should ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQaqMnS8QiLLa4ABXoPri9TQr9HPvQurnxynHOISg_gh-pB7h92ZN_r2mo2UzVKssrNdE16r0g9" alt="Casemiro labelled &#39;tank&#39; as Manchester United star assists Cristiano ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Casemiro finally got his chance to start a Premier League game and showed why Manchester United paid £70million to prise him away from Real Madrid.Th.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQtsx0rsVtXm-LpiczTUMQ7IXWI6-1MtYRxxS9bU655xPEL6dl-KWEC2ax5RBgYdkV1psnbI8LD" alt="Cristiano Ronaldo: Gary Neville says Manchester United should ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cristiano Ronaldo dropped by Erik ten Hag for their trip to Chelsea after refusing to come on as a late substitute against Tottenham before leaving early;&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

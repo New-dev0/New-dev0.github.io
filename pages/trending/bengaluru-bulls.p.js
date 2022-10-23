@@ -11,49 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Bengaluru Bulls"/>
         <meta name="description" content="Trending News about Bengaluru Bulls" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Bengaluru Bulls</h1>
-            <Image width={800} height={500} src="https://assets.khelnow.com/news/uploads/2022/10/Bengaluru-Bulls-vs-Telugu-Titans-1-scaled.jpg" alt="Bengaluru Bulls"/>
+            <Image width={800} height={500} src="https://newsroomodisha.com/wp-content/uploads/2022/10/a4430190326f008bf42265328a276ce8-BmNRiL.jpeg" alt="Bengaluru Bulls"/>
             <h3>Recent News</h3>
-            <a href='https://khelnow.com/kabaddi/pkl-9-day-1-bengaluru-bulls-telugu-titans-match-report'>
+            <a href='https://newsroomodisha.com/pkl-9-bharats-inspiring-performance-helps-bengaluru-bulls-stun-u-mumba/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bengaluru Bulls beat Telugu Titans to win first derby of PKL 9</h3>
+                <h3>PKL 9: Bharat&#39;s inspiring performance helps Bengaluru Bulls stun U ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR7ymLTGxw5b2aKu1dc-RZC7-RYglNv9ZVjMGWvAPVrosP-jIbADphTDhU8M6YzU5hIoAFDP0C_" alt="Bengaluru Bulls beat Telugu Titans to win first derby of PKL 9" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Bengaluru Bulls didn&#39;t let the absence of Pawan Sehrawat hurt their raiding game against Telugu Titans in the first derby of PKL 9.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS6kP0pnYaUtNemcBDUBHurm5FXUvMqUeVshv5sG8xwYF7egGZbdwmshMS8xwfGYj_iEuTYk3Qi" alt="PKL 9: Bharat&#39;s inspiring performance helps Bengaluru Bulls stun U ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Bengaluru: U Mumba were in a fantastic position at 24-11 at the end of the first half, but Bengaluru Bulls&#39; raider Bharat put up a stupendous performance&nbsp;...</p></div>
             </div>
-        </a><a href='https://zeenews.india.com/other-sports/live-updates/highlights-bengaluru-bulls-vs-telugu-titans-pro-kabaddi-2022-season-9-bengaluru-beat-hyderabad-by-7-points-2519098'>
+        </a><a href='https://www.hindustantimes.com/sports/others/pro-kabaddi-league-bharat-s-inspiring-performance-helps-bengaluru-bulls-stun-u-mumba-101666454477735.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Highlights Bengaluru Bulls vs Telugu Titans Pro Kabaddi 2022 ...</h3>
+                <h3>Pro Kabaddi League: Bharat&#39;s performance helps Bengaluru Bulls ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ8p8PBiAbjBXcYAzO8yn0cyRunc2G3H_TCIdNjiiTNsbzeg1mZrz4owIGBi3WX_eUz9KTtJFfW" alt="Highlights Bengaluru Bulls vs Telugu Titans Pro Kabaddi 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>BLR vs TEL, Vivo Pro Kabaddi 2022 LIVE Scorecard: Follow match updates and live score of Bengaluru Bulls vs Telugu Titans.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSGmebx5ChSJ4mOZPiy27rrtGYI_rNaBEBR0iv0uxcthgguF1TXxVb9jolwq7IiIHIwwnVc3fhW" alt="Pro Kabaddi League: Bharat&#39;s performance helps Bengaluru Bulls ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Bharat reduced the U Mumba side to two players before the Bulls inflicted another all out to seal a comprehensive victory.</p></div>
             </div>
-        </a><a href='https://sportstar.thehindu.com/kabaddi/pro-kabaddi-league/pro-kabaddi-live-score-bengaluru-bulls-vs-telugu-titans-squads-commentary-update-pkl-streaming-info/article65980922.ece'>
+        </a><a href='https://www.firstpost.com/sports/pro-kabaddi-league-2022-bengaluru-bulls-down-u-mumba-jaipur-pink-panthers-gujarat-giants-win-11501131.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Pro Kabaddi 2022 Highlights - Bengaluru Bulls vs Telugu Titans ...</h3>
+                <h3>Pro Kabaddi League 2022: Bengaluru Bulls down U Mumba; Jaipur ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTySSW1IGhjba63zFB_UGisNWTsDQI4iEQSZc6BKMe2SIZsD1ZezyTuUaq1mzGeVPcQExUPUNd_" alt="Pro Kabaddi 2022 Highlights - Bengaluru Bulls vs Telugu Titans ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>PKL 9: Follow highlights, score, commentary and statistics from the second match of day 1 of the vivo Pro Kabaddi League between Bengaluru Bulls and Telugu&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ2fqHGS7QfJ4_g8VdfT95HXFhYRWRD9MrYsPy5KUPgjLwwiO6SfcIbPSNpR3jL42tiXp0F-3_F" alt="Pro Kabaddi League 2022: Bengaluru Bulls down U Mumba; Jaipur ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A clinical performance by the Jaipur Pink Panthers earned them a massive 51-27 victory over Telugu Titans in the second game of the day.</p></div>
             </div>
-        </a><a href='https://www.insidesport.in/pkl-2022-live-streaming-pawan-sehrawat-less-bengaluru-bulls-set-to-begin-campaign-in-front-of-home-crowd-take-on-telugu-titans-in-their-first-match-of-pkl-2022-follow-bengaluru-bulls-vs-telugu-tit/'>
+        </a><a href='https://sportstar.thehindu.com/kabaddi/pro-kabaddi-league/pro-kabaddi-live-score-u-mumba-vs-bengaluru-bulls-squads-starting-7-commentary-update-stats-records-pkl-streaming-info-guman-surinder-vikash-bharat/article66043367.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bulls vs Titans Highlights: Bengaluru Bulls edge past Telugu Titans ...</h3>
+                <h3>U Mumba 32-42 Bengaluru Bulls, Highlights Pro Kabaddi 2022 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTduZ4kuv1KLKpcQczUl3rbVrri3ieiUlYsgRt0UBWSmNuebo86ZuITDtzPNxyWYBdS7pcRw6Lq" alt="Bulls vs Titans Highlights: Bengaluru Bulls edge past Telugu Titans ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Bulls vs Titans Highlights: Bengaluru Bulls edge past Telugu Titans 34-29 to begin campaign with win at home, Check PKL 2022 Highlights.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRepa6dU_hqnIFTouQIHl8iTTbwdsggOx1Rxz8tID5ZeulewbmbPLMnh_31jmtQ4Oet8CBX617W" alt="U Mumba 32-42 Bengaluru Bulls, Highlights Pro Kabaddi 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>PKL 9: Follow highlights, score, commentary and statistics from the 1st match of 22nd October of the Pro Kabaddi League between U Mumba and Bengaluru Bulls&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.prokabaddi.com/news/bengaluru-bulls-claim-bragging-after-beating-telugu-titans-in-southern-derby'>
+        </a><a href='https://zeenews.india.com/other-sports/u-mumba-vs-bengaluru-bulls-pkl-live-streaming-when-and-where-to-watch-pro-kabaddi-league-season-9-live-coverage-on-live-tv-online-2525467.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bengaluru Bulls begin vivo Pro Kabaddi Season 9 with win over ...</h3>
+                <h3>U Mumba vs Bengaluru Bulls PKL Live Streaming: When and Where ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTWcTemVYe0wsCRm1hUx_Z0Gpd3yuzp9MJ1aNbbOQXun1jk7l_eytdJf265X2evSfdI6gDrceoI" alt="Bengaluru Bulls begin vivo Pro Kabaddi Season 9 with win over ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>They swatted away the challenge from Telugu Titans by beating them 34-29 at the Shree Kanteerava Indoor Stadium. For the Bulls, Neeraj Narwal finished with&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSvu0qHXY8kgrKmckLEdZGUsk0UkoS5qGpFC5_9cu8dfEaKOmzFi6R_kiO0i5jWCKeoLelECIts" alt="U Mumba vs Bengaluru Bulls PKL Live Streaming: When and Where ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Know when, where, and how to watch the live streaming of the Pro Kabbadi League Season 9 match between U Mumba and Bengaluru Bulls.</p></div>
             </div>
-        </a><a href='https://www.sportskeeda.com/kabaddi/pro-kabaddi-2022-bengaluru-bulls-vs-telugu-titans-who-will-win-today-s-pkl-match-2-telecast-details'>
+        </a><a href='https://www.firstpost.com/sports/pro-kabaddi-2022-live-score-and-updates-u-mumba-face-bengaluru-in-first-game-11500461.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Pro Kabaddi 2022, Bengaluru Bulls vs Telugu Titans: Who will win ...</h3>
+                <h3>Pro Kabaddi 2022, Highlights: Bengaluru Bulls beat U Mumba; Pink ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSvCzrel7_IjV3mhdyDe1_zrE9lVSuBeFMRQ2vtBJ7t40FSoZTQ1bG-nnnwcnHaGUaTHgJdzkut" alt="Pro Kabaddi 2022, Bengaluru Bulls vs Telugu Titans: Who will win ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Bengaluru Bulls will take on the Telugu Titans in the second match of the Pro Kabaddi League (PKL) 2022 on Friday, October 7.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSzLunVRKA-d9yv7aT6qWSz7SGLdls-BtWLnCQWF7r4Uj1NShu6Z3JVbnnCqcw9SHm2EUVMRy2x" alt="Pro Kabaddi 2022, Highlights: Bengaluru Bulls beat U Mumba; Pink ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Pro Kabaddi 2022, Highlights: U Mumba and Haryana Steelers suffered defeatswhile Jaipur Pink Panthers notched up their fifth win to go top of the table.</p></div>
+            </div>
+        </a><a href='https://www.insidesport.in/pkl-2022-live-in-form-bengaluru-bulls-set-to-lock-horns-with-u-mumba-in-pro-kabaddi-league-2022-follow-bengaluru-bulls-vs-u-mumba-live-updates/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>PKL 2022 LIVE: Bengaluru Bulls defeat U Mumba in Pro Kabaddi ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT3bck6TeOdFv8ixPZAgNkehVN01Bbc5YSFyfYeeKZb-daed3La6o6s_h_hxZb0rY3NqXI4Y92U" alt="PKL 2022 LIVE: Bengaluru Bulls defeat U Mumba in Pro Kabaddi ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>PKL 2022 Highlights: Bengaluru Bulls clinch terrific come-from-behind victory against U Mumba in Pro Kabaddi League 2022 - Check Highlights.</p></div>
+            </div>
+        </a><a href='https://sportsmintmedia.com/bengaluru-bulls-appoint-dhaba-as-official-restaurant-partner/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Bengaluru Bulls appoint Dhaba as official restaurant partner ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS1RuKimoWnKNlxvi1zxEO_0DkfNiRnaKnEoe9RroHUz-KMDFMUAXsk0Is_TG4V74EA-8ivIhYB" alt="Bengaluru Bulls appoint Dhaba as official restaurant partner ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Pro Kabaddi League (PKL) team, Bengaluru Bulls, has signed a new partnership with a Delhi-based food outlet, Dhaba.</p></div>
+            </div>
+        </a><a href='https://www.timesnownews.com/sports/mum-vs-blr-pro-kabaddi-league-dream-11-prediction-fantasy-tips-for-u-mumba-vs-bengaluru-bulls-match-article-95032284'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>MUM VS BLR Pro Kabaddi League Dream 11 prediction: Fantasy ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRw43m5inboXErFaGIH7wZBnUy4rMbBQyIuO52_mtr8yw3SLMN9qTlDij7LIuk5_2P13VHaP0ce" alt="MUM VS BLR Pro Kabaddi League Dream 11 prediction: Fantasy ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>U Mumba and Bengaluru Bulls are placed 6th and 5th in the points table with an equal score of 16 points but with a difference in score points of -1 and 8&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.sportskeeda.com/kabaddi/pro-kabaddi-2022-u-mumba-vs-bengaluru-bulls-who-will-win-today-s-pkl-match-33-telecast-details'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Pro Kabaddi 2022, U Mumba vs Bengaluru Bulls: Who will win ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR3W1mEaBD8X7a0B4s9nRrzBhe_9-4bpgmz5DesvXgSKH2rPB2ahTpcdR5z4x-VTwJ1LFQkm4CP" alt="Pro Kabaddi 2022, U Mumba vs Bengaluru Bulls: Who will win ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>U Mumba will lock horns with the Bengaluru Bulls in the 33rd match of the Pro Kabaddi League 2022 on Saturday (22nd October). Let&#39;s take a look at the U&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
