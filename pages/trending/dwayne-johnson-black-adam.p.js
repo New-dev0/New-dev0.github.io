@@ -11,42 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Dwayne Johnson Black Adam"/>
         <meta name="description" content="Trending News about Dwayne Johnson Black Adam" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Dwayne Johnson Black Adam</h1>
-            <Image width={800} height={500} src="" alt="Dwayne Johnson Black Adam"/>
+            <Image width={800} height={500} src="https://images.indianexpress.com/2022/10/black-adam.jpeg" alt="Dwayne Johnson Black Adam"/>
             <h3>Recent News</h3>
-            <a href='https://www.hindustantimes.com/entertainment/hollywood/black-adam-first-reviews-call-dwayne-johnson-film-visually-confounding-but-fun-101666167764645.html'>
+            <a href='https://indianexpress.com/article/entertainment/hollywood/black-adam-box-office-collection-dwayne-johnsons-dc-8226194/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Black Adam first reviews call Dwayne Johnson film &#39;visually ...</h3>
+                <h3>Black Adam box office collection: Dwayne Johnson&#39;s DC film has ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSEyfdqA_ptXBHv9-BNJsB4wIDXEgx1irlGtY0psA-Z7SrKRl87q_avl5ReG-oPQ-Vg1hE2RYcO" alt="Black Adam first reviews call Dwayne Johnson film &#39;visually ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The first reviews for Dwayne Johnson&#39;s Black Adam are mixed, praising the actors and action but criticising the depth of the story and the editing.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRvArzNKKu9uivoUpeHHy-AW5y1GNVDGDc1YYF_PNjZqBQhpAc5fhsnE4g9xs_Tin-RDSMYt_fE" alt="Black Adam box office collection: Dwayne Johnson&#39;s DC film has ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Black Adam box office collection: Black Adam is expected to cross over 62 million dollars in its opening weekend, which would make it the first worldwide&nbsp;...</p></div>
             </div>
-        </a><a href='https://indianexpress.com/article/entertainment/hollywood/dwayne-johnson-shares-black-adam-first-announcement-15-years-ago-8219268/'>
+        </a><a href='https://fortune.com/2022/10/23/black-adam-dwayne-johnson-superhero-movie-reviews-opening-weekend/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Dwayne Johnson shares Black Adam&#39;s first announcement from 15 ...</h3>
+                <h3>&#39;Black Adam&#39; defeats poor reviews, lands biggest opening weekend ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRVYT4-gw82oV0JFO86q6ha0qfnWuJK4bOLSaEdrjGt0zC2sNPnJJJHKsmKtYaKxmhCT23s5P54" alt="Dwayne Johnson shares Black Adam&#39;s first announcement from 15 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Rock shared the photo that was used 15 years ago to announce his association with the movie. He also mentioned how for years, studio executives kept&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRiWr0KFF0xQTnWcmTPU7GFV0jBQs2tOBlZpl-PQKMod9Lv-9GVSP9l5brHUX53rfMii8IKJiU7" alt="&#39;Black Adam&#39; defeats poor reviews, lands biggest opening weekend ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Dwayne Johnson had his biggest box-office weekend as a leading man. Now he wants a showdown with Superman.</p></div>
             </div>
-        </a><a href='https://www.theatlantic.com/culture/archive/2022/10/black-adam-movie-review-dwayne-johnson/671789/'>
+        </a><a href='https://www.indiatoday.in/movies/hollywood/story/black-adam-movie-review-action-is-the-only-saving-grace-of-this-dwayne-johnson-film-2288630-2022-10-23'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Black Adam&#39; Is Dwayne Johnson at His Most Charmless</h3>
+                <h3>Black Adam Movie Review: Action is the only saving grace of this ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT-TiK78ZxE-e0qNb4rR8wEvKo_bmDFimQ26u2_LT64NnsOKElQKTgXJ-l7r3lgPU-lK2n0kFT6" alt="&#39;Black Adam&#39; Is Dwayne Johnson at His Most Charmless" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Dwyane Johnson delivers a charmless performance in his latest movie.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTWXPRokp4gRkteX34OlFllV45-wnboVaixThcAGxGCPjePVoDrwyYeHImM2Lyjk7ZYteWSU9q3" alt="Black Adam Movie Review: Action is the only saving grace of this ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Rating: By Rishabh Sharma: Black Adam, starring Dwayne &#39;The Rock&#39; Johnson, walks on the tried and tested tropes of every superhero film, except for the&nbsp;...</p></div>
             </div>
-        </a><a href='https://telanganatoday.com/dwayne-johnsons-black-adam-opens-low-among-review-aggregators'>
+        </a><a href='https://www.latimes.com/entertainment-arts/story/2022-10-23/black-adam-box-office-dwayne-johnson-dc'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Dwayne Johnson&#39;s &#39;Black Adam&#39; opens low among review aggregators</h3>
+                <h3>DC&#39;s &#39;Black Adam&#39;: Dwayne Johnson breaks box-office record</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQXM2VXDLftojwGsJfr9S_zCLPlWlFvnJuvC4xvpGM4ZWjhfN6A_QNXcQEmJjtw2o_BwkTmb7s5" alt="Dwayne Johnson&#39;s &#39;Black Adam&#39; opens low among review aggregators" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The hierarchy of power in the DC Universe may be about to change with &#39;Black Adam&#39;, but the Dwayne Johnson star vehicle is landing low on the hierarchy of&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ9DEH8CNQ4TQQQzBjVnW9FI1dqBghIvlIf3RbXKRdgbcb56FZskozEl2fjs2s6dwMizvCsXWAU" alt="DC&#39;s &#39;Black Adam&#39;: Dwayne Johnson breaks box-office record" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Warner Bros.&#39; &#39;Black Adam,&#39; Universal&#39;s &#39;Ticket to Paradise&#39; and Paramount&#39;s &#39;Smile&#39; were the top three films at the domestic box office this weekend.</p></div>
             </div>
-        </a><a href='https://www.usatoday.com/story/entertainment/movies/2022/10/19/black-adam-dwayne-johnson-wwe-heel-dc-movie/10531948002/'>
+        </a><a href='https://www.goldderby.com/article/2022/black-adam-box-office-dwayne-johnson/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Fate does not make mistakes&#39;: Dwayne Johnson finally brings &#39;Black ...</h3>
+                <h3>Box office: &#39;Black Adam&#39; launches with $67 million, Dwayne ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTZCpblX0iJB2a-KSH5sAvU7So9169mXpGyIfYzbEaZts68g8fkQq9OmTf0JIyp7QxBXUBSzWQk" alt="&#39;Fate does not make mistakes&#39;: Dwayne Johnson finally brings &#39;Black ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Channeling his old WWE bad guy for his newest role, Dwayne Johnson said no to every other DC comic-book character in order to play &#39;Black Adam.&#39;</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTqOU5G4XzE5BwRnn8VhrxaN5Y4PxkapbhTPt4IskEGJiv-qeg0dqHpYnQKNvz5GxTLs0KMYsx6" alt="Box office: &#39;Black Adam&#39; launches with $67 million, Dwayne ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Warner Bros. opened the anti-hero epic into 4,402 theaters with previews starting at 3pm on Thursday that brought in $7.6 million, leading to an opening Friday&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.koimoi.com/box-office/black-adam-box-office-us-26-8-million-vs-dwayne-johnson-top-5-opening-days-heres-where-the-dc-film-has-landed/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Black Adam Box Office (US): $26.8 Million VS Dwayne Johnson&#39;s ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRArBmWWIInsiykYKUxc28tTQ1aEO9mRd8OHBFVaGOQSZWC3uJhcKdvQt37Du5JDZlVHIg7lRk5" alt="Black Adam Box Office (US): $26.8 Million VS Dwayne Johnson&#39;s ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Besides The Rock, this 2022 superhero film from the DC Extended Universe also stars Aldis Hodge, Noah Centineo, Sarah Shahi, Marwan Kenzari, Quintessa Swindell,&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

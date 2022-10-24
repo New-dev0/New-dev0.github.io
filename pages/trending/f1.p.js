@@ -11,56 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,F1"/>
         <meta name="description" content="Trending News about F1" /></Head><Template>
             <h1 style={{fontSize: "30"}}>F1</h1>
-            <Image width={800} height={500} src="https://www.formula1.com/content/dam/fom-website/manual/Misc/2022manual/2022Races/Singapore/Sunday/perez-podium.jpg" alt="F1"/>
+            <Image width={800} height={500} src="https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1023%2Fr1080255_1296x729_16%2D9.jpg" alt="F1"/>
             <h3>Recent News</h3>
-            <a href='https://www.formula1.com/en/latest/article.perez-hails-best-performance-in-f1-in-singapore-grand-prix-as-he-gives-his.2bXvD5GhmApwL7YyoAC0BC.html'>
+            <a href='https://www.espn.in/f1/story/_/id/34861450/red-bull-claims-first-f1-constructors-title-2013-dedicates-dietrich-mateschitz'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Perez hails &#39;best performance&#39; in F1 in Singapore Grand Prix as he ...</h3>
+                <h3>Red Bull claims first F1 constructors&#39; title since 2013, dedicates it to ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQzD__EUrikstCYnK3xDT6MMkOFGNC0A-n9GaEpWVmWEvD9efjAPM9HXgXjG6Zd2_NlC6fvcTs_" alt="Perez hails &#39;best performance&#39; in F1 in Singapore Grand Prix as he ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Red Bull driver Sergio Perez hailed the best performance of his F1 career to date as he controlled an “intense” Singapore Grand Prix to beat Ferrari rival&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTBrcpzt3ZslZ7PsLpQp5zLekeOmvho0i8oMY8Wk48an2U-1r2QfufEuxCFB8KeBPmK_z92_NFB" alt="Red Bull claims first F1 constructors&#39; title since 2013, dedicates it to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The championship was secured at the U.S. Grand Prix, with three races to spare, a day after company founder and team owner Dietrich Mateschitz died aged 78. Max&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.livemint.com/news/world/f1-heavy-rain-delays-start-of-singapore-grand-prix-11664714850307.html'>
+        </a><a href='https://www.autosport.com/f1/news/hamilton-will-take-mercedes-to-the-top-in-2023-f1-title-fight-rallying-cry/10389418/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>F1: Heavy rain delays start of Singapore Grand Prix | Mint</h3>
+                <h3>Hamilton &quot;will take Mercedes to the top&quot; in 2023 F1 title fight rallying ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSJhXh6B0UY5op5ytMy3Th1aSG5KzIgZkN-RhktPU3AAEabwzVUfDgZvPgDOfwLBUD-5ChpHiI84A" alt="F1: Heavy rain delays start of Singapore Grand Prix | Mint" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The race, originally set to start at 2000 local time (1200GMT), will now begin at 2105 local time (1305GMT) with the cars scheduled to set off on their&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSF6GFnReuD93ViV4yocOKsbdZVJVgBpP9Ry7JbvsnmASWSY15UfR-8IeRrnbV_FO18YTkg-DZb" alt="Hamilton &quot;will take Mercedes to the top&quot; in 2023 F1 title fight rallying ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lewis Hamilton has sent out a rallying cry to Mercedes and says &#39;when they build the car I will take it to the top&#39; after defeat to Max Verstappen in the US&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.business-standard.com/article/sports/f1-perez-wins-singapore-gp-faces-probe-for-safety-car-infringement-122100200827_1.html'>
+        </a><a href='https://www.motorsport.com/f1/news/united-states-gp-verstappen-passes-hamilton-for-13th-win-of-f1-2022/10389337/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>F1: Perez wins Singapore GP, faces probe for safety car infringement</h3>
+                <h3>United States GP: Verstappen passes Hamilton for 13th win of 2022</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRsHeyS0VOjWiS7_3xZSK4ZWCvqUOLC9Uys2Xvoc5YTO2u4Bxdmw3oV0sjdTzmPb4Imlj8OLzY6" alt="F1: Perez wins Singapore GP, faces probe for safety car infringement" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Red Bull&#39;s Sergio Perez raced ahead of Ferrari&#39;s Charles Leclerc to win his first-ever Singapore Grand Prix.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQb-4JaxRzovWNdFx59qejRT4aG1efe8ukRnVhHa-CPV0k8YGqE2DiVf4duAT7tLyiySCyErVfS" alt="United States GP: Verstappen passes Hamilton for 13th win of 2022" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Max Verstappen overcame a botched pitstop to hunt down and defeat Mercedes&#39; Lewis Hamilton late on in Formula 1&#39;s 2022 US Grand Prix, sealing Red Bull&#39;s&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.theguardian.com/sport/2022/oct/02/sergio-perez-wins-singapore-f1-gp-as-max-verstappen-forced-to-wait-for-title'>
+        </a><a href='https://racingnews365.com/2022-f1-united-states-grand-prix-race-results'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Sergio Pérez wins soggy Singapore F1 GP as Max Verstappen has ...</h3>
+                <h3>2022 F1 United States Grand Prix Race results</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSIxLaWexxQZXC8C2WcR1rvmfb7Or0b9Ve36H7xXm0qpLJB1RVgeNJObmoC3NOrFkVocgeBNQAG" alt="Sergio Pérez wins soggy Singapore F1 GP as Max Verstappen has ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Sergio Pérez won for the second time this season with Charles Leclerc second, Max Verstappen seventh and Lewis Hamilton in ninth in a rain-delayed race.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRF_15fy-RawKZvw6PCPDkq3kM6c59Tpho2MKEW-YHBp84CS-QZG9YW6_4aUaa70ahDxyTNuOUM" alt="2022 F1 United States Grand Prix Race results" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Here are the full race results from an enthralling United States Grand Prix, where Max Verstappen took a remarkable comeback victory over Lewis Hamilton.</p></div>
             </div>
-        </a><a href='https://www.fia.com/news/f1-perez-penalised-wins-singapore-ahead-leclerc-verstappen-finishes-seventh'>
+        </a><a href='https://www.formula1.com/en/latest/article.its-a-new-approach-to-sports-reporting-how-will-arnett-is-bringing-comedy-to.6NnCOq3QF1XCeo0AjwM1J8.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>F1 – Pérez penalised but wins in Singapore ahead of Leclerc as ...</h3>
+                <h3>&#39;It&#39;s a new approach to sports reporting&#39; – How Will Arnett is bringing ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTqg7QlbabAkDjnzH57Z7ofUOgcpZ3dkbsjQ_MU-96p7MRG2_o_PB8YIn-JEbDI9E4GqKa_F59-" alt="F1 – Pérez penalised but wins in Singapore ahead of Leclerc as ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Sergio Pérez passed polesitter Charles Leclerc at the start and resisted race-long pressure from the Ferrari driver to take a hard-earned victory at the&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSB7jLQnY5Cm2y8rsyCG5nMfu5S4YG4vDdrFnsoAZl6tJD2aIpv_YxL5zXhNB4dwfLaZqh42dhQ" alt="&#39;It&#39;s a new approach to sports reporting&#39; – How Will Arnett is bringing ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>But with the Toronto-born actor now the star of Amp radio show Fast &amp; Loose, in which he – along with co-hosts Michelle Beadle, Katie Osborne, The Kid Mero and&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.marca.com/en/f1/2022/10/02/633950ca051f0f001f13c08d-directo.html'>
+        </a><a href='https://www.theguardian.com/sport/live/2022/oct/23/us-grand-prix-f1-live'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>F1 Standings - Perez wins Formula 1s Singapore Grand Prix</h3>
+                <h3>Max Verstappen wins US Grand Prix for 13th victory of F1 season ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSG22Oq5JeMI9SiEIITh7blSWeLxPtALo0sqW7mA7N_yw69XA2xlMXvJV_pRVMCL2OD-KbVMLIl" alt="F1 Standings - Perez wins Formula 1s Singapore Grand Prix" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>F1 World Drivers Championship standings 1) Max Verstappen - 341 points 2) Charles Leclerc - 237 points 3) Sergio Perez - 235 points 4) George Russell.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQclEQG_D7hNsKCtaJhKHCSwGrahVuu6_hBSZprTSqV201hk9v-FVd7lMmb8n1PXwOKu-iI1zWm" alt="Max Verstappen wins US Grand Prix for 13th victory of F1 season ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lap-by-lap report: Carlos Sainz was on pole but was out of the race early as world champion Max Verstappen notched yet another victory.</p></div>
             </div>
-        </a><a href='https://the-race.com/formula-1/our-verdict-on-f1-champions-errors-and-perezs-great-drive/'>
+        </a><a href='https://www.carandbike.com/news/f1-red-bull-win-first-constructor-s-title-in-9-years-as-verstappen-prevails-at-cota-3203178'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Our verdict on F1 champions&#39; errors and Perez&#39;s great drive - The ...</h3>
+                <h3>F1: Red Bull Win First Constructor&#39;s Title In 9 Years As Verstappen ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQCiy-vABZoahCmXd3LxHFeq3y-Re1UbMUQcpC0vShYkbLDE7azmlTBfdrx-HUHwYJMGJ4r4JRJ" alt="Our verdict on F1 champions&#39; errors and Perez&#39;s great drive - The ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>As Max Verstappen (and Lewis Hamilton) made a mess of the Singapore Grand Prix, Sergio Perez produced masterclass.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTimtY__b7mHUimU8FiLPqmLffKca7o1BixUL8Di1MN76E0u6nogRNHA5OcHf9sNmYxi8VGhBlc" alt="F1: Red Bull Win First Constructor&#39;s Title In 9 Years As Verstappen ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Verstappen came back to win after a botched pitstop meant he found himself behind the Ferrari of Charles Leclerc.</p></div>
             </div>
         </a>
         </Template></>;
