@@ -18,42 +18,63 @@ export default function Page() {
                 <h3>Red Bull claims first F1 constructors&#39; title since 2013, dedicates it to ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTBrcpzt3ZslZ7PsLpQp5zLekeOmvho0i8oMY8Wk48an2U-1r2QfufEuxCFB8KeBPmK_z92_NFB" alt="Red Bull claims first F1 constructors&#39; title since 2013, dedicates it to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The championship was secured at the U.S. Grand Prix, with three races to spare, a day after company founder and team owner Dietrich Mateschitz died aged 78. Max&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Red Bull has clinched its first Formula One constructors&#39; championship since 2013, one day after the death of company co-founder and owner Dietrich&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.autosport.com/f1/news/hamilton-will-take-mercedes-to-the-top-in-2023-f1-title-fight-rallying-cry/10389418/'>
+        </a><a href='https://www.formula1.com/en/latest/article.villeneuves-1997-championship-winning-williams-show-car-up-for-sale-on-f1.5tWbXYux5HZMmH31k0oWLZ.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Hamilton &quot;will take Mercedes to the top&quot; in 2023 F1 title fight rallying ...</h3>
+                <h3>Villeneuve&#39;s 1997 championship-winning Williams show car up for ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSF6GFnReuD93ViV4yocOKsbdZVJVgBpP9Ry7JbvsnmASWSY15UfR-8IeRrnbV_FO18YTkg-DZb" alt="Hamilton &quot;will take Mercedes to the top&quot; in 2023 F1 title fight rallying ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Lewis Hamilton has sent out a rallying cry to Mercedes and says &#39;when they build the car I will take it to the top&#39; after defeat to Max Verstappen in the US&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSErl4pyS_NiGBIKCMnLZ7qbsPy54Q6jGRuvrwedDbb_RpZAY0hGtD9VdyFfoHuHO3TZQghwnlf" alt="Villeneuve&#39;s 1997 championship-winning Williams show car up for ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The 1997 Williams FW19 show car, which features the original wheels, brakes, pedals and steering wheel that propelled Jacques Villeneuve to his first and&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.motorsport.com/f1/news/united-states-gp-verstappen-passes-hamilton-for-13th-win-of-f1-2022/10389337/'>
+        </a><a href='https://www.foxsports.com.au/motorsport/formula-one/aussie-rising-star-set-for-first-f1-outing-this-weekend/news-story/5d29aa40075a2c0042cb964657665929'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>United States GP: Verstappen passes Hamilton for 13th win of 2022</h3>
+                <h3>Aussie rising star set for first F1 outing this weekend</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQb-4JaxRzovWNdFx59qejRT4aG1efe8ukRnVhHa-CPV0k8YGqE2DiVf4duAT7tLyiySCyErVfS" alt="United States GP: Verstappen passes Hamilton for 13th win of 2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Max Verstappen overcame a botched pitstop to hunt down and defeat Mercedes&#39; Lewis Hamilton late on in Formula 1&#39;s 2022 US Grand Prix, sealing Red Bull&#39;s&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTerhrtd7XiE0u1_J9D_60cQr139T3a6ic7_rzGlzwIGuvLRE-mhGI2rzGX7KvP83rSNLP8ZEqW" alt="Aussie rising star set for first F1 outing this weekend" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Doohan, the son of motorcycling legend Mick, is now the Alpine driver academy&#39;s most senior prospect after the sudden defection of fellow Australian Oscar&nbsp;...</p></div>
             </div>
-        </a><a href='https://racingnews365.com/2022-f1-united-states-grand-prix-race-results'>
+        </a><a href='https://www.outlookindia.com/sports/united-states-f1-grand-prix-max-verstappen-gets-record-tying-13th-victory-in-pics-photos-232212'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>2022 F1 United States Grand Prix Race results</h3>
+                <h3>United States F1 Grand Prix: Max Verstappen Gets Record-Tying ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRF_15fy-RawKZvw6PCPDkq3kM6c59Tpho2MKEW-YHBp84CS-QZG9YW6_4aUaa70ahDxyTNuOUM" alt="2022 F1 United States Grand Prix Race results" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Here are the full race results from an enthralling United States Grand Prix, where Max Verstappen took a remarkable comeback victory over Lewis Hamilton.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTcIIX1xqy6YXMboDhPaDxnSRXbuCMeMMpOROCHqCeecnMPOPvw9er3MEC3NYTf-0lgbAfqlUkt" alt="United States F1 Grand Prix: Max Verstappen Gets Record-Tying ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Max Verstappen and Red Bull started the United States Grand Prix determined to honor the memory of founder and team owner Dietrich Mateschitz and the racing&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.formula1.com/en/latest/article.its-a-new-approach-to-sports-reporting-how-will-arnett-is-bringing-comedy-to.6NnCOq3QF1XCeo0AjwM1J8.html'>
+        </a><a href='https://www.motorsport.com/f1/news/10-things-we-learned-from-the-2022-united-states-grand-prix/10389972/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;It&#39;s a new approach to sports reporting&#39; – How Will Arnett is bringing ...</h3>
+                <h3>Ten things we learned from the 2022 United States Grand Prix</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSB7jLQnY5Cm2y8rsyCG5nMfu5S4YG4vDdrFnsoAZl6tJD2aIpv_YxL5zXhNB4dwfLaZqh42dhQ" alt="&#39;It&#39;s a new approach to sports reporting&#39; – How Will Arnett is bringing ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>But with the Toronto-born actor now the star of Amp radio show Fast &amp; Loose, in which he – along with co-hosts Michelle Beadle, Katie Osborne, The Kid Mero and&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTfkJ9rswJVhx0C4Psb-UaLl0nIO_fFiayRAiPOdoVYVKqYGVRoUMAZmHuyHs3pEtwFRON3YYlK" alt="Ten things we learned from the 2022 United States Grand Prix" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Formula 1&#39;s second trip to the United States in 2022 resulted in another win for Max Verstappen - but Lewis Hamilton gave him a run for his money in a&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.theguardian.com/sport/live/2022/oct/23/us-grand-prix-f1-live'>
+        </a><a href='https://www.si.com/fannation/racing/f1briefings/news/f1-fan-compares-drivers-to-top-gear-presenters-in-hysterical-tweet-lm22'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Max Verstappen wins US Grand Prix for 13th victory of F1 season ...</h3>
+                <h3>F1 Fan Compares Drivers To Top Gear Presenters In Hysterical Tweet</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQclEQG_D7hNsKCtaJhKHCSwGrahVuu6_hBSZprTSqV201hk9v-FVd7lMmb8n1PXwOKu-iI1zWm" alt="Max Verstappen wins US Grand Prix for 13th victory of F1 season ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Lap-by-lap report: Carlos Sainz was on pole but was out of the race early as world champion Max Verstappen notched yet another victory.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQy0qmOSL-LJaJb6twhlbS5EdnZk3lIHeSn1vq7q8ORnAVnoFGoTFdFRp9KG-BFpEXxLA4cqBHz" alt="F1 Fan Compares Drivers To Top Gear Presenters In Hysterical Tweet" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>First of all, they have likened Alpine driver, Fernando Alonso, to Jeremy Clarkson. One argument for this is that Alonso &quot;loves chaos and POWER&quot;, and just this&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.autosport.com/f1/news/autosport-podcast-f1-united-states-grand-prix-review/10389750/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Autosport Podcast: F1 United States Grand Prix review</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRcvX4-3o77Dw-ViZWwuXHovgOP4ewaFChGQwW5cbQ4Jd-4g4zCxdzpkXyLdgiW_6inhvCwKPiC" alt="Autosport Podcast: F1 United States Grand Prix review" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>In a frantic race, two safety car periods disguised how dominant Verstappen could have been, and then a slow pitstop meant the 2022 F1 world champion had to&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.motorsport.com/f1/news/doohan-set-for-mexico-abu-dhabi-f1-free-practice-runs-with-alpine/10389894/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Doohan set for Mexico, Abu Dhabi F1 free practice runs with Alpine</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQbx1xl2IoeKFZZCjVp0xFKETxNor7TsV5_11GRnN8w2oQzdSE6-hI_DrCApWdrs7N8298VdDny" alt="Doohan set for Mexico, Abu Dhabi F1 free practice runs with Alpine" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Jack Doohan is set to run rookie FP1 sessions for Alpine in Mexico and Abu Dhabi, marking the Australian&#39;s public Formula 1 debut.</p></div>
+            </div>
+        </a><a href='https://punemirror.com/sports/others/Red-bull-F1-team-clinch-constructor%E2%80%99s-title-in-US/cid8965561.htm'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Red bull F1 team clinch constructor&#39;s title in US</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQLlsvsXfo4ynlvqFrctmXws7O9U4J6-_zqRn6jGIeM74oPr96B3LfHawV_GnLoFk_sOCYCjBXo" alt="Red bull F1 team clinch constructor&#39;s title in US" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Dutch Formula 1 driver and 2022 champion Max Verstappen emerged victorious at the end of an action-packed United States Grand Prix, fending off Mercedes&#39;&nbsp;...</p></div>
             </div>
         </a><a href='https://www.carandbike.com/news/f1-red-bull-win-first-constructor-s-title-in-9-years-as-verstappen-prevails-at-cota-3203178'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

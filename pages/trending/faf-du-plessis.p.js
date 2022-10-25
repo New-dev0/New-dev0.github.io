@@ -11,56 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Faf du Plessis"/>
         <meta name="description" content="Trending News about Faf du Plessis" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Faf du Plessis</h1>
-            <Image width={800} height={500} src="https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/314300/314381.6.jpg" alt="Faf du Plessis"/>
+            <Image width={800} height={500} src="" alt="Faf du Plessis"/>
             <h3>Recent News</h3>
-            <a href='https://www.espncricinfo.com/story/faf-du-plessis-says-breakdown-in-relationship-with-mark-boucher-pushed-him-into-test-retirement-1341354'>
+            <a href='https://zeenews.india.com/cricket/faf-du-plessis-breaks-silence-on-not-playing-t20-world-cup-2022-for-south-africa-says-this-about-relationship-with-coach-mark-boucher-2526234.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Faf du Plessis breaks SILENCE on not playing T20 World Cup 2022 ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSGnwbOQQe4IH-rOEJdJo5RhtWHzmVambUMFzNg9r4pNLAhmp63rPxPVhn4cGpPkWwAUgSOiNFP" alt="Faf du Plessis breaks SILENCE on not playing T20 World Cup 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Before the second Test, a then out-of-form Plessis was asked why Temba Bavuma, the team&#39;s only black African player had been dropped.</p></div>
+            </div>
+        </a><a href='https://www.espncricinfo.com/story/faf-du-plessis-says-breakdown-in-relationship-with-mark-boucher-pushed-him-into-test-retirement-1341354'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Faf du Plessis says breakdown in relationship with coach Mark ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQSTQK0HEXNe8wXJhcw25S8kKdQY_cRak8kCEHmcJkOdWkULEptykkn4GqhHMUmi8YMOwQ_SMHW" alt="Faf du Plessis says breakdown in relationship with coach Mark ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Writes of a lack of open communication from CSA&#39;s then director of cricket Graeme Smith as well, in his new autobiography.</p></div>
             </div>
-        </a><a href='https://www.foxsports.com.au/cricket/australia/cricket-2022-faf-du-plessis-book-sandpapergate-david-warner-steve-smith-cameron-bancroft-australian-cricket/news-story/de5d3d7c02123427714afea15fbd0e63'>
+        </a><a href='https://www.aninews.in/news/sports/cricket/faf-du-plessis-reveals-breakdown-in-relationship-with-mark-boucher-graeme-smith-that-led-to-his-test-retirement20221024165319'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;I giggled to myself&#39;: Aussie Test star Khawaja responds to shock ...</h3>
+                <h3>Faf Du Plessis reveals breakdown in relationship with Mark Boucher ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQk6T3rSgtICYi4PC06_qJy__FMUEoPpbI3eC2dp5SyZ1h3nE5KZwEEqJ0czHxKY0Mmul-NNELk" alt="&#39;I giggled to myself&#39;: Aussie Test star Khawaja responds to shock ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>&#39;I giggled to myself&#39;: Aussie Test star Khawaja responds to shock new ball tampering claims.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRyg1IfkqOUILoa50WPq5dvihjlf95alh_4bXSmL8l7gWSJrhTmgEHAXENDfTWUzI8qP6M33s3r" alt="Faf Du Plessis reveals breakdown in relationship with Mark Boucher ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>In his autobiography, in a chapter titled &quot;The Ghosts of Insecurity&quot;, the batter described his final phases with the national team, which started after&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.insidesport.in/du-plessis-biography-after-ab-de-villiers-ex-proteas-captain-faf-du-plessis-comes-down-hard-on-csa-alleges-mark-boucher-graeme-smith-ghosted-me-after-retiring-from-tests/'>
+        </a><a href='https://www.firstpost.com/firstcricket/sports-news/faf-du-plessis-says-poor-relation-with-south-africa-coach-mark-boucher-pushed-him-towards-test-retirement-11505521.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Du Plessis Biography: After AB de Villiers, Ex Proteas captain Faf Du ...</h3>
+                <h3>Faf du Plessis says poor relation with South Africa coach Mark ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSnmReSLMac5z9PaCIUoSdtLv3v83CXnRUFkWGB86PXtVT8rRzeu243fwjkNw5zs-7xPj4bJOIj" alt="Du Plessis Biography: After AB de Villiers, Ex Proteas captain Faf Du ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>In his book, Du Plessis says, he wanted to play T20Is for SA and in T20 World Cup 2021 &amp; 2022. But he was ghosted by head coach Mark Boucher and then-CSA chief&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSY2iBMcA7JVWlI_dKir4BQP0WnMmU6XoeOshOA3no47CojLz1ZG_sxvm-Jpu2KMbp1hDW9XZdx" alt="Faf du Plessis says poor relation with South Africa coach Mark ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Du Plessis wrote on the events that led to a breakdown in his relations with South Africa head coach Mark Boucher and pushed him towards Test retirement in&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.telegraph.co.uk/cricket/2022/10/23/faf-du-plessis-claims-australians-ball-tampering-weeks-sandpapergate/'>
+        </a><a href='https://www.thecricketer.com/Topics/international/south_africa_australia_ball_tampering_cape_town_faf_du_plessis.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Faf du Plessis claims Australia were ball tampering weeks before ...</h3>
+                <h3>South Africa suspected Australia were ball-tampering before Cape ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS_kM8Be_Jdp1q_okxMRNP-rRv5HUzXPS5eQWd4CAey908pvqqAunKW5YD7mnenf-9B5npVHVFH" alt="Faf du Plessis claims Australia were ball tampering weeks before ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Former South Africa captain reopens cheating feud with allegations in new book.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRFV1C3ot22MuNESqBsPTqJz6ixfWY8VFoQtrxI3A4ivPiFPS6OiBLkjZ80G-AoGkQMj1Y4ayqR" alt="South Africa suspected Australia were ball-tampering before Cape ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The third Test was dominated by the Sandpapergate scandal, leading to Cameron Bancroft being slapped with a nine-month ban, while David Warner and then captain&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sacricketmag.com/faf-boucher-extinguished-my-proteas-fire/'>
+        </a><a href='https://sports.ndtv.com/cricket/faf-du-plessis-reveals-what-led-to-his-retirement-from-test-cricket-3459101'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Faf: Boucher extinguished my Proteas fire</h3>
+                <h3>Faf Du Plessis Reveals What Led To His Retirement From Test Cricket</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT_8GrhHUlgNxfO3lnTOC_ukIPgO0Lmwh9tgZSxvRYHkBfNpiiyxIPoJI9OltCy24Qn_3OIofk3" alt="Faf: Boucher extinguished my Proteas fire" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Former Proteas captain Faf du Plessis says he &quot;got no love&quot; from coach Mark Boucher and CSA director of cricket Graeme Smith towards the end of his&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSU7iL5izG8s9sYdX4CW_gmsIgw8egGD0B2DpEqy3WdSPiT3z7ZzRp6TAG9eR5t2Fbboi_z2aPa" alt="Faf Du Plessis Reveals What Led To His Retirement From Test Cricket" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>South African batter Faf Du Plessis has said that a break down with outgoing head coach Mark Boucher led to him retiring from Test cricket.</p></div>
             </div>
-        </a><a href='https://cricketaddictor.com/cricket/faf-du-plessis-makes-stunning-revelation-in-his-autobiography-says-he-retired-from-tests-due-to-mark-boucher/'>
+        </a><a href='https://www.sacricketmag.com/bouchers-faf-feud-compromises-proteas/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Faf Du Plessis Makes Stunning Revelation In His Autobiography ...</h3>
+                <h3>Boucher&#39;s Faf du Plessis feud compromises Proteas</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS9HnVQICKJnQp4u2CAwlPcCQp97kn-P2agEaE7RPY7YOgI83h8gvUqsoB3u8b-NJqXLAPQsW1m" alt="Faf Du Plessis Makes Stunning Revelation In His Autobiography ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The right-handed batter, who had led South Africa in the 2019 World Cup, says that his final phases with the national side started when Mark Boucher took over&nbsp;...</p></div>
-            </div>
-        </a><a href='https://au.sports.yahoo.com/cricket-2022-usman-khawaja-responds-staggering-new-claims-223729429.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Usman Khawaja responds to staggering new claims from Faf du ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRoiKRxz6CRf_8sCD1XaoYdQTDgNNaFxN1aYGZqJ3CQVengnHdFCgmBOSyLj6SEseWRejHoGl90" alt="Usman Khawaja responds to staggering new claims from Faf du ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Faf du Plessis has levelled bombshell new claims against the Australian cricket team. Read more here.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTP3L14G2HT_Fm6XZ7u4-kqzo2WfO_P85bkAmJ6_fUVM6rbb1AueifUiL0TK6lNO_ZbljoOFv2V" alt="Boucher&#39;s Faf du Plessis feud compromises Proteas" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Faf du Plessis&#39; allegations of a complete breakdown in his relationship with Mark Boucher paint a picture of a man not fit to coach South Africa,&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
