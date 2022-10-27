@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Suella Braverman"/>
         <meta name="description" content="Trending News about Suella Braverman" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Suella Braverman</h1>
-            <Image width={800} height={500} src="https://th-i.thgim.com/public/incoming/ccm8ny/article66032673.ece/alternates/FREE_1200/Britain_Politics_73942.jpg" alt="Suella Braverman"/>
+            <Image width={800} height={500} src="" alt="Suella Braverman"/>
             <h3>Recent News</h3>
-            <a href='https://www.thehindu.com/news/international/home-secretary-suella-braverman-quits-in-latest-blow-to-uk-pm-liz-trusss-government/article66032641.ece'>
+            <a href='https://www.hindustantimes.com/india-news/rishi-sunak-new-uk-prime-minister-we-have-concerns-congress-leader-on-suella-braverman-s-return-in-uk-cabinet-101666802111100.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Home Secretary Suella Braverman quits in latest blow to U.K. PM Liz ...</h3>
+                <h3>&#39;We have concerns…&#39;: Congress leader on Suella Braverman&#39;s ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQNSPwfPl-oJ0IXqOEarVwlqt5D18KhDrsVnF62MriqCeBDUGopUW5LXMi9PiQ9vEYFE7FvO3AB" alt="Home Secretary Suella Braverman quits in latest blow to U.K. PM Liz ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The U.K.&#39;s hardline Interior Minister Suella Braverman quit the government on October 19, heaping more doubt on the survival chances of Prime Minister Liz Truss&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRwQtZ6DTY996q9Gq3_p_FrZ6T_376rujeDS0aZIJTn1b5PeS1VKzNYb1ZBSwdeWHYgvRDAGf0C" alt="&#39;We have concerns…&#39;: Congress leader on Suella Braverman&#39;s ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Suella Braverman – a hardline Brexiteer with parents of Indian origin – was reappointed as the home secretary by UK PM Rishi Sunak despite controversies&nbsp;...</p></div>
             </div>
-        </a><a href='https://indianexpress.com/article/world/uks-suella-braverman-has-left-job-as-interior-minister-says-report-8219392/'>
+        </a><a href='https://www.indiatoday.in/world/story/suella-braverman-uk-home-secretary-pm-rishi-sunak-british-parliament-keir-starmer-2289841-2022-10-26'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>UK interior minister Suella Braverman quits over security issue ...</h3>
+                <h3>Slammed for bringing back Suella Braverman as Home Secretary ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRlCWgM0Vd2IEjii2onScdbZmienQmceG_Q_lKLZni8eZsuBC8QLKWkDC4ojAXlFMS9tWDzn7K3" alt="UK interior minister Suella Braverman quits over security issue ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The second senior minister to leave the government in less than a week, Braverman&#39;s departure heaps yet more pressure on Truss as she fights to stay in&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSX6HphrNuOxD5kYgQiDdFhkClSo2WtfYlAQ3d_W850HNQwQ67ve-9i-2WOha9cQXVC90yAie67" alt="Slammed for bringing back Suella Braverman as Home Secretary ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Rishi Sunak, it seems, will now have to defend his move to bring back Suella Braverman to his Cabinet for quite some time. Braverman was given back her post&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.livemint.com/news/world/uks-suella-braverman-has-left-job-as-interior-minister-report-11666195077113.html'>
+        </a><a href='https://www.bbc.com/news/uk-politics-63397590'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>UK&#39;s Suella Braverman has left job as interior minister: Report | Mint</h3>
+                <h3>Rishi Sunak defends return of Suella Braverman to Home Office</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSwBX2fs6X9cZRnRXT1nEVr4OxJF_2-X7Wx2p1l3zAoAZbPnPqBYj-0dDUkhmxt3TXNYWC-GjUx" alt="UK&#39;s Suella Braverman has left job as interior minister: Report | Mint" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>It was not immediately clear whether Suella Braverman quit or was fired.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRkYwb5ebRTgD27rA8_L-KBkLv99uuyj2FKobmEg5bqKQgJgpGV2fPob13BS7qbjvw3KnLod-ug" alt="Rishi Sunak defends return of Suella Braverman to Home Office" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Rishi Sunak has defended re-appointing Suella Braverman as home secretary days after she quit over data breaches. Labour leader Sir Keir Starmer accused the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.indiatoday.in/world/story/uk-home-secretary-suella-braverman-sacked-quit-reports-2287393-2022-10-19'>
+        </a><a href='https://www.livemint.com/news/world/rishi-sunak-defends-appoints-suella-braverman-after-she-was-forced-to-go-11666787829223.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;I have made a mistake&#39;: UK Home Secretary Suella Braverman quits ...</h3>
+                <h3>Rishi Sunak defends appointment of Suella Braverman after she ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTOoFU1asjKPGn38M9xLmYJ4bMHQ2q_elvZTSaP2iV4Vz_lu6pD0kSFw-O5qxLd2X_LCuqwNzr4" alt="&#39;I have made a mistake&#39;: UK Home Secretary Suella Braverman quits ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>UK Home Secretary Suella Braverman has been removed from her post, stated reports by the British media.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRs3k1gqRirev4plOfO1fDHpbP27UnAD1XRmt0tt6ByVSF_bu_HdbQN-UUetByUrTcEGTjTPkLV" alt="Rishi Sunak defends appointment of Suella Braverman after she ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Rishi Sunak is seen by Conservatives as a safe pair of hands they hope can stabilize an economy sliding toward recession — and stem the party&#39;s plunging&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.telegraphindia.com/world/suella-braverman-quits-home-secretary-position/cid/1893093'>
+        </a><a href='https://english.jagran.com/world/rishi-sunak-defends-suella-bravermans-return-as-uk-home-secy-says-she-accepted-her-mistake-10052702'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Suella Braverman quits home secretary position</h3>
+                <h3>Rishi Sunak Defends Suella Braverman&#39;s Return As UK Home Secy ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSg2p3At220a7supwU9aFBtrewdXTbaukbjZVY7i6GzHVCg3f2eCCwL7fqllrxQlDv08r2Gv255" alt="Suella Braverman quits home secretary position" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>It is not entirely clear whether the most senior Indian in Truss&#39;s tottering government, resigned from her post or was sacked — or it was a bit of both.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRzX--NrMq8wSLC3ABLUr3CrmVKh5RXWHC2TrHDieyfOYCgslFxuVfwnBTbH-I43TdCucCHNQB-" alt="Rishi Sunak Defends Suella Braverman&#39;s Return As UK Home Secy ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Suella Braverman had quit from the post of Home Secretary after she breached the ministerial code by sending secure information from her private email.</p></div>
             </div>
-        </a><a href='https://www.bbc.com/news/uk-politics-63322618'>
+        </a><a href='https://hindi.thequint.com/news/world/britain-indian-origin-suella-braverman-appointed-home-secretary-who-is-she-rishi-sunak-cabinet'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Suella Braverman quits and vote chaos add to turmoil for the PM</h3>
+                <h3>Suella Braverman: एक हफ्ते में सुनक ने कराई कैबिनेट में वापसी, भारत से ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTybtVPZhco-lGCU7dKQGWd4KX2Q_Sxix3SuWwYCGuux2NRZ3n_gu6RL9Srec6Zr-cFJneyR-MU" alt="Suella Braverman quits and vote chaos add to turmoil for the PM" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The resignation of a senior minister and anger over a vote on fracking pile even more pressure on the prime minister.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSY5uW_8nfOe6eC3RzoGR_-juxRji7qPwY0q4IOmxAZcblkbE6uVw1MOr4vbOjogIiIyaQQ3agc" alt="Suella Braverman: एक हफ्ते में सुनक ने कराई कैबिनेट में वापसी, भारत से ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Who is Suella Braverman: ब्रिटेन के नए पीएम ऋषि सुनक ने अपनी कैबिनेट का ऐलान कर दिया है.</p></div>
             </div>
-        </a><a href='https://www.amarujala.com/world/suella-braverman-may-no-longer-be-uk-home-secretary-media-reports-indicate'>
+        </a><a href='https://www.outlookindia.com/international/not-a-good-news-for-india-rishi-sunak-brings-back-suella-braverman-known-for-anti-migrant-stance-as-home-secretary-news-232533'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Suella Braverman: ब्रिटेन में और गहराया सियासी संकट, गृह मंत्री सुएला ...</h3>
+                <h3>Not A Good News For India? Rishi Sunak Brings Back Suella ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Suella Braverman: ब्रिटेन में और गहराया सियासी संकट, गृह मंत्री सुएला ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ब्रिटेन में सियासी संकट गहराता जा रहा है। भारत-ब्रिटेन मुक्त व्यापार संधि पर अपने&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRs-YM1X6wNIWcXrHLpmvDQKThBH5hiX05qVSysbkOC_mQTeXeo1LyUZ7kRjo5rEMt5AovGHCg9" alt="Not A Good News For India? Rishi Sunak Brings Back Suella ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Suella Braverman also attributed the latest Leicester riots to the failure of the migrants to integrate into the host culture.</p></div>
             </div>
-        </a><a href='https://www.dnaindia.com/hindi/world/news-latest-news-britain-political-updates-indian-origin-suella-braverman-resigns-uk-home-secretary-43-days-4056921'>
+        </a><a href='https://www.theguardian.com/politics/2022/oct/26/sir-john-hayes-in-lockstep-with-suella-braverman-on-immigration'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Suella Braverman ने दिया इस्तीफा, 43 दिन ही ब्रिटिश गृह मंत्री रह सकीं ...</h3>
+                <h3>Sir John Hayes: &#39;in lockstep&#39; with Suella Braverman on immigration</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSOyTK3FuAoEyEjvOXyIF7CQsCaFB_aIJdRhUldJeI1Yhr7FqB8fxUrBNgQ1_qwI6oolP5miCSG" alt="Suella Braverman ने दिया इस्तीफा, 43 दिन ही ब्रिटिश गृह मंत्री रह सकीं ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ब्रिटेन की गृह मंत्री के तौर पर सुएला ब्रेवरमन ने भारत के ही खिलाफ बयान दिया था.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcST8L8kdXLTncB44vmzZxXljWrY1upWzUl-SH5WnR9Jg0nT_QjY4Gb_qWdVzm-riBxonIgoV5YX" alt="Sir John Hayes: &#39;in lockstep&#39; with Suella Braverman on immigration" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Veteran Tory MP was intended recipient of home secretary&#39;s plans sent from her personal email.</p></div>
             </div>
-        </a><a href='https://www.abplive.com/news/world/suella-braverman-said-uk-eager-to-complete-trade-deal-with-india-2241427'>
+        </a><a href='https://www.abplive.com/news/world/suella-braverman-appointed-as-secretary-of-state-in-rishi-sunak-cabinet-just-after-five-days-of-her-resignation-2245669'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Indo-British FTA: भारत से विवादों के बीच ब्रिटिश गृह मंत्री ने रखी अपनी ...</h3>
+                <h3>Britain Cabinet: 5 दिन पहले ही दिया था इस्तीफा, जानें सुनक की कैबिनेट में ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTVZq_sZLjMgK58sd8XbiZGjQHuOYOHFSQAI7hZZd9RY1ofWbCs3zO7r3hq-MzdGltx1inVWldk" alt="Indo-British FTA: भारत से विवादों के बीच ब्रिटिश गृह मंत्री ने रखी अपनी ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ब्रिटेन की गृह मंत्री सुएला ब्रेवरमैन ने भारत-ब्रिटेन मुक्त व्यापार समझौते (FTA) को&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQF5n_4jszrViuruvMRxaBczjkPLL2y8tiVOTrcqGq3wJV--QIGQjL-mvA1yfbdV9uD621b5BxO" alt="Britain Cabinet: 5 दिन पहले ही दिया था इस्तीफा, जानें सुनक की कैबिनेट में ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Britain Cabinet: 5 दिन पहले ही दिया था इस्तीफा, जानें सुनक की कैबिनेट में. ब्रिटिश पीएम ऋषि सुनक&nbsp;...</p></div>
             </div>
-        </a><a href='https://zeenews.india.com/hindi/zee-hindustan/world-news/indian-origin-suella-braverman-step-down-as-home-minister-of-britain-what-statement-she-gave-against-india/1402638'>
+        </a><a href='https://zeenews.india.com/hindi/world/suella-braverman-in-rishi-sunak-government-got-this-responsibility-of-this-ministry/1410873'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ब्रिटेनः भारतवंशी सुएला ब्रेवरमैन का गृह मंत्री पद से इस्तीफा, भारत को ...</h3>
+                <h3>Suella Braverman: भारत के खिलाफ बोलने वाली सुएला ब्रेवरमैन की सुनक ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSKUV_MKJNF_Gv9cB2JXHlyxB3pfHwmVkdiNt--ygPSbpQvbN7sOlvFmmXZ7vgDPX974-3GU12q" alt="ब्रिटेनः भारतवंशी सुएला ब्रेवरमैन का गृह मंत्री पद से इस्तीफा, भारत को ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>नई दिल्लीः भारतवंशी सुएला ब्रेवरमैन ने ब्रिटेन के गृह मंत्री पद से इस्तीफा दे दिया है.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ8uN8A5WNV-R0HdNIpAofmH8x-eoCOgur9KLMweRknJbiVhvqG_hql_QIGjG0CB_DmD28cESIl" alt="Suella Braverman: भारत के खिलाफ बोलने वाली सुएला ब्रेवरमैन की सुनक ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>UK Politics: भारत के खिलाफ आपत्तिजनक बयान देने वाली भारतवंशी नेता सुएला ब्रेवरमैन (Suella&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
