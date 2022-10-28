@@ -7,53 +7,53 @@ import Image from "next/image";
 export default function Page() {
     const md = useMediaQuery(960);
     return <><Head>
-        <title>Live Score</title>
-        <meta name="keywords" content="news,trending,latest,sports,breaking,top,Live Score"/>
-        <meta name="description" content="Trending News about Live Score" /></Head><Template>
-            <h1 style={{fontSize: "30"}}>Live Score</h1>
-            <Image width={800} height={500} src="https://spiderimg.amarujala.com/assets/images/2022/10/04/750x506/india-vs-south-africa-3rd-t20-live_1664900228.jpeg" alt="Live Score"/>
+        <title>Live score</title>
+        <meta name="keywords" content="news,trending,latest,sports,breaking,top,Live score"/>
+        <meta name="description" content="Trending News about Live score" /></Head><Template>
+            <h1 style={{fontSize: "30"}}>Live score</h1>
+            <Image width={800} height={500} src="" alt="Live score"/>
             <h3>Recent News</h3>
-            <a href='https://www.amarujala.com/live/cricket/cricket-news/india-vs-south-africa-live-cricket-score-ind-vs-sa-3rd-t20-2022-match-at-holkar-stadium-news-in-hindi'>
+            <a href='https://www.hindustantimes.com/cricket/india-vs-netherlands-live-cricket-score-t20-world-cup-2022-today-match-ind-vs-ned-latest-scorecard-at-sydney-cricket-ground-101666846276799.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ind vs Sa 3rd T20: दक्षिण अफ्रीका ने भारत को 49 रन से हराया, टीम इंडिया ...</h3>
+                <h3>India vs Netherlands, T20 World Cup 2022 Highlights: IND race to ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTxknMw5-PQhqIQOBT92Av3K0fnuG4m1uGRXHyYDSi3pmWzXVuqg4GLjJ_Bx6d6AH3vdSKbBbuK" alt="Ind vs Sa 3rd T20: दक्षिण अफ्रीका ने भारत को 49 रन से हराया, टीम इंडिया ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>दक्षिण अफ्रीका ने तीसरे टी20 में भारत को 49 रन से हरा दिया है। टॉस हारकर पहले बल्लेबाजी&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS7inB0o7FhjZw42bkssDdvQNKv8BPnaEHIsjfR6B6hSfx_gm66XIjkbelKgCu_deCY6fWV3yA0" alt="India vs Netherlands, T20 World Cup 2022 Highlights: IND race to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Electing to bat, India scored 179 for 2 and then restricted Netherlands to 123 for 9. India produced a solid batting display with Rohit Sharma (53), Virat Kohli&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.livehindustan.com/cricket/story-india-vs-south-africa-3rd-t20-live-score-4-oct-2022-match-latest-update-in-hindi-7175236.html'>
+        </a><a href='https://sports.ndtv.com/t20-world-cup-2022/netherlands-vs-india-live-score-over-super-12-match-11-t20-16-20-updates-3465901'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ind vs SA 3rd T20 Highlights: दक्षिण अफ्रीका की 49 रन से शानदार जीत ...</h3>
+                <h3>Netherlands vs India: ICC T20 World Cup 2022 Live Cricket Score ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRj7QdC_GpRryFM6sI7_Et-S2pPmlCquu1jNVCA5n8C-TCGYymklQyxzPiOz0St1CLMqgL2Y8lD" alt="Ind vs SA 3rd T20 Highlights: दक्षिण अफ्रीका की 49 रन से शानदार जीत ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>3rd T20: 228 रन के लक्ष्य के जवाब में भारतीय टीम 18.3 ओवराें में 178 रन ही बना सकी और उसे तीसरे&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTFMF85CRTozEBx9xRtwlFrINo4quDddSuPWt136PDmUZqwuRfUULr1VnHnJS1xf-BDSQ3CuQmY" alt="Netherlands vs India: ICC T20 World Cup 2022 Live Cricket Score ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>ICC T20 World Cup 2022 LIVE Score - Get ICC T20 World Cup 2022 live cricket scores, ball by ball score and full scorecard of Netherlands vs India cricket&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.aajtak.in/sports/cricket/story/india-vs-south-africa-3rd-t20-match-live-score-indore-rohit-sharma-rishabh-pant-virat-kohli-temba-bavuma-live-cricket-score-in-hindi-tspo-1549633-2022-10-04'>
+        </a><a href='https://english.jagran.com/cricket/ind-vs-ned-india-netherland-team-match-live-cricket-score-updates-scorecard-sydney-cricket-ground-icc-t20-world-cup-2022-lb-235'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ind Vs Sa 3rd T20 Live Score: इंदौर में डूबी टीम इंडिया की लुटिया ...</h3>
+                <h3>IND vs NED, T20 WC 2022 Live Score: As It Happened</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQY-L0g28ZcPbnDm_KuVSivfynyPLYWTt09lPclsLr3EOu3gAqfuBZlw0ze28VlS0UfR8rBjIxG" alt="Ind Vs Sa 3rd T20 Live Score: इंदौर में डूबी टीम इंडिया की लुटिया ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>टीम इंडिया ने इंदौर में हुए आखिरी टी-20 मैच को गंवा दिया है, लेकिन इस सीरीज पर 2-1 से कब्जा&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQlh4iCw5q2EZ7vnmW7rzWLCEszi2AmHi1A4VcL80IJPfx9U6HIkZBHYkjsZRRCE5hy6vsqZr-e" alt="IND vs NED, T20 WC 2022 Live Score: As It Happened" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>India vs Netherland T20 World Cup 2022 Live Score Updates: The match will be played at Sydney Cricket Ground, a day after when rain played spoilsport in&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.abplive.com/sports/cricket/ind-vs-sa-score-live-updates-india-vs-south-africa-3rd-t20-cricket-match-live-telecast-commentary-online-tv-2230493'>
+        </a><a href='https://www.cricbuzz.com/cricket-news/124285/live-cricket-score-india-vs-netherlands-super-12-t20-world-cup-2022-cricbuzzcom'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>IND vs SA 3rd T20: तीसरा टी20 दक्षिण अफ्रीका के नाम, भारत को 49 रनों ...</h3>
+                <h3>Live Cricket Score - India vs Netherlands, Super 12, T20 WC 2022 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT8Meg5bOyZ_YTWPvqzPR_PIV6RGtXYOze5D_5CptBFZPTaqFdIL4lzdkt6RgUrbHZz10G9fdCb" alt="IND vs SA 3rd T20: तीसरा टी20 दक्षिण अफ्रीका के नाम, भारत को 49 रनों ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>IND vs SA Score Live: यहां आपको भारत और दक्षिण अफ्रीका के तीसरे टी20 का लाइव स्कोर और मुकाबले से&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTLTzzasumh2Gtk0ooY8m_RW0hFDUwFDezwGCLQE5ZEY6q5jXDrfuStSGu_Mf8itoxl7BXuCUzm" alt="Live Cricket Score - India vs Netherlands, Super 12, T20 WC 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>After bowling a maiden in the first over - his eighth in T20Is, Bhuvneshwar has broken through. Left-handed Vikramjit Singh looked to pull a length ball but&nbsp;...</p></div>
             </div>
-        </a><a href='https://zeenews.india.com/hindi/zee-hindustan/sports-news/live-updates/india-vs-south-africa-2022-3rd-t20i-live-cricket-score-commentary-match-updates/1380068'>
+        </a><a href='https://www.mapsofindia.com/my-india/cricket/icc-t20-world-cup-2022-india-vs-netherlands-live-score-on-cricbuzz-and-online-match-streaming-on-hotstar-app'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Live IND vs SA Score: साउथ अफ्रीका के खिलाफ क्लीन स  </h3>
+                <h3>ICC T20 World Cup 2022 | India vs Netherlands Live Score on ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQqLICsPvPiAssD5DiMq8tHCe6V_TV9dvOSNL_OEepVjdNuKnwamBRJ9UpOle807BYSCh1QM-Xk" alt="Live IND vs SA Score: साउथ अफ्रीका के खिलाफ क्लीन स  " height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>भारत और साउथ अफ्रीका की टीम के बीच खेली जा रही 3 मैचों की टी20 सीरीज का आखिरी मैच इंदौर&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQpoIxf2cKZ38N_he4aFs4X4aVrAnDsa6fttBgpmK2D2syn-blk_X0_rPfO_aGdivWjqTQsIVZn" alt="ICC T20 World Cup 2022 | India vs Netherlands Live Score on ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Indian team is playing their second match in T20 World Cup today. They are facing the Netherlands today in Sydney. Both teams are facing each other for the&nbsp;...</p></div>
             </div>
-        </a><a href='https://hindi.thequint.com/sports/all-sports/india-vs-south-africa-live-score-ind-vs-sa-3rd-t20i-match-latest-updates-in-hindi'>
+        </a><a href='https://indianexpress.com/article/sports/cricket/india-vs-netherlands-live-cricket-score-t20-world-cup-2022-8232038/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>IND Vs SA Highlight: साउथ अफ्रीका 49 रन से आखिरी मुकाबला जीता ...</h3>
+                <h3>India vs Netherlands, T20 World Cup 2022 Highlights: Clinical IND ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQKR3dQcdHUnba49uCxgp96iwzsSAt1oM3ckiwnRG2RFVSVzIiiJOmiKYsZcMLRcLR_cFuDpT7gvQ" alt="IND Vs SA Highlight: साउथ अफ्रीका 49 रन से आखिरी मुकाबला जीता ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>India Vs south Africa 3rd T20I Match: साउथ अफ्रीका ने दिया था 228 का लक्ष्य, भारतीय टीम 178 पर ऑलआउट हुई.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSNToC3Tg0DYqGs04Ym6xhAjGfOhxCxkrtnO5rg0aZljeqBaPPqY3Mylx3McX5yRwUAe73uMbD-" alt="India vs Netherlands, T20 World Cup 2022 Highlights: Clinical IND ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>T20 World Cup 2022, India vs Pakistan Live Scorecard, Star Sports Network, Disney + Hotstar Live: India take on Netherlands to make it 2 wins out of 2.</p></div>
             </div>
         </a>
         </Template></>;

@@ -11,56 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,South Africa vs Bangladesh"/>
         <meta name="description" content="Trending News about South Africa vs Bangladesh" /></Head><Template>
             <h1 style={{fontSize: "30"}}>South Africa vs Bangladesh</h1>
-            <Image width={800} height={500} src="https://ss-i.thgim.com/public/incoming/oc0nob/article66058288.ece/alternates/FREE_1200/bangla.jpg" alt="South Africa vs Bangladesh"/>
+            <Image width={800} height={500} src="https://images.indianexpress.com/2022/10/Rilee.jpg" alt="South Africa vs Bangladesh"/>
             <h3>Recent News</h3>
-            <a href='https://sportstar.thehindu.com/cricket/t20-world-cup/south-africa-vs-bangladesh-live-streaming-info-sydney-weather-updates-t20-world-cup-2022-sa-vs-ban/article66058246.ece'>
+            <a href='https://indianexpress.com/article/sports/cricket/south-africa-vs-bangladesh-live-cricket-score-t20-world-cup-2022-8232063/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Africa vs Bangladesh Live Streaming Info T20 World Cup ...</h3>
+                <h3>South Africa vs Bangladesh Highlights, T20 World Cup 2022: SA win ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRipGTleIzX4TsAbEpgf7cZYq_HJaS8WEQEWuy7gnY7CBwBnyA1yWkh7NzlaKHNfkR88nouKRFF" alt="South Africa vs Bangladesh Live Streaming Info T20 World Cup ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>South Africa vs Bangladesh Live Streaming Info: Get all the details as to how, when and where to watch the ICC T20 World Cup 2022 match between SA VS BAN in&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTcg3YaE-RccfQixoCcmbgVQWzdAFKn-zzL4sSSyOzCfuNm3FSsmgZ3dRGSfM-5dSeBwR3J6MPJ" alt="South Africa vs Bangladesh Highlights, T20 World Cup 2022: SA win ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The South Africa bowlers were on top of the Bangladesh batting order right from the beginning and dismissed the entire lineup for 101. Anrich Nortje picked four&nbsp;...</p></div>
             </div>
-        </a><a href='https://indianexpress.com/article/cricket/south-africa-vs-bangladesh-live-streaming-t20-world-cup-2022-when-and-where-to-watch-sa-vs-ban-8231717/'>
+        </a><a href='https://www.crictracker.com/cricket-news/t20-world-cup-2022-match-24-south-africa-vs-bangladesh-talking-points/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Africa vs Bangladesh Live Streaming, T20 World Cup 2022 ...</h3>
+                <h3>T20 World Cup 2022, Match 24: South Africa vs Bangladesh ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSRWCCYcCOkznDHt_W1p6FJG7h-ccKGRou8cwd1GF28VuITmjVEX5pwIIMwom072gHr9b0oRfKx" alt="South Africa vs Bangladesh Live Streaming, T20 World Cup 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>SL vs PAK T20 World Cup 2022 Live Streaming: South Africa to play Bangladesh at Sydney.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR7uJxHqdryn37pHMemBIq9N_2WLsM_Be8oowxEk-M4cRqxwWRR4MW8Xvl03kdReO7hPV5mOhYr" alt="T20 World Cup 2022, Match 24: South Africa vs Bangladesh ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>South Africa registered a comprehensive 104-run victory against Bangladesh in their ICC T20 World Cup 2022 encounter at the SCG on Thursday, October 27.</p></div>
             </div>
-        </a><a href='https://crickettimes.com/2022/10/t20-world-cup-2022-south-africa-vs-bangladesh-predicted-xi-pitch-weather-report/'>
+        </a><a href='https://www.cnbctv18.com/photos/sports/south-africa-vs-bangladesh-t20-world-cup-2022-super-12-match-highlights-15029711.htm'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>T20 World Cup 2022: South Africa vs Bangladesh - Predicted XI ...</h3>
+                <h3>South Africa vs Bangladesh, T20 World Cup 2022: Rossouw (109 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQbDYkwDaH5c5Fzb8ecNstPKj_Daxawa_BtL_ilhmszCM62Yh3VU_JoGqezfUssxZIEPE_84hyD" alt="T20 World Cup 2022: South Africa vs Bangladesh - Predicted XI ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>South Africa and Bangladesh will face each other in Match 22 of the ongoing T20 World Cup 2022 at the Sydney Cricket Ground on Thursday.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT_luhbvyWDtdqasF_ljkfxSKrfq8IhATkpwV3x-GH4cgShlCDSawVohp-wZVzAdO6jVaFEiE-u" alt="South Africa vs Bangladesh, T20 World Cup 2022: Rossouw (109 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Rilee Rossouw scored the first ton of the tournament as South Africa posted 205/5, the highest total so far in the ICC T20 World Cup 2022.</p></div>
             </div>
-        </a><a href='https://zeenews.india.com/cricket/south-africa-vs-bangladesh-t20-world-cup-2022-match-no-22-preview-live-streaming-details-when-and-where-to-watch-sa-vs-ban-match-online-and-on-tv-2527055.html'>
+        </a><a href='https://zeenews.india.com/cricket/sa-vs-ban-why-south-africa-was-awarded-5-penalty-runs-during-t20-world-cup-2022-match-after-bangladesh-keepers-nurul-hasans-error-2527362.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Africa vs Bangladesh T20 World Cup 2022 Match No. 22 ...</h3>
+                <h3>SA vs BAN: Why South Africa was awarded 5 penalty runs during ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTXyGjNwdwjXsZRGKx7HHGmv5c7FnNwOE9ywUAyFq-6WIU_F_16NHC594ofUMTGKv4LgRFP9hVX" alt="South Africa vs Bangladesh T20 World Cup 2022 Match No. 22 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>South Africa will take on Bangladesh in their second game of the ICC T20 World Cup 2022 at the Sydney Cricket Ground on Thursday. Bangladesh are coming into&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQKXgNM9vZJJPUdHoaeaepzbcvT_RUWRD3o5ysE59yofTOA8Z0H7EKkPVZ7vRBJIEFo4MMRDqGI" alt="SA vs BAN: Why South Africa was awarded 5 penalty runs during ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>SA vs BAN: Bangladesh wicketkeeper Nurul hasan made a big error in the T20 World Cup 2022 match that resulted in a penalty, know why.</p></div>
             </div>
-        </a><a href='https://www.news18.com/cricketnext/news/south-africa-vs-bangladesh-live-cricket-streaming-when-where-watch-icc-t20-world-cup-2022-match-coverage-tv-online-streaming-channel-start-time-thursday-6247291.html'>
+        </a><a href='https://www.amarujala.com/cricket/cricket-news/t20-world-cup-bangladesh-wicketkeeper-nurul-hasan-punished-by-umpire-south-africa-vs-bangladesh-match'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Africa vs Bangladesh Live Cricket Streaming: How to Watch ...</h3>
+                <h3>T20 World Cup: बांग्लादेश के विकेटकीपर ने दिखाई चालाकी तो अंपायर ने दे ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQGmU9AMq94NPMbKzXQRotMQcacb6pJFwZpbdYKu-d3i2uXLS43JrOF3kYK57RiwDMwgE3mv68Q" alt="South Africa vs Bangladesh Live Cricket Streaming: How to Watch ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>South Africa vs Bangladesh Live Streaming of ICC T20 World Cup match: Here you can get all the details as to when, where and how to watch the ICC T20 World&nbsp;...</p></div>
+                <Image src="" alt="T20 World Cup: बांग्लादेश के विकेटकीपर ने दिखाई चालाकी तो अंपायर ने दे ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>T20 World Cup Bangladesh wicketkeeper Nurul Hasan punished by umpire South Africa vs Bangladesh match: दक्षिण अफ्रीका ने बांग्लादेश&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.insidesport.in/south-africa-vs-bangladesh-live-score-icc-t20-world-cup-2022-super-12-match-no-10-at-830am-follow-sa-vs-ban-ball-by-ball-live-updates/'>
+        </a><a href='https://www.cricketcountry.com/hi/news/sa-vs-ban-live-scorecard-t20-world-cup-2022-22nd-match-south-africa-vs-bangladesh-live-updates-1049353'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Africa vs Bangladesh LIVE Score: ICC T20 World CUP 2022 ...</h3>
+                <h3>SA VS BAN Live Scorecard T20 World Cup 2022 22nd Match South ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTYO4BbUFT_-2kENFYgwDmFKHrUH9FZhpNG2i24RnL9lhcvBXCthd7Db0aeBDt30mPWSRHjmb9k" alt="South Africa vs Bangladesh LIVE Score: ICC T20 World CUP 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Day 2 Session 1, Canterbury lead by 149 runs. Schedule. Live Wed 10/26 3:00 am. ND&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRxTTbrHxLhQqeMJPBBEqkYxbJREoPP0F_keUMG88dFrYafYf2Uh7mhNz3lhY4t255MKCJGcoVd" alt="SA VS BAN Live Scorecard T20 World Cup 2022 22nd Match South ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>दक्षिण अफ्रीका ने टॉस जीतकर बल्लेबाजी का फैसला लिया और राइलो रुसो के शतक से 20 ओवर में&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sportstiger.com/news/t20-world-cup-2022-sa-vs-bang-match-prediction-who-will-win-todays-t20-world-cup-match-between-south-africa-and-bangladesh-win-prediction-sa-vs-bang-win-prediction-today-match'>
+        </a><a href='https://sportstar.thehindu.com/cricket/t20-world-cup/sa-vs-ban-t20-world-cup-2022-south-africa-beats-bangladesh-by-104-runs/article66059974.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>T20 World Cup 2022: South Africa vs Bangladesh - Who will win T20 ...</h3>
+                <h3>SA vs BAN T20 World Cup 2022: South Africa beats Bangladesh by ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTs6m66Rme6HWUqV1cixeU_xy3xiPB1O7hSmiNx-xCTMkz4B8w7OHbB8P3UqYBRIw4KFV2DyJo8" alt="T20 World Cup 2022: South Africa vs Bangladesh - Who will win T20 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The pitch at Sydney Cricket Ground (SCG) is considered a good batting wicket.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT8bHo2KXdmWlHTcHIvZDiFxNHR0n93P5gphYvLA44dt34THXoD90yNRDgafimH-uaop-8YTCnk" alt="SA vs BAN T20 World Cup 2022: South Africa beats Bangladesh by ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Rossouw showcased his batting prowess, blasting the first century of the ongoing showpiece with a 56-ball 109, while Quinton de Kock struck a fifty to power&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.hindustantimes.com/cricket/t20-wc-rilee-rossouw-s-ton-anrich-nortje-s-4-wicket-haul-powers-south-africa-to-huge-win-vs-bangladesh-101666855374867.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>T20 WC: Rossouw&#39;s ton, Nortje&#39;s 4-wicket haul powers SA to huge ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQTalDB6Jx-qUJlrv5pTHmUICmY0HMd3MYMwn_NC0lWRcUFjfjBsfPg6rgah5iLrBr3swFWaJc7" alt="T20 WC: Rossouw&#39;s ton, Nortje&#39;s 4-wicket haul powers SA to huge ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>T20 World Cup: Rilee Rossouw grabbed a ton and Anrich Nortje registered a four-wicket haul as South Africa defeated Bangladesh by 104 runs at the SCG in&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.haribhoomi.com/sports/t20-world-cup-2022-south-africa-vs-bangladesh-rilee-rossouw-hit-first-century-in-t20-wc-cricket-news-483744'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>T20 World Cup: रिली रॉसौव ने बांग्लादेश के खिलाफ जड़ा ताबड़तोड़ शतक ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTZomZEjAdaQWZmQgLWyjLWV8FZ9WkReVbVvttL5OSL_He79Kf8NTStAve2QC0gUdM8YrMZwqKw" alt="T20 World Cup: रिली रॉसौव ने बांग्लादेश के खिलाफ जड़ा ताबड़तोड़ शतक ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>south africa vs bangladesh: टी20 वर्ल्ड कप 2022 में साउथ अफ्रीका के बाएं हाथ के बल्लेबाज रिली रॉसौव ने&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.india.com/sports/south-africa-vs-bangladesh-highlights-t20-world-cup-2022-full-scorecard-match-22-sydney-scg-sa-beat-ban-by-104-runs-hotstar-video-commentary-de-kock-riley-rossouw-anrich-nortje-shamsi-5707321/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>South Africa vs Bangladesh Highlights, T20 World Cup 2022: Nortje ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQlYtz6mdnULtK-d_bHsytZxqnzalpY4GpAcevhclsxq92QX1asuHA-o_tFmSiWZ8ya3ODsEMTw" alt="South Africa vs Bangladesh Highlights, T20 World Cup 2022: Nortje ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Rossouw showcased his batting prowess, blasting the first century of the ongoing showpiece with a 56-ball 109, while Quinton de Kock struck a fifty to power&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
