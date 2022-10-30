@@ -11,13 +11,27 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Ponniyin Selvan"/>
         <meta name="description" content="Trending News about Ponniyin Selvan" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Ponniyin Selvan</h1>
-            <Image width={800} height={500} src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202210/ezgif-sixteen_nine_63.jpg" alt="Ponniyin Selvan"/>
+            <Image width={800} height={500} src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202210/whatsapp_image_2022-10-29_at_9.40.30_am-sixteen_nine.jpeg?VersionId=.6wzuFv113EvT2uLVC6Cc1LWp7giARHC" alt="Ponniyin Selvan"/>
             <h3>Recent News</h3>
-            <a href='https://www.businesstoday.in/trending/entertainment/story/mani-ratnams-ponniyin-selvan-i-available-at-rs-199-to-amazon-prime-video-users-check-details-here-351107-2022-10-28'>
+            <a href='https://www.indiatoday.in/information/story/ponniyin-selvan-on-ott-platform-release-date-where-to-watch-cast-and-plot-2290805-2022-10-29'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Ponniyin Selvan on OTT platform: Release date, where to watch ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRsDEWyCsOhuz_RKlu8nDNTLDmbTITtcnBNJI-s80YNWZTA8l-uxspjlj9QVX2BDoHhY8guRL79" alt="Ponniyin Selvan on OTT platform: Release date, where to watch ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The movie, which wowed audiences with its grandeur, performances, and masterful storytelling, is now accessible online. Amazon Prime Video is now streaming&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.indiatvnews.com/entertainment/ott/ps-1-on-amazon-prime-video-date-time-ott-premiere-of-ponniyin-selvan-how-to-watch-latest-tamil-film-online-2022-10-29-819661'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>PS 1 on Amazon Prime Video: Date, Time, OTT Premiere of ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTZsBdzWxOQ-kDRn6jw1fKywDmD1ySJPNWxk-SmMuR9784K_Q8uqFUOJpITbCG6aUbKsMXZYz1k" alt="PS 1 on Amazon Prime Video: Date, Time, OTT Premiere of ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>PS 1 on Amazon Prime Video: The film is among the most expensive projects ever undertaken in the country and is based on the Tamil classic &#39;Ponniyin Selvan&#39;&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.businesstoday.in/trending/entertainment/story/mani-ratnams-ponniyin-selvan-i-available-at-rs-199-to-amazon-prime-video-users-check-details-here-351107-2022-10-28'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Mani Ratnam&#39;s Ponniyin Selvan I available at Rs 199 to Amazon ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTLopYHnRL8Cfyet0rAyBHS-s1hZF8BRI8AecJiSMmd-4jSpuS57YgBgFiZixJhQt4LrN6gjupfLg" alt="Mani Ratnam&#39;s Ponniyin Selvan I available at Rs 199 to Amazon ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTBdvNr9RQdXjeqKsNcaCK5P9Cac3AHBRbPNbjUsN0sfdW_vAGBk2OdFP--Zgfnnr6TSzfIFzkXZw" alt="Mani Ratnam&#39;s Ponniyin Selvan I available at Rs 199 to Amazon ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Cinephiles can watch the Chiyaan Vikram and Aishwarya Rai Bachchan-starrer historical drama Ponniyin Selvan I on Amazon Prime Video by paying Rs 199 as rent&nbsp;...</p></div>
             </div>
         </a><a href='https://www.hindustantimes.com/entertainment/tamil-cinema/ponniyin-selvan-1-box-office-mani-ratnam-s-film-inches-close-to-rs-500-cr-globally-crosses-rs-225-cr-in-tamil-nadu-101666941089428.html'>
@@ -26,13 +40,6 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTdL8ll84uGKyv1jNTUjS4AeI1T2l-Qhp_Sd72zZyAxmIZVBlim-9koCqskyPcp_DQcL-k3m3f0" alt="PS 1 box office: Film inches close to ₹500 cr globally, crosses ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Ponniyin Selvan: 1 is all set to breach the ₹500 crore club soon. It has already become the highest-grossing Tamil film in Tamil Nadu.</p></div>
-            </div>
-        </a><a href='https://www.indiatoday.in/movies/regional-cinema/story/ponniyin-selvan-is-now-streaming-on-amazon-prime-but-theres-a-twist-2290682-2022-10-28'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ponniyin Selvan is now streaming on Amazon Prime but there&#39;s a twist</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTC3dCFDY66OFez1D9DYVYiBbycr83Bn1M9zsJRbtQTsrnc2vPe5PYq0Bw86Z1nC5gJNR4IWJYLWg" alt="Ponniyin Selvan is now streaming on Amazon Prime but there&#39;s a twist" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ponniyin Selvan is available on Amazon Prime Video but even existing subscribers need to pay to watch it. It will be available to subscribers at no&nbsp;...</p></div>
             </div>
         </a><a href='https://www.telegraphindia.com/entertainment/get-set-for-ponniyin-selvan-i-on-prime-video-and-brahmastra-on-disney-hotstar-from-nov-4/cid/1894752'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -48,33 +55,12 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTfFPRB4Bu4GximVpP_SijVd_d1ZaTQvXmh1vIVsx8i3nGQVqLSsD1Fl-e0rXc-ynzwVYAEkOXU" alt="&#39;Ponniyin Selvan: 1&#39; available for early rental on Amazon Prime at ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Mani Ratnam&#39;s film will be available to stream for all users of Amazon Prime Video from November 4.</p></div>
             </div>
-        </a><a href='https://www.hindutamil.in/news/cinema/tamil-cinema/888851-ponniyin-selvan-movie-devaralan-aattam-full-video-released-in-youtube.html'>
+        </a><a href='https://www.hindutamil.in/news/literature/889230-ponniyin-selvan-for-young-people.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>வெளியானது &#39;பொன்னியின் செல்வன்&#39; படத்தின் ...</h3>
+                <h3>நூல் நயம்: இளையோருக்கான பொன்னியின் செல்வன்</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQI_CXdSTAESF5ia3aPFAFsAWqIPpwnen_wqU3iaahW3XIPwqh5EMhNlaJDss4Rlyv-uGrd1VZR" alt="வெளியானது &#39;பொன்னியின் செல்வன்&#39; படத்தின் ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>&#39;பொன்னியின் செல்வன்&#39; படத்தில் இடம்பெற்றுள்ள &#39;தேவராளன் ஆட்டம்&#39; பாடல் வீடியோ&nbsp;...</p></div>
-            </div>
-        </a><a href='https://english.jagran.com/entertainment/ponniyin-selvan-i-ott-release-date-when-and-where-to-watch-mani-ratnams-magnum-opus-10052846'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ponniyin Selvan I OTT Release Date: When And Where To Watch ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRSmK0odTHg4mzRbuWnHV8gf-I-KsbpKBlSC9vvWN6QtGWy7zFn8vjV-ghuP0UChgUIhkG9V9bS" alt="Ponniyin Selvan I OTT Release Date: When And Where To Watch ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ponniyin Selvan I OTT Release: Chiyaan Vikram and Aishwarya Rai Bachchan-starrer historical drama to be out on digital platform on this date.</p></div>
-            </div>
-        </a><a href='https://lehren.com/regional/tamil/ponniyin-selvan-1-ott-release-know-when-where-to-watch/151264/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ponniyin Selvan-1 OTT Release: Know When &amp; Where To Watch</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTXkDXHTOjFA2OHEu-E9hVjAaRWvsZKrtAWZYKVVJwH6kT6l-bSP_geTYkL8wvviyHNXVdL6tzZ" alt="Ponniyin Selvan-1 OTT Release: Know When &amp; Where To Watch" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Aishwarya Rai starrer Mani Ratnam&#39;s film Ponniyin Selvan-1 will now premiere on OTT platform, know when and where to watch the magnum opus-</p></div>
-            </div>
-        </a><a href='https://tamil.asianetnews.com/cinema/devaralan-aattam-song-sneak-peek-from-ponniyin-selvan-rkgnwb'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>பொன்னியின் செல்வனில் இருந்து தேவராள ஆட்டம் ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS5tF7EtLtQ0bZS4NV5ELwXjE7I2WKg5hrmnr-ZnTWwVSFT-6m4VSEEafFfeQHS8b8sacxnTOIl" alt="பொன்னியின் செல்வனில் இருந்து தேவராள ஆட்டம் ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>இந்த படத்திலிருந்து தேவரளான் ஆட்டத்தின் என்னும் பாடலின் முன்னோட்டம் வெளியாகியுள்ளது.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRSEqMGa-p_V0WrvSj8fSNp_6PlR4QlJB8s4dm2nFHufoZH9CPcadmRrjlH3EtM9s0k9JHsnPhb" alt="நூல் நயம்: இளையோருக்கான பொன்னியின் செல்வன்" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>கல்கி கிருஷ்ணமூர்த்தி எழுதிய &#39;பொன்னியின் செல்வன்&#39; நாவலை இளைய தலைமுறையினருக்கு ஏற்ற&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
