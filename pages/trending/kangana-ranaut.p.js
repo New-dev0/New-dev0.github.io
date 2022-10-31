@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Kangana Ranaut"/>
         <meta name="description" content="Trending News about Kangana Ranaut" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Kangana Ranaut</h1>
-            <Image width={800} height={500} src="https://assets.telegraphindia.com/telegraph/2022/May/1653568717_kangana.jpg" alt="Kangana Ranaut"/>
+            <Image width={800} height={500} src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202210/jp_nadda_aaj_tak-sixteen_nine.jpeg?VersionId=SEby5d3ZW7VAzvLetWgfDsDvgw3yIhow" alt="Kangana Ranaut"/>
             <h3>Recent News</h3>
-            <a href='https://www.amarujala.com/photo-gallery/entertainment/bollywood/kangana-ranaut-will-also-play-bengali-theatre-star-binodini-dasi-role-after-rukmini-maitra'>
+            <a href='https://www.indiatoday.in/india/story/kangana-ranaut-welcome-to-join-bjp-jp-nadda-after-she-hints-joining-politics-2291004-2022-10-30'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Kangana Ranaut: दिग्गज अदाकारा बिनोदिनी दासी पर बन रहीं दो बायोपिक ...</h3>
+                <h3>Kangana Ranaut is welcome to join BJP but...: JP Nadda after she ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Kangana Ranaut: दिग्गज अदाकारा बिनोदिनी दासी पर बन रहीं दो बायोपिक ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Kangana Ranaut: अपने जमाने की दिग्गज अदाकारा और बंगाली थिएटर आर्टिस्ट बिनोदिनी दासी उर्फ नटी&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSSo0IsTfamWO-LzYBm4lzMXEA1_md3PSeKj4ZV3tl82r-z8-EDx9onrsTKOwp0S7WK1E5rDhTr" alt="Kangana Ranaut is welcome to join BJP but...: JP Nadda after she ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>BJP chief JP Nadda said everyone is welcome to the party but the decision to allocate seats before elections is taken after a consultation process.</p></div>
             </div>
-        </a><a href='https://www.telegraphindia.com/entertainment/kangana-ranaut-to-play-bengali-theatre-star-noti-binodini/cid/1893024'>
+        </a><a href='https://indianexpress.com/article/entertainment/bollywood/karan-johar-and-kangana-ranauts-verbal-spat-dates-way-back-to-2010-when-karan-questioned-her-about-plastic-surgery-8239225/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Kangana Ranaut to play Bengali theatre legend Noti Binodini</h3>
+                <h3>Karan Johar and Kangana Ranaut&#39;s verbal spat dates back to 2010 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTr6vx4o5c6ZrCRve02D1AInEoZr7mqrtTmrjyDL8P0OITAsQKDYwVNkwpYk342i2a2Djr7H7Ws" alt="Kangana Ranaut to play Bengali theatre legend Noti Binodini" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Born into a family of sex workers in Calcutta, Binodini emerged as the most famous actress of the 19th century Bengal.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS1G4DsM1V-zVdhZY5CuaJnDxAX2fuPs_kFiOcoTyosdu403OAdJ0tyrEW5POqG6F4HlIQBv0hX" alt="Karan Johar and Kangana Ranaut&#39;s verbal spat dates back to 2010 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>In 2010, when Kangana Ranaut appeared on Koffee With Karan Season 3 with Sanjay Dut and Anil Kapoor, she was reminded about her exes and her alleged plastic&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.abplive.com/entertainment/bollywood/kangana-ranaut-will-play-bengali-theatre-star-noti-binodini-role-in-her-biopic-read-details-2241840'>
+        </a><a href='https://zeenews.india.com/india/bjp-welcomes-kangana-ranaut-but-jp-nadda-reacts-after-the-actress-expresses-her-desire-to-contest-election-2528397.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>जयललिता, इंदिरा गांधी के बाद अब इस किरदार को पर्दे पर उतारेंगी कंगना ...</h3>
+                <h3>BJP welcomes Kangana Ranaut, BUT...: JP Nadda REACTS after ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQF_lpKXYuSSV3pAKU-fXxfqe0C92rKoQqNvBAmmm9Pdapv6RXN8IGYbN8D_BRZeUAhqcvssuwF" alt="जयललिता, इंदिरा गांधी के बाद अब इस किरदार को पर्दे पर उतारेंगी कंगना ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>जयललिता, इंदिरा गांधी के बाद अब इस किरदार को पर्दे पर उतारेंगी कंगना रनौत, जानें कौन हैं&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSt1dRkNVXI0DB2UoyHraceB6NO4ISVsGEq1KcZaKNYYlWGpNf4OVX9ZdXYMVk6NcHAze96fn6r" alt="BJP welcomes Kangana Ranaut, BUT...: JP Nadda REACTS after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Himachal Pradesh Election 2022: Kangana said on Saturday that she is ready to contest the election from Mandi in Himachal Pradesh if the people want it and&nbsp;...</p></div>
             </div>
-        </a><a href='https://economictimes.indiatimes.com/magazines/panache/kangana-ranaut-to-essay-the-role-of-bengali-theatre-legend-noti-binodini/articleshow/94965938.cms'>
+        </a><a href='https://www.ndtv.com/india-news/kangana-ranaut-twitter-return-after-elon-musk-takeover-what-she-said-about-possible-end-to-suspension-3472433'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Kangana Ranaut to essay the role of Bengali theatre legend Noti ...</h3>
+                <h3>Kangana Ranaut On Twitter Return Possibility: &quot;People&#39;s Lives Will ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRb-0zYEPyBMI8v0RVYc3OOFRPQYykCsQz5wouxeiXsZemszHqML5tut0KJbkMC9z1Ym2BTBOOV" alt="Kangana Ranaut to essay the role of Bengali theatre legend Noti ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Pradeep Sarkar, known for &#39;Parineeta&#39; &amp; &#39;Mardani&#39;, will direct the upcoming movie.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR7468iP1xQFz-4UFzTMhwnlGNnWMv1FQTA5N8O2chv29yBkbqG85SOG5Ggjbmv5WO5RtFECfdH" alt="Kangana Ranaut On Twitter Return Possibility: &quot;People&#39;s Lives Will ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kangana Ranaut&#39;s Twitter account was suspended in May last year for repeated violations of rules, specifically for &quot;hateful conduct and abusive behaviour&quot;</p></div>
             </div>
-        </a><a href='https://pragativadi.com/kangana-ranaut-to-appear-in-noti-binodini-character-in-her-next-biopic/'>
+        </a><a href='https://www.indiatv.in/entertainment/bollywood/kangana-ranaut-announced-her-entry-into-politics-wish-to-contest-from-himachal-pradesh-mandi-seat-2022-10-30-897589'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Kangana Ranaut To Appear In &#39;Noti Binodini&#39; Character In Her Next ...</h3>
+                <h3>Kangana Ranaut: कंगना रनौत ने राजनीति में एंट्री का किया ऐलान? इस ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT9DGheImLfSZ0yTGWrg3mOribxgH2KvPwTzOj0dWX-yIc5aE9QlSxWbx6Ld8FIFPHBtzTlDoiH" alt="Kangana Ranaut To Appear In &#39;Noti Binodini&#39; Character In Her Next ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Padma Shri awardee actor has signed yet another grand entertainer. This mega-budget film will be directed by Pradeep Sarkar who&#39;s helmed films like&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRFWJWWQk5YB_XnYEzKLecxsK-eO1H7TpMdvsVv14I7aKB06MKkDDKGqspkjl6yQgvOFdD7HI4X" alt="Kangana Ranaut: कंगना रनौत ने राजनीति में एंट्री का किया ऐलान? इस ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Himachal Elections: बॉलीवुड एक्ट्रेस कंगना रनौत अब तक हमेशा राजनीति में आने से मना किया,&nbsp;...</p></div>
             </div>
-        </a><a href='https://zeenews.india.com/hindi/zee-hindustan/entertainment/kangana-ranaut-will-play-noti-binodini-role-in-her-biopic/1402526'>
+        </a><a href='https://www.livehindustan.com/national/story-kangana-ranaut-fight-loksabha-election-bjp-ticket-mandi-seat-jp-nadda-reaction-7281715.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Noti Binodini: कंगना रनौत के हाथ लगी एक और बायोपिक, अब पर्दे पर ...</h3>
+                <h3>लोकसभा चुनाव में एक्ट्रेस कंगना रनौत को टिकट देगी BJP? जेपी नड्डा ने ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSvMGqc35RwcoQR8eMsb2tA9ROOCh9j8w9bj72js6E1y_UwmU9cvW8PWst5dar36dTdF0L5lplB" alt="Noti Binodini: कंगना रनौत के हाथ लगी एक और बायोपिक, अब पर्दे पर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>बॉलीवुड एक्ट्रेस कंगना रनौत (Kangana Ranaut) का फिल्मी करियर बहुत खूबसूरत और काफी लंबा रहा है&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ1VFS1Xc_PW-56TrH-8iTbVqdO9p9dVdIFUvl8PyN2Et2CjQNA7zsf-ipEGonurKJ8Fu85MgZV" alt="लोकसभा चुनाव में एक्ट्रेस कंगना रनौत को टिकट देगी BJP? जेपी नड्डा ने ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kangana Ranaut Election News: नड्डा ने कहा कि हम तो सबको चाहते हैं कि वे आएं, क्योंकि पीएम मोदी हमारी&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.indiatoday.in/movies/bollywood/story/kangana-ranaut-to-play-bengali-legend-noti-binodini-in-new-pradeep-sarkar-film-2287305-2022-10-19'>
+        </a><a href='https://www.herzindagi.com/society-culture/kangana-ranaut-keen-to-foray-into-politics-to-contest-from-home-state-himachal-article-212322'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Kangana Ranaut to play Bengali legend Noti Binodini in new ...</h3>
+                <h3>Kangana Ranaut Hints At Joining Politics, To Contest LS Polls From ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTndgfM8uieyLxAQVM2_0RZ1xuuXO-FwKR3TuDGMJ-KaAP-85OG_DLHBTREOtV_uAccCquDQGgx" alt="Kangana Ranaut to play Bengali legend Noti Binodini in new ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Kangana Ranaut will play Bengali theatre legend Noti Binodini in a new film by Pradeep Sarkar. The same marks Kangana&#39;s fourth biopic.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQIWj7uMA0EfujpbTF5av3cZRHPRjXA4XEKa55LRyRJD_twb6-iV8w2_s5Z4ch0ki4vMi6mdkPv" alt="Kangana Ranaut Hints At Joining Politics, To Contest LS Polls From ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Actor Kangana Ranaut intends to contest the 2024 Lok Sabha polls from Mandi in Himachal Pradesh if BJP wishes.</p></div>
             </div>
-        </a><a href='https://janamtv.com/80614996/'>
+        </a><a href='https://www.hindustantimes.com/entertainment/bollywood/kangana-ranaut-promises-more-masala-if-she-returns-to-twitter-101667053007241.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;പകർന്നാടാൻ കങ്കണ&#39;; വീണ്ടുമൊരു ...</h3>
+                <h3>Kangana Ranaut promises more &#39;masala&#39; if she returns to Twitter</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQDtRr-mFiUmnjJ_NE-geKwXUrjmCCT8CpLL4cxrfOOJGUgSLBU1OnDhEDU_jrqgjxDa4h8o2TG" alt="&#39;പകർന്നാടാൻ കങ്കണ&#39;; വീണ്ടുമൊരു ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>&#39;പകർന്നാടാൻ കങ്കണ&#39;; വീണ്ടുമൊരു ബയോപിക്ക്; &#39;ബിനോദിനി ദാസി&#39;യായി വേഷമിടുന്നു- Kangana Ranaut, biopic,&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ1hI7p0nXFhHUEha6LDuYnic9Wna6_qKFtJeWCUfUv2xs8FGNTovXZrSpjvACzY-nSbXnfpDN8" alt="Kangana Ranaut promises more &#39;masala&#39; if she returns to Twitter" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kangana Ranaut has talked about the possibility returning to Twitter and why she is happy staying away from it. | Bollywood.</p></div>
             </div>
-        </a><a href='https://www.naidunia.com/entertainment/celebs-kangana-ranaut-biopic-is-going-to-be-made-on-veteran-actress-binodini-dasi-kangana-ranaut-will-play-the-role-of-actress-7900145'>
+        </a><a href='https://www.hindustantimes.com/elections/kangana-ranaut-s-hint-at-joining-politics-if-bjp-wants-me-for-himachal-polls-101667049358130.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Kangana Ranaut: दिग्गज अदाकारा बिनोदिनी दासी पर बनने जा रही है ...</h3>
+                <h3>Kangana Ranaut&#39;s hint at joining politics: &#39;If BJP wants me for ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTpU_JQuusbhKW1cwuswpQ9Fvgafna1g7Xk8s6WWEbC1uFM4bsRby7SOeDdE7BLhWE_I6TxWtVJ" alt="Kangana Ranaut: दिग्गज अदाकारा बिनोदिनी दासी पर बनने जा रही है ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>कंगना रणौत की फिल्म की बात करें तो मीडिया रिपोर्ट्स के मुताबिक परीणिता और मर्दानी&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQuZpSnEOdJLFdbgnWJm262OjBoepP2tH5UKRewQ0_lVFZ1ZosIg0mvRAxJS3VyoljGYh5DjEix" alt="Kangana Ranaut&#39;s hint at joining politics: &#39;If BJP wants me for ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Interestingly, earlier this month, Kangana Ranaut had said she had no plans to enter into politics professionally as she remains focused on her film career.</p></div>
             </div>
-        </a><a href='https://english.jagran.com/entertainment/noti-binodini-biopic-kangana-ranaut-to-play-bengali-theatre-legend-in-new-film-all-you-need-to-know-10052179'>
+        </a><a href='https://www.tribuneindia.com/news/himachal/kangana-ranaut-hints-at-entry-into-politics-says-open-to-public-service-if-given-a-chance-445604'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Noti Binodini Biopic: Kangana Ranaut To Play Bengali Theatre ...</h3>
+                <h3>Kangana Ranaut hints at entry into politics, says &#39;open to public ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS3wW-6sb8lQvrC0mx-J38Xhdd5fLXAcIM5v6QWuOMh-QGDUDb2RtO0XfKEI8K_H4UQ8cx6IAs3" alt="Noti Binodini Biopic: Kangana Ranaut To Play Bengali Theatre ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Kangana Ranat will star in the biopic of Bengali theatre legend Binodini Dasi in her upcoming film. Read details.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSnF8e0y3Jx6hNVvpdNcajmGb4Unmidg42PFj3reyT0do4IGMzCJ37K75JpEdsNYK7uj20VxMJk" alt="Kangana Ranaut hints at entry into politics, says &#39;open to public ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>I am open to public service if given a chance and would consider myself fortunate to serve the people of my home state Himachal,” said actress Kangana&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

@@ -11,70 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,PSG"/>
         <meta name="description" content="Trending News about PSG" /></Head><Template>
             <h1 style={{fontSize: "30"}}>PSG</h1>
-            <Image width={800} height={500} src="https://www.ligue1.com:443/-/media/Project/LFP/Ligue1-COM/Images/Articles-Assests/2022/10/26/Desktop_UK_L1_2223_Messi_Neymar_Mbappe_Paris.jpg" alt="PSG"/>
+            <Image width={800} height={500} src="https://ss-i.thgim.com/public/incoming/6z3liz/article66069888.ece/alternates/FREE_1200/AFP_32M64UB.jpg" alt="PSG"/>
             <h3>Recent News</h3>
-            <a href='https://www.ligue1.com/Articles/NEWS/2022/10/26/psg-troyes-preview-neymar-back-for-paris'>
+            <a href='https://sportstar.thehindu.com/football/psg-troyes-live-score-updates-ligue-1-commentary-goals-highlights-lineups-when-and-where-to-watch/article66069865.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>PSG-Troyes preview: Neymar back for Paris</h3>
+                <h3>PSG 4-3 Troyes, HIGHLIGHTS Ligue 1: Goals from Messi, Neymar ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRxz3J_Lco_4aByHLA4cI7dcKXlD8CbMQdqKQQCtB79DNQdwRONck7FxDmbj9xfbwb_2G7s3pir" alt="PSG-Troyes preview: Neymar back for Paris" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Paris Saint-Germain&#39;s fabled front three of Lionel Messi, Neymar Jr. and Kylian Mbappé could be reunited in Paris on Saturday after the Brazilian missed&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS6jDNrwXhY52l_tOE5m3TXTohptYiNf1xA-HU3aNx5oC3WAmbeuZ2ITk9NH2vhdh7hvDmCq_6E" alt="PSG 4-3 Troyes, HIGHLIGHTS Ligue 1: Goals from Messi, Neymar ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Paris Saint Germain vs Troyes, Ligue 1: Catch the highlights, score, updates and commentary from the game at Parc des Princes.</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-in/lists/psg-winners-losers-ratings-messi-neymar-mbappe-smash-seven-past-maccabi-haifi/blt2685ebc2d3196e93'>
+        </a><a href='https://www.ligue1.com/Articles/MATCH-REPORTS/2022/10/29/psg-paris-troyes-mbappe-messi-neymar-verratti'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>PSG winners, losers and ratings as Messi, Neymar and Mbappe ...</h3>
+                <h3>MNM fire again to keep PSG top</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQqoJB_ZRUuk8PBkH2100H1vb7XN6jboFhpmj2hRdsw-NIlSiPlz6kWOSr-IvpJa2qdffBKrk8w" alt="PSG winners, losers and ratings as Messi, Neymar and Mbappe ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>PSG hammered Maccabi Haifa 7-2 in the Champions League with superstar forwards Kylian Mbappe, Neymar and Lionel Messi all on the scoresheet.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS4vo60J7iywzUM6zFBF0BQ4a08xCHkoM_oTCMSp4kxJCqT2jWjkrxQjHZUctM_eopPsbNyvWtB" alt="MNM fire again to keep PSG top" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kylian Mbappé, Neymar and Lionel Messi all featured among the goals as Paris Saint-Germain came back from trailing twice to Troyes to win 4-3 at the Parc&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.wionews.com/sports/lionel-messi-breaks-cristiano-ronaldos-champions-league-record-as-psg-run-riot-against-maccabi-haifa-528616'>
+        </a><a href='https://www.dailypioneer.com/2022/sports/messi-helps-psg-fight-back-to-beat-troyes.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Lionel Messi breaks Cristiano Ronaldos Champions League record ...</h3>
+                <h3>Messi helps PSG fight back to beat Troyes</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTQ6Owfnfe4Mpd5sdzOZO_DUBtqhUYp5hhEYZceTceSf-hnLwY_ZJXG81ucQ1Rbr8bqzEXZnvxT" alt="Lionel Messi breaks Cristiano Ronaldos Champions League record ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Lionel Messi continued his fine form for Paris Saint-Germain this season with a magnificent brace against Maccabi Haifa in the Champions League on Wednesday&nbsp;...</p></div>
+                <Image src="" alt="Messi helps PSG fight back to beat Troyes" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lionel Messi starred with a goal and an assist as all of Paris Saint-Germain&#39;s front three scored in a 4-3 victory over Troyes on Saturday which restored&nbsp;...</p></div>
             </div>
-        </a><a href='https://sportstar.thehindu.com/football/champions-league/ucl-psg-vs-maccabi-haifa-live-steaming-info-squads-predicted-xi-paris-st-germain-mh-updates-highlights/article66054656.ece'>
+        </a><a href='https://www.goal.com/en-in/news/psg-vs-troyes-lineups-and-live-updates/blt1fac92bfda7776ca'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>PSG vs Maccabi Haifa HIGHLIGHTS, UEFA Champions League ...</h3>
+                <h3>PSG vs Troyes : Lineups and LIVE updates</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRRJ-qobs8wtx7JofNeJyd4Y5mtuWO1v_T4o2rwlIGNlK9Xy-VJNUJOgK63CPnxwpi8pR_0VQ1c" alt="PSG vs Maccabi Haifa HIGHLIGHTS, UEFA Champions League ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>82&#39; Eketike misses!! Messi finds Eketike with a through ball. But the youngster cant&#39; find his first goal. GLORIOUS CHANCE!! October 26,&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQNrcXkHmo_bCByBAkIa5VgpCpKpkdN5lx4L9iDau3gEQa92oPTHsYTtO5g7ZRD6wisq3EiMAkA" alt="PSG vs Troyes : Lineups and LIVE updates" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>PSG welcome mid-table Troyes to the Parc des Princes on Saturday afternoon, looking to extend their lead at the top of Ligue 1 table.</p></div>
             </div>
-        </a><a href='https://www.espn.in/football/report/_/gameId/652654'>
+        </a><a href='https://www.onmanorama.com/sports/football/2022/10/29/lionel-messi-goal-psg-beat-troyes-ligue-1.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Paris Saint-Germain vs. Maccabi Haifa - Football Match Report ...</h3>
+                <h3>Messi scores wonder goal as PSG win 7-goal thriller | Video</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR9NhYhivC38mKLRGpw-ElZPY33DzNUP6Jfy5IfaWDjw11VBXHKxysvZyOkBYes6ZPotupIB11p" alt="Paris Saint-Germain vs. Maccabi Haifa - Football Match Report ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Get a report of the Paris Saint-Germain vs. Maccabi Haifa 2022-23 UEFA Champions League, Group Stage football match.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQLn2JepArCSlWrkj5rtukRghv4DWBRjyF-felniLFNdY-yBSc85jPb33JuLDRwLgmvSFKAJSSH" alt="Messi scores wonder goal as PSG win 7-goal thriller | Video" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The French giants staged a comeback to register a 4-3 win against Troyes..Lionel Messi goal. psg beat troyes. ligue 1 football. mbappe. neymar goal.</p></div>
             </div>
-        </a><a href='https://www.hindustantimes.com/sports/football/mbappe-messi-brace-helps-psg-thrash-maccabi-7-2-in-champions-league-101666751135724.html'>
+        </a><a href='https://www.outlookindia.com/sports/ligue-1-2022-23-lionel-messi-neymar-kylian-mbappe-score-in-paris-saint-germain-win-in-pics-photos-233504'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mbappe, Messi brace helps PSG thrash Maccabi 7-2 in Champions ...</h3>
+                <h3>Ligue 1 2022-23: Lionel Messi, Neymar, Kylian Mbappe Score In ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQgs7m5vwX4IMb88-DaEmw0Mxua0p-yCCdW9CBs95DxaZaLzq1Wj1JrwY2kw32o-a3vp0CT0ooi" alt="Mbappe, Messi brace helps PSG thrash Maccabi 7-2 in Champions ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>PSG&#39;s romp means with one game remaining against already-eliminated Juventus they top the standings on goal difference from Benfica with 11 points.</p></div>
-            </div>
-        </a><a href='https://www.indiatoday.in/sports/football/story/psg-vs-maccabi-haifa-7-2-champions-league-messi-neymar-mbappe-reaction-2289567-2022-10-26'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>It&#39;s paradise: PSG coach Galtier chuffed with Messi, Neymar and ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSauG5z32PQ259nAQPbHdimcuJp4p6Q0h4PDnkF5Unou9x4y_9jQ2Bs1wGsnzo5XxzteOUuBNph" alt="It&#39;s paradise: PSG coach Galtier chuffed with Messi, Neymar and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Champions League: Lionel Messi scored twice and was denied a record 9th UCL hat-trick by the cross bar. Kylian Mbappe netted a brace and Neymar chipped in&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.insidesport.in/psg-vs-troyes-live-psg-aim-to-extend-gap-at-top-against-faltering-troyes-check-psg-vs-troyes-predicted-xi-team-news-follow-live/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>PSG vs Troyes LIVE - PSG AIM to EXTEND gap at top against ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSgPc_pHopSvNQ1toYJZvizrMGCHq2_YK92H2fC0M042YUOY6RTKG9R4hE4Af6TlXqaSVvMLNDh" alt="PSG vs Troyes LIVE - PSG AIM to EXTEND gap at top against ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>PSG vs Troyes LIVE - PSG AIM to EXTEND gap at top against faltering Troyes - Check PSG vs Troyes Predicted XI, PSG vs Troyes LIVE Streaming, Ligue 1 LIVE.</p></div>
-            </div>
-        </a><a href='https://bolavip.com/en/soccer/psg-vs-troyes-date-time-and-tv-channel-to-watch-free-2022-2023-ligue-1-in-the-us-20221026-0034.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>PSG vs Troyes: Date, Time and TV Channel to watch free 2022 ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTVqUnq7LpWvol7qNLtiLy7JnbZ6eku_0GLtXPlSEjbx0cl1buQlfRQxCE6dzCFYiDQc4yeHqZq" alt="PSG vs Troyes: Date, Time and TV Channel to watch free 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>PSG will host Troyes trying to extend their lead on Matchday 13 of the 2022-2023 Ligue 1. The home team appears as the favorites after their win in&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRrlOx2EaxsudmTWagea2VXK5qkbZw68UURlzDH_AFHlsH4-yT7oOMWUm9kot6UN8CpHEYvbKJy" alt="Ligue 1 2022-23: Lionel Messi, Neymar, Kylian Mbappe Score In ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lionel Messi, Neymar and Kylian Mbappe all scored as Paris Saint-Germain beat Troyes 4-3 in the French Ligue 1 2022-23 on Saturday.</p></div>
             </div>
         </a>
         </Template></>;
