@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,KL Rahul"/>
         <meta name="description" content="Trending News about KL Rahul" /></Head><Template>
             <h1 style={{fontSize: "30"}}>KL Rahul</h1>
-            <Image width={800} height={500} src="" alt="KL Rahul"/>
+            <Image width={800} height={500} src="https://img.mensxp.com/media/content/2022/Oct/Why-KL-Rahul-Should-Be-Dropped-From-Rest-Of-T20-WC800_635fd07932d18.jpeg" alt="KL Rahul"/>
             <h3>Recent News</h3>
-            <a href='https://www.hindustantimes.com/cricket/cant-understand-why-people-are-blasting-kl-rahul-ex-india-cricketer-after-opener-s-patient-fifty-in-1st-t20i-vs-sa-101664452926415.html'>
+            <a href='https://www.mensxp.com/sports/cricket/121035-t20-world-cup-three-reasons-why-kl-rahul-deserves-to-be-dropped-from-team-india.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Can&#39;t understand why people are blasting KL Rahul&#39;: Ex-India opener</h3>
+                <h3>3 Reasons Why Rohit Sharma &amp; Rahul Dravid Should Drop KL ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT71sSssGTHC97YlnAcG_-r0cjtYuEQ9411cT2EPRQ2KmTm5VBl0VcnZcFwiRTvWKZ1G_0P64qk" alt="&#39;Can&#39;t understand why people are blasting KL Rahul&#39;: Ex-India opener" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Former India cricketer Aakash Chopra has come out in defence of KL Rahul. Chopra weighed in on the approach by the right hander and praised him for playing&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQwa3EMQgvcBH8NHKA3IHwvPbylfwJM8wjWeEoX2VN9iAIm5--qAH7TP6DYb2x_tEs1hqfeVWnt" alt="3 Reasons Why Rohit Sharma &amp; Rahul Dravid Should Drop KL ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>T20 World Cup 2022: KL Rahul&#39;s struggle for runs in Australia might see him sitting out of the rest of the tournament.</p></div>
             </div>
-        </a><a href='https://www.amarujala.com/cricket/cricket-news/kl-rahul-scored-slowest-fifty-for-india-in-t20-also-slowest-fifty-among-test-playing-nations'>
+        </a><a href='https://www.hindustantimes.com/cricket/play-however-you-want-but-i-m-not-dropping-you-new-zealand-legend-stephen-fleming-gives-message-to-kl-rahul-amid-world-cup-struggle-101667203547686.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>KL Rahul: लोकेश राहुल ने भारत के लिए टी20 में सबसे धीमा अर्धशतक ...</h3>
+                <h3>&#39;Play however you want, I&#39;m not dropping you&#39;: NZ legend to ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSETn0rZNhfVSfHoZlL4OD0k_FsKKoU_nsB5Tg2hzEBWUk6j1ZBNIuUuKcAiJkqsWVXwKZ-DwyV" alt="KL Rahul: लोकेश राहुल ने भारत के लिए टी20 में सबसे धीमा अर्धशतक ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>लोकेश राहुल ने दक्षिण अफ्रीका के खिलाफ 56 गेंदों में 51 रन की पारी खेली।</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQQeKYLEW46KMKOz1oXROux0IrM-wS7qC5JJAkCRqn6WBMB4SeWuHOWe63QUC8JcBJJxGUSu-ux" alt="&#39;Play however you want, I&#39;m not dropping you&#39;: NZ legend to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>It&#39;s no secret that KL Rahul has been struggling for India at the T20 World Cup. More than the single-digit scores, it&#39;s the fact that Rahul is cutting an&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.aajtak.in/sports/cricket/story/aakash-chopra-slams-fans-on-kl-rahul-slow-batting-strike-rate-reaction-india-vs-south-africa-1st-t20-match-tspo-1546591-2022-09-29'>
+        </a><a href='https://www.abplive.com/sports/cricket/t20-wc-2022-stephen-fleming-support-kl-rahul-said-play-however-you-want-but-i-m-not-dropping-you-2249390'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>KL Rahul: मुश्किल पिच पर ऐसी बैटिंग! केएल राहुल की स्लो बैटिंग की ...</h3>
+                <h3>IND vs BAN: खराब फॉर्म से जूझ रहे केएल राहुल को मिला पूर्व कीवी कप्तान ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTDONMPZu9sVf3Jt2e1ljJJ_PKCbip_XH5EB25G-s04Hqym_72M8h4LdWZu2iQLj9BX74aFRlAq" alt="KL Rahul: मुश्किल पिच पर ऐसी बैटिंग! केएल राहुल की स्लो बैटिंग की ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>टीम इंडिया के उप-कप्तान केएल राहुल एक बार फिर स्लो स्ट्राइक रेट की वजह से निशाने पर आए&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQTqxbbtZEd7VnSnI1TXgCiRH4eus308liKcOlcmdLK-f-YwuOLBQNVfjvXRqGcIdJV3Q4ydsMS" alt="IND vs BAN: खराब फॉर्म से जूझ रहे केएल राहुल को मिला पूर्व कीवी कप्तान ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>KL Rahul: टी20 वर्ल्ड कप में खराब फॉर्म से जुझ रहे केएल राहुल को न्यूजीलैंड के दिग्गज&nbsp;...</p></div>
             </div>
-        </a><a href='https://indianexpress.com/article/lifestyle/health/kl-rahul-ice-bath-tough-wicket-fatigue-workout-muscle-soreness-benefits-8180009/'>
+        </a><a href='https://navbharattimes.indiatimes.com/sports/cricket/t20worldcup/news/kl-rahul-to-miss-new-zealand-tour-not-included-in-t20i-series/articleshow/95209822.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>KL Rahul may not enjoy an &#39;ice bath&#39; after &#39;tough&#39; wickets, but here&#39;s ...</h3>
+                <h3>T20 World Cup के बीच केएल राहुल के लिए आई बुरी खबर, न्यूजीलैंड दौरे से ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSuVXvO_wicT5o-R-Q59L15AgKwWeHEnkzZGqEt1TlNLbINZivbCAfa-mayWAnKuZqIQT0r6Bwp" alt="KL Rahul may not enjoy an &#39;ice bath&#39; after &#39;tough&#39; wickets, but here&#39;s ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Also known as cryotherapy, an ice bath is basically a technique where the body is exposed to extremely cold temperatures.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTDcPecotO0g1MXDxIOCC_JOkohLhS2EdOr_dnoKb1AEOOfdJf_R6Hl2ePp6gi7E1nVce8AkyE3" alt="T20 World Cup के बीच केएल राहुल के लिए आई बुरी खबर, न्यूजीलैंड दौरे से ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>KL Rahul: केएल राहुल का बल्ला टी-20 वर्ल्ड कप शुरू होते ही खामोश हो चुका है।</p></div>
             </div>
-        </a><a href='https://www.abplive.com/sports/cricket/ind-vs-sa-kl-rahul-says-about-his-strike-rate-after-half-century-2226622'>
+        </a><a href='https://www.indiatv.in/sports/cricket/t20-world-cup-2022-ishan-kishan-shikhar-dhawan-and-prithvi-shaw-are-better-openers-than-kl-rahul-2022-10-31-898122'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>IND vs SA: अपनी धीमी पारी को लेकर KL Rahul ने दी प्रतिक्रिया, पिच को ...</h3>
+                <h3>T20 World Cup 2022: केएल राहुल से कई गुना अच्छे हैं ये 3 ओपनर, घर ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRR_Q3wYGfrVKacFZsKsO6OuWWZAlnejuFE8aBjBKAbu0FvRXkNf90W9sXr0TwDKHvmglPAlav8" alt="IND vs SA: अपनी धीमी पारी को लेकर KL Rahul ने दी प्रतिक्रिया, पिच को ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>India vs South Africa: केएल राहुल ने भारत और दक्षिण अफ्रीका के बीच खेले गए मैच में अर्धशतक लगाया.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSuwzRRjZe1WMeDLPEe8iNzPu-QhlU4x3MhvFKpVDmk3D2nwPKMhTgXwzmebiRUBnN-ro5Sz5dP" alt="T20 World Cup 2022: केएल राहुल से कई गुना अच्छे हैं ये 3 ओपनर, घर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>T20 World Cup 2022: मौजूदा टी20 वर्ल्ड कप में अगर टीम इंडिया की सबसे बड़ी कमजोरी केएल राहुल हैं।</p></div>
             </div>
-        </a><a href='https://www.royalchallengers.com/rcb-cricket-news/news/it-was-not-an-easy-wicket-kl-rahul'>
+        </a><a href='https://hindi.insidesport.in/cricket-news/ind-vs-ban-live-stephen-fleming-came-out-in-support-of-kl-rahul-said-however-you-play-but-i-am-with-you-510714/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>It was not an easy wicket: KL Rahul</h3>
+                <h3>IND vs BAN LIVE: केएल राहुल के समर्थन में उतरे स्टीफन फ्लेमिंग, बोले ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTJ6Zp0_gNqHstmvyqJvD2J6c6sat2hDFkDYkuVQHl1J-4KjfcSISU0ETKIZt0wrUWS1WMkt9PO" alt="It was not an easy wicket: KL Rahul" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>KL Rahul played a responsible anchor to a swashbuckling display from Suryakumar Yadav at the other end.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRsE7SI6WgqSeL0laVh4SlB42Hj7Jn9k3W7f9sQYw95Rf5nD9n4K2wPEfC4Q-OgfOSH-hC10iyh" alt="IND vs BAN LIVE: केएल राहुल के समर्थन में उतरे स्टीफन फ्लेमिंग, बोले ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>उन्होंने अब तक 3 मुकाबले खेले हैं, जिनमे केएल राहुल (KL Rahul) के बल्ले से सिर्फ 22 रन निकले हैं&nbsp;...</p></div>
             </div>
-        </a><a href='https://navbharattimes.indiatimes.com/sports/cricket/india-vs-south-africa/ind-vs-sa-what-is-that-ice-bath-therapy-what-kl-rahul-mentioned-after-winning-the-first-t20i/articleshow/94535873.cms'>
+        </a><a href='https://www.mansworldindia.com/sports/kl-rahul-for-rishabh-pant-team-india-t20-world-cup-2022/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>KL Rahul ice bath: बर्फीले पानी से क्यों नहाते हैं क्रिकेटर्स, वो आइस बाथ ...</h3>
+                <h3>&#39;Please Drop KL Rahul And Pick Pant:&#39; Fans Want Team India To ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRt9c4L47D9u3nY9wZQ3uQqFvyEoLMLPqSHAdkGFA8b0k0kY_GpnupXD5S7G4lFigMQhJo-wHK2" alt="KL Rahul ice bath: बर्फीले पानी से क्यों नहाते हैं क्रिकेटर्स, वो आइस बाथ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ind vs Sa: हार्डवर्क के बाद मांसपेशियों को रिलेक्स करने के लिए एथलीट आइस बाथ लेते हैं,&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQfk-LnGl6uwSYV_4cqmIAL9DSuZqSG4m_GjjoG7YQxYsvABsKsbslHzuvGP1y789Shi0aRTfyi" alt="&#39;Please Drop KL Rahul And Pick Pant:&#39; Fans Want Team India To ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>KL Rahul&#39;s performance has come under scrutiny after a series of failures in the T20 World Cup, and many want him to be dropped for Rishabh Pant.</p></div>
             </div>
-        </a><a href='https://zeenews.india.com/cricket/ind-vs-sa-1st-t20i-stop-praising-kl-rahul-praise-suryakumar-yadav-fans-slam-opener-for-steady-approach-2515549.html'>
+        </a><a href='https://www.dailyo.in/ground/should-kl-rahul-be-dropped-for-next-match-who-should-replace-him-tell-us-in-the-comments-37732'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Stop praising KL Rahul, praise Suryakumar Yadav, Fans SLAM ...</h3>
+                <h3>Should KL Rahul be dropped for next match? Who should replace ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRvduHINPdAberqyNzSSB_Vx79D1FnRHP33TWwKXCUzX6QdZw-5i8mMRLlE92QFA6UyxPBVBrVn" alt="Stop praising KL Rahul, praise Suryakumar Yadav, Fans SLAM ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>During India&#39;s chase of 107, Rohit Sharma and Virat Kohli departed early on a pitch that aided the pace-bowlers of both sides.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT_VkHJC3ga8NOcVY3pvv-fHOFuWFGf1QEJuVF7GVF8KlBfH-1CteScPBujir_SUnoNy_LRvv0H" alt="Should KL Rahul be dropped for next match? Who should replace ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Opener KL Rahul&#39;s form has become a big worry for the Indian cricket team as the right-handed batter has not been able to perform at the T20 World Cup 2022&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.wionews.com/sports/please-cut-him-some-slack-aakash-chopra-tells-kl-rahuls-critics-after-his-56-ball-51-vs-sa-520889'>
+        </a><a href='https://hindi.cricketnmore.com/cricket-news/shikhar-dhawan-ishan-kishan-could-have-been-better-than-kl-rahul-109556'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Please cut him some slack - Aakash Chopra tells KL Rahuls critics ...</h3>
+                <h3>KL Rahul से लाख-गुना बेहतर हो सकते हैं ये 3 ओपनर, अभी घर पर हैं बैठे</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ3An0Qn7Dsp_XHo5lIAxZpBhp_69cY6rMNXMdNpONsSG9LANi9nlzxHikJpeQDFzlV0bNd3J_x" alt="Please cut him some slack - Aakash Chopra tells KL Rahuls critics ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Former Indian opener-turned-commentator Aakash Chopra is baffled by the criticism of KL Rahul. Here&#39;s what he said: India hosted South Africa in the three-&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSa3Hhm0aQtHAHcT-5hTilJ-9WhonS5PLYZOPMAKTRrVfQbM8gtoB_UcLMLdr5lr-ep3sL_Knin" alt="KL Rahul से लाख-गुना बेहतर हो सकते हैं ये 3 ओपनर, अभी घर पर हैं बैठे" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>शिखर धवन: आईसीसी के मैचों में बल्ले से आग उगलने वाले शिखर धवन को टी-20 वर्ल्ड के लिए स्कवॉड&nbsp;...</p></div>
             </div>
-        </a><a href='https://sports.punjabkesari.in/sports/news/aakash-chopra-kl-rahul-ind-vs-sa-1685924'>
+        </a><a href='https://inshorts.com/en/news/hes-terribly-out-of-form-farokh-engineer-on-kl-rahul-in-t20-wc-2022-1667221313345'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>पता नहीं प्रशंसक उन पर क्यों बरस रहे हैं- KL Rahul के बचाव में आए आकाश ...</h3>
+                <h3>He&#39;s terribly out of form: Farokh Engineer on KL Rahul in T20 WC 2022</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSy9HFkzo1Zl_OEzhxPiUneYN8SHaujkmcucL6oEgLL_n5vMUZj507zOO3nMRk7X_cKVxw4RweO" alt="पता नहीं प्रशंसक उन पर क्यों बरस रहे हैं- KL Rahul के बचाव में आए आकाश ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>भारत बनाम दक्षिण अफ्रीका का 3 मैचों की टी-20 सीरिज के पहले मैच को भारत ने 8 विकेट से जीत&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTzKWRwbn0P0wjLM8qAzetCA59DPwbAHveUMtZ3vpCoA9E67fwMWbHpuJmSXyxaqYqaxveumIQM" alt="He&#39;s terribly out of form: Farokh Engineer on KL Rahul in T20 WC 2022" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>exindia wicketkeeperbatter farokh engineer has said india opener kl rahul is terribly out of form in ongoing t20 world cup in australia quotthe way he was&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
