@@ -11,56 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Points Table T20 World Cup"/>
         <meta name="description" content="Trending News about Points Table T20 World Cup" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Points Table T20 World Cup</h1>
-            <Image width={800} height={500} src="https://feeds.abplive.com/onecms/images/uploaded-images/2022/10/30/84d7d6a00e87244704eaca8d4742ca271667142980831127_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628" alt="Points Table T20 World Cup"/>
+            <Image width={800} height={500} src="https://static.india.com/wp-content/uploads/2022/11/FotoJet-2022-11-01T182319.270.jpg" alt="Points Table T20 World Cup"/>
             <h3>Recent News</h3>
-            <a href='https://www.abplive.com/sports/cricket/t20-world-cup-points-table-after-india-lost-match-against-south-africa-know-here-2248817'>
+            <a href='https://www.india.com/sports/t20-world-cup-2022-points-table-after-eng-vs-nz-match-33-new-zealand-top-group-1-south-africa-lead-group-2-5717981/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>T20 WC 2022 Points Table: भारत की हार के बाद कैसी है प्वाइंट्स टेबल की ...</h3>
+                <h3>T20 World Cup 2022 Points Table After ENG vs NZ, Match 33: New ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT7UGAB8NFhHwQSQbfnVeyV3MTe8mZKmQVDTWuD1rK1krFmcBZRsit0-NVhUOQU--xY_hBcm5s5" alt="T20 WC 2022 Points Table: भारत की हार के बाद कैसी है प्वाइंट्स टेबल की ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>टीम इंडिया को हराकर दक्षिण अफ्रीका ने प्वाइंट्स टेबल पर लंबी छलांग लगाते हुए अब 5&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQQppFickA14xyjxql3wWhHJJ2nK4i11ytSnS576wKl3EC2Xl5choFCDOK_bbbCQZHR41LFzvSN" alt="T20 World Cup 2022 Points Table After ENG vs NZ, Match 33: New ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>New Zealand is still sitting at the top of the group as their NRR of +2.233 is far superior than that of England and Australia. Published Date: November 1,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.naidunia.com/sports/cricket-t20-world-cup-points-table-the-road-to-the-semi-finals-now-difficult-for-team-india-the-match-decided-against-bangladesh-7911684'>
+        </a><a href='https://www.sportstiger.com/news/t20-world-cup-points-england-new-zealand-group-1-points-table-today-points-table-today-match-updated-england-vs-new-zealand-live'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>T20 World Cup Points Table: टीम इंडिया के लिए सेमीफाइनल की राह हुई ...</h3>
+                <h3>T20 World Cup 2022: Updated points table after England vs New ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS10zQyvNb_kq7EuurKIua0upfCBPm5SAja83ZNbSYep3OU00Ie_IUURs7-TvPvKSytufcKuq_p" alt="T20 World Cup Points Table: टीम इंडिया के लिए सेमीफाइनल की राह हुई ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>T20 World Cup 2022 Points Table: अभी अंक तालिका में दक्षिण अफ्रीका सबसे ऊपर है 3 मैचों में जीत के बाद&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQGoJOdEt7TApjI7c0ZxNWVEC9nKvzY8k4NaEr2S8_3FG84XLbevMIjhVC162fxnGB3Q2mEN_5m" alt="T20 World Cup 2022: Updated points table after England vs New ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>It is the net run rate that has decided the group rankings and could be in play to decide the semi-final lineup from Group 1.</p></div>
             </div>
-        </a><a href='https://www.prabhatkhabar.com/sports/cricket/icc-t20-world-cup-2022/points-table-after-india-defeat-by-south-africa-see-the-team-status-jst'>
+        </a><a href='https://www.sportskeeda.com/cricket-news/news-t20-world-cup-2022-points-table-updated-standings-england-vs-new-zealand-match-33'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>T20 World Cup 2022 Points Table: भारत की हार से पाकिस्तान को ...</h3>
+                <h3>T20 World Cup 2022 Points Table: Updated standings after England ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRWcvQPmQpbdy0AqJzu5XxgClercAJwuBfqr0MiPibrC9nStYJCbqZOAHaxPZM-eBIfajRq3m6M" alt="T20 World Cup 2022 Points Table: भारत की हार से पाकिस्तान को ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>T20 World Cup 2022: रविवार को पर्थ में दक्षिण अफ्रीका के खिलाफ भारत की हार से पाकिस्तान को&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRLfX--lYx9VKHfyQYm5o9mbpf6kCtgxkS7eBwA8gl9mrqo5bi-P-y4Vq6dd-C8LLKHwXt26QKe" alt="T20 World Cup 2022 Points Table: Updated standings after England ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The 33rd match of the ICC Men&#39;s T20 World Cup 2022 saw England take on New Zealand at the Gabba in Brisbane on Tuesday.</p></div>
             </div>
-        </a><a href='https://www.tv9hindi.com/sports/cricket-news/t20-world-cup-2022-points-table-icc-mens-india-teams-standings-most-runs-rankings-online-in-hindi-au84-2-au84-1532762.html'>
+        </a><a href='https://www.crictracker.com/cricket-news/t20-world-cup-2022-updated-points-table-after-sl-vs-afg-and-eng-vs-nz-game/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>T20 World Cup Points Table 2022: भारत से छीना ताज, पाकिस्तान का ...</h3>
+                <h3>T20 World Cup 2022: Updated Points table after SL vs AFG and ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSi13pTYyJc5vcrSFrnmkid2w0YjTwT5Ci2sTw_zRU3LE3jAQiX3JfW13gY52d5gMhrZ7u6duVh" alt="T20 World Cup Points Table 2022: भारत से छीना ताज, पाकिस्तान का ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>पॉइंट्स टेबल टी20 वर्ल्ड कप 2022: ग्रुप-1 में न्यूजीलैंड 5 पॉइंट्स के साथ पहले स्थान पर है,&nbsp;...</p></div>
+                <Image src="" alt="T20 World Cup 2022: Updated Points table after SL vs AFG and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>T20 World Cup 2022: Read to find out the updated points table after today&#39;s match between Sri Lanka and Afghanistan and England versus New Zealand only on&nbsp;...</p></div>
             </div>
-        </a><a href='https://hindi.oneindia.com/news/sports/cricket/t20-world-cup-2022-pakistan-semi-final-chances-take-a-hit-as-india-lose-to-south-africa-723185.html'>
+        </a><a href='https://www.hindustantimes.com/cricket/t20-world-cup-england-win-vs-new-zealand-sets-up-gripping-semi-final-qualification-tussle-afghanistan-out-check-group-1-points-table-101667309691758.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Pakistan को नहीं मिला भारत का साथ, वर्ल्ड कप से बाहर होना लगभग तय ...</h3>
+                <h3>England win vs NZ sets up gripping semis qualification tussle ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRrn3NRSL-wo6BADR-ZkvIF00BMoLJzW3zI4010rKkOu5Ug_hCEkbj_LikVHn8c1tp8YQtUxLtZ" alt="Pakistan को नहीं मिला भारत का साथ, वर्ल्ड कप से बाहर होना लगभग तय ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>टी-20 वर्ल्ड कप 2022 (T20 World Cup 2022) की जंग बेहद रोमांचक मोड़ पर आ चुकी है। सुपर-12 में कुछ&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSfF1jYEMxvcuwXuSYzzDC8b93fG0zm7kb0guCaFR08D9a4JyKoe9BpW9ly6NCyJ3Mot4iFvUkE" alt="England win vs NZ sets up gripping semis qualification tussle ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>With the win in Brisbane, England jumped to the second spot in the points table for Group 1 while New Zealand remained in the top spot, but things have now&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.livehindustan.com/cricket/story-t20-world-cup-2022-how-can-india-and-pakistan-qualify-for-semifinals-know-here-7286593.html'>
+        </a><a href='https://thecricketlounge.com/t20-world-cup-2022/t20-world-cup-2022-updated-points-table-after-the-eng-vs-nz/cid9045741.htm'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>T20 World Cup 2022: भारत और पाकिस्तान अब कैसे सेमीफाइनल के लिए ...</h3>
+                <h3>T20 World Cup 2022: Updated Points Table After The ENG vs NZ ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSJY08pZ-FAFm-Upw-ImTXUbV4iQLO6nuPL9cA0DQXLRTMNMm9hrhv_Z45hmhhomxPC0OPqeFh9" alt="T20 World Cup 2022: भारत और पाकिस्तान अब कैसे सेमीफाइनल के लिए ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>रविवार को आईसीसी टी20 वर्ल्ड कप 2022 में सुपर 12 के ग्रुप-2 में पाकिस्तानी जीत और भारत की&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTzdcHNF97qIfnYPbsBB_ZESL2PAVCXowpVMOYh1CfE9LjcAFtEREKsn42KMz2sy0OXiXRXNado" alt="T20 World Cup 2022: Updated Points Table After The ENG vs NZ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Not only did England keep themselves alive in the semi-final race with a 20-run victory over New Zealand, Jos Buttler&#39;s side are now also comfortably ahead&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.enavabharat.com/sports/cricket/t20-world-cup-2022-team-india-scenario-to-reach-in-semifinal-640160/'>
+        </a><a href='https://www.bolnews.com/sports/2022/11/t20-world-cup-2022-points-table-sri-lanka-beats-afghanistan-as-england-knocks-new-zealand/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>भारत के लिए मुश्किलों से भरी है सेमीफाइनल की राह, बारिश दिखा सकती है ...</h3>
+                <h3>T20 World Cup 2022 Points Table, Sri Lanka beats Afghanistan as ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQToz-RuCjcOkYFwbfPCo61TOgvwK8bmwQyjTkQsSg2b-kGea5RXY_-hDh3yafFmC7ZnZWAUX8h" alt="भारत के लिए मुश्किलों से भरी है सेमीफाइनल की राह, बारिश दिखा सकती है ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>नई दिल्ली: टी20 वर्ल्ड कप 2022 (T20 World Cup 2022) में बीते रविवार को भारत और साउथ अफ्रीका (IND vs SA)&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSxwPFDgbx4O28u4hSGkqfqr4SrJBaxV3RjOwqXNf-O1htCj6uCVf8sBGxRocqne-m7MAj2dHm5" alt="T20 World Cup 2022 Points Table, Sri Lanka beats Afghanistan as ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Sri Lanka kept its hopes of making it to the semi-finals alive after beating Afghanistan by 6 wickets at the Gabba in BrisbaneDhananjaya.</p></div>
             </div>
         </a>
         </Template></>;
