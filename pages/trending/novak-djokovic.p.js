@@ -11,49 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Novak Djokovic"/>
         <meta name="description" content="Trending News about Novak Djokovic" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Novak Djokovic</h1>
-            <Image width={800} height={500} src="https://ss-i.thgim.com/public/incoming/3q6z9s/article65956421.ece/alternates/LANDSCAPE_615/nd.jpeg" alt="Novak Djokovic"/>
+            <Image width={800} height={500} src="https://images.indianexpress.com/2022/10/Novak-Djokovic-beetle-20221009.jpg" alt="Novak Djokovic"/>
             <h3>Recent News</h3>
-            <a href='https://sportstar.thehindu.com/tennis/novak-djokovic-tel-aviv-semifinals-vasek-pospisil-marin-cilic/article65956425.ece'>
+            <a href='https://indianexpress.com/article/sports/tennis/novak-djokovic-beats-cressy-in-straight-sets-at-paris-masters-8244009/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Novak Djokovic advances to Tel Aviv semifinals</h3>
+                <h3>Novak Djokovic beats Maxime Cressy in straight sets at Paris Masters</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT2AMmV_UGbqAondxnY7zw6_6xiAXK0SnY_no8UV2dqo4UYHM5QKEM8w3Poj3namXzmaEq9efky" alt="Novak Djokovic advances to Tel Aviv semifinals" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Djokovic, who is playing a singles tournament for the first time since winning Wimbledon in July, next takes on Russia&#39;s Roman Safiullin, who beat France&#39;s&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRAWn8VQYXVB5-m9WJo05Ye_s9GC1q_7eekiEG8-HajX0fEuuCGtglyHm68h-L1qhN0CCi_o5rW" alt="Novak Djokovic beats Maxime Cressy in straight sets at Paris Masters" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>After lifting trophies in Israel and Kazakhstan, Djokovic stretched his winning streak to 10 matches since a loss at the Laver Cup in September.</p></div>
             </div>
-        </a><a href='https://www.atptour.com/en/news/djokovic-pospisil-tel-aviv-2022-friday'>
+        </a><a href='https://www.telegraphindia.com/sports/clinical-victory-for-novak-djokovic/cid/1895852'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Novak Djokovic Seals SF Spot In Tel Aviv | ATP Tour | Tennis</h3>
+                <h3>Clinical victory for Novak Djokovic</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSL8VxSeEA0ZLpecanQx80BPOWaRuY_Bq-HYl6Z1peBF-ySJzkT5cogFypZqTDnuqBly7Ibh8zA" alt="Novak Djokovic Seals SF Spot In Tel Aviv | ATP Tour | Tennis" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Novak Djokovic overcame a tough test from Vasek Pospisil on Friday at the Tel Aviv Watergen Open to maintain his perfect record against the Canadian.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTfmbGql2zAL7Z-Lu2UR1PKyvKycCrH5psbEyUwLFGeZRXBWzUKAivGcJ583d7CCCHyeDDdlXi6" alt="Clinical victory for Novak Djokovic" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Serbian raised his game in the second set, breaking his opponent at 4-4 before serving out the match with ease.</p></div>
             </div>
-        </a><a href='https://scroll.in/field/1033989/tennis-novak-djokovic-makes-winning-return-to-tour-at-tel-aviv-in-first-match-since-wimbledon'>
+        </a><a href='https://scroll.in/field/1036425/paris-masters-clinical-novak-djokovic-beat-maxime-cressy-to-start-title-defence'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Tennis: Novak Djokovic makes winning return to tour at Tel Aviv in ...</h3>
+                <h3>Paris Masters: Clinical Novak Djokovic beat Maxime Cressy to start ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTBe011tit5vd1CMi4eDwA0y9Rl6Kl049YYfki1D8PPhEUCrF8bb_iK_OTgb5fX-vuwyPX983ms" alt="Tennis: Novak Djokovic makes winning return to tour at Tel Aviv in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Djokovic hadn&#39;t played a singles event since winning Wimbledon 10 weeks ago, after refusing to get vaccinated ruled him out of the American hardcourt swing.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSE-SFET02AeoK65JY2o4Lm_h-BiQxOMUwSXjz9fodHsy6890QFEgiZVg-M7a-ClOBjy3uUZ-vX" alt="Paris Masters: Clinical Novak Djokovic beat Maxime Cressy to start ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The number six seed is targeting his fifth title from just 11 events after a season heavily curtailed by his opposition to being vaccinated against Covid.</p></div>
             </div>
-        </a><a href='https://www.business-standard.com/article/sports/novak-djokovic-defeats-span-s-pablo-andujar-in-tel-aviv-watergen-open-122093000437_1.html'>
+        </a><a href='https://zeenews.india.com/tennis/watch-novak-djokovic-beats-maxime-cressy-to-make-winning-start-in-title-defence-at-paris-masters-2529947.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Novak Djokovic defeats Spans Pablo Andujar in Tel Aviv Watergen ...</h3>
+                <h3>WATCH: Novak Djokovic beats Maxime Cressy to make winning ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSB7CIGIgaiUzXiRRCfavfTOL1v0iSV1bdElDVSjfMMv34wIKKX__mlgWjVX5SBpB9F74flFglT" alt="Novak Djokovic defeats Spans Pablo Andujar in Tel Aviv Watergen ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The 88-time tour-level titlist Novak Djokovic cruised past Spaniard Pablo Andujar 6-0, 6-3 to reach the quarterfinals of the Tel Aviv Watergen Open here on&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRvSArd_K1rhZWXqOJeSLw7noBBFusaFPrQsCmSp16EYXejMYKCFL79D2mbUnCarvqJ2ICvw8jO" alt="WATCH: Novak Djokovic beats Maxime Cressy to make winning ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Rolex Paris Masters&#39; Tuesday match saw Novak Djokovic play for the first time since early October when he won back-to-back indoor championships and&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.insidesport.in/tal-aviv-open-live-novak-djokovic-eyes-spot-in-tel-aviv-open-final-set-to-face-roman-safiullin-in-semifinal-follow-djokovic-vs-safiullin-live/'>
+        </a><a href='https://www.aninews.in/news/sports/tennis/novak-djokovic-makes-winning-start-in-title-defence-at-paris-masters20221102101245'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Tal Aviv Open LIVE: Novak Djokovic faces Roman Safiullin in Tel ...</h3>
+                <h3>Novak Djokovic makes winning start in title defence at Paris Masters</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS_oILMrMo4Mk2O1haZ6LhpwfyB51fnxRexo9bu9Ehvl7LzI3-_NcG-p3YpS_RVnjWojQnkT_hi" alt="Tal Aviv Open LIVE: Novak Djokovic faces Roman Safiullin in Tel ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Tal Aviv Open LIVE: Novak Djokovic eyes spot in Tel Aviv Open final, set to face Roman Safiullin in semifinal - Follow Djokovic vs Safiullin LIVE.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRa9bT_lSMIDrvv0CI9H-j_wJDlUc4AHaHXGs2ynHItJN_9t3602JBJoxgXdAGLp8LdQYIh49Kw" alt="Novak Djokovic makes winning start in title defence at Paris Masters" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Djokovic defeated the Paris-born American 7-6(1), 6-4 as he dominated the serve and was able to use that freedom to try to stop Cressy&#39;s thunderous delivery&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.eurosport.co.uk/tennis/atp-tel-aviv/2022/novak-djokovic-battles-past-best-friend0-vasek-pospisil-in-tel-aviv-open-quarter-finals_sto9166714/story.shtml'>
+        </a><a href='https://sports.ndtv.com/tennis/novak-djokovic-hits-the-ground-running-in-paris-3482339'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Novak Djokovic battles past &#39;best friend&#39; Vasek Pospisil in Tel Aviv ...</h3>
+                <h3>Novak Djokovic Hits The Ground Running In Paris</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTbG8-Yt47Bb7bMjxCLr1g2UTRfP6uMZPBwjlfqUI_qmkDSK3qjRt8uBV9HvIhCnwPa71aFBBhv" alt="Novak Djokovic battles past &#39;best friend&#39; Vasek Pospisil in Tel Aviv ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Novak Djokovic beat Canada&#39;s Vasek Pospisil 7-6, 6-3 to reach the semi-finals of the Tel Aviv Open.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTIwh3ASXANZqGSh785DeoJuMs_a12J_zBFmX7_QebOMPMr8lrrd4o2SgSzMBjE5MpEsgHBugXf" alt="Novak Djokovic Hits The Ground Running In Paris" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Novak Djokovic began the defence of his Paris Masters title with a clinical 7-6 (7/1), 6-4 second round win against American Maxime Cressy on Tuesday.</p></div>
             </div>
         </a>
         </Template></>;

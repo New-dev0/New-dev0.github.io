@@ -11,56 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Juventus vs PSG"/>
         <meta name="description" content="Trending News about Juventus vs PSG" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Juventus vs PSG</h1>
-            <Image width={800} height={500} src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt89895fde5dd8031d/6316483796b796322ddff2cc/goal---web-two-way-split--4d79ffd1-631a-41e3-ada2-f6068fc6ca9e.jpeg" alt="Juventus vs PSG"/>
+            <Image width={800} height={500} src="https://ss-i.thgim.com/public/incoming/e8p2gd/article66088790.ece/alternates/FREE_1200/Italy_Soccer_Champions_League_35793.jpg" alt="Juventus vs PSG"/>
             <h3>Recent News</h3>
-            <a href='https://www.goal.com/en-in/news/psg-vs-juventus-live-stream-tv-channel-kick-off-how-to-watch/blt9d85fdf0af55b17e'>
+            <a href='https://sportstar.thehindu.com/football/champions-league/juventus-vs-psg-live-score-champions-league-ucl-updates-messi-neymar-mbappe-juve-vs-paris-saint-germain/article66088344.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Juventus vs PSG: Live stream, TV channel, kick-off time &amp; how to ...</h3>
+                <h3>Juventus 1-2 PSG Highlights: Mendes ensures Champions League ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSbeujvek1L6RNwxNaNuxEe6IJDBays-zBnS2QO6sbdRwlLQqOEasxLGyE3WiRebs63JtCexqbZ" alt="Juventus vs PSG: Live stream, TV channel, kick-off time &amp; how to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Here&#39;s how you can watch Juventus vs PSG on TV and stream the game live in the United Kingdom, United States &amp; India.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS3mFw9R0tUmr1iRvCRZM38sEA9urkl__KxuyC8nd9L_wh67nR2MKQFGmNjtSHMz4TUY23xLHk7" alt="Juventus 1-2 PSG Highlights: Mendes ensures Champions League ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A touch off his first touch by Nuno Mendes was enough to secure three points for Paris Saint-Germain as the French side completed a double over Juventus in the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.cbssports.com/soccer/news/juventus-vs-psg-live-stream-champions-league-prediction-tv-channel-how-to-watch-online-time-news-odds/'>
+        </a><a href='https://www.goal.com/en-in/news/juventus-vs-psg-lineups-live-updates/blta3aa8f1eb6487a63'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Juventus vs. PSG live stream: Champions League prediction, TV ...</h3>
+                <h3>Juventus vs Paris Saint-Germain : Lineups and LIVE updates</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQsRuShAGvW5nVNJ8X5ncQuxHHAJr4795PShOkqqL4RBvPLwcy_z4nYvbmMXMbvm47UZuq5QcoJ" alt="Juventus vs. PSG live stream: Champions League prediction, TV ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Juventus will fight for their continental future when they host Paris Saint-Germain in UEFA Champions League Group H on Wednesday.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR3pCaeMCQXkIa47-taQgjOjjD5msEFLDYs3cQi_uRFOcHV3cP45PVnyt0LnAUy23vqR8gYwV6d" alt="Juventus vs Paris Saint-Germain : Lineups and LIVE updates" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Juventus aim to end their UCL campaign on a high when they host table toppers PSG in Turin.</p></div>
             </div>
-        </a><a href='https://talksport.com/football/1234591/juventus-vs-psg-live-commentary-lionel-messi-champions-league-kick-off-time-team-news-how-to-follow-live-stream/'>
+        </a><a href='https://www.cbssports.com/soccer/news/juventus-vs-psg-odds-predictions-how-to-watch-live-stream-2022-uefa-champions-league-picks-for-nov-2/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Juventus vs PSG LIVE commentary: Lionel Messi aims to break ...</h3>
+                <h3>Juventus vs. PSG odds, predictions, how to watch, live stream: 2022 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRVmtrJVPGH_02-sGLjYRZ5zN6QDhdhW74ccC5rJOW9dT-ipJl77PfFu8B8T0NZ8y8Tz81SIFjt" alt="Juventus vs PSG LIVE commentary: Lionel Messi aims to break ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Juventus welcome Paris Saint-Germain to Italy in the Champions League after missing out on qualification last time out.Juve were beaten 4-3 by B.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR-E6C5Eqt8XV9iOxhd6N6GY5ggONvHUNttmURR3eV11_gatNH16MUUv4peKum7jqKBKdNcqg1y" alt="Juventus vs. PSG odds, predictions, how to watch, live stream: 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Martin Green locked in best bets for Wednesday&#39;s Juventus vs. PSG UEFA Champions League 2022 match.</p></div>
             </div>
-        </a><a href='https://www.standard.co.uk/sport/football/juventus-vs-psg-prediction-kick-off-time-tv-live-stream-team-news-2022-latest-h2h-results-odds-champions-league-preview-b1036638.html'>
+        </a><a href='https://www.insidesport.in/juventus-vs-psg-live-french-champions-psg-aim-to-top-group-h-with-a-win-against-struggling-juventus-follow-live/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Juventus vs PSG HIGHLIGHTS: JUV 1-2 PSG, Kylian Mbappe ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSn8pUaKDZMBol77NbjmIwDGts0OOaMo2ybiUfoCAqypel6zXHLIIW7hcYO2mT61x8g9jBzrSdl" alt="Juventus vs PSG HIGHLIGHTS: JUV 1-2 PSG, Kylian Mbappe ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Juventus vs PSG HIGHLIGHTS: JUV 1-2 PSG, Kylian Mbappe STARS PSG win, Juventus conclude campaign on bitter note- CHECK HIGHLIGHTS OF CHAMPIONS LEAGUE.</p></div>
+            </div>
+        </a><a href='https://www.blackwhitereadallover.com/2022/11/2/23432348/juventus-paris-saint-germain-2022-champions-league-preview-team-news-schedule-how-to-watch'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Juventus vs. PSG match preview: Time, TV schedule, and how to ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQygwEBpsm9gfGU8DZz9JJh6LrAsfaTeSLNx_ScwrgGCdl0pFkKg0VnNi-RDXlGzXul1rK_0B2V" alt="Juventus vs. PSG match preview: Time, TV schedule, and how to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>All Juventus has to do to finish third and head into the Europa League come the new year is to simply avert any sort of disaster against Paris Saint-Germain on&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.standard.co.uk/sport/football/juventus-vs-psg-prediction-kick-off-time-tv-live-stream-team-news-2022-latest-h2h-results-odds-champions-league-preview-today-b1036638.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Juventus vs PSG: Prediction, kick-off time, TV, live stream, team ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRC9JjVZNqzUyLUdNx0WpISvz6fU4T2GSd35nBlmJEyoETfUuoYIF4uRBol10zBNqf6zpKHhVR1" alt="Juventus vs PSG: Prediction, kick-off time, TV, live stream, team ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>There is still plenty to play for in Group H as beleaguered Juventus host Paris Saint-Germain on Wednesday.</p></div>
-            </div>
-        </a><a href='https://www.sportsmole.co.uk/football/juventus/champions-league/team-news/team-news-juventus-vs-psg-injury-suspension-list-predicted-xis_498320.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Team News: Juventus vs. Paris Saint-Germain injury, suspension list ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQzEg9VdbQ5brJH-_S747NvUSquhO2WOO33vrnoyQ5trdPtP5KvyksqCpQzfPlZvACVV_XCoQcb" alt="Team News: Juventus vs. Paris Saint-Germain injury, suspension list ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Sports Mole rounds up all of the latest injury and suspension news ahead of Wednesday&#39;s Champions League clash between Juventus and Paris.</p></div>
-            </div>
-        </a><a href='https://www.sportskeeda.com/football/juventus-vs-psg-where-watch-india-usa-uk'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Juventus vs PSG: Where to watch in India, USA and UK | UEFA ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQm3wZLUX5ciLgN-Jq2hKqk5i5iX2N-mdkzXzgbEX2-AJPtOMPfqrzPLH2WfIv2EAfWIR97Se7S" alt="Juventus vs PSG: Where to watch in India, USA and UK | UEFA ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The UEFA Champions League returns to the fold with another round of fixtures this week as Juventus lock horns with Christophe Galtier&#39;s impressive PSG side&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.news18.com/news/football/juventus-vs-paris-saint-germain-live-streaming-when-and-where-to-watch-champions-league-live-coverage-on-live-tv-online-6285541.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Juventus vs Paris Saint-Germain Live Streaming: When and Where ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRQEO0ii5yGlcJAapAvyrgHzqFlFeHs8POlyL8oDxz1CJDJjeTJzzmmYRgP_4X--gJ1f8Wd8SAa" alt="Juventus vs Paris Saint-Germain Live Streaming: When and Where ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Juventus vs Paris Saint-Germain Live Streaming of Champions League Match: Here you can get all the details as to When, Where, and How you can watch the&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Paris Saint-Germain and Juventus face off tonight after very different times of it in Group H.</p></div>
             </div>
         </a>
         </Template></>;

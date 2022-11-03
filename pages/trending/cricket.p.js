@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Cricket"/>
         <meta name="description" content="Trending News about Cricket" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Cricket</h1>
-            <Image width={800} height={500} src="https://images.livemint.com/img/2022/10/27/600x338/women-cricket_1666855607857_1666855608242_1666855608242.jpg" alt="Cricket"/>
+            <Image width={800} height={500} src="https://images.indianexpress.com/2019/08/henry-olonga-1200.jpg" alt="Cricket"/>
             <h3>Recent News</h3>
-            <a href='https://www.livemint.com/sports/cricket-news/bcci-announces-equal-match-fee-for-men-and-women-cricketers-here-s-how-much-they-will-get-11666855022192.html'>
+            <a href='https://indianexpress.com/article/sports/cricket/paid-price-for-standing-up-to-mugabe-dont-miss-cricket-much-henry-olonga-8244882/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>BCCI announces equal match fee for men and women cricketers ...</h3>
+                <h3>Paid price for standing up to Mugabe, don&#39;t miss cricket much: Henry ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSpRvnvwd1Rg08geYB7pv7P5yGBwgg9vPoMbNQMUmKkSMp68YU8VgXqQCO0gDorEIbAKgWN1BYO" alt="BCCI announces equal match fee for men and women cricketers ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Indian women cricketers will be paid the same match fee as their male counterparts. .For test cricket match, the fee will be ₹15 lakh, for One Day&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ1nkqMjXc3zvMFZAZLFFaT5tbJ1NKzeO8Wq93nIxwun_rCQI5ho_5AORIrP8EVe3wry_96i_jucw" alt="Paid price for standing up to Mugabe, don&#39;t miss cricket much: Henry ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The lasting memory of Olonga in a Zimbabwe jersey was the 2003 World Cup when he and Andy Flower wore black arm-bands in one of the games as a protest&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.hindustantimes.com/india-news/men-women-cricketers-to-get-equal-match-fees-101666895329358.html'>
+        </a><a href='https://www.hindustantimes.com/cities/chandigarh-news/u16-cricket-chandigarh-bundles-out-for-238-against-haryana-101667419242131.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Men, women cricketers to get equal match fees</h3>
+                <h3>U-16 cricket: Chandigarh bundles out for 238 against Haryana</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRm-Soxn4GKtNDGQDU2fwngUj7Si5k0QgBeNgEljAfy6vDq4lDat6lyAmqfmjUbVaKLEYEFCsvt" alt="Men, women cricketers to get equal match fees" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>From once being a cricket body reluctant to integrate women&#39;s cricket under its wings, the Board of Control for Cricket in India (BCCI) on Thursday took a&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTULFvI7xioOo6BEfY-MI_zibCcY8JrvReEaG7DnxWDifFpTiWTRGor19yA25PkNKU4SZ8oViWC" alt="U-16 cricket: Chandigarh bundles out for 238 against Haryana" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>In reply to Haryana&#39;s 274 on the second day of 2nd Balramji Das Tandon Under -16 multi-day&#39;s cricket tournament being played at Sector 16,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.icc-cricket.com/news/2876993'>
+        </a><a href='https://www.theguardian.com/sport/2022/nov/02/travis-bavesi-the-statsguru-visionary-who-transformed-cricket-spin'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>BCCI confirms equal match fees for India cricketers</h3>
+                <h3>Travis Basevi: the Statsguru visionary who transformed cricket</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSSrpoluOopNHkW4kJJHO5kpCwEJe8YOUn_kx4K_jVG-5RjsFXTAWKz-I8Dy8adBF2q6oA9FTz5" alt="BCCI confirms equal match fees for India cricketers" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>BCCI secretary Jay Shah confirmed that India&#39;s women cricketers would earn the same match fees as their male counterparts in international matches going&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRI-YxHLl0Y3s1nLZnwercjlrler3lNSulDljCnM3gTC9WVTEm_UWRs4XFJ5fXfpVQuNg3YiQa8" alt="Travis Basevi: the Statsguru visionary who transformed cricket" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The man behind Cricinfo&#39;s search engine, who has died aged 47, was a one-off genius who paved the way for today&#39;s data-driven game.</p></div>
             </div>
-        </a><a href='https://indianexpress.com/article/sports/cricket/bcci-announces-pay-equality-for-women-internationals-8232746/'>
+        </a><a href='https://navbharattimes.indiatimes.com/sports/cricket/t20worldcup/news/what-is-duckworth-lewis-law-how-does-it-work-which-changes-the-result-of-a-cricket-match/articleshow/95256573.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>BCCI bats for pay parity, same match fees for women &amp; men: &#39;New ...</h3>
+                <h3>DLS Method: जानिए उस DLS नियम के बारे में जिसने भारत को दिला दी 5 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRNuf06Av19Yerz5blMptiLZOxMDG2PNsD8jaBTwymg4WYXF-cJx6P8zSWsmFl2CFf1Fo3Dl6kF" alt="BCCI bats for pay parity, same match fees for women &amp; men: &#39;New ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>IN A significant decision, the Board of Control for Cricket in India (BCCI) on Thursday announced a “pay equity policy”, saying that its&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRi5V2wMhRUG_sQCX63mpdQrgjdlBTMR3_oRR16Soz-psdmJoEI8VJ2w1lhlkhHhIR9R5uyt0Rp" alt="DLS Method: जानिए उस DLS नियम के बारे में जिसने भारत को दिला दी 5 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>डकवर्थ लुईस का नियम क्रिकेट फैंस को हमेशा से चकराती रही है। इस नियम के तहत दिए जाने&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.thehindu.com/sport/cricket/both-men-and-women-cricketers-will-be-paid-same-match-fee-says-jay-shah/article66060023.ece'>
+        </a><a href='https://www.thequint.com/news/webqoof/clip-of-zimbabwe-cricket-team-dancing-to-jai-shri-ram-is-edited-fact-check'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>BCCI implements equal match fees for both men and women ...</h3>
+                <h3>No, Zimbabwe&#39;s Cricket Players Are Not Dancing to &#39;Jai Shri Ram&#39; in ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTroQMKH-cmoKheOKLRqMmi4Vzm79SjZAB-TONd-c2HWRirJ4pksK6l3MiYpGLP-tdKUdSA1dca" alt="BCCI implements equal match fees for both men and women ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mr. Shah said &quot;Pay equity was my commitment to our women cricketers and I thank the apex council for their support.&quot;</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQKfznvCrKfdLnaXUlhLWfIBHw4L9p0QAkrCswkFU5HWhsZ7C-UiNpihs3wPrMaCDvXP5yd-K6h" alt="No, Zimbabwe&#39;s Cricket Players Are Not Dancing to &#39;Jai Shri Ram&#39; in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A video being shared on social media shows people associated with the Zimbabwean cricket team dancing along to song called &#39;Jai Shri Ram&#39;.</p></div>
             </div>
-        </a><a href='https://newsroomodisha.com/indias-female-cricketers-to-earn-same-amount-of-match-fees-as-the-men-announces-jay-shah-2/'>
+        </a><a href='https://zeenews.india.com/hindi/zee-hindustan/sports-news/live-updates/ind-vs-ban-live-cricket-score-india-vs-bangladesh-t20-world-cup-2022-ball-by-ball-commentary-scorecard-follow-live-updates/1420948'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>India&#39;s female cricketers to earn same amount of match fees as the ...</h3>
+                <h3>IND vs BAN Highlights: भारत ने लगभग पक्की की सेमीफाइ</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTGGUpmMm-gT3KcBSjMoM6IUCaDv4VEvs9v_IkqI7JF-WmzQvKD8SXB_IJ-6qy6qYirJYeD0Y_j" alt="India&#39;s female cricketers to earn same amount of match fees as the ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mumbai: In a landmark moment to tackle gender &#39;discrimination&#39; in cricket, Jay Shah, the Secretary of the Board of Control for Cricket in India (BCCI),&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ0Mv1ankqWBgOz90Q4yjMQ9Oa7lA1_muQlgb1HpnuveMQq-MkcEnkLyxNljje0I7fm-449FrQf" alt="IND vs BAN Highlights: भारत ने लगभग पक्की की सेमीफाइ" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>IND vs BAN Live Cricket Score: भारत और बांग्लादेश के बीच एडिलेड के मैदान पर खेले जाने वाले मैच में&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.herzindagi.com/hindi/society-culture/indian-men-and-women-cricket-needs-more-similarities-article-212053'>
+        </a><a href='https://www.bbc.com/hindi/sport-63485498'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>देर आए दुरुस्त आए BCCI, पर अभी भी महिला क्रिकेट टीम की लंबी जंग है बाकी</h3>
+                <h3>भारत और बांग्लादेश मैच पर पाकिस्तान के क्रिकेट प्रेमी कर रहे हैं बारिश की ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQCqtmBBkJobOyBW-Fe2wlplmHov_dAFm_sV-Nrslpjh8THUkiGZ-gWai8078Qtm1quL27nz7ar" alt="देर आए दुरुस्त आए BCCI, पर अभी भी महिला क्रिकेट टीम की लंबी जंग है बाकी" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>BCCI की तरफ से भारतीय महिला क्रिकेट टीम की सैलरी में बढ़ोतरी की गई है और ये बहुत ही अच्छा&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSHXc73tIjCTtUjCB5w-GuwzidVC7QZsPgFrPJC3wy_SieV-lMDTAVm-QsqphOwmg34vH2VyYfS" alt="भारत और बांग्लादेश मैच पर पाकिस्तान के क्रिकेट प्रेमी कर रहे हैं बारिश की ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>बांग्लादेश ने बेहतरीन बल्लेबाज़ी करते हुए सात ओवरों में 66 रन बना लिए हैं. तभी बारिश आ गई&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.usacricket.org/media-release/usa-cricket-announces-inaugural-annual-volunteer-of-the-year-award-winners/'>
+        </a><a href='https://www.amarujala.com/live/cricket/cricket-news/ind-vs-ban-live-cricket-score-t20-world-cup-2022-super-12-india-vs-bangladesh-t20i-match-at-adelaide-oval'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>USA Cricket Announces Inaugural Annual Volunteer of the Year ...</h3>
+                <h3>IND vs BAN T20: टी20 वर्ल्ड कप में भारत की तीसरी जीत, बारिश से ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ4PqdJEmljAioOmx5VGHUbuhAkxAUOF_1NoiJ7YJ-TSHs-R9q7cil3uawasL5f5-QswV5pk5i2" alt="USA Cricket Announces Inaugural Annual Volunteer of the Year ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>USA Cricket is delighted to announce the winners of its inaugural Volunteer of the Year Awards that recognize the commitment, dedication, and excellence&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTVUANBmAgd1o8MdZ7fNREbN7G4c9vigvSLMHp5Lof69AkTtmfTFcSNfDc8_n0wr78SPoKMlChJ" alt="IND vs BAN T20: टी20 वर्ल्ड कप में भारत की तीसरी जीत, बारिश से ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Live Cricket Score, India vs Bangladesh (IND vs BAN) T20 Match: नमस्कार, अमर उजाला के लाइव ब्लॉग में आपका स्वागत है&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.livehindustan.com/cricket/story-india-cricket-men-and-women-cricketers-to-receive-same-pay-says-bcci-secretary-jay-shah-7271241.html'>
+        </a><a href='https://www.manoramaonline.com/sports/cricket/2022/11/02/chinese-cricket-fan-cheers-for-india-in-hindi.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>महिला और पुरुष क्रिकेटरों को मिलेगी बराबर मैच फीस, BCCI सचिव जय शाह ...</h3>
+                <h3>ഇന്ത്യന്‍ ക്രിക്കറ്റ് ടീമിന് &#39;കട്ട ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ4iecK3IFZp2uF-n030dsrTOYrRvJWvhJKEG5e40mipJuU6Wl_5x5pBUWRG24J71LGQoL5Q94t" alt="महिला और पुरुष क्रिकेटरों को मिलेगी बराबर मैच फीस, BCCI सचिव जय शाह ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>बीसीसीआई सचिव जय शाह ने बड़ा ऐलान करते हुए कहा कि भारत के पुरुष और महिला खिलाड़ियों को&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTRzz04SV9smDkv_nnomw5DTeS1fEKPeDKwy5j_ekRvkrGKDB4Y0jHWd2tykzN5tXcfJZTOuyGPyw" alt="ഇന്ത്യന്‍ ക്രിക്കറ്റ് ടീമിന് &#39;കട്ട ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Tags: T20 World Cup 2022 &middot; Indian Cricket Team. തൽസമയ വാർത്തകൾക്ക് മലയാള മനോരമ മൊബൈൽ ആപ് ഡൗൺലോഡ് ചെയ്യൂ.</p></div>
             </div>
-        </a><a href='https://www.aajtak.in/sports/cricket/story/bcci-women-cricketers-match-fee-same-as-male-counterparts-bcci-central-contract-2022-salary-difference-updates-tspo-1563226-2022-10-27'>
+        </a><a href='https://telugu.news18.com/photogallery/sports/from-ipl-to-maiden-call-in-team-india-here-is-young-bowler-yash-dayal-journey-srd-1489560.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>BCCI Womens Cricketer Income: कितने गुना बढ़ गई महिला क्रिकेटर्स ...</h3>
+                <h3>Cricket : IPLలో కోట్ల వర్షం.. ఇప్పుడు టీమిండియాలో స్థానం.. ఒక్క ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRXgtGJgIZZ31yUv5xu8-afnZBzz9et69A66imeTRV8rhRxAG8DKZFLNb7EEmvLbj7gSIXft1PH" alt="BCCI Womens Cricketer Income: कितने गुना बढ़ गई महिला क्रिकेटर्स ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>भारतीय क्रिकेट बोर्ड ने गुरुवार को एक ऐतिहासिक फैसला सुनाया है. बीसीसीआई एक नई पॉलिसी&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSgR8HT_z1KHnT11CylLid3yGfemw8EuU-m8LnG4jXt_Yzd-K-fZ9FKVYmM59uB7ANJoPo2_Nbl" alt="Cricket : IPLలో కోట్ల వర్షం.. ఇప్పుడు టీమిండియాలో స్థానం.. ఒక్క ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>From IPL To Maiden Call in Team India Here is Young Bowler Yash Dayal Journey srd - Cricket : బంగ్లాదేశ్‌ టూర్‌ కోసం బీసీసీఐ&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

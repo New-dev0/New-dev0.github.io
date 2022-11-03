@@ -7,72 +7,81 @@ import Image from "next/image";
 export default function Page() {
     const md = useMediaQuery(960);
     return <><Head>
-        <title>Avatar</title></Head><Template>
+        <title>Avatar</title>
+        <meta name="keywords" content="news,trending,latest,sports,breaking,top,Avatar"/>
+        <meta name="description" content="Trending News about Avatar" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Avatar</h1>
-            <Image width={800} height={500} src="https://img.etimg.com/thumb/msid-94410966,width-1070,height-580,imgsize-42274,overlay-etpanache/photo.jpg" alt="Avatar"/>
+            <Image width={800} height={500} src="https://images.indianexpress.com/2022/11/avatar-2-1200.jpeg" alt="Avatar"/>
             <h3>Recent News</h3>
-            <a href='https://economictimes.indiatimes.com/magazines/panache/avatar-strikes-box-office-gold-for-the-3rd-time-bags-rs-1-cr-through-advance-booking-in-india/articleshow/94410936.cms'>
+            <a href='https://indianexpress.com/article/entertainment/hollywood/avatar-the-way-of-water-trailer-james-cameron-sequel-8245216/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Avatar&#39; strikes box-office gold for the 3rd time, bags Rs 1 cr through ...</h3>
+                <h3>Avatar The Way of Water trailer: James Cameron&#39;s sequel promises ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSqF866KHQ8XDucUyVuQCxFnXgDiPUkEP0n07eRqeokPrOY9_oDAC1I7Sdt1iCGzQBUJaXc2Qno" alt="&#39;Avatar&#39; strikes box-office gold for the 3rd time, bags Rs 1 cr through ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>This is the third time the epic fantasy has been released in theatres. James Cameron&#39;s magnum opus &#39;Avatar&#39; lived up to its title of the &#39;highest grossing&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ6Oo-7FzY0552Zckv0Fr2KzqtlTeQZs0D1v00-dAm-Tgvu2klKeU3MDCqGjYFQFEGpsGxTfjGq" alt="Avatar The Way of Water trailer: James Cameron&#39;s sequel promises ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Avatar The Way of Water trailer: The long-awaited sequel to the biggest film in history is arriving in December. Check out what new sorcery director James&nbsp;...</p></div>
             </div>
-        </a><a href='https://navbharattimes.indiatimes.com/entertainment/hollywood-news/avatar-the-way-of-water-trending-on-twitter-people-got-surprise-from-james-cameron-on-national-cinema-day/articleshow/94412086.cms'>
+        </a><a href='https://economictimes.indiatimes.com/news/international/us/avatar-the-way-of-water-first-full-official-trailer-of-movie-gets-released/articleshow/95262905.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Avatar 2: नेशनल सिनेमा डे पर &#39;अवतार&#39; देखने गई ऑडियंस को मिला तगड़ा ...</h3>
+                <h3>&#39;Avatar: The Way Of Water&#39;: First full official trailer of movie gets ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQCONsyFn1kKpup-948MMyd7FNSMXQ73LUrqguJVkKagdyKxIDzA_c2BVjtT0dhOMJIrngv9K_F" alt="Avatar 2: नेशनल सिनेमा डे पर &#39;अवतार&#39; देखने गई ऑडियंस को मिला तगड़ा ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>नेशनल सिनेमा डे पर &#39;अवतार&#39; देखने गए लोगों को मेकर्स ने ट्रीट दी है। ये ट्रीट &#39;अवतार 2&#39; से&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTNNkuqQ1PuPbqV4_zxPrrz-6dramud1lHj1KPT3INMs8z5eFajgARvoKJJzGEhWRHUMiDBCcp8" alt="&#39;Avatar: The Way Of Water&#39;: First full official trailer of movie gets ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Disney will release the 20th Century Studios sci-fi adventure abroad on December 14. The US release date is December 16.</p></div>
             </div>
-        </a><a href='https://collider.com/avatar-rerelease-international-box-office-3-million/'>
+        </a><a href='https://collider.com/avatar-the-way-of-water-poster-sam-worthington-zoe-saldana/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Avatar&#39; Re-release Earns Additional $3.5 Million at International Box ...</h3>
+                <h3>New &#39;Avatar: The Way of Water&#39; Poster Teases an Epic Underwater ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSuk3J0skQg7RADPTBiA7RTHBMJosGbMAy39wu8Ru9aAo_mDklSZrsELtP8LloIhttrtXUyeIFm" alt="&#39;Avatar&#39; Re-release Earns Additional $3.5 Million at International Box ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>In Australia, the film opened third place at the box office, earning $400K, with 3D ticket sales accounting for 69% of the total gross. The film&#39;s performance&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTbivB63SsgsUFTnRcqBmfcI24_l6arc9XqmPqPjNGAFSuZNfM_KaOS1SLqTKCn8Q_g8yGdi_fJ" alt="New &#39;Avatar: The Way of Water&#39; Poster Teases an Epic Underwater ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Sam Worthington, Zoe Saldaña, Bailey Bass, and Britain Dalton take the spotlight on the new poster for James Cameron&#39;s Avatar: The Way of Water.</p></div>
             </div>
-        </a><a href='https://www.latimes.com/entertainment-arts/movies/story/2022-09-23/avatar-rerelease-sequels-sam-worthington'>
+        </a><a href='https://www.thehindu.com/entertainment/movies/avatar-the-way-of-water-new-trailer-a-gobsmacking-return-to-pandora/article66086774.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Why &#39;Avatar&#39; is back in theaters and previewing &#39;Avatar 2&#39;</h3>
+                <h3>&#39;Avatar: The Way of Water&#39; trailer: A gobsmacking return to Pandora ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQNp4hvLlxL0BpnyPyCLRGDNJLe4zkGunw4gGYFJ7ItGbg7M88AXDFcp3aWTKLsCAHlt3AM177s" alt="Why &#39;Avatar&#39; is back in theaters and previewing &#39;Avatar 2&#39;" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>As James Cameron&#39;s 2009 megahit &#39;Avatar&#39; heads back to theaters, Sam Worthington, Stephen Lang and Jon Landau revisit the epic and tease &#39;Avatar 2.&#39;</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTC0A6qWDha1Y7bfYGV0Ms1EuPPDjgaZ1-7NbLq4QDAi9t1uHCvZ_vxfV7URdq6-QfuqJ-d4_EY" alt="&#39;Avatar: The Way of Water&#39; trailer: A gobsmacking return to Pandora ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>James Cameron&#39;s film, starring Zoe Saldana and Sam Worthington among others, is set to release on December 16.</p></div>
             </div>
-        </a><a href='https://news.abplive.com/entertainment/avatar-re-release-all-set-to-create-box-office-numbers-fans-super-excited-for-avatar-sequel-1555024'>
+        </a><a href='https://www.cnet.com/culture/entertainment/avatar-way-of-water-trailer-dives-viewers-into-gorgeous-underwater-world/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Avatar Re- Release All Set To Create Box Office Numbers, Fans ...</h3>
+                <h3>&#39;Avatar: Way of Water&#39; Trailer Dives Into Gorgeous Underwater World</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSvWOffq0pSpnr8xP4YLXJ8vMEYU86yzBgMTeWYju0ZRsglmZNRqYzOGvN5bXQI7JhbZTvS7REG" alt="Avatar Re- Release All Set To Create Box Office Numbers, Fans ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Audiences are in awe of the remastered footage of Avatar in 4K, high dynamic range and 9.1 besides the long post-credits scene which has also been garnering&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSCOmDgiu_WiC_W5dLIOK4lWpU_AhjyDeaREhL1s7-ldamfZAP0v30M3LNygoXG5QT4rXChir5-" alt="&#39;Avatar: Way of Water&#39; Trailer Dives Into Gorgeous Underwater World" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The trailer for James Cameron&#39;s sequel takes moviegoers back to Pandora and the world of the Na&#39;vi.</p></div>
             </div>
-        </a><a href='https://www.hindustantimes.com/entertainment/hollywood/avatar-re-release-earns-1-crore-in-advance-bookings-in-india-targets-15-20-million-opening-globally-101663928422291.html'>
+        </a><a href='https://www.theguardian.com/film/2022/nov/02/james-cameron-releases-extended-trailer-for-avatar-the-way-of-water'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Avatar re-release earns ₹1 cr in India advance bookings, targets ...</h3>
+                <h3>James Cameron releases extended trailer for Avatar: The Way of ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS7TPJqbqYtPID38r0D3nUvtm9loUL3JGqRevACEIb6-YtK83pSfirVXRimFDolqoDYBhP9ghDB" alt="Avatar re-release earns ₹1 cr in India advance bookings, targets ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Avatar re-release has started strongly at the box office both in India and worldwide, registering healthy numbers and further strengthening the film&#39;s&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQQ1TNXUhSotCo1O7TknAVla6g5NacftwZeq_uGIIyDtVUo8t09VwP1Erb1W5iVlz-pr8j_76bO" alt="James Cameron releases extended trailer for Avatar: The Way of ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>New footage from the sequel to the highest-grossing movie of all time has been released on YouTube.</p></div>
             </div>
-        </a><a href='https://deadline.com/2022/09/avatar-rerelease-international-box-office-china-screening-1235124691/'>
+        </a><a href='https://telugu.news18.com/news/movies/james-cameron-avatar-the-way-of-water-official-trailer-released-sr-1490026.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Avatar&#39; Rerelease Sees $3.5M Across Two Days Offshore ...</h3>
+                <h3>Avatar 2 Trailer : అవతార్ 2 ట్రైలర్ చూశారా.. విజువల్ వండర్ అంతే..</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSEZn80q_5ojKWJixLJRh9eLK4jVfW3ZmJkPCySDoS3NoAJPVy64zevjD85Cvn_uyUute834K3H" alt="&#39;Avatar&#39; Rerelease Sees $3.5M Across Two Days Offshore ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>FRIDAY UPDATE: With its Thursday figures tallied, Disney&#39;s rerelease of James Cameron&#39;s Avatar has grossed $3.5M from 37 international box office markets.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSbMNd4FaPWSx5j2YRDCgrsRcUdFjuRj4MBymTMowy0KDl3dyhnES4Qw5p7dwj5Ut4ybs9_7tTi" alt="Avatar 2 Trailer : అవతార్ 2 ట్రైలర్ చూశారా.. విజువల్ వండర్ అంతే.." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Avatar 2 Trailer : దర్శకుడు జేమ్స్ కామెరాన్ (James Cameron) తన దర్శకత్వ ప్రతిభతో పండోరా అంటూ కొత్త&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.hollywoodreporter.com/movies/movie-features/avatar-re-release-how-james-cameron-2009-movie-1235225147/'>
+        </a><a href='https://www.sakshi.com/telugu-news/movies/james-cameron-avatar-way-water-official-trailer-out-now-1498649'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>How James Cameron and Jon Landau Remastered &#39;Avatar&#39; For Its ...</h3>
+                <h3>Avatar 2 Trailer: అవతార్‌ 2 ట్రైలర్‌ వచ్చేసింది</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRQNfUUv3NQhvEt9lz_3KcgZOSTZgngJ9mDTsmPy-oUBbrzEX2L4hi4wE0rnv-OJmeZ9R83yyd4" alt="How James Cameron and Jon Landau Remastered &#39;Avatar&#39; For Its ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Avatar is back in theaters, with the 2009 James Cameron movie getting an update for today&#39;s technology.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSFdKxR_8FhOe5d5NG6O3O5NpDC2aZpdjgyaqUb-FRvgu2CQfIss59cJ590XjqaiyBmPuiMII4m" alt="Avatar 2 Trailer: అవతార్‌ 2 ట్రైలర్‌ వచ్చేసింది" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>విజువల్‌ వండర్‌ అవతార్‌ మూవీ గురించి తెలియని సినీ ప్రేమికుడు ఉండడంటే అతిశయోక్తి కాదు.</p></div>
             </div>
-        </a><a href='https://www.zeebiz.com/trending/entertainment/news-avatar-is-back-remastered-version-re-releases-in-theatres-today-check-details-200283'>
+        </a><a href='https://zeenews.india.com/telugu/entertainment/james-cameron-avatar-2-avatar-the-way-of-water-trailer-delay-81753'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&quot;Avatar&quot; is back: Remastered version re-releases in theatres today ...</h3>
+                <h3>Avatar 2 New Trailer : మీరు కూడా ఇలా తయారయ్యారేంట్రా?.. అవతార్ ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTHLj2zVUfSJzHhQCMKmvK0H1KLE1-TXRLbOaDJ9zX7m0w3OnwAvjsgDF1bnIaDPo9phTJ9OZn2" alt="&quot;Avatar&quot; is back: Remastered version re-releases in theatres today ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Avatar re-release: James Cameron&#39;s movie is coming back to theatres in remastered 4K High Dynamic Range format, Disney and 20th Century have announced.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcShnxxOSmZrvcsMIy4IYcfML_dTZkY0feYsn1M_Z0I12xgtgdY0j4MLtTvA_1loRCG44dgXqOU5" alt="Avatar 2 New Trailer : మీరు కూడా ఇలా తయారయ్యారేంట్రా?.. అవతార్ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Avatar 2 New Trailer : మీరు కూడా ఇలా తయారయ్యారేంట్రా?.. అవతార్ ట్రైలర్ ఆలస్యంపై ట్రోల్స్. James Cameron&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.ntnews.com/cinema/james-cameron-visual-wonder-avatar-2-trailer-is-out-now-822754'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Avatar-2 Trailer | విజువల్‌ వండర్‌ అవతార్‌ 2 ట్రైలర్‌ వచ్చేసింది..వీడియో</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQxN_01HVRO-ZwdERXMgr_0VCc-xzVLVSBvlhhVVlok7RasbqeXh-QIMiqOZleWBli8qb1LLk5T" alt="Avatar-2 Trailer | విజువల్‌ వండర్‌ అవతార్‌ 2 ట్రైలర్‌ వచ్చేసింది..వీడియో" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>హాలీవుడ్‌ ఫిల్మ్‌ మేకర్‌ జేమ్స్‌ కామెరాన్‌ (James Cameron) సిల్వర్‌ స్క్రీన్‌పై సృష్టించిన ఈ&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
