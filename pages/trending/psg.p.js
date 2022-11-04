@@ -11,49 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,PSG"/>
         <meta name="description" content="Trending News about PSG" /></Head><Template>
             <h1 style={{fontSize: "30"}}>PSG</h1>
-            <Image width={800} height={500} src="https://ss-i.thgim.com/public/incoming/6z3liz/article66069888.ece/alternates/FREE_1200/AFP_32M64UB.jpg" alt="PSG"/>
+            <Image width={800} height={500} src="https://assets.telegraphindia.com/telegraph/2022/Nov/1667512560_1666048371_telemmglpict000311280256_trans_nvbqzqnjv4bquqlaxevitqzvgs-unrw1uun3pioiz0rwsaw6niwssz4.gif" alt="PSG"/>
             <h3>Recent News</h3>
-            <a href='https://sportstar.thehindu.com/football/psg-troyes-live-score-updates-ligue-1-commentary-goals-highlights-lineups-when-and-where-to-watch/article66069865.ece'>
+            <a href='https://www.telegraphindia.com/sports/football/benficas-six-stun-psg-into-second-spot/cid/1896072'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>PSG 4-3 Troyes, HIGHLIGHTS Ligue 1: Goals from Messi, Neymar ...</h3>
+                <h3>Benfica&#39;s six stun PSG into second spot</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS6jDNrwXhY52l_tOE5m3TXTohptYiNf1xA-HU3aNx5oC3WAmbeuZ2ITk9NH2vhdh7hvDmCq_6E" alt="PSG 4-3 Troyes, HIGHLIGHTS Ligue 1: Goals from Messi, Neymar ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Paris Saint Germain vs Troyes, Ligue 1: Catch the highlights, score, updates and commentary from the game at Parc des Princes.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSjIwjAI1YtatKNhhsyelzmlzLtsQ_pgnNfED_L_myxISboVPRVXuKtpbUqSU1herZ8NYgFNNgG" alt="Benfica&#39;s six stun PSG into second spot" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mbappe, who turned down a move to Real Madrid last summer, could face the Spanish champions if Monday&#39;s draw at Nyon picks them so.</p></div>
             </div>
-        </a><a href='https://www.ligue1.com/Articles/MATCH-REPORTS/2022/10/29/psg-paris-troyes-mbappe-messi-neymar-verratti'>
+        </a><a href='https://www.goal.com/en-in/news/mbappe-laments-lack-of-warning-psg-stars-losing-top-spot-champions-league-group/blt460c435a8f37f853'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>MNM fire again to keep PSG top</h3>
+                <h3>&#39;We did not know&#39; - Mbappe laments lack of warning for PSG stars ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS4vo60J7iywzUM6zFBF0BQ4a08xCHkoM_oTCMSp4kxJCqT2jWjkrxQjHZUctM_eopPsbNyvWtB" alt="MNM fire again to keep PSG top" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Kylian Mbappé, Neymar and Lionel Messi all featured among the goals as Paris Saint-Germain came back from trailing twice to Troyes to win 4-3 at the Parc&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR5kI8Ovm_hUX3ERsCyp9XpjkfKF7u1RsFfzTU8haMn6HZCxSSHmxS8zjxXzzt7bGTw_zYOZXS9" alt="&#39;We did not know&#39; - Mbappe laments lack of warning for PSG stars ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>has expressed his frustration over Paris Saint-Germain&#39;s failure to land top spot in their Champions League group.</p></div>
             </div>
-        </a><a href='https://www.dailypioneer.com/2022/sports/messi-helps-psg-fight-back-to-beat-troyes.html'>
+        </a><a href='https://sportstar.thehindu.com/football/champions-league/juventus-vs-psg-live-score-champions-league-ucl-updates-messi-neymar-mbappe-juve-vs-paris-saint-germain/article66088344.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Messi helps PSG fight back to beat Troyes</h3>
+                <h3>Juventus 1-2 PSG Highlights: Mendes ensures Champions League ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Messi helps PSG fight back to beat Troyes" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Lionel Messi starred with a goal and an assist as all of Paris Saint-Germain&#39;s front three scored in a 4-3 victory over Troyes on Saturday which restored&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS3mFw9R0tUmr1iRvCRZM38sEA9urkl__KxuyC8nd9L_wh67nR2MKQFGmNjtSHMz4TUY23xLHk7" alt="Juventus 1-2 PSG Highlights: Mendes ensures Champions League ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A touch off his first touch by Nuno Mendes was enough to secure three points for Paris Saint-Germain as the French side completed a double over Juventus in the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-in/news/psg-vs-troyes-lineups-and-live-updates/blt1fac92bfda7776ca'>
+        </a><a href='https://www.aljazeera.com/news/2022/11/3/champions-league-roundup-benfica-top-group-as-juventus-crash-out'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>PSG vs Troyes : Lineups and LIVE updates</h3>
+                <h3>Champions League roundup: Benfica top group ahead of PSG</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQNrcXkHmo_bCByBAkIa5VgpCpKpkdN5lx4L9iDau3gEQa92oPTHsYTtO5g7ZRD6wisq3EiMAkA" alt="PSG vs Troyes : Lineups and LIVE updates" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>PSG welcome mid-table Troyes to the Parc des Princes on Saturday afternoon, looking to extend their lead at the top of Ligue 1 table.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSU7ILkzRi6mD_Y8kWj1hKZnw4OrW5hLBEzqTEsKiDtIKI1DzcXVY71mTHPAQbP5U5qEicYuHlM" alt="Champions League roundup: Benfica top group ahead of PSG" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Benfica put six goals past Maccabi Haifa to claim the top spot in Group H ahead of PSG, as Real Madrid thrash Celtic.</p></div>
             </div>
-        </a><a href='https://www.onmanorama.com/sports/football/2022/10/29/lionel-messi-goal-psg-beat-troyes-ligue-1.html'>
+        </a><a href='https://www.ligue1.com/Articles/OTHER-COMPETITIONS/2022/11/02/psg-focused-on-topping-group-h'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Messi scores wonder goal as PSG win 7-goal thriller | Video</h3>
+                <h3>PSG focused on topping Group H</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQLn2JepArCSlWrkj5rtukRghv4DWBRjyF-felniLFNdY-yBSc85jPb33JuLDRwLgmvSFKAJSSH" alt="Messi scores wonder goal as PSG win 7-goal thriller | Video" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The French giants staged a comeback to register a 4-3 win against Troyes..Lionel Messi goal. psg beat troyes. ligue 1 football. mbappe. neymar goal.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTW_mgmuZSfu3SLHllulwID2qTIX3YpFxeKmjXLVdq9-OkuksL_LsMvcqxKbrksLzxJIMRlpWh7" alt="PSG focused on topping Group H" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>PSG will claim seeded status for the round of 16 should they emerge victorious from their trip to Turin and top Group H - but no-one is expecting an easy&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.outlookindia.com/sports/ligue-1-2022-23-lionel-messi-neymar-kylian-mbappe-score-in-paris-saint-germain-win-in-pics-photos-233504'>
+        </a><a href='https://theathletic.com/live-blogs/champions-league-scores-juventus-psg-chelsea-man-city/XhPZYjYF1f6s/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ligue 1 2022-23: Lionel Messi, Neymar, Kylian Mbappe Score In ...</h3>
+                <h3>How PSG beat Juventus 2-1 but lost out to Benfica at top of ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRrlOx2EaxsudmTWagea2VXK5qkbZw68UURlzDH_AFHlsH4-yT7oOMWUm9kot6UN8CpHEYvbKJy" alt="Ligue 1 2022-23: Lionel Messi, Neymar, Kylian Mbappe Score In ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Lionel Messi, Neymar and Kylian Mbappe all scored as Paris Saint-Germain beat Troyes 4-3 in the French Ligue 1 2022-23 on Saturday.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT92Whv6jXSMhAMrybT1iKcaaOripeMFX-nMdJV_Y3l_9wifkiAkP3TcVJDZSx_B46hQ_Ecs0jZ" alt="How PSG beat Juventus 2-1 but lost out to Benfica at top of ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Paris Saint-Germain beat Juventus 2-1 in their final Champions League group-stage fixture but were remarkably overtaken by Benfica as Group H winners.</p></div>
+            </div>
+        </a><a href='https://zeenews.india.com/football/lionel-messis-psg-vs-juventus-live-streaming-when-and-where-to-watch-uefa-champions-league-live-coverage-on-live-tv-online-2530239.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Lionel Messis PSG vs Juventus Live Streaming: When and Where to ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSrd9Tl2SHB3nYGb0eEG1Y5OXil2HGPXKtmvhbsgnFFqIUVqhz7U08S6psgb83H7AX4ZrGY9JmT" alt="Lionel Messis PSG vs Juventus Live Streaming: When and Where to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lionel Messi&#39;s Paris Saint-Germain will travel away from home to take on Italian giants Juventus for their UEFA Champions League fixture.</p></div>
+            </div>
+        </a><a href='https://www.goal.com/en-in/lists/champions-league-winners-losers-benfica-psg-simeone-european-exit/blt5e0cf390ccf864dd'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>The moment that changed PSG&#39;s season? Champions League ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSmfqXJ22gkm-NfrtSDQ6YCZjjJeNqCLP-ykWXsg_2IkEcAA-vxecWnwj1tZG4jj57addX80193" alt="The moment that changed PSG&#39;s season? Champions League ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A 92nd-minute strike from Benfica&#39;s Joao Mario means Lionel Messi, Neymar and Kylian Mbappe of the mighty Paris Saint-Germain will be among the second seeds&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.indiatoday.in/sports/football/story/champions-league-benfica-psg-vs-juventus-real-madrid-2292717-2022-11-03'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Champions League: Real Madrid thrash Celtic 5-1, Benfica pip PSG ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ2m86HiGBDQ4aU2dGz39hFECot_39J-20jfuM1W9wcg0_BVpWizKT5q_Bq10YFBUgjgxFlc4tg" alt="Champions League: Real Madrid thrash Celtic 5-1, Benfica pip PSG ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Champions League: Late drama in the competition meant that Benfica topped Group H after defeating Maccabi Haifa 6-1. This meant that PSG, despite winning&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.dailymail.co.uk/sport/football/article-11386043/Kylian-Mbappe-says-PSG-players-unaware-Benfica-doing-finished-second.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Kylian Mbappe says the PSG players were unaware of how Benfica ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcShdT8CcyYjH5rxZBlaV-O_nQYZv_sibKsYsMevhkf6SkjQCLCJQqKIT6OUMYW5VDYaIxgRXk_v" alt="Kylian Mbappe says the PSG players were unaware of how Benfica ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kylian Mbappe admits PSG&#39;s players DIDN&#39;T KNOW what was happening elsewhere after Benfica pipped them to top spot in their Champions League group on AWAY GOALS&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

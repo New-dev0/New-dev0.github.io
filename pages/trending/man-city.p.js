@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Man City"/>
         <meta name="description" content="Trending News about Man City" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Man City</h1>
-            <Image width={800} height={500} src="https://ss-i.thgim.com/public/incoming/893xbs/article66057416.ece/alternates/FREE_1200/GettyImages-1435597393.jpg" alt="Man City"/>
+            <Image width={800} height={500} src="https://images2.minutemediacdn.com/image/upload/c_crop,w_3000,h_1687,x_0,y_218/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/90min_en_international_web/01ggy9cgcktarvz04g7g.jpg" alt="Man City"/>
             <h3>Recent News</h3>
-            <a href='https://sportstar.thehindu.com/football/pep-guardiola-irked-by-man-city-ongoing-penalty-problems/article66057432.ece'>
+            <a href='https://www.90min.com/posts/man-city-vs-fulham-premier-league-team-news-lineups-prediction-5-11-2022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Pep Guardiola irked by Man City&#39;s ongoing penalty problems</h3>
+                <h3>Man City vs Fulham - Premier League: Team news, lineups ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT97t7QBkeUEfRODr6HJIdtPlpW_aI77taojyPsa0v3jLs6TsVMPDZYiQ_e-j54Cud0bJYVaKHw" alt="Pep Guardiola irked by Man City&#39;s ongoing penalty problems" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Since Guardiola took charge of City in 2016, the team has failed to score 25 of its 80 penalties in all competitions — excluding shootouts.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRpZ5jbQDu6uLqs7E8zoZjh3xxbKJKnG9Zd8bN_f9xodqhftiyr6BwcuRVieC4NrPOiiXcFbHYu" alt="Man City vs Fulham - Premier League: Team news, lineups ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Manchester City host Fulham on Saturday afternoon in a meeting between the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-in/lists/man-city-winners-losers-ratings-haaland-draw-dortmund-return/blt35493e10f791bce8'>
+        </a><a href='https://www.mancity.com/news/club/manchester-city-club-statement-v-sevilla-63803097'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Man City winners, losers and ratings as Haaland halted in dour draw ...</h3>
+                <h3>Club statement: Manchester City v Sevilla FC</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTlyOE9gQMa9kE7TetWB8CGcHXabLGzqcnCYSJraeOmzCyi8Aipe6neTEQ2w4rbwuCZwI_21HaR" alt="Man City winners, losers and ratings as Haaland halted in dour draw ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Manchester City striker Erling Haaland failed to fire on his return to Borussia Dortmund as Manchester City were held to a dour 0-0 draw at Signal Iduna&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQnYXPHSi-DhoO_7ATgV5sM0SulJ6-FvgbiYub1DmjV2QcC37zGXqmzgTOq_xOVkDvz_yEkJJBe" alt="Club statement: Manchester City v Sevilla FC" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Manchester City strongly condemns the racist abuse that Rico Lewis was subject to from Sevilla supporters at yesterday&#39;s match.</p></div>
             </div>
-        </a><a href='https://sportstar.thehindu.com/football/champions-league/ucl-borussia-dortmund-vs-manchester-city-live-steaming-info-squads-predicted-xi-bor-vs-mci-updates-highlights/article66053633.ece'>
+        </a><a href='https://www.goal.com/en-in/news/fantastic-man-city-wonderkid-lewis-lauded-guardiola-stunning-debut-sevilla/blt295d5090e55c11b2'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Highlights Dortmund 0-0 Manchester City, UEFA Champions ...</h3>
+                <h3>&#39;Fantastic&#39; Man City wonderkid Lewis lauded by Guardiola after ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQc-u9m7w2Ew4td-NF75UFCid-5jZfIgAaXklt15tUIAWxh8DNlUEGnNtYBN1UMPrhd3M-8YFWg" alt="Highlights Dortmund 0-0 Manchester City, UEFA Champions ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Borussia Dortmund vs Manchester City: Highlights of the BOR vs MCI UEFA Champions League from the Signal Iduna Park stadium in Dortmund, Germany.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS-ZhXO6XmVIw-m3a2veus2ABqGFsm009xpXwMyIjnx19fUyFO5eXBizF77G0FYkJzUDyu-lnGH" alt="&#39;Fantastic&#39; Man City wonderkid Lewis lauded by Guardiola after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Pep Guardiola hailed Manchester City&#39;s 17-year-old sensation Rico Lewis after he scored on his full senior debut against Sevilla.</p></div>
             </div>
-        </a><a href='https://www.hindustantimes.com/sports/football/haaland-frustrated-on-dortmund-return-as-man-city-draws-00-101666751445557.html'>
+        </a><a href='https://www.mancity.com/citytv/mens/manchester-city-pre-fulham-training-video-63803094'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Haaland frustrated on Dortmund return as Man City draws 0-0</h3>
+                <h3>All eyes on Premier League clash with Fulham</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQZKNs2HhdZUjx-c-bLKJBFlfA-R3KPT_U03uea0_BtEN2ZsuV02KpQJFZorSKpybqvUj74b3q5" alt="Haaland frustrated on Dortmund return as Man City draws 0-0" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Dortmund goalkeeper Gregor Kobel also saved a second-half penalty from Riyad Mahrez to earn Dortmund the point it needed to be sure of finishing second in&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQtpnCU2lufMjht1B8HZbHJXYy-VZE8jNotNcPpdqiEkh8JSOxXc3JLCNaz0soBoITssCSOuVYT" alt="All eyes on Premier League clash with Fulham" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>It was straight back to work for City on Thursday as the focus switched to domestic issues – and Saturday&#39;s crucial Premier League home game against Fulham.</p></div>
             </div>
-        </a><a href='https://www.forbes.com/sites/manuelveth/2022/10/25/mats-hummels-dortmund-star-underlines-germany-ambitions-against-man-city/'>
+        </a><a href='https://www.mancity.com/news/club/cityplay-launch'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mats Hummels: Dortmund Star Underlines Germany Ambitions ...</h3>
+                <h3>Manchester City and Playermaker launch CITYPLAY wearable ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS7HAihkEaIjntYQg6Dr-hBjPPQcnzgdKVAb4fNJBXrGkAPv1micL6pr4aRpXoGCQVpa64KJAT5" alt="Mats Hummels: Dortmund Star Underlines Germany Ambitions ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mats Hummels has further underlined his national team ambitions with an outstanding performance against Manchester City on Tuesday night.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRdIjPpnFBQWsKIdYPGCtVM9EjwHi-EEpz_7mH-bv2z7xwPuu6PJMoadYTYqjaPPSa6gSAUL9qj" alt="Manchester City and Playermaker launch CITYPLAY wearable ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>CITYPLAY combines Playermaker&#39;s smart wearable football tracker - currently used within Man City&#39;s Academy to drive insight and provide analysis - with&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-in/news/guardiola-admits-man-city-penalty-problem-champions-league-mahrez-miss-dortmund/bltcf2ae5e050d09bcb'>
+        </a><a href='https://www.westlondonsport.com/fulham/silva-wants-fulham-to-embrace-daunting-trip-to-man-city'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Guardiola admits Man City&#39;s &#39;penalty problem&#39; could derail ...</h3>
+                <h3>Silva wants Fulham to &#39;embrace&#39; daunting trip to Man City</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRjmWnUbCUw1piUs78LT16DivFGU-ZbJ9JVuElvAVvXp-Pu_fhgpGTmjD_ouUUL832xgVLgWNUg" alt="Guardiola admits Man City&#39;s &#39;penalty problem&#39; could derail ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Pep Guardiola has admitted that Manchester City&#39;s &#39;&#39;penalty problem&#39;&#39; could hurt their Champions League ambitions. City held to a draw by Dortmund; Mahrez&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTLkAd_HuLqLLexXNl-vl4i7Cq0A3cRRUu9TE4iOrjflD_AvmVG4QjQ26IoWaNSLU3EOuCNgGdD" alt="Silva wants Fulham to &#39;embrace&#39; daunting trip to Man City" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Marco Silva admits Fulham face a daunting prospect taking on Manchester City on Saturday, but wants his players to relish the challenge.</p></div>
             </div>
-        </a><a href='https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-mahrez-penalty-guardiola-25356982'>
+        </a><a href='https://www.mancity.com/citytv/mens/manchester-city-champions-league-group-stage-goals-63803079'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Man City have two obvious Haaland penalty deputies after Mahrez ...</h3>
+                <h3>Watch: Every goal from City&#39;s Champions League group games</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRgw_EwMoFb-DIpGUOCPfunG-eeDmlXTC5n3B0OJF2YwjtT0JW5AsXBAqs4tHXqHzKfi4IsmjE0" alt="Man City have two obvious Haaland penalty deputies after Mahrez ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Manchester City have now missed 25 of the 80 penalties they have taken during Pep Guardiola&#39;s time as manager.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQWu7xIJZ32jwMJG2NgHwu-HyM3xE8oBj9WLdUBUs_cOYNzIGJfmg7c3SyeJqY2a-ntaM1kIEXa" alt="Watch: Every goal from City&#39;s Champions League group games" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>With Champions League football put to bed until February 2023, you can relive all the goals from our games with Dortmund, Copenhagen and Sevilla in the video&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-city-stefan-ortega-debut-25364072'>
+        </a><a href='https://www.insidesport.in/man-city-vs-fulham-live-streaming-high-flying-manchester-city-targets-top-spot-of-points-table-against-fulham-check-team-news-playing-xi-live-streaming-follow-live/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Three Man City players react to Stefan Ortega after debut vs ...</h3>
+                <h3>Man City vs Fulham LIVE Streaming: High Flying Manchester City ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRUTzFqVJRv3M_flEfUijvi8ZEXx0I5M4_Ttf1ncM2paEoAoNWacvArYhOu-KIIM0NwwA2zS2nx" alt="Three Man City players react to Stefan Ortega after debut vs ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Pep Guardiola had rung a number of changes to the starting XI with Kevin De Bruyne benched while Julian Alvarez was handed his fourth start of the season.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTbdW209pRUtbi9KILZWiLrgpe3BpkvhL_0LGaKrppMUA42rtjd4bBmw7DCr9g23XU05Vu-Rzbv" alt="Man City vs Fulham LIVE Streaming: High Flying Manchester City ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Man City vs Fulham LIVE Streaming: Premier League LIVE – Manchester City will be eyeing to topple Arsenal as they eye all 3 points against Fulham.</p></div>
             </div>
-        </a><a href='https://www.planetsport.com/soccer/news/stefan-ortega-delighted-keep-clean-sheet-man-city-debut'>
+        </a><a href='https://www.sportsmole.co.uk/football/man-city/preview/preview-man-city-vs-fulham-prediction-team-news-lineups_498706.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Stefan Ortega delighted to keep a clean sheet on Man City debut</h3>
+                <h3>Preview: Manchester City vs. Fulham - prediction, team news, lineups</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQHERb8j5qehSFCbJ8nGq91m7mm9fE5hTof9kQQCbbmeL8E6TsIfWh36l7hQrhQDEVPHQAIhUXb" alt="Stefan Ortega delighted to keep a clean sheet on Man City debut" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Stefan Ortega described his Manchester City debut as perfect after keeping a clean sheet in the goalless Champions League draw away to Borussia Dortmund&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRM1zqFBSkrBRNy4L8HZtJkTuC1ozPdSxKW4hQy42iuyQSE34PFz_ahNikZfPQSdiCVS7xVqHid" alt="Preview: Manchester City vs. Fulham - prediction, team news, lineups" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Sports Mole previews Saturday&#39;s Premier League clash between Manchester City and Fulham, including predictions, team news and possible lineups.</p></div>
             </div>
-        </a><a href='https://www.thesun.co.uk/sport/20230889/man-city-guardiola-penalty-record-revealed-sold-flops/'>
+        </a><a href='https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-transfer-news-guardiola-25423716'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Man City have missed a THIRD of penalties under Guardiola with ...</h3>
+                <h3>Man City may have exposed two transfer priorities with Sevilla ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRvcA9oOT3dhONdAeiLIUzFA7Ri-FWludGyu3ThIhJWIy8t6Ta4gpJzvWRKvfSPEs_bBS1Jv1zH" alt="Man City have missed a THIRD of penalties under Guardiola with ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>MANCHESTER CITY&#39;S shocking penalty record under Pep Guardiola has been revealed.And the data suggests that the worst offenders get flogged by the form.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSP99ABCEAOh8I9KI8oCFbhuiQbZmATzWgTc3Q-zUirjZ2eVNx6JNKNrtQBvzRf55WuLbMvw9Wp" alt="Man City may have exposed two transfer priorities with Sevilla ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Manchester City beat Sevilla in the Champions League on Wednesday thanks to a second-half comeback inspired by key men coming off the bench.</p></div>
             </div>
         </a>
         </Template></>;
