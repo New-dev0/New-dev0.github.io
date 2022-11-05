@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Mili"/>
         <meta name="description" content="Trending News about Mili" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Mili</h1>
-            <Image width={800} height={500} src="https://images.herzindagi.info/image/2022/Oct/mili-janhvi-social.jpg" alt="Mili"/>
+            <Image width={800} height={500} src="https://navbharattimes.indiatimes.com/navbharatgold/thumb/msid-95298946,width-1200,height-900,imgsize-65888,resizemode-6/breaking-news-in-hindi/mili-movie-review-janhvi-kapoor-bloated-thriller.jpg" alt="Mili"/>
             <h3>Recent News</h3>
-            <a href='https://www.abplive.com/entertainment/bollywood/janhvi-kapoor-done-mili-shooting-in-minus-10-degree-said-it-was-one-of-the-most-challenging-role-2239504'>
+            <a href='https://navbharattimes.indiatimes.com/navbharatgold/breaking-news-in-hindi/mili-movie-review-janhvi-kapoor-bloated-thriller/story/95298946.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mili Shooting: जाह्नवी कपूर ने माइनस 10 डिग्री में की &#39;मिली&#39; की शूटिंग ...</h3>
+                <h3>Mili Film Review: जिंदगी और मौत के बीच सर्वाइवल की कहानी है मिली</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Mili Shooting: जाह्नवी कपूर ने माइनस 10 डिग्री में की &#39;मिली&#39; की शूटिंग ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Janhvi Kapoor On Mili: जाह्नवी कपूर (Janhvi Kapoor) की आगामी फिल्म &#39;मिली&#39; (Mili) का हाल ही में ट्रेलर रिलीज&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTWGptcWNxAtEH1WSCwK46wgQMwcjBtT0m7S1kRgsWU5fRMeYs_dNW1vIUW1vTRroL-6dT8Hqr-" alt="Mili Film Review: जिंदगी और मौत के बीच सर्वाइवल की कहानी है मिली" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mili Film Review in Hindi: जाह्नवी कपूर, मनोज पाहवा और सनी कौशल स्टारर फिल्म &#39;मिली&#39; सिनेमाघरों में&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.herzindagi.com/society-culture/like-janhvi-kapoor-mili-4-bollywood-film-about-a-race-against-time-article-210931'>
+        </a><a href='https://www.amarujala.com/entertainment/movie-review/mili-review-in-hindi-by-pankaj-shukla-xavier-mathukutty-janhvi-kapoor-sunny-kaushal-manoj-pahwa-sanjay-suri'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Like Janhvi Kapoor&#39;s Mili: 4 Bollywood Films About A Race Against ...</h3>
+                <h3>Mili Review: जान्हवी कपूर की दमदार अदाकारी ने जीता दिल, मौत से दो दो ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTJizwoX5YwO66I_clZD4yUvWgJG8_ZCJ_05bIr7AlqksL03Kh2_icPnwgY-CyI99tyhBIM0Myf" alt="Like Janhvi Kapoor&#39;s Mili: 4 Bollywood Films About A Race Against ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The first look posters along with a teaser video of Janhvi Kapoor&#39;s upcoming film Mili were unveiled recently on social media.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQG12BDTceJKAcI0S3ayCTRaCuxQvE5TPJgUoEkFyAVjawpIl4-u9ttJQiY-JNM1Xo1vc8KGZ1e" alt="Mili Review: जान्हवी कपूर की दमदार अदाकारी ने जीता दिल, मौत से दो दो ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>अपनी पहली फिल्म &#39;धड़क&#39; में भी जान्हवी के अभिनय ने लोगों को प्रभावित किया था। और, फिल्म &#39;&nbsp;...</p></div>
             </div>
-        </a><a href='https://indianexpress.com/article/entertainment/bollywood/mili-trailer-janhvi-kapoor-survival-thriller-watch-video-8210658/'>
+        </a><a href='https://www.telegraphindia.com/entertainment/mili-janhvi-kapoor-makes-the-survival-drama-a-captivating-watch/cid/1896200'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mili trailer: Janhvi Kapoor is fighting freezing temperature in this ...</h3>
+                <h3>Mili: Janhvi Kapoor makes the survival drama a captivating watch</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ6G-j_wDeufXDC4ANFQ0CFRB0Fand8tQ-8Jp76ldLAf8hlFOHfYd1rCxmQeHqkbgFLFpx3BxMZ" alt="Mili trailer: Janhvi Kapoor is fighting freezing temperature in this ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Actor Janhvi Kapoor plays the titular role in the Hindi remake of 2019 Malayalam film Helen.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTK9TM2WVc2sCqUG5Ta741BsIX0v4xqqUbv5g7YFJ_UVHwLlM0vRrB-pDkuQ2U2sCHoGqE-UUfT" alt="Mili: Janhvi Kapoor makes the survival drama a captivating watch" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mathukutty Xavier&#39;s Mili is a remake of his 2019 Malayalam movie Helen.</p></div>
             </div>
-        </a><a href='https://www.amarujala.com/photo-gallery/entertainment/bollywood/mili-trailer-launch-producer-boney-kapoor-praised-daughter-janhvi-kapoor-work-but-actress-stop-her-father'>
+        </a><a href='https://www.abplive.com/entertainment/bollywood/janhavi-kapoor-movie-mili-leaked-online-2252302'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mili Trailer: प्रोड्यूसर पापा ने जब की बेटी की तारीफ, पढ़िए जान्हवी ने क्यों ...</h3>
+                <h3>Film Mili Leaked: जाह्नवी कपूर को लगा बड़ा झटका! फिल्म &#39;मिली&#39; रिलीज के ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRMIKiEo-FNjqLzEoOvZrfkqGovLKI8vlQCwW3T7_BhBmK_sf8Kh8rdwAuScwzHmOtwRuhrSFm7" alt="Mili Trailer: प्रोड्यूसर पापा ने जब की बेटी की तारीफ, पढ़िए जान्हवी ने क्यों ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>शनिवार को मुंबई में इस फिल्म के ट्रेलर लांच के दौरान जान्हवी कपूर और उनके पिता व इस फिल्म&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSAcKI57Nq3SFY2QyjvAbgxY1P1Wxrk60kA1S0pkYw5t3Qi0d_KQ2y-6fqwCAmlsJa3vTlLd7t-" alt="Film Mili Leaked: जाह्नवी कपूर को लगा बड़ा झटका! फिल्म &#39;मिली&#39; रिलीज के ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Janhvi kapoor&#39;s Film leaked: जाह्नवी कपूर की फिल्म &#39;मिली&#39; रिलीज के कुछ घंटे बाद ही ऑनलाइन लीक हो गई&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.hindustantimes.com/entertainment/bollywood/mili-trailer-janhvi-kapoor-is-stuck-in-a-freezer-with-no-way-out-watch-101665827977459.html'>
+        </a><a href='https://indianexpress.com/article/entertainment/movie-review/mili-movie-review-janhvi-kapoor-8248677/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mili trailer: Janhvi Kapoor is stuck in a freezer with no way out. Watch</h3>
+                <h3>Mili movie review: Janhvi Kapoor is earnest in this bloated thriller</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTiU2SC9kqGBJQu0OPCnC2jKmnlNB1jpwhWWnaFk23CO7nV6c_N0EvUiJBj2E0DjdPQqPFSt5iM" alt="Mili trailer: Janhvi Kapoor is stuck in a freezer with no way out. Watch" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mili trailer: Janhvi Kapoor is in a race against time as she gets locked up in a freezer. She must do all she can to save herself before she freezes to&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcShVkrYMgERFDMfYuHc4ydsfV0_DNjRqR3oQzJwF6YaENIPxu36XL4Tvvc2bRqCWOOK85BFmvXo" alt="Mili movie review: Janhvi Kapoor is earnest in this bloated thriller" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mili movie review: The survival thriller has its moments and Janhvi Kapoor puts in the work. However, the pace slackens and bloat becomes the problem.</p></div>
             </div>
-        </a><a href='https://www.aajtak.in/entertainment/bollywood-news/story/mili-trailer-janhvi-kapoor-stuck-in-freezer-with-no-way-out-sunny-kaushal-boney-kapoor-tmovp-1556958-2022-10-15'>
+        </a><a href='https://www.hindustantimes.com/entertainment/bollywood/mili-movie-review-janhvi-kapoor-s-survival-thriller-has-a-warm-heart-101667551006480.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mili Trailer: फ्रीजर में फंसी जाह्नवी कपूर, निकलने का नहीं रास्ता, डरावनी है ...</h3>
+                <h3>Mili movie review: Janhvi Kapoor&#39;s survival thriller has a warm heart</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQmG7YIqmOSGae1u-ZsQR8cqUBgJHMJPJGcsx9NZz9HHLiLhHUt18jEFg5BcwkTFw8D8wzfpJvB0Q" alt="Mili Trailer: फ्रीजर में फंसी जाह्नवी कपूर, निकलने का नहीं रास्ता, डरावनी है ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>जाह्नवी कपूर की फिल्म मिली का ट्रेलर रिलीज हो गया है. इस फिल्म की कहानी मिली नौडियाल&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQlUfhOv3THsXaA5KZpandqMq2lQ-xXL0H08JD1o_BBFqssqCAUc3idtMgychHehCCUYg8fkw4j" alt="Mili movie review: Janhvi Kapoor&#39;s survival thriller has a warm heart" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mili movie review: Janhvi Kapoor plays the perfect girl from Dehradun who gets locked in a freezer overnight even as his family looks for her. | Bollywood.</p></div>
             </div>
-        </a><a href='https://www.ottplay.com/news/mili-trailer-twitter-reactions-twitterati-say-janhvi-kapoor-in-terrific-form/d42b8dbf2b186'>
+        </a><a href='https://www.financialexpress.com/hindi/india-news/mili-review-heres-why-you-should-watch-janhvi-kapoors-film-this-weekend/2774580/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mili Trailer Twitter Reactions: Twitterati say Janhvi Kapoor in terrific ...</h3>
+                <h3>Mili Review: &#39;मिली&#39; में आपको क्या मिलेगा खास? आखिर क्यों देखें जाह्नवी ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQouyn56bkZjKo614g9WoGT0O066KxJPn60lDY3TpbgFT4ZtxVl9-hW67STU5jAUx7KTx9k9vMD" alt="Mili Trailer Twitter Reactions: Twitterati say Janhvi Kapoor in terrific ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The film is a remake of the Malayalam thriller Helen, which starred Anna Ben and Lal and was directed by Mathukutty Xavier.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSpXhDTFO4SLBDERLX860wCigJVLhhx-bXw5BcFwP9VbH1ASG30O2-QaX_reB8vfdBy3vtos4Yg" alt="Mili Review: &#39;मिली&#39; में आपको क्या मिलेगा खास? आखिर क्यों देखें जाह्नवी ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>एक्ट्रेस जाह्नवी कपूर की फिल्म मिली (Mili) आज सिनेमाघरों में रिलीज़ हो गई है. Mili Review:&nbsp;...</p></div>
             </div>
-        </a><a href='https://english.jagran.com/entertainment/mili-release-date-when-and-where-to-watch-janhvi-kapoor-survival-thriller-film-watch-trailer-10051874'>
+        </a><a href='https://theprint.in/features/reel-take/mathukutty-xaviers-mili-another-bland-bollywood-remake-and-janhvi-kapoor-is-the-worst-part/1197252/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mili Release Date: When And Where To Watch Janhvi Kapoor&#39;s ...</h3>
+                <h3>Mathukutty Xavier&#39;s Mili another bland Bollywood remake. And ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS1SpKg6a6hbZZZn5FuxdLsqY1quSvp3eHLo-6Q2pdUNS-WjXdz-7eDBkzzSyzoxSI_Xk9nekhi" alt="Mili Release Date: When And Where To Watch Janhvi Kapoor&#39;s ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mili stars Janhvi Kapoor, Sunny Kaushal and Manoj Pahwa. The movie is directed by Mathukutty Xavier.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTCnwDfNvgAcBR6bPXL8L3btynykzwBlgqX-LvHKThfofLijCzQ7xS2udFfYqYs_A7iXcTKP3OP" alt="Mathukutty Xavier&#39;s Mili another bland Bollywood remake. And ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A Boney Kapoor production, Mili was projected to be a scintillating survival thriller but is, instead, another bland attempt at copying Hollywood thrillers. The&nbsp;...</p></div>
             </div>
-        </a><a href='https://zeenews.india.com/hindi/india/bihar-jharkhand/patna/mili-trailer-release-of-jhanvi-kapoor-boney-sunny-kaushal-film-shows-spine-chilling-thrill-fight-to-survive/1396572'>
+        </a><a href='https://www.thehindu.com/entertainment/movies/mili-movie-review-this-showreel-of-janhvi-kapoor-stutters-after-a-compelling-start/article66094871.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mili Trailer Out: जाह्नवी कपूर की फिल्म मिली का ट्रेलर रिलीज, माइनस ...</h3>
+                <h3>&#39;Mili&#39; movie review: This showreel of Janhvi Kapoor stutters after a ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTcoXsMafN_bqALni4yIJvYtvfiwgpw4xIc0wGkivn3ZiAAInEKMZ1AFFD6rD6V9SZ1sWBBObYoEg" alt="Mili Trailer Out: जाह्नवी कपूर की फिल्म मिली का ट्रेलर रिलीज, माइनस ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Janhvi Kapoor Mili Trailer Out: बॉलीवुड एक्ट्रेस जाह्नवी कपूर की फिल्म &#39;मिली&#39; का ट्रेलर रिलीज हो गया&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcShKR7KA6qd1BaMxaHBto6xRNKyxvbypaBSBolyAp-xsSc_-rEQjy3uKy6wG-5LuJ8DLV7Wl_8h" alt="&#39;Mili&#39; movie review: This showreel of Janhvi Kapoor stutters after a ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Director Mathukutty Xavier, who directed the original Malayalam version &#39;Helen&#39;, scores once again in pulling at our heart strings and bringing us to the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.indiatv.in/entertainment/bollywood/mili-trailer-releases-seeing-the-trailer-of-janhvi-kapoor-film-the-soul-will-tremble-2022-10-16-893597'>
+        </a><a href='https://www.aajtak.in/entertainment/film-review/story/mili-film-review-janhvi-kapoor-sunny-kaushal-full-movie-in-hd-tmovk-1568193-2022-11-04'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mili Trailer Releases: जान्हवी कपूर की हालत देख कांप जाएगी रूह, जम ...</h3>
+                <h3>Mili Film Review: जिंदगी-मौत के बीच फंसी है &#39;मिली&#39; की कहानी, बेहतरीन ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRl2BjXvL8Aqmy54AkxmPPsA1xJmGb_jO7O0E0g3NlcPkuv2YH7YpwIXxjfVVH3sxu-54yCrSUT" alt="Mili Trailer Releases: जान्हवी कपूर की हालत देख कांप जाएगी रूह, जम ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mili Trailer Out: जान्हवी कपूर की मोस्ट अवेटेड फिल्म &#39;मिली&#39; (Mili) का पोस्टर सामने आने के बाद से&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR5-PdONPOSmCASCGduZHF_SvM_H1FLA5EFikQT_8VwGp6ROf5tg-v3Gr3DqB9sCPGqngiNHn8p" alt="Mili Film Review: जिंदगी-मौत के बीच फंसी है &#39;मिली&#39; की कहानी, बेहतरीन ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>जाह्नवी कपूर और सनी कौशल की फिल्म &#39;मिली&#39; रिलीज हो चुकी है. फिल्म की कहानी काफी दिलचस्प&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

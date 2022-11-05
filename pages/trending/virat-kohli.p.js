@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Virat Kohli"/>
         <meta name="description" content="Trending News about Virat Kohli" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Virat Kohli</h1>
-            <Image width={800} height={500} src="https://img.etimg.com/thumb/msid-94446560,width-1070,height-580,imgsize-974819,overlay-economictimes/photo.jpg" alt="Virat Kohli"/>
+            <Image width={800} height={500} src="https://www.jagranimages.com/images/newimg/05112022/05_11_2022-kohliap26_23183406.jpg" alt="Virat Kohli"/>
             <h3>Recent News</h3>
-            <a href='https://economictimes.indiatimes.com/news/new-updates/watch-virat-kohlis-celebration-with-rohit-sharma-tells-the-story/articleshow/94446190.cms'>
+            <a href='https://www.jagran.com/cricket/bouncer-virat-kohli-birthday-virat-kohli-34th-birthday-king-kohli-birthday-kohli-has-most-runs-after-his-international-debut-and-his-records-is-amazing-23183406.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Watch: Virat Kohli&#39;s celebration with Rohit Sharma tells the story</h3>
+                <h3>Happy Birthday Virat Kohli: किंग कोहली के इंटरनेशनल क्रिकेट में डेब्यू के ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTzcF6Y7bd3gu-nxo2PwXH_t1_-wjhFYGcuR3KNZXQi_bMKMJFeuEPXU2FoEtcu2tWCSC_0sWYr" alt="Watch: Virat Kohli&#39;s celebration with Rohit Sharma tells the story" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Virat Kohli played a major role in India chasing down Australia&#39;s total in the series decider at Hyderabad.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQPXMrSPmVjdYy4nmc9B9Kqy9oTbCIDp2NO4dk65GoufhgS6QELsSgWsOwU-uhYpTzFq8bY4Ng2" alt="Happy Birthday Virat Kohli: किंग कोहली के इंटरनेशनल क्रिकेट में डेब्यू के ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>नई दिल्ली, आनलाइन डेस्क। Virat Kohli 34th Birthday: विराट कोहली आसमान पर चमकता वो सितारा हैं जिसकी&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.royalchallengers.com/rcb-cricket-news/news/i-am-working-hard-on-my-process-virat-kohli'>
+        </a><a href='https://indianexpress.com/article/sports/cricket/virat-kohli-birthday-wishes-come-early-8250435/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>I am working hard on my process: Virat Kohli</h3>
+                <h3>Virat Kohli&#39;s birthday wishes come early with messages from ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRFvbdVPtdw0sGT932dxBCX952CCikpIQ7fUVobOGwy_y8z9LYLCVP5-BCMpXcRKJgVWcUZbn63" alt="I am working hard on my process: Virat Kohli" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>After a silent couple of games, Virat Kohli roared back to life in the series decider against the Aussies as the former Indian skipper pumped out a&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcStl1btlXM6JtbGpGuXc5715pZl06Zx8tdKtIXmNRlAVoqVib9AMLrVBTDm32MVcnVOmJfVQz5C" alt="Virat Kohli&#39;s birthday wishes come early with messages from ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Virat Kohli has been in brilliant form at the ongoing T20 World Cup so far, scoring 220 runs in four matches.</p></div>
             </div>
-        </a><a href='https://www.amarujala.com/photo-gallery/cricket/cricket-news/sanju-samson-deepak-hooda-and-sreysh-iyer-career-was-destroyed-due-to-virat-kohli'>
+        </a><a href='https://www.aajtak.in/sports/cricket/story/virat-kohli-happy-birthday-shahnawaz-dahani-pak-bowler-pre-bday-wish-t20-world-cup-2022-tspo-1568710-2022-11-04'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Virat Kohli: विराट कोहली की वजह से खत्म हो रहा इन तीन खिलाड़ियों का ...</h3>
+                <h3>Virat Kohli: विराट कोहली को PAK प्लेयर ने दी बर्थडे की बधाई, कहा- इंतजार ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT7YnsZQC_sNBnt0rmFjj-2V7uEmRx6s3Xcd2VKfi7DMz_FxzJTAAIERiiLKj6_7LpbbDO5RMty" alt="Virat Kohli: विराट कोहली की वजह से खत्म हो रहा इन तीन खिलाड़ियों का ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>लगभग पिछले 10 वर्षों से विराट कोहली भारतीय टीम के नियमित सदस्य हैं। वह लगातार भारत को मैच&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQzk0cIBdS0nqcdaSZoU_K4Ov0DhiTyN65dvgrfA83V6goSKVtgRLxvFPOa6wrmLkspj7DZ3Z2q" alt="Virat Kohli: विराट कोहली को PAK प्लेयर ने दी बर्थडे की बधाई, कहा- इंतजार ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>टीम इंडिया के स्टार बल्लेबाज विराट कोहली 5 नवंबर (शनिवार) को अपना 34वां बर्थडे&nbsp;...</p></div>
             </div>
-        </a><a href='https://english.jagran.com/cricket/virat-kohli-rohit-sharmas-reaction-to-indias-last-over-win-is-epic-watch-10050225'>
+        </a><a href='https://www.hindustantimes.com/cricket/watch-i-ll-send-you-a-text-anyway-virat-kohli-s-birthday-begins-early-with-adorable-message-from-glenn-maxwell-on-live-tv-101667565166466.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Virat Kohli, Rohit Sharma&#39;s Reaction To India&#39;s Last Over Win Is Epic ...</h3>
+                <h3>Watch: Kohli&#39;s birthday begins early with adorable Maxwell message ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTfoG4M-UVaujuJcoUq-rj3B7t52A0Oxlsf_LRArj_4-n9HuoBjGIWAZM0SLsCT7vIyu5Ou0-EI" alt="Virat Kohli, Rohit Sharma&#39;s Reaction To India&#39;s Last Over Win Is Epic ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The celebration of Rohit and Virat is going viral on social media as both the batters were seen shouting and smiling while patting each other&#39;s back after&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQgNAlRRH-8fEGkiN9MJiSc7z8512oCMCL69AJolEnrN-UsEOmT16szG3vqCTdMi8zNeMGzZpHO" alt="Watch: Kohli&#39;s birthday begins early with adorable Maxwell message ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A day before the former India captain turns 34, birthday wishes are storming in already for Virat Kohli as Australia all-rounder Glenn Maxwell dropped a&nbsp;...</p></div>
             </div>
-        </a><a href='https://indianexpress.com/article/sports/cricket/watch-rohit-sharma-and-virat-kohli-break-into-wild-celebration-after-hardik-pandya-hits-winning-boundary-8173171/'>
+        </a><a href='https://www.abplive.com/sports/cricket/pakistan-fast-bowler-shahnawaz-dahani-has-wished-virat-kohli-on-his-birthday-by-tweeting-2252451'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Watch: Rohit Sharma and Virat Kohli break into wild celebration after ...</h3>
+                <h3>Virat Kohli Birthday: पाकिस्तानी खिलाड़ी ने ट्वीट कर कोहली को किया बर्थडे ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS3hEyin1K5N3PFDnGiAVKSY6e2fy46Ys-pxcwJlKDQLFz1tc30vpnEgcaAeKmT8KD2LpEhrNIo" alt="Watch: Rohit Sharma and Virat Kohli break into wild celebration after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>India beat Australia by six wickets in Sunday&#39;s third and final T20I in Hyderabad. With the win, India sealed their first home T20 series victory against&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQUx0NrBH-i5eOiD1jQxf9OnvRsPMpW-qgsqZYb7E4QGVuvL8974nx44YXj5sLbwas8n-oLroFU" alt="Virat Kohli Birthday: पाकिस्तानी खिलाड़ी ने ट्वीट कर कोहली को किया बर्थडे ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>शनिवार को विराट कोहली अपना 34वां जन्मदिन मनाएंगे, लेकिन पाकिस्तानी तेज गेंदबाज ने&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.firstpost.com/firstcricket/sports-news/watch-virat-kohli-rohit-sharmas-wild-celebrations-as-india-win-t20i-series-against-australia-11332281.html'>
+        </a><a href='https://hindi.news18.com/news/sports/cricket-happy-birthday-virat-kohli-indian-batsman-has-done-well-so-far-in-t20-world-cup-2022-team-india-watch-video-4843585.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Virat Kohli, Rohit Sharma&#39;s epic celebration as India beat Australia</h3>
+                <h3>Virat Kohli Birthday: विराट कोहली के ये खास शॉट बना देंगे आपका दिन, देखें ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSXJTN20yBpHMTfBw8pRjvKahUJQjAhk8C3deA2-unRXRK97BtlNWYvI-bfkfGg8YKRDsBmirrR" alt="Virat Kohli, Rohit Sharma&#39;s epic celebration as India beat Australia" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Virat Kohli and Rohit Sharma celebrated India&#39;s T20I series win over Australia with an epic reaction that has gone viral on Twitter.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQOGSVSIb-3MEc_rdX3r58SZunkIgU3D14DM4tT9QLlo3FTKv1xtYJSwqbPWQaIzcimkcNGiOSS" alt="Virat Kohli Birthday: विराट कोहली के ये खास शॉट बना देंगे आपका दिन, देखें ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Happy Birthday Virat Kohli: विराट कोहली ने टी20 वर्ल्ड कप के 8वें सीजन में बेहतरीन प्रदर्शन किया है.</p></div>
             </div>
-        </a><a href='https://www.jagran.com/cricket/bouncer-virat-kohli-king-kohli-is-the-most-successful-run-chase-master-of-t20i-and-he-has-scored-the-most-runs-in-the-world-with-an-average-of-more-than90-23099264.html'>
+        </a><a href='https://www.hindustantimes.com/lifestyle/brunch/that-feeling-when-by-nikhil-taneja-virat-kohli-and-the-f-word-101667596191394.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Virat Kohli: T20I के रन चेज मास्टर हैं किंग कोहली, 90 से ज्यादा की औसत ...</h3>
+                <h3>That Feeling When by Nikhil Taneja: Virat Kohli and the F word</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTeJ_ndsmNmSVRN6FmBuUUJe9-ZGxVQ3-0X_pYsMfgJyP5jmJ48A-6A7dUG2AaddYCKDOVD1bba" alt="Virat Kohli: T20I के रन चेज मास्टर हैं किंग कोहली, 90 से ज्यादा की औसत ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>विराट कोहली टी20 इंटरनेशनल क्रिकेट में सफल रन चेज करते हुए सबसे ज्यादा रन बनाने वाले&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRsAwdN-kYlTU6Wbf1Lodfuq0WqFsNixDX2PbRyAP9xFTazMz6NcoysQtRqyye_APs7u1YaAV_x" alt="That Feeling When by Nikhil Taneja: Virat Kohli and the F word" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>When the cricket champ made India&#39;s dreams come true, it showed the power of persevering through failure.</p></div>
             </div>
-        </a><a href='https://www.abplive.com/sports/cricket/virat-kohli-breaks-rahul-dravid-record-become-the-2nd-indian-with-most-runs-2224118'>
+        </a><a href='https://www.hindustantimes.com/cricket/virat-kohli-said-i-got-dropped-as-a-captain-fine-pakistan-legend-wasim-akram-lauds-india-stalwart-101667544902937.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Virat Kohli ने राहुल द्रविड़ को पछाड़ा, सचिन के बाद सबसे ज्यादा रन बनाने ...</h3>
+                <h3>Virat Kohli said &#39;I got dropped as India captain, fine...&#39;: Wasim Akram</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS-e-g0Mj-BvlzyuFFpFXYvsqt6vb87pxnIV9fjj4KNrbW0g_TLZyT7GGeQpEmKLiRI6nSiIA0H" alt="Virat Kohli ने राहुल द्रविड़ को पछाड़ा, सचिन के बाद सबसे ज्यादा रन बनाने ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>विराट कोहली ने अपनी 63 रन की पारी के साथ बेहद ही खास मुकाम हासिल किया है.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS75SfpgiVzLk5-6D0JvhcWNwJDJcvguYUlLHHOyN7Q1nPm853fxoji4XrZ-7QbgsH_InXdcHlE" alt="Virat Kohli said &#39;I got dropped as India captain, fine...&#39;: Wasim Akram" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Wasim Akram said Virat Kohli could easily have gotten disheartened when he was removed as the ODI captain after he had decided to quit as the T20I captain&nbsp;...</p></div>
             </div>
-        </a><a href='https://zeenews.india.com/cricket/ind-vs-aus-3rd-t20i-anushka-sharma-cant-keep-calm-as-chasemaster-virat-kohli-hits-another-fifty-posts-this-message-for-husband-check-2514640.html'>
+        </a><a href='https://www.naidunia.com/sports/cricket-virat-kohli-birthday-virat-kohli-trending-on-twitter-fans-are-giving-birthday-wishes-with-kingkohlibirthdaycdp-hastags-7920356'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Anushka Sharma posts THIS for husband Virat Kohli after Team ...</h3>
+                <h3>Virat Kohli Birthday: विराट कोहली Twitter पर कर रहे ट्रेंड फैंस अजीब ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ1ylEh7CQ_seJARuR4SyLrvVmMt5yllCZq9yFQLaiMcFgkP0nGdGgcGbg9Ytqf2GEiFyrsMh4h" alt="Anushka Sharma posts THIS for husband Virat Kohli after Team ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Now, Kohli has 16004 runs across T20I and ODI formats. These runs have come in 369 matches in white-ball cricket across 352 innings at an average of 55.95.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS9vque46tfQdYfw3BICdbG_mRjkYS4hxq8Gr3DSLWchRDx6AIAXaEMKWjWs82pzzrETI8x-Nhg" alt="Virat Kohli Birthday: विराट कोहली Twitter पर कर रहे ट्रेंड फैंस अजीब ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Virat Kohli Birthday: सोशल मीडिया पर भी विराट की जबरदस्त फैन फॉलोइंग है फॉलोअर्स के मामले में&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.aajtak.in/sports/cricket/story/virat-kohli-rohit-sharma-hug-celebration-india-vs-australia-t20-viral-video-tspo-1544549-2022-09-26'>
+        </a><a href='https://www.livehindustan.com/cricket/story-happy-birthday-virat-kohli-as-virat-kohli-turns-34-check-lesser-known-facts-about-the-king-kohli-7309447.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Virat Kohli-Rohit Sharma: फिफ्टी पर शाबाशी, जीत पर झप्पी... रोहित ...</h3>
+                <h3>Happy Birthday Virat Kohli : 34 के हुए &#39;किंग&#39; विराट कोहली, जानिए कैसा रहा ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSxGk7LCM3LcCixf1nIJgii0s9qWAohUTfDguYDgqiRVoNj7zcpRM4-3je0nrxnM6kC7dCMhMw7" alt="Virat Kohli-Rohit Sharma: फिफ्टी पर शाबाशी, जीत पर झप्पी... रोहित ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>भारतीय टीम ने ऑस्ट्रेलिया को तीसरे टी-20 में 6 विकेट से हराकर सीरीज़ अपने नाम कर ली है.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQImLRqLsVKrnBSGpgRq2yPsCy07fCxqOqVBfKuMcZef451MwutaC-U9VAzfojQrBXWuXr7LESU" alt="Happy Birthday Virat Kohli : 34 के हुए &#39;किंग&#39; विराट कोहली, जानिए कैसा रहा ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>भारत के पूर्व कप्तान और सबसे महान भारतीय बल्लेबाज में से एक विराट कोहली 5 नवंबर को 34&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
