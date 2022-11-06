@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Kerala Blasters"/>
         <meta name="description" content="Trending News about Kerala Blasters" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Kerala Blasters</h1>
-            <Image width={800} height={500} src="https://newsroomodisha.com/wp-content/uploads/2022/10/3fc0c80e1a8e26227951d51fad22acbe-I42XJS.jpeg" alt="Kerala Blasters"/>
+            <Image width={800} height={500} src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt9fe6bb805de8cb7b/63668d206ece585078fdc224/VRP04326.jpg" alt="Kerala Blasters"/>
             <h3>Recent News</h3>
-            <a href='https://newsroomodisha.com/isl-2022-23-mumbai-city-continue-unbeaten-run-beat-kerala-blasters-2-0/'>
+            <a href='https://www.goal.com/en-in/lists/isl-sahal-samad-northeast-united-kerala-blasters-winners-losers-ratings/bltf7fdd28facf26924'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ISL 2022-23: Mumbai City continue unbeaten run, beat Kerala ...</h3>
+                <h3>Sahal Samad marks record appearance with a brace! Kerala ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSZT4Q-m0Gc0J4aQyoCkaPwv4ZpYEsyun9BXok3XIjuJigGxQRFvcX6XmC9JCy0H5Aw-oWub_ne" alt="ISL 2022-23: Mumbai City continue unbeaten run, beat Kerala ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Kochi: Mumbai City FC kept their unbeaten streak alive with a splendid 2-0 victory over Kerala Blasters FC in an Indian Super League (ISL) 2022-23 season&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT8BT1UqjbTn8uXwtCmfslqRTrpln9MmExFMPjwhkNYRu91Yjxc5Tz_htneBocQ0QctfbB8MhSw" alt="Sahal Samad marks record appearance with a brace! Kerala ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Dimitrios Diamantakos (56&#39;) broke the deadlock after a barren first half, while substitute Sahal Abdul Samad (85&#39;, 90+5&#39;) who made his 77th appearance for the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-in/lists/jorge-pereyra-kochi-kerala-blasters-winners-losers-ratings/blta6388f3aa765920e'>
+        </a><a href='https://sportstar.thehindu.com/football/isl/isl-live-northeast-united-fc-kerala-blaster-score-neufc-kbfc-indian-super-league-2022-23-updates/article66100163.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Jorge Pereyra makes winning return to Kochi! Kerala Blasters ...</h3>
+                <h3>NorthEast United FC vs Kerala Blasters HIGHLIGHTS ISL: Sahal ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT_FDvokUW62d5oi3eUEoTJQh7OCalKBJ7CohXlPC5H80YGHoOd9L8YVTjEeCzUAWJ1z4Hnyf8n" alt="Jorge Pereyra makes winning return to Kochi! Kerala Blasters ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Kerala Blasters suffered their third consecutive defeat of the 2022-23 Indian Super League season.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTH6MSp4PVvEtiq1gisx2wtvKnkkqIETZIv0Zrkimq4wXHpK6sYHptqfLeAj10drPZZpb0y0Kko" alt="NorthEast United FC vs Kerala Blasters HIGHLIGHTS ISL: Sahal ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>And it is full-time!! KBFC takes home the three points with three goals. Not the best performance by Vukumanovic&#39;s side but it doesn&#39;t matter as two late&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.thehindu.com/sport/football/isl-202223-mumbai-city-continue-unbeaten-run-with-2-0-win-over-kerala-blasters/article66067239.ece'>
+        </a><a href='https://khelnow.com/football/2022-11-indian-football-isl-2022-23-northeast-united-vs-kerala-blasters-match-report-highlights'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mumbai City continue unbeaten run with 2-0 win over Kerala Blasters</h3>
+                <h3>Kerala Blasters back on track with NEUFC triumph</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT2Q78eEB5vEMYJRGHtyW5kOMtJdT83QMBDO8xi_CUMp_bur5E1A9zGeqE2AXWzlO0tDJWGluGt" alt="Mumbai City continue unbeaten run with 2-0 win over Kerala Blasters" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>First-half goals from Mehtab Singh and Jorge Diaz were enough to secure all three points for the Islanders.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS3axxk_aEr5PpDu1x3wek8KibbkpdPeyuzFbiAk6Sw8rNDDyfUnFVDMGp91QhFftob1P0_-DDY" alt="Kerala Blasters back on track with NEUFC triumph" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kerala Blasters got their season back on track in the Indian Super League (ISL) after a 3-0 victory over NorthEast United FC at the Indira Gandhi Athletic&nbsp;...</p></div>
             </div>
-        </a><a href='https://khelnow.com/football/2022-10-indian-football-isl-2022-23-kerala-blasters-vs-mumbai-city-live-commentary'>
+        </a><a href='https://english.mathrubhumi.com/special-pages/isl-2022-2023/kerala-blasters-beat-northeast-united-3-0-sahal-scores-double-1.8020631'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ISL 2022-23 Live Commentary: Kerala Blasters Vs Mumbai City</h3>
+                <h3>Kerala Blasters beat Northeast United 3-0; Sahal scores double</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRYeVRQcnu5uNhjRM4aDpoWi27LPbzb9Zh4e6h3C3A2GOxhQwWTPY2Rb9SBSqKW-p7kRFmEo--o" alt="ISL 2022-23 Live Commentary: Kerala Blasters Vs Mumbai City" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Kerala Blasters Vs Mumbai City, ISL 2022-23: Follow the live action and match updates minute by minute here on Khel Now.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTc9td8Spog3kU59KdFf1VkK_J4r0RxV1MNKBj65BXib62JbWZow2ToiGJF1dlIOYGioGnmBkDe" alt="Kerala Blasters beat Northeast United 3-0; Sahal scores double" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The first half of the match against the team, which is at the bottom of the table, at Indira Gandhi Athletic Stadium ended goalless. Greek player Dimitrios&nbsp;...</p></div>
             </div>
-        </a><a href='https://sportstar.thehindu.com/football/isl/isl-2022-23-mumbai-city-fc-vs-kerala-blasters-mehtab-singh-pereyra-diaz-score-home-crowd-stunned/article66067190.ece'>
+        </a><a href='https://www.firstpost.com/sports/football-news/isl-2022-23-kerala-blasters-beat-northeast-united-hyderabad-fc-get-the-better-of-odisha-fc-11578631.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ISL 2022-23: Mumbai City FC shuts out Kerala Blasters</h3>
+                <h3>ISL: Kerala Blasters, Hyderabad FC register wins</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRZ79dDUuOs104vaaZc8fSjmmYD2xuCi9S7J5epbTm38xiThzR6hMwoWs_CQUkOoZp-8yjo0ikk" alt="ISL 2022-23: Mumbai City FC shuts out Kerala Blasters" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mehtab Singh&#39;s 21st-minute strike and Argentine Pereyra Diaz&#39;s 31st-minute goal powered Mumbai City FC to a 2-0 win over Kerala Blasters.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQYVDCm1RtI26NcWVAwgBf_8XIMsPHC4KadHxpmi_UzANr1TrjRjDaPfoEawgIyGDKo5SOsaxGC" alt="ISL: Kerala Blasters, Hyderabad FC register wins" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ivan Vukomanović made five changes to the Kerala Blasters line-up, with three changes in defence. NorthEast United FC stuck with the 5-3-2 formation for the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.mumbaicityfc.com/news/match-report-kerala-blasters-fc-0---2-mumbai-city-fc'>
+        </a><a href='https://www.madhyamam.com/sports/football/isl-2022-23/kerala-blasters-with-big-changes-this-is-how-the-first-eleven-1092977'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Match Report: Kerala Blasters FC 0 - 2 Mumbai City FC</h3>
+                <h3>വലിയ മാറ്റങ്ങളോടെ കേരള ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT9mAGA1_eyDK5s-tmGS5qhR4KWkV-y_BGXEMnoQhSmoaLbCK9qQH36g3yzsougu21-NIxfpn3i" alt="Match Report: Kerala Blasters FC 0 - 2 Mumbai City FC" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>After a physically gruelling draw against Jamshedpur FC, Coach Des Buckingham named one change to the starting eleven. Phurba started in goal; Mehtab Singh&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQKAbqAR2WmeN4SthU8kvxg_LCjfrvYOuRCogtAWv7TvsgusBfVEF8t1llm7GVful7wFl3MjYu2" alt="വലിയ മാറ്റങ്ങളോടെ കേരള ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>News Summary - Kerala Blasters with big changes; This is how the first eleven...</p></div>
             </div>
-        </a><a href='https://www.indiansuperleague.com/news/kerala-blasters-misery-deepens-as-mumbai-city-fc-continue-unbeaten-run'>
+        </a><a href='https://www.insidesport.in/nuefc-vs-kbfc-live-streaming-northeast-united-fc-take-on-kerala-blasters-eyeing-first-win-of-season-check-isl-2022-preview-team-news-predicted-xi-follow-live/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Kerala Blasters&#39; misery deepens as Mumbai City FC continue ...</h3>
+                <h3>NUEFC vs KBFC HIGHLIGHTS: NorthEast United FC 0-3 Kerala ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQrMP9buCy5HhanQuBND8C8emdSVFyZKFrQE4MJG7ysHuQGYBjWwgiTZj_NbK8BFnlkLoXWVDEn" alt="Kerala Blasters&#39; misery deepens as Mumbai City FC continue ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>First-half goals from Mehtab Singh and Jorge Diaz were enough to secure all three points for the Islanders.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQJKpYUWsVEPjU5fjkToJ4yFXm6lzCMevUTA2Hrj1wkM1rZ0HZcQvvr42nXdfyfWswfWFk9lKL-" alt="NUEFC vs KBFC HIGHLIGHTS: NorthEast United FC 0-3 Kerala ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Dimitrios Diamantakos (&#39;56) and Sahal Samad (&#39;86, &#39;90+6) were the two goalscorers for the Blasters. Follow Indian Super League and ISL 2022-23 LIVE Updates on&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.mathrubhumi.com/special-pages/isl-2022-23/isl-2022-23-kerala-blasters-fc-against-mumbai-city-fc-1.7996700'>
+        </a><a href='https://zeenews.india.com/malayalam/sports/isl-kerala-blasters-thrashed-northeast-united-sahal-abdul-samad-scored-two-goals-112981'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>തോൽവി തുടർക്കഥ; മുംബൈയോടും തോറ്റ് ...</h3>
+                <h3>ISL : കേരള ബ്ലാസ്റ്റേഴ്സ് വിജയ ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQei3ArK6F3W-HwM6hxQxGSDKtoWi6T29WrCsx-Ntz1uhL43MeppLchHRYMz-Htot_Zh69R1kKp" alt="തോൽവി തുടർക്കഥ; മുംബൈയോടും തോറ്റ് ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>തോല്‍വി തുടര്‍ക്കഥ; മുംബൈയോടും തോറ്റ് കേരള ബ്ലാസ്റ്റേഴ്‌സ് &middot; Content Highlights: ISL 2022-23 Kerala Blasters FC&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSxFgVCM_3utkSNorFnXGRdImG1rEmJF4sxNzo4xBouTXmkbVpNs138o0FN9nOZbyAK50Ss-Ys-" alt="ISL : കേരള ബ്ലാസ്റ്റേഴ്സ് വിജയ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>ISL 2022-23 Kerala Blasters vs NorthEast United മറുപടിയില്ലാത്ത മൂന്നു ഗോൾകൾക്കാണ് ബ്ലാസ്റ്റേഴ്സ്&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.mediaoneonline.com/sports/football/kerala-blasters-announced-the-starting-xi-196382'>
+        </a><a href='https://www.dailythanthi.com/Sports/Football/isl-football-hyderabad-kerala-blasters-win-830345'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ഹോർമിപാമും ഇവാനുമില്ല, പകരം ...</h3>
+                <h3>ஐ.எஸ்.எல் கால்பந்து: ஐதராபாத், கேரளா பிளாஸ்டர்ஸ் ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSBZgaAQqN7ypcAaZvimruZ7p9l5qDaodpb9JAxMCnSF65BcwmeGWTiM2EPksrQ4EOi9HI0E_n3" alt="ഹോർമിപാമും ഇവാനുമില്ല, പകരം ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ഐ.എസ്.എല്ലിലെ നാലാം മത്സരത്തിനാണ് കേരളാ ബ്ലാസ്റ്റേഴ്‌സ് ഇന്നിറങ്ങുക. MediaOne Logo. Sports Desk.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSx_W2EKC2oceLE_uWEpKht1_FYd_cl_uMcFNbFy-k0e6CCMOq418oxtTNH0JstuX69Qa6a7S65" alt="ஐ.எஸ்.எல் கால்பந்து: ஐதராபாத், கேரளா பிளாஸ்டர்ஸ் ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>ஐ.எஸ்.எல் கால்பந்து: ஐதராபாத், கேரளா பிளாஸ்டர்ஸ் அணிகள் வெற்றி..! x. image courtesy: Odisha FC twitter.</p></div>
             </div>
-        </a><a href='https://www.manoramanews.com/news/breaking-news/2022/10/28/isl-kerala-blasters-vs-mumbai-city.html'>
+        </a><a href='https://www.mediaoneonline.com/sports/football/kerala-blasters-playing-eleven-against-north-east-197306'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ബ്ലാസ്റ്റേഴ്സിന് ഹാട്രിക്ക് ...</h3>
+                <h3>നോർത്ത് ഈസ്റ്റിനെതിരെ ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSrLiaQ8mje4p_f3Ybx1J9VPypTsPBNrJPBbiOuAzWfK0ZKkZH98CEtlwAWu0fQq704P8bqo1OB" alt="ബ്ലാസ്റ്റേഴ്സിന് ഹാട്രിക്ക് ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ഐ.എസ്.എല്ലില്‍ കേരളാ ബ്ലാസ്റ്റേഴ്സിന് തുടര്‍ച്ചയായ മൂന്നാം തോല്‍വി.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSpdbnR5lj1Rb9WsnygVaLIoe80i2LqToaCp0hJw6XQmcUKQWk_0CdCoa3V5wvCMbLmFKr2ZQC7" alt="നോർത്ത് ഈസ്റ്റിനെതിരെ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>ടീം ഇങ്ങനെ: ഗിൽ (ഗോൾകീപ്പർ), സന്ദീപ്, ലെസ്‌കോവിച്ച്, ഹോർമിപാം, നിഷു, ഇവാൻ, ജീക്‌സൺ, സൗരവ്,&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
