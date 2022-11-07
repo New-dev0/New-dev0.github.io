@@ -11,21 +11,14 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,MCG"/>
         <meta name="description" content="Trending News about MCG" /></Head><Template>
             <h1 style={{fontSize: "30"}}>MCG</h1>
-            <Image width={800} height={500} src="https://www.cricket.com.au/~/-/media/News/2022/10/27Ireland-cele.ashx?w=1600" alt="MCG"/>
+            <Image width={800} height={500} src="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1343652_1296x729.jpg" alt="MCG"/>
             <h3>Recent News</h3>
-            <a href='https://www.cricket.com.au/news/ireland-reaction-beat-england-mcg-t20-world-cup-super-12-stage-roger-delany-1956-olympics/2022-10-27'>
+            <a href='https://www.espn.in/cricket/story/_/id/34963935/ind-vs-zim-t20-world-cup-2022-india-expand-their-knowledge-bank-mcg-venue-final'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Irish etch their place in history with famous MCG victory</h3>
+                <h3>India expand their knowledge bank of the MCG, the venue for the ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRyiXjXBHtLl07c_PppmudUCbihxuLxfa3JWCvFEPOsrizIPdfbtiavpDy3jaFmU9kEOaUszAGb" alt="Irish etch their place in history with famous MCG victory" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>An MCG museum tour to remind themselves of an Irish hero from the 1956 Olympics helped inspire the nation&#39;s cricketers to a famous win over England.</p></div>
-            </div>
-        </a><a href='https://www.singletonargus.com.au/story/7958243/irish-emulate-ron-delany-at-the-mcg/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Irish emulate Ron Delany at the MCG</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSfKiIgmR-kYYu1xon408Yte8_7EmM0Mo81LOwtS5ZmEOkCI1XapIaUcHPhuXg_hJlXNCiDpKhm" alt="Irish emulate Ron Delany at the MCG" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ron Delany is revered in Ireland as the man who beat a star-studded field to win the 1500m...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSYnKVA-vRfnn00mYL3mBoMVeiAzW6sEtjV6je5QTog3bHF4zHYg_2H101aFye1ndxxB1ZxNB7t" alt="India expand their knowledge bank of the MCG, the venue for the ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>They now have the experience of putting up a total at this ground, to add to their know-how of chasing one from the Pakistan game | ESPN.in.</p></div>
             </div>
         </a>
         </Template></>;

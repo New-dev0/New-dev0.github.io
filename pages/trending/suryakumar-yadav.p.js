@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Suryakumar Yadav"/>
         <meta name="description" content="Trending News about Suryakumar Yadav" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Suryakumar Yadav</h1>
-            <Image width={800} height={500} src="https://spiderimg.amarujala.com/assets/images/2022/10/30/750x506/india-vs-south-africa-t20-world-cup-2022-live-score-updates_1667133215.jpeg" alt="Suryakumar Yadav"/>
+            <Image width={800} height={500} src="" alt="Suryakumar Yadav"/>
             <h3>Recent News</h3>
-            <a href='https://www.amarujala.com/cricket/cricket-news/suryakumar-yadav-becomes-no-1-t20i-batter-in-the-latest-icc-t20i-ranking-t20-world-cup'>
+            <a href='https://www.hindustantimes.com/cricket/virat-kohli-s-priceless-two-word-response-to-suryakumar-yadav-s-no-better-feeling-post-on-instagram-goes-viral-101667743242182.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ICC Ranking T20: नंबर वन टी20 बल्लेबाज बने सूर्यकुमार यादव ...</h3>
+                <h3>Kohli&#39;s priceless two-word response to Suryakumar&#39;s Instagram post ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTMpUwffyPP7VCzkrbQ8IXkD1_j-oWpYm2zVY5SwxC0vOcvR-ZqfKLzWYrYd35-4dXcMiveYzpX" alt="ICC Ranking T20: नंबर वन टी20 बल्लेबाज बने सूर्यकुमार यादव ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ICC Ranking T20: नंबर वन टी20 बल्लेबाज बने सूर्यकुमार यादव, पाकिस्तान के रिजवान को पीछे छोड़ा &middot; 1 &middot; 2&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRz1x8gFBdVJ71LuIlbT1h2fCBdFWTFRgrK3STzCRxwhzT5fDvSpDigr9TQ1wCFhX5xNzknFh6C" alt="Kohli&#39;s priceless two-word response to Suryakumar&#39;s Instagram post ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Virat Kohli had an epic response to Suryakumar Yadav&#39;s post on Instagram after the latter scored a brilliant unbeaten 61 in India&#39;s win over Zimbabwe in the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.telegraphindia.com/sports/cricket/icc-t20i-rankings-suryakumar-yadav-tops-among-batters/cid/1895711'>
+        </a><a href='https://indianexpress.com/article/sports/cricket/we-started-hitting-the-ball-and-never-stopped-suryakumar-yadav-8253081/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ICC T20I rankings: Suryakumar Yadav tops among batters</h3>
+                <h3>We started hitting the ball and never stopped: Suryakumar Yadav</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQBLAeQRrrs8uAiLI4f1e3_HK1DxP8ZkFSjLMbGb6Q24mHaL9eQZYGIdEcQLr2Q0XDCXh-juGzh" alt="ICC T20I rankings: Suryakumar Yadav tops among batters" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The swashbuckling Suryakumar Yadav on Wednesday became the world&#39;s number one batter in T20 Internationals, rising to the top on the back of his incredible&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSq-pJTVz25xbj4_mf2G9y5_K_IyXd4oXecvuiTXD21Cqa52iNP_BD99PZAPA07EasuGVkvhyZJ" alt="We started hitting the ball and never stopped: Suryakumar Yadav" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Suryakumar Yadav 61(25) and KL Rahul 51(35) scored blistering half-centuries as India posted 186 for five in their last Group 2 match.</p></div>
             </div>
-        </a><a href='https://www.jagran.com/cricket/headlines-icc-mens-t20-ranking-suryakumar-yadav-becomes-number-one-23177388.html'>
+        </a><a href='https://www.abplive.com/sports/cricket/in-the-year-2022-suryakumar-yadav-has-become-the-first-batsman-to-score-1000-runs-in-international-t20-cricket-2253501'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ICC T20 Ranking: ICC टी20I के नए किंग बने Suryakumar Yadav ...</h3>
+                <h3>T20 WC 2022: साल 2022 में सूर्यकुमार यादव ने पूरे किए 1 हजार रन, ऐसा ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTgp7aO_Bw-9F2mh6EPrJkXSgpegzIH3Vt_-i5VpjfI2wivJ1WajB9_2xbg7I860_oWuEyGdpOi" alt="ICC T20 Ranking: ICC टी20I के नए किंग बने Suryakumar Yadav ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ICC T20 Ranking आइसीसी की टी20 रैंकिंग के अनुसार पाकिस्तान के मोहम्मद रिजवान को पछाड़कर&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTTsEmPQ6iD3qLrzyYbewUeXWId8vyzhG9w3aXF8TRDoImWME4vTGgH44oO9aMIf5MHDy4lqANj" alt="T20 WC 2022: साल 2022 में सूर्यकुमार यादव ने पूरे किए 1 हजार रन, ऐसा ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>साल 2022 में सूर्यकुमार यादव इंटरनेशनल टी20 क्रिकेट में 1 हजार रन बनाने वाले पहले&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.hindustantimes.com/cricket/suryakumar-yadav-becomes-world-s-no-1-t20i-batsman-pips-mohammad-rizwan-to-take-top-spot-in-icc-rankings-101667378928046.html'>
+        </a><a href='https://www.jagran.com/cricket/bouncer-suryakumar-yadav-created-history-and-became-the-first-indian-batsman-to-score-1000-runs-in-t20i-in-a-calendar-year-23185894.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Suryakumar Yadav pips Mohammad Rizwan to become world&#39;s No ...</h3>
+                <h3>Suryakumar Yadav ने रचा इतिहास, T20I में एक साल में इतने रन बनाने ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQZ5SF4_4VUfEKb6hbBAcWsuwFGrwQqKI8Ky2c4rw92KAy-DJ5sWR5yaSKSI-vXJ3Khq8JMCDpQ" alt="Suryakumar Yadav pips Mohammad Rizwan to become world&#39;s No ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>There is a new No. 1 T20I batter in the world, and it&#39;s an Indian… wait for it. Yes, you got that right, it is Suryakumar Yadav. | Cricket.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTMnjBLRO_ySXt5j7iHE-QRb46w1F9oJ1XnaG2nJgqgohDPJc78GQE6gw-lh1zTqiqvEpj_3L0g" alt="Suryakumar Yadav ने रचा इतिहास, T20I में एक साल में इतने रन बनाने ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ind vs Zim T20World Cup 2022 जिम्बाब्वे के खिलाफ पहली पारी में सूर्युकमार यादव ने जैसे ही 35 रन पूरे&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.t20worldcup.com/news/2887322'>
+        </a><a href='https://indianexpress.com/article/sports/cricket/jacques-kalliss-famous-rave-hung-in-the-air-as-suryakumar-yadav-binges-on-the-sweep-shot-8253044/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ravi Shastri&#39;s bold call surrounding Suryakumar Yadav&#39;s future</h3>
+                <h3>&#39;You are crazy, Surya&#39;: Jacques Kallis&#39;s famous rave hung in the air ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTs90mXavqVgkNtedyP43kmUaShn95h_0lp9IOXn1zk-EuEd6NMqIAVnuquYzTX9W1Aba419MBW" alt="Ravi Shastri&#39;s bold call surrounding Suryakumar Yadav&#39;s future" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Former India coach Ravi Shastri believes the remarkable rise of Suryakumar Yadav to become the No.1 T20I batter ranking is just the tip of the iceberg and&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT4w5hht4He4hMAK6pVScUW0Jc9INY84DsG4Iqu30-O2I3FPRZIKOiD897AxG25O9HWDOU4V966" alt="&#39;You are crazy, Surya&#39;: Jacques Kallis&#39;s famous rave hung in the air ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>With a man placed at backward square-leg for exactly that shot, Surya would still unfurl the sweep shot finer this time to trigger awe and roars of&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.jansatta.com/khel/icc-t20-ranking-suryakumar-yadav-surpasses-pakistan-mohammed-rizwan-becomes-number-1-batsman/2453519/'>
+        </a><a href='https://www.hindustantimes.com/cricket/suryakumar-yadav-runs-riot-as-india-secure-thumping-71-run-win-vs-zimbabwe-set-up-t20-wc-semi-final-date-with-england-101667732344868.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ICC T20 Ranking: सूर्यकुमार यादव दुनिया के नंबर वन टी20 बल्लेबाज बने ...</h3>
+                <h3>Suryakumar Yadav runs riot as India secure thumping 71-run win vs ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTSXk4LbFGwN-20boc9t7HN9ttU3BICsWYSr_Yg_kfhWdMF_QwC3u8cWl8nyLaeOFtgS5_cpjt0" alt="ICC T20 Ranking: सूर्यकुमार यादव दुनिया के नंबर वन टी20 बल्लेबाज बने ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ICC T20 Ranking, Suryakumar Yadav Surpasses Rizwan: सूर्यकुमार यादव ने आईसीसी पुरुष टी20 विश्व कप 2022 में अपनी&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcToeB4GZky2iCgGo75VIM5Di7I6t6A5drj-aEh5onlRgOAfrai1068XTn0SPsbLYBun0qHmMDnL" alt="Suryakumar Yadav runs riot as India secure thumping 71-run win vs ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Suryakumar Yadav produced a brilliant performance as India defeated Zimbabwe by 71 runs, thus booking a semi-final date against England on Thursday.</p></div>
             </div>
-        </a><a href='https://ndtv.in/cricket/icc-t20-ranking-now-suryakumar-yadav-grabs-now-positing-from-pakistani-batter-that-how-he-performed-in-this-year-hindi-3483194'>
+        </a><a href='https://www.aajtak.in/sports/cricket/story/t20-world-cup-2022-suryakumar-yadav-new-mister-360-degree-india-vs-zimbabwe-tspo-1569830-2022-11-06'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Icc T20 Ranking: पाक बल्लेबाज को पछाड़ सूर्यकुमार बने दुनिया के नंबर ...</h3>
+                <h3>Suryakumar Yadav T20 WC: टीम इंडिया के &#39;मिस्टर 360&#39; बन गए हैं ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSbrKF69J1B7ZM7xpsUCW2lYuLm0vCWhRGArghO2uKRkzm5YFCUOtgkvNTGmKbpYUTQYdlsRPVo" alt="Icc T20 Ranking: पाक बल्लेबाज को पछाड़ सूर्यकुमार बने दुनिया के नंबर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>T20 World Cup 2022, Ind vs Ban: सूर्यकुमार यादव (Suryakumar Yadav) ने बांग्लादेश के खिलाफ तेवर अच्छे दिखाए&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcToq1Kujf8GodvRuAIggAvHePRMLO5U6XbnSutihn46V1v6y0atiItofoLgZxgequ1LsFwehGOp" alt="Suryakumar Yadav T20 WC: टीम इंडिया के &#39;मिस्टर 360&#39; बन गए हैं ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>टी20 वर्ल्ड कप में जिम्बाब्वे के खिलाफ मुकाबले में सूर्यकुमार यादव ने नाबाद 61 रन बना&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.aajtak.in/sports/cricket/story/suryakumar-yadav-t20-number-1-batter-icc-rankings-mohammad-rizwan-t20-world-cup-2022-tspo-1566927-2022-11-02'>
+        </a><a href='https://www.abplive.com/sports/cricket/suryakumar-yadav-become-game-changer-for-india-in-t20-world-cup-2022-he-score-runs-with-strike-rate-of-193-and-average-of-75-2253500'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ICC T20 Rankings: वर्ल्ड कप के बीच सूर्या का धमाल, टी-20 में दुनिया के ...</h3>
+                <h3>T20 World Cup 2022 में भारत के लिए गेम चेंजर साबित हुए सूर्यकुमार ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT6g6NCkzoj6zeTPgc9v4tWZ5IamRLtzMuSFcpP6iQM37DLgw-p_dEBkBRM6MRIekNddfMFZhtW" alt="ICC T20 Rankings: वर्ल्ड कप के बीच सूर्या का धमाल, टी-20 में दुनिया के ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>आईसीसी द्वारा बुधवार को ताजा टी-20 रैंकिंग जारी की गई है. सूर्यकुमार यादव दुनिया के&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRZuSeBYDRokvS0KNuYwMw0ILOnBxYckxxRlq3ok_D2zCXmuqXm85GUOj2uxiAMPTUTx61G7n6Y" alt="T20 World Cup 2022 में भारत के लिए गेम चेंजर साबित हुए सूर्यकुमार ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>T20 World Cup 2022: टी20 वर्ल्ड कप 2022 में सूर्यकुमार यादव एक गेम चेंजर साबित हो रहे हैं.</p></div>
             </div>
-        </a><a href='https://www.wionews.com/sports/icc-t20i-rankings-suryakumar-yadav-becomes-no-1-batter-ends-pakistan-opener-md-rizwans-reign-530602'>
+        </a><a href='https://www.indiatv.in/sports/cricket/suryakumar-yadav-61-runs-blastering-inning-against-zimbabwe-t20-world-cup-2022-1000-t20i-runs-in-2022-2022-11-06-899968'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ICC T20I Rankings: Suryakumar Yadav becomes No. 1 batter, ends ...</h3>
+                <h3>Suryakumar Yadav: फिर चमका टीम इंडिया का &#39;सूर्या&#39;, SKY ने मेलबर्न में ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQkpd2H2V9YCO1l-4snilRM6oVTJzlcoV0l2TO7E6gUp-EauX87pFvdHg60TubJLXUteRwuS-F3" alt="ICC T20I Rankings: Suryakumar Yadav becomes No. 1 batter, ends ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>India`s Suryakumar Yadav has grabbed the top position for batters in the International Cricket Council (ICC) Men&#39;s T20I Player Rankings after smashing two&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQVzS1DaxyJKh5Oiuq7wF0cV7671jm-kB0vY1ZWEybzAAat6AQIZENy8PNI0zvnXn7DGaQ2VstX" alt="Suryakumar Yadav: फिर चमका टीम इंडिया का &#39;सूर्या&#39;, SKY ने मेलबर्न में ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>सूर्यकुमार यादव ने जिम्बाब्वे के खिलाफ 25 गेंदों पर नाबाद 61 रन बनाकर भारत का स्कोर 186 तक&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.tribuneindia.com/news/sports/suryakumar-yadav-surges-to-no-1-in-latest-icc-mens-t20i-player-rankings-446877'>
+        </a><a href='https://www.espncricinfo.com/story/ind-vs-zim-2022-mens-t20-world-cup-with-every-innings-free-spirit-suryakumar-yadav-moves-one-notch-above-the-rest-1343696'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Suryakumar Yadav surges to No 1 in latest ICC Men&#39;s T20I Player ...</h3>
+                <h3>With every innings, &#39;free spirit&#39; Suryakumar moves one notch above ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRr5SNBnqBYGCZ6Po03ZCzRxqoY93Dt7O7YGz9Tqe_CTAL80VGkjjnUqwiE8PPRjhOXu3XlgxoK" alt="Suryakumar Yadav surges to No 1 in latest ICC Men&#39;s T20I Player ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>India middle-order batter Suryakumar Yadav has grabbed the top position for batters in the latest ICC Men&#39;s T20I Player Rankings after smashing two&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSVl02RwABHCI0SRZder-UoBqC9C4rKdt-zoumWzhYHpd4fT4XC1SgE0EvEydVPKoL1nB9IdC4J" alt="With every innings, &#39;free spirit&#39; Suryakumar moves one notch above ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>He is more dynamic, bats with more freedom, and teams are perhaps yet to catch up with him as well as they have done with some others.</p></div>
             </div>
         </a>
         </Template></>;

@@ -11,49 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Logan Paul"/>
         <meta name="description" content="Trending News about Logan Paul" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Logan Paul</h1>
-            <Image width={800} height={500} src="https://imagez.tmz.com/image/d4/16by9/2022/11/05/d4af3c3b8a1141e5938c6f3fbdede167_xl.jpg" alt="Logan Paul"/>
+            <Image width={800} height={500} src="https://phantom-marca.unidadeditorial.es/cea26cf05713714f44caf6426f42520d/resize/1200/f/jpg/assets/multimedia/imagenes/2022/11/06/16677375568111.jpg" alt="Logan Paul"/>
             <h3>Recent News</h3>
-            <a href='https://www.tmz.com/2022/11/05/logan-paul-loses-crown-jewel-match-roman-reigns-jake-paul-wwe-debut/'>
+            <a href='https://prowrestling.net/site/2022/11/06/logan-paul-suffered-a-major-knee-injury-during-wwe-crown-jewel/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Logan Paul suffered a major knee injury during WWE Crown Jewel ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="" alt="Logan Paul suffered a major knee injury during WWE Crown Jewel ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Logan Paul announced that he tore his meniscus and MCL, and may have suffered a torn ACL during his WWE Crown Jewel main event with Roman Reigns. Powell&#39;s POV:&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.marca.com/en/wwe/2022/11/06/6367b80d268e3ef7268b4594.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Injured Logan Paul leaves Saudi Arabia in a wheelchair</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSUS2Yts13sh6UPi0uxzYJcPOyD_oDHGGxeh01IftSoYVvSfgR3MgBZ-lOxOFdJKVdvysBlb1m5" alt="Injured Logan Paul leaves Saudi Arabia in a wheelchair" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Logan Paul was one of the biggest stars of the WWE Crown Jewel event after a spectacular bout against Roman Reigns for the Unified Universal Championship.</p></div>
+            </div>
+        </a><a href='https://bleacherreport.com/articles/10054776-whats-next-for-roman-reigns-after-win-vs-logan-paul-at-wwe-crown-jewel-2022'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>What&#39;s Next For Roman Reigns After Win vs. Logan Paul at WWE ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRvQ9-oks80p-FIGJj6a-IITqPMOi993Y20khBEy5JtBIz00x0rRjpWpfLDjtFIO39iG3_Ya3qQ" alt="What&#39;s Next For Roman Reigns After Win vs. Logan Paul at WWE ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>When the dust settled at WWE Crown Jewel 2022, Roman Reigns remained the Undisputed WWE Universal champion with a win over Logan Paul. The contest wasn&#39;t...</p></div>
+            </div>
+        </a><a href='https://nypost.com/2022/11/06/logan-paul-injured-vs-roman-reigns-at-wwe-crown-jewel/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Logan Paul says he suffered bad injury vs. Roman Reigns at WWE ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRqZRw5_dOhxCgFvATYt1cHiSM_QwZ-mVVmd8v0SdOruvKUgIchCvO0RyddCQ0wPRu1WOPDwoBP" alt="Logan Paul says he suffered bad injury vs. Roman Reigns at WWE ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>It will likely be a while before we see Logan Paul in a WWE ring again. He revealed on social media that he suffered a knee injury vs. Roman Reigns at Crown&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.dexerto.com/entertainment/logan-paul-reveals-he-suffered-serious-knee-injury-in-wwe-universal-match-vs-roman-reigns-1977677/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Logan Paul reveals he suffered serious knee injury in WWE ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRv0MbRq3y50qye71Irq-N6BffKuyfFFIC55vxkmy1ZVPIetWNsalYu2TTKkrOOQswXAzQXEi5-" alt="Logan Paul reveals he suffered serious knee injury in WWE ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Logan Paul has reported serious injuries to his leg following his high-flying WWE title match against Universal Champion Roman Reigns.</p></div>
+            </div>
+        </a><a href='https://www.tmz.com/2022/11/05/logan-paul-loses-crown-jewel-match-roman-reigns-jake-paul-wwe-debut/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Logan Paul Loses To Roman Reigns At Crown Jewel, Jake Makes ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQFOGk2HJtVOMmZ4wgAP7Gqg0TM2WM0yxD2VRvoKWt0-ZY_vxiv_NkNymTtVR6kwW7wQQ51MTBN" alt="Logan Paul Loses To Roman Reigns At Crown Jewel, Jake Makes ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR8wWFh_gtBbI3zmppj6MLEfA49a4J5EeQ9kwEgbDn9TVmkq2KCIJX4b3uVhRzQQi2cEGWnm8_M" alt="Logan Paul Loses To Roman Reigns At Crown Jewel, Jake Makes ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Logan Paul proved once again he belonged in the ring on Saturday ... showing off his athleticism against Roman Reigns, the undisputed WWE Universal Champion&nbsp;...</p></div>
-            </div>
-        </a><a href='https://bleacherreport.com/articles/10052163-roman-reigns-defeats-logan-paul-retains-wwe-universal-title-at-crown-jewel-2022'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Roman Reigns Defeats Logan Paul; Retains WWE Universal Title at ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQzrztIUnNe8XA4zQiVJKYZiBMKqKkNsaodtm7WvWaA0iijl7Ox-QYP6dh31pj7aiIkkRMcKVi0" alt="Roman Reigns Defeats Logan Paul; Retains WWE Universal Title at ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Roman Reigns beat Logan Paul at Crown Jewel in Saudi Arabia on Saturday to retain the Undisputed WWE Universal Championship.</p></div>
-            </div>
-        </a><a href='https://www.si.com/wrestling/2022/11/05/logan-paul-wwe-crown-jewel-star-making-performance-roman-reigns'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Logan Paul Delivers Star-Making Performance vs. Roman Reigns at ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRSaEPxDlXDaCjzG3qcGEcLalRa4LHn8uu8HjuwnUMz06Bmq9Fp-3wdzoUJ8lrjLFSz3ItWvKxs" alt="Logan Paul Delivers Star-Making Performance vs. Roman Reigns at ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The celebrity influencer was excellent in a must-watch bout against the promotion&#39;s biggest star.</p></div>
-            </div>
-        </a><a href='https://www.timesnownews.com/sports/wwe/wwe-crown-jewel-results-logan-paul-delivers-the-lucky-punch-but-falls-short-against-roman-reigns-article-95327247'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>WWE Crown Jewel results: Logan Paul delivers the lucky punch but ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRl8B3YfAXEiXaXOsvq5sKRaN2XYEqSmTNKZKak8iiW-fnx0xe18aZbX8qXit4M_Y40KbpHBNJn" alt="WWE Crown Jewel results: Logan Paul delivers the lucky punch but ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Roman Reigns extended his reign as the Undisputed Universal Champion with a win over Logan Paul in the main event of Crown Jewel. The match ended with&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.wwe.com/shows/wwe-crown-jewel/2022/roman-reigns-vs-logan-paul-results'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Roman Reigns survives Logan Paul&#39;s One Lucky Shot</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQq94G9OMbuPfuduQ77xgp55UdzpmwZYqHJlPp1FyhWnTK81eFKWFd-skwccmNDKjLEzw2H0ea8" alt="Roman Reigns survives Logan Paul&#39;s One Lucky Shot" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Paul had been training with Shawn Michaels ahead of the match and emulated the two-time WWE Hall of Famer by tuning up the band. The Sweet Chin Music attempt&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.forbes.com/sites/blakeoestriecher/2022/11/05/wwe-crown-jewel-2022-results-logan-paul-steals-the-show-despite-loss-to-roman-reigns/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>WWE Crown Jewel 2022 Results: Logan Paul Steals The Show ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRIEmmx2pJRmxSbxI3gXxtykMn01p4ofW2O-rrzrYVWMw-ds8A1ctw2Zv7wbK1fiKgph5guazZM" alt="WWE Crown Jewel 2022 Results: Logan Paul Steals The Show ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Roman Reigns has carried WWE as its Universal Champion for more than two years, and despite a hard-fought instant classic against social media celebrity&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

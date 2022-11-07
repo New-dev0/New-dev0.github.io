@@ -11,56 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Netherlands vs South Africa"/>
         <meta name="description" content="Trending News about Netherlands vs South Africa" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Netherlands vs South Africa</h1>
-            <Image width={800} height={500} src="https://images.indianexpress.com/2022/11/SA-NED-Live.jpg" alt="Netherlands vs South Africa"/>
+            <Image width={800} height={500} src="https://images.indianexpress.com/2022/11/Untitled-design-7-2.jpg" alt="Netherlands vs South Africa"/>
             <h3>Recent News</h3>
-            <a href='https://indianexpress.com/article/sports/cricket/sa-vs-ned-live-south-africa-vs-netherlands-live-cricket-score-t20-world-cup-2022-8252013/'>
+            <a href='https://indianexpress.com/article/sports/cricket/five-dramatic-moments-from-the-netherlands-vs-south-africa-game-when-tom-cooper-passed-the-baton-to-babar-and-other-highlights-8252698/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Africa vs Netherlands Live Score, T20 World Cup 2022: South ...</h3>
+                <h3>Five dramatic moments from Netherlands vs South Africa game ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTMqwRJmTRWGuPE1QMv41m4_L9xwV5qDDCRruYofbcf9PE9HG4gb2UlSCoKcdwiUOcvLuGd0ZH-" alt="South Africa vs Netherlands Live Score, T20 World Cup 2022: South ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>South Africa vs Netherlands Live Cricket Score, T20 WC 2022, 40th Match, Super 12 Group 2: South Africa have won the match and they have opted to field&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTOhly-f9_1ejd_flihFx_VgTFZDrx5SPNLootb-KShEaq8JKNeLXpVzNq4pBdfkNoT-vew1sad" alt="Five dramatic moments from Netherlands vs South Africa game ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Van der Merwe&#39;s stunning catch, Edwards&#39;s reverse ramp, Ackerrman&#39;s wristy-flicks, Van Meekeren&#39;s knock-out of Bavuma all feature in the greatest match of&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.hindustantimes.com/cricket/south-africa-vs-netherlands-live-cricket-score-t20-world-cup-2022-sa-vs-ned-today-match-101667669102656.html'>
+        </a><a href='https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134/netherlands-vs-south-africa-40th-match-group-2-1298174/match-report'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Africa vs Netherlands Live Score, T20 WC: NED post 158/4 in ...</h3>
+                <h3>Shock defeat ends South Africa&#39;s World Cup as Netherlands script ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRrueR2iQF6dkIGzKJbuzxgKjZ_FQwNwztoPOQDPwVjNS-tONlLWTFTr4We319Hd8ODXfchW0b2" alt="South Africa vs Netherlands Live Score, T20 WC: NED post 158/4 in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A half-volley by Parnell, on the pads. Ackermann clatters it over midwicket for a six! NED: 158/4 (20), TARGET FOR SA: 159. Nov&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQqmqAVOKquip-F7_fHeX4O53uTLrS_eBIPf-ilQzVNlm8RtnJzygG67stXzoqy8lCJf2Dt7b9X" alt="Shock defeat ends South Africa&#39;s World Cup as Netherlands script ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Result guarantees India a spot in the semi-finals, while the Bangladesh vs Pakistan match becomes a knockout.</p></div>
             </div>
-        </a><a href='https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134/netherlands-vs-south-africa-40th-match-group-2-1298174/match-preview'>
+        </a><a href='https://m.cricbuzz.com/live-cricket-scores/43181/ned-vs-rsa-40th-match-super-12-group-2-icc-mens-t20-world-cup-2022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Netherlands stand between South Africa and the semi-finals</h3>
+                <h3>South Africa vs Netherlands, 40th Match, Super 12 Group 2, ICC ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRsJojWLdMOawfGhPESrJYIZECcM1iChXJPN79t2GvLJfxDuIpkcF3y64EZLvi78KKnqvW2M0m5" alt="Netherlands stand between South Africa and the semi-finals" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Pakistan&#39;s hopes hinge on the Dutch pulling off another surprise in a tournament full of surprises.</p></div>
+                <Image src="" alt="South Africa vs Netherlands, 40th Match, Super 12 Group 2, ICC ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Follow South Africa vs Netherlands, 40th Match, Super 12 Group 2, Nov 06, ICC Mens T20 WC 2022 with live Cricket score, ball by ball commentary updates on&nbsp;...</p></div>
             </div>
-        </a><a href='https://crickettimes.com/2022/11/t20-world-cup-2022-south-africa-vs-netherlands-predicted-xi-pitch-and-weather-report/'>
+        </a><a href='https://www.livemint.com/news/world/south-africa-lose-to-netherlands-t20-world-cup-2022-11667704791204.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>T20 World Cup 2022: South Africa vs Netherlands – Predicted XI ...</h3>
+                <h3>South Africa lose to Netherlands, help India guarantee spot in semi ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTZymSJauzLS9Tk3twTmP0lnyiQBDeyOwPVgibj-t6uudn7ob_vJVEQsCJAQRi-XTKR_Lj809BF" alt="T20 World Cup 2022: South Africa vs Netherlands – Predicted XI ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>South Africa will meet the Netherlands in their final Super 12 fixture at the Adelaide Oval on Sunday. The equation is pretty simple for the Proteas,&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQKCmliQO81P1PY0JdEUoeyutQ5s6tiP389VVDIfZM0IBYb_faqhe0To9uDXPFivjLsrRDi1OLu" alt="South Africa lose to Netherlands, help India guarantee spot in semi ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Pakistan will now have a much greater chance to enter the semi-finals of T20 World Cup 2022.</p></div>
             </div>
-        </a><a href='https://sportstar.thehindu.com/cricket/t20-world-cup/sa-vs-ned-live-streaming-info-t20-world-cup-2022-when-where-how-to-watch-south-africa-vs-netherlands-online-tv-telecast/article66100543.ece'>
+        </a><a href='https://www.skysports.com/cricket/news/12123/12739724/south-africa-knocked-out-of-t20-world-cup-after-shock-defeat-to-netherlands'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Africa vs Netherlands Live Streaming Info, T20 World Cup ...</h3>
+                <h3>South Africa knocked out of T20 World Cup after shock defeat to ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSLc9oyNuzDc2Z0AT9nRhk82KL4PJKL1hlY7HzSpu0Z2FdAtnyt1NyUCW7CJs6YDuweT9zHIOsc" alt="South Africa vs Netherlands Live Streaming Info, T20 World Cup ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>SA vs NED Live Streaming Info, T20 World Cup: Here is how you can watch the South Africa vs Netherlands Super 12 match on Sunday.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRKKLTg2TC-6A9QCmYcwaahpZK4c6A7bgUDQvwNf21VRjdMMcilmz4-zLvBAjaYQYkcxYURZ2FE" alt="South Africa knocked out of T20 World Cup after shock defeat to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>South Africas 13-run defeat to Netherlands eliminates them from T20 World Cup and guarantees Indias progression to semi-finals; Pakistan then take second&nbsp;...</p></div>
             </div>
-        </a><a href='https://zeenews.india.com/cricket/south-africa-vs-netherlands-t20-world-cup-2022-super-12-group-2-match-no-40-preview-live-streaming-details-when-and-where-to-watch-sa-vs-ned-match-online-and-on-tv-2531340.html'>
+        </a><a href='https://sportstar.thehindu.com/cricket/t20-world-cup/sa-vs-ned-live-score-t20-world-cup-2022-south-africa-netherlands-scorecard-streaming-info-highlights-super-12-adelaide/article66101404.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Africa vs Netherlands T20 World Cup 2022 Super 12 Group 2 ...</h3>
+                <h3>South Africa vs Netherlands Highlights T20 World Cup 2022: NED ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTPjhLB-0WP6Qj8v4n9o2T9HU9YBn7RWzKOQhx1jcX1FGcoIzx1keqcVOZiqugN3mFeD0xY4Nxd" alt="South Africa vs Netherlands T20 World Cup 2022 Super 12 Group 2 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Netherlands are bowing out of the tournament after this game while Proteas men will be looking for a win as they are stuck on just 5 points as against 6 points&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQh0dMMuSWiv4N66OhPIDKuMOesv5YFyGRVBPLqA6g4ScjjEjcVD_nKZ9lwJIeaO47gIZBuaKcN" alt="South Africa vs Netherlands Highlights T20 World Cup 2022: NED ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>SA vs NED T20 WC Highlights: Netherlands stunned South Africa by 13 runs as the Temba Bavuma side suffered a shock exit from the T20 World Cup at the&nbsp;...</p></div>
             </div>
-        </a><a href='https://sports.ndtv.com/t20-world-cup-2022/south-africa-vs-netherlands-t20-world-cup-super-12-live-3493774'>
+        </a><a href='https://www.livehindustan.com/cricket/story-south-africa-vs-netherlands-live-score-icc-mens-t20-world-cup-2022-today-match-live-updates-in-hindi-7314023.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Africa vs Netherlands, T20 World Cup, Super 12 Live Score ...</h3>
+                <h3>South Africa vs Netherlands : T20 WC में एक और उलटफेर, नीदरलैंड से ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRWrmFCuF_E7W-uQdDTn9_iDpbfiKrSCaQzWzwTHDGx3aIwhSdjcsNVaFw3RTOvBPsXRMWJCyeg" alt="South Africa vs Netherlands, T20 World Cup, Super 12 Live Score ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>South Africa vs Netherlands, T20 WC Live: South Africa look to seal a semi-final spot as they take on the Netherlands.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTmdcPwce8fYJJf2TALZacKRnjMC8a5mQhn_oDWlBp3GEP5fq2ta5cqXC2baA4dErwo2P2g2_Hn" alt="South Africa vs Netherlands : T20 WC में एक और उलटफेर, नीदरलैंड से ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>South Africa vs Netherlands : नीदरलैंड ने टी20 वर्ल्ड कप 2022 सुपर-12 के अपने आखिरी मुकाबले में दक्षिण&nbsp;...</p></div>
+            </div>
+        </a><a href='https://navbharattimes.indiatimes.com/sports/cricket/t20worldcup/news/netherlands-defeated-south-africa-in-t20-world-cup-2022-sa-vs-ned-highlights/articleshow/95329937.cms'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Sa vs Ned T20 Highlights: चोकर्स का ठप्पा नहीं मिटा पाई दक्षिण ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSixCbAJmxDNyxFvjUjT8Go_kgZtPUPs8n54frdPCf19nPmkN2bokXpm0IJtkDxEvcwmxInog-M" alt="Sa vs Ned T20 Highlights: चोकर्स का ठप्पा नहीं मिटा पाई दक्षिण ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>South Africa vs Netherlands T20 World Cup: टी20 वर्ल्ड कप 2022 में दक्षिण अफ्रीका का सफर समाप्त हो गया है।</p></div>
+            </div>
+        </a><a href='https://www.aajtak.in/sports/cricket/story/south-africa-vs-netherlands-t20-world-cup-2022-updates-team-india-qualify-semi-final-sa-vs-ned-match-updates-tspo-1569604-2022-11-06'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>South Africa T20 World Cup: बड़ा उलटफेर, साउथ अफ्रीका की हार, टीम ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQXb_ZqB9hFHcZu4LeGofXfMhfAROpz7lYhbwZ6ExF8_G4FLgeIR-SU0_g-GnZSJudjFPHPfF19" alt="South Africa T20 World Cup: बड़ा उलटफेर, साउथ अफ्रीका की हार, टीम ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>टी20 वर्ल्ड कप 2022 में रविवार को बड़ा उलटफेर देखने को मिला. कमजोर नीदरलैंड्स टीम ने साउथ&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.amarujala.com/cricket/cricket-news/sa-vs-ned-t20-live-score-t20-world-cup-south-africa-vs-netherlands-scorecard-and-result-news-in-hindi'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>SA vs NED: नीदरलैंड ने टी20 वर्ल्ड कप में किया सबसे बड़ा उलटेफर ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSrbsNRtR4mI2buzUNw8zukv-tIKCwSxTaFa_8cRG6N7K_Ry2g4npMmMyHD2QtNZeUXEGTE8Nw6" alt="SA vs NED: नीदरलैंड ने टी20 वर्ल्ड कप में किया सबसे बड़ा उलटेफर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Live Cricket Score (SA vs NED) South Africa vs Netherlands T20 World Cup: नमस्कार, अमर उजाला के लाइव ब्लॉग में आपका&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
