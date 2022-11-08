@@ -11,77 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Vande Bharat Express"/>
         <meta name="description" content="Trending News about Vande Bharat Express" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Vande Bharat Express</h1>
-            <Image width={800} height={500} src="https://st.adda247.com/https://wpassets.adda247.com/wp-content/uploads/multisite/sites/5/2022/09/30162737/Vande_Bharat_exp.jpg" alt="Vande Bharat Express"/>
+            <Image width={800} height={500} src="https://images.livemint.com/img/2022/11/08/600x338/Vande_Bharat_Express_1667865735271_1667865735461_1667865735461.jpg" alt="Vande Bharat Express"/>
             <h3>Recent News</h3>
-            <a href='https://currentaffairs.adda247.com/gandhinagar-mumbai-vande-bharat-express-launched-by-pm-modi/'>
+            <a href='https://www.livemint.com/news/india/indian-railways-conducts-successful-trial-run-of-chennai-mysuru-vande-bharat-express-11667864681387.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Gandhinagar-Mumbai Vande Bharat Express launched by PM Modi</h3>
+                <h3>Indian Railways conducts successful trial run of Chennai-Mysuru ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTiSFRTqlLztf-12z6mh9hSbjaRpzfHIJXKavP1qJMvWPNVwVMqQI8j18Ne3GE4fOB-ZbPUfI7T" alt="Gandhinagar-Mumbai Vande Bharat Express launched by PM Modi" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Gandhinagar-Mumbai Vande Bharat Express: Gandhinagar-Mumbai Central Vande Bharat Express train on September 30, 2022, Prime Minister Narendra Modi waved off&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSDWjk3NtXSiUY_plJ6Ue0pADBWdzQN0z45vRt7FNLzRKqbPkxJh6uAxmOtWgZDk9qIJyHp8H4I" alt="Indian Railways conducts successful trial run of Chennai-Mysuru ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Indian Railways&#39; Southern Railway(SR) zone conducted the trial run of the fifth rake of Vande Bharat Express on Monday from Dr MGR Chennai Central to Mysuru&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.jagran.com/news/national-gandhinagar-ahmedabad-mumbai-central-vande-bharat-express-know-time-table-route-timings-stoppage-and-everything-23109485.html'>
+        </a><a href='https://www.thehindu.com/news/cities/chennai/vande-bharat-express-completes-trial-run/article66107509.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>पीएम मोदी ने गुजरात में Vande Bharat Express को दिखाई हरी झंडी, जानें ...</h3>
+                <h3>Vande Bharat Express completes trial run between Chennai and ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTjdpVGNhIqBIdbLE9UoQ12_l0SoK7AbUYh7amo71yT_0njY9HtvOfcOtpMCeiqFQDfQ7GnVfne" alt="पीएम मोदी ने गुजरात में Vande Bharat Express को दिखाई हरी झंडी, जानें ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Gandhinagar Mumbai Vande Bharat Express Time Table पीएम मोदी ने आज गांधीनगर से भारत की तीसरी वंदे भारत&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSbE8oBrs2ZkgUPtgVNvukl3MwZ6GjmVgop2JXazn3XdX3UZAkIzPGafq7d0in0KQb6LcOjA5hY" alt="Vande Bharat Express completes trial run between Chennai and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The premier train has surveillance camera and aerodynamic body with a seating capacity of 1128; it will flagged off by Prime Minister Modi on November 11.</p></div>
             </div>
-        </a><a href='https://www.businesstoday.in/latest/economy/story/vande-bharat-express-20-pm-modi-flags-off-new-train-between-gandhinagar-and-mumbai-348690-2022-09-30'>
+        </a><a href='https://newsonair.com/2022/11/07/chennai-mysore-vande-bharat-express-on-track-soon-trail-run-successful/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Vande Bharat Express 2.0: PM flags off new train between ...</h3>
+                <h3>Chennai-Mysore Vande Bharat Express on track soon; trail run ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRtdyKZlaZocsL2ClDJH9_YetvNEy4pQD-oWQ4jGemIVnw5qxULktEUs68Die9-kcmoBMWd-Nm9" alt="Vande Bharat Express 2.0: PM flags off new train between ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Modi flagged off the train from Gandhinagar Capital railway station around 10.30 am. PM Modi, at Gandhinagar station, was accompanied by Gujarat Chief Minister&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSRQY_o9_bwKEjddw7chDdBUe9lGT6zdrybXPjDe6CPDYtZiqd2hyucFaQFqOwBT0kREP87pIc3" alt="Chennai-Mysore Vande Bharat Express on track soon; trail run ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Indian Railways conducted a successful trial run of Chennai-Mysore Vande Bharat Express from Chennai&#39;s MG Ramachandran Central Railway station today,&nbsp;...</p></div>
             </div>
-        </a><a href='https://indianexpress.com/article/explained/vande-bharat-train-pm-modi-new-features-upgrades-8181593/'>
+        </a><a href='https://swarajyamag.com/news-brief/chennai-bengaluru-mysuru-vande-bharat-express-first-trial-run-completed-successfully-formal-launch-on-nov-11'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Vande Bharat train PM Modi inaugurated: What are its new features ...</h3>
+                <h3>Chennai-Bengaluru-Mysuru Vande Bharat Express: First Trial Run ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRwq9SyBO4u-NzSzQ8bvEEtfazAR7O2WDFRl6-0D5XHiSZMwJ0mrS2-0z3bjxAZ1FpS5WLIIp1e" alt="Vande Bharat train PM Modi inaugurated: What are its new features ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>PM Modi had also inaugurated the Vande Bharat when it was first launched in Delhi in 2019. Why is the PM inaugurating the train for the second time in three&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSbVHyTJJ9LF2cCMSZzTKtzMyIFVUnWvGZ3KZUZD6yV6f5fKxzWYGqCX3Dlaj3wDaYEIdzstot3" alt="Chennai-Bengaluru-Mysuru Vande Bharat Express: First Trial Run ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The train departed from Puratchi Thalaivar Dr. M.G. Ramachandran Central Railway Station in Chennai at 5.50 a.m. and reached Mysuru at 12.13 p.m., according to&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.livemint.com/news/india/mumbai-gandhinagar-vande-bharat-express-know-what-will-passengers-get-on-menu-11664510957608.html'>
+        </a><a href='https://www.zeebiz.com/indian-railways/news-vande-bharat-express-train-chennai-bengaluru-mysuru-route-trial-run-conducted-successfully-check-launch-date-train-number-ticket-price-schedule-timings-stops-206554'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mumbai-Gandhinagar Vande Bharat Express: Know what will ...</h3>
+                <h3>Vande Bharat Express Train Chennai-Bengaluru-Mysuru Route ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ0_3QdHRCBVcjRc7rtS8PLcy_QcGl_Phb4kY0j7cLcqXhx6MH5danal3DtAnK96gO14Zq-YciD" alt="Mumbai-Gandhinagar Vande Bharat Express: Know what will ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mumbai- Gandhinagar Vande Bharat Express: In a first, healthy malt beverages for travelling kids are being introduced as a service in the premium train.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT7EdOfAOGaX5KxsPc00v5tW4F6cZyq1ugipH7FmkGjGWMqPyg_CGToRn7-g7F5jGsfHAg-74R_" alt="Vande Bharat Express Train Chennai-Bengaluru-Mysuru Route ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Vande Bharat Express Train Chennai-Bengaluru-Mysuru Route: This is the first such indigenously-built high-speed rail in the southern part of India and the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.abplive.com/states/maharashtra/vande-bharat-express-train-from-ahmedabad-reached-mumbai-in-five-and-a-half-hours-2227818'>
+        </a><a href='https://starofmysore.com/chennai-mysuru-vande-bharat-express-arrives-in-city-on-trial/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Vande Bharat Express: अहमदाबाद से साढ़े पांच घंटे में मुंबई पहुंची वंदे ...</h3>
+                <h3>Chennai-Mysuru Vande Bharat Express arrives in city on trial - Star ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSighaMjGqqKEmWUfA5m3pqaIZNkgZ7MUiaEOOZQ_zmkP1UnSvybfqa-FGyJD_h5WpQiBsbDNmT" alt="Vande Bharat Express: अहमदाबाद से साढ़े पांच घंटे में मुंबई पहुंची वंदे ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mumbai News: वंदे भारत एक्सप्रेस अहमदाबाद से मुंबई साढ़े पांच घंटे में पहुंच गया.</p></div>
-            </div>
-        </a><a href='https://zeenews.india.com/railways/vande-bharat-express-to-reduce-travel-time-people-will-prefer-train-over-planes-pm-narendra-modi-2516267.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Vande Bharat Express to reduce travel time, people will prefer train ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQGdu1KVxT6oOLTUdmOh9jSf_iELlLgDUdvKOZqtGli3WbeSBIJbIQ3EUQaAKQgryJNGXJTxwC4" alt="Vande Bharat Express to reduce travel time, people will prefer train ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>After flagging off the third Vande Bharat train between Gandhinagar and Mumbai Prime Minister Narendra Modi boarded the train for the experience and hence&nbsp;...</p></div>
-            </div>
-        </a><a href='https://zeenews.india.com/hindi/business/vande-bharat-train-pm-modi-inaugurated-see-its-new-features-upgrades-route-list-and-fare/1374389'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Vande Bharat Express: PM मोदी ने तीसरे वंदे भारत एक्सप्रेस को दिखाई ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQJRe7T_5p_wrqMT7Oyc2GEmtsjhdHjiuH83wcwf8rfd77zFFtlTK792Idp4Lgrn4N6q6bi5rCE" alt="Vande Bharat Express: PM मोदी ने तीसरे वंदे भारत एक्सप्रेस को दिखाई ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>रेल यात्रियों के लिए बड़ी खुशखबरी है. देश में तीसरी वंदे भारत ट्रेन का संचालन शुरू हो&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.hindustantimes.com/india-news/new-vande-bharat-train-to-be-flagged-off-by-pm-modi-in-gandhinagar-top-points-101664510207557.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>PM aboard Vande Bharat Express after new train flagged off in ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRj6ff2hBIslrHTkavBrJbKIeGg8VjA3SD_oVn60kUiTOgtEcyguZyzeEDHs0-kTwk9FsMP5OE1" alt="PM aboard Vande Bharat Express after new train flagged off in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The newly launched Vande Bharat Express train will provide passengers aircraft-like travelling experience and advanced state-of-the-art safety features&nbsp;...</p></div>
-            </div>
-        </a><a href='https://navbharattimes.indiatimes.com/business/railway/know-the-time-table-of-the-countrys-third-vande-bharat-train-and-its-features/articleshow/94551988.cms'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Vande Bharat Express: पीएम मोदी ने दिखाई हरी झंडी, जानिए तीसरे वंदे ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRLGHxnaqRD6EA96R66irRKQ9_7MItgvmyLpmCv9oZHcdAZyh8M_HrlgYZM3Gd2idytoXTtnUD-" alt="Vande Bharat Express: पीएम मोदी ने दिखाई हरी झंडी, जानिए तीसरे वंदे ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>बुलेट ट्रेन (Bullet rain) से टक्कर लेने वाली अपनी देशी ट्रेन यानी वंदे भारत एक्सप्रेस (Vande&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR0ucMgC-RrnQiW44jZ1Ruqjopqr1TcFSl7na-LdlKX0UQucddvbGK0kEBC_EqirZ3my86GOxaH" alt="Chennai-Mysuru Vande Bharat Express arrives in city on trial - Star ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mysore/Mysuru: The Chennai-Bengaluru-Mysuru Vande Bharat High Speed train chugged into the City Railway Station 15 minutes ahead of its scheduled arrival&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
