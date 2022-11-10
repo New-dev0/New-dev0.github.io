@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,DY Chandrachud"/>
         <meta name="description" content="Trending News about DY Chandrachud" /></Head><Template>
             <h1 style={{fontSize: "30"}}>DY Chandrachud</h1>
-            <Image width={800} height={500} src="https://th-i.thgim.com/public/incoming/8wvx1w/article66022494.ece/alternates/FREE_1200/PTI10_11_2022_000055B.jpg" alt="DY Chandrachud"/>
+            <Image width={800} height={500} src="https://th-i.thgim.com/public/incoming/7x9hrl/article66114008.ece/alternates/FREE_1200/PTI11_09_2022_000009B.jpg" alt="DY Chandrachud"/>
             <h3>Recent News</h3>
-            <a href='https://www.thehindu.com/news/national/justice-dy-chandrachud-appointed-50th-chief-justice-of-india/article66022495.ece'>
+            <a href='https://www.thehindu.com/news/national/justice-dy-chandrachud-sworn-in-as-50th-chief-justice-of-india/article66114002.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Justice D.Y. Chandrachud appointed the 50th Chief Justice of India</h3>
+                <h3>D.Y. Chandrachud is sworn in as the 50th Chief Justice of India</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTTtImFaWUvp3kr669u6N3ZaK-EhxgsNLyYyE1merA8-YpCUptbQhc1JvdVkE6jvvyo8lTWyXZm" alt="Justice D.Y. Chandrachud appointed the 50th Chief Justice of India" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Justice Chandrachud will take oath on November 9, a day after incumbent CJI Justice Uday Umesh Lalit demits office on attaining the age of 65. “In exercise of&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSJRZswU2loSBZvB4jhw_Lso56-UgqyUMnUk8i62IrNxTxaJCHFxH3uP5TdrnWUmy9e5cgfUF6v" alt="D.Y. Chandrachud is sworn in as the 50th Chief Justice of India" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>CJI Chandrachud, who describes dissent as the &#39;safety valve of democracy&#39;, has been part of several Constitution benches and landmark verdicts of the top&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.businesstoday.in/latest/economy/story/justice-dy-chandrachud-to-be-indias-next-cji-all-you-need-to-know-about-the-next-chief-justice-350124-2022-10-18'>
+        </a><a href='https://www.indialegallive.com/top-news-of-the-day/news/justice-dy-chandrachud-50th-chief-justice-of-india/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Justice DY Chandrachud to be India&#39;s next CJI; all you need to know ...</h3>
+                <h3>Justice DY Chandrachud becomes 50th Chief Justice of India</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQvBbVvoE3gcx2WdR5lCKW91SGtN0jHeQwFLDhLFNwKhI8t4unun8Bpf5RFmzrIvRJ3gkB9wy0J" alt="Justice DY Chandrachud to be India&#39;s next CJI; all you need to know ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Justice DY Chandrachud is all set to take oath as the 50th Chief Justice of India (CJI) on November 9. Upon his appointment as the CJI, Chandrachud will&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS3fB_5TzexN8d8P4ihdrxrX9FZuIvJCWqv8eBBmLHci2TUDkBenoT54_4AW7NukREQMOeMu41P" alt="Justice DY Chandrachud becomes 50th Chief Justice of India" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>President Droupadi Murmu administered the oath of office to Justice Chandrachud during the swearing-in ceremony held at the Durbar Hall of Rashtrapati Bhavan.</p></div>
             </div>
-        </a><a href='https://www.livemint.com/news/india/dy-chandrachud-appointed-50th-cji-here-s-a-look-at-his-key-rulings-11666013894602.html'>
+        </a><a href='https://www.livemint.com/news/india/justice-dy-chandrachud-becomes-50th-chief-justice-of-india-11667967113012.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>DY Chandrachud appointed 50th CJI: Here&#39;s looking at his key ...</h3>
+                <h3>Justice DY Chandrachud becomes 50th Chief Justice of India | Mint</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTsXR4GajGVsHZTgfIdSAyexWxR54U85ohcQzs5-mH5kzGh9_3xlx8qF8hjHWzs4QViexRmMecG" alt="DY Chandrachud appointed 50th CJI: Here&#39;s looking at his key ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Sabarimala temple case to granting permanent commission to women int he armed forces, Justice Chandrachud has lived up to his reputation as an advocate of&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQo0mrWb5Knor4HCCfSfKkSeM_AeabXUVr8pe57oF5dbNSBpXF9lYKWbT1g90Ti4S50Xl3-VUYn" alt="Justice DY Chandrachud becomes 50th Chief Justice of India | Mint" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Justice DY Chandrachud on Wednesday was sworn in as Chief Justice of India by President Droupadi Murmu after Justice Uday Umesh Lalit demitted office.</p></div>
             </div>
-        </a><a href='https://www.jagran.com/news/national-justice-dy-chandrachud-appoints-as-cji-by-president-murmu-to-assume-office-on-nov9-23147429.html'>
+        </a><a href='https://indianexpress.com/article/cities/mumbai/dy-chandrachud-chief-justice-of-india-verdicts-bombay-hc-judge-8258282/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>New CJI DY Chandrachud: जस्टिस डीवाई चंद्रचूड़ को राष्ट्रपति ने ...</h3>
+                <h3>D Y Chandrachud, the 50th CJI, his Bombay HC verdicts and his ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQaH8TKWmjS3Qk-3x12-eFBmAKz-9JMT6NTvCwPFcwR6TpQigITx8kogkW0OBAHfcHskcjSsxbR" alt="New CJI DY Chandrachud: जस्टिस डीवाई चंद्रचूड़ को राष्ट्रपति ने ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>नई दिल्ली, एएनआई। भारत के नए सीजेआई न्यायमूर्ति डी वाई चंद्रचूड़ बनने जा रहे हैं।</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQE6fr4hsa3Ptnpjt-yudp8qx0HCZKD9kbYqlf6YNWB2MRi5MYF9EW3RVUs1A8NRKdWUzX3ni7n" alt="D Y Chandrachud, the 50th CJI, his Bombay HC verdicts and his ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>From cases related to a minister &#39;amassing&#39; wealth to a cartoonist&#39;s arrest, Justice D Y Chandrachud during his tenure as a Bombay HC judge delivered&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.amarujala.com/india-news/president-draupadi-murm-appointed-dr-justice-dy-chandrachud-as-chief-justice-of-india'>
+        </a><a href='https://www.tribuneindia.com/news/nation/will-protect-citizens-in-every-aspect-new-cji-dy-chandrachud-449285'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>New CJI DY Chandrachud: जस्टिस डीवाई चंद्रचूड़ होंगे देश के अगले ...</h3>
+                <h3>Will protect citizens in every aspect: New CJI DY Chandrachud</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSaYlwZTYvX5TBk6cZOA7cmPXQHlPaeLmm5yJmCzqRLlrgYVPzcoyYmidr4G7jxRchCKHEhV6kf" alt="New CJI DY Chandrachud: जस्टिस डीवाई चंद्रचूड़ होंगे देश के अगले ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>भारत के संविधान द्वारा प्रदत्त शक्ति का प्रयोग करते हुए राष्ट्रपति द्रौपदी मुर्मू ने&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSAS7c88vSf50A8qXh_Uyum_MAUlDeYL0y9kVFel75IH88PbRqtd6w0Tlmor5GRRMgPfCh2BKMo" alt="Will protect citizens in every aspect: New CJI DY Chandrachud" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Justice DY Chandrachud, the senior-most judge of the Supreme Court, was on Wednesday sworn in as the 50th Chief Justice of India.</p></div>
             </div>
-        </a><a href='https://economictimes.indiatimes.com/news/india/justice-dy-chandrachud-career-highlights-landmark-judgments-other-things-about-indias-new-cji/articleshow/94922822.cms'>
+        </a><a href='https://www.jagran.com/news/national-justice-dy-chandrachud-profile-from-economics-class-to-chief-justice-of-india-23192786.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Justice <b>DY Chandrachud</b>: Career highlights, landmark judgments &amp; other things about India&#39;s new CJI</h3>
+                <h3>Justice DY Chandrachud Profile: इकोनॉमिक्स की क्लास से चीफ जस्टिस ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTUzPikT3qw28rS5if82yUulC3pPnMeBuAV3v6POY53hCUYMMtlBrb-ZqlCVRHGUu1XwruoTmH4" alt="Justice <b>DY Chandrachud</b>: Career highlights, landmark judgments &amp; other things about India&#39;s new CJI" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Justice <b>DY Chandrachud</b>, the new Chief Justice of India, will succeed outgoing CJI UU Lalit on November 8. He will be sworn in as India&#39;s 50th CJI on November 9. Chandrachud was named successor by the outgoing CJI on October 11. Justice Chandrachud will&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQMFj1jySaRMbt6excp1R_2x_2Wx9blPiczEGCO86e_Yb0PAMRQh4uRqvqFNtqxlK1wFrhYpTug" alt="Justice DY Chandrachud Profile: इकोनॉमिक्स की क्लास से चीफ जस्टिस ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>जस्टिस चंद्रचूड़ के व्यक्तित्व के विभिन्न पहलू देखने को मिलते हैं जो यह बताते हैं कि&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.opindia.com/2022/10/president-india-dy-chandrachud-chief-justice/'>
+        </a><a href='https://www.greaterkashmir.com/todays-paper/front-page/my-work-not-words-will-speak-says-justice-d-y-chandrachud-after-being-sworn-in-as-50th-cji'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>President Droupadi Murmu appoints Justice DY Chandrachud, son ...</h3>
+                <h3>My work, not words will speak, says Justice D Y Chandrachud after ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRIHK5icYDzYSd0JIxLbUMrMnkLgAMWzyj7GQrvH1EMtae_QRgouF-0rrOTimIRKxLBA2Q0At4z" alt="President Droupadi Murmu appoints Justice DY Chandrachud, son ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Justice Chandrachud will take over as the 50th Chief Justice of India with effect from 09th November 2022. | OpIndia News.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRy0-zNcJLs8uYzqq_ah1IqLyfV4ZNE5ea77kxWBL1xQ_resBCmGF00HPc199_AyhuNL-YVllHR" alt="My work, not words will speak, says Justice D Y Chandrachud after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Justice Chandrachud took the oath at a ceremony held at the Rashtrapati Bhavan, which was attended by Vice President Jagdeep Dhankhar, Union Home Minister Amit&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.abplive.com/news/india/justice-dy-chandrachud-appointed-as-chief-justice-of-india-by-president-2240084'>
+        </a><a href='https://www.amarujala.com/india-news/50th-cji-of-has-reversed-the-fathers-decision-know-everything-about-justice-dy-chandrachud'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>New CJI: जस्टिस डीवाई चंद्रचूड़ के नाम पर राष्ट्रपति ने लगाई मुहर, 9 ...</h3>
+                <h3>DY Chandrachud: पिता के फैसले को पलट चुके हैं देश के 50वें CJI, जानें ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTU5SKl1fJjks41DTnvARNmVS_H5qpQujAv5CEW_i4pgJUQZO5Sc3m2kNFxeRQw3OpTW3r20tPZ" alt="New CJI: जस्टिस डीवाई चंद्रचूड़ के नाम पर राष्ट्रपति ने लगाई मुहर, 9 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Chief Justice of India: जस्टिस डीवाई चंद्रचूड़ को देश की राष्ट्रपति ने मुख्य न्यायाधीश के रूप&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcREMT7gc_061EbVJRIviMFaNtqs86EkDdCA2peZDpY7MQeUQ5LDn6l771gXhYiZVc6KBrYCdPvv" alt="DY Chandrachud: पिता के फैसले को पलट चुके हैं देश के 50वें CJI, जानें ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>राष्ट्रपति भवन में हुए कार्यक्रम में राष्ट्रपति द्रौपदी मुर्मू ने चंद्रचूड़ को&nbsp;...</p></div>
             </div>
-        </a><a href='https://zeenews.india.com/hindi/india/madhya-pradesh-chhattisgarh/mp/justice-dy-chandrachud-new-cji-india-abortion-gay-sex-include-big-decision-ngmp/1400379'>
+        </a><a href='https://www.abplive.com/news/india/justice-dy-chandrachud-took-oath-as-chief-justice-of-india-today-ann-2255420'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>डीवाई चंद्रचूड़ होंगे देश के नए चीफ जस्टिस! गर्भपात, समलैंगिक सेक्स जैसे ...</h3>
+                <h3>जस्टिस डीवाई चंद्रचूड़ बने देश के 50वें CJI, दो साल का होगा कार्यकाल, पिता ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQF4NUE9qptKPaQPtc7r-wTiPSSPkycIKtkneaLSJZilgyQvP5IdgD5CFV_qZ819cc9HgbRM4j7" alt="डीवाई चंद्रचूड़ होंगे देश के नए चीफ जस्टिस! गर्भपात, समलैंगिक सेक्स जैसे ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>जस्टिस डीवाई चंद्रचूड़ देश के अगले मुख्य न्यायाधीश होंगे. राष्ट्रपति द्रौपदी मुर्मू&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSQLTsolcwcNy0C48hZCe4RvMqZRE8Bm70fei8uRZgjcj1Qxf93d7WpYTAI3JDfdZxBLnM33K7m" alt="जस्टिस डीवाई चंद्रचूड़ बने देश के 50वें CJI, दो साल का होगा कार्यकाल, पिता ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>जज के रूप में डीवाई चंद्रचूड़ की पहली नियुक्ति साल 2000 में बॉम्बे हाईकोर्ट में हुई थी.</p></div>
             </div>
-        </a><a href='https://www.zeebiz.com/hindi/india/justice-dy-chandrachud-next-chief-justice-of-india-with-effect-from-9-november-100313'>
+        </a><a href='https://www.zeebiz.com/hindi/trending/new-cji-justice-dy-chandrachud-profile-who-is-dy-chandrachud-biography-and-important-cases-he-has-been-a-part-of-103277'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Justice DY Chandrachud: जस्टिस चंद्रचूड़ होंगे देश के 50वें CJI, 9 नवंबर ...</h3>
+                <h3>CJI DY Chandrachud: समलैंगिक संबंधों से लेकर अबॉर्शन के अधिकार तक ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTKenbR50U3_qUkCX7lDB9jLEbhGPil6A32MX_E_PuEvMkpmp3tzkbIXvMBsgMJEvw_ijmvdycx" alt="Justice DY Chandrachud: जस्टिस चंद्रचूड़ होंगे देश के 50वें CJI, 9 नवंबर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Justice DY Chandrachud: डीवाई चंद्रचूड़ 9 नवंबर 2022 को देश के अगले चीफ जस्टि ऑफ इंडिया का पदभार&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTFRJiuEjn8EB5yT7vu11GGcT7Lkm2K4koNfGMyqZrhUEdEILibdc0bXSIpLDLrjqEhv38Qk7En" alt="CJI DY Chandrachud: समलैंगिक संबंधों से लेकर अबॉर्शन के अधिकार तक ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>New CJI Justice DY Chandrachud profile who is DY Chandrachud biography and important cases he has been a part of | बतौर सुप्रीम कोर्ट&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
