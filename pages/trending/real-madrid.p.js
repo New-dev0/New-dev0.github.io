@@ -11,77 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Real Madrid"/>
         <meta name="description" content="Trending News about Real Madrid" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Real Madrid</h1>
-            <Image width={800} height={500} src="https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1019%2Fr1078293_1296x729_16%2D9.jpg" alt="Real Madrid"/>
+            <Image width={800} height={500} src="https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Ftherealchamps.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1418546599.jpeg" alt="Real Madrid"/>
             <h3>Recent News</h3>
-            <a href='https://www.espn.in/football/spanish-laliga/story/4776029/real-madrid-beat-elche-as-ballon-dor-winner-benzema-scores'>
+            <a href='https://therealchamps.com/2022/11/11/pep-guardiola-real-madrid-claim/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Real Madrid beat Elche as Ballon d&#39;Or winner Benzema scores</h3>
+                <h3>Pep Guardiola delivers incredible Real Madrid claim</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRs8WSh1y4DTqXJcomCnvwqw_peL6Hl-AtzO-pBkaCkY0BDsm75PGW1gntZA5-P9mygZcpYE02F" alt="Real Madrid beat Elche as Ballon d&#39;Or winner Benzema scores" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Days after Real Madrid beat Barcelona and Karim Benzema winning the Ballon d&#39;Or, both team and player had little trouble against Elche.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRUZJgSGZHOGAxWI_aLk1Vqsp-pdO8BUs1cMy0kolhDSpC2ztN9xR81eAqft2L1PVOKjHIn-QrT" alt="Pep Guardiola delivers incredible Real Madrid claim" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Pep Guardiola has delivered an incredible claim about Real Madrid and their ability to win one Champions League after the other.</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-in/news/var-real-madrid-benzema-goals-ballon-d-or-rodrygo-elche/blt4fb2878af33de306'>
+        </a><a href='https://therealchamps.com/2022/11/11/liverpool-offer-real-madrid-superstar/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Not even VAR can stop Benzema &amp; Real Madrid! Ballon d&#39;Or winner ...</h3>
+                <h3>Liverpool made an offer to the Real Madrid superstar</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRVkgp25LOHSIEO4ONL2PqgDGx9wfwD0yepssFv18_Fl_KMIC5tWTEfjv0UzQ457LheawWn17c7" alt="Not even VAR can stop Benzema &amp; Real Madrid! Ballon d&#39;Or winner ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>WHAT HAPPENED? The in-form Fede Valverde was on target once again for the Blancos against struggling opposition, as was Marco Asensio, while Karim Benzema&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR5kBJk-71tdcHpYP9IJ1IkH6cb2M-2csS06Kkdb30dENSH6qUnHyLAh-tkqzoXT6Eskd9xRCL_" alt="Liverpool made an offer to the Real Madrid superstar" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Benzema is coming off of his best season ever, having guided the team to the Champions League and La Liga title last season, and scooping up the Ballon d&#39;Or for&nbsp;...</p></div>
             </div>
-        </a><a href='https://sportstar.thehindu.com/football/real-madrid-beats-bottom-placed-elche-la-liga-karim-benzema-fede-valverde/article66033144.ece'>
+        </a><a href='https://footballexpress.in/real-madrid-have-big-plans-for-2023/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Real Madrid breezes past rock-bottom Elche</h3>
+                <h3>Real Madrid have big plans for 2023</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTJDPbx7eeRQs5EQnw1_RI0D0U0rpYeolTvktoZ2ddw9ZhRPN-QZTy0ulZ_eqK5NL-mrhVq5nTZ" alt="Real Madrid breezes past rock-bottom Elche" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Real Madrid tops the table with 28 points, six ahead second-placed Barcelona which has a game in hand and hosts Villarreal on Thursday.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT9ABXi2Ci4BkgoJO95e30ZO3uU_JNsixljaEBc16WSA8BF_5mA-nEg6C5VbgSgV6mYQc9lNHQq" alt="Real Madrid have big plans for 2023" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>But apart from that, they are firing in La Liga with Vinicius, Rodrygo, and Valverde leading from the front. Barcelona are the only team who have scored more&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.goal.com/en/news/real-madrid-vs-sevilla-live-stream-tv-channel-kick-off-time-and-where-to-watch/blt26bae87fa0f97d0b'>
+        </a><a href='https://www.dailymail.co.uk/sport/football/article-11417541/Carlo-Ancelotti-teases-Luka-Modric-HORRENDOUS-miss-Real-Madrids-win-Cadiz.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Real Madrid vs Sevilla: Live stream, TV channel, kick-off time ...</h3>
+                <h3>Carlo Ancelotti teases Luka Modric for his HORRENDOUS miss in ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSfHAPdNas2xB00xjF4l-CALUE6P5LmGKeSvAxpE-FiKg1jyE2bVpj_raxP9mgck1LyIzxdZNoc" alt="Real Madrid vs Sevilla: Live stream, TV channel, kick-off time ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Los Blancos are in an impressive vein of form as they head into this fixture on the back of a comprehensive 3-0 victory over Elche. They showed no signs of post&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSxhLEmw3am7TF3WxOJzT8j1r9iyYn0_V7LneVRun5QBeG5TT0QUorldmpTsartkSybf4gI0fMc" alt="Carlo Ancelotti teases Luka Modric for his HORRENDOUS miss in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Real Madrid manager Carlo Ancelotti gave an amusing response when asked about Luka Modric&#39;s glaring miss on Thursday night, joking that he was lucky that&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.outlookindia.com/sports/la-liga-2022-23-ballon-d-or-winner-karim-benzema-scores-as-real-madrid-beat-elche-in-pics-photos-231296'>
+        </a><a href='https://en.as.com/soccer/luka-modric-mocks-real-madrid-player-for-missing-sitter-n/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>La Liga 2022-23: Ballon d&#39;Or Winner Karim Benzema Scores As ...</h3>
+                <h3>Luka Modric mocks Real Madrid player for missing sitter</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSq5YG-aCThxD1iV3uvnnvwRR4kBFXvnbZ5Ok9pabuKnizHNJKzdQNWLSQpN1jmLaf5hbpUgXg9" alt="La Liga 2022-23: Ballon d&#39;Or Winner Karim Benzema Scores As ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Karim Benzema celebrated his maiden Ballon d&#39;Or trophy with a goal as Real Madrid defeated Elche 3-0 on Wednesday night in La Liga 2022-23.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSjY127fzNqx_oG0rEKZKfAmTu5KS10TWgZr4084I5C7Vow2MY5-GfVaCe3TDvxhIsDKUgycnGr" alt="Luka Modric mocks Real Madrid player for missing sitter" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Los Blancos came away with a crucial win against Cádiz on Thursday night, but there was a moment that few could have believed.</p></div>
             </div>
-        </a><a href='https://a-sports.tv/laliga-real-madrid-cruise-past-elche-to-extend-lead-at-top/'>
+        </a><a href='https://madriduniversal.com/guardiola-makes-a-major-claim-about-real-madrids-success-in-the-uefa-champions-league/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>LaLiga: Real Madrid cruise past Elche to extend lead at top</h3>
+                <h3>Guardiola makes a major claim about Real Madrid&#39;s success in the ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT8O0OGgRZ-M5_35mvLgrVNA3bwM1Z8pmXcYyiufiAj__9ZNQpookD_4NwZ2hyaCr7yTDruf8fN" alt="LaLiga: Real Madrid cruise past Elche to extend lead at top" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Reigning Champions Real Madrid sealed a comfortable 3-0 win against the bottom side Elche on Wednesday to extend their lead at the top of the LaLiga table.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR1gq-eyoQg96wm30nTQNhnkuTgg14VPGIcL0fqWRF5ldXqkt-DDWw-7aO0aJvNg0HpPINVPa8P" alt="Guardiola makes a major claim about Real Madrid&#39;s success in the ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Speaking in an interview with Rio Ferdinand for BT Sport, Manchester City manager Pep Guardiola has made a major claim about Real Madrid&#39;s success in the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.realmadrid.com/en/news/2022/10/20/benzema-it-was-the-best-season-of-my-career'>
+        </a><a href='https://www.sportskeeda.com/football/news-liverpool-made-offer-sign-real-madrid-superstar-karim-benzema-reports'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Benzema: “It was the best season of my career”</h3>
+                <h3>Liverpool made offer to sign Real Madrid superstar Karim Benzema ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTAqBLY49LSt0kLWhXRIOSStQFu2uNE7gChVlzxtZqzV1rECHLFfhWK6-_jJV9eqZwVp7x9Mn1O" alt="Benzema: “It was the best season of my career”" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>I&#39;d been dreaming about it since I was a kid”, said the Real Madrid captain in Paris.</p></div>
-            </div>
-        </a><a href='https://therealchamps.com/2022/10/19/perez-benzema-two-real-madrid-legends/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Florentino Perez compares Karim Benzema to two Real Madrid ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS7QCdL0kDiCFwjuGBtKEI6loYAaHa3KJpdjy_M4z-QrQLpS2m1syq1MHcmP25QJxbcRaXrEawQ" alt="Florentino Perez compares Karim Benzema to two Real Madrid ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Except for Luka Modric, the Real Madrid striker is the only other player to win the most prestigious award in football during the Lionel Messi and Cristiano&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.realmadrid.com/en/about-real-madrid/the-club/sponsors/kaiyun'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Kaiyun | Real Madrid CF</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSI0S3kHiUUH6G3geCXoXvkUr1baDltwgAjGO0PXjFnaWQ6vXSCWbS6oYSq6C1Cu6im9YMk1n2O" alt="Kaiyun | Real Madrid CF" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Shaking the world of sports! Kaiyun Sports and the Real Madrid C.F. , one of La Liga giants, have officially reached a strategic cooperation in extension to&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.marca.com/en/football/real-madrid/2022/10/20/6351ab7546163f352a8b45b6.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Benzema: I&#39;ve fulfilled the three dreams I had in my life</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRf0-W9iakv3X5nhigoyGPHq4K0lM1WjXB7mQ2x43wBD25XCxyNKD7aLEgM6VCGfNJyP3oPlR0_" alt="Benzema: I&#39;ve fulfilled the three dreams I had in my life" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Karim Benzema&#39;s fantastic year was capped off by his Ballon d&#39;Or victory earlier this week, and the French striker admits he&#39;s now completed all the goals&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTWs7TvJLwLGDKaMLolajRW9XuU72I6sMHmslcDT0quLRGFHqT_zLy6mh7iUCcCNI0VIsOBuBMf" alt="Liverpool made offer to sign Real Madrid superstar Karim Benzema ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Benzema reportedly told the club that he would leave if Los Blancos signed another star striker in the summer. He had a potential suitor as well, with the Reds&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

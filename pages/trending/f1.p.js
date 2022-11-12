@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,F1"/>
         <meta name="description" content="Trending News about F1" /></Head><Template>
             <h1 style={{fontSize: "30"}}>F1</h1>
-            <Image width={800} height={500} src="https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1023%2Fr1080255_1296x729_16%2D9.jpg" alt="F1"/>
+            <Image width={800} height={500} src="https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1111%2Fr1089693_1296x729_16%2D9.jpg" alt="F1"/>
             <h3>Recent News</h3>
-            <a href='https://www.espn.in/f1/story/_/id/34861450/red-bull-claims-first-f1-constructors-title-2013-dedicates-dietrich-mateschitz'>
+            <a href='https://www.espn.in/f1/story/_/id/35003940/kevin-magnussen-lauds-haas-incredible-first-f1-pole'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Red Bull claims first F1 constructors&#39; title since 2013, dedicates it to ...</h3>
+                <h3>Kevin Magnussen lauds Haas for &#39;incredible&#39; first F1 pole</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTBrcpzt3ZslZ7PsLpQp5zLekeOmvho0i8oMY8Wk48an2U-1r2QfufEuxCFB8KeBPmK_z92_NFB" alt="Red Bull claims first F1 constructors&#39; title since 2013, dedicates it to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Red Bull has clinched its first Formula One constructors&#39; championship since 2013, one day after the death of company co-founder and owner Dietrich&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR-BuQD-NbHmueXeoHUfKhhDEPgvxQpwWEpmhDOE39fKjfZysoA18uEVIGq_3Mh1h6fWDeQlYJK" alt="Kevin Magnussen lauds Haas for &#39;incredible&#39; first F1 pole" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kevin Magnussen paid tribute to his Haas team after they claimed a shocking and memorable pole position in Brazil.</p></div>
             </div>
-        </a><a href='https://www.formula1.com/en/latest/article.villeneuves-1997-championship-winning-williams-show-car-up-for-sale-on-f1.5tWbXYux5HZMmH31k0oWLZ.html'>
+        </a><a href='https://www.autosport.com/f1/news/f1-brazilian-gp-sprint-race-start-time-how-to-watch-more/10398360/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Villeneuve&#39;s 1997 championship-winning Williams show car up for ...</h3>
+                <h3>F1 Brazilian GP sprint race - Start time, how to watch &amp; more</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSErl4pyS_NiGBIKCMnLZ7qbsPy54Q6jGRuvrwedDbb_RpZAY0hGtD9VdyFfoHuHO3TZQghwnlf" alt="Villeneuve&#39;s 1997 championship-winning Williams show car up for ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The 1997 Williams FW19 show car, which features the original wheels, brakes, pedals and steering wheel that propelled Jacques Villeneuve to his first and&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRCU27T3_9vh7brwqN-A_e2NA9Qc7dcvG8WgBBJd3PmGJJlQUePm4mfXGSHloN_gLCnlhxnFjYS" alt="F1 Brazilian GP sprint race - Start time, how to watch &amp; more" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kevin Magnussen took a shock pole position in wet qualifying ahead of the Formula 1 Brazilian Grand Prix sprint race. Here&#39;s how and when to watch the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.foxsports.com.au/motorsport/formula-one/aussie-rising-star-set-for-first-f1-outing-this-weekend/news-story/5d29aa40075a2c0042cb964657665929'>
+        </a><a href='https://www.motorsport.com/f1/news/magnussen-not-even-close-to-dreaming-of-shock-first-f1-pole/10398286/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Aussie rising star set for first F1 outing this weekend</h3>
+                <h3>Magnussen &#39;not even close&#39; to dreaming of shock first F1 pole</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTerhrtd7XiE0u1_J9D_60cQr139T3a6ic7_rzGlzwIGuvLRE-mhGI2rzGX7KvP83rSNLP8ZEqW" alt="Aussie rising star set for first F1 outing this weekend" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Doohan, the son of motorcycling legend Mick, is now the Alpine driver academy&#39;s most senior prospect after the sudden defection of fellow Australian Oscar&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT6k6j1BG7HVcSOtpvHXfbRCLfzaHT-XXiC4_kmUVqOn8uDsOpgopROGNezHTXda4cGksCP9_bJ" alt="Magnussen &#39;not even close&#39; to dreaming of shock first F1 pole" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kevin Magnussen was “not even close” to thinking of scoring his maiden Formula 1 pole position ahead of qualifying in Brazil before his shock result for&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.outlookindia.com/sports/united-states-f1-grand-prix-max-verstappen-gets-record-tying-13th-victory-in-pics-photos-232212'>
+        </a><a href='https://racingnews365.com/magnussen-secures-bizarre-first-f1-pole-in-brazil'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>United States F1 Grand Prix: Max Verstappen Gets Record-Tying ...</h3>
+                <h3>Magnussen secures bizarre first F1 Pole in Brazil</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTcIIX1xqy6YXMboDhPaDxnSRXbuCMeMMpOROCHqCeecnMPOPvw9er3MEC3NYTf-0lgbAfqlUkt" alt="United States F1 Grand Prix: Max Verstappen Gets Record-Tying ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Max Verstappen and Red Bull started the United States Grand Prix determined to honor the memory of founder and team owner Dietrich Mateschitz and the racing&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRxixcO_cdeK7qYLyPq_5yamr1KCs6He76zl90sKhIT0RgOO5RLZjBnIVY0VYAg9GYbkWY9jIFb" alt="Magnussen secures bizarre first F1 Pole in Brazil" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kevin Magnussen took a surprise first F1 Pole Position ahead of Red Bull&#39;s Max Verstappen in a bizarre Brazilian Grand Prix qualifying session.</p></div>
             </div>
-        </a><a href='https://www.motorsport.com/f1/news/10-things-we-learned-from-the-2022-united-states-grand-prix/10389972/'>
+        </a><a href='https://www.skysports.com/f1/news/12433/12744793/sao-paulo-gp-qualifying-kevin-magnussen-takes-maiden-f1-pole-after-george-russell-spins-in-rain'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ten things we learned from the 2022 United States Grand Prix</h3>
+                <h3>Sao Paulo GP Qualifying: Kevin Magnussen takes maiden F1 pole ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTfkJ9rswJVhx0C4Psb-UaLl0nIO_fFiayRAiPOdoVYVKqYGVRoUMAZmHuyHs3pEtwFRON3YYlK" alt="Ten things we learned from the 2022 United States Grand Prix" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Formula 1&#39;s second trip to the United States in 2022 resulted in another win for Max Verstappen - but Lewis Hamilton gave him a run for his money in a&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS7zYjQk7prdPEUBMnX2LKaAOWNNX55dezg71pMe7AFcXT8TMLRCexF_oCKUBV2dK_dBZvHCTES" alt="Sao Paulo GP Qualifying: Kevin Magnussen takes maiden F1 pole ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kevin Magnussen claimed both his and Haas&#39; first Formula 1 pole as wet conditions set up a thrilling upset in Qualifying at the Sao Paulo Grand Prix.</p></div>
             </div>
-        </a><a href='https://www.si.com/fannation/racing/f1briefings/news/f1-fan-compares-drivers-to-top-gear-presenters-in-hysterical-tweet-lm22'>
+        </a><a href='https://www.wsj.com/livecoverage/stock-market-news-today-11-11-2022/card/mercedes-f1-team-suspends-ftx-partnership-SlnznJ8MBHdtSiBT8K3o'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>F1 Fan Compares Drivers To Top Gear Presenters In Hysterical Tweet</h3>
+                <h3>Stock Market Today: Dow Inches Up After 1200 Point Thursday Rally ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQy0qmOSL-LJaJb6twhlbS5EdnZk3lIHeSn1vq7q8ORnAVnoFGoTFdFRp9KG-BFpEXxLA4cqBHz" alt="F1 Fan Compares Drivers To Top Gear Presenters In Hysterical Tweet" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>First of all, they have likened Alpine driver, Fernando Alonso, to Jeremy Clarkson. One argument for this is that Alonso &quot;loves chaos and POWER&quot;, and just this&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR7o45Cj8LfeNbRlu1O5QpPt4P1_OPWl7iPwNp-ZPYF70QYLPmgJ0i3yBR8EP19bzQfbwBHoykO" alt="Stock Market Today: Dow Inches Up After 1200 Point Thursday Rally ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Mercedes-AMG Petronas Formula One team said it is suspending its partnership with FTX as the crypto exchange grapples with a massive funding shortfall&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.autosport.com/f1/news/autosport-podcast-f1-united-states-grand-prix-review/10389750/'>
+        </a><a href='https://www.motorsport.com/f1/news/mercedes-suspends-ftx-sponsor-deal-removes-logos-from-f1-cars/10398017/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Autosport Podcast: F1 United States Grand Prix review</h3>
+                <h3>Mercedes suspends FTX sponsor deal; removes logos from F1 cars</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRcvX4-3o77Dw-ViZWwuXHovgOP4ewaFChGQwW5cbQ4Jd-4g4zCxdzpkXyLdgiW_6inhvCwKPiC" alt="Autosport Podcast: F1 United States Grand Prix review" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>In a frantic race, two safety car periods disguised how dominant Verstappen could have been, and then a slow pitstop meant the 2022 F1 world champion had to&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSlGW8TWZPOpOmzNT-7lk9LFXgROGc7ohfsZKeCZaDrVbI7NDGL3JTm82F4dYmbOkOE-lbeG8EZ" alt="Mercedes suspends FTX sponsor deal; removes logos from F1 cars" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mercedes has now suspended its Formula 1 sponsorship deal with crisis-hit crypto exchange FTX, meaning the company&#39;s logos will be removed from the team&#39;s&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.motorsport.com/f1/news/doohan-set-for-mexico-abu-dhabi-f1-free-practice-runs-with-alpine/10389894/'>
+        </a><a href='https://theprint.in/sport/motor-racing-magnussen-takes-stunning-first-f1-pole-for-haas-in-brazil/1212214/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Doohan set for Mexico, Abu Dhabi F1 free practice runs with Alpine</h3>
+                <h3>Motor racing-Magnussen takes stunning first F1 pole for Haas in Brazil</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQbx1xl2IoeKFZZCjVp0xFKETxNor7TsV5_11GRnN8w2oQzdSE6-hI_DrCApWdrs7N8298VdDny" alt="Doohan set for Mexico, Abu Dhabi F1 free practice runs with Alpine" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Jack Doohan is set to run rookie FP1 sessions for Alpine in Mexico and Abu Dhabi, marking the Australian&#39;s public Formula 1 debut.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTN11hRqQDTDqKCf5DO5MSfZnh_YkXzYfUDYfzpz60Lro84rbV7qBeVTs633Sw4QZzw7c8z81oa" alt="Motor racing-Magnussen takes stunning first F1 pole for Haas in Brazil" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>By Gabriel Araujo SAO PAULO (Reuters) – Kevin Magnussen took a sensational first career Formula One pole position, in his 100th race for the Haas team,&nbsp;...</p></div>
             </div>
-        </a><a href='https://punemirror.com/sports/others/Red-bull-F1-team-clinch-constructor%E2%80%99s-title-in-US/cid8965561.htm'>
+        </a><a href='https://www.marca.com/en/f1/2022/11/11/636e44c4e2704ee0548b4574.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Red bull F1 team clinch constructor&#39;s title in US</h3>
+                <h3>F1 Brazilian GP: Schedule and where to watch practice, qualifying ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQLlsvsXfo4ynlvqFrctmXws7O9U4J6-_zqRn6jGIeM74oPr96B3LfHawV_GnLoFk_sOCYCjBXo" alt="Red bull F1 team clinch constructor&#39;s title in US" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Dutch Formula 1 driver and 2022 champion Max Verstappen emerged victorious at the end of an action-packed United States Grand Prix, fending off Mercedes&#39;&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTiPwkPxFFvwlIG5QH2lWBEz7difyujnIDFWm7fHZyvgGYT0J0XcHgPDKn29gQZRGMz-Qg_kMnG" alt="F1 Brazilian GP: Schedule and where to watch practice, qualifying ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Following the rather drab Mexican Grand Prix, the Formula 1 roadshow heads to Interlagos for the penultimate race of the season. The Brazilian Grand Prix is&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.carandbike.com/news/f1-red-bull-win-first-constructor-s-title-in-9-years-as-verstappen-prevails-at-cota-3203178'>
+        </a><a href='https://www.tmz.com/2022/11/11/mercedes-f1-team-drops-ftx-crypto-bankrupt-tom-brady-gisele/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>F1: Red Bull Win First Constructor&#39;s Title In 9 Years As Verstappen ...</h3>
+                <h3>Mercedes F1 Team Suspends Deal W/ Crypto Giant FTX, Removes ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTimtY__b7mHUimU8FiLPqmLffKca7o1BixUL8Di1MN76E0u6nogRNHA5OcHf9sNmYxi8VGhBlc" alt="F1: Red Bull Win First Constructor&#39;s Title In 9 Years As Verstappen ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Verstappen came back to win after a botched pitstop meant he found himself behind the Ferrari of Charles Leclerc.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTFixAXKyrbLI8SO_YfsgChQ6ByiA86yFnO0Bemdlw6nRHVy9I7JhqP5OtTe7KAa01kJzbMfYD6" alt="Mercedes F1 Team Suspends Deal W/ Crypto Giant FTX, Removes ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Crypto giant FTX filed for bankruptcy on Friday and everyone from Tom Brady and Gisele to Mercedes&#39; F1 team are feeling the effects of the company going&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
