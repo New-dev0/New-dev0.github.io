@@ -11,49 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Bengaluru FC"/>
         <meta name="description" content="Trending News about Bengaluru FC" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Bengaluru FC</h1>
-            <Image width={800} height={500} src="https://newsroomodisha.com/wp-content/uploads/2022/10/IMG-20221027-WA0028.jpg" alt="Bengaluru FC"/>
+            <Image width={800} height={500} src="https://www.indiansuperleague.com/static-resources/waf-images/content/f3/a4/d9/0/30VTZc7x38.JPG" alt="Bengaluru FC"/>
             <h3>Recent News</h3>
-            <a href='https://newsroomodisha.com/isl-2022-23-naveen-watches-match-between-odisha-fc-and-bengaluru-fc-at-kalinga-stadium/'>
+            <a href='https://www.indiansuperleague.com/news/we-have-to-stick-together-and-work-on-the-positives-bengaluru-fc-head-coach-simon-grayson'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ISL 2022-23: Naveen Watches Match Between Odisha FC and ...</h3>
+                <h3>We have to stick together and work on the positives: Bengaluru FC ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSiEZkVhvTfGvicQI_C0qWOKn9uhieayMYA3iDEhUpqVt5bAIpaUv2suMnN3Vm23Z1ekILRrksy" alt="ISL 2022-23: Naveen Watches Match Between Odisha FC and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Bhubaneswar: Chief Minister Naveen Patnaik on Thursday witnessed a wonderful match between Odisha FC and Bengaluru FC in the current season of the Indian&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQdE5dL8_EUCFft0tbJ6zrW_A3K23bt935ZXqvqVec3-Vl0Od4uGukLlM9gCqaqzhjnTN2EOxEd" alt="We have to stick together and work on the positives: Bengaluru FC ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Bengaluru FC head coach Simon Grayson expressed his emotions after a tough defeat against East Bengal FC in the Hero Indian Super League (ISL) at the Sree&nbsp;...</p></div>
             </div>
-        </a><a href='https://khelnow.com/football/2022-10-indian-football-isl-2022-23-odisha-fc-vs-bengaluru-fc-player-ratings'>
+        </a><a href='https://scroll.in/field/1037262/isl-cleiton-silva-scores-against-former-club-bengaluru-fc-to-hand-east-bengal-seasons-second-win'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ratings: Nandha Kumar scores stunner to help Odisha FC pip ...</h3>
+                <h3>ISL: Cleiton Silva scores against former club Bengaluru FC to hand ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQlxe1SBx-gJCe1YJkhd-5CJaIo2vrP0Vfc_H1lkwUL4W8uA7GhgqMfEBG3qsizzHIZV9yCXXn4" alt="Ratings: Nandha Kumar scores stunner to help Odisha FC pip ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Odisha FC showed great compactness to thwart a star-studded Bengaluru FC attack and go on top of the ISL 2022-23 points table with a victory.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTOhof2rt6B_MQ8USkPwQmBjwzXev4m7fdbuEccTZ1fY72EO-cv5uDJ7LklZ659b3yUtoED8_pfQQ" alt="ISL: Cleiton Silva scores against former club Bengaluru FC to hand ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Bengaluru FC, the hosts on the night, failed to score in their third consecutive match, while the visitors kept their first clean sheet of the season.</p></div>
             </div>
-        </a><a href='https://theprint.in/sport/isl-sekar-sinks-bengaluru-fc-as-odisha-fc-pick-up-third-win-of-season/1185043/'>
+        </a><a href='https://sportstar.thehindu.com/football/isl/bengaluru-fc-vs-east-bengal-isl-2022-23-live-scores-bfc-vs-eb-indian-super-league-updates-highlights/article66124491.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ISL: Sekar sinks Bengaluru FC as Odisha FC pick up third win of ...</h3>
+                <h3>Bengaluru FC vs East Bengal HIGHLIGHTS ISL 2022-23: Former ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQmlDLFm0LnIMS-tBiBeonqYc1XmD-PshO_Rj4yGxGIBz990ul_uCXzL7XszFs3iMehtJmju-Dh" alt="ISL: Sekar sinks Bengaluru FC as Odisha FC pick up third win of ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Nandhakumar Sekar scored a belter in the 33rd minute, and it turned out to be the game&#39;s only goal. This was Sekar&#39;s second ISL goal and also his second against&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRWz7UDcX-7ladmsnhR43xtrcOWL4h_zZzg3HxpkbvHi5o9hNxxOYEwrVQfgCd9Mz_mgG7W_EK1" alt="Bengaluru FC vs East Bengal HIGHLIGHTS ISL 2022-23: Former ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Despite all the momentum it had built since the restart, BFC is now left to chase the game. Mahesh and Cleiton links up again. Cleiton tries to lob Gurpreet,&nbsp;...</p></div>
             </div>
-        </a><a href='https://sportstar.thehindu.com/football/odisha-fc-vs-bengaluru-fc-isl-nandhakumar-sekar-indian-super-league-2022-23-table-top-chettri/article66062516.ece'>
+        </a><a href='https://khelnow.com/football/2022-11-indian-football-isl-2022-23-bengaluru-fc-vs-east-bengal-player-ratings'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ISL 2022-23: Sekar sinks Bengaluru FC as Odisha FC picks up third ...</h3>
+                <h3>Ratings: Cleiton Silva stars in East Bengal&#39;s triumph over Bengaluru ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT_I2gWanPqR1FhUydi9e32uHR9PrGtlnyHfFwzWaqz_edbMe4QA5-VAR4_iEBCduKSqK4hlNnO" alt="ISL 2022-23: Sekar sinks Bengaluru FC as Odisha FC picks up third ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>This was Nandhakumar Sekar&#39;s second Hero ISL goal and also his second against Bengaluru FC in the Hero ISL.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQGSLt5kDryAC4d7cqI6KCjrzruFtUbIMS9-xW5Eb2CbQuAV81M8SLsWoYeBeiqBmkga8uAYs5y" alt="Ratings: Cleiton Silva stars in East Bengal&#39;s triumph over Bengaluru ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A brilliant combination from Naorem Mahesh Singh and Cleiton Silva helped East Bengal edge past Bengaluru FC at the Kanteerava Stadium.</p></div>
             </div>
-        </a><a href='http://www.espn.in/football/report?gameId=653340'>
+        </a><a href='https://www.espn.in/football/report/_/gameId/653351'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Odisha FC vs. Bengaluru FC - Football Match Report - October 27 ...</h3>
+                <h3>Bengaluru FC vs. SC East Bengal - Football Match Report ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQMmIEay7PvFlKGpfzsQrZm_v4Wqf_N-8bx_wGeuLWPqncDd1waw9xqUhE4m7WBqajoCkaELKLI" alt="Odisha FC vs. Bengaluru FC - Football Match Report - October 27 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Get a report of the Odisha FC vs. Bengaluru FC 2022-23 Indian Super League, Regular Season football match.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRKqNtdIUFRLxZLE2xHqmxgFf2NJMJdw7yE3JYhcBF9icTetLoMQmXbt6BLSphH-ftcq0ghQYnc" alt="Bengaluru FC vs. SC East Bengal - Football Match Report ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Get a report of the Bengaluru FC vs. SC East Bengal 2022-23 Indian Super League, Regular Season football match.</p></div>
             </div>
-        </a><a href='https://www.insidesport.in/ofc-vs-bfc-live-odisha-fc-aim-to-continue-momentum-with-bengaluru-fc-clash-check-out-isl-2022-preview-predicted-xi-live-streaming-follow-live/'>
+        </a><a href='https://www.bengalurufc.com/2022/reports/bengaluru-go-down-1-0-to-east-bengal-at-kanteerava%EF%BF%BC/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>OFC vs BFC HIGHLIGHTS: Odisha FC 1-0 Bengaluru FC LIVE ...</h3>
+                <h3>Bengaluru go down 1-0 to East Bengal at Kanteerava</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTYrm_tF6DHRsISyeMkvipBMtr772yGsMtGHCIMktxSApeeUJZ57G6VLny_5obCTIMaWW3Gb4oC" alt="OFC vs BFC HIGHLIGHTS: Odisha FC 1-0 Bengaluru FC LIVE ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Nandhakumar scored the goal in the first half separating the two sides. With the loss, Bengaluru FC is without a win in three consecutive games. Simon Grayson&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQrxIkNsQMJebXVJbv_kPv3Zc1iislWELPT2U4z3QAjvv7UH2Qk95PIN-8k34sWtxVtIxJ4hnWx" alt="Bengaluru go down 1-0 to East Bengal at Kanteerava" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Hernandez created the first big chance for Bengaluru when he slipped Chhetri through on goal, only for two East Bengal defenders and Kamaljit Singh to smother&nbsp;...</p></div>
+            </div>
+        </a><a href='https://thebridge.in/isl/bengaluru-vs-east-bengal-live-updates-scores-results-blog-37099'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>ISL 2022-23: Cleiton haunts Bengaluru FC as East Bengal win ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRGihHuD9In2YRnyrMbwrVj5rHqudZny-PIHkUf210rxxMY-6aTJt4Ebc1WPtvP3cs-xf84BOyn" alt="ISL 2022-23: Cleiton haunts Bengaluru FC as East Bengal win ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>East Bengal defeated Bengaluru FC 1-0 in the Indian Super League on Friday at the Sree Kanteerava stadium. Brazilian forward Cleiton Silva scored the only&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

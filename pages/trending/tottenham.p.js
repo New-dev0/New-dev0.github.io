@@ -11,63 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Tottenham"/>
         <meta name="description" content="Trending News about Tottenham" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Tottenham</h1>
-            <Image width={800} height={500} src="https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1101%2Fr1084727_1296x729_16%2D9.jpg" alt="Tottenham"/>
+            <Image width={800} height={500} src="https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1112%2Fr1089967_1296x729_16%2D9.jpg" alt="Tottenham"/>
             <h3>Recent News</h3>
-            <a href='https://www.espn.in/football/report/_/gameId/652670'>
+            <a href='http://www.espn.in/football/report?gameId=637971'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Marseille vs. Tottenham Hotspur - Football Match Report ...</h3>
+                <h3>Tottenham Hotspur vs. Leeds United - Football Match Report ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT1_p46jW4dLtiheCg9iYXUGx3d_r7KyZStIoCojRKyPnr7AM1pOCpq-cUak26yIWaJy1wDX3qc" alt="Marseille vs. Tottenham Hotspur - Football Match Report ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Get a report of the Marseille vs. Tottenham Hotspur 2022-23 UEFA Champions League, Group Stage football match.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT3g8yGoH3FDEFbf2Wwnwl0HL2jKNR6_e98wKibWTo3FDzjaAZ8z-aFgkoh2znnAwsz3KYNIzlI" alt="Tottenham Hotspur vs. Leeds United - Football Match Report ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Get a report of the Tottenham Hotspur vs. Leeds United 2022-23 English Premier League football match.</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-in/news/tottenham-qualify-champions-league-knockout-stages-late-win-rampant-marseille/blt7cc59c51d514f915'>
+        </a><a href='https://www.dailymail.co.uk/sport/football/article-11420789/Tottenham-boss-Antonio-Conte-insists-needs-signings-January.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Panic over! Tottenham qualify for Champions League knockout ...</h3>
+                <h3>Tottenham boss Antonio Conte insists he needs more signings in ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQfhUd-q0-d3NJiXUo6eeItoQJMdrb16wO4d_E5yP7eH_JQf68neX9ylbV4BmDb5xG1lT6lM9yu" alt="Panic over! Tottenham qualify for Champions League knockout ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A late strike from Pierre-Emile Hojbjerg secured Tottenham&#39;s place in the Champions League last 16 with a 2-1 win away to Marseille.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS8Cd3T7TiTyfwuk1gp2vRDQB1S_VPYgSUwguhhQuzEbGeEFzzIgq1xk4TY3GICx87ErXHuwetN" alt="Tottenham boss Antonio Conte insists he needs more signings in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Antonio Conte has hinted that he needs to add more quality to his Tottenham squad after seeing his side come out on top in a dramatic 4-3 win against Leeds&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.hindustantimes.com/sports/football/tottenham-frankfurt-advance-in-champions-league-bayern-stays-perfect-101667357177705.html'>
+        </a><a href='https://www.marca.com/en/football/premier-league/tottenham-leeds-directo/2022/11/12/01_0106_20221112_6_2.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Tottenham, Frankfurt advance in Champions League; Bayern stays ...</h3>
+                <h3>Tottenham - Leeds live - Premier League</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRTu6-Vl1RRVoW3vibwmXB0t37dKjoZB4tSBrWPNuaoXH-e6ETQJ7R7Df6vezO9QQJKLY-7Touo" alt="Tottenham, Frankfurt advance in Champions League; Bayern stays ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>At halftime in the final round of group matches on Tuesday, Marseille and Sporting Lisbon were going through from Group D. But instead it was their&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT0fO0bxfmlaYl0ymIK4qG3sgEaiLcIGrrQE-cfNur89p89ou66b80kEZo0Odws899p2-6YvHkb" alt="Tottenham - Leeds live - Premier League" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Harry Kane (Tottenham Hotspur) wins a free kick on the right wing. Foul by Sam Greenwood (Leeds United). Substitution, Tottenham Hotspur. Lucas Moura.</p></div>
             </div>
-        </a><a href='https://sportstar.thehindu.com/football/marseille-vs-tottenham-hotspur-ucl-live-scores-mar-vs-tot-uefa-champions-league-updates-highlights/article66083182.ece'>
+        </a><a href='https://www.football.london/tottenham-hotspur-fc/fixtures-results/tottenham-live-conte-bentancur-emerson-25500503'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>MAR vs TOT, UEFA Champions League HIGHLIGHTS: Hojbjerg&#39;s ...</h3>
+                <h3>Spurs press conference live with Conte on Bentancur, Kane ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTFFVgJ60DsOGXk67QLHmcTO44tcKvpQFuCLCKZ9cWRzEi22S70EyRcb2DAqAOho3y_jIwMVIOH" alt="MAR vs TOT, UEFA Champions League HIGHLIGHTS: Hojbjerg&#39;s ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>MAR vs TOT, UCL 2022-23: Follow the highlights of the UEFA Champions League match being played at the Orange Velodrome, Marseille.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRn0hcPl5O2PpVlbubU7LKF-Q00oSgdZFZJyhzUngGziMhaY57yZWvf4hZ-XoNdTBa89Xxc-IeG" alt="Spurs press conference live with Conte on Bentancur, Kane ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Tottenham Hotspur boss is speaking to the media for the final time before the World Cup break after the win against Leeds United.</p></div>
             </div>
-        </a><a href='https://www.outlookindia.com/sports/uefa-champions-league-2022-23-tottenham-hotspur-leaves-it-late-to-advance-to-the-round-of-16-in-pics-photos-234102'>
+        </a><a href='https://www.insidesport.in/tottenham-vs-leeds-united-live-streaming-tottenham-hotspur-aim-to-return-to-winning-ways-with-leeds-united-win-follow-live/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>UEFA Champions League 2022-23: Tottenham Hotspur Leaves It ...</h3>
+                <h3>Tottenham vs Leeds United Highlights: TOT 4-3 LEE, Rodrigo ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTO6G191C-JR91FMTCR8fUEvyeviFfn7-jVeoJyDgqRiGgWxTqztvvQXCdvlzx7WvcwZKFCJlPb" alt="UEFA Champions League 2022-23: Tottenham Hotspur Leaves It ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>English Premier League side Tottenham Hotspur advanced to the Champions League last 16 as Group D winners after Pierre-Emile Hojbjerg scored in stoppage&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTG7hRi07V9rkPz7F5x76CvPmuLIkuaSYY5p8-B8jERcE7GkqU8e24Bwr-dEsVQJfNzUsiDjt5c" alt="Tottenham vs Leeds United Highlights: TOT 4-3 LEE, Rodrigo ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Tottenham vs Leeds United Highlights: TOT 4-3 LEE, Rodrigo Bentancur BRACE Seals Thrilling victory over Leeds United - Check Highlights, Premier League.</p></div>
             </div>
-        </a><a href='https://www.wionews.com/sports/toteenham-hotspur-eintracht-frankfurt-into-champions-league-last-16-as-liverpool-beat-napoli-530417'>
+        </a><a href='https://www.standard.co.uk/sport/football/tottenham-vs-leeds-live-stream-premier-league-2022-latest-score-result-watch-tv-team-news-b1039466.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Tottenham Hotspur, Eintracht Frankfurt into Champions League last ...</h3>
+                <h3>Tottenham 4-3 Leeds LIVE! Bentancur goals - Premier League result ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTLOs03HPhRFHW0p2GTFPTC7BJjea-l-q_yj4-P6EjipnpwfDljFDPxmAdB3F4P9eYM9kShzeQ9" alt="Tottenham Hotspur, Eintracht Frankfurt into Champions League last ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Pierre-Emile Hojbjerg scored a 95th-minute winner as Tottenham Hotspur came from behind to beat Marseille 2-1 and reach the Champions League knockout stage&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.express.co.uk/sport/football/1691321/tottenham-antonio-conte-ngolo-kante-barcelona-transfer-news'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Tottenham boss Antonio Conte &#39;likes&#39; N&#39;Golo Kante but transfer ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQbcOGp6ADuMNRtu5eYuXjw63SbUofWyJvEfSDho46Nk8fW2ZMePRh6Zcg44cwMjPNORmLnkrq-" alt="Tottenham boss Antonio Conte &#39;likes&#39; N&#39;Golo Kante but transfer ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Tottenham and Barcelona could go head to head for N&#39;Golo Kante&#39;s signature next summer.</p></div>
-            </div>
-        </a><a href='https://www.express.co.uk/sport/football/1691092/Tottenham-Harry-Kane-transfer-news-Bayern-Munich-Antonio-Conte-gossip'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Tottenham star Harry Kane urged to snub Bayern Munich interest as ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQzibUWD0t79TnbemUXyoju7jE1x0cnKibrvZkUZRRyxYluVYr7IUPChiNeX-j-yOhP5K-zsptd" alt="Tottenham star Harry Kane urged to snub Bayern Munich interest as ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Tottenham striker Harry Kane has been linked with Bayern Munich.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR8aiCxr1mMgua7P15NhyYmaAIColwfaZilKxVcbUyt0Uf04EglIZi9UfAXoK0uhrEehbxGsOId" alt="Tottenham 4-3 Leeds LIVE! Bentancur goals - Premier League result ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Read back the game below with our dedicated match blog, featuring expert insight and analysis from chief football correspondent Dan Kilpatrick at the Tottenham&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

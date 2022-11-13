@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,FTX"/>
         <meta name="description" content="Trending News about FTX" /></Head><Template>
             <h1 style={{fontSize: "30"}}>FTX</h1>
-            <Image width={800} height={500} src="https://images.livemint.com/img/2022/11/09/600x338/crypto_1668013966755_1668013985003_1668013985003.jpg" alt="FTX"/>
+            <Image width={800} height={500} src="https://images.livemint.com/img/2022/11/12/600x338/FINTECH-CRYPTO-FTX-REGULATORS-0_1668252295859_1668252295859_1668252323178_1668252323178.JPG" alt="FTX"/>
             <h3>Recent News</h3>
-            <a href='https://www.livemint.com/market/cryptocurrency/ftx-liquidity-woes-to-impact-indian-crypto-exchanges-11668013864678.html'>
+            <a href='https://www.livemint.com/news/bankrupt-ftx-hit-by-mysterious-outflow-of-about-662-million-11668251631906.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FTX liquidity woes to impact Indian crypto exchanges | Mint</h3>
+                <h3>Bankrupt FTX hit by mysterious outflow of about $662 million | Mint</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTI16ztbGboAB76i4XnwFdzgPpXp0hJT4gdpe8duUEm3G6SQbDXbCGg3pY5hCMPCFPi5z6N0JQH" alt="FTX liquidity woes to impact Indian crypto exchanges | Mint" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>On Tuesday, Sam Bankman-Fried, chief executive of US cryptocurrency exchange FTX, tweeted that the company has reached a “strategic transaction&quot; with Binance,&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTuA0wwp-zBasQeqRms7j7toVUMrKXJqON77EZcr-CSIhqVqL3pdbJwUlIkULBFeW5u6s47TmKY" alt="Bankrupt FTX hit by mysterious outflow of about $662 million | Mint" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>In the latest twist, bankrupt digital-asset exchange FTX was hit by a mysterious outflow of about $662 million in tokens in the past 24 hours.</p></div>
             </div>
-        </a><a href='https://www.bbc.com/news/business-63564364'>
+        </a><a href='https://www.theguardian.com/technology/2022/nov/12/ftx-collapse-missing-funds'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FTX: Cryptocurrency market rocked by near-collapse of exchange</h3>
+                <h3>At least $1bn in investor assets missing after FTX collapse – reports</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSIUCqI6CMrHu3BpbSl2crxboszPRgOCereYwutJBFFLxj-Y3FOfPhjzvEKxZLj9Gt6tommkEbx" alt="FTX: Cryptocurrency market rocked by near-collapse of exchange" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>FTX struck a bailout deal with larger rival Binance as it faced a &quot;significant liquidity crunch&quot;.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQK0EYuIWc7I4TAQTeqn9fE5-2iOReJpyqdvEHhweo2txcs1hFzZx6L80aOXiUc0iIiezVMm4EN" alt="At least $1bn in investor assets missing after FTX collapse – reports" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Sources tell Reuters funds were part of $10bn founder Sam Bankman-Fried transferred to his hedge fund.</p></div>
             </div>
-        </a><a href='https://www.cnbctv18.com/cryptocurrency/binance-to-buy-rival-ftx-in-bailout-as-cryptocurrency-market-crumbles-15120981.htm'>
+        </a><a href='https://www.thehindu.com/sci-tech/collapsed-ftx-hit-by-rogue-600-million-outflows/article66129933.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Binance to buy rival FTX in bailout as crypto market crumbles</h3>
+                <h3>Collapsed FTX hit by rogue $600 million outflows</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRKo6k8vEKxQEj3vuzOVCHXRLbSAUfDh4tecSJkK-UHOAXAtWLEuA55ow3cyRol01HPDNWnIbw3" alt="Binance to buy rival FTX in bailout as crypto market crumbles" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Binance CEO Changpeng Zhao said on Twitter Tuesday that his company had signed a letter of intent to buy FTX because the smaller exchange was experiencing a&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ8IzSM1zAf6JupUl7scZc78Y_Fcwek3yvZFaYnvfRlUTlk_xlS5SgomGqsveJ4XJdLO9blkrRL" alt="Collapsed FTX hit by rogue $600 million outflows" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Days after FTX filed for bankruptcy, the Crypto exchange platform witnessed unauthorised outflow of its assets under &#39;suspicious circumstances&#39;</p></div>
             </div>
-        </a><a href='https://www.bloomberg.com/news/articles/2022-11-09/binance-seen-likely-to-balk-at-ftx-deal-after-spotting-deep-hole'>
+        </a><a href='https://www.ft.com/content/dc08ed9f-0f3b-45fb-a5f6-b87157fdf944'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Binance Backs Out of FTX Rescue, Citing Finances, Investigations</h3>
+                <h3>FTX says it is probing &#39;abnormal transactions&#39; after potential hack</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS9tzms31LlqxzlSeRB2CTbzPzcc7tozsyJUioWrtTLjYuX248O5IvjV4rjNI10PIXH8epKesaH" alt="Binance Backs Out of FTX Rescue, Citing Finances, Investigations" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Binance Backs Out of FTX Rescue, Citing Finances, Investigations &middot; Crypto exchange reverses decision a day after announcing it &middot; FTX customers could now be on the&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTFDOwQFRrktSu8LHb4_0V3IQuIivLy9ETnINwSpwmgoIQ5R2MoFlT19AI1aduP28Kv7EU5EWiB" alt="FTX says it is probing &#39;abnormal transactions&#39; after potential hack" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Assets worth hundreds of millions of dollars withdrawn as crypto empire declared bankruptcy, analysts say.</p></div>
             </div>
-        </a><a href='https://economictimes.indiatimes.com/tech/technology/us-probes-ftx-empire-over-handling-of-client-funds-and-lending/articleshow/95410357.cms'>
+        </a><a href='https://www.cnbc.com/2022/11/12/1-billion-to-2-billion-of-ftx-customer-funds-missing-report.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>US probes FTX empire over handling of client funds and lending</h3>
+                <h3>Between $1 billion and $2 billion of FTX customer funds have ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR7iHKwfTg7YKGtNu49wMrWIVSreDd3NITbE8EoN1W7IAYyaQvvn8JE61XP4uuCofDpeL_PUNti" alt="US probes FTX empire over handling of client funds and lending" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The investigations by the Securities and Exchange Commission and the Commodity Futures Trading Commission relate to the liquidity crisis at the trading&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQWXQO0uIdZsl2R6cYDk2erCW4n2Os4_JL_1sgdrkhJ9__nAVlmZKe0ARrqCDVKQ-akubLjpUO5" alt="Between $1 billion and $2 billion of FTX customer funds have ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Reuters reports that at least $1 billion worth of customer funds have vanished from the failed crypto exchange.</p></div>
             </div>
-        </a><a href='https://decrypt.co/114063/ftx-bankruptcy-likely-ceo-sbf'>
+        </a><a href='https://www.ft.com/content/f05fe9f8-ca0a-48d5-8ef2-7a4d813af558'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FTX Bankruptcy Likely Without Cash Injection, Says CEO SBF: Report</h3>
+                <h3>FTX held less than $1bn in liquid assets against $9bn in liabilities</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQKDTqXC2N12mi_dCmjztWQSGEYqDd2p2cBh2LrqDdFzMLU_uivXybMIaMO5c_2lWT_OxlDJbTH" alt="FTX Bankruptcy Likely Without Cash Injection, Says CEO SBF: Report" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The liquidity crunch threatens to send FTX into bankruptcy, Sam Bankman-Fried reportedly told investors this afternoon.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQa_eizRkzRnJ5jolZUN7tvpSkQiMC_J2WaDQj09uC-0x9f2PtzcUhQbttQCU4OYu04gYxWs0-H" alt="FTX held less than $1bn in liquid assets against $9bn in liabilities" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>We&#39;ll send you a myFT Daily Digest email rounding up the latest FTX Trading Ltd news every morning. Sam Bankman-Fried&#39;s main international FTX exchange held&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.coindesk.com/web3/2022/11/09/ftx-blowup-puts-trove-of-prized-bored-apes-at-risk-of-liquidation/'>
+        </a><a href='https://www.thehindu.com/sci-tech/technology/ftx-the-crypto-empire-that-fell/article66129849.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FTX Blowup Puts Trove of Prized Bored Apes at Risk of Liquidation</h3>
+                <h3>FTX | The crypto empire that fell</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRsIE25mhGIJhueofoJp1_7XYp1ECIQwtPjZNvNHtLry6C7DU08tywIpyVrtvMwS2_d3DMIY-qX" alt="FTX Blowup Puts Trove of Prized Bored Apes at Risk of Liquidation" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Yuga Labs, the NFT collective behind the majority of tokens held in the crypto empire&#39;s wallet, has previously raised capital from FTX Ventures,&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSlvJsgr4fMFy1Z_E-9pfUOPV0ZKGWHSwkkby2DMYJAXze4KvX3F7bSQbHdu43TFDysT-KMckkk" alt="FTX | The crypto empire that fell" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The crypto exchange founded by Sam Bankman-Fried imploded after revelations about its financial dealings with affiliated trading firm Alameda.</p></div>
             </div>
-        </a><a href='https://hindi.moneycontrol.com/news/world/binance-to-acquire-rival-ftx-signed-a-non-binding-letter-of-intent-details-here-874001.html'>
+        </a><a href='https://www.livemint.com/market/cryptocurrency/ftx-news-upto-2-billion-of-client-funds-missing-11668252308050.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Binance का राइवल FTX को खरीदने का ऐलान, किया नॉन बाइंडिंग एग्रीमेंट</h3>
+                <h3>FTX news: Upto $2 billion of client funds missing | Mint</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSHBgOF2-KPpssVDtT2MC1i-tkj3DN6DIJ8yZoyzPHInDjlO93iAyPuu7ie6EiP3eZT9Ht00MBb" alt="Binance का राइवल FTX को खरीदने का ऐलान, किया नॉन बाइंडिंग एग्रीमेंट" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>FTX CEO सैम बैंकमैन फ्राइड (बायें) और Binance CEO चांगपेंग झाओ. Binance to acquire FTX : क्रिप्टोकरेंसी&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSWMEqxTcI2GH78-WEjRjpu228kpfPZ9CpNXugcGP0LnRBY3DQZ-48sselCTa-1lmQhvikNRyEQ" alt="FTX news: Upto $2 billion of client funds missing | Mint" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>At least $1 billion of customer funds have vanished from collapsed crypto exchange FTX, according to two people familiar with the matter.</p></div>
             </div>
-        </a><a href='https://yourstory.com/hindi/worlds-largest-crypto-exchange-binance-to-acquire-major-rival-ftx'>
+        </a><a href='https://decrypt.co/114269/hundreds-of-millions-of-dollars-drained-from-ftx-overnight-in-unauthorized-transfers'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FTX को खरीदने की तैयारी में दुनिया का सबसे बड़ा क्रिप्टो एक्सचेंज Binance</h3>
+                <h3>Hundreds of Millions of Dollars Drained From FTX Overnight in ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSkzzikkm0UuwypNhZdlnom4JELEfRTPiW-9wJiEWUltqmwrgPVExbIwqRcbNy0OBC1raWt65Vn" alt="FTX को खरीदने की तैयारी में दुनिया का सबसे बड़ा क्रिप्टो एक्सचेंज Binance" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Binance के सीईओ चांगपेंग झाओ (Changpeng Zhao) ने मंगलवार को कहा कि कंपनी ने क्रिप्टोकरेंसी&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRTT4KnacXGDIBVedztj1ggbomoMJ42S8mXPT_M56NnrSGvFgUdduaFNE87Hkc7Tl9oKKCnA4NT" alt="Hundreds of Millions of Dollars Drained From FTX Overnight in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Several wallets belonging to FTX were rapidly drained just before midnight. An FTX Telegram admin called it a hack and told users not to visit the site.</p></div>
             </div>
-        </a><a href='https://hi.investing.com/news/cryptocurrency-news/article-43574'>
+        </a><a href='https://www.business-standard.com/article/markets/crypto-exchange-ftx-says-investigating-unauthorised-transactions-122111201041_1.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FTT टोकन में गिरावट क्योंकि Binance CEO ने FTX बेलआउट के लिए ...</h3>
+                <h3>Crypto exchange FTX says investigating unauthorised transactions</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQQGkw7VSAQKCDx86zdAJsClXaXKDCd9MjzR5D8kiMHg5KRfPCG09S6AgpkU0GzNEf_bJYT5cUq" alt="FTT टोकन में गिरावट क्योंकि Binance CEO ने FTX बेलआउट के लिए ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Investing.com -- FTX टोकन बुधवार को भारी दबाव में रहा, एक कठोर अनुस्मारक के बाद कि&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS_bJi2AGoPLKpvXYvjMqzITDHLNh-UPpoa_jSFFKj2G4naTsSh3hYDnLcF2T2L6_KN36rcfQfB" alt="Crypto exchange FTX says investigating unauthorised transactions" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>FTX filed for U.S. bankruptcy protection on Friday and founder Sam Bankman-Fried resigned as chief executive.</p></div>
             </div>
         </a>
         </Template></>;

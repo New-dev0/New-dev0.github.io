@@ -11,56 +11,63 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Mumbai City FC"/>
         <meta name="description" content="Trending News about Mumbai City FC" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Mumbai City FC</h1>
-            <Image width={800} height={500} src="https://www.mumbaicityfc.com/static-assets/waf-images/ba/e4/ec/16-9/n8LmO7iSDk.jpeg" alt="Mumbai City FC"/>
+            <Image width={800} height={500} src="https://www.mumbaicityfc.com/static-assets/waf-images/42/2c/ec/16-9/sXbX734LW4.JPG" alt="Mumbai City FC"/>
             <h3>Recent News</h3>
-            <a href='https://www.mumbaicityfc.com/news/match-report-hyderabad-fc-3--3-mumbai-city'>
+            <a href='https://www.mumbaicityfc.com/news/match-report-chennaiyin-fc-2-6-mumbai-city-fc'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Match Report: Hyderabad FC 3-3 Mumbai City</h3>
+                <h3>Match Report: Chennaiyin FC 2-6 Mumbai City FC</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQb9BnDi-u1ARdQRpSEfUEW-cWpt8xGS7tW6ZYWbJa5SkRwfLQsDQspz6Dl0HY2U3PN6j2ld6ET" alt="Match Report: Hyderabad FC 3-3 Mumbai City" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Phurba started in goal; Mourtada Fall was partnered by Rostyn Griffiths in central defence. They were flanked by Rahul Bheke and Mandar Rao Dessai. Apuia Ralte&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ50yHmquOeR2R62IrTvN0mRGUH2OXEChDeiFMcJ9tjb3FL7f1N1fH6R-MweEupmlZD0JN7WWW3" alt="Match Report: Chennaiyin FC 2-6 Mumbai City FC" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Islanders beat the Marina Machans 6-2 in a game that showcased the fighting spirit of Mumbai City FC.</p></div>
             </div>
-        </a><a href='https://www.espn.in/football/indian-super-league/story/4765109/isl-2022-23-hyderabad-fc-and-mumbai-city-fc-share-spoils-after-a-six-goal-thriller'>
+        </a><a href='https://www.onmanorama.com/sports/football/2022/11/12/indian-super-league-mumbai-vs-chennai.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ISL 2022-23: Hyderabad FC and Mumbai City FC share spoils after ...</h3>
+                <h3>ISL: Ruthless Mumbai City FC rout Chennaiyin FC 6-2</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSymp7rZ07O2DSYFUMqaLWamiJi1DhSe_nne8gOKJi11ycCKPC2R7ljC7q3wVmtoNXTjsP34yD9" alt="ISL 2022-23: Hyderabad FC and Mumbai City FC share spoils after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Defending champions Hyderbad FC and Mumbai City FC took a point each as both sides kicked their Hero Indian Super League (ISL) campaign off with an&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSp0vjD_PagCkrU1o3sFGLoA0ceLZ9DM-2tOSYVtHBeGIzJYJuNwTehjN4Uwt5iUz1HkKeTOuvf" alt="ISL: Ruthless Mumbai City FC rout Chennaiyin FC 6-2" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The win lifted Mumbai City into second place in the league, four points behind leaders Hyderabad FC..ISL. Indian Super league. Indian Football. Football.</p></div>
             </div>
-        </a><a href='https://sportstar.thehindu.com/football/isl/hyderabad-fc-vs-mumbai-city-fc-isl-2022-live-score-updates-indian-super-league-hfc-mcfc-goals/article65988682.ece'>
+        </a><a href='https://www.mathrubhumi.com/special-pages/isl-2022-23/chennaiyin-fc-vs-mumbai-city-fc-cfc-2-6-mcfc-1.8041202'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ISL 2022-23, Hyderabad FC vs Mumbai City FC HIGHLIGHTS ...</h3>
+                <h3>ചെന്നൈയിൻ എഫ്‌സിയെ ഗോൾമഴയിൽ മുക്കി ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRVyVSVOIvcFY8Cs16eKUob6DaBSalCulTexkQXCXeu97G4iWrvFTFuKxBhCG_YuMw2auIEhmMN" alt="ISL 2022-23, Hyderabad FC vs Mumbai City FC HIGHLIGHTS ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>BFC vs NEUFC, ISL 2022-23: Check highlights from the Indian Super League match between Hyderabad FC vs Mumbai City FC.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTdAV_jW3RoMGa6PVASoMtWsHRvCOw_sa9g94idOjU0bfqcgLPH2T83hkoH86YEwOWrqwUdrTxI" alt="ചെന്നൈയിൻ എഫ്‌സിയെ ഗോൾമഴയിൽ മുക്കി ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>ചെന്നൈയിന്‍ എഫ്‌സിയെ ഗോള്‍മഴയില്‍ മുക്കി മുംബൈ സിറ്റി &middot; Content Highlights: Chennaiyin FC vs Mumbai City FC : CFC 2-6&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.indiansuperleague.com/news/incredibly-happy-to-have-come-away-with-a-point-mumbai-city-fc-head-coach-des-buckingham'>
+        </a><a href='https://www.news18.com/news/football/live-score-chennaiyin-fc-vs-mumbai-city-fc-isl-2022-23-latest-updates-indian-super-league-live-streaming-football-match-coverage-from-jawaharlal-nehru-stadium-chennai-livenews-6370381.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Incredibly happy to have come away with a point: Mumbai City FC ...</h3>
+                <h3>ISL 2022-2023, Chennaiyin FC vs Mumbai City FC Highlights: CFC ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTFUavX6zD38kz7dbaRIDK9UgL3NA22ISBtTMTbk8oztrew1B9De0xO8tl6GAePbTgZiQab7vYI" alt="Incredibly happy to have come away with a point: Mumbai City FC ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>It was a spectacle in Pune as defending Hero Indian Super League (ISL) champions Hyderabad FC and Mumbai City FC played out an entertaining draw at the&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSSzVBmG-EOeQhp0gZEXq7-4EEOoiWsL11BLG4XvAixJBAYjleCwOFIXr-G2Es4AE6IPx8cH0AB" alt="ISL 2022-2023, Chennaiyin FC vs Mumbai City FC Highlights: CFC ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>When Vinit Rai scored the third goal, CFC more or less gave up as they lost all hope to make a comeback. This game also shows how good a bench MCFC have as&nbsp;...</p></div>
             </div>
-        </a><a href='https://khelnow.com/football/isl-2022-23-hyderabad-fc-vs-mumbai-city-live-commentary'>
+        </a><a href='https://sportstar.thehindu.com/football/isl/chennaiyin-fc-vs-mumbai-city-fc-live-score-updates-isl-cfc-vs-mcfc-news-lineups-highlights-football/article66128305.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ISL 2022-23 Live Commentary: Hyderabad FC vs Mumbai City</h3>
+                <h3>Chennaiyin FC 2-6 Mumbai City Highlights, ISL 2022-23: Stewart ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRHNkzvoHitC06rps1LpSLqYT1WkdSO7WW2flRE1NOZTvxESx1zhZpaCWLQToQsSyzYWcxX0ZqB" alt="ISL 2022-23 Live Commentary: Hyderabad FC vs Mumbai City" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>7:00 PM: Hello everyone and welcome to Khel Now&#39;s LIVE COVERAGE of the Hyderabad FC vs Mumbai City match in the Indian Super League 2022-23.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQf0cT1z80vmFDgDKJC0rlsTRkAqPFfcd5lUvknVjT22mcFBQH8HfKyG3J0j6_uhaREMXd0ZoJf" alt="Chennaiyin FC 2-6 Mumbai City Highlights, ISL 2022-23: Stewart ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Follow live updates of the Chennaiyin FC vs Mumbai City FC ISL match from the Jawaharlal Nehru Indoor Stadium in Chennai.</p></div>
             </div>
-        </a><a href='https://www.news18.com/news/football/live-score-hyderabad-fc-vs-mumbai-city-fc-live-streaming-isl-2022-23-hfc-vs-mcfc-match-live-coverage-on-live-tv-match-online-livenews-6130819.html'>
+        </a><a href='https://khelnow.com/football/2022-11-indian-football-isl-2022-23-chennaiyin-fc-vs-mumbai-city-player-ratings'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ISL 2022-23, Hyderabad FC vs Mumbai City FC Highlights: HFC 3-3 ...</h3>
+                <h3>Ratings: Goal fest from Mumbai City, Chennaiyin FC defence in pieces</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSn03DKZXHV97z9onyuvsjVCtKXC-k2PAGGKqeYwu64CEEjFxlxIhcgIPXGhdz9xYBGNc5cIBzL" alt="ISL 2022-23, Hyderabad FC vs Mumbai City FC Highlights: HFC 3-3 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Indian Super League 2022-23, Hyderabad FC vs Mumbai City FC Highlights: HFC and MCFC played out 3-3 draw in the ISL at the Shree Shiv Chhatrapati Sports Complex&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRHeUp-oWfw6lX3FZLc8oUiVwCq24Z_B_Vzibo8qVVHwT6cANyJAVd_GzfRuUz2kIxUjVDYxDKT" alt="Ratings: Goal fest from Mumbai City, Chennaiyin FC defence in pieces" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>It was goals galore at Chennai as Mumbai City came from behind to defeat Chennaiyin FC in the Indian Super League.</p></div>
             </div>
-        </a><a href='https://thebridge.in/football/isl-2022-hyderabad-vs-mumbai-live-score-updates-36139'>
+        </a><a href='https://www.insidesport.in/cfc-vs-mcfc-live-streaming-mumbai-city-fc-aim-to-continue-unbeaten-streak-in-isl-2022-against-chennaiyin-fc-follow-live/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ISL 2022-23: Hyderabad FC 3-3 Mumbai City FC at Full Time ...</h3>
+                <h3>CFC vs MCFC HIGHLIGHTS: CFC 2-6 MCFC, Mumbai City FC come ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRU-rtGUNmMNN6suJL7MfRfz0yup9uByRo-N4H6hw-B2acXcbswf3FXhrp4KQEm6xNQ9_CUozU5" alt="ISL 2022-23: Hyderabad FC 3-3 Mumbai City FC at Full Time ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ISL: Joao Victor scored twice for Hyderabad FC while Mumbai City FC&#39;s new recruit was involved in all three of his side&#39;s goals.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQtdBTihAEOya0Ayo-ElUvgI_RCKxIA4Uos4gqnL_USx4SixbLUQQ8gFSmJ0KhtCodXmQiXuXFw" alt="CFC vs MCFC HIGHLIGHTS: CFC 2-6 MCFC, Mumbai City FC come ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>CFC vs MCFC HIGHLIGHTS: CFC 2-6 MCFC, Mumbai City FC come from behind to score SIX past Chennaiyin FC, maintain UNBEATEN streak - CHECK HIGHLIGHTS.</p></div>
+            </div>
+        </a><a href='https://www.asianetnews.com/football-sports/isl-2022-23-cfc-vs-mcfc-match-result-mumbai-city-fc-beat-chennaiyin-fc-on-epic-comeback-rl8sgu'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>രാജകീയ തിരിച്ചുവരവ്, രണ്ട് ഗോളിന് ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTb55ZTUTEkRaQ3NzTGglgxr2xp3EE6Z7J5nzbzFmS7A1v3z0PoAnJI4CdJUUd1eJ1rU9Hufvie" alt="രാജകീയ തിരിച്ചുവരവ്, രണ്ട് ഗോളിന് ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Indian Super League 2022-23 Chennaiyin FC vs Mumbai City FC Match Result Chennaiyin fc beat Mumbai City FC. ഐഎസ്എല്ലില്‍ ചെന്നൈയിന്‍&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
