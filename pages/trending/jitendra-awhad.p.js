@@ -18,7 +18,7 @@ export default function Page() {
                 <h3>Jitendra Awhad gets bail in case for disrupting Marathi film&#39;s screening</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ5xLNlQVUqY-GL1id6Q-_NwdpfF7xn8mnacMGpsmXWCthP8OuoMsieA5nulhfy3cnhK5-l7G6_" alt="Jitendra Awhad gets bail in case for disrupting Marathi film&#39;s screening" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A court here on Saturday granted bail to former Maharashtra minister Jitendra Awhad and 11 others in a case where they are accused of disrupting a show of&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>NCP leader and 11 of his supporters were arrested on Friday for incident that had taken place at multiplex inside mall in Thane city on November 7.</p></div>
             </div>
         </a><a href='https://www.hindustantimes.com/cities/mumbai-news/jitendra-awhad-gets-bail-claims-police-arrested-him-under-political-pressure-101668280147378.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -34,12 +34,12 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRzkC6UTlC_DKoWKQm5y8yndYejvebp6bQ-zreCqoFtJDPXD30XRV1bcxnqN4ExqMpC9aTqzxvl" alt="Maharashtra: NCP विधायक जितेंद्र आव्हाड को मिली जमानत, मराठी ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Maharashtra: NCP विधायक जितेंद्र आव्हाड को मिली जमानत, मराठी फिल्म के खिलाफ प्रदर्शन में हुई थी&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.mid-day.com/mumbai/mumbai-news/article/breaking-ncp-mla-jitendra-awhad-granted-bail-by-thane-court-23255189'>
+        </a><a href='https://lagatar24.com/ncp-leader-jitendra-awhad-arrested-for-stopping-marathi-film-screening/131032/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>BREAKING: NCP MLA Jitendra Awhad granted bail by Thane court</h3>
+                <h3>NCP leader Jitendra Awhad arrested for stopping Marathi film ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQQct51Jkl4Z_r3F0RuINYxKcwrIxn1UNwjkMIhgCBG299ePp-jVZ0tPIUn2SBdskRPas1xeicu" alt="BREAKING: NCP MLA Jitendra Awhad granted bail by Thane court" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Awhad was arrested on Friday in connection with an FIR registered against him for forcibly shutting down the screening of the Marathi film &#39;Har Har Mahadev&#39;&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR7ebiU_3YmhTjeyiMTWaea5R4wzO_riFAq_2PpIBGy1z4853tqNK9OFclnbv69AevXUW3C7UhW" alt="NCP leader Jitendra Awhad arrested for stopping Marathi film ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lagatar24 Desk. New Delhi, Nov 11: Jitendra Awhad, the leader of the Nationalist Congress Party (NCP), was detained by the Thane Police on Friday in Vartak&nbsp;...</p></div>
             </div>
         </a><a href='https://www.thehindu.com/news/cities/mumbai/ncp-mla-jitendra-awhad-arrested-for-disrupting-screening-of-movie-on-shivaji/article66124585.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -48,25 +48,25 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ7kMDTitahaFZDmjnoCAc5A5HWS2I1jE_lMS3CUvvJwUem24rzj1xB5ue7DB40ImjNb50T_4UG" alt="NCP MLA Jitendra Awhad arrested for disrupting screening of movie ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>On November 8, a First Information Report (FIR) was registered against him and 100 party workers for forcibly stopping the screening of the movie at a mall&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.indiatoday.in/india/story/ncp-mla-jitendra-awhad-arrested-for-stopping-marathi-film-screening-gets-bail-2296519-2022-11-12'>
+        </a><a href='https://www.opindia.com/2022/11/ncp-leader-jitendra-awhad-arrested-for-stopping-a-film-show/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>NCP MLA Jitendra Awhad, arrested for stopping Marathi film ...</h3>
+                <h3>Maharashtra: NCP MLA Jitendra Awhad arrested for stopping a ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSimDqaV2-F3dPM30RtsiXrZR1-JBHwGfUXM_XhM4YDIsRsBrenxenPOHHHyGHlJOdqs-ftiupK" alt="NCP MLA Jitendra Awhad, arrested for stopping Marathi film ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A day after his arrest, NCP MLA Jitendra Awhad was granted bail in connection with a case involving creating a ruckus over the screening of a Marathi movie.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT-Df5nAJ6rBC5UpVxA7YWEAVwJ9TOTUrRZsim95R2BVPemY2NOTFRHyBG2tb0khugvHr-3_zGN" alt="Maharashtra: NCP MLA Jitendra Awhad arrested for stopping a ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>NCP MLA Jitendra Awhad arrested by Vartak Nagar police in Thane for stopping the show of Marathi film &#39;Har Har Mahadev&#39; | OpIndia News.</p></div>
             </div>
-        </a><a href='https://lagatar24.com/ncp-leader-jitendra-awhad-arrested-for-stopping-marathi-film-screening/131032/'>
+        </a><a href='https://indianexpress.com/article/cities/mumbai/jitendra-awhad-maharashtra-stopping-film-screening-8263490/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>NCP leader Jitendra Awhad arrested for stopping Marathi film ...</h3>
+                <h3>Who is Jitendra Awhad, the Maharashtra ex-minister held for ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR7ebiU_3YmhTjeyiMTWaea5R4wzO_riFAq_2PpIBGy1z4853tqNK9OFclnbv69AevXUW3C7UhW" alt="NCP leader Jitendra Awhad arrested for stopping Marathi film ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Lagatar24 Desk. New Delhi, Nov 11: Jitendra Awhad, the leader of the Nationalist Congress Party (NCP), was detained by the Thane Police on Friday in Vartak&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTuVf-FM-9Dhv5G3oRVVsSU_YyRCaV1XpuO0Egb4gVifm5MxHFEHbISRstyfdHy0MO1YX6vq012" alt="Who is Jitendra Awhad, the Maharashtra ex-minister held for ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The 59-year-old Awhad, a three-time NCP MLA and a close associate of Sharad Pawar, joined politics as a student activist protesting against rising college&nbsp;...</p></div>
             </div>
         </a><a href='https://www.abplive.com/news/india/maharashtra-ncp-mla-jitendra-awhad-arrested-after-he-created-ruckus-in-pune-mall-ann-2257179'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Jitendra Awhad Arrested: एनसीपी विधायक जितेंद्र आव्हाड गिरफ्तार ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSF83PBH9cY_g2S3_inBxN44Jn_kO00i7b7XI3doxPAcbGOTbv8P_qIC4pu62N-lf1JIdlBmozN" alt="Jitendra Awhad Arrested: एनसीपी विधायक जितेंद्र आव्हाड गिरफ्तार ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcREzxtbHo3qowLh9pcQH7rOGxof9xauk33EuC05SeRJTvQNT0uoac7UqvynlaWF3pJc3ib_6ID4" alt="Jitendra Awhad Arrested: एनसीपी विधायक जितेंद्र आव्हाड गिरफ्तार ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Maharashtra News: आरोप है कि जितेंद्र आव्हाड ने अपने समर्थकों के साथ पुणे के मॉल में जाकर&nbsp;...</p></div>
             </div>
         </a><a href='https://www.jagran.com/maharashtra/mumbai-ncp-mla-jitendra-awhad-arrested-in-thane-in-connection-with-a-protest-against-screening-of-marathi-film-har-har-mahadev-23197055.html'>
@@ -76,12 +76,12 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSJBqbLDVZwimHQ-S1T3QvYaOvvJc5E0Vnr2f105CjTpa1FjT0iFD28OjrFfvoidghwSmYYBSA9" alt="Jitendra Awhad Arrested: मराठी फिल्म हर हर महादेव का शो रुकवाने पर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Thane News राष्ट्रवादी कांग्रेस पार्टी के नेता जितेंद्र आह्वाड को उनके नौ साथियों के साथ&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.enavabharat.com/state/maharashtra/court-reserved-the-verdict-of-jitendra-awhad-for-one-hour-646404/'>
+        </a><a href='https://www.aajtak.in/india/maharashtra/story/jitendra-awhad-arrested-ncp-har-har-mahadev-film-ntc-1573386-2022-11-11'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>जितेंद्र आव्हाड को मिलेगी जमानत? सुनवाई के बाद अदालत ने 1 घंटे के लिए ...</h3>
+                <h3>हर हर महादेव की स्क्रीनिंग पर हंगामे के मामले में NCP नेता जितेंद्र ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTwdriYMScyP0BLGiJBrSGkyqYwZbTjiGZeyIfXSYkAT5Upmx1znn9tjfHUINOfsd2Znbp7yUja" alt="जितेंद्र आव्हाड को मिलेगी जमानत? सुनवाई के बाद अदालत ने 1 घंटे के लिए ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ठाणे: राकांपा विधायक जितेंद्र आव्हाड (Jitendra Awhad) के खिलाफ सुनवाई पूरी हो चुकी है।</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR6Wm_gByiaKo3bmqNLVEdMrIyzZcH0NIfN-t5FXeWfSUIcI7C9ioMLoF4LvMQTClqpkqm0DVBm" alt="हर हर महादेव की स्क्रीनिंग पर हंगामे के मामले में NCP नेता जितेंद्र ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>जानकारी के लिए बता दें कि इस समय महाराष्ट्र में मराठी फिल्म हर-हर महादेव को लेकर जमकर&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

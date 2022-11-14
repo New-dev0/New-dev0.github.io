@@ -17,7 +17,7 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Manchester City vs. Brentford - Football Match Report - November ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR3_kQn2CTOzLpY9MtkMFkZFJ70uLI1ZLR-lOVRx77_aeWm08ypGw1Gptpkqqbcr9EUXcY6Y-Tn" alt="Manchester City vs. Brentford - Football Match Report - November ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSzRfz1HOCtBZkkbSwVJQOpy_c5tlA2NJDIy6jRNDeNMh5dtkLsP2vuHiXGvwWzw2qklE7UR-a0" alt="Manchester City vs. Brentford - Football Match Report - November ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Get a report of the Manchester City vs. Brentford 2022-23 English Premier League football match.</p></div>
             </div>
         </a><a href='https://www.insidesport.in/man-city-vs-brentford-live-streaming-manchester-city-aim-to-reclaim-top-spot-in-premier-league-follow-live/'>
@@ -27,20 +27,6 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSKPKoFhF5jtoE0VRSNoHG3k6iK3p2jixyq3QRP7-6oZVrkGPLNnEMZQCaOrt2M3f78nNRDVqXo" alt="Man City vs Brentford Highlights: MCI 1-2 BRE, Brentford STUN Man ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Man City vs Brentford Highlights: MCI 1-2 BRE, Brentford STUN Man City at Etihad, Ivan Toney SCORES Injury Time WINNER - Check Highlights, Premier League.</p></div>
             </div>
-        </a><a href='https://www.skysports.com/football/man-city-vs-brentford/report/464789'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Man City 1-2 Brentford: Ivan Toney scores injury-time winner after ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSJGFZWycGt1jQnO36Jm-HqSvBNjINrChcYSSLMaSf-DeUlPWkcoQZStm3-v8P0wbXU2ZBYqYSj" alt="Man City 1-2 Brentford: Ivan Toney scores injury-time winner after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Report and free match highlights as Ivan Toney scores twice, including injury-time winner, to give Brentford a stunning 2-1 victory at the Etihad;&nbsp;...</p></div>
-            </div>
-        </a><a href='https://sportstar.thehindu.com/football/epl/manchester-city-vs-brentford-premier-league-toney-two-goals-mci-1-2-bre-man-city-news/article66129521.ece'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Premier League: Brentford stuns Manchester City thanks to Toney ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRZm9Zy6cR53-vOR3N1bpvEVZKZh_qjs1JsmUs-igEpeawkUlM5cuQal2zjPKdaVsVaGubAPlPj" alt="Premier League: Brentford stuns Manchester City thanks to Toney ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Manchester City would now go into the World Cup five points off the top of the table should Arsenal win at Wolves later on Saturday.</p></div>
-            </div>
         </a><a href='https://www.mancity.com/news/mens/manchester-city-v-brentford-premier-league-12-november-match-report-63803851'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>City suffer injury-time defeat despite brilliant Foden strike</h3>
@@ -48,12 +34,26 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQVRsOsb0A08S0_EL7PPVH6IZIvS4AHz2TnaEOmq7ZPObI0IZZ1p8-kRXJisKKdpJXKKe1mvSmB" alt="City suffer injury-time defeat despite brilliant Foden strike" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>City were beaten at the Etihad Stadium for the first time this season as Brentford&#39;s Ivan Toney scored twice including a dramatic injury-time winner.</p></div>
             </div>
-        </a><a href='https://www.timesnownews.com/sports/football/manchester-city-vs-brentford-live-streaming-when-and-where-to-watch-english-premier-league-match-article-95472589'>
+        </a><a href='https://www.skysports.com/football/man-city-vs-brentford/report/464789'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Manchester City vs Brentford live streaming: When and where to ...</h3>
+                <h3>Man City 1-2 Brentford: Ivan Toney scores injury-time winner after ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS1MKRtmmOb67K011dK-bZ3zVIBF1C2Io-MEVebruLVqk55-0jYfi3NroYwoJvofGrDS0C7_pof" alt="Manchester City vs Brentford live streaming: When and where to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Manchester City will take on Brentford for the English Premier League fixture tomorrow at the Etihad Stadium in Manchester. Arsenal is currently placed in&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSJGFZWycGt1jQnO36Jm-HqSvBNjINrChcYSSLMaSf-DeUlPWkcoQZStm3-v8P0wbXU2ZBYqYSj" alt="Man City 1-2 Brentford: Ivan Toney scores injury-time winner after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Report and free match highlights as Ivan Toney scores twice, including injury-time winner, to give Brentford a stunning 2-1 victory at the Etihad;&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.outlookindia.com/sports/premier-league-2022-23-ivan-toney-brace-stuns-manchester-city-as-brentford-win-at-etihad-in-pics-photos-237015'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Premier League 2022-23: Ivan Toney Brace Stuns Manchester City ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQs226Iqi-gyA-mAVIWYv4eCPZjM-Wj0uOa1ggQFYmGxtlrtpHTxYhPQyGDP72fjgtB6tZ2y0E5" alt="Premier League 2022-23: Ivan Toney Brace Stuns Manchester City ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Brentford travelled to the Etihad Stadium on Saturday and shocked the Premier league title holders Manchester City with a 2-1 win. In the 16th minute,&nbsp;...</p></div>
+            </div>
+        </a><a href='https://sportstar.thehindu.com/football/epl/manchester-city-vs-brentford-premier-league-toney-two-goals-mci-1-2-bre-man-city-news/article66129521.ece'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Premier League: Brentford stuns Manchester City thanks to Toney ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRZm9Zy6cR53-vOR3N1bpvEVZKZh_qjs1JsmUs-igEpeawkUlM5cuQal2zjPKdaVsVaGubAPlPj" alt="Premier League: Brentford stuns Manchester City thanks to Toney ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Manchester City would now go into the World Cup five points off the top of the table should Arsenal win at Wolves later on Saturday.</p></div>
             </div>
         </a>
         </Template></>;

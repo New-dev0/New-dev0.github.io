@@ -20,54 +20,40 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ50yHmquOeR2R62IrTvN0mRGUH2OXEChDeiFMcJ9tjb3FL7f1N1fH6R-MweEupmlZD0JN7WWW3" alt="Match Report: Chennaiyin FC 2-6 Mumbai City FC" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>The Islanders beat the Marina Machans 6-2 in a game that showcased the fighting spirit of Mumbai City FC.</p></div>
             </div>
-        </a><a href='https://www.onmanorama.com/sports/football/2022/11/12/indian-super-league-mumbai-vs-chennai.html'>
+        </a><a href='https://www.tribuneindia.com/news/sports/ruthless-mumbai-city-fc-rout-chennaiyin-fc-6-2-450432'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ISL: Ruthless Mumbai City FC rout Chennaiyin FC 6-2</h3>
+                <h3>Ruthless Mumbai City FC rout Chennaiyin FC 6-2</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSp0vjD_PagCkrU1o3sFGLoA0ceLZ9DM-2tOSYVtHBeGIzJYJuNwTehjN4Uwt5iUz1HkKeTOuvf" alt="ISL: Ruthless Mumbai City FC rout Chennaiyin FC 6-2" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The win lifted Mumbai City into second place in the league, four points behind leaders Hyderabad FC..ISL. Indian Super league. Indian Football. Football.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRbOr_2LUWAohHusW995Ehc400ODKJnuCM8DrPJmvqIy8Z5y4PF73zzpjgOz2uIxt3FvMXQPaYI" alt="Ruthless Mumbai City FC rout Chennaiyin FC 6-2" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>It rained goals at the Jawaharlal Nehru Stadium here as Mumbai City FC came from behind to beat Chennaiyin FC 6-2 in the Indian Super League here today.</p></div>
             </div>
-        </a><a href='https://www.mathrubhumi.com/special-pages/isl-2022-23/chennaiyin-fc-vs-mumbai-city-fc-cfc-2-6-mcfc-1.8041202'>
+        </a><a href='https://scroll.in/field/1037305/isl-mumbai-city-fc-move-to-second-on-table-with-big-win-over-chennaiyin'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ചെന്നൈയിൻ എഫ്‌സിയെ ഗോൾമഴയിൽ മുക്കി ...</h3>
+                <h3>ISL: Mumbai City FC move to second on table with big win over ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTdAV_jW3RoMGa6PVASoMtWsHRvCOw_sa9g94idOjU0bfqcgLPH2T83hkoH86YEwOWrqwUdrTxI" alt="ചെന്നൈയിൻ എഫ്‌സിയെ ഗോൾമഴയിൽ മുക്കി ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ചെന്നൈയിന്‍ എഫ്‌സിയെ ഗോള്‍മഴയില്‍ മുക്കി മുംബൈ സിറ്റി &middot; Content Highlights: Chennaiyin FC vs Mumbai City FC : CFC 2-6&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT8WlygUnBBm8xD1IwbZhlOIgutnzGjzvfnkKXfpZlWkxnllSa3_Ul5OJXUR5WfagOJNYSSRz0O" alt="ISL: Mumbai City FC move to second on table with big win over ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>It rained goals at the Jawaharlal Nehru Stadium in Chennai as Mumbai City FC came from behind to beat Chennaiyin FC 6-2 in the Indian Super League.</p></div>
+            </div>
+        </a><a href='https://www.indiansuperleague.com/news/ruthless-mumbai-city-fc-rout-chennaiyin-fc-6-2-in-a-comeback-win'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Ruthless Mumbai City FC rout Chennaiyin FC 6-2 in a comeback win</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQb1cSHaASOoNNRs30N-tdiQvsSY5o8QY1q_6khtp9gccfplJ71A93KRXE8lX4B4GwI-QH69wZK" alt="Ruthless Mumbai City FC rout Chennaiyin FC 6-2 in a comeback win" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>It rained goals at the Jawaharlal Nehru Stadium in Chennai as Mumbai City FC came from behind to beat Chennaiyin FC 6-2 in matchweek 6 of the Hero Indian&nbsp;...</p></div>
+            </div>
+        </a><a href='https://english.mathrubhumi.com/special-pages/isl-2022-2023/isl-2022-23-ruthless-mumbai-city-rout-chennaiyin-6-2-in-comeback-win-1.8043199'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>ISL 2022-23: Ruthless Mumbai City rout Chennaiyin 6-2 in ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTdAV_jW3RoMGa6PVASoMtWsHRvCOw_sa9g94idOjU0bfqcgLPH2T83hkoH86YEwOWrqwUdrTxI" alt="ISL 2022-23: Ruthless Mumbai City rout Chennaiyin 6-2 in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Chennai, Nov 12 (IANS) It rained goals at the Jawaharlal Nehru Stadium here as Mumbai City FC came from behind to thrash Chennaiyin FC 6-2 in an Indian&nbsp;...</p></div>
             </div>
         </a><a href='https://www.news18.com/news/football/live-score-chennaiyin-fc-vs-mumbai-city-fc-isl-2022-23-latest-updates-indian-super-league-live-streaming-football-match-coverage-from-jawaharlal-nehru-stadium-chennai-livenews-6370381.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>ISL 2022-2023, Chennaiyin FC vs Mumbai City FC Highlights: CFC ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSSzVBmG-EOeQhp0gZEXq7-4EEOoiWsL11BLG4XvAixJBAYjleCwOFIXr-G2Es4AE6IPx8cH0AB" alt="ISL 2022-2023, Chennaiyin FC vs Mumbai City FC Highlights: CFC ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>When Vinit Rai scored the third goal, CFC more or less gave up as they lost all hope to make a comeback. This game also shows how good a bench MCFC have as&nbsp;...</p></div>
-            </div>
-        </a><a href='https://sportstar.thehindu.com/football/isl/chennaiyin-fc-vs-mumbai-city-fc-live-score-updates-isl-cfc-vs-mcfc-news-lineups-highlights-football/article66128305.ece'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Chennaiyin FC 2-6 Mumbai City Highlights, ISL 2022-23: Stewart ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQf0cT1z80vmFDgDKJC0rlsTRkAqPFfcd5lUvknVjT22mcFBQH8HfKyG3J0j6_uhaREMXd0ZoJf" alt="Chennaiyin FC 2-6 Mumbai City Highlights, ISL 2022-23: Stewart ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Follow live updates of the Chennaiyin FC vs Mumbai City FC ISL match from the Jawaharlal Nehru Indoor Stadium in Chennai.</p></div>
-            </div>
-        </a><a href='https://khelnow.com/football/2022-11-indian-football-isl-2022-23-chennaiyin-fc-vs-mumbai-city-player-ratings'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ratings: Goal fest from Mumbai City, Chennaiyin FC defence in pieces</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRHeUp-oWfw6lX3FZLc8oUiVwCq24Z_B_Vzibo8qVVHwT6cANyJAVd_GzfRuUz2kIxUjVDYxDKT" alt="Ratings: Goal fest from Mumbai City, Chennaiyin FC defence in pieces" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>It was goals galore at Chennai as Mumbai City came from behind to defeat Chennaiyin FC in the Indian Super League.</p></div>
-            </div>
-        </a><a href='https://www.insidesport.in/cfc-vs-mcfc-live-streaming-mumbai-city-fc-aim-to-continue-unbeaten-streak-in-isl-2022-against-chennaiyin-fc-follow-live/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>CFC vs MCFC HIGHLIGHTS: CFC 2-6 MCFC, Mumbai City FC come ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQtdBTihAEOya0Ayo-ElUvgI_RCKxIA4Uos4gqnL_USx4SixbLUQQ8gFSmJ0KhtCodXmQiXuXFw" alt="CFC vs MCFC HIGHLIGHTS: CFC 2-6 MCFC, Mumbai City FC come ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>CFC vs MCFC HIGHLIGHTS: CFC 2-6 MCFC, Mumbai City FC come from behind to score SIX past Chennaiyin FC, maintain UNBEATEN streak - CHECK HIGHLIGHTS.</p></div>
-            </div>
-        </a><a href='https://www.asianetnews.com/football-sports/isl-2022-23-cfc-vs-mcfc-match-result-mumbai-city-fc-beat-chennaiyin-fc-on-epic-comeback-rl8sgu'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>രാജകീയ തിരിച്ചുവരവ്, രണ്ട് ഗോളിന് ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTb55ZTUTEkRaQ3NzTGglgxr2xp3EE6Z7J5nzbzFmS7A1v3z0PoAnJI4CdJUUd1eJ1rU9Hufvie" alt="രാജകീയ തിരിച്ചുവരവ്, രണ്ട് ഗോളിന് ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Indian Super League 2022-23 Chennaiyin FC vs Mumbai City FC Match Result Chennaiyin fc beat Mumbai City FC. ഐഎസ്എല്ലില്‍ ചെന്നൈയിന്‍&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Chennaiyin FC vs Mumbai City FC Live Match of ISL 2022-23 Match: Get the ISL 2022-23 between Chennaiyin FC and Mumbai City FC Live, CFC vs MCFC Dream11 Team&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

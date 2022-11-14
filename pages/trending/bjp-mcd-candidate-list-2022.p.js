@@ -27,54 +27,26 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRjgbGfNX1mPkgKfp6z3kJjqnlFiPbahldF0L4dMLtJ_8-h6-8DtkNvKjPZG-MhVNWzeaA1DLcx" alt="Delhi MCD Election 2022: भाजपा ने नगर निगम चुनाव के लिए जारी की 232 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>नई दिल्ली, राज्य ब्यूरो। दिल्ली नगर निगम चुनाव के लिए सभी दलों की तैयारी तेज हैं। आम आदमी&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.india.com/news/delhi/delhi-mcd-election-2022-latest-news-12-november-2022-bjp-releases-first-list-of-232-candidates-remaining-names-to-be-out-soon-aap-congress-election-manifesto-5739501/'>
+        </a><a href='https://www.india.com/news/delhi/delhi-mcd-polls-live-updates-aap-releases-second-list-of-117-candidates-bjp-candidates-list-congress-list-civic-polls-news-november-13-5739714/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Delhi MCD Election 2022: BJP Releases First List of 232 ...</h3>
+                <h3>Delhi MCD Polls 2022 Highlights: Unhappy Over Not Getting Ticket ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRw7cdF2J5aTunSoq3td4VBD4Xum2IUmmPoNjGqbieY3hmOFVM6A-iXGjbkQk2RenbW0JJsSbUF" alt="Delhi MCD Election 2022: BJP Releases First List of 232 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Delhi MCD Election 2022: As per the list of the BJP, nine former city mayors and 52 former councilors have been fielded among the prominent candidates for&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTUM2W_yL37TnI3tzszjNOBSug4_pIJZnzUR3w9RcgzKrSZPsXnLHLG446f9zKARsqYs_NsqG6f" alt="Delhi MCD Polls 2022 Highlights: Unhappy Over Not Getting Ticket ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Delhi Civic Polls 2022: The Aam Aadmi Party (AAP) announced its second list of 117 candidates yesterday for the upcoming civic polls in Delhi on December 4.</p></div>
             </div>
-        </a><a href='https://www.abplive.com/states/delhi-ncr/delhi-mcd-election-2022-bjp-releases-first-list-232-candidates-name-announced-2258039'>
+        </a><a href='https://www.prabhatkhabar.com/state/delhi-ncr/delhi-mcd-election-2022-bjp-first-list-candidate-bjp-ummidwar-ki-suchi-zzz'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Delhi MCD Election 2022: एमसीडी चुनाव के लिए बीजेपी ने जारी की पहली ...</h3>
+                <h3>MCD Election 2022: बीजेपी ने जारी की पहली सूची, तीन डॉक्टर भी हैं शामिल ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT1RbHWdpCqiRFjQVG2la8UfpYlOyBodOYI2YSHGaUMIWbMFHPmRhMIb7VI_P4yM8WPdVfczr8d" alt="Delhi MCD Election 2022: एमसीडी चुनाव के लिए बीजेपी ने जारी की पहली ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Delhi MCD Polls 2022: दिल्ली नगर निगम चुनाव के लिए बीजेपी ने अपने उम्मीदवारों के नाम की घोषणा कर&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSsPzL-xQVm5xZ1btC-GcoVFy4T08yjblNHCQxWI-17BOq8zZosr-jl5L1sA9Pb2jCi-rBV9sXh" alt="MCD Election 2022: बीजेपी ने जारी की पहली सूची, तीन डॉक्टर भी हैं शामिल ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>दिल्ली में नगर निकाय चुनाव के लिए भारतीय जनता पार्टी ने 232 सीटों के लिए उम्मीदवारों की&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.indiatvnews.com/elections/news/mcd-election-2022-bjp-issues-first-list-of-232-candidates-latest-updates-mcd-civic-polls-delhi-2022-11-12-823410'>
+        </a><a href='https://navbharattimes.indiatimes.com/elections/municipal-corporation/delhi/news/bjp-releases-first-list-of-232-candidates-for-mcd-elections/articleshow/95477437.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>MCD Election 2022: Delhi BJP issues first list of 232 candidates for ...</h3>
+                <h3>दिल्ली MCD चुनाव : बीजेपी ने जारी की 232 उम्मीदवारों की पहली सूची, जानिए ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRR5_UlH0ZRlN84lAtl0SIKAShNfUjaEd8XSaUZ_-jxC4WGIZUdlzRAntB_9Tj6kKdAFZocajn-" alt="MCD Election 2022: Delhi BJP issues first list of 232 candidates for ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>MCD Election 2022: As per reports, the names of the BJP candidates were decided after going through a screening process after BJP&#39;s Delhi unit was flooded&nbsp;...</p></div>
-            </div>
-        </a><a href='https://news.abplive.com/delhi-ncr/delhi-mcd-election-2022-bjp-releases-first-list-of-232-candidates-1563026'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Delhi MCD Election 2022: BJP Releases First List Of 232 Candidates</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRydAVZakZkQB3KtjU-5WguDUdlTE37TMgkzDfK66WEc7kiwUVjjOMfRl7O0VDMQTeTNk2AwZsi" alt="Delhi MCD Election 2022: BJP Releases First List Of 232 Candidates" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The BJP has announced its candidates from 232 out of 250 wards for the Delhi MCD election.</p></div>
-            </div>
-        </a><a href='https://www.timesnownews.com/delhi/delhi-mcd-election-2022-bjp-releases-list-of-232-candidates-check-here-article-95476998'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Delhi MCD election 2022: BJP releases list of 232 candidates; check ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR39OMx_eqjzos8SxWlDOzrQH56Eq-obXU0O2VM-UG7ywDIGT9FVqCrWifg8P_prQkqhmb96dH4" alt="Delhi MCD election 2022: BJP releases list of 232 candidates; check ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Delhi : The Bhartiya Janta Party (BJP) has released its candidate list for the 2022 MCD election. A total of 232 members are on the Delhi BJP&#39;s candidate&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.news18.com/news/politics/delhi-mcd-election-2022-live-updates-aap-bjp-congress-arvind-kejriwal-rajendra-pal-gautam-manoj-tiwari-star-campaigner-10-guarantees-livenews-6365455.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>MCD Election 2022 Updates: After AAP, BJP Issues First List of 232 ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT1rowimGsBmXCykfPrI2uXMS75nIULFqOgsjhdBGx_J4nnkf-DuQdJNLzW13tVKtyIrhx_SUV8" alt="MCD Election 2022 Updates: After AAP, BJP Issues First List of 232 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Delhi MCD Election 2022 LIVE News Updates: Mcd Election 2022, The 250-ward Municipal Corporation of Delhi (MCD) goes to polls on December 4 and the counting&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.indiatoday.in/elections/mcd-polls-2022/story/bjp-list-of-candidates-municipal-corporation-of-delhi-mcd-polls-2296529-2022-11-12'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>BJP releases list of candidates for Delhi civic polls | Check details</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRMt23zKY1IV9wrSrokwNCy8wOo13PzuamB1D2s3vtchuMnmwIbPXzn0jwCUzJKdP6IrNWvHih0" alt="BJP releases list of candidates for Delhi civic polls | Check details" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The BJP on Saturday released its first list of candidates for the high-stakes December 4 polls to the Municipal Corporation of Delhi.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcScPrkMVSaCrgnmJ6J_BKojGvyJIyOMn9SwCQ1tKc-831ivXXJY5yZFfOUSZUYemtn8qMt0Fl1S" alt="दिल्ली MCD चुनाव : बीजेपी ने जारी की 232 उम्मीदवारों की पहली सूची, जानिए ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Delhi MCD BJP candidate list 2022: दिल्ली एमसीडी चुनाव के मद्देनजर 4 दिसंबर को वोटिंग होगी।</p></div>
             </div>
         </a><a href='https://www.hindustantimes.com/cities/delhi-news/delhi-mcd-poll-aap-releases-2nd-list-of-117-candidates-tweets-on-3-landfills-101668272559698.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -82,6 +54,34 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSXXYzSi14T7G_ca9njVia_X86M_Xpgoey8wfMhn2Q73-rvpkgmgacRSN1qDx7ZXUpQ6KEPWYQQ" alt="Delhi civic poll: AAP releases 2nd list of 117 candidates, tweets on ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>The AAP&#39;s second list was released shortly after the Bharatiya Janata Party (BJP) issued its first list of 232 candidates for the MCD election.</p></div>
+            </div>
+        </a><a href='https://www.zeebiz.com/trending/politics/news-municipal-corporation-of-delhi-elections-2022-bjp-issues-first-list-of-232-candidates-207555'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Municipal Corporation of Delhi elections 2022: BJP issues first list of ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQo2ohDaxcPVP9p30O-IOXpwcLF3BRVjiBTPIrSPdvM2HFLFacv9zX-rmBpu25HFoVFupHbqxqq" alt="Municipal Corporation of Delhi elections 2022: BJP issues first list of ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Former mayor and Delhi BJP general secretary Harsh Malhotra said 23 Punjabis, 21 Vaishyas, 42 Brahmins, 34 Jats, 26 Purvanchalis, 22 Rajputs, 17 Gujjars,&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.livemint.com/news/india/aap-announces-second-list-of-117-candidates-for-delhi-mcd-polls-11668304843488.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>AAP announces second list of 117 candidates for Delhi MCD polls ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSzC_8TxeBVUo31WJCZEVD3imZCWCgXmVRDomm7G6HLV855Unmk9hnqkHBRe6vFwsPi6ImM1-nbqQ" alt="AAP announces second list of 117 candidates for Delhi MCD polls ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The AAP Political Affairs Committee, led by Kejriwal, held a marathon meeting to finalize the candidate list.</p></div>
+            </div>
+        </a><a href='https://www.abplive.com/states/delhi-ncr/delhi-mcd-election-2022-bjp-releases-first-list-232-candidates-name-announced-2258039'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Delhi MCD Election 2022: एमसीडी चुनाव के लिए बीजेपी ने जारी की पहली ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRK5t1Prj7aLMFykZDdC_SUcrQSkqodm_1lWL-ePfcBLMkqQ7a0mW1TViFaDCYuazPNUB16ZjAP" alt="Delhi MCD Election 2022: एमसीडी चुनाव के लिए बीजेपी ने जारी की पहली ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Delhi MCD Polls 2022: दिल्ली नगर निगम चुनाव के लिए बीजेपी ने अपने उम्मीदवारों के नाम की घोषणा कर&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.thehindu.com/news/cities/Delhi/delhi-bjp-releases-first-list-of-232-candidates-for-mcd-polls/article66129506.ece'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Delhi BJP releases first list of 232 candidates for MCD polls</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSRG3MLdQRgeyW7lQKSX8e9d5qYBNsoYEqu5Y1rjbLN-LEV2jQAE2hjJ2aVTInP5FyqAdtnKEUL" alt="Delhi BJP releases first list of 232 candidates for MCD polls" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Party withholds names on 18 seats due to some disputes; fields 126 women candidates in the first list.</p></div>
             </div>
         </a>
         </Template></>;

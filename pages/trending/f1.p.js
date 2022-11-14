@@ -11,9 +11,30 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,F1"/>
         <meta name="description" content="Trending News about F1" /></Head><Template>
             <h1 style={{fontSize: "30"}}>F1</h1>
-            <Image width={800} height={500} src="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/11/12/16682711025077.jpg" alt="F1"/>
+            <Image width={800} height={500} src="https://www.jagranimages.com/images/newimg/13112022/13_11_2022-f1_racing_23200896.jpg" alt="F1"/>
             <h3>Recent News</h3>
-            <a href='https://www.marca.com/en/f1-directo/2022/11/12/05_0501_20221112_21_20.html'>
+            <a href='https://www.jagran.com/news/national-brazilian-grand-prix-racing-bernie-ecclestone-makes-f1-racing-multibillion-dollar-business-23200896.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>दुनियाभर में सिर चढ़कर बोलता है F1 Racing का क्रेज, विश्‍व के सबसे महंगे ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTj93uTcYfInvxrELX2VW72dJo6Cl9STTLuv5YnpoIFf0_HzxrufSSyqmOdDLhH6D0plkFB5_RM" alt="दुनियाभर में सिर चढ़कर बोलता है F1 Racing का क्रेज, विश्‍व के सबसे महंगे ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Brazilian Grand Prix Formula 1 का क्रेज पूरी दुनिया में सिर चढ़कर बोल रहा है। आज ये दुनिया के सबसे&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.carandbike.com/news/f1-george-russel-stuns-by-grabbing-brazil-sprint-race-win-3203783'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>F1: George Russel Stuns By Grabbing Brazil Sprint Race Win</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ-Tr6Os0cekOzkt0eBBbAlM4ZgoZ3GhYD9h4RGQpH-DFZE-AJuDORShNwReJv8G6RtTDPhAfNp" alt="F1: George Russel Stuns By Grabbing Brazil Sprint Race Win" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The final F1 Sprint of the season proved to be a brilliant affair, as plenty of wheel to wheel action filled the 24 laps.</p></div>
+            </div>
+        </a><a href='https://www.deccanherald.com/sports/formula-1/russell-notches-first-f1-win-as-mercedes-bosses-brazilian-gp-sprint-1161874.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Russell notches first F1 win as Mercedes bosses Brazilian GP sprint</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSCBZbf1TuqmZ923zR2JXqXo3rYjVy3uhgKIZLftfbGom_GyJJ29Y_TlDXWdR163tO6HSxWtVVc" alt="Russell notches first F1 win as Mercedes bosses Brazilian GP sprint" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mercedes&#39; George Russell claimed the first victory of his Formula One career on Saturday when he won a closely-contested sprint race at the Brazilian Grand&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.marca.com/en/f1-directo/2022/11/12/05_0501_20221112_21_20.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>F1 Sprint Qualifying at Brazilian Grand Prix: Russell takes the victory ...</h3>
                 <div style={{ display: "flex" }}>
@@ -25,35 +46,28 @@ export default function Page() {
                 <h3>LIVE COVERAGE - F1 Sprint in Brazil | Formula 1®</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRU8xT2IxFsEsZGqjFGPMmy86YWU9-WxOU54wH3RZOpMjfoNEZHWbqWFBDpN49xTN_YvlJuMcJx" alt="LIVE COVERAGE - F1 Sprint in Brazil | Formula 1®" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Qualifying yesterday certainly did, with a wet-dry-wet session that culminated in a disbelieving Kevin Magnussen stood on the nose of his car in the Haas&nbsp;...</p></div>
-            </div>
-        </a><a href='https://racingnews365.com/live-f1-2022-brazilian-grand-prix-sprint-2'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>LIVE: F1 2022 Brazilian Grand Prix Sprint</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQTEYbpA1o1xj5C4nGpgiz2AwGGWOljEttxwEspDKNLIlJWeNk_ta2KsSNXn8otwnfgIFl3N2N0" alt="LIVE: F1 2022 Brazilian Grand Prix Sprint" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Follow the F1 Sprint Race for the Brazilian GP live. Keep up to date with everything that happens during the Sprint Race at Interlagos.</p></div>
-            </div>
-        </a><a href='https://www.carandbike.com/news/f1-george-russel-stuns-by-grabbing-brazil-sprint-race-win-3203783'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>F1: George Russel Stuns By Grabbing Brazil Sprint Race Win</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ-Tr6Os0cekOzkt0eBBbAlM4ZgoZ3GhYD9h4RGQpH-DFZE-AJuDORShNwReJv8G6RtTDPhAfNp" alt="F1: George Russel Stuns By Grabbing Brazil Sprint Race Win" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The final F1 Sprint of the season proved to be a brilliant affair, as plenty of wheel to wheel action filled the 24 laps.</p></div>
+                <p style={{marginLeft: "15px"}}>The penultimate round of the season comes from Sao Paulo, Brazil &middot; Kevin Magnussen starts on pole for the Sprint &middot; Max Verstappen lines up alongside for Red Bull&nbsp;...</p></div>
             </div>
         </a><a href='https://www.theguardian.com/sport/2022/nov/12/george-russell-wins-brazilian-gp-sprint-race-as-mercedes-take-front-of-grid'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>George Russell wins Brazilian GP sprint race as Mercedes take front ...</h3>
+                <h3>George Russell wins Brazilian F1 GP sprint race as Mercedes take ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSGCBfoFXY_yPVnubKLHW7iRZZX85HpuGtjb9N6_rKfpmehnQqrxmE7V7V0pScyqY_SENsBJdmN" alt="George Russell wins Brazilian GP sprint race as Mercedes take front ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSGCBfoFXY_yPVnubKLHW7iRZZX85HpuGtjb9N6_rKfpmehnQqrxmE7V7V0pScyqY_SENsBJdmN" alt="George Russell wins Brazilian F1 GP sprint race as Mercedes take ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>George Russell won the sprint race in São Paulo, Carlos Sainz finished second but a grid penalty dropped him back and put Lewis Hamilton second on the grid&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.motorsport.com/f1/news/f1-brazilian-gp-russell-takes-sprint-race-win/10398885/'>
+        </a><a href='https://jantaserishta.com/sports/f1-joy-for-mercedes-as-russell-tops-brazilian-gp-sprint-race-1743864'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brazilian GP: Russell takes sprint race win as Verstappen struggles</h3>
+                <h3>रसेल के रूप में मर्सिडीज के लिए F1 खुशी ब्राजील जीपी स्प्रिंट दौड़ में सबसे ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcREoiSRX9mTA1erghZtQDruuGerV1mqTm0-6C1lm5OPKVhh6sa5fFAiB4fkcAoGibJgFH_I3drU" alt="Brazilian GP: Russell takes sprint race win as Verstappen struggles" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>George Russell sensationally ended the Mercedes winless run as he overthrew Max Verstappen to win the final sprint race of the 2022 Formula 1 season in&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTeG4kIH6lHbWVuNmmM-LZD-RHfYVJxHYw0AmNoTiDkbvPlABolr3-mBN1T3U0LLaCZ1AzIghdS" alt="रसेल के रूप में मर्सिडीज के लिए F1 खुशी ब्राजील जीपी स्प्रिंट दौड़ में सबसे ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>साओ पाउलो (ब्राजील): फॉर्मूला वन टीम मर्सिडीज के पास ब्राजीलियन ग्रां प्री में यादगार&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.fia.com/news/f1-russell-wins-sao-paulo-sprint-ahead-sainz-and-hamilton'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>F1 - Russell wins São Paulo Sprint ahead of Sainz and Hamilton</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSO6Nco8fi9p_Q6Ud5YaW4WsaSOhKwQC5cT4NTZgnmHyGEbpjM8LGJzzdtPf3KgKVyYBQ6V72Yi" alt="F1 - Russell wins São Paulo Sprint ahead of Sainz and Hamilton" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>George Russell took his first F1 Sprint victory, overtaking Max Verstappen soon after the midway point in a bruising race at Interlagos in which Verstappen&nbsp;...</p></div>
             </div>
         </a><a href='https://www.abplive.com/gk/what-is-formula-one-race-f1-race-competition-formula1-race-point-system-2257801'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

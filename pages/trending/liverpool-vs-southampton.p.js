@@ -20,12 +20,12 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSZCL9PNQu4j0HgjFhHYXPrugx1rzNd30P7ywwWXyvudXZGONMS317m6RF_xA5ph29IkvC1HdKR" alt="Liverpool vs Southampton HIGHLIGHTS Premier League: Nunez ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Follow for all Highlights from the Premier League game between Liverpool and Southampton.</p></div>
             </div>
-        </a><a href='https://www.insidesport.in/liverpool-vs-southampton-live-streaming-liverpool-aim-to-bolster-premier-league-top-four-chances-against-southampton-follow-live/'>
+        </a><a href='https://www.outlookindia.com/sports/premier-league-2022-23-darwin-nunez-brace-helps-liverpool-secure-3-1-victory-over-southampton-in-pics-photos-237020'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Liverpool vs Southampton HIGHLIGHTS: LIV 3-1 SOU, Darwin ...</h3>
+                <h3>Premier League 2022-23: Darwin Nunez Brace Helps Liverpool ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ1UPSjMB_uIvel0A_J1vmjEqoE9kxBX4SIOAKazJFUv0Eh1jxRvcIPP29rrEnn9GKHAX1xEQ2c" alt="Liverpool vs Southampton HIGHLIGHTS: LIV 3-1 SOU, Darwin ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Liverpool vs Southampton HIGHLIGHTS: LIV 3-1 SOU, Darwin Nunez shines as Liverpool SAIL past Southampton with dominant win -CHECK HIGHLIGHTS.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT8RoDvYlQRL2dPzWD1FOm238yoTiEh1CyDaQKw4SOhovqV7p9cAmT79ARG-hBbu1Jh8MfsiFPG" alt="Premier League 2022-23: Darwin Nunez Brace Helps Liverpool ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Jurgen Klopp&#39;s men took on Southampton at Anfield and walked out as easy victors with a scoreline of 3-1. Liverpool striker Roberto Firmino opened the&nbsp;...</p></div>
             </div>
         </a><a href='https://www.sportingnews.com/us/soccer/news/liverpool-vs-southampton-live-stream-tv-channel-highlights-score/vpcutwamqgm4jc8sqjsdjnep'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -34,19 +34,19 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS4ujAKCafY1HFBlx5w-rqDinJrejqBpsPmGKotCr4aKXnujVNM4yAT5wnanPtKvsdzpKDMUQ5C" alt="Liverpool vs. Southampton result, highlights and analysis as Darwin ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>A Darwin Nunez double and a goal from Roberto Firmino inflicted defeat on Southampton in Nathan Jones&#39; first game in charge.</p></div>
             </div>
-        </a><a href='https://www.thisisanfield.com/2022/11/watch-liverpool-vs-southampton-live-online-streams-and-worldwide-tv-info-3/'>
+        </a><a href='https://www.insidesport.in/liverpool-vs-southampton-live-streaming-liverpool-aim-to-bolster-premier-league-top-four-chances-against-southampton-follow-live/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>How to watch Liverpool vs. Southampton on TV &amp; online streams</h3>
+                <h3>Liverpool vs Southampton HIGHLIGHTS: LIV 3-1 SOU, Darwin ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSXLGSgFhGapJh6VPFf3084wqUMuUSxX8U85A2JTap0zBbRXQme22wVOk8zwhoZO_8NuNm9LlL0" alt="How to watch Liverpool vs. Southampton on TV &amp; online streams" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>For the last time before the World Cup, Liverpool are in action with Southampton the visitors at Anfield. Here&#39;s how to watch live online and on TV&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ1UPSjMB_uIvel0A_J1vmjEqoE9kxBX4SIOAKazJFUv0Eh1jxRvcIPP29rrEnn9GKHAX1xEQ2c" alt="Liverpool vs Southampton HIGHLIGHTS: LIV 3-1 SOU, Darwin ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Liverpool vs Southampton HIGHLIGHTS: LIV 3-1 SOU, Darwin Nunez shines as Liverpool SAIL past Southampton with dominant win -CHECK HIGHLIGHTS.</p></div>
             </div>
-        </a><a href='https://www.vanguardngr.com/2022/11/liverpool-vs-southampton-nunez-nets-twice-as-reds-win-3-1-at-anfield/'>
+        </a><a href='https://www.thisisanfield.com/2022/11/liverpool-3-1-southampton-player-ratings-what-the-media-and-statistics-say/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Liverpool vs Southampton: Nunez nets twice as Reds win 3-1 at ...</h3>
+                <h3>Player Ratings vs. Southampton - What the media and statistics say</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTrcqc1aaAv5_EHQ0deNRcVB9lAdQuz8wfIhhLqVZ166d2LNmNjjW8Llz-EEvMImesr9ZWGQ7lO" alt="Liverpool vs Southampton: Nunez nets twice as Reds win 3-1 at ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Liverpool got all three points as they won their last game before the break to the World Cup in Qatar by beating Southampton 3-1 at Anfield on Saturday.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSmWXS_gd40lvWroSS17PPGHg493vjunsWpZPMT76wXs3FCD_U1caHx7fgnIl_Wn6tPkuMcG-UV" alt="Player Ratings vs. Southampton - What the media and statistics say" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Jurgen Klopp&#39;s men went into the World Cup break with momentum, following an excellent performance at Anfield on Saturday. Roberto Firmino found the&nbsp;...</p></div>
             </div>
         </a><a href='https://www.skysports.com/football/liverpool-vs-southampton/report/464788'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
