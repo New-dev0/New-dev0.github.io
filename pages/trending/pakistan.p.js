@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Pakistan"/>
         <meta name="description" content="Trending News about Pakistan" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Pakistan</h1>
-            <Image width={800} height={500} src="https://spiderimg.amarujala.com/assets/images/2019/12/10/750x506/pakistan-flag_1575967131.jpeg" alt="Pakistan"/>
+            <Image width={800} height={500} src="https://spiderimg.amarujala.com/assets/images/2022/11/15/750x506/cpec-projects_1668458539.jpeg" alt="Pakistan"/>
             <h3>Recent News</h3>
-            <a href='https://www.amarujala.com/world/surge-in-crime-rates-in-pakistan-karachi-residents-has-created-fear-psychosis'>
+            <a href='https://www.amarujala.com/world/pakistan-angry-protesters-rally-in-gwadar-threatens-to-block-cpec-projects'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Pakistan: कराची की सड़कों पर बढ़ते अपराधों से लोगों के मन में बैठा डर ...</h3>
+                <h3>Pakistan: गुस्साए प्रदर्शनकारियों ने पाकिस्तान के ग्वादर में की रैली ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSAYvwk5rVZq_oekFRyaJtT8q_hED3GDM7M0BqHbQ77yCyN3CA_GCA2gydWvrgZv5V6WSFYd0dj" alt="Pakistan: कराची की सड़कों पर बढ़ते अपराधों से लोगों के मन में बैठा डर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>पाकिस्तान के कराची में बढ़ते अपराधों के चलते यहां के निवासियों में डर बैठ गया है।</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcShZGbytH_wn4P5x7C2sRt5dxLz9yOGPo_UaMg7owCNyjoy7Hsw36XHrqj9MdTkFOmFIpUWexih" alt="Pakistan: गुस्साए प्रदर्शनकारियों ने पाकिस्तान के ग्वादर में की रैली ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Pakistan: Angry protesters rally in Gwadar, threatens to block CPEC projects पाकिस्तान के बंदरगाह शहर ग्वादर में&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.amarujala.com/world/nine-year-old-girl-found-chained-by-employers-in-pakistan-faisalabad'>
+        </a><a href='https://www.opindia.com/2022/11/singer-adnan-sami-says-he-was-harassed-by-pakistan-govt/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Pakistan: पाकिस्तान के फैसलाबाद में नौ साल की बच्ची जंजीर से बंधी पाई गई ...</h3>
+                <h3>&#39;I left Pakistan because of the establishment, will expose them soon ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Pakistan: पाकिस्तान के फैसलाबाद में नौ साल की बच्ची जंजीर से बंधी पाई गई ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>फैसलाबाद शहर के पुलिस अधिकारी (सीपीओ) ओमर सईद मलिक के एक बयान के अनुसार,&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTYGS_6aFz2SgIMo1KL7ALBZi4VPLiOi9whwX-vE6-mzH4irMnt6ndplknpjQldHlUDPK3GIkUC" alt="&#39;I left Pakistan because of the establishment, will expose them soon ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Adnan Sami gave up his citizenship in Pakistan in 2015 and became an Indian citizen in 2016. | OpIndia News.</p></div>
             </div>
-        </a><a href='https://newsroomodisha.com/t20-world-cup-spirited-zimbabwe-stun-pakistan-snatch-thrilling-1-run-victory/'>
+        </a><a href='https://www.hindustantimes.com/india-news/ht-this-day-nov-16-1959-pakistan-to-vacate-tukergram-today-101668422943436.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>T20 World Cup: Spirited Zimbabwe stun Pakistan, snatch thrilling 1 ...</h3>
+                <h3>HT This Day: Nov 16, 1959 -- Pakistan to vacate Tukergram today</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT0CsJIuWDbb8NX9m43jdQU-vq8yOQTttUSQN96KA1dlf4GXgWj8t6NQdSjmpa_h7ItcfgnUQ_m" alt="T20 World Cup: Spirited Zimbabwe stun Pakistan, snatch thrilling 1 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Perth: A spirited Zimbabwe team held its nerves to beat Pakistan by one run in a thrilling ICC Men&#39;s T20 World Cup 2022 Super 12 match that went down to the&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcScJ0cadwTxMAfJ5DR2CmV5MiYYY-9t8-WTVjbCmx16XxEI6Bohz-zS0kI4wfOaqKhwE9FnAtoH" alt="HT This Day: Nov 16, 1959 -- Pakistan to vacate Tukergram today" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Tukergram, the tiny border village which was occupied by Pakistan in September last year, will be handed back to India tomorrow. | Latest News India.</p></div>
             </div>
-        </a><a href='https://indianexpress.com/article/sports/cricket/how-did-zimbabwe-win-the-last-over-thriller-against-pakistan-hard-lengths-hard-lengths-8233955/'>
+        </a><a href='https://www.bbc.com/travel/article/20221114-pakistans-lost-city-of-40000-people'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>How did Zimbabwe win the last-over thriller against Pakistan? Hard ...</h3>
+                <h3>Pakistan&#39;s lost city of 40000 people</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTQdbYDDMxDEE5lLRvagdwz1ZdbYmB3SrTZMiK2RKAU_UJoiX_hytmKg3jRRVUFI_XBgKqiGLIl" alt="How did Zimbabwe win the last-over thriller against Pakistan? Hard ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Chasing 131 runs, Pakistan went agonizingly close as they fell short by only 1 run and lost their second match in a row in the T20 World Cup.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQkeRvc7fvJEWOJyEFHqA8Dvzqd3zrtbGjs-_8_DsbRRaOmSD8UjY1uyjYX2UIm-xw5m3-gAJlV" alt="Pakistan&#39;s lost city of 40000 people" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>In the dusty plains of present-day Sindh in southern Pakistan lie the remains of one of the world&#39;s most impressive ancient cities that most people have&nbsp;...</p></div>
             </div>
-        </a><a href='https://economictimes.indiatimes.com/news/defence/pakistan-army-personnel-can-make-mistakes-but-they-can-never-be-traitors-or-conspirators-army-spokesman/articleshow/95126970.cms'>
+        </a><a href='https://theprint.in/go-to-pakistan/one-place-in-pakistan-where-blasphemy-laws-wont-haunt-you-in-your-dreams/1215659/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Pakistan Army personnel can make &#39;mistakes&#39;, but they can never be ...</h3>
+                <h3>One place in Pakistan where blasphemy laws won&#39;t haunt you—in ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQaGtum1K72CXFajB4J5nK7RKUD_6gIq4NOkn4NEYnMbH9A1g12fW3X0Hq9Ybu1rIaVJujxIP4L" alt="Pakistan Army personnel can make &#39;mistakes&#39;, but they can never be ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Military spokesperson Maj Gen Babar Iftikhar made the remarks during an unprecedented press conference by the country&#39;s powerful spy agency Inter-Services&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRFKFwcQM_27ViRfJipm052Hf_8cJ1w1hq59Jutgm9RyaH2V0LDOcDxlLOQNfUl10Mk0Iq9qYzj" alt="One place in Pakistan where blasphemy laws won&#39;t haunt you—in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Pakistanis may be able to dream in peace without worrying about whether they are guilty of blasphemy. The Lahore High Court has ruled that the country&#39;s&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.theguardian.com/sport/2022/oct/27/raza-stars-as-zimbabwe-claim-last-ball-win-over-pakistan-at-t20-world-cup'>
+        </a><a href='https://www.hindustantimes.com/opinion/keeping-a-close-watch-on-pakistan-s-economy-101668432926334.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Raza stars as Zimbabwe claim last-ball win over Pakistan at T20 ...</h3>
+                <h3>Keeping a close watch on Pakistan&#39;s economy</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR4p8UpYVD_ev9_jFXAePELvlEwOE_nUGsqmqAZh97bAfFRNW-YfpObCjrh8JrhOLFF-IAvjeb1" alt="Raza stars as Zimbabwe claim last-ball win over Pakistan at T20 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Pakistan&#39;s T20 World Cup hangs by a thread after defeat to Zimbabwe, while India and South Africa registered comfortable wins.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSdOIr8oY8qvgBXKe3i4SZsl4NFseiRLJ0iqkQMV9QNyssxtkxO3ZBGZO_PQ0UR5EOvqLcR6XT-" alt="Keeping a close watch on Pakistan&#39;s economy" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Given that Pakistan is entering a protracted period of turmoil, with Army Chief General Qamar Bajwa set to retire at the end of the month and Imran Khan&nbsp;...</p></div>
             </div>
-        </a><a href='https://indianexpress.com/article/cities/srinagar/rajnath-singh-kashmir-pakistan-infantry-day-speech-8232725/'>
+        </a><a href='https://www.hindustantimes.com/entertainment/music/adnan-sami-says-he-intends-to-expose-the-reality-of-what-pakistan-did-to-him-101668413029561.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Pakistan will have to bear consequences for atrocities in PoK ...</h3>
+                <h3>Adnan Sami says he intends to &#39;expose the reality&#39; of what Pakistan ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTakGW7mpHJb6k936Y287yJJv1lz4qNvFQNBle6mBBiNz-eBBcJipL6J0VOKNo-fJnqfaXmDrwY" alt="Pakistan will have to bear consequences for atrocities in PoK ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Defence Minister said, &quot;Is the terrorist act done seeing whether there is a Hindu or a Muslim in front? Terrorists only know how to execute their plans&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTdJ_eLr3BFZuNzKi7ZC6T_y35IMNfqZE9hWWE_DO70ClI_DmDPfy5vs_Zr57nqhfGKjAqQYtpv" alt="Adnan Sami says he intends to &#39;expose the reality&#39; of what Pakistan ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Adnan Sami has minced no words in a recent note attacking the Pakistan establishment for allegedly harrassing him and saying he will expose all that in due&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.icc-cricket.com/news/2877598'>
+        </a><a href='https://www.opindia.com/2022/11/pakistan-joyland-queer-theme-film-banned-oscar-entry/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Pakistan&#39;s route to redemption explained as Babar Azam vows to ...</h3>
+                <h3>Pakistan bans the film Joyland, its official Oscar entry, because of ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRdAiUcoFQHhHNemXzE34HuYMzb6MUot7PyQjbOiftzlN6AwxvP4q58U5YLgmgHVnyNJ4JovC8l" alt="Pakistan&#39;s route to redemption explained as Babar Azam vows to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Zimbabwe pull off stunning win against Pakistan to throw Group 2 wide open in the ICC Men&#39;s T20 World Cup 2022. Two defeats by the narrowest of margins have&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcThCXRTFW_VnTJOdX8QptdQYjw7AKzp0K2nVq7UlJUJDDUydz9_MxBfHjhXrBRG_QrMKN9CVO7p" alt="Pakistan bans the film Joyland, its official Oscar entry, because of ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Joyland, a film based on queer theme, and Pakistan&#39;s official entry to the Oscars, banned by the country over &#39;highly objectionable&#39; content | OpIndia News.</p></div>
             </div>
-        </a><a href='https://factly.in/video-of-an-elderly-man-admitting-his-heinous-crime-is-from-pakistan-not-india/'>
+        </a><a href='https://www.aljazeera.com/news/2022/11/14/joyland-banned-in-pakistan-cannes'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Video of an elderly man admitting his heinous crime is from Pakistan ...</h3>
+                <h3>Pakistan bans its official Oscar entry Joyland</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRB6lZlH1Ze-7lel7r3EwYQp0xPtW1J85x0grtLYL6FTeuDg1JOayG-0ibIwqjKgkIix_Jhu2o4" alt="Video of an elderly man admitting his heinous crime is from Pakistan ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Video of a 60-year-old Muslim man admitting that he sexually assaulted his daughter is from Pakistan, not India.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR0Ov2y5rbbDnuTzzuv_cCME7GJr9H3sgoEvw9oPnLuo7hlzIa30ipPMKLAWGz_Ru4id60FOUrM" alt="Pakistan bans its official Oscar entry Joyland" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The film, which received accolades for the portrayal of a trans love affair, is banned for &#39;objectionable material&#39;.</p></div>
             </div>
-        </a><a href='https://www.amarujala.com/world/us-pledges-another-usd-30-million-in-assistance-for-flood-hit-pakistan'>
+        </a><a href='https://www.theguardian.com/world/2022/nov/14/joyland-pakistan-bans-oscar-contender-film-about-trans-love-affair'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Flood in Pakistan: अमेरिका ने बाढ़ प्रभावितों के लिए पाकिस्तान को दी और ...</h3>
+                <h3>Joyland: Pakistan bans Oscar contender film about trans love affair</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRylW8-aREqc9G7I7k0ScsvM67-6BFx0Cdioad8l3zSQGZUGV55B1hr7JN0Z9bCBLl1gCAqw3LS" alt="Flood in Pakistan: अमेरिका ने बाढ़ प्रभावितों के लिए पाकिस्तान को दी और ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>अमेरिकी दूतावास के एक बयान के अनुसार, राजदूत ने बाढ़ प्रभावित लोगों की मदद के लिए&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTdb2g18Ak853X62nItdi6CqcYoDf24wYncMNrdDIPQdxEc-8L1GUMuHgF231AiKfe6n4r8PB1x" alt="Joyland: Pakistan bans Oscar contender film about trans love affair" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Islamic groups denounce film that won prestigious jury prize at Cannes and has Malala Yousafzai as executive director.</p></div>
             </div>
         </a>
         </Template></>;

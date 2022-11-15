@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Shardul Thakur"/>
         <meta name="description" content="Trending News about Shardul Thakur" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Shardul Thakur</h1>
-            <Image width={800} height={500} src="https://images.indianexpress.com/2022/10/Shardul-Harbhajan.jpg" alt="Shardul Thakur"/>
+            <Image width={800} height={500} src="https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/339400/339477.6.jpg" alt="Shardul Thakur"/>
             <h3>Recent News</h3>
-            <a href='https://indianexpress.com/article/sports/cricket/shardul-thakurs-kit-bags-went-missing-at-mumbai-airport-harbhajan-singh-tries-to-help-8204073/'>
+            <a href='https://www.espncricinfo.com/story/ipl-2023-news-india-allrounder-shardul-thakur-traded-from-delhi-capitals-to-kolkata-knight-riders-1344856'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shardul Thakur&#39;s kit bags go missing at Mumbai airport, &#39;sorry ...</h3>
+                <h3>Shardul Thakur traded from Delhi Capitals to Kolkata Knight Riders</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR5rbk329EnDq8i_OdogcFaK6lFDiwJYNrzBoZLntfcHzZZzxMY0eJLb0-L805Zi3Owlal2mjML" alt="Shardul Thakur&#39;s kit bags go missing at Mumbai airport, &#39;sorry ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Harbhajan Singh (right) tries to support Shardul Thakur after his kit went missing from Mumbai Airport. Shardul Thakur played a crucial role in India&#39;s 2-1&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTMQEi_cgLxEZBWzJSZdNI2HC-pSfi_EWyANIZgZCCzlO8Plyd0Ya6IRdMLIz9bt3VRi_MdU7HB" alt="Shardul Thakur traded from Delhi Capitals to Kolkata Knight Riders" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>He had finished IPL 2022 with 15 wickets in 14 matches at an economy of 9.79, among his weakest bowling numbers since IPL 2017.</p></div>
             </div>
-        </a><a href='https://www.hindustantimes.com/cricket/shardul-thakur-vents-out-on-twitter-after-his-kitbags-don-t-arrive-at-mumbai-airport-101665558251516.html'>
+        </a><a href='https://lagatar24.com/kkr-acquire-shardul-thakur-from-dc-for-upcoming-ipl-season/131503/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shardul Thakur vents out on Twitter after kitbags don&#39;t arrive at ...</h3>
+                <h3>KKR acquire Shardul Thakur from DC for upcoming IPL season ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRjuZ2EXBw0UAkGHQuYIwaBQwkmSne9vEy8T3y2oS9CKSt8kM-_34RVV3H999nlkKUEjKX7TFlS" alt="Shardul Thakur vents out on Twitter after kitbags don&#39;t arrive at ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Shardul Thakur, who returned after playing the series-deciding third ODI against South Africa in New Delhi on Tuesday night, tagged the airlines and&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ129HfoZgiBwBknbdJpFoapeWn7D4petyYLJcAcarY1s03d-079QJ6tm2cj9zefWQd9ArY4cit" alt="KKR acquire Shardul Thakur from DC for upcoming IPL season ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lagatar24 Desk. New Delhi, Nov 14: Indian bowler Shardul Thakur has been hired by Kolkata Knight Riders (KKR) from Delhi Capitals (DC) for the next Indian&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.jagran.com/cricket/headlines-shardul-thakur-asked-help-for-air-india-after-delay-his-kit-bag-harbhajan-singh-reply-23135075.html'>
+        </a><a href='https://www.hindustantimes.com/cricket/delhi-capitals-trade-shardul-thakur-for-kolkata-knight-riders-aman-khan-ahead-of-ipl-2023-mini-auction-101668423046381.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shardul Thakur पहुंचे पर उनका किट बैग नहीं, एयर इंडिया से मांगी मदद तो ...</h3>
+                <h3>Shardul Thakur joins KKR from DC ahead of IPL 2023 auction</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTSHVEhH1jsxqdOs_pV4jlp1WbHgVhBLIikwwY4MLnz_5BwkYdab82FcuFivNP3777fnWzhr6px" alt="Shardul Thakur पहुंचे पर उनका किट बैग नहीं, एयर इंडिया से मांगी मदद तो ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Shardul Thakur ने सोशल मीडिया के मदद से एयर इंडिया से मदद मांगी है। दरअसल वह अपने किट बैग के&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSKgJLr-l1LiJtCbLxd-Yd2iiM9arxuD7u3n3weeWvjuPIxw3HBpFJu_vCp16yStgk9lKlVn9cc" alt="Shardul Thakur joins KKR from DC ahead of IPL 2023 auction" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Former Chennai Super Kings (CSK) star Shardul Thakur has joined Kolkata Knight Riders (KKR) for the forthcoming season of the Indian Premier League (IPL).</p></div>
             </div>
-        </a><a href='https://www.mensxp.com/sports/cricket/119596-air-india-troubled-shardul-thakur-spicejet-helps.html'>
+        </a><a href='https://indianexpress.com/article/sports/cricket/delhi-capitals-trade-shardul-thakur-for-aman-khan-with-kolkata-knight-riders-8268468/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shardul Thakur Complains To Air India &amp; Bhajji Tries To Help But ...</h3>
+                <h3>Delhi Capitals trade Shardul Thakur for Aman Khan with Kolkata ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRpz1XDEYqgy-hs1lwD05mGLmE6utYItbTQjGDTDZ-RHdq8c6LMiWgDQm8dl6ibe9VgTEI-Zap7" alt="Shardul Thakur Complains To Air India &amp; Bhajji Tries To Help But ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Shardul Thakur complained about missing luggage upon arriving at the Mumbai airport. However, SpiceJet rushed to the cricketer&#39;s aid.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ0ZpU-pmQ_yr-1vL744MeBRLZ0hcYPmE08A7FUXf9FcU3-m5hnXrz1ENS-gE9mbNUfafyAIylE" alt="Delhi Capitals trade Shardul Thakur for Aman Khan with Kolkata ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Thakur, who was bought by Delhi Capitals for Rs 10.75 crore, had taken 15 wickets in 14 games, including career-best figures of 4/36, in the 2022 edition&nbsp;...</p></div>
             </div>
-        </a><a href='https://economictimes.indiatimes.com/news/new-updates/shardul-thakur-tweets-for-help-at-mumbai-airport-harbhajan-singh-responds/articleshow/94819895.cms'>
+        </a><a href='https://scroll.in/field/1037415/ipl-shardul-thakur-traded-to-kolkata-knight-riders-aman-khan-moves-other-way-to-delhi-capitals'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shardul Thakur tweets for help at Mumbai airport, Harbhajan Singh ...</h3>
+                <h3>IPL: Shardul Thakur traded to Kolkata Knight Riders, Aman Khan ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTwq70h3qOV0fNMUVSvsvETX6rYZd7XtgjZHilxDvxxyifv1pp8Z5b-7VGKsNQEy64EaECt-2Zv" alt="Shardul Thakur tweets for help at Mumbai airport, Harbhajan Singh ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Shardul Thakur&#39;s kit bag went missing at the Mumbai airport while returning from Delhi on Wednesday after the third ODI between India and South Africa.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcShvqzLLIJtEtT80Rsd1D1jt2EXOP7PDf9G9U97su8djt8c_hwUeeZC2iK2o7hZSLgFRwoSMr72" alt="IPL: Shardul Thakur traded to Kolkata Knight Riders, Aman Khan ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kolkata Knight Riders have acquired India allrounder Shardul Thakur from Delhi Capitals, the Indian Premier League announced on Monday.</p></div>
             </div>
-        </a><a href='https://zeenews.india.com/hindi/sports/cricket/shardul-thakur-complains-missing-luggage-harbhajan-singh-responds-team-india/1392400'>
+        </a><a href='https://www.abplive.com/sports/cricket/kolkata-knight-riders-trade-shardul-thakur-from-delhi-capitals-for-ipl-2023-2259137'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Team India: एयरपोर्ट पर सामान गायब होने से आगबबूला हुआ ये भारतीय ...</h3>
+                <h3>IPL Auction 2023: कोलकाता नाइट राइडर्स के लिए खेलेंगे शार्दुल ठाकुर ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRH7J-vO8x-Kh-yIZlhtiS0O3vwowekJIZzs8RU8Uh6SQQEFFQRuORVcBrF7bmiIDTLcyakN8Lz" alt="Team India: एयरपोर्ट पर सामान गायब होने से आगबबूला हुआ ये भारतीय ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>भारत और साउथ अफ्रीका के बीच खेली गई वनडे सीरीज के बाद टीम इंडिया के एक खिलाड़ी को मुंबई&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTrP4ZuCJ_BT_8D7xKBndA8RlJSlCqv89oOTzoljgAgShHLgmHIke5dIIwhvOuAJD2BHfxfYmJx" alt="IPL Auction 2023: कोलकाता नाइट राइडर्स के लिए खेलेंगे शार्दुल ठाकुर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Shardul Thakur: शाहरूख खान की टीम KKR ने शार्दुल ठाकुर को दिल्ली कैपिटल्स से ट्रेड किया है.</p></div>
             </div>
-        </a><a href='https://www.indiatvnews.com/sports/cricket/shardul-thakur-faces-difficulty-at-mumbai-airport-takes-it-to-twitter-to-ask-for-help-2022-10-12-815716'>
+        </a><a href='https://www.amarujala.com/cricket/cricket-news/kolkata-knight-riders-traded-shardul-thakur-from-delhi-capitals-in-trade-window-before-ipl-2023-mini-auction'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shardul Thakur faces difficulty at Mumbai airport, takes it to Twitter to ...</h3>
+                <h3>IPL 2023: आईपीएल 2023 में कोलकाता के लिए खेलेंगे शार्दुल ठाकुर, ट्रेड ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ4ayf8cwvRHeWmPMjEhc8ySt8nGXLySvuM2BRd_d93XzJdfF3Y1F7DhfKO8-C6oEjEiXgQMyrv" alt="Shardul Thakur faces difficulty at Mumbai airport, takes it to Twitter to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Shardul Thakur faced difficulty at the Mumbai airport after returning from Delhi on Wednesday. India pacer&#39;s kitbags went missing and he took it to his&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQICIya5S_2KoRvv_eiRf_9jDwi3fiUl9oMhdqUPanBKXF5l9Dfc4ElPaKLWWLNKFc3pFyC1COn" alt="IPL 2023: आईपीएल 2023 में कोलकाता के लिए खेलेंगे शार्दुल ठाकुर, ट्रेड ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>IPL 2023: आईपीएल 2023 में कोलकाता के लिए खेलेंगे शार्दुल ठाकुर, ट्रेड विंडो के जरिए दिल्ली से&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.indiatoday.in/sports/cricket/story/shartdul-thakur-delay-kit-bag-mumbai-airport-harbhajan-singh-response-2284328-2022-10-12'>
+        </a><a href='https://zeenews.india.com/cricket/breaking-shardul-thakur-traded-from-delhi-capitals-to-kolkata-knight-riders-for-ipl-2023-2535236.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shardul Thakur upset over delay in kit bag arrival in Mumbai airport ...</h3>
+                <h3>Shardul Thakur TRADED from Delhi Capitals to Kolkata Knight ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcROCtEarmklqVt2E5qmEY6B9RsJR3CSPOK8LEfu5rayWGPwqSDDDUiIprgawNLBgYb81t73i5H-" alt="Shardul Thakur upset over delay in kit bag arrival in Mumbai airport ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Shardul Thakur sought help from officials at the Mumbai airport after a delay in the arrival of his kit bag. The India all-rounder is all set to fly out to&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRK4WACvdDlkUVWlzEdX5S5vI8x-EuQOQ3QDv06XXZz1ShU0NzK-JAd5l2McNRjcWc-h7V8YCpv" alt="Shardul Thakur TRADED from Delhi Capitals to Kolkata Knight ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Delhi Capitals bought Shardul Thakur for Rs 10.75 crore during the IPL 2022 mega auction earlier this year after representing MS Dhoni&#39;s Chennai Super Kings&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.jansatta.com/khel/t20-world-cup-shardul-thakur-kit-bag-disappeared-again-in-mumbai-airport-air-india-harbhajan-singh-apologizes-him/2421557/'>
+        </a><a href='https://www.jansatta.com/khel/ipl-2023-shardul-thakur-traded-by-kolkata-knight-riders-from-delhi-capitals/2486410/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>मुंबई एयरपोर्ट पर गायब हुआ शार्दुल ठाकुर का सामान, भारतीय ऑलराउंडर से ...</h3>
+                <h3>IPL 2023: 10.75 करोड़ के ऑलराउंडर को कोलकाता नाइटराइडर्स ने दिल्ली ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTVE6SJXyrgfY4-EawHVnCsDUB6z-8TEbRRbxtOznkzb95sB1YgDwCLAvxcENBoDUNK_Y_PTll9" alt="मुंबई एयरपोर्ट पर गायब हुआ शार्दुल ठाकुर का सामान, भारतीय ऑलराउंडर से ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>भारतीय ऑलराउंडर शार्दुल ठाकुर (Shardul Thakur) का किट बैग मुंबई एयरपोर्ट के टर्मिनल-2 से गायब&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSjNytnEMIwUAHOXOCqkikQv5K1y2w0zu8y3sNSdXzrOwbiASoditqH_rc6dzhnXjsthzS5-Wva" alt="IPL 2023: 10.75 करोड़ के ऑलराउंडर को कोलकाता नाइटराइडर्स ने दिल्ली ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Shardul Thakur traded: शार्दुल ठाकुर फिलहाल टीम इंडिया के साथ न्यूजीलैंड दौरे पर हैं।</p></div>
             </div>
-        </a><a href='https://hindi.insidesport.in/latest/shardul-thakur-kit-bag-world-cup-bound-india-pacer-shardul-thakur-miffed-at-mumbai-airport-after-delay-in-luggage-slams-airport-staff-ex-air-indian-bhajji-help-him-505812/'>
+        </a><a href='https://zeenews.india.com/hindi/sports/cricket/shardul-thakur-for-aman-khan-with-kolkata-knight-riders-delhi-capitals-trade-ipl-2023-auction-retention/1441562'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shardul Thakur Kit Bag: मुंबई एयरपोर्ट से गायब हुआ शार्दुल ठाकुर का ...</h3>
+                <h3>IPL 2023: KKR टीम में हुई इस घातक ऑलराउंडर की एंट्री, नाम से ही थर-थर ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRmdoeSStdHJeyqAitg8SrELVRPEgusfgTfS8VQCk1qjQ1ohm1s9GyG4jKwWp9WiAC4y6aAxm2c" alt="Shardul Thakur Kit Bag: मुंबई एयरपोर्ट से गायब हुआ शार्दुल ठाकुर का ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>दरअसल, मुंबई एयरपोर्ट (Mumbai Airport) पर उनका किट बैग गायब हो गया या यूं कहें कि वक्त पर नहीं&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQopVP_KZoZvtD0JqWNdOR0RkhsLBLFml3S4_gv3fFF5995gFfxVf0pvoA5faZAY5QbLsgNm4si" alt="IPL 2023: KKR टीम में हुई इस घातक ऑलराउंडर की एंट्री, नाम से ही थर-थर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>T20 वर्ल्ड कप समाप्त हो चुका है. अब सभी की निगाहें IPL 2023 ऑक्शन पर टिकी हैं, लेकिन इससे&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
