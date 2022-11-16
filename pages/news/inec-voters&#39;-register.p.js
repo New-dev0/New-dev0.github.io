@@ -7,11 +7,11 @@ import Image from "next/image";
 export default function Page() {
     const md = useMediaQuery(960);
     return <><Head>
-        <title>INEC voters' register</title>
-        <meta name="keywords" content="news,trending,latest,sports,breaking,top,INEC voters' register"/>
-        <meta name="description" content="Trending News about INEC voters' register" /></Head><Template>
-            <h1 style={{fontSize: "30"}}>INEC voters' register</h1>
-            <Image width={800} height={500} src="https://dailypost.ng/wp-content/uploads/2021/07/inec.png" alt="INEC voters' register"/>
+        <title>INEC voters&#39; register</title>
+        <meta name="keywords" content="news,trending,latest,sports,breaking,top,INEC voters&#39; register"/>
+        <meta name="description" content="Trending News about INEC voters&#39; register" /></Head><Template>
+            <h1 style={{fontSize: "30"}}>INEC voters&#39; register</h1>
+            <Image width={800} height={500} src="https://dailypost.ng/wp-content/uploads/2021/07/inec.png" alt="INEC voters&#39; register"/>
             <h3>Recent News</h3>
             <a href='https://dailypost.ng/2022/11/15/2023-low-awareness-poor-turnout-trails-inecs-display-of-voters-register-group/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

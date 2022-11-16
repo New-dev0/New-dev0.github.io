@@ -57,10 +57,10 @@ export default function Page() {
             </div>
         </a><a href='https://www.livemint.com/market/live-blog/share-market-live-updates-sensex-nifty-bse-nse-stock-market-today-16-11-2022-11668559651228.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Stock Market LIVE: Sensex around 62000; PSU Bank, IT gain; Metal ...</h3>
+                <h3>Stock Market LIVE: Sensex tops 62000; PSU Bank, IT gain; Metal ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT6fdGNYHeSSr2lkBgN0950Gfq7dbVayZMK5akELN-41SpXm8eyA_-ohs57sTalsLyQxZ3dttDf" alt="Stock Market LIVE: Sensex around 62000; PSU Bank, IT gain; Metal ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Share Market LIVE Updates: Indices are now trading green with Sensex adding 100 points and crossing the 62000 mark briefly, and Nifty gaining 30 points.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT6fdGNYHeSSr2lkBgN0950Gfq7dbVayZMK5akELN-41SpXm8eyA_-ohs57sTalsLyQxZ3dttDf" alt="Stock Market LIVE: Sensex tops 62000; PSU Bank, IT gain; Metal ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Share Market LIVE Updates: Indices are now trading green with Sensex adding 100 points and crossing the 62000 mark and Nifty gaining 30 points.</p></div>
             </div>
         </a>
         </Template></>;

@@ -36,10 +36,10 @@ export default function Page() {
             </div>
         </a><a href='https://economictimes.indiatimes.com/magazines/panache/jacqueline-fernandez-gets-bail-in-rs-200-cr-money-laundering-case/articleshow/95531994.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3><b>Jacqueline Fernandez</b> gets bail in Rs 200 cr money-laundering case</h3>
+                <h3>Jacqueline Fernandez gets bail in Rs 200 cr money-laundering case</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT_wbSIFNWHGNR8-7_aCYvxvuDecSnu0GNtWr0fVtSSqBYJU0bpQUYYNzA07BqUbWmSvmrHAKF1" alt="<b>Jacqueline Fernandez</b> gets bail in Rs 200 cr money-laundering case" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Delhi court granted bail to Bollywood diva <b>Jacqueline Fernandez</b> on Tuesday in Rs 200 crore money-laundering case, involving conman Sukesh Chandrashekar. Last week, the court deferred the order on the actress&#39; bail plea, and extended her interim&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT_wbSIFNWHGNR8-7_aCYvxvuDecSnu0GNtWr0fVtSSqBYJU0bpQUYYNzA07BqUbWmSvmrHAKF1" alt="Jacqueline Fernandez gets bail in Rs 200 cr money-laundering case" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Delhi court granted bail to the actress on Tuesday. Rs 200 cr money laundering case: Delhi Court grants bail to actor Jacqueline Fernandez&nbsp;...</p></div>
             </div>
         </a><a href='https://www.abplive.com/news/india/jacqueline-fernandez-gets-bail-in-money-laundering-case-2259903'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

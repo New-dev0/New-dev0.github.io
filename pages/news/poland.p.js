@@ -18,7 +18,7 @@ export default function Page() {
                 <h3>Poland: Russian-made missile fell on our country, killing 2</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRpkzKgGqA2YGS005IB-1QYbc8801mHM34aMbSQNtyx5MCTFYi6flGKusf56qCDMGdj1JSiVusj" alt="Poland: Russian-made missile fell on our country, killing 2" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>KYIV, Ukraine (AP) — Poland said early Wednesday that a Russian-made missile fell in the eastern part of the country, killing two people in a blast that&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>A second person said that apparent Russian missiles struck a site in Poland about 15 miles from the Ukrainian border. A statement from the Polish Foreign&nbsp;...</p></div>
             </div>
         </a><a href='https://www.businessinsider.co.za/russian-missiles-struck-nato-ally-poland-and-killed-2-people-2022-11'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

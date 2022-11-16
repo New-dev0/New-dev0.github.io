@@ -7,11 +7,11 @@ import Image from "next/image";
 export default function Page() {
     const md = useMediaQuery(960);
     return <><Head>
-        <title>Necati Şaşmaz, 'Kurtlar Vadisi</title>
-        <meta name="keywords" content="news,trending,latest,sports,breaking,top,Necati Şaşmaz, 'Kurtlar Vadisi"/>
-        <meta name="description" content="Trending News about Necati Şaşmaz, 'Kurtlar Vadisi" /></Head><Template>
-            <h1 style={{fontSize: "30"}}>Necati Şaşmaz, 'Kurtlar Vadisi</h1>
-            <Image width={800} height={500} src="https://habererkcom.teimg.com/habererk-com/uploads/2022/11/untitled-1-1499.jpg" alt="Necati Şaşmaz, 'Kurtlar Vadisi"/>
+        <title>Necati Şaşmaz, &#39;Kurtlar Vadisi</title>
+        <meta name="keywords" content="news,trending,latest,sports,breaking,top,Necati Şaşmaz, &#39;Kurtlar Vadisi"/>
+        <meta name="description" content="Trending News about Necati Şaşmaz, &#39;Kurtlar Vadisi" /></Head><Template>
+            <h1 style={{fontSize: "30"}}>Necati Şaşmaz, &#39;Kurtlar Vadisi</h1>
+            <Image width={800} height={500} src="https://habererkcom.teimg.com/habererk-com/uploads/2022/11/untitled-1-1499.jpg" alt="Necati Şaşmaz, &#39;Kurtlar Vadisi"/>
             <h3>Recent News</h3>
             <a href='https://www.habererk.com/necati-sasmazdan-kurtlar-vadisi-fanlarina-guzel-haber'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

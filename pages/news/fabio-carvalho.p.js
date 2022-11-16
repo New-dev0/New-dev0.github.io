@@ -32,7 +32,7 @@ export default function Page() {
                 <h3>Henrique Araújo reagiu assim à renúncia de Fábio Carvalho à ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTyhFluVX7-IpyIlG0m0Rk131kkfY1E4rJoIdOI4yEfmFCHV44J9_gw-8CXYs1QmZpiNRDrbIm0" alt="Henrique Araújo reagiu assim à renúncia de Fábio Carvalho à ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>O jogador do Liverpool &quot;decidiu abdicar de representar&quot; a seleção portuguesa de sub-21, informou na segunda-feira a Federação Portuguesa de Futebol (FPF),&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>&quot;Foi um pouco surpreendente, para nós. (...) Acho que é uma decisão muito pessoal&quot;, afirmou o avançado do Benfica. O futebolista Henrique Araújo considerou&nbsp;...</p></div>
             </div>
         </a><a href='https://www.rtp.pt/noticias/selecao-nacional/fabio-carvalho-renuncia-a-selecao-de-sub-21_d1447155'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

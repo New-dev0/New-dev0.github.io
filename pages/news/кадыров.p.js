@@ -11,7 +11,7 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Кадыров"/>
         <meta name="description" content="Trending News about Кадыров" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Кадыров</h1>
-            <Image width={800} height={500} src="https://iv.kommersant.ru/SocialPics/5668451_26_2294127_1142162197" alt="Кадыров"/>
+            <Image width={800} height={500} src="https://im.kommersant.ru/SocialPics/5668451_26_2294127_1142162197" alt="Кадыров"/>
             <h3>Recent News</h3>
             <a href='https://www.kommersant.ru/doc/5668451'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

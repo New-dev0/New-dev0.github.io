@@ -25,7 +25,7 @@ export default function Page() {
                 <h3>Huggy Wuggy oyuncak nedir, yasaklandı mı? Huggy Wuggy ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQrUoTL7GQtIIYpG5LwPY7-Emc_DtBLTCcK4i92P-amwSleQai1Bddm9vvXmlK5ePUhCsB1-wDC" alt="Huggy Wuggy oyuncak nedir, yasaklandı mı? Huggy Wuggy ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Huggy Wuggy oyuncak nedir, yasaklandı mı? sorusunun yanıtı sorgulanan konular arasında yer alıyor. Ticaret Bakanlığı iki firmanın ürettiği Huggy Wuggy&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>&quot;Huggy Wuggy&quot; türü oyuncaklar son dönemde gündemde. İnce keskin dişleri ile bir korku oyunu karakteri olan oyuncakla ilgili uzmanlar ebeveynleri uyarıyor.</p></div>
             </div>
         </a><a href='https://www.gazeteduvar.com.tr/bakanlik-huggy-wuggy-oyuncaklarini-inceledi-2-urunu-yasakladi-haber-1589303'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

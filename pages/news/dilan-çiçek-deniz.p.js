@@ -18,7 +18,7 @@ export default function Page() {
                 <h3>Dilan Çiçek Deniz ile Thor Saevarsson ayrıldı!</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQr7TyGE1YbBUuefbIy0Ymg7O6hPQbm1wLbwbh8LrwCmw7Ml2isN4FxROiGH8-p-QpeR2xDJci5" alt="Dilan Çiçek Deniz ile Thor Saevarsson ayrıldı!" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Magazin - Oyuncu Dilan Çiçek Deniz, ile İzlandalı sevgilisi Thor Saevarsson, önümüzdeki yaz nikah masasına oturmak için hazırlık yapıyordu.</p></div>
+                <p style={{marginLeft: "15px"}}>Magazin - Dilan Çiçek Deniz ile Thor Saevarsson&#39;ın mutlu beraberliğine nazar değdi. Çift evliliğe hazırlanırken ayrıldıkları öğrenildi.</p></div>
             </div>
         </a><a href='https://onedio.com/haber/nazar-degdi-dilan-cicek-deniz-ve-irlandali-yonetmen-sevgilisi-thor-un-kavgasi-ayrilikla-sonuclandi-1107361'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

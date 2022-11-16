@@ -39,7 +39,7 @@ export default function Page() {
                 <h3>Şarkıcı Gökhan Özen&#39;i Gören Tanıyamıyor! “Yıllar Sana Ne Yaptı ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTeIVP9RofON6OO4jelwg4ESqBq0nni98Mij9MndeIOcMmP6BvWH4x0_l1fmyC4Rd_07XuapF5B" alt="Şarkıcı Gökhan Özen&#39;i Gören Tanıyamıyor! “Yıllar Sana Ne Yaptı ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Bir döneme damgasını vuran, özellikle de pop müziğinin yakışıklı isimlerinden biri olması ile dikkat çeken ünlü şarkıcı Gökhan Özen, şimdilerde yeniden&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Öte yandan Yasak Elma dizisinin yayından kaldırılıp kaldırılmadığı da bu açıklama sonrası netleşti. Peki, Yasak Elma dizisi yayından mı kaldırıldı? Yasak Elma&nbsp;...</p></div>
             </div>
         </a><a href='https://www.takvim.com.tr/video/magazin-videolari/gokhan-ozenin-son-halini-gorenler-sasirdi-iste-42-yasindaki-unlu-sarkicinin-yeni-hali'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
