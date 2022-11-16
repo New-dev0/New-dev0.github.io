@@ -11,49 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Novak Djokovic"/>
         <meta name="description" content="Trending News about Novak Djokovic" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Novak Djokovic</h1>
-            <Image width={800} height={500} src="https://e0.365dm.com/22/11/1600x900/skysports-novak-djokovic-tennis_5955621.jpg?20221105181323" alt="Novak Djokovic"/>
+            <Image width={800} height={500} src="https://lagatar24.com/wp-content/uploads/2022/11/djokovicaustralianopen2023-sixteen_nine.webp" alt="Novak Djokovic"/>
             <h3>Recent News</h3>
-            <a href='https://www.skysports.com/tennis/news/12110/12739185/paris-masters-novak-djokovic-through-to-eighth-final-in-french-capital-where-holger-rune-awaits'>
+            <a href='https://lagatar24.com/novak-djokovic-gets-visa-to-play-in-2023-australian-open-report/131741/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Paris Masters: Novak Djokovic through to eighth final in French ...</h3>
+                <h3>Novak Djokovic gets visa to play in 2023 Australian Open: Report ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRxgwUvW33kkiGUoPuH93YBsfjoOp9vI3VkIrUG87muKmyc9RgfSpNDOBd4VIzXfpnv1jAvUyGr" alt="Paris Masters: Novak Djokovic through to eighth final in French ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Novak Djokovic beat Stefanos Tsitsipas to extend his winning win streak to 13 matches at the ATP Masters 1000 event; the former world No 1 will take on&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQbrcT3GQxTBejdyFG4IVfIAb7H_6LfppuGC8zRQY33Hf7h5qNJDtCaI6TyDYbq-uwXFQZfUxJ1" alt="Novak Djokovic gets visa to play in 2023 Australian Open: Report ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Djokovic, a Serbian, was expelled from Australia in January before the Grand Slam because he refused to get vaccinated. Until 2025, the previous world No. 1 was&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.eurosport.com/tennis/atp-paris/2022/novak-djokovic-battles-past-stefanos-tsitsipas-to-set-up-tasty-paris-masters-final-with-holger-rune_sto9215035/story.shtml'>
+        </a><a href='https://www.forbes.com/sites/adamzagoria/2022/11/15/novak-djokovic-will-be-allowed-to-play-the-australian-open-reports/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Novak Djokovic battles past Stefanos Tsitsipas to set up tasty Paris ...</h3>
+                <h3>Novak Djokovic Will Be Allowed To Play The Australian Open And ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTs9HT0ECVlGDKFXmUTl9IfKmpxt_MtFbw75RzMi1gTrKst4HlKke2WWl-LEMMx0knS48vJw_jN" alt="Novak Djokovic battles past Stefanos Tsitsipas to set up tasty Paris ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Novak Djokovic set up a Paris Masters final against Holger Rune by beating Stefanos Tsitsipas 6-2 3-6 7-6(4) to continue his outstanding recent run of form.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR7oAhk7h5dL52Cw6eCIqoteW9r5G12IFShmk1LbMQpjik-McU2IKr7pOuEvI3wJe8dutNPEPBv" alt="Novak Djokovic Will Be Allowed To Play The Australian Open And ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Immigration Minister Andrew Giles&#39; office declined comment to the Associated Press on privacy grounds, meaning any announcement on Djokovic&#39;s visa status would&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.tennis.com/news/articles/stat-of-the-day-novak-djokovic-650th-hard-court-win-tsitsipas-paris'>
+        </a><a href='https://indianexpress.com/article/sports/tennis/tennis-superstar-novak-djokovic-will-be-allowed-to-participate-in-the-2023-australian-open-8269469/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Stat of the Day: Novak Djokovic records milestone 650th hard-court ...</h3>
+                <h3>Novak Djokovic will be allowed to participate in the 2023 Australian ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSf5L0yBFsaZBxXLfhk-H4loovuPH9FOVsfv0ganJCVFbph2CITZEoEQJoD4Hln1Ugpd7bAGos2" alt="Stat of the Day: Novak Djokovic records milestone 650th hard-court ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>He hit that historic number with a thrilling 6-2, 3-6, 7-6 (4) victory over Stefanos Tsitsipas in the semifinals of the Rolex Paris Masters, which was also&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRuGabjVwvzns62YA_7JkUTBHNQJNBdey9iHjP6JNFD-cNMAqDxKANGKdZ6cb5y3Z5on4LtWY5C" alt="Novak Djokovic will be allowed to participate in the 2023 Australian ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Earlier this year in January the 35-year-old&#39;s Visa was cancelled as he tried to enter Australia for 2022 Australian Open just after touting his “exemption&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.atptour.com/en/news/djokovic-tsitsipas-paris-2022-sf'>
+        </a><a href='https://www.livemint.com/sports/unvaccinated-novak-djokovic-to-get-visa-for-2023-australian-open-reports-11668499916702.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Djokovic Wins Decisive TB To Continue Dominance Of Tsitsipas In ...</h3>
+                <h3>Unvaccinated Novak Djokovic to get visa for 2023 Australian Open ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQmyYEPNamh3yg2yOoNV5YVjh21sFUpdLrJ2wuw8uFYprIEgnIpC5BNJIG8Ajo46WQOUaAAQM2p" alt="Djokovic Wins Decisive TB To Continue Dominance Of Tsitsipas In ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Novak Djokovic wins his eighth straight match against Stefanos Tsitsipas to return to the Paris final for an eighth time.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSmkR3D5IOtXmZP49auO3iws1hCEgYpCfmHchUNZxQYz-YL09NLjfUThzrwd69r8Cd-V2TGAEnH" alt="Unvaccinated Novak Djokovic to get visa for 2023 Australian Open ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Novak Djokovic was deported from Australia in the leadup to the Grand Slam in January after he declined to be vaccinated. The former world No.</p></div>
             </div>
-        </a><a href='https://www.express.co.uk/sport/tennis/1692725/Rafael-Nadal-world-No-1-Novak-Djokovic-Stefanos-Tsitsipas-Paris-Masters-tennis-news'>
+        </a><a href='https://www.tennis.com/baseline/articles/novak-djokovic-set-to-surpass-160-million-in-career-prize-money'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Rafael Nadal&#39;s chances of ending 2022 as world No 1 helped by ...</h3>
+                <h3>Novak Djokovic set to surpass $160 Million in career prize money</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR8PDumtg_re-8Rsuw9sQiP40SwtmcHgHFKMNDj38UceVZEaY__We_UqKGu_sVezqdZ4zoFbck5" alt="Rafael Nadal&#39;s chances of ending 2022 as world No 1 helped by ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Novak Djokovic has given Rafael Nadal a boost at becoming year-end world No 1 after beating Stefanos Tsitsipas.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS7Old6zjwhVALL8OycYKYWttT1vyWiLoza0SQ-2cXmX3LFWeEQYAOyDWrEXy_gJPa0VvYeynC4" alt="Novak Djokovic set to surpass $160 Million in career prize money" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>He already has the most career prize money in ATP or WTA history, and he&#39;s about to hit another milestone.</p></div>
             </div>
-        </a><a href='https://www.insidesport.in/paris-masters-final-live-novak-djokovic-eyes-third-successive-atp-title-faces-teen-sensation-holger-rune-in-paris-masters-2022-summit-clash-follow-live-updates/'>
+        </a><a href='https://www.theguardian.com/sport/2022/nov/15/novak-djokovic-faces-battle-to-win-over-australian-fans-after-permission-to-return'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Paris Masters Final LIVE: Novak Djokovic vs Holger Rune in Paris ...</h3>
+                <h3>Novak Djokovic faces battle to win over Australian fans after ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ1ccEWzRatFj6ljB3566KEmJZAg3xxxHlizw1XkfJMnbBKepCyeRw2Q3jSDoUtiuqadN0dfUIP" alt="Paris Masters Final LIVE: Novak Djokovic vs Holger Rune in Paris ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Paris Masters Final LIVE: Djokovic vs Rune LIVE – Novak Djokovic is all set to fight for his third successive ATP title this year as he takes on 19-year old&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQQzjiIt8XI9ad2IlOvg-p0dgZa3OOk3P0luuOAoUKxV-YFtJaRbzG-J9x8HQlU1uEv6pI36sFv" alt="Novak Djokovic faces battle to win over Australian fans after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Serb was deported because of his Covid status but can now look forward to seeking a record-equalling 22nd major in Melbourne.</p></div>
+            </div>
+        </a><a href='https://indianexpress.com/article/sports/tennis/novak-djokovic-beats-stefanos-tsitsipas-for-9th-straight-time-at-atp-finals-8268907/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Novak Djokovic beats Stefanos Tsitsipas for 9th straight time at ATP ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS4TN9DlIJ4P70SsaGJITXxmLqXRfomwIU_R4ev9A5922H2u2026z2dDpuvKOV-wYgttTIjfWjI" alt="Novak Djokovic beats Stefanos Tsitsipas for 9th straight time at ATP ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Djokovic has beaten Tsitsipas in his third straight tournament following wins in Astana, Kazakhstan and at the Paris Masters.</p></div>
+            </div>
+        </a><a href='https://www.telegraphindia.com/sports/novak-djokovic-to-be-granted-visa-for-2023-australian-open/cid/1898215'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Novak Djokovic to be granted visa for 2023 Australian Open</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSNzWl4Ctzdsdgi-29jkmpVMChXqzsjYs8LKalJutgSws3JYAPci0cpTdhrT-vlvGhLkcXq41Ld" alt="Novak Djokovic to be granted visa for 2023 Australian Open" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The 21-time Grand Slam winner had missed the tournament last year over a visa issue.</p></div>
+            </div>
+        </a><a href='https://www.atptour.com/en/news/djokovic-tsitsipas-turin-2022-monday'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Novak Djokovic Makes Fast Start In Turin | ATP Tour | Tennis</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQBGLefXWP-6PEu4YEv3pOTrWTCA4j0znxYoqc2qU57o4DeBohv4--t9bhAnk1J3mF74IKDq6IX" alt="Novak Djokovic Makes Fast Start In Turin | ATP Tour | Tennis" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Novak Djokovic began his quest for a record-equalling sixth Nitto ATP Finals title Monday when he defeated Stefanos Tsitsipas 6-4, 7-6(2) to end the Greek&#39;s&nbsp;...</p></div>
+            </div>
+        </a><a href='https://theprint.in/sport/atp-finals-novak-djokovic-makes-winning-start-beats-stefanos-tsitsipas-in-straight-sets/1216869/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>ATP Finals: Novak Djokovic makes winning start, beats Stefanos ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRDO4IDv51K6_NeSskLndvmIsnFdFQdS1-GER028fRjc_NHHAS1iAZBr8HQcKf9mg9pj3s23Slg" alt="ATP Finals: Novak Djokovic makes winning start, beats Stefanos ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Turin [Italy], November 15 (ANI): Novak Djokovic started his quest for a record-equalling sixth ATP Finals title on Monday by overpowering Stefanos&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

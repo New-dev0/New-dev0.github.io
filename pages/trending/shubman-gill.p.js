@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Shubman Gill"/>
         <meta name="description" content="Trending News about Shubman Gill" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Shubman Gill</h1>
-            <Image width={800} height={500} src="https://www.royalchallengers.com/s3/files/styles/817x545_landscape/public/2022-11/3rd%20One%20Day%20International_%20India%20v%20South%20Africa.jpg?itok=JbP_dg2t" alt="Shubman Gill"/>
+            <Image width={800} height={500} src="" alt="Shubman Gill"/>
             <h3>Recent News</h3>
-            <a href='https://www.royalchallengers.com/rcb-cricket-news/news/its-time-to-show-that-i-deserve-that-spot-shubman-gill-on-being-picked-for'>
+            <a href='https://www.hindustantimes.com/entertainment/bollywood/shubman-gill-reacts-to-rumours-of-him-dating-sara-ali-khan-maybe-101668501813702.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>It&#39;s time to show that I deserve that spot: Shubman Gill on being ...</h3>
+                <h3>Shubman Gill reacts to rumours of him dating Sara Ali Khan: &#39;Maybe...&#39;</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTpXSdV8BKk5TofaJFBtMfJTIEjq3VR2kA7kJlTh3x_ZLNYhO2cuD0hiZTtE7RLXKoosZuxdH3G" alt="It&#39;s time to show that I deserve that spot: Shubman Gill on being ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Shubman Gill opened up about what being a part of the Indian cricket team means to him following his first century in T20 cricket that came just a day after&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRt5skrFrT28xcmkV0BEgZTLSv47iDytQ0mawEjUO1u_SMX-VJuu8KCyzIDsBRpOPpAFAx8uaU2" alt="Shubman Gill reacts to rumours of him dating Sara Ali Khan: &#39;Maybe...&#39;" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cricketer Shubman Gill has broken his silence over rumours that he is dating actor Sara Ali Khan. He addressed the rumours during his appearance on the&nbsp;...</p></div>
             </div>
-        </a><a href='https://indianexpress.com/article/sports/cricket/want-to-show-i-deserve-national-call-up-shubman-gill-8243488/'>
+        </a><a href='https://www.jansatta.com/khel/cricketer-shubman-gill-gives-hint-on-dating-bollywood-actresss-sara-ali-khan/2490080/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Want to show I deserve national call-up: Shubman Gill</h3>
+                <h3>क्या सारा अली खान को डेट कर रहे क्रिकेटर Shubman Gill? बता दी सच्चाई</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRYLnEvqv5Bja6o79_ItDwF4uEGdT5L_gGsHe-kbqAuZQrIROdW05SiNh-VeEw9_XmRBnSD4lrE" alt="Want to show I deserve national call-up: Shubman Gill" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A day after he got a national call-up in India&#39;s T20I team for the tour of New Zealand, Gill smashed his maiden century in the format to power Punjab into&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRI23xq_bq3STx1IiTJlN0MAYrjz2yZHSpQVCMbEA5t0pUsdZ5LWo86XTzb0dos7My6ScUfVavN" alt="क्या सारा अली खान को डेट कर रहे क्रिकेटर Shubman Gill? बता दी सच्चाई" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Sara Ali Khan एक्ट्रेस सारा अली खान को डेट करने के सवाल पर क्रिकेटर शुभमन गिल (Shubman Gill) ने&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.abplive.com/sports/cricket/shubman-gill-hit-century-in-syed-mushtaq-ali-trophy-2022-quarter-final-karnataka-vs-punjab-2250288'>
+        </a><a href='https://www.indiatoday.in/movies/celebrities/story/cricketer-shubman-gill-addressed-dating-rumours-with-sara-ali-khan-during-a-chat-show-2297485-2022-11-15'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shubman Gill Century: शुभमन ने ताबड़तोड़ बैटिंग कर गेंदबाजों के छुड़ाए ...</h3>
+                <h3>Shubman Gill breaks silence on dating rumours with Sara Ali Khan ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRlX484uhsnyQhfN3BsI882ut4OHIMB15DOap2QuUxxnaWJ-tUnjWF8tv36tdufq1V0Dog9j4Lh" alt="Shubman Gill Century: शुभमन ने ताबड़तोड़ बैटिंग कर गेंदबाजों के छुड़ाए ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Karnataka vs Punjab Shubman Gill: शुभमन गिल ने ताबड़तोड़ बैटिंग करते हुए 11 चौकों और 9 छक्कों की मदद से&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRC6GP6-O5pBOEZsQErNZoG4uhN1FgSfkGrKDosiXO5oTjuojAZhyVOMxCmwqOPH1k7NjD0nAS7" alt="Shubman Gill breaks silence on dating rumours with Sara Ali Khan ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Amid relationship rumours, cricketer Shubman Gill appeared on a Punjabi chat show and addressing his personal life while making a strong revealtion about&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.amarujala.com/cricket/cricket-news/shubman-gill-warning-to-new-zealand-scored-126-runs-in-karnataka-vs-punjab-syed-mushtaq-ali-trophy-2022'>
+        </a><a href='https://www.insidesport.in/shubman-gill-dating-sara-ali-khan-shubman-gill-finally-opens-up-about-his-dating-rumours-with-sara-ali-khan/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shubman Gill: शुभमन ने न्यूजीलैंड को दी चेतावनी, घरेलू टूर्नामेंट में 55 ...</h3>
+                <h3>Shubman Gill dating Sara Ali Khan: Shubman Gill FINALLY Opens ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT5owUPa_o5b8O6aKLgVPH0wRN-_0OUWFOVr_5LR3pcO32oPYpGqz4IsLgrD_f8JyQJiOdL0N0W" alt="Shubman Gill: शुभमन ने न्यूजीलैंड को दी चेतावनी, घरेलू टूर्नामेंट में 55 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Shubman Gill, warning to, New Zealand, scored, 126 runs in 55 balls, Shubman Gill Century, Karnataka vs Punjab, Syed Mushtaq Ali Trophy 2022 शुभमन ने&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSdWE1_Tyl9Egr4XwPfEXeZWRgTckH8Ko7DWep3g7sq5JAvovRxB8uze_Wm5bYNHAi69b929285" alt="Shubman Gill dating Sara Ali Khan: Shubman Gill FINALLY Opens ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The host of the show Sonam had asked about the fittest Bollywood actress the youngster had come across and the former named Sara. &middot; Also Read:&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.thelallantop.com/sports/post/shubman-gill-hits-brilliant-century-and-breaks-virender-sehwags-record-in-syed-mushtaq-ali-trophy'>
+        </a><a href='https://www.ndtv.com/entertainment/shubman-gills-response-to-question-about-rumoured-girlfriend-sara-ali-khan-3521773'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>शुभमन गिल ने धुआंधार पारी खेल वीरेंद्र सहवाग का सालों पुराना रिकॉर्ड तोड़ ...</h3>
+                <h3>Shubman Gill&#39;s Response To Question About Rumoured Girlfriend ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS27YfuK42tdVypwghjNL9XoZHr7VWIBtPnKJI6qIqbgU1cTUQewaIs1LwfPDC0R4kakGm3QbN1" alt="शुभमन गिल ने धुआंधार पारी खेल वीरेंद्र सहवाग का सालों पुराना रिकॉर्ड तोड़ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>शुभमन गिल (Shubman Gill). टीम इंडिया के धुरंधर ओपनर. टेस्ट क्रिकेट और वनडे में कमाल दिखाने के&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQVw35HYEv24puC5suU3mamF9R9QaRPEjUrSV7ExvGznXUiAzQcgimEe2OB1Rw3Wt4tt9sP24jt" alt="Shubman Gill&#39;s Response To Question About Rumoured Girlfriend ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Sara Ali Khan and Shubman Gill were pictured at an eatery together earlier this year.</p></div>
             </div>
-        </a><a href='https://www.thehindu.com/sport/syed-mushtaq-ali-trophy-shubman-gills-maiden-t20-ton-powers-punjab-to-narrow-win-over-karnataka/article66082845.ece'>
+        </a><a href='https://zeenews.india.com/people/sara-tendulkars-ex-boyfriend-shubman-gill-confesses-dating-sara-ali-khan-expresses-love-on-dil-diyan-gallan-2535729.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Syed Mushtaq Ali Trophy | Shubman Gill&#39;s maiden T20 ton powers ...</h3>
+                <h3>Sara Tendulkars rumoured ex-BF Shubman Gill CONFESSES ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT6dkYxB_590hBVi4CdVVwOFfPs4ntkz7o5WRwn0PeMLENPPKSBQSMz4rL5oxZ85D7Y3bUqMrl2" alt="Syed Mushtaq Ali Trophy | Shubman Gill&#39;s maiden T20 ton powers ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Punjab will lock horns with Himachal Pradesh, while Vidarbha will take on Mumbai in the semifinals on November 3.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRh9X7rNfg8UJJFzl6UcVZ2FY4uB5rlLEYKPn0TaIrZEYxFr9p4d0rHGatXMqsRam2ORicqRDOS" alt="Sara Tendulkars rumoured ex-BF Shubman Gill CONFESSES ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Sara Ali Khan dating Shubman Gill news: The cricketer was earlier in a relationship with Sara Tendulkar but never really confirmed it in public.</p></div>
             </div>
-        </a><a href='https://www.jagran.com/cricket/bouncer-syed-mushtaq-ali-trophy-2022-shubman-gill-hit-century-against-karnataka-after-maiden-call-in-indian-t20-team-and-hit-9-sixes-11-fours-23175112.html'>
+        </a><a href='https://www.jagran.com/entertainment/bollywood-indian-cricketer-shubman-gill-reacts-on-dating-rumours-with-sara-ali-khan-read-full-details-here-23205503.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shubman Gill: भारतीय टी20 टीम में पहली बार जगह मिलने के ठीक बाद ...</h3>
+                <h3>Shubman Gill-Sara Ali Khan: क्या सारा अली खान को डेट कर रहे हैं शुभमन ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTWP0KtftJUDP9584KOpM2CDMaUr5h0ex-2bxVr0IeSYHO-yx6NkrQkYFYlcjik_j9QMYvUiVWk" alt="Shubman Gill: भारतीय टी20 टीम में पहली बार जगह मिलने के ठीक बाद ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>सोमवार को जब न्यूजीलैंड दौरे के लिए भारतीय टी20 टीम का ऐलान किया गया तो उसमें शुभमन गिल का&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRA-JuqiQh63mfNSIshzcLOSg5zvHMee2cNHfBxf1-jioDzmaAIG5uNyZnTD0aFDO03_J62eio-QQ" alt="Shubman Gill-Sara Ali Khan: क्या सारा अली खान को डेट कर रहे हैं शुभमन ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>अभिनेत्री को आखिरी बार फिल्म अतरंगी रे में देखा गया था। इस फिल्म में सारा अली खान ने&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.hindustantimes.com/cricket/shubman-gill-hits-explosive-century-as-punjab-storms-into-semi-final-in-syed-mustaq-ali-trophy-101667300800785.html'>
+        </a><a href='https://www.sakshi.com/telugu-news/sports/shubman-gill-dating-rumours-sara-ali-khan-sach-bol-diya-reports-1502214'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Gill should&#39;ve played and not KL Rahul&#39;: Twitter reacts to batter&#39;s 49 ...</h3>
+                <h3>హీరోయిన్‌తో డేటింగ్‌పై స్పందించిన టీమిండియా బ్యాటర్‌! ఒక్క మాటతో</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT8lOKFzRYZ3UiF08JUXHZtFtGlXjh1T-77C_PpF39ZJsdZOEXz060n-nUnCmDRqvkfZHxpN-I7" alt="&#39;Gill should&#39;ve played and not KL Rahul&#39;: Twitter reacts to batter&#39;s 49 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>India cricketer Shubman Gill hit a match winning century to help Punjab win over Karnataka by nine runs, in the quarterfinal of Syed Mushtaq Ali Trophy (SMAT).</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRAwTrT9wlp4BnGCsB--M_GZQPR7DJDO-AprlO_nrIe5kSUxJviHW_MB6iqYOIAEjFpcJYaRNOh" alt="హీరోయిన్‌తో డేటింగ్‌పై స్పందించిన టీమిండియా బ్యాటర్‌! ఒక్క మాటతో" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Shubman Gill: హీరోయిన్‌తో డేటింగ్‌పై స్పందించిన టీమిండియా యువ బ్యాటర్‌! ఒక్క మాటతో కన్‌ఫామ్‌&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.aajtak.in/sports/cricket/story/shubman-gill-century-in-syed-mushtaq-ali-trophy-sixes-team-india-selection-tspo-1566163-2022-11-01'>
+        </a><a href='https://ntvtelugu.com/sports/shubman-gill-dating-with-bollywood-actress-sara-ali-khan-265734.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shubman Gill: शुभमन गिल ने मनाया सेलेक्शन का जश्न, 57 बॉल में ठोके ...</h3>
+                <h3>Shubman Gill: టీమిండియా యువ క్రికెటర్ సంచలన ప్రకటన.. బాలీవుడ్ ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcStJ17jeOsjz0kePLqFbo5-igAZkZM5R7Er1kDV9tCFQJZlALVEPTyYuUQhkB2zcy_JM7vfW5Ki" alt="Shubman Gill: शुभमन गिल ने मनाया सेलेक्शन का जश्न, 57 बॉल में ठोके ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>सैयद मुश्ताक अली ट्रॉफी के क्वार्टर फाइनल में शुभमन गिल ने धमाकेदार सेंचुरी जड़ी है.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS1NCsUyJgK4n4l4nksow049lUuNi2r0pv812ZDXgu3PFyhp8KqML9v12HHzmnZoEPhUS4XM3YT" alt="Shubman Gill: టీమిండియా యువ క్రికెటర్ సంచలన ప్రకటన.. బాలీవుడ్ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Shubman Gill: టీమిండియా యువ క్రికెటర్ శుభ్‌మన్ గిల్ బాలీవుడ్ హీరోయిన్‌తో ప్రేమాయణం&nbsp;...</p></div>
             </div>
-        </a><a href='https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/shubman-gill-scored-century-for-punjab-day-after-india-t20i-call-up/articleshow/95230577.cms'>
+        </a><a href='https://zeenews.india.com/malayalam/sports/indian-cricketer-shubman-gill-confesses-he-is-in-relationship-with-bollywood-actress-sara-ali-khan-114143'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shubman Gill: शुभमन गिल ने तूफानी शतक से मनाया भारतीय टीम में चयन ...</h3>
+                <h3>Sara Ali Khan-Shubman Gill : സാറാ അലി ഖാനുമായി ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTRJ6L5dZMLOrkvMmZuMY5Yd-xWbvKM2IuGvBAApWcaa5NdUKGax20O7bexj2tyxCg8t17220_U" alt="Shubman Gill: शुभमन गिल ने तूफानी शतक से मनाया भारतीय टीम में चयन ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Shubman Gill Century: शुभमन गिल को सोमवार को पहली बार भारत की टी20 टीम में जगह मिली।</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQkTiyCFS2YLPbB3dD4V_3S4YOtPAVMRiucZ1PM-zaLPrEAVRmu8fEPi2xIRQ8ieQVa2LWKq9ey" alt="Sara Ali Khan-Shubman Gill : സാറാ അലി ഖാനുമായി ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Sara Ali Khan-Shubman Gill Dating കുറെ നാളുകളായി സാറയും ശുബ്മനും തമ്മിൽ പ്രണയത്തിലായിരുന്നുയെന്ന്&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,MS Dhoni"/>
         <meta name="description" content="Trending News about MS Dhoni" /></Head><Template>
             <h1 style={{fontSize: "30"}}>MS Dhoni</h1>
-            <Image width={800} height={500} src="https://navbharattimes.indiatimes.com/photo/msid-94433607,imgsize-27366/pic.jpg" alt="MS Dhoni"/>
+            <Image width={800} height={500} src="https://www.jansatta.com/wp-content/uploads/2022/11/IPL-IPL-2023-MS-Dhoni-MS-Dhoni-Retirement-T20-World-Cup.jpg" alt="MS Dhoni"/>
             <h3>Recent News</h3>
-            <a href='https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/ms-dhoni-launches-oreo-biscuits-and-describes-connection-with-world-cup/articleshow/94433609.cms'>
+            <a href='https://www.jansatta.com/khel/ms-dhoni-retirement-mahi-will-retire-after-ipl-2023-bcci-may-make-director-of-cricket-reports/2491554/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>MS Dhoni press conference: दुनिया लगा रही थी संन्यास का अंदाजा ...</h3>
+                <h3>MS Dhoni Retirement: एमएस धोनी IPL 2023 के बाद संन्यास लेंगे, BCCI ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQg60tKEbaWhQ57AZnTCAqfJoDIk5MYtfiWHqrb_eOl1vh6hSl1VFrSY7egiO71aS8nQOkbhQ70" alt="MS Dhoni press conference: दुनिया लगा रही थी संन्यास का अंदाजा ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mahendra Singh Dhoni BIG Announcement: लॉन्चिंग के दौरान धोनी अपनी हेयरस्टाइल भी 2011 की तरह ही सेट करके&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRa2a2q_ZxmiHU5JGaIWBoXSJb0CKMtGF1E_eBCOZz3xNMdnxVVycWRRbncZsonbwizxeKoPrRK" alt="MS Dhoni Retirement: एमएस धोनी IPL 2023 के बाद संन्यास लेंगे, BCCI ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>MS Dhoni Director Of Cricket: मीडिया रिपोर्ट्स के मुताबिक, बीसीसीआई (BCCI) महेंद्र सिंह धोनी (Mahendra Singh&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.aajtak.in/sports/cricket/story/ms-dhoni-live-announcement-oreo-fans-relieved-csk-captian-no-retirement-world-cup-tspo-1544153-2022-09-25'>
+        </a><a href='https://zeenews.india.com/cricket/ms-dhoni-to-join-team-india-ahead-of-icc-t20-world-cup-2024-reports-2535875.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>MS Dhoni: करना था &#39;बड़ा ऐलान&#39; लेकिन लाइव में बिस्कुट प्रमोट कर चले गए ...</h3>
+                <h3>BCCI set to take BIG decision, MS Dhoni to make comeback in Team ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR1OBmuJK6Taz-a3_tBzeBIDAUxpeJTwDTi3axvKQN_KFGwtURbB_onIQTNG2NLMGvzc1amkxc4" alt="MS Dhoni: करना था &#39;बड़ा ऐलान&#39; लेकिन लाइव में बिस्कुट प्रमोट कर चले गए ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>एमएस धोनी के आईपीेएल रिटायरमेंट को लेकर चल रहे अटकलों पर ब्रेक लग गया है.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS0y6F7Vp1RQxQkLYD_joE2bb6g5z7Q-x4j_DzbjtmR977_jPQv5HXqlDCohONVm2-i5LHmGU_K" alt="BCCI set to take BIG decision, MS Dhoni to make comeback in Team ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The former captain, who was incidentally the last Indian skipper to win an ICC title, had worked as a mentor for India at the last year&#39;s T20 World Cup in&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.jagran.com/cricket/headlines-ms-dhoni-told-interesting-thing-about-wicketkeeping-dhoni-said-he-gave-me-freedom-to-do-wicketkeeping-in-his-own-style-23097212.html'>
+        </a><a href='https://economictimes.indiatimes.com/news/new-updates/2024-world-cup-bcci-may-utilise-ms-dhonis-exprience/articleshow/95532245.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>विकेटकीपिंग को लेकर MS Dhoni ने बताई दिलचस्प बात, आखिर किस खिलाड़ी ...</h3>
+                <h3>2024 World Cup: BCCI may utilise MS Dhoni&#39;s exprience</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT9vbNBJVt35saXqsIUkkqNmadx6Zcq_nFmnQqLkkqwzkbMUKtQTaMsviqfRQon2P10N9KjHGm6" alt="विकेटकीपिंग को लेकर MS Dhoni ने बताई दिलचस्प बात, आखिर किस खिलाड़ी ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>विकेट के पीछे जिस गति से धौनी स्टंपिंग करते थे और किसी भी मुश्किल कैच को जिस आसानी से&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT_RE5F7KpIbN9kDzBYBe3Zr_yH2tSxOb74BwgE8ESa6j3Y7WufX4jC1-RkBb0rHvqG3_YBcTVI" alt="2024 World Cup: BCCI may utilise MS Dhoni&#39;s exprience" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The former skipper is arguably one of the finest captains the sport has ever seen. Under his leadership, Team India won the T20 World Cup in 2007,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.livehindustan.com/cricket/story-live-ms-dhoni-announcement-updates-ms-dhoni-today-announcement-retirement-from-csk-live-updates-7131862.html'>
+        </a><a href='https://zeenews.india.com/hindi/sports/cricket/team-india-ms-dhoni-set-for-big-role-in-indian-cricket-director-of-cricket-after-loss-in-t20-world-cup/1442286'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>MS Dhoni Announcement Updates : CSK से संन्यास लेने की रिपोर्ट ...</h3>
+                <h3>MS Dhoni: धोनी को टीम इंडिया में कोच द्रविड़ से भी बड़ा पद देगा BCCI ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQksbY75Yhu17UNtT2BHFENd73Fl-mjtL3A2Ua1lraquvFK1NXEStbsiskQruOT_mmt1fkTHfy4" alt="MS Dhoni Announcement Updates : CSK से संन्यास लेने की रिपोर्ट ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>LIVE MS Dhoni Announcement Updates भारतीय टीम के दिग्गज कप्तान रहे एमएस धोनी को लेकर सोशल मीडिया पर चल&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS0TlfXyhqYCavGlOTVHYBGRDtKJ4rEhiCz5Bqi5PxOgAFfrO0_suonnTVoMcb9RjJu8ePDsEVr" alt="MS Dhoni: धोनी को टीम इंडिया में कोच द्रविड़ से भी बड़ा पद देगा BCCI ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Team India: टी20 वर्ल्ड कप 2022 के सेमीफाइनल में इंग्लैंड के हाथों 10 विकेट से हार के बाद भारत&nbsp;...</p></div>
             </div>
-        </a><a href='https://economictimes.indiatimes.com/news/new-updates/well-played-captain-cool-ms-dhoni-surprises-his-fans-yet-again/articleshow/94436258.cms'>
+        </a><a href='https://www.timesnownews.com/sports/cricket/ms-dhoni-set-to-be-given-big-role-by-bcci-in-india-t20i-set-up-after-his-retirement-post-ipl-2023-report-article-95529504'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Well played &#39;Captain Cool&#39;: MS Dhoni surprises his fans, yet again</h3>
+                <h3>MS Dhoni set to be given big role by BCCI in India T20I set-up after ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT4e9bMXI0GbnBTQ0Ec__uYDM6aMuZEXUSFVKYc3SYT-VnMmRs7HeLpjC263Qd-ZtdNNcJtwRiE" alt="Well played &#39;Captain Cool&#39;: MS Dhoni surprises his fans, yet again" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The latest message has had his fans in a tizzy as many expected that Dhoni might announce his retirement from franchise cricket also.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTZaRw971ZAbW3WtzQut-6hgyjgLXlfltNnrWZwkY2pXYrzI4BmPOaQOhSvpsBIjOjylTHK2Qgd" alt="MS Dhoni set to be given big role by BCCI in India T20I set-up after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>According to a repot by The Telegraph, the Board of Control for Cricket in India have decided to offer the former India captain Mahendra Singh Dhoni a spot&nbsp;...</p></div>
             </div>
-        </a><a href='https://zeenews.india.com/cricket/ms-dhoni-stumps-everyone-by-making-this-announcement-fans-say-he-has-scammed-us-again-2514101.html'>
+        </a><a href='https://www.wionews.com/sports/everything-is-fine-ravindra-jadeja-shuns-rift-rumours-with-ms-dhoni-led-csk-after-being-retained-534500'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>MS Dhoni STUMPS everyone by making THIS announcement, fans ...</h3>
+                <h3>Everything is fine: Ravindra Jadeja shuns rift rumours with MS Dhoni ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ9IwgeEMAPMdeQK78sKHixChKE4PyRRzJFhrgNTtE140tJP72QgI4HazeSFN9fj0TJJy_JI3Po" alt="MS Dhoni STUMPS everyone by making THIS announcement, fans ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Is MS Dhoni retiring from IPL? All of the build up to his Facebook LIVE turned out to be a marketing campaign and relieved fans blamed Dhoni for giving them&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT86FLetBbUupguWbtcDTXgDnGSPs6kIGSSaeCvHM5ndUTm5KPiuPfI_y4xtQ45S4e_m_0kDM3h" alt="Everything is fine: Ravindra Jadeja shuns rift rumours with MS Dhoni ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>On Tuesday (November 15), all ten IPL teams shared their list of retained as well as released players before the IPL 2023 mini-auction.</p></div>
             </div>
-        </a><a href='https://www.zeebiz.com/hindi/trending/ms-dhoni-launches-oreo-biscuit-will-continue-to-play-in-ipl-for-chennai-super-kings-97248'>
+        </a><a href='https://www.abplive.com/sports/cricket/new-zealand-player-kane-williamson-martin-guptill-tim-southee-recall-ms-dhoni-run-out-in-2019-world-cup-semifinal-in-amazon-prime-video-2259946'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>MS Dhoni: फैंस को लगा अब IPL से भी संन्यास ले लेंगे महेंद्र सिंह धोनी ...</h3>
+                <h3>मार्टिन गप्टिल ने याद किया महेद्र सिंह धोनी का 2019 का रन आउट, बोले ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTyY8dFrjThPgGRZupzC8j9GgXwHXska-R91G9E1xchGG41p0QcYhA7CsdgLp7M8quOrJsCjr4F" alt="MS Dhoni: फैंस को लगा अब IPL से भी संन्यास ले लेंगे महेंद्र सिंह धोनी ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>MS Dhoni Oreo: टीम इंडिया के पूर्व कप्तान महेंद्र सिंह धोनी (MS Dhoni) ने शनिवार, 24 सितंबर को&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTv8dkzJB-JAta2fxBuvGKBeMJxinSgWrMYSRvSoAg_2c5b9vhBUjtVS3j4kDLiL5o6P8aDiXZq" alt="मार्टिन गप्टिल ने याद किया महेद्र सिंह धोनी का 2019 का रन आउट, बोले ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>MS Dhoni Run Out 2019: न्यूज़ीलैंड के स्टार टीम साउदी, मार्टिन गप्टिल, केन विलियमसन और कॉलिन डी&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.prabhatkhabar.com/live/livesports-ms-dhoni-facebook-live-today-25th-september-2022-ipl-retirement-or-any-big-surprise-jst'>
+        </a><a href='https://hindi.news18.com/photogallery/sports/cricket-ipl-2023-ms-dhoni-expected-to-retire-from-next-years-ipl-team-india-bcci-csk-4900799.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>MS Dhoni Facebook Live: बड़ी खबर को तैयार बैठे लोगों को महेंद्र सिंह ...</h3>
+                <h3>IPL 2023: एमएस धोनी आईपीएल को भी कहने जा रहे हैं अलविदा! BCCI दे ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSj0jdPb801QWt8qFGId3fMySaNrCrALqKRhgknQul9-f_L4WUZlUJK5Oa2OQ5NxIX-cAuBB04R" alt="MS Dhoni Facebook Live: बड़ी खबर को तैयार बैठे लोगों को महेंद्र सिंह ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>MS Dhoni Facebook Live Updates: भारत के पूर्व कप्तान महेंद्र सिंह धोनी (MS Dhoni) के रविवार (25 सितंबर) को&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQk-3k_Egsig1T80D3iPgt8WmUTU5SXsjr1kFa2GNvgeYzQgetLul3rt5folLHl9xEkMqBDhp_a" alt="IPL 2023: एमएस धोनी आईपीएल को भी कहने जा रहे हैं अलविदा! BCCI दे ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>IPL 2022: एमएस धोनी (MS Dhoni) ने क्रिकेट में कई बड़े रिकॉर्ड बनाए हैं. इंटरनेशनल क्रिकेट से&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.amarujala.com/cricket/cricket-news/ms-dhoni-to-go-live-on-social-media-on-september-25-to-share-exciting-news-with-fans'>
+        </a><a href='https://circleofcricket.com/category/Latest_news/80876/bcci-set-to-overhaul-team-india-keen-on-bringing-in-ms-dhoni-to-help-t20i-team-play-fearless-cricket-report'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>MS Dhoni: 25 सितंबर को फेसबुक पर लाइव आएंगे धोनी, फैंस के साथ शेयर ...</h3>
+                <h3>BCCI set to overhaul Team India; keen on bringing in MS Dhoni to ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT2kzF6jyUEgPOgwaJcsq4u9xCYs_i-pc7-BT8TgVerTg0x3R-xk7i6jHCSvw9AvZ8XvF-MG_2g" alt="MS Dhoni: 25 सितंबर को फेसबुक पर लाइव आएंगे धोनी, फैंस के साथ शेयर ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>वह 25 सितंबर को सोशल मीडिया पर लाइव आएंगे। इसकी जानकारी खुद धोनी ने फेसबुक पर एक पोस्ट के&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSqBZG4WqkrcYxrSv0mZI3DPkM-79PfgZaxdMrQCx0iVTI7TccK5GE9jDEl_Yj9iAdyd6Xvc50V" alt="BCCI set to overhaul Team India; keen on bringing in MS Dhoni to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Board for Control of Cricket in India (BCCI) is reportedly considering roping in Mahendra Singh Dhoni in a role with the Indian T20I team in a process&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.indiatoday.in/sports/cricket/story/ms-dhoni-ends-suspense-features-in-new-advertisement-for-biscuit-brand-2004545-2022-09-25'>
+        </a><a href='https://www.indiatoday.in/sports/cricket/story/ravindra-jadeja-ms-dhoni-ipl-2023-retention-twitter-message-rumours-rift-2297654-2022-11-15'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>MS Dhoni ends suspense, features in new advertisement for biscuit ...</h3>
+                <h3>Everything is fine: Ravindra Jadeja ends rumours of rift with MS ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTD7ClbMb4fy9Tmxv3lOMlFqx6jWbeH9iuG1jf04aZb2Pt36FhPf6zzvQYiLm0anOEULXeHEWy2" alt="MS Dhoni ends suspense, features in new advertisement for biscuit ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>MS Dhoni ended a suspense, featuring in a new advertisement for the biscuit brand. Regarded as one of the best wicket-keepers in the world, Dhoni kept his&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRTYRNyDxfZJNRJzsorj-1uoCaCnibI1F6U4W0bCQmLkBMf1G7qITgxFPVaHvmxZRDN61E1stjb" alt="Everything is fine: Ravindra Jadeja ends rumours of rift with MS ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>IPL 2023: Minutes after having been retained by Chennai Super Kings, all-rounder Ravindra Jadeja took to social media to rubbish rumours of rift between him&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
