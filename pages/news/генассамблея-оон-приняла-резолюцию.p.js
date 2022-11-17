@@ -11,56 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Генассамблея ООН приняла резолюцию"/>
         <meta name="description" content="Trending News about Генассамблея ООН приняла резолюцию" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Генассамблея ООН приняла резолюцию</h1>
-            <Image width={800} height={500} src="" alt="Генассамблея ООН приняла резолюцию"/>
+            <Image width={800} height={500} src="https://cdn.forbes.ru/forbes-static/shareimages/481121.jpg?v=1668506426" alt="Генассамблея ООН приняла резолюцию"/>
             <h3>Recent News</h3>
-            <a href='https://vikna.tv/ru/video/ukrayina/rezolyucziya-oon-po-ukraine-genassambleya-oon-prinyala-rezolyucziyu-o-reparaczii/'>
+            <a href='https://www.forbes.ru/society/481121-genassamblea-oon-prinala-rezoluciu-o-vyplatah-rossiej-kompensacii-userba-ukraine'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Генассамблея ООН приняла резолюцию по репарациям для ...</h3>
+                <h3>Генассамблея ООН приняла резолюцию о выплатах Россией ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTBe5XjicFdHQ5y5rsNe-aTNAhviSJa1-jUM3M_A55R4sp_GmpsUPGEOTdKAfI0A1fYjgPD_9zl" alt="Генассамблея ООН приняла резолюцию по репарациям для ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Что означает новая резолюция о репарациям Украины от России? Генассамблея ООН приняла резолюцию по репарациям Украины: кто проголосовал за и против.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSf6TSyt-RmeKyKySxLaP5hHD4fIBvhW23QA_Uq25CW21b-g1E7HzIIVz7EJNL2h_JN_xg9bqg-" alt="Генассамблея ООН приняла резолюцию о выплатах Россией ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Генеральная ассамблея ООН приняла резолюцию, которая предусматривает ответственность России за действия в отношении Украины и выплату репараций за&nbsp;...</p></div>
             </div>
-        </a><a href='https://dumskaya.net/news/genassambleya-oon-prinyala-rezolyutciyu-o-vzyska/'>
+        </a><a href='https://www.kommersant.ru/doc/5667743'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Генассамблея ООН приняла резолюцию о репарациях Украине</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQvQwU4IJu5XMeuaYsN_lbUUga_6WxFFWBPwYfYBkBSqz1ByFLcv4IYyHLzejSRM-GX2wzDrFLZ" alt="Генассамблея ООН приняла резолюцию о репарациях Украине" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Генеральная ассамблея ООН приняла резолюцию, призывающую привлечь Россию к ответственности за нарушение международного права в отношении Украины,&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.golosameriki.com/a/ukraine-crisis-un/6834074.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Генассамблея ООН приняла резолюцию, требующую от РФ ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTDrmy_Lbqn-wC02r9eNTZnZ8oGyY1keytDGiEwBO3dzusby_j9vXI7TbRDAXVtbwp-E8QKKGRT" alt="Генассамблея ООН приняла резолюцию, требующую от РФ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В резолюции подчеркивается, что Россия должна быть привлечена к ответственности за нарушения международного права.</p></div>
+            </div>
+        </a><a href='https://www.vedomosti.ru/politics/news/2022/11/14/950299-genassambleya-oon-prinyala'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Генассамблея ООН приняла резолюцию по выплате репараций ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRAappH43KBpCyoooeqp9Q9q6VBK_EAWg-g9Dwf71aaQOH8e855wmIaA__Iz5plN2J8_kM5h6Nz" alt="Генассамблея ООН приняла резолюцию по выплате репараций ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Генеральная Ассамблея ООН приняла резолюцию, призывающую Россию к ответственности за «нарушение международного права» в отношении Украины, в том числе через&nbsp;...</p></div>
+            </div>
+        </a><a href='https://ura.news/news/1052603043'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Генассамблея ООН приняла резолюцию о взыскании репараций ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQX5Ez0lhWINiVe80MbqL_r8ZRRNJ2Zswl8tSkziFxppllzYQBxP5pO128lYajKEPFeEaaeUr3H" alt="Генассамблея ООН приняла резолюцию о взыскании репараций ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Резолюцию, в которой россия признается ответственной за выплату репараций Украине, приняла Генассамблея ООН 14 ноября.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRywMhLji5AjqLSfkNTbqb5mL7srWqKFNqUa6ZzzONF5UMHNtN_rX_PYowfH0Q0qCWmiNH-b_W0" alt="Генассамблея ООН приняла резолюцию о взыскании репараций ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Генеральная ассамблея Организации объединенных наций (ГА ООН) приняла резолюцию о взыскании репараций с России. Трансляция заседания велась на официальном&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.rfi.fr/ru/%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0/20221115-%D0%B3%D0%B5%D0%BD%D0%B0%D1%81%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D1%8F-%D0%BE%D0%BE%D0%BD-%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D0%BB%D0%B0-%D1%80%D0%B5%D0%B7%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8E-%D0%BE-%D0%B2%D0%B7%D1%8B%D1%81%D0%BA%D0%B0%D0%BD%D0%B8%D0%B8-%D1%81-%D1%80%D1%84-%D1%80%D0%B5%D0%BF%D0%B0%D1%80%D0%B0%D1%86%D0%B8%D0%B9-%D0%B2-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B'>
+        </a><a href='https://www.newkaliningrad.ru/news/briefs/politics/24020541-genassambleya-oon-prinyala-rezolyutsiyu-o-reparatsiyakh-v-polzu-ukrainy.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Генассамблея ООН приняла резолюцию о взыскании с РФ ...</h3>
+                <h3>Генассамблея ООН приняла резолюцию о репарациях в пользу ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTMV_aorN5O7f6y5lBuAIntCIHgeOOrA_CVg89Zg65i-Grh-AqvF9PgWuY2ZUDg4KE5z1OlafuQ" alt="Генассамблея ООН приняла резолюцию о взыскании с РФ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Генеральная ассамблея ООН 14 ноября приняла резолюцию с рекомендацией создать механизм взыскания с России репараций в пользу Украины.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTX10pfvrBo_-QpCGsTAHPoFFdvE8cGUXDF8WsXy4Y8UG3pgdv35EN2eMQww30Z5ToDq3A-fJLS" alt="Генассамблея ООН приняла резолюцию о репарациях в пользу ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Все новости по теме: Спецоперация России на Украине в 2022 году. Генассамблея ООН накануне приняла резолюцию, предусматривающую создание международного&nbsp;...</p></div>
             </div>
-        </a><a href='https://yamal-media.ru/narrative/genasambleja-oon-prinjala-rezoljutsiju-o-reparatsijah-ukraine-tak-ssha-pytajutsja-opravdat-krazhu-rezervov-rf?from=main'>
+        </a><a href='https://forpost-sz.ru/a/2022-11-14/genassambleya-oon-prinyala-rezolyuciyu-o-vyplate-reparacij-ukraine'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Генассамблея ООН приняла резолюцию о репарациях Украине ...</h3>
+                <h3>Генассамблея ООН приняла резолюцию о выплате репараций ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSeULK9jxW5Xdy2yKMESwyaNgn2eV7FM_H6njPdx4d_wgNWevPtMtePmjt-b-cuRfhNrpnwr0GS" alt="Генассамблея ООН приняла резолюцию о репарациях Украине ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Генассамблея ООН приняла резолюцию, которая предусматривает возмещение Россией ущерба Украине. Документ поддержали 94 страны из 193.</p></div>
-            </div>
-        </a><a href='https://www.wonderzine.com/wonderzine/life/news/266445-un-ua'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Генассамблея ООН приняла резолюцию о возмещении ущерба ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQs4ndrJrKe7CLwQVdij9F95U4XMtdr0hbY-VSrL9N9TknJKwV2PZMvQ6qsN0QPjWQjNMASP8O4" alt="Генассамблея ООН приняла резолюцию о возмещении ущерба ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Большинством голосов — Wonderzine.</p></div>
-            </div>
-        </a><a href='https://jurliga.ligazakon.net/ru/news/215385_genassambleya-oon-podderzhala-rezolyutsiyu-otnositelno-vyplaty-rf-reparatsiy-ukraine-chto-dlya-nas-eto-znachit'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Генассамблея ООН поддержала резолюцию относительно ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRtJhUuFj8FCafHLBkzHDVuWtCnkvZkPHsolzgF1J4ghOVPhnlC-helem195hTW8u_0s21sXZzY" alt="Генассамблея ООН поддержала резолюцию относительно ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Генассамблея ООН поддержала резолюцию относительно выплаты рф репараций Украине: что для нас это значит? ➤ Новости на jurliga.ligazakon.net ➤ Последние&nbsp;...</p></div>
-            </div>
-        </a><a href='https://novoeizdanie.com/genassambleya-oon-prinyala-rezolyucziyu-o-vyplate-rossiej-reparaczij-ukraine-chto-izvestno/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Генассамблея ООН приняла резолюцию по механизму выплаты ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTtkjbzWcXmtMKoTHtnWCsOllv48CVfp4lplbGBfBRiGeFu__8NfMBk2H-jHlHAEl4fQF833pF4" alt="Генассамблея ООН приняла резолюцию по механизму выплаты ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Генассамблея ООН на сессии 14 ноября приняла проект резолюции по созданию механизма компенсации Украине ущерба от войны со стороны РФ.</p></div>
+                <Image src="" alt="Генассамблея ООН приняла резолюцию о выплате репараций ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ущерб, нанесённый соседней с РФ стране, будет зафиксирован в специальном реестре. В понедельник, 14 ноября, Генассамблея Организации Объединённых наций&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

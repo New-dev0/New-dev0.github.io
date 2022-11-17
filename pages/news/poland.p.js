@@ -13,47 +13,47 @@ export default function Page() {
             <h1 style={{fontSize: "30"}}>Poland</h1>
             <Image width={800} height={500} src="" alt="Poland"/>
             <h3>Recent News</h3>
-            <a href='https://apnews.com/article/russia-ukraine-war-zelenskyy-kherson-9202c032cf3a5c22761ee71b52ff9d52'>
+            <a href='https://www.arise.tv/poland-nato-say-missile-strike-wasnt-a-russian-attack/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Poland: Russian-made missile fell on our country, killing 2</h3>
+                <h3>Poland, NATO Say Missile Strike Wasn&#39;t a Russian Attack - Arise News</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRpkzKgGqA2YGS005IB-1QYbc8801mHM34aMbSQNtyx5MCTFYi6flGKusf56qCDMGdj1JSiVusj" alt="Poland: Russian-made missile fell on our country, killing 2" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A second person said that apparent Russian missiles struck a site in Poland about 15 miles from the Ukrainian border. A statement from the Polish Foreign&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTvap-r_OBFHhIcUbMDh_E7XUtV5M7IrnOKsWICpo5NAKseCeLsiLz9kcrnn_pfBSSAfKLNU-HJ" alt="Poland, NATO Say Missile Strike Wasn&#39;t a Russian Attack - Arise News" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Stoltenberg and others laid overall but not specific blame on Russian President Vladimir Putin&#39;s war. NATO member Poland and the head of the military&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.businessinsider.co.za/russian-missiles-struck-nato-ally-poland-and-killed-2-people-2022-11'>
+        </a><a href='https://guardian.ng/news/poland-says-blast-likely-caused-by-ukraine-missile-in-accident/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Russian missiles struck NATO ally Poland and killed 2 people</h3>
+                <h3>Poland says blast likely caused by Ukraine missile in accident</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQdmmrNOHKY0R44LPKND4dA3W9beemJTTQmADk4IvF-YQcySiic_ZjRZ5MngU7Ph4McXMsBlp6C" alt="Russian missiles struck NATO ally Poland and killed 2 people" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Two people were reportedly killed after Russian missiles landed in an eastern Polish village on Tuesday, a US intelligence official told the Associated&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT18v9gsiVd-EzYYMIg_KEwobCRlcu7qKTYH-2qsm3P22j3HgZcXyPPg6570nsuB3HLOWwgVhi-" alt="Poland says blast likely caused by Ukraine missile in accident" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Western leaders played down fears Wednesday that a deadly missile blast in eastern Poland could herald a dangerous escalation in the war Russia launched&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.npr.org/2022/11/15/1136768133/kyiv-ukraine-missiles-russia'>
+        </a><a href='https://www.theguardian.com/world/2022/nov/16/poland-president-missile-strike-probably-ukrainian-stray'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Biden says it&#39;s &#39;unlikely&#39; that missile that hit Poland was fired from ...</h3>
+                <h3>Missile that hit Poland likely came from Ukraine defences, say ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRu2n7PosZR8WfOfETxHHzf1__fMPjktyI-3lJ1EvGeUs9Y8FGfOGHX_DYksQOn4zDYnR42zKLN" alt="Biden says it&#39;s &#39;unlikely&#39; that missile that hit Poland was fired from ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The explosion came as Russia unleashed a wave of missile strikes Tuesday at cities across Ukraine, hitting residential buildings and knocking out electricity in&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRBl9DTNbofv5OWWF0CpErzNwdv9uxCLJVUmqkjF20-0B20i6VSTa8Yg1utvnCES7_2i3fbztdg" alt="Missile that hit Poland likely came from Ukraine defences, say ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ukraine&#39;s air defence was probably responsible for a blast that killed two people in south-eastern Poland, the Polish president has said, while Nato said Russia&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.cnbc.com/2022/11/16/missile-strike-poland-called-isolated-incident-allies-on-standby.html'>
+        </a><a href='https://www.politico.com/news/2022/11/16/top-army-general-strike-poland-00067550'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Polish president says apparent missile strike in Poland was &#39;isolated ...</h3>
+                <h3>Top Army general: Important to &#39;remain calm&#39; following strike in Poland</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMahLXvuEtFpEWmAcZ22vCUjeGQhQUD3uTsdT_naM2jIufSZfz1fsmCynjA3vXrYA8KMBKmQcu" alt="Polish president says apparent missile strike in Poland was &#39;isolated ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The explosion, which took place near the Ukrainian border, came as Russia was launching a massive wave of missiles at Ukrainian cities before dusk Tuesday.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQjB722vgmtg9Esw9wgNQgmwuX9YYIbaJA-UheOpi2xLsxeSyAdKyeCitnTQkdQRLT5Kx-ZohvG" alt="Top Army general: Important to &#39;remain calm&#39; following strike in Poland" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ukrainian officials initially blamed Russia, but top Polish leaders say missile likely fired by Ukraine.</p></div>
             </div>
-        </a><a href='https://notesfrompoland.com/2022/11/15/two-dead-in-explosion-amid-unconfirmed-report-of-russian-missiles-hitting-poland/'>
+        </a><a href='https://www.nato.int/cps/en/natohq/news_209104.htm'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Russian missile killed two in Poland near Ukraine border, says ...</h3>
+                <h3>NATO Allies address the explosion in the east of Poland</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQqrMPEduc_ve11gpDjc1RktAOxhJOwTNFUVxJ_kEvLj6aYQ2L3R5EbHriqklptTaTUUIghT1j2" alt="Russian missile killed two in Poland near Ukraine border, says ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Following an explosion in a Polish village near the border with Ukraine on Tuesday that killed two people, Poland&#39;s foreign ministry has issued a statement&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS4GDw54aOqWBm--CAsLxDQ06di4m7r-pxJ_iz7ASHjTXzX5020yqb9HBM4LLYy4AUYIs4Yew1t" alt="NATO Allies address the explosion in the east of Poland" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>NATO ambassadors met on Wednesday (16 November 2022) to address the explosion yesterday in the east of Poland on the border with Ukraine, which took place&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.ft.com/content/6606c639-2632-443b-9359-52d8a9964068'>
+        </a><a href='https://www.vanguardngr.com/2022/11/tension-uncertainty-as-russian-missiles-kill-2-in-poland/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Poland blames &#39;Russian-made missile&#39; for deadly blast near Ukraine ...</h3>
+                <h3>Tension, uncertainty as Russian missiles kill 2 in Poland</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTk86e4MEz5m9s9xbKjfuvmy73Ifm0IqLTuZzh42NUuitS_RgLWxHAFgHxkuM8b_o8MgEdAbdbD" alt="Poland blames &#39;Russian-made missile&#39; for deadly blast near Ukraine ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Joe Biden says it is &#39;unlikely&#39; that missile strike on Polish village that killed 2 people was fired from Russia.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSXvY1uDG-U5BqDZcWCLyMPyp9vx2HGnEj2N2aoMq4faZvGKbWN1VxsEJlx3kp_3SRS3xYxseBg" alt="Tension, uncertainty as Russian missiles kill 2 in Poland" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Two people have been killed in Poland after dozens of missiles were launched at targets across Ukraine, unconfirmed reports say.</p></div>
             </div>
         </a>
         </Template></>;

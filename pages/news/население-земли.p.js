@@ -27,13 +27,6 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTTsIhZgbMQj8dgp3BQcBK9qwxJ2zDau9EYGWCx3bkF9ijUhU7Ka_WzG6TR-NH6YFAdKwkg1Kge" alt="Население Земли достигло 8 миллиардов человек" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Численность людей на планете выросла на 1 миллиард всего за 12 лет. Население Земли преодолело отметку в 8 млрд человек 15 ноября, как и прогнозировалось&nbsp;...</p></div>
             </div>
-        </a><a href='https://meduza.io/news/2022/11/15/naselenie-zemli-vyroslo-do-vosmi-milliardov-chelovek'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Население Земли выросло до восьми миллиардов человек ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR03apE3o9WbGOqGVGFVMvJV7fLZfOH_nVQdQeU5kW34YKNe9Fr6ydmfkniifokwLopIkyWIFyM" alt="Население Земли выросло до восьми миллиардов человек ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>15 ноября население Земли, по оценкам ООН, достигло восьми миллиардов человек. Об этом сообщает пресс-служба организации.</p></div>
-            </div>
         </a><a href='https://www.forbes.ru/society/481131-oon-soobsila-o-dostizenii-8-mlrd-ludej-naselenia-planety'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Население Земли достигло 8 млрд человек</h3>
@@ -41,19 +34,19 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS9_FWT4ptDlCApD4-0qOjn2Mb7bk_THMfQREmnVi8T3vQqOa7EfnlRAXY_1Z9UCykBYVJxJC1N" alt="Население Земли достигло 8 млрд человек" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Население Земли достигло 8 млрд человек. ООН прогнозировала, что это произойдет 15 ноября — хотя демографы признают, что в точности подсчитать людей&nbsp;...</p></div>
             </div>
+        </a><a href='https://www.eurotopics.net/ru/291805/%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8-%D0%BD%D0%B0-%D0%BE%D1%82%D0%BC%D0%B5%D1%82%D0%BA%D0%B5-%D0%B2-8-%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D1%80%D0%B4%D0%BE%D0%B2'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Население Земли на отметке в 8 миллиардов</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS-uGTCOF05MbxlQ7NI7L6M4YC4sUFiKtHfYrODifoY4_xASFp74aHF0naX33pCB43pF3g-Rn6f" alt="Население Земли на отметке в 8 миллиардов" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Во многих регионах планеты необходимо принимать меры для сдерживания роста населения, - такое мнение высказывает колумнист Irish Examiner Джон Вайдел:.</p></div>
+            </div>
         </a><a href='https://www.kommersant.ru/doc/5667917'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Население Земли превысило 8 миллиардов человек</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRpwgPtpGGGGXAdbJYCOVHPi7SSpXF7vUmOQNZxsyFZOpI5caXpMMY8IMc63y8oaNtdb74lZbDA" alt="Население Земли превысило 8 миллиардов человек" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Население Земли достигло 8 млрд человек, сообщила пресс-служба ООН со ссылкой на подсчеты организации. Число людей на планете выросло на 1 млрд за 11 лет.</p></div>
-            </div>
-        </a><a href='https://www.svoboda.org/a/oon-naselenie-zemli-dostiglo-8-milliardov-chelovek/32131479.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ООН: население Земли достигло 8 миллиардов человек</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSgF8bNNkql-XkNGWNEE9-8cwv9RDA0e20SuAnoeueI5PzLXav-hevgmFscuKvtKtzA8Hd2fC27" alt="ООН: население Земли достигло 8 миллиардов человек" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>О том, что человечество может подойти к этому порогу, ООН сообщал во Всемирный день народонаселения 11 июля. Тогда был опубликован доклад World Population&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

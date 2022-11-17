@@ -18,7 +18,7 @@ export default function Page() {
                 <h3>S7 Airlines проводит распродажу авиабилетов со скидкой до 50 ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQNbzQ-6SqvscqPf6a9Z-L1JEraY4TxE40h0QtK4kiyA0S8hw_kiZ2narl-sD9M9DWl-KyY6xd_" alt="S7 Airlines проводит распродажу авиабилетов со скидкой до 50 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Примеры маршрутов, по которым можно купить билеты до 10 000 руб. туда-обратно в экономическом классе: - из Москвы в Казань (от 2 420 руб.[2]), Санкт-Петербург&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>S7 Airlines проводит распродажу авиабилетов с 15 по 18 ноября 2022 года[1]. Путешественники могут запланировать перелеты начиная с 21 ноября со скидкой до&nbsp;...</p></div>
             </div>
         </a><a href='https://inde.io/news/65505-s7-airlines-otkryla-rasprodazhu-aviabiletov'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -48,7 +48,7 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQjGCfUZNbpNdyjy4fVmsApYjJN7rLBx2P-U90KKn-OgejEotQC_nen7x_X-0cN4PnorzrIaIQr" alt="S7 открывает прямые рейсы из Уфы и Екатеринбурга на Байкал" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Доступные билеты по цене 5 тысяч рублей туда и обратно можно купить на январь и февраль 2023 года. Ранее другая авиакомпания, Nordwind, объявила акцию – билеты&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.todaykhv.ru/news/tourism/59998/'>
+        </a><a href='https://todaykhv.ru/news/tourism/59998/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Ряд рейсов компании S7 Airlines из Хабаровска подешевели на ...</h3>
                 <div style={{ display: "flex" }}>

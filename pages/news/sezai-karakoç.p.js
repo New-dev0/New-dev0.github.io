@@ -11,42 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Sezai Karakoç"/>
         <meta name="description" content="Trending News about Sezai Karakoç" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Sezai Karakoç</h1>
-            <Image width={800} height={500} src="https://img.piri.net/mnresize/600/-/resim/imagecrop/2022/11/16/03/49/resized_c068d-fb6882a5sezaikarakoccca72.jpg" alt="Sezai Karakoç"/>
+            <Image width={800} height={500} src="https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1698000/sezai-karakoc-aa-1699034.jpg" alt="Sezai Karakoç"/>
             <h3>Recent News</h3>
-            <a href='https://www.yenisafak.com/dusunce-gunlugu/cumhuriyet-donemi-islamciligi-ve-sezai-karakoc-3890245'>
+            <a href='https://www.trthaber.com/haber/kultur-sanat/dirilis-sairi-sezai-karakoc-724059.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Cumhuriyet Dönemi İslamcılığı ve Sezai Karakoç</h3>
+                <h3>Diriliş şairi: Sezai Karakoç</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR5oDXMZywajU4Y0w7EJEq72WfbyrwOH8uvRKmDTooQXtdXrCCgF16uuSe30b1sJjf6KDikbPe-" alt="Cumhuriyet Dönemi İslamcılığı ve Sezai Karakoç" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cumhuriyet&#39;in onuncu yılında doğmuş, tek partili döneme ve çok partili hayata geçişe şahitlik etmiş, ilkokuldan üniversiteye bu dönemin etkilerini taşıyan bir&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSVkyGvPTjrRhsVrfdZu5i-g0cQMItYOLEOTGpJcEnxC-go03By_PmDAmS_-T0voZBxrucKw-P2" alt="Diriliş şairi: Sezai Karakoç" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Şair ve düşünür Sezai Karakoç&#39;un ebediyete irtihalinin üzerinden bir yıl geçti. Karakteri, düşünceleri ve eserleriyle edebiyatımızın önemli isimleri&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.aa.com.tr/tr/kultur/sanatini-inanciyla-besleyen-bir-entelektuel-sezai-karakoc-/2738582'>
+        </a><a href='https://www.milliyet.com.tr/bilgi-rehberi/sezai-karakoc-kimdir-sezai-karakoc-ne-zaman-ve-neden-oldu-iste-siirleri-ve-eserleri-6858028'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Sanatını inancıyla besleyen bir entelektüel: Sezai Karakoç</h3>
+                <h3>SEZAİ KARAKOÇ şiirleri ve eserleri &amp; Sezai Karakoç kimdir, ne ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ4KldN8Pd936gn0JJHlxr0HuR01deGk-_909YUKNKZEGJwRcDdaFFP8WpciNS2k31r0GCbVS44" alt="Sanatını inancıyla besleyen bir entelektüel: Sezai Karakoç" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Henüz çocuk yaşlarda okuma aşkı başlayan Karakoç, 1950&#39;li yıllarda kaleme aldığı ve Türk edebiyatının sevilen şiirlerinden biri haline gelen &quot;Mona Rosa&quot; ile&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT20OdsJmPs9cqdqxVkXJlIa9FiKAorxx2cHtv1myMbJTrVmakbBCCnfe7E_NoAB57SFkkxTbFB" alt="SEZAİ KARAKOÇ şiirleri ve eserleri &amp; Sezai Karakoç kimdir, ne ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Sezai Karakoç 22 Ocak 1933 yılında Diyarbakır Ergani&#39;de dünyaya geldi. Lisans eğitimini Siyasal Bilgiler Fakültesi Maliye Bölümü&#39;nden mezun olarak tamamladı.</p></div>
             </div>
-        </a><a href='https://www.yeniakit.com.tr/haber/16-kasim-2021-sair-mutefekkir-sezai-karakocun-vefati-1708119.html'>
+        </a><a href='https://www.sabah.com.tr/galeri/yasam/sezai-karakoc-siirleri-olumunun-1-yildonumunde-aniliyor-iste-sair-sezai-karakoc-sozleri-ve-eserleri'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>16 Kasım 2021: Şair-Mütefekkir Sezai Karakoç&#39;un vefatı</h3>
+                <h3>Şair Sezai Karakoç sözleri, eserleri ve hayatı | Sezai Karakoç şiirleri ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSaUCZX0xSViUWDUEtM4kO03JuxBvr0d7awzwUPg-kFv-9CiI62fseMHCaRhcrOhTvTQvaF7lbx" alt="16 Kasım 2021: Şair-Mütefekkir Sezai Karakoç&#39;un vefatı" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Sezai Karakoç, I. Dünya Savaşı&#39;nda Kafkas cephesinde çarpışırken Ruslara esir düşen tüccar Yasin Bey ile Emine Hanım&#39;ın oğlu olarak Diyarbakır Ergani&#39;de 22&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSw83ZQZsfKbU9s5tZUO-p-wR6mZYLbWC7YG_GTmbO_xcNPoesxG6Z5HqJ8aeCpyKq63l3BcdOg" alt="Şair Sezai Karakoç sözleri, eserleri ve hayatı | Sezai Karakoç şiirleri ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Sezai Karakoç şiirleri arasında Mona Roza, Şahdamar, Gül Muştusu gibi eserler yer alıyor. Tanzimat sonrası kaybolan metafizik şiiri yeniden yorumlayan ünlü şair&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.yenisafak.com/dusunce-gunlugu/sezai-karakocun-genc-muslumana-ogutleri-genclik-ve-islm-3890244'>
+        </a><a href='https://www.ntv.com.tr/sanat/sair-yazar-ve-fikir-adami-sezai-karakoc-olum-yil-donumunde-kendi-sozleriyle-aniliyor-iste-sezai-karakocun-en-cok-paylasilan-sozleri,9Jo4teT_wECI0Z9Z4AkGUg'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Sezai Karakoç&#39;un genç Müslüman&#39;a öğütleri: Gençlik ve İslâm</h3>
+                <h3>Şair, yazar ve fikir adamı Sezai Karakoç ölüm yıl dönümünde kendi ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR4snO6EODp2cZOh3y6bj_7kTHsPqYbpNRQ0fhVdnK__zbAFUzU8AGNfiFpHwJF2MPod1OnHZVe" alt="Sezai Karakoç&#39;un genç Müslüman&#39;a öğütleri: Gençlik ve İslâm" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>İslâm&#39;ı öyle sağ ve diri, canlı yaşa ki, seni öldürmeye gelen sende dirilsin. Çünkü genç bir Müslüman olmak; sessizliğinde imân çınlayan şehirlerin mimarı&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTjzbmD-Nn28fjhR4dywAzAjl-I5r-HPN-jHqv8cCFvAsAsQ8soMnKr-2R1kUV5wPiAakVfHgMe" alt="Şair, yazar ve fikir adamı Sezai Karakoç ölüm yıl dönümünde kendi ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Henüz çocuk yaşlarda okuma aşkı başlayan Sezai Karakoç, 1950&#39;li yıllarda kaleme aldığı ve Türk edebiyatının sevilen şiirlerinden biri haline gelen &quot;Mona&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.milligazete.com.tr/makale/12549531/ismail-killioglu/hatiralarinda-sezai-karakoc'>
+        </a><a href='https://onedio.com/haber/sezai-karakoc-kimdir-sezai-karakoc-un-olum-yildonumu-ne-zamandir-1107505'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>“Hatıralar”ında Sezai Karakoç</h3>
+                <h3>Sezai Karakoç Kimdir? Sezai Karakoç&#39;un Ölüm Yıl Dönümü Ne ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS6-P9diDcr7W4ZtIM1DrZtlfsj0DUUr_FDZz-EF8EL-ks4gidBm9vycQYS4pXL5_KNqWnRU3Ph" alt="“Hatıralar”ında Sezai Karakoç" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Sanat ve edebiyat alanında, aynı zamanda edebi bir tür sayılan günlük ve hatıraların, öznel nitelikte görünse de, başlı başına belirgin bir yeri bulunduğu&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR7pEMSQUafz9z2buT-p0Kgw3oIWbmxtZSDsRZoz0snVeXSph_v7SybCSJ3Qhq1cDnsi7JXbpgw" alt="Sezai Karakoç Kimdir? Sezai Karakoç&#39;un Ölüm Yıl Dönümü Ne ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Sezai Karakoç&#39;un aramızdan ayrılışının yıl dönümü. Mona Roza şiiriyle akıllara kazınan bu ünlü şair kimdir? Ölüm sebebi nedir? Detayları haberimizde.</p></div>
+            </div>
+        </a><a href='https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-sezai-karakoc-icin-anma-mesaji/2739790'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Cumhurbaşkanı Erdoğan&#39;dan Sezai Karakoç için anma mesajı</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQmK94IDRWMRCzP265mjtDfRKmmwE3jQJte4bKprA_cES92U92UKJMVNY-sVMINpmhindgVU23p" alt="Cumhurbaşkanı Erdoğan&#39;dan Sezai Karakoç için anma mesajı" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cumhurbaşkanı Recep Tayyip Erdoğan, 16 Kasım 2021&#39;de vefat eden şair, yazar ve fikir insanı Sezai Karakoç&#39;u andı. - Anadolu Ajansı.</p></div>
             </div>
         </a>
         </Template></>;

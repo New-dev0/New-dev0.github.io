@@ -27,6 +27,13 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTW_QFqiHlhubo05UZFS3UT0zBlBBiV0FRWV-U1MVHga1S8t5XPB7Orn0XK78Dw9tzvl8imZHTw" alt="Зеленский в Херсоне: «Мы действительно возвращаемся, мы ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Президент Украины заявил, что ему было важно посетить город, чтобы выразить поддержку жителям, пережившим российскую оккупацию.</p></div>
             </div>
+        </a><a href='https://www.currenttime.tv/a/vecher-zelenskiy-v-hersone-i-molchanie-putina/32130648.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Вечер: Зеленский в Херсоне, и молчание Путина</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT9OmDGpvoeT6yN88xAu3C9l4r7aYXJgJSTCge7zvn_Twl295ulOiVC2rwUdPmvbwtULN2C2blm" alt="Вечер: Зеленский в Херсоне, и молчание Путина" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В Херсоне возобновляют работу украинская администрация и полиция. Российская пропаганда оправдывает отступление из Херсона &quot;трудным решением&quot;.</p></div>
+            </div>
         </a><a href='https://www.dp.ru/a/2022/11/14/Zelenskij_v_Hersone_zajav'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Зеленский в Херсоне заявил, что украинская сторона готова к миру</h3>
@@ -41,19 +48,12 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSvwzD8Di6GLL1p-2-idJP1rdd4pRGUmN-HdrmRLTkuYLLOui16BtUde9o7rY87riA9f5DuS2sF" alt="Владимир Зеленский приехал в Херсон после освобождения ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Владимир Зеленский приехал в Херсон после освобождения города. Фотография. 01:54, 14 ноября 2022. Источник: Meduza.</p></div>
             </div>
-        </a><a href='https://www.currenttime.tv/a/vecher-zelenskiy-v-hersone-i-molchanie-putina/32130648.html'>
+        </a><a href='https://www.kommersant.ru/doc/5667293'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Вечер: Зеленский в Херсоне, и молчание Путина</h3>
+                <h3>Reuters: Владимир Зеленский посетил Херсон</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT9OmDGpvoeT6yN88xAu3C9l4r7aYXJgJSTCge7zvn_Twl295ulOiVC2rwUdPmvbwtULN2C2blm" alt="Вечер: Зеленский в Херсоне, и молчание Путина" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В Херсоне возобновляют работу украинская администрация и полиция. Российская пропаганда оправдывает отступление из Херсона &quot;трудным решением&quot;.</p></div>
-            </div>
-        </a><a href='https://ura.news/news/1052603021'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Зеленский приехал в Херсон, где Украина готовит расстрелы ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQxcWy_8fFFH7rRt-ckbHEgvGTWOtGO2bmncCq7VAEDIN42zy8sqdHJ1ppr5iw8A3vARTBaQuWG" alt="Зеленский приехал в Херсон, где Украина готовит расстрелы ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Президент Украины Владимир Зеленский посетил Херсон. Вооруженные силы Украины (ВСУ) готовятся к расстрелу мирных жителей в городе. URA.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT0kQbyDXhHD3hv8XUg6Z_xTqBk0o0MLWuyo7zW1Qo93iy_osag_5keI8yXsTi39Dk5v4xFkLZs" alt="Reuters: Владимир Зеленский посетил Херсон" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Агентство Reuters сообщило, что украинский президент Владимир Зеленский посетил Херсон, покинутый российской армией 11 ноября. Украинские власти пока не&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

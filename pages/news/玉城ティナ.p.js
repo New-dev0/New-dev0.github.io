@@ -17,7 +17,7 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>『窓辺にて』玉城ティナのあどけなさが観客を虜に 純真な笑顔が ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMTk_R7zT0kam1T2L_sC1E2P_SUlUIT0Va_faeep241Gjd1YkPZ9vJtcyqETna7ujKI1HoY2vE" alt="『窓辺にて』玉城ティナのあどけなさが観客を虜に 純真な笑顔が ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQNLtk0iS1ZGZ5sHZZA-LiE-JIqxeTGO20KIaXyYHpGBhEn2xJ6VYumuCOD4rqmn921uKTrgDep" alt="『窓辺にて』玉城ティナのあどけなさが観客を虜に 純真な笑顔が ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>『愛がなんだ』『街の上で』をはじめ、等身大の恋人たちの愛を描く作風が根強く支持されてきた今泉力哉監督の最新作『窓辺にて』が公開中だ。</p></div>
             </div>
         </a>

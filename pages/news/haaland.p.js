@@ -11,56 +11,35 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Haaland"/>
         <meta name="description" content="Trending News about Haaland" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Haaland</h1>
-            <Image width={800} height={500} src="https://conteudo.imguol.com.br/c/esporte/bc/2022/11/15/torcedores-do-city-pedem-namoro-entre-filha-de-guardiola-e-haaland-1668550589051_v2_615x300.jpg" alt="Haaland"/>
+            <Image width={800} height={500} src="https://www.thesun.co.uk/wp-content/uploads/2022/11/erling-haaland-manchester-city-action-775184806.jpg?strip=all&quality=100&w=1920&h=1080&crop=1" alt="Haaland"/>
             <h3>Recent News</h3>
-            <a href='https://www.uol.com.br/esporte/ultimas-noticias/2022/11/15/fas-do-city-invadem-perfil-de-filha-de-guardiola-e-pedem-namoro-com-haaland.htm'>
+            <a href='https://www.thesun.co.uk/sport/20446524/erling-haaland-england-world-cup-favourites-man-city/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Fãs do City invadem perfil de filha de Guardiola e pedem namoro ...</h3>
+                <h3>Erling Haaland names England as his favourites to win World Cup ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQM8Qj5zZwDyJ9n5d5exTLb_wBLMpbgZ9Q8v43_RGpTsxQ06JlVNiN8mQ2oTzVU-J7xR4Vh5R6G" alt="Fãs do City invadem perfil de filha de Guardiola e pedem namoro ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A torcida do Manchester City já tem um carinho especial por Erling Haaland, que chegou ao clube inglês no início da temporada e rapidamente se transformou&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTwDyO4M4XQI5dHPhi7PpNjzbZGGAkJAi8TI_HKpXhu41TDnUzo09RkJPUXPdNeuaYZ3G1r6QNr" alt="Erling Haaland names England as his favourites to win World Cup ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>ERLING HAALAND has named England as favourites to win the World Cup.But Manchester City&#39;s latest cult hero reckons three other giants are also in th.</p></div>
             </div>
-        </a><a href='https://ge.globo.com/blogs/brasil-mundial-fc/post/2022/11/15/haaland-diz-que-vai-relaxar-durante-a-copa-e-aponta-favoritos-ao-titulo.ghtml'>
+        </a><a href='https://unofficialnetworks.com/2022/11/16/erling-haaland-ski/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Haaland diz que vai “relaxar” durante a Copa e aponta favoritos ao ...</h3>
+                <h3>WATCH: If Manchester City&#39;s Erling Haaland Skied</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSJx5iteSp7Q1D61fV5k4A0hQFByNgOFcurQZ3OB3B7_Q3BgZDHIAgVOiRGU2pxUBgCzhfRxm7S" alt="Haaland diz que vai “relaxar” durante a Copa e aponta favoritos ao ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Atacante norueguês o artilheiro da Premier League com 18 gols em 12 partidas pelo Manchester City.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS3CFrAfll1hPKp0IA1g0E0O_cIDuK7aNvKNL17yqBxajsdSbvfOWDh2h9459uMWkyPtuABup78" alt="WATCH: If Manchester City&#39;s Erling Haaland Skied" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Haaland is just 22-years-old, but the young Norwegian has absolutely lit up the British Premier League since joining perennial juggernaut Manchester City. The&nbsp;...</p></div>
             </div>
-        </a><a href='https://portocanal.sapo.pt/noticia/314887'>
+        </a><a href='https://www.eurosport.com/football/world-cup/2022/england-aren-t-terrible-at-football-then-according-to-lionel-messi-and-erling-haaland-the-warm-up_sto9228437/story.shtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Haaland na sétima divisão? Ashton United propõe ajudar o jogador ...</h3>
+                <h3>England aren&#39;t terrible at football then, according to Lionel Messi ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTsDUu9LnaLwx6RpEF3GcCDUAsadKQSMIz-6IU_4cVuF_eEVTN7XEchTyaYW4qOV6Gx4hEzyNAo" alt="Haaland na sétima divisão? Ashton United propõe ajudar o jogador ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>O Ashton United, equipa inglesa da sétima divisão, emitiu um comunicado humorístico, através das redes sociais, onde propõe ao Manchester City que o jogador&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcROIHm0Y0qf5rOS925KZkIgpTrgSQOk9VS7Kh54gY6iIgrYMpANMl809eteUFRTdFlq2trJj3dY" alt="England aren&#39;t terrible at football then, according to Lionel Messi ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lionel Messi and Erling Haaland have talked up England&#39;s chances at the World Cup. This comes despite England&#39;s decidedly patchy form after the Euros.</p></div>
             </div>
-        </a><a href='https://www.terra.com.br/esportes/futebol/copa-2022/fora-da-copa-do-mundo-haaland-cita-brasil-e-crava-favoritos-ao-titulo,d8518e67aa7614122f7fb69e8b76f734dj9mjdd9.html'>
+        </a><a href='https://www.thesun.ie/sport/football/9741247/manchester-city-erling-haaland-2022-world-cup-norway/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Fora da Copa do Mundo, Haaland cita Brasil e crava favoritos ao título</h3>
+                <h3>Why isn&#39;t Manchester City&#39;s Erling Haaland at the 2022 World Cup?...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS7isRqKBEcaLpt-w_z5XgcShv4-7Jnu7g778kELrHhBNP823vmVcV7eOefF9-S7EMuiOPpPp3u" alt="Fora da Copa do Mundo, Haaland cita Brasil e crava favoritos ao título" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Astro do Manchester City também afirma que irá &#39;relaxar&#39; durante o torneio; Noruega não se classificou.</p></div>
-            </div>
-        </a><a href='https://tntsports.com.br/melhorfuteboldomundo/Haaland-afirma-que-Brasil-Argentina-e-Franca-sao-as-favoritas-a-Copa-do-Mundo-20221115-0003.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Haaland afirma que Brasil, Argentina e França são as favoritas à ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRbzNdHPQ6zpwDzF0HcG_pZqNBFaas7nsin7N4t5EFgOr-g0MiJnfK-wKXlYTdNcUD7svX57SAe" alt="Haaland afirma que Brasil, Argentina e França são as favoritas à ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>O jogador do Manchester City ainda citou a Inglaterra como possível candidata ao Mundial.</p></div>
-            </div>
-        </a><a href='https://www.mg.superesportes.com.br/app/noticias/futebol/futebol-internacional/2022/11/15/noticia_futebol_internacional,3979787/haaland-na-7-divisao-inglesa-city-recebe-proposta-inusitada-pelo-atacante.shtml'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Haaland na 7ª divisão inglesa? City recebe proposta inusitada pelo ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSbGgYJTUTO1k_XCt_DZ38XCxEFOk0RShkng4BXTGnsZ1MeMNSv3ucDuBujmu-VrJN68XS5icqW" alt="Haaland na 7ª divisão inglesa? City recebe proposta inusitada pelo ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ashton United, clube da sétima divisão da Inglaterra, pediu ao Manchester City o empréstimo do centroavante Erling Haaland, destaque da temporada.</p></div>
-            </div>
-        </a><a href='https://esporte.ig.com.br/futebol/internacional/2022-11-15/haaland-brasil-favorito-copa.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Fora da Copa, Haaland cita o Brasil como uma das favoritas ao título</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQeHguFBmLppiApxmr3sIcAynrxcerw6knYjEebKyuslmI1jVKUO8KnNjUxouUc6xQu1-L2hsfo" alt="Fora da Copa, Haaland cita o Brasil como uma das favoritas ao título" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Em entrevista à TV britânica, norueguês listou quatro seleções que vê como as mais fortes.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTXvCd_lpdNxYiixjaPnJOgaVCFTN8D34fgRdmM8j1ERMC0NUko0Wb-ejzF9l4AJGU_9-xYFHUb" alt="Why isn&#39;t Manchester City&#39;s Erling Haaland at the 2022 World Cup?..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>THE biggest tournament in football is upon us where 32 countries will battle it out for World Cup glory, yet some household names won&#39;t feature in Qat.</p></div>
             </div>
         </a>
         </Template></>;
