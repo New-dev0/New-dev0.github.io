@@ -24,7 +24,7 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Губернатор Орловской области заявил, что беспилотник ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRSnxdw1hYxm8-kYeXAF8ZCKV1mk426GfPdcSWYf-juFRkgIztRy4AJ-buOat7334fdaybp8Ujz" alt="Губернатор Орловской области заявил, что беспилотник ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSkMioShvTpXKaGcLPcnRHOsIYEJKH6m8r2tSQ-5__EysgC66Dc_MzktoBt1E2H-bRl48SN0wAe" alt="Губернатор Орловской области заявил, что беспилотник ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Губернатор Орловской области Андрей Клычков сообщил, что беспилотный летательный аппарат, предположительно, «осуществил подрыв» нефтебазы в поселке Стальной&nbsp;...</p></div>
             </div>
         </a><a href='https://www.vedomosti.ru/politics/news/2022/11/16/950537-orlovskoi-oblasti-soobschili-ob-atake-bespilotnikom-neftebazi'>
@@ -41,13 +41,6 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR_OM0oiGxG86HslWWPXiDsQHVYWd8B4Ij9ckUcYwR0gF0hWJRH18hyrH3mDF0oUdyn_sl9OtNIfw" alt="Украинский БПЛА ударил в нефтяной резервуар Транснефти в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Пожара не случилось, поскольку резервуар был заполнен лишь на 25%, удар пришелся выше уровня нефти. Внешняя стенка оказалась поврежденной - разрыв диаметром&nbsp;...</p></div>
             </div>
-        </a><a href='https://focus.ua/world/537225-pochti-170-km-do-granicy-s-ukrainoy-v-orlovskoy-oblasti-rf-vzorvalas-neftebaza-foto'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Почти 170 км до границы с Украиной: в Орловской области РФ ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSRDhsRV7VsI_YrAL1k2neBsl5PYvEjCj0UYZPMDXT6k8FzPaHHoS2pC-uWwaWPfkzqRwkgmuBR" alt="Почти 170 км до границы с Украиной: в Орловской области РФ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Местные власти говорят о прилете беспилотника по объекту в селе Стальной Конь. С начала полномасштабной войны России с Украиной в регионе еще не раздавались&nbsp;...</p></div>
-            </div>
         </a><a href='https://life.ru/p/1539262'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>В Сети опубликовали первое фото нефтебазы в Орловской ...</h3>
@@ -55,12 +48,19 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ8jSUoGIMUCXV96PlKgQB_Fxzo2LLiZ7MWXPD2nbRlLlnDvIfMEk-E4MxQaAH_gNydKaWk_FzQ" alt="В Сети опубликовали первое фото нефтебазы в Орловской ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>В Сети появилась первая фотография нефтебазы в селе Стальной Конь Орловской области, которую атаковал беспилотник. Снимок опубликован в группе &quot;Инцидент&nbsp;...</p></div>
             </div>
-        </a><a href='https://readovka.news/news/120754'>
+        </a><a href='https://www.nakanune.ru/news/2022/11/16/22686911/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Беспилотник осуществил подрыв нефтебазы в Орловской ...</h3>
+                <h3>В Орловской области беспилотник взорвал нефтебазу</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTqWG9qgHScYC72e0Km8PFmyjg4Lvmd1IpTFIntmvM846c0qvBpLsk0moVpm8OKRQjch9wrQXvB" alt="Беспилотник осуществил подрыв нефтебазы в Орловской ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>По его словам, пострадавших нет. На месте работают оперативные службы. Ранее Readovka писала Над Валуйками силами ПВО сбита украинская «Точку-У»Обломки ракеты&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT9FcAWcrXoOYVT5nX2w3SatCsQDmuQe25gdiBorSTaj6TNNMYl54VqEglVwd9d9wQz8CrQgtwU" alt="В Орловской области беспилотник взорвал нефтебазу" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>&quot;Сегодня около 4 утра предположительно беспилотный летательный аппарат осуществил подрыв нефтебазы в с. Стальной Конь. Пострадавших нет. На месте работают все&nbsp;...</p></div>
+            </div>
+        </a><a href='https://newizv.ru/news/incident/16-11-2022/gubernator-orlovskoy-oblasti-klychkov-zayavil-o-podryve-neftebazy-s-drona'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Губернатор Орловской области Клычков заявил о подрыве ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTRfbBNdaFTnJ3QIWbe3xqAidPTHAypfJ7yS2Bd5mnMvqF4Eoy0LkwZiTjUTqqxXArqR4P5fJqu" alt="Губернатор Орловской области Клычков заявил о подрыве ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В орловском селе Стальной Конь нефтебаза - терминал трубопровода &quot;Дружба&quot; - рано утром в среду была подорвана с беспилотного летательного аппарата ночью на&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

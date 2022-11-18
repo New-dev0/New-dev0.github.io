@@ -11,28 +11,21 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Germany"/>
         <meta name="description" content="Trending News about Germany" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Germany</h1>
-            <Image width={800} height={500} src="https://www.thinkgeoenergy.com/wp-content/uploads/2022/11/PT-images_5.jpg" alt="Germany"/>
+            <Image width={800} height={500} src="" alt="Germany"/>
             <h3>Recent News</h3>
-            <a href='https://www.thinkgeoenergy.com/zerogeo-commences-aerial-survey-for-geothermal-potential-of-lower-saxony-germany/'>
+            <a href='https://www.ft.com/content/c9716512-268e-4346-8d6d-a811f8ce3b75'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ZeroGeo commences aerial survey for geothermal potential of ...</h3>
+                <h3>France and Germany to fire up stalled fighter jet project</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRtuSBbFcSPpMzRL6Daqbb7ZwYxWcKBjOK9Xb6xh7AD-npN9C7KX9OVc458LQWW9qLpnkrRRFmb" alt="ZeroGeo commences aerial survey for geothermal potential of ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The aerial gravity and magnetics survey to evaluate the geothermal potential of Lower Saxony, Germany is set to commence by mid to late November 2022.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQmYqAYeSvYf794-qx7PUe2UdK42BanYhQgwfK0BcNPSq4Sz0eZ7NfzzVzPoEp2m8Bqv1IwHsJs" alt="France and Germany to fire up stalled fighter jet project" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The two countries and two of the main companies involved, Airbus and Dassault Aviation, are close to formally advancing to a crucial stage of the Future Combat&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.france24.com/en/africa/20221116-germany-to-end-participation-in-un-peacekeeping-mission-in-mali'>
+        </a><a href='https://cen.acs.org/business/finance/Another-bad-quarter-Germanys-chemical/100/i41'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Germany to end participation in UN peacekeeping mission in Mali</h3>
+                <h3>Another bad quarter for Germany&#39;s chemical sector</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSHwo6R71GP-82vFRVs5GOaSzsRQ24dmOSoLP9WQ7jlFP-j2YaonBHlgZYRQoKc8z5mE43KgfVK" alt="Germany to end participation in UN peacekeeping mission in Mali" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The German military have been in Mali since 2013 with a presence of up to 1,400 soldiers as part of the MINUSMA mission. The German troops are in part meant to&nbsp;...</p></div>
-            </div>
-        </a><a href='https://farmersreviewafrica.com/germany-commits-eur15m-to-pay-poor-rural-people-in-preserving-ecosystems/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Germany commits EUR15m to pay poor rural people</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSlaSKw3rtPxatCM-Vq9zHdb8RgYWNdu622OMj75N6EtfWwIgoyw_mzVxjUFF7pouqR_kk34Mt3" alt="Germany commits EUR15m to pay poor rural people" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Germany&#39;s financing pledge is also a way to encourage the international community to diversify financial instruments to fund sustainable climate adaptation and&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTuHhGvyJuk5f19hN6Gb6U4UiambewUqnWciicag-jkRmWWMogvOiQ9vNQ9Jmq3Q0s5zJiOJDAG" alt="Another bad quarter for Germany&#39;s chemical sector" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Evonik&#39;s heaquarters building. Credit: Evonik Industries. Evonik Industries is one of several large German chemical firms that is growing despite tough market&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

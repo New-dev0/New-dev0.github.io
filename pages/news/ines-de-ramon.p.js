@@ -11,56 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Ines de Ramon"/>
         <meta name="description" content="Trending News about Ines de Ramon" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Ines de Ramon</h1>
-            <Image width={800} height={500} src="https://i.f1g.fr/media/cms/1200x630_crop/2022/11/16/5be3e81493dfb65a7209bfb9da43433cc84d88d86587787ac9af845e890a9bb0.jpg" alt="Ines de Ramon"/>
+            <Image width={800} height={500} src="https://s2.glbimg.com/vjTkEBdIPOHd4JQEPEyMBehRuv8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2022/a/O/FvhU0aStuwldskYddGSg/brad-pitt-ines-de-ramon-report-dating-few-months-ftr.jpg" alt="Ines de Ramon"/>
             <h3>Recent News</h3>
-            <a href='https://madame.lefigaro.fr/celebrites/actu-people/qui-est-ines-de-ramon-apercue-au-bras-de-brad-pitt-en-plein-concert-de-bono-20221116'>
+            <a href='https://glamour.globo.com/entretenimento/noticia/2022/11/brad-pitt-esta-realmente-interessado-em-ines-de-ramon-estao-namorando-ha-alguns-meses-diz-site.ghtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Qui est Ines de Ramon, aperçue au bras de Brad Pitt en plein ...</h3>
+                <h3>Brad Pitt está realmente interessado em Ines de Ramon: &quot;Estão ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTc1Gj6HeWUa1kuVqhhqICpwsLJVhB53NAUN64OxGjKZhlxbWW2dPYrEMhIcgL_jWebZOld0UT1" alt="Qui est Ines de Ramon, aperçue au bras de Brad Pitt en plein ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brad Pitt aurait-il trouvé chaussure à son pied ? Les derniers clichés du tabloïd britannique Daily Mail le montrent en train de serrer contre lui une&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSRbGOlrQHKe7quLCwyvBElE4eUJ3iy66APv51vBRfp4r-6AaWqoOOJOaB4kvkXYmqhKADa6hCx" alt="Brad Pitt está realmente interessado em Ines de Ramon: &quot;Estão ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Seis anos depois que Brad Pitt e Angelina Jolie se separaram, o ator teria encontrado uma faísca com Ines de Ramon.</p></div>
             </div>
-        </a><a href='https://www.closermag.fr/people/brad-pitt-en-couple-qui-est-ines-de-ramon-sa-nouvelle-compagne-de-29-ans-1668013'>
+        </a><a href='https://www.eonline.com/br/news/1354964/a-verdade-sobre-a-relacao-de-brad-pitt-e-ines-de-ramon-ex-de-paul-wesley'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brad Pitt en couple : qui est Ines de Ramon, sa nouvelle compagne ...</h3>
+                <h3>A verdade sobre a relação de Brad Pitt e Ines de Ramon, ex de Paul ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTVgHmq5fmN1NCxqQoBW17hUSmSwxHbGtFo8jUq8yKewE33I73M9u_-ZgXpq52uUZdzOlf8X0iQ" alt="Brad Pitt en couple : qui est Ines de Ramon, sa nouvelle compagne ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brad Pitt serait de nouveau amoureux et cela semble se confirmer : selon le Daily Mail, l&#39;élue de son coeur n&#39;est autre qu&#39;Ines de Ramon, âgée de 29 ans,&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRz17uVE5SLjaltiggAsSmmjSerMkMaRPujGdfxna9aL_arVNULTOxRmCK-h4EqCV9OiL7u_3hQ" alt="A verdade sobre a relação de Brad Pitt e Ines de Ramon, ex de Paul ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Brad Pitt está namorando Ines de Ramon? O E! News tem detalhes exclusivos sobre o relacionamento após eles serem flagrados juntos em um show do Bono em Los&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.voici.fr/news-people/brad-pitt-qui-est-ines-de-ramon-la-sublime-brune-a-son-bras-au-concert-de-bono-743031'>
+        </a><a href='https://www.terra.com.br/diversao/gente/brad-pitt-e-visto-em-show-com-ines-de-ramon,f1b90faacf951c37ef4066fefa71ccb1zm8dijvb.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brad Pitt : qui est Inès de Ramon, la sublime brune à son bras au ...</h3>
+                <h3>Brad Pitt é visto em show com Ines de Ramon</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS-8ArDKlccoheJw0NuMQd23Ul9uGkzSafxUM7wkBiia31oLaKO-3Wf_I6Nipl_qJf5nTCTDzxi" alt="Brad Pitt : qui est Inès de Ramon, la sublime brune à son bras au ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brad Pitt est-il tombé amoureux ? Ce dimanche 13 novembre, le comédien a été vu en compagnie d&#39;une mystérieuse et sublime brune. Cette dernière s&#39;a...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRhXAuJSwlSy0jKhfGrZKWmS8ZGPisl5OnSQA3TMczPKo5UhH5psNtjXcCT96f9YnJ19mrNADe0" alt="Brad Pitt é visto em show com Ines de Ramon" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Os dois foram vistos juntos em um show do Bono Vox, em Los Angeles (EUA)</p></div>
             </div>
-        </a><a href='https://www.20min.ch/fr/story/brad-pitt-proche-dines-de-ramon-962897140806'>
+        </a><a href='https://br.noticias.yahoo.com/brad-pitt-e-ines-ramon-111500327.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brad Pitt proche d&#39;Ines de Ramon</h3>
+                <h3>Brad Pitt e Ines de Ramon estão namorando &#39;há alguns meses&#39;</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRLmp0x9ut7Swt9o0xEFIL4nGaBapQZQz9ExzRtBSNEDLJ08WjoB6IXfyOCGykMcalHDA2Tx-Wt" alt="Brad Pitt proche d&#39;Ines de Ramon" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brad Pitt et Ines de Ramon, ex-épouse de Paul Wesley et qui a étudié à Genève, ont été photographiés ensemble à un concert de Bono.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT55evwTwaK9U_NXg6KA1HJqLbfvXDoQvZL7gaHKAL3Q6EmIon779XhwLokvxbNJK_m0ra5UWyM" alt="Brad Pitt e Ines de Ramon estão namorando &#39;há alguns meses&#39;" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>O vencedor do Oscar, 58, foi flagrado com a ex-esposa do ator Paul Wesley, 29, e os amigos Cindy Crawford e seu marido Rande Gerber em um show de Bono em Los&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.lfm.ch/lifestyle/cote-people/brad-pitt-tombe-sous-le-charme-dines-de-ramon-lors-dun-concert/'>
+        </a><a href='https://istoe.com.br/brad-pitt-pode-estar-vivendo-affair-com-ines-de-ramon-segundo-jornal/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brad Pitt tombe sous le charme d&#39;Ines de Ramon lors d&#39;un concert</h3>
+                <h3>Brad Pitt pode estar vivendo affair com Ines de Ramon, segundo jornal</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRbLB9Jk5et2Afk_1HDhbxT26yPlrxTZL0tPX_sarkdyHAepqegVanX_HstQXPHT9MgPwUHKF-E" alt="Brad Pitt tombe sous le charme d&#39;Ines de Ramon lors d&#39;un concert" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Kevin Spacey fait face à sept nouvelles accusations criminelles pour des agressions sexuelles présumées contre un homme dans les années 2000. Publié. Il y a&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSlDPcts7G_OJAKcBaZe6Sts7gx5XvgTM7P6zSbhrAvXHjwkN98BbaVa2JiRfij9TwoKcL_z_1b5w" alt="Brad Pitt pode estar vivendo affair com Ines de Ramon, segundo jornal" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Brad Pitt foi flagrado em um show de Bono Vox, em Los Angeles, nos Estados Unidos, com uma possível nova namorada. Nos cliques obtidos e divulgados ontem&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.lematin.ch/story/brad-pitt-a-ete-apercu-tres-proche-dune-genevoise-lors-dun-concert-850627206646'>
+        </a><a href='https://www.uol.com.br/splash/noticias/2022/11/17/ines-de-ramon.htm'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brad Pitt a été aperçu très proche d&#39;une Genevoise lors d&#39;un concert</h3>
+                <h3>Empresária vista com Brad Pitt foi casada com ator de &#39;The Vampire ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQd9GP-lJFoVPnVQk-ABLa03voSONTBBldIHJUpNyJ-HXqZbtwmlKMW6ofoWp-aVqC_fcwzP8fP" alt="Brad Pitt a été aperçu très proche d&#39;une Genevoise lors d&#39;un concert" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>La star aurait présenté Inès de Ramon à plusieurs de ses amis lors du show de Bono, à Los Angeles.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTv3Yi_RceIBriJsM_97RP8E4NPbCleSZzirV_ZKLjlgr6MWqg0FWyZ9nSeyYMrpwX0bKz3nN_8" alt="Empresária vista com Brad Pitt foi casada com ator de &#39;The Vampire ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ela assumiu o relacionamento com o astro de &quot;The Vampire Diaries&quot; em 2018, e no ano seguinte se casou com ele. Saiba quem é a empresária apontada como novo&nbsp;...</p></div>
             </div>
-        </a><a href='https://mcetv.ouest-france.fr/mon-mag-buzz/people/brad-pitt-frequente-une-nouvelle-femme-apres-emily-ratajkowski-16112022/'>
+        </a><a href='https://hollywoodforevertv.com.br/noticias/famosos/quem-e-ines-de-ramon-tudo-sobre-o-novo-affair-de-brad-pitt.phtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brad Pitt fréquente une nouvelle femme après Emily Ratajkowski ?</h3>
+                <h3>Quem é Ines de Ramon? Tudo sobre o novo affair de Brad Pitt</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRouN7djeQtPsZKNUFPb9e5TIYO-HL5NZ6cJinRCKacJQkfxbNjnRHu6IuvRozyPvX-rBgLRWcW" alt="Brad Pitt fréquente une nouvelle femme après Emily Ratajkowski ?" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brad Pitt a récemment été photographié en compagnie d&#39;une femme dans les coulisses du concert de Bono, à Los Angeles.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSbuTKjPf4rCMGRaGe4Qm2PUd0MneGNwoDrfYJnXnLiOdQJ9m4JIdHbmMWpWnv9BKdqtfcIP_vl" alt="Quem é Ines de Ramon? Tudo sobre o novo affair de Brad Pitt" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Tudo indica que o romance é real! No último domingo (13), o ator Brad Pitt foi flagrado nos bastidores de um show de Bono Vox, em Los Angeles, na companhia&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

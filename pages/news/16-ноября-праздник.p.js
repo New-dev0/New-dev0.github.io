@@ -20,19 +20,19 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSkis4I7OS1X-uxLh8GO1CfCQu6hkbl13gUyzE1W1GWuUBNPtpvOjD6cpVM_5jU-ANaLJJptc-6" alt="16 ноября: народные традиции, приметы погоды и запреты дня" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>16 ноября 2022 года отмечается народный праздник день Анны. Узнайте, какие обряды проводятся в этот день, что нельзя делать и какие приметы погоды.</p></div>
             </div>
-        </a><a href='https://dni.ru/society/2022/11/16/513201.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Анна Холодная: народные приметы в праздник 16 ноября</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQocPyKlRU6a7offwV06KhscQabBKXJsq1fz45eVbB6jFdTM7QPJIvGDDZa5x8e1XGEsItNIxI5" alt="Анна Холодная: народные приметы в праздник 16 ноября" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>16 ноября 2022 года православные верующие вспоминают княгиню Анну Всеволодну, дочь Великого киевского князя Всеволода Ярославовича.</p></div>
-            </div>
         </a><a href='https://ntr.city/news/society/110826/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Аннин день: что можно и нельзя делать 16 ноября</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRSUq7vjZVSlF_9gBX-meBjjASOArLqxOn4Hv4KLT0p2v6bsLTeHywghoOiEnxIdMm2GPN8h9-Y" alt="Аннин день: что можно и нельзя делать 16 ноября" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>В этот день православная церковь вспоминает княгиню Анну Всеволодну – дочь Великого киевского князя Всеволода Ярославовича. Когда Анна достигла 12-летия,&nbsp;...</p></div>
+            </div>
+        </a><a href='https://dni.ru/society/2022/11/16/513201.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Анна Холодная: народные приметы в праздник 16 ноября</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQocPyKlRU6a7offwV06KhscQabBKXJsq1fz45eVbB6jFdTM7QPJIvGDDZa5x8e1XGEsItNIxI5" alt="Анна Холодная: народные приметы в праздник 16 ноября" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>16 ноября 2022 года православные верующие вспоминают княгиню Анну Всеволодну, дочь Великого киевского князя Всеволода Ярославовича.</p></div>
             </div>
         </a><a href='https://1plus1.ua/ru/novyny/ake-sogodni-svato-16-listopada-den-pamati-knazni-anni-vsevolodivni-anna-osinna-so-ne-mozna-robiti'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

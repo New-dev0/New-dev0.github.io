@@ -20,47 +20,47 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ9XI5fWLibPr0NGELj1DpEtlirT0v44MChJ7yC23cRKWDjbfkKqnuKBHrpX116RNHS34rkU4Fr" alt="Модель Наталья Водянова нашла третью сестру, которую когда ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Девушка по имени Дженнифер Бёрнс сделала ДНК-тест и подписалась на сервис по отслеживанию родственников. Как пишет издание, недавно она получила уведомление о&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.starhit.ru/novosti/v-seti-podozrevayut-chto-chudom-naidennaya-sestra-natali-vodyanovoi-na-samom-dele-ee-doch-848976/'>
+        </a><a href='https://www.starhit.ru/novosti/kak-dve-kapli-foto-muzhchiny-kotorogo-nazyvayut-otcom-veroyatnoi-dochki-vodyanovoi-849207/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>В Сети подозревают, что чудом найденная сестра Натальи ...</h3>
+                <h3>«Как две капли!»: фото мужчины, которого называют отцом ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT0EhQnnrrCR0_5yKbZho41uxrMaRtFYD4eW0PAMTerR1iB_2tAOsBzWixypca0TmbMCDaQssAh" alt="В Сети подозревают, что чудом найденная сестра Натальи ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Вчера публику шокировало внезапное воссоединение Натальи Водяновой с потерянной младшей сестрой. Однако появились новые версии о семейной тайне супермодели.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTjuy_LGxbTdtcTFt5Crv5_8s5tvKgshchJ8mueuwn-rzX8GTDPiaF9xxv_DmJRZon7Ni-VHzQ_" alt="«Как две капли!»: фото мужчины, которого называют отцом ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>После неожиданных откровений о найденной младшей сестре Наталья Водянова столкнулась с хейтом. Публика уверена, что модель соврала и на самом деле Дженнифер&nbsp;...</p></div>
             </div>
-        </a><a href='https://life.ru/p/1539365'>
+        </a><a href='https://peopletalk.ru/article/natalya-vodyanova-rasskazala-o-pervoj-vstreche-s-sestroj-kotoruyu-ne-videla-22-goda/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Сестра Водяновой, удочерённая американцами, может быть её ...</h3>
+                <h3>Наталья Водянова рассказала о первой встрече с сестрой ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRrxtD1bSIHWt-p9yX2W0jtJ7zTAI74JnrHvJgQs966ezH1IIzoPxvY-8S0QJbuYW6cJYmH7W5A" alt="Сестра Водяновой, удочерённая американцами, может быть её ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Алексея Васильева называют охотником за прекрасными лицами. Он открыл миру Ольгу Куриленко и Екатерину Шпицу. Теперь в Сети судачат, что с Водяновой скаута&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT2nLl29NKGJ89mKU-uHm8visMTbVuCGsdbmZE4L4G_OfEFRuJrDpfcAbzDStQ482rt9gJPldXZ" alt="Наталья Водянова рассказала о первой встрече с сестрой ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сегодня вышло интервью Натальи Водяновой для журнала Vogue. В нем модель рассказала о том, что нашла свою сестру Дженну, которую не видела 22 года.</p></div>
             </div>
-        </a><a href='https://2x2.su/news/znamenitosti/natalya-vodyanova-nashla-rodnuyu-sestru-kotoruyu-usynovili-amerikantsy-22-goda-nazad-.html'>
+        </a><a href='https://readovka.news/news/121055'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Наталья Водянова нашла родную сестру, которую удочерили ...</h3>
+                <h3>Найден потенциальный отец «сестры» супермодели Водяновой ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRjbYNsJgbTSEU7KMvjhH28CWQE3EDQG-LNwYqsLazIhAQoyJKZ5gCmz9n4S1VDOpox2FCTneC9" alt="Наталья Водянова нашла родную сестру, которую удочерили ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>p&gt; Наталья Водянова нашла свою сестру после 22 лет разлуки. В детстве девочку удочерила пара из США. Малышку отдали американцам. Потому что семье было нечем&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTmNw9xKlrDnyXBl-tvb8Tp0Q9GYpdcKCHb29GQlH-_9KbdOV3U1p1-tGrSV4B4TbUmBc2dA-Lb" alt="Найден потенциальный отец «сестры» супермодели Водяновой ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ранее Readovka писала о том, что блогер Лена Миро заявила, Блогер Лена Миро заявила, что не верит в историю с найденной сестрой Натальи ВодяновойВозникшая&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.wonderzine.com/wonderzine/life/eye-candy/266471-vodyanova-sister'>
+        </a><a href='https://mc.bk55.ru/news/article/26597/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Наталья Водянова нашла младшую сестру, с которой была ...</h3>
+                <h3>Наталья Водянова нашла родную сестру спустя 22 года</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSIK2_LzwmsTwnjrEObhXhIurbIudGb8opJNDUATMSu3ZrCYwPnh4kBWq93sqyQ0fLteI7eOoWZ" alt="Наталья Водянова нашла младшую сестру, с которой была ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Благодаря ДНК-тесту — Wonderzine.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQhES-LNudc_zEjtpvUq5skS0KgWNX9VyMt_cBoP8_rs7kuOIdABR7-ZpDFrSFlboOYvAzP5S3m" alt="Наталья Водянова нашла родную сестру спустя 22 года" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Супермодель Наталья Водянова нашла родную сестру, о чём рассказала журналу Vogue. Дженнифер Бернс (ранее девушку звали Машей) удочерила обеспеченная&nbsp;...</p></div>
             </div>
-        </a><a href='https://focus.ua/lifestyle/537314-natalya-vodyanova-nashla-svoyu-rodnuyu-mladshuyu-sestru-ot-kotoroy-ee-mat-otkazalas-v-detstve'>
+        </a><a href='https://life.ru/p/1539606'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Наталья Водянова нашла свою родную младшую сестру, от ...</h3>
+                <h3>&quot;Мечтал о дочке&quot;: Фотограф, от которого могла родить Водянова ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQzr8_O0dkOeR10JhlZwhWuxtfd7EnrIFiC_vv5HveBtndaJ1vZk72VEKNH5GsoIGsEATKaBSa6" alt="Наталья Водянова нашла свою родную младшую сестру, от ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В новом номере американского Vogue, для обложки которого снималась Дженнифер Лопес, появится еще одна интересная новость. Российская модель Наталья Водянова&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSVH5WdYFk3HdZFs4wNn5ViL17Eq6_aJvCwBAE4nY33yr63di4vn35Z06qWRglhiPSCgeMrasyF" alt="&quot;Мечтал о дочке&quot;: Фотограф, от которого могла родить Водянова ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Раскрывать все карты модельный скаут Алексей Васильев не стал, но согласился, что удочерённая американцами Маша-Дженнифер похожа на него.</p></div>
             </div>
-        </a><a href='https://spbdnevnik.ru/news/2022-11-16/v-seti-podozrevayut-chto-naydennaya-v-ssha-sestra-natali-vodyanovoy-na-samom-dele-ee-doch'>
+        </a><a href='https://spletnik.ru/303304'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>В Сети подозревают, что найденная в США сестра Натальи ...</h3>
+                <h3>Найденная сестра Натальи Водяновой, которую воспитывали ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRpvVneRZ8JLFhcSxw3Kpk9GtxMkpTnMqX2V6zC9mPaYUettWf84vVZRS5HCp1_VIQV1y8eWe3d" alt="В Сети подозревают, что найденная в США сестра Натальи ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>На момент рождения Маши Наталье было 18 лет. Фото: https://vk.com/natalia_vodianova?z=photo-938924_457259073%2Falbum-938924_00%2Frev.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR71c6uoDiFXA8SFTifNY8KElpqJg1JQWoshtdIW7LcOrTd8AXZvrI_iqxkKurAmAefS9GsTmN8" alt="Найденная сестра Натальи Водяновой, которую воспитывали ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Найденная младшая сестра Натальи Водяновой Мария (Дженнифер), о которой супермодель рассказала в интервью для декабрьского номера Vogue, на самом деле может&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

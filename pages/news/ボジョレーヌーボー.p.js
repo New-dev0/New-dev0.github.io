@@ -11,9 +11,16 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,ボジョレーヌーボー"/>
         <meta name="description" content="Trending News about ボジョレーヌーボー" /></Head><Template>
             <h1 style={{fontSize: "30"}}>ボジョレーヌーボー</h1>
-            <Image width={800} height={500} src="https://www3.nhk.or.jphttps://www3.nhk.or.jp/news/html/20221117/K10013893931_2211170615_1117064059_01_03.jpg" alt="ボジョレーヌーボー"/>
+            <Image width={800} height={500} src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221117-90000128-fct-000-3-thumb.jpg?exp=10800" alt="ボジョレーヌーボー"/>
             <h3>Recent News</h3>
-            <a href='https://www3.nhk.or.jp/news/html/20221117/k10013893931000.html'>
+            <a href='https://news.yahoo.co.jp/articles/132dcaceb231b54ec57a197daa6adad84b77dd4a'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>ボジョレーヌーボー解禁…稀にみるできながら価格が…【福島県 ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQtnCHQv5bKoP7LTANnAMdVup7jEir7WH3b8_vdMsg1oKipZAwYxC-L2530tASdF2-2wzu3PE6j" alt="ボジョレーヌーボー解禁…稀にみるできながら価格が…【福島県 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>フランス産ワインの新酒「ボジョレ・ヌーボー」の販売が１７日、解禁されました。ただことしは、輸送コストの上昇や円安などが大きく影響しています。</p></div>
+            </div>
+        </a><a href='https://www3.nhk.or.jp/news/html/20221117/k10013893931000.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>ボージョレ・ヌーボー きょう解禁 軍事侵攻影響などで値上がり</h3>
                 <div style={{ display: "flex" }}>
@@ -25,7 +32,7 @@ export default function Page() {
                 <h3>価格高騰の「ボージョレ・ヌーボー」解禁 試飲イベント再開も</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="" alt="価格高騰の「ボージョレ・ヌーボー」解禁 試飲イベント再開も" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>フランス産ワインの新酒「ボージョレ・ヌーボー」が１７日午前０時に解禁された。今年はウクライナ有事による航空運賃上昇などで輸入量が減り、価格も高騰。</p></div>
+                <p style={{marginLeft: "15px"}}>サントリーは、国内販売トップの「ジョルジュ デュブッフ ボジョレー ヌーヴォー」ブランドを展開し、主力商品（７５０ミリリットル）の参考価格は昨年より約１０００円&nbsp;...</p></div>
             </div>
         </a><a href='https://www.yomiuri.co.jp/economy/20221117-OYT1T50018/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -34,26 +41,26 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTDkvRfD75lyzG17DNaFhmTpB0oVE_PZhHjeILPzDr8vHuLnA6d23TJ5_ZUsbHGykszYCjRdD-Y" alt="ボージョレ・ヌーボー解禁、さっそく乾杯…今年は「発色良く果実 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>【読売新聞】 フランス産の新酒ワイン「ボージョレ・ヌーボー」の販売が１７日午前０時に解禁された。今年は「発色が良く、果実の甘みが広がるワインに仕上がっ&nbsp;...</p></div>
             </div>
-        </a><a href='https://news.yahoo.co.jp/articles/923c1fb05a4d0f9ddfb2c0d8f4713376a9dcc599'>
+        </a><a href='https://getnavi.jp/cuisine/808250/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>17日解禁のボージョレ・ヌーボー「過去10年で最高の出来栄え」も ...</h3>
+                <h3>「ボジョレー・ヌーボー」に沸くのは日米だけ？ ワイン好きの間で ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS5zr2CThVevpZ15nNFGNdOpYJTY94dxvEHyPeNJuG3AQ_rFJo45ToPbQf0G7_rQft-Gve8I_hH" alt="17日解禁のボージョレ・ヌーボー「過去10年で最高の出来栄え」も ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>11月の第3木曜日は、毎年恒例のボージョレ・ヌーボーの解禁日です。 今年は、円安や物価高騰の影響で様々な商品が値上げされていますが、その影響はワインにも及んで&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQouHoCeFKbduyoWPsLPN-t4nUZaTGxy-FUeiGllsB8zaXqbzU_Q2oLxpmxKzBDYt8WujDqfU0_" alt="「ボジョレー・ヌーボー」に沸くのは日米だけ？ ワイン好きの間で ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>フランス・ブルゴーニュ地方ボジョレーでつくられる「ボジョレーワイン」といえば、その新酒「ボジョレー・ヌーボー」が有名。2022年は11月17日が解禁日。</p></div>
             </div>
-        </a><a href='https://www.htb.co.jp/news/archives_18113.html'>
+        </a><a href='https://kahoku.news/articles/20221117khn000024.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>今年も歓声！ボージョレ・ヌーボー解禁 旨味が凝縮し濃い味わい ...</h3>
+                <h3>「ボージョレ・ヌーボー」解禁、仙台でもカウントダウンイベント</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSMm1mhW0r1e9aYfCrTRXEPRimFvqWZHc_ltPMjdvfTN-rsEkcrl-Iiz92gczIx4luZ20UgShqK" alt="今年も歓声！ボージョレ・ヌーボー解禁 旨味が凝縮し濃い味わい ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ことしもフランス産ワインの新酒＝「ボージョレ・ヌーボー」が解禁されました。 「3、2、1ボージョレ・ヌーボーが解禁となりました！！」。17日午前0時ちょうど、札幌&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTD_py8FLFsfSDPFBP3GEXZ9TLqhDr0AIUzrxS1y-PZs3r1x-9HDxX0NxzngN20mu2-RqIHpMmf" alt="「ボージョレ・ヌーボー」解禁、仙台でもカウントダウンイベント" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>フランス・ブルゴーニュ地方産ワインの新酒「ボージョレ・ヌーボー」の販売が１７日午前０時、解禁された。価格はロシアのウクライナ侵攻の影響による輸送費の上昇や&nbsp;...</p></div>
             </div>
-        </a><a href='https://news.tv-asahi.co.jp/news_economy/articles/000276066.html'>
+        </a><a href='https://www.mbc.co.jp/news/article/2022111700060893.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>円安で2倍以上に値上がり ボージョレ・ヌーボー解禁</h3>
+                <h3>MBCニュース | 解禁のボージョレ・ヌーボーも値上げ 去年の１．７ ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSXA7rEUhAhUm6PMd6gjjVPcgGQxPjsLrS9wgBs8MRyee32HY4yrYr4D6F58rZI8zxQo9wtQpn3" alt="円安で2倍以上に値上がり ボージョレ・ヌーボー解禁" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>今年、摘まれたばかりのブドウから作られたフランス産ワイン「ボージョレ・ヌーボー」の販売が17日午前0時に解禁されました。 解禁に合わせたイベントが3年ぶりに行&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTnwPNKibWn1g6ScObA8MbudMD4Wq0rjKt_raw0qyzXHhmD92WmgNNhCQmuCxTQkQssFcETevWf" alt="MBCニュース | 解禁のボージョレ・ヌーボーも値上げ 去年の１．７ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>取材しました。 ボージョレ・ヌーボーは、フランスのボージョレ地区でその年に収穫されたぶどうで作る新酒のことで、毎年１１月の第３木曜日が解禁日です。解禁日の１７日&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

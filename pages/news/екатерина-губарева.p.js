@@ -17,15 +17,22 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>В Геническе пропала замглавы сформированной Россией ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSvmiuF6K97bd4l9JOWGVj-WiQ5jhMlz1NzIFD9sxkCdUWrgDtb7c6-biXrk6cWtjCtVqK0njSC" alt="В Геническе пропала замглавы сформированной Россией ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRuBbPBsZ7kvhN2lFDt5QJEnfIL5LpcNir6eIpd5t5uXYk4aqKw1r16OlKug0h2VDqIl09ylu6L" alt="В Геническе пропала замглавы сформированной Россией ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>В аннексированной части Херсонской области пропала замглавы сформированной Россией администрации региона Екатерина Губарева. Об этом сообщил ее муж Павел&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.pravda.com.ua/rus/news/2022/11/16/7376600/'>
+        </a><a href='https://www.kommersant.ru/doc/5669596'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>В Геническе пропала коллаборантка Губарева – росСМИ</h3>
+                <h3>Муж херсонской чиновницы Екатерины Губаревой сообщил о ее ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRa-foU-DLljNJvD3V673otmIbC3tnc1De6pg6vKHnNtw3isabqGpXc-z2NYxyhmv9J22jHAmy8" alt="В Геническе пропала коллаборантка Губарева – росСМИ" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Российские СМИ заявили, что в Геническе пропала коллаборантка, так называемая &quot;вице-губернатор Херсонской области&quot; Екатерина Губарева – она не выходит на&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQo_5YJV3-gIhWm5MTlRhIdu1B5jWlHTb7-wWQvPX9vu25oTXk8fFiIQFh_cs_ltCNvYSOd978m" alt="Муж херсонской чиновницы Екатерины Губаревой сообщил о ее ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Заместитель главы российской администрации Херсонской области Екатерина Губарева сегодня, 17 ноября, будет освобождена. Об этом сообщил ее муж Павел&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.tatar-inform.ru/news/propala-zamestitel-gubernatora-xersonskoi-oblasti-ekaterina-gubareva-5886760'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Пропала заместитель губернатора Херсонской области ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="" alt="Пропала заместитель губернатора Херсонской области ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Заместитель главы администрации Херсонской области Екатерина Губарева пропала накануне вечером. Об этом сообщает ее супруг Павел Губарев в телеграм-канале.</p></div>
             </div>
         </a><a href='https://www.bfm.ru/news/513090'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -41,26 +48,12 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSyVPs592D51n0DMEMvqn1rivgxptRYwSzzKeOb75qAJiYvq0mOOyjaFQY5vIJZJte5wbWTHOrW" alt="В Херсонской области пропала замгубернатора Екатерина ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>«Народный губернатор» Донецка Павел Губарев рассказал, что его супруга Екатерина пропала и не выходит на связь уже целый день. | STARHIT.</p></div>
             </div>
-        </a><a href='https://focus.ua/voennye-novosti/537267-eks-gubernator-dnr-pavel-gubarev-zayavil-chto-v-okkupirovannom-genicheske-propala-ego-zhena'>
+        </a><a href='https://ura.news/news/1052603545'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&quot;Экс-губернатор ДНР&quot; Павел Губарев заявил о пропаже его жены ...</h3>
+                <h3>В Херсонской области пропала заместитель губернатора</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQFZmNPNH9vEbbeAE7Zw08CY359dXQiEVwBlnLdwTP0y1PkxmxueSfc6G3OkcXpgSh-Q7TwpQJy" alt="&quot;Экс-губернатор ДНР&quot; Павел Губарев заявил о пропаже его жены ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Екатерина Губарева исчезла 15 ноября в оккупированной части Херсонской области. Ее муж звонит «главе» оккупированной Херсонщины Владимиру Сальдо,&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.kommersant.ru/doc/5668903'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>СМИ: замглавы Херсонской области Губареву задержали по ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTPvbRGxxaqHL47jqBPiZ8ciRK-MHmndvn1catNYAvt-1tuCvDJG4cck-E1I1yXtC4BBKCeYx_n" alt="СМИ: замглавы Херсонской области Губареву задержали по ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>RT и ТАСС со ссылкой на собственные источники пишут, что заместитель главы правительства Херсонской области по цифровизации и социальной политике Екатерина&nbsp;...</p></div>
-            </div>
-        </a><a href='https://eadaily.com/ru/news/2022/11/16/zamgubernatora-hersonskoy-oblasti-gubareva-nashlas-ona-zaderzhana-smi'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Замгубернатора Херсонской области Губарева «нашлась», она ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ05DVmta-bKLhD0lUp6TKgwl_iaBCLLBqZFk4VQt1NuOaCZklk9KeI2GtjMuALyZPr52C2nkom" alt="Замгубернатора Херсонской области Губарева «нашлась», она ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Напомним, что Екатерина Губарева является заместителем главы правительства Херсонской области по цифровизации и социальной политике. Как сообщало EADaily, ранее&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT1JhBkg2jd1sNzWPFkT9c4VwxpcEepefCjW0ooIx0D_a7FKPaXI4tFSJjmVgRwVhs0vyu6LUUc" alt="В Херсонской области пропала заместитель губернатора" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Заместитель губернатора Херсонской области Екатерина Губарева пропала. Об этом сообщил ее супруг Павел Губарев. Только на URA.RU.</p></div>
             </div>
         </a>
         </Template></>;

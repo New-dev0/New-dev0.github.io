@@ -11,14 +11,21 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,PalmPay"/>
         <meta name="description" content="Trending News about PalmPay" /></Head><Template>
             <h1 style={{fontSize: "30"}}>PalmPay</h1>
-            <Image width={800} height={500} src="https://ibsintelligence.com/wp-content/uploads/2022/11/PalmPay.jpg" alt="PalmPay"/>
+            <Image width={800} height={500} src="https://h2g6j3q2.rocketcdn.me/wp-content/uploads/2022/11/image-32.png" alt="PalmPay"/>
             <h3>Recent News</h3>
-            <a href='https://ibsintelligence.com/ibsi-news/palmpay-obtains-nigeria-data-protection-regulation-compliance-in-data-protection/'>
+            <a href='https://www.techcityng.com/palmpay-proven-to-be-data-protection-compliant-by-nigeria-data-protection-regulation-ndpr/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>PalmPay obtains Nigeria Data Protection Regulation compliance in ...</h3>
+                <h3>PalmPay proven to be data protection compliant by Nigeria Data ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ9nsZdUCrfv3pCKbyE5QFkTSpNL2ZFHH4A8oiaLlszLpov-BnCqyr7tIXNRaO6BYS8DpAdZjVa" alt="PalmPay obtains Nigeria Data Protection Regulation compliance in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>PalmPay, a FinTech innovator aiming to make digital payment more accessible and flexible, has obtained a compliance status on obligations in.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSNFy2vQpl6IjAZVqP-PPDh71Mi3YOzDaUQ73vMygJt2Bh6T5JygCPaeOIGFZ0WUwoaKdQlIHG4" alt="PalmPay proven to be data protection compliant by Nigeria Data ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>To address this, The National Information Technology Development Agency (NITDA) Act of 2007 formed the statutory regulation for electronic governance and&nbsp;...</p></div>
+            </div>
+        </a><a href='https://african.business/2022/11/apo-newsfeed/palmpay-obtains-nigeria-data-protection-regulation-ndpr-compliance-in-data-protection/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>PalmPay Obtains Nigeria Data Protection Regulation (NDPR ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSNVKAYmjXqL-fSazJWTD_t_-P9LTMkgntXO7abcKYMvEoZ0QY2w3mBa4HUfyu_B61NOurCwsCj" alt="PalmPay Obtains Nigeria Data Protection Regulation (NDPR ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>PalmPay (www.PalmPay.com), a fintech innovator aiming to make digital payment more accessible and flexible, has obtained a compliance status on.</p></div>
             </div>
         </a><a href='https://www.citypeopleonline.com/young-people-go-crazy-for-payment-app-palmpay/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

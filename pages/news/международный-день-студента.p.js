@@ -1,0 +1,32 @@
+import {Template} from "../_template";
+import styles from "../../styles/Projects.module.css";
+import Head from "next/head";
+import { useMediaQuery } from './../useMediaQuery';
+import Image from "next/image";
+
+export default function Page() {
+    const md = useMediaQuery(960);
+    return <><Head>
+        <title>Международный день студента</title>
+        <meta name="keywords" content="news,trending,latest,sports,breaking,top,Международный день студента"/>
+        <meta name="description" content="Trending News about Международный день студента" /></Head><Template>
+            <h1 style={{fontSize: "30"}}>Международный день студента</h1>
+            <Image width={800} height={500} src="" alt="Международный день студента"/>
+            <h3>Recent News</h3>
+            <a href='https://www.masu.edu.ru/press/news/32136-segodnya-vo-vsyem-mire-otmechaetsya-mezhdunarodnyy-den-studenta'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Сегодня во всём мире отмечается Международный день студента</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSlE6DtDWKpM-8pbHuQwip7bKH_WVwfmANGrVIXLCvM4uXYNqqqXkxnEq5Gfvaf8VGvY1vl1N8o" alt="Сегодня во всём мире отмечается Международный день студента" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>p&gt;И пусть в России он менее популярен, чем 25 января, Мурманский арктический государственный университет с удовольствием поздравляет всех своих&nbsp;...</p></div>
+            </div>
+        </a><a href='https://vitvesti.by/index.php/obrazovanie/v-mezhdunarodnyi-den-studentov-v-polotckom-gosudarstvennom-universitete-prokhodit-den-studencheskogo-samoupravleniia.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>В Международный день студентов в Полоцком государственном ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT9iGSLc0xBhYwT2Xvs1Jp4q_cfZXmvhPossI5VQss6GPqgAsmzH-Bf8pLcoGqpBgMP8vEPGiTb" alt="В Международный день студентов в Полоцком государственном ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Утро в университете началось с церемонии передачи портфелей руководящих лиц их дублерам. Каждому из них было выдано задание.</p></div>
+            </div>
+        </a>
+        </Template></>;
+}
