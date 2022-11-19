@@ -13,7 +13,21 @@ export default function Page() {
             <h1 style={{fontSize: "30"}}>Алабуга</h1>
             <Image width={800} height={500} src="https://im.kommersant.ru/SocialPics/5669446_26_2294808_439096226" alt="Алабуга"/>
             <h3>Recent News</h3>
-            <a href='https://www.kommersant.ru/doc/5669446'>
+            <a href='https://rt-online.ru/alabuga-prizvala-spetsialistov-iz-rf-vernutsya-domoj-s-pomoshhyu-reklamy-na-tajms-skver/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>«Алабуга» призвала специалистов из РФ вернуться домой с ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="" alt="«Алабуга» призвала специалистов из РФ вернуться домой с ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Особая экономическая зона (ОЭЗ) «Алабуга» призвала российских специалистов вернуться в РФ, разместив рекламу на Таймс-сквер в Нью-Йорке.</p></div>
+            </div>
+        </a><a href='https://logirus.ru/news/custom_and_ved/tatarstanskaya_oez_-alabuga-_-veshchala-_na_tayms-skver.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Татарстанская ОЭЗ «Алабуга» «вещала» на Таймс-сквер</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="" alt="Татарстанская ОЭЗ «Алабуга» «вещала» на Таймс-сквер" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>18 ноября 2022. Обращение было адресовано специалистам в области авиастроения, микроэлектроники, биотехнологий. Татарстанская ОЭЗ «Алабуга» «вещала» на&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.kommersant.ru/doc/5669446'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Особая экономическая зона «Алабуга» разместила рекламу на ...</h3>
                 <div style={{ display: "flex" }}>
@@ -40,27 +54,6 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ_r-JzaL-9IiF8vcovipqz5t2Fn8ebF2tnDoEgXWfcDBHkONrRlk2oNMLBsYlRHpQnUayDjluT" alt="«Пора возвращаться домой»: ОЭЗ «Алабуга» разместила ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Те кто поместил рекламу решили что специалисты по микроэлектронике, авиации и IT толкутся на Times Square. А где же им ище быть? Неизвестный 17.11.2022 в 18:53.</p></div>
-            </div>
-        </a><a href='https://www.business-gazeta.ru/article/572141'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>«Если цель была хайпануть, она достигнута: «Алабуга» залезла ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSnZoZnpxiJ2vP3hCIfi5J5qouzt-PCYTZnNbBnbODiR5oJgKzfO6lIKWgRur7DKUC0MO1mujxo" alt="«Если цель была хайпануть, она достигнута: «Алабуга» залезла ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>«Кто не заметил, мы конкурируем на всех фронтах с корпорациями мирового уровня», — говорит гендиректор ОЭЗ «Алабуга» Тимур Шагивалеев, объясняя появление&nbsp;...</p></div>
-            </div>
-        </a><a href='https://life.ru/p/1539572'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ОЭЗ &quot;Алабуга&quot; призвала специалистов вернуться в РФ ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTts-bI3ng5hpbp3XQdKBdyQ9J9RACHJ_-d67dXydthvB9u8bZCJcT_l_RgU_SSx_Ur6G1oZOKX" alt="ОЭЗ &quot;Алабуга&quot; призвала специалистов вернуться в РФ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Особая экономическая зона &quot;Алабуга&quot; (Татарстан) призвала специалистов прилететь обратно в Россию, разместив рекламу на площади Таймс-сквер в Нью-Йорке. На&nbsp;...</p></div>
-            </div>
-        </a><a href='https://chelny-izvest.ru/news/business/na-tayms-skver-v-nyu-yorke-poyavilas-reklama-oez-alabuga-na-russkom-yazyke'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>На «Таймс сквер» в Нью-Йорке появилась реклама ОЭЗ ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSaL2I6TPF0xwPQ7JR21_l4D03q_M2RnoIcXFugGJ6OsjsabaAJHf74gSHonZtaX1U1GUvFNNJ8" alt="На «Таймс сквер» в Нью-Йорке появилась реклама ОЭЗ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>На главной площади Нью-Йорка появилась реклама татарстанского предприятия – особая экономическая зона «Алабуга», с надписью на русском языке «Пора возвращаться&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

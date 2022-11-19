@@ -11,49 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Shanquella Robinson"/>
         <meta name="description" content="Trending News about Shanquella Robinson" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Shanquella Robinson</h1>
-            <Image width={800} height={500} src="https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/5E3FUI7NSFAUVOYME2MVNWEVUY.png?_a=ATO2Bfe0" alt="Shanquella Robinson"/>
+            <Image width={800} height={500} src="https://assets3.cbsnewsstatic.com/hub/i/r/2022/11/18/3e766e81-19d0-4226-a079-c193377aacdb/thumbnail/1200x630/f4f1cbc59b9af12497afa82b5a0f38a7/capture.jpg" alt="Shanquella Robinson"/>
             <h3>Recent News</h3>
-            <a href='https://www.click2houston.com/news/local/2022/11/17/why-record-and-not-intervene-horrific-video-allegedly-shows-25-year-old-charlotte-woman-being-beaten-shortly-before-dying-in-mexico/'>
+            <a href='https://www.cbsnews.com/news/shanquella-robinson-death-mexico-investigates-american-woman-seen-being-beaten-video/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Why record and not intervene? Horrific video allegedly shows 25 ...</h3>
+                <h3>Shanquella Robinson death: Mexico investigates death of U.S. ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR-9dheaJfVgvY7UOVjG_J2zYtp8OYdIYie5--FkYGeD8Z7DkDh9SQXT8LxrXK_T7e1j6cgeLOy" alt="Why record and not intervene? Horrific video allegedly shows 25 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>25-year-old Shanquella Robinson was pronounced dead a day after arriving in Cabo for a birthday trip with a group of her friends.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQzT4ujJLFiIpJjSaNE7mBgT_wYiUtGKK_bS6U7toKEkaZu0YHnEFe4EIQZpiVOmHTy3C5IB2tl" alt="Shanquella Robinson death: Mexico investigates death of U.S. ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A video apparently taped at a luxury villa in San Jose del Cabo shows one woman, apparently an American, beating another woman.</p></div>
             </div>
-        </a><a href='https://www.bet.com/article/6wb1cp/shanquella-robinson-25-beaten-to-death-mexico-vacation'>
+        </a><a href='https://www.okayplayer.com/news/shanquella-robinson-mexico-kenneka-jenkins.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shanquella Robinson, 25, Allegedly Beaten Before Her Death While ...</h3>
+                <h3>The FBI Is Now Investigating The Death Of Shanquella Robinson</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSfa822bJE9KcplcGWGuNDACEGMRJrIX1gtYhqSbkV79AJskP8K3g4SZdrzrViLtl5WUM5_X96u" alt="Shanquella Robinson, 25, Allegedly Beaten Before Her Death While ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Family and friends of the Charlotte woman are demanding answers over what happened.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSWnKct8hfnKInB-59js3DrUlcQJn_lRiuW4sT7VSdj9QPdKPh5qk8q2Lo0GphIg6kIGbjZ3rbo" alt="The FBI Is Now Investigating The Death Of Shanquella Robinson" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Shanquella Robinson mysteriously died while in Mexico. Some people are comparing the incident to what happened to Kenneka Jenkins in 2017.</p></div>
             </div>
-        </a><a href='https://www.dailymail.co.uk/news/article-11441511/North-Carolina-woman-Shanquella-Robinsons-death-reclassified-homicide-feds-join-probe.html'>
+        </a><a href='https://www.wcnc.com/article/news/national/shanquella-robinson-charlotte-woman-dies-mexico-traveling-friends/275-ff91f87a-1d78-4c41-b0ea-e8f94a2482aa'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>North Carolina woman Shanquella Robinson&#39;s death is reclassified ...</h3>
+                <h3>Charlotte woman dies in Mexico while traveling with friends</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRDXBFfn8eLxoaZJpH-DnBrLer504sF4w9SiVwA3E7_gqO6baYDcYFNs9T0DlijDcxYLWhsV_y4" alt="North Carolina woman Shanquella Robinson&#39;s death is reclassified ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mexican officials are officially probing Shanquella Robinson&#39;s death as a homicide after an autopsy revealed her neck was broken and spine severed.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRa_ltcXvtlkjJya0miEK9oE3GGwmTlbRBV64FgDgP7v3ORRzaG7ZCZTB2-pNa5BBlh-VuqifCx" alt="Charlotte woman dies in Mexico while traveling with friends" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Charlotte woman dies in Mexico while traveling with friends ... The family of Shanquella Robinson is asking Mexican officials to thoroughly investigate her death.</p></div>
             </div>
-        </a><a href='https://www.rollingstone.com/culture/culture-news/shanquella-robinson-death-criminal-matter-investigation-1234632271/'>
+        </a><a href='https://nypost.com/2022/11/18/shanquella-robinsons-death-in-mexico-probed-as-killing-after-cops-blamed-alcohol/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shanquella Robinson&#39;s Death Is Now Being Treated As Homicide</h3>
+                <h3>US tourist&#39;s death at Mexican resort now probed as homicide after ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSFP6tj4XC7ii1hHFzDAVZHFDKoLYgGL1ZgMI_r0isT_c2l_nCzhVGHohj4X_9VLCnVtb7k9tMy" alt="Shanquella Robinson&#39;s Death Is Now Being Treated As Homicide" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The death of Shanquella Robinson, a Charlotte hair braider who died on a trip to Cabo San Lucas, Mexico, is now being treated as a potential homicide by Mexican&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.yahoo.com/lifestyle/shanquella-robinsons-death-heartbreaking-she-213513843.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Shanquella Robinson&#39;s Death Is Heartbreaking. Will She Receive ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ11Hlg6MPb4vyuuFe4tjAV7aLXI_p9m4WRokFUPZyNVwROjhcNbocSIfR53x9I12dBIPoNTVUO" alt="Shanquella Robinson&#39;s Death Is Heartbreaking. Will She Receive ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>On October 28, Shanquella Robinson traveled to San Jose del Cabo with six friends. According to her parents, they stayed in a rental villa in Fundadores,&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQsYn5x6ZisAg7szB_QG6aNnKKoj9Iei2Xk9ZqNeRnxv7hz_UZF14EFegH_uYrDNF6_5Vi_TYlt" alt="US tourist&#39;s death at Mexican resort now probed as homicide after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A North Carolina woman was found dead at a Mexican resort, where her friends said she had gotten alcohol poisoning – but a video allegedly shows her being&nbsp;...</p></div>
             </div>
         </a><a href='https://abcnews.go.com/International/mystery-surrounds-death-american-woman-mexico/story?id=93465685'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>American woman&#39;s death in Mexico investigated as femicide</h3>
+                <h3>Mexico investigates American woman&#39;s death as femicide, FBI ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSiUPJzPJs0b6G6yTkW5cq-z6lWh-uhKjSzcrAt4nCOUbGEtJHYnSP_lt3_Qfo9iqc9ikug24vu" alt="American woman&#39;s death in Mexico investigated as femicide" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSiUPJzPJs0b6G6yTkW5cq-z6lWh-uhKjSzcrAt4nCOUbGEtJHYnSP_lt3_Qfo9iqc9ikug24vu" alt="Mexico investigates American woman&#39;s death as femicide, FBI ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Shanquella Robinson, 25, of Charlotte, North Carolina, died while vacationing with friends in Mexico on Oct. 29.</p></div>
+            </div>
+        </a><a href='https://www.usatoday.com/story/news/nation/2022/11/18/mexican-officials-fbi-death-shanquella-robinson/10727341002/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Mexican officials, FBI investigating US woman Shanquella ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSUQIvmHm62UUU_BolPJj9tcuy1b-3DTP8u9MreBPMQ1YsJnk1wl0hTzqgIv0_LUQ7KHQDYfcpu" alt="Mexican officials, FBI investigating US woman Shanquella ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mexican prosecutors and the FBI have opened an investigation into the death of a U.S. woman, Shanquella Robinson, of Charlotte, North Carolina.</p></div>
             </div>
         </a>
         </Template></>;

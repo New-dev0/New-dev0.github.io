@@ -20,19 +20,19 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQw5vGItM_UKtsRWQxWAWle0-yTO8-A84xB-eWNJwK6lvKWO8hey9dT73mITYs68xbz7qBL6Ogd" alt="«Ужасно». Даниил Медведев объяснил, почему проиграл ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Российский теннисист Даниил Медведев рассказал, почему проиграл греку Стефаносу Циципасу во 2-м туре группового турнира Итогового чемпионата ATP.</p></div>
             </div>
+        </a><a href='https://www.sport-express.ru/tennis/atp/news/daniil-medvedev-prokommentiroval-porazhenie-ot-stefanosa-cicipasa-v-matche-itogovogo-turnira-atp-1999059/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Медведев — о поражении Циципасу: «Мне нужно было лучше ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ3aF3Q8sxIDwlphKTi0_e-gjzXafSluhl1OiIXrkQL4YzK-ozf94jsrhkZwc_BAenjdaaEDXr6" alt="Медведев — о поражении Циципасу: «Мне нужно было лучше ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Российский теннисист Даниил Медведев прокомментировал поражение от грека Стефаноса Циципаса в матче групповой стадии Итогового турнира ATP.</p></div>
+            </div>
         </a><a href='https://tennis-russia.ru/novosti/daniil-medvedev-ne-vyshel-v-pley-off/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Даниил Медведев не вышел в плей-офф - новости ФТР</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQLKe76XpZXbLiFdemJgSTyOEBWi98hNqvNgJKgi0ubVMDhZRIBxLgwmRKRG3NqjqEH0q-hREZB" alt="Даниил Медведев не вышел в плей-офф - новости ФТР" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Участники Итогового турнира АТР сезона-2022 в Красной группе сыграли два тура, определен один из полуфиналистов. Вторая четверка провела в Турине по два&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.sport-express.ru/tennis/atp/news/daniil-medvedev-prokommentiroval-to-chto-u-nego-sem-porazheniy-podryad-ot-igrokov-iz-top-10-reytinga-atp-1999155/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Медведев — о семи поражениях подряд от игроков из топ-10 ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQMcu49AboTRx_Xop77X1gOfEM7vniyHSOPeNkmnSqY9oQYOfeUiyPqAWhRDcFMo4LXiYki9Eha" alt="Медведев — о семи поражениях подряд от игроков из топ-10 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Российский теннисист Даниил Медведев прокомментировал то, что у него семь поражений подряд от игроков, занимающих места в первой десятке рейтинга ATP.</p></div>
             </div>
         </a><a href='https://www.kommersant.ru/doc/5669228'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

@@ -11,14 +11,14 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,モンハンサンブレイク"/>
         <meta name="description" content="Trending News about モンハンサンブレイク" /></Head><Template>
             <h1 style={{fontSize: "30"}}>モンハンサンブレイク</h1>
-            <Image width={800} height={500} src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221117-00000008-ascii-000-1-view.jpg?exp=10800" alt="モンハンサンブレイク"/>
+            <Image width={800} height={500} src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221118-00000011-ascii-000-1-view.jpg?exp=10800" alt="モンハンサンブレイク"/>
             <h3>Recent News</h3>
-            <a href='https://news.yahoo.co.jp/articles/6c9da086abe7010cba3fed4fde6bc83f3b9468c9'>
+            <a href='https://news.yahoo.co.jp/articles/e29c2423bfaaf9b10b9993931281072907e52a8b'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>『モンハンサンブレイク』MR上げの救済クエスト「黒蝕の咆哮」が ...</h3>
+                <h3>『モンハンサンブレイク』第3弾配信記念！山田裕貴さんと一狩り行 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSvkD4J3e5WhkQQXY_VguhTTdHwVPjKfbwVFfIGe9ZkKc-3E0OZURW8Zjo_aogBFbRhlMVAqtRx" alt="『モンハンサンブレイク』MR上げの救済クエスト「黒蝕の咆哮」が ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>2022年11月17日、カプコンは『モンスターハンターライズ：サンブレイク』にてイベントクエスト「黒蝕の咆哮」を配信。本コンテンツは無料でダウンロード可能だ。</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQF3OeiAQcx83__AfMwj7Ru5KZJ5YWi3FkNGN1UQvY3UJUsV6DBZ0if9sJlTC3_G9oJ1kuPY2qm" alt="『モンハンサンブレイク』第3弾配信記念！山田裕貴さんと一狩り行 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>2022年11月17日、カプコンは11月24日の20時より、モンハン特派員の山田裕貴さんと『モンスターハンターライズ：サンブレイク』のマルチプレイが楽しめる実況生&nbsp;...</p></div>
             </div>
         </a><a href='https://www.4gamer.net/games/596/G059639/20221116123/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

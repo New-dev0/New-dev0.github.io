@@ -11,14 +11,14 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Friendlies"/>
         <meta name="description" content="Trending News about Friendlies" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Friendlies</h1>
-            <Image width={800} height={500} src="https://editorial.uefa.com/resources/027b-169ceb4552a4-e9a4df906300-1000/eq.jpeg" alt="Friendlies"/>
+            <Image width={800} height={500} src="https://www.sportsmole.co.uk//b.smimg.net/22/02/640x480/ghagab.jpg" alt="Friendlies"/>
             <h3>Recent News</h3>
-            <a href='https://www.uefa.com/european-qualifiers/news/027b-169ceb4552a5-43a75183c184-1000--where-to-watch-november-s-international-friendlies-tv-broadcast/'>
+            <a href='https://www.sportsmole.co.uk/football/switzerland/international-friendlies-predictions/feature/thursdays-international-friendlies-predictions-including-portugal-vs-nigeria_499805.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Where to watch November&#39;s international friendlies: TV broadcast ...</h3>
+                <h3>Thursday&#39;s International Friendlies predictions including Portugal vs ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRD5-HnnNA9ow4KqpwMyr8PIZ9VNga2s5zFc93y-AyJolD0IdutyMHHPufm_hsWmqVqj4oOrBmJ" alt="Where to watch November&#39;s international friendlies: TV broadcast ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Follow all the latest European Qualifiers news from the official UEFA.com site. Includes latest news stories, videos, match reports and much more.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRxCzZ_X6d_cf05ggzKy0-zrSlqT9o9SCEbI5QIjZgjrSUvK9w2i5iuYGRm8ouAdzhyXGrdqG3t" alt="Thursday&#39;s International Friendlies predictions including Portugal vs ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Sports Mole provides score predictions and previews for all of today&#39;s International Friendlies fixtures, including Portugal vs. Nigeria.</p></div>
             </div>
         </a>
         </Template></>;

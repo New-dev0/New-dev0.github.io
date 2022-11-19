@@ -11,42 +11,21 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,インボイス"/>
         <meta name="description" content="Trending News about インボイス" /></Head><Template>
             <h1 style={{fontSize: "30"}}>インボイス</h1>
-            <Image width={800} height={500} src="https://image.itmedia.co.jp/news/articles/2211/18/cover_news074.jpg" alt="インボイス"/>
+            <Image width={800} height={500} src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221118-00000020-nkgendai-000-1-view.jpg?exp=10800" alt="インボイス"/>
             <h3>Recent News</h3>
-            <a href='https://www.itmedia.co.jp/news/articles/2211/18/news074.html'>
+            <a href='https://news.yahoo.co.jp/articles/5be6e8e9a38feeed76517054fc08168618c5d2e3'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>インボイス制度、中小事業者の税負担和らげる激変緩和措置を検討</h3>
+                <h3>「税の標語」表彰作品まるでインボイス応援歌？ 制度反対の声が ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR79QEuIr-WGzEO9JOaoeayo9DAIdTQeyDSEwUgyUykF2lYNhv6O4q3TK-R4ZCE5RYVKqeKmPFc" alt="インボイス制度、中小事業者の税負担和らげる激変緩和措置を検討" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>フリーランスなど中小事業者から反対の声の多いインボイス制度について、政府・与党が税負担を和らげる激変緩和措置の導入を検討している。11月17日に共同通信が伝えた&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS50qvAF7FcY3XD5S7ejfjZrszmmool-hHmzSKj_IknA2Gob0pfwQPjDHVOsVcIsKqjV3LYyFdx" alt="「税の標語」表彰作品まるでインボイス応援歌？ 制度反対の声が ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>日本の文化の未来が立ち消えてしまう」 16日に開かれたインボイス（適格請求書）制度の問題点を検討する超党派の議員連盟による会合で、制度廃止を強く訴えていたの&nbsp;...</p></div>
             </div>
-        </a><a href='https://news.yahoo.co.jp/articles/645fc36e1b4c8254fa0e89655c3a5795afd8206a'>
+        </a><a href='https://www.innovations-i.com/column/it-inside-story/4.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>インボイス、中小に激変緩和措置 負担増で、23年度税制改正（共同 ...</h3>
+                <h3>デジタルインボイスの実際はこんな感じ</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT32EqsCHmkDPvM-jqNQ0LSTBOJvSBqhQ2OS1DosIw_IMFreHodAP1jTsP18Bxj0GthHobUKtPb" alt="インボイス、中小に激変緩和措置 負担増で、23年度税制改正（共同 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>政府、与党が来年10月のインボイス（適格請求書）制度導入で消費税を新たに納めることを選んだ中小事業者に対し、税負担を和らげる激変緩和措置の導入を検討している&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.asahi.com/articles/ASQCK6T92QCKULFA01V.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>「インボイス導入へ負担軽減策を検討」 公明党税調会長が表明</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQtXtFmZhhE5NaQntPYVAHdnx8WyVqLg6xJ6NmllrglLJR04WF4lIQtWewVjvpQ49ySehP9F8YN" alt="「インボイス導入へ負担軽減策を検討」 公明党税調会長が表明" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>来年10月に導入される消費税のインボイス制度をめぐり、公明党の西田実仁（まこと）・税制調査会長は17日、小規模事業者の税負担を軽減する措置を検討する考えを示した&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.nikkei.com/article/DGXZQOUA17CNT0X11C22A1000000/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>インボイス導入「税負担増を最小化」 公明党税調会長</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTzaq2pNuUheNau_WJXpb3l8ImE2KLi0spVAQyEZF6A56xc-sOeR-PMY2fgz_XZ7Oy15VnbpK4b" alt="インボイス導入「税負担増を最小化」 公明党税調会長" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>公明党の西田実仁税制調査会長は17日、2023年10月に始まる消費税のインボイス（適格請求書等保存方式）制度導入に向けた小規模事業者への支援に意欲を示した。</p></div>
-            </div>
-        </a><a href='https://nordot.app/965933793537245184'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>政府、与党がインボイスで激変緩和措置 ｜ 共同通信</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="" alt="政府、与党がインボイスで激変緩和措置 ｜ 共同通信" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>政府、与党が来年10月のインボイス制度導入で消費税を新たに納めることを選んだ中小事業者に対し、税負担を和らげる激変緩和措置の導入を検討していることが17日、分かった&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTVB20gQYlF72YwRrRsxqaqRQ_Mb2ii6eK1Ttn1ne7hIRv6c9XIqAYbrJxBinSnlHgrT0JXe1A2" alt="デジタルインボイスの実際はこんな感じ" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>またメーカーは現在のシステムのデータを「Peppol変換事業者」へ送信しPeppolデータに変換後Peppolプロバイダに送るということになり、そのコストもかかることになる。編集&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

@@ -20,19 +20,19 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRcHCKB2hlMEQ7Szv68XwCkV__BeQmETjOnokW0bCWdoXBbslS3rBaVm7q6vQ7k-VP4W0IQJ8Gv" alt="Читатели занижают рейтинг книги «Цветы для Элджернона ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Читатели «Цветы для Элджернона» занижают рейтинг книги на Ozon и Wildberries из-за орфографических ошибок. По сюжету, рассказ пишет умственно отсталый&nbsp;...</p></div>
             </div>
+        </a><a href='https://www.mirf.ru/news/oshibka-na-oshibke-v-seti-vysmeyali-otzyvy-chitatelej-k-romanu-cvety-dlya-eldzhernona/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>«Ошибка на ошибке»: в сети высмеяли отзывы читателей к ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTRktQfgxIlJQQIRr13XITSWHheqxuY5afX_LR_I4tSxgbei5tLwFKZxED2dbrcj4eJzxSzN5Wd" alt="«Ошибка на ошибке»: в сети высмеяли отзывы читателей к ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Роман «Цветы для Элджернона» Дэниела Киза в жанре «мягкой» научной фантастики рассказывает о молодом умственно отсталом человеке Чарли, который становится&nbsp;...</p></div>
+            </div>
         </a><a href='https://gorvesti.ru/society/volgogradtsy-vozmuscheny-prodavtsom-knigi-tsvety-dlya-eldzhernona-iz-za-kuchi-oshibok-v-tekste-128180.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Волгоградцы возмущены продавцом книги «Цветы для ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSzukpNoItVIn5_GOj4U9bN42VRYyl8nGUaZpDtUb6R-Wk73-nj-GKy3xqEMVLJsXX5cYvlvDy_" alt="Волгоградцы возмущены продавцом книги «Цветы для ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Роман «Цветы для Элджернона» - всемирно известное произведение Дэниела Киза. Книга пользуется популярностью у современных читателей.</p></div>
-            </div>
-        </a><a href='https://www.mirf.ru/news/oshibka-na-oshibke-v-seti-vysmeyali-otzyvy-chitatelej-k-romanu-cvety-dlya-eldzhernona/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>«Ошибка на ошибке»: в сети высмеяли отзывы читателей к ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTRktQfgxIlJQQIRr13XITSWHheqxuY5afX_LR_I4tSxgbei5tLwFKZxED2dbrcj4eJzxSzN5Wd" alt="«Ошибка на ошибке»: в сети высмеяли отзывы читателей к ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Почему именитые аниматоры не задерживались на проекте долго, почему в России есть проблема с анимацией motion capture, а ещё как применить средства&nbsp;...</p></div>
             </div>
         </a><a href='https://mosregtoday.ru/soc/na-wildberries-razgorelsya-skandal-iz-za-populyarnoj-knigi/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

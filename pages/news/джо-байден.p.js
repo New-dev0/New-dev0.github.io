@@ -11,56 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Джо Байден"/>
         <meta name="description" content="Trending News about Джо Байден" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Джо Байден</h1>
-            <Image width={800} height={500} src="https://kazanfirst.ru/storage/posts/November2022/tb0qpOJAkJA54sA82miN-watermark.jpg" alt="Джо Байден"/>
+            <Image width={800} height={500} src="https://www.interfax.ru/aspimg/873044.png" alt="Джо Байден"/>
             <h3>Recent News</h3>
-            <a href='https://kazanfirst.ru/news/598740'>
+            <a href='https://www.interfax.ru/world/873044'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Джо Байден: Слова Зеленского, что ракета была не украинская ...</h3>
+                <h3>Республиканцы запланировали расследовать деловые ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRFLDlzc5ZDUWPCCiDPjunyDe21FDD393Cau2UZ5AhaVVfpmSydvdx0wdkhbTBU1ne82A9aP9r1" alt="Джо Байден: Слова Зеленского, что ракета была не украинская ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ракета упала в населенном пункте Пшеводув, расположенном на востоке Польши на границе с Украиной - читайте на портале 17.11.2022 KazanFirst.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSjKEDyrN5VCdqcXzI102UsTDR5PPnACTX_Rz_upHmH0Tb6jeo3wyn7Jl3hg0OVo-Jq2fv38LVF" alt="Республиканцы запланировали расследовать деловые ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Москва. 18 ноября. INTERFAX.RU - Члены Республиканской партии, получившей большинство в палате представителей США на промежуточных выборах в Конгресс,&nbsp;...</p></div>
             </div>
-        </a><a href='https://govoritmoskva.ru/news/340877/'>
+        </a><a href='https://eadaily.com/ru/news/2022/11/18/zasluzhivaem-unichtozheniya-v-ssha-ne-veryat-ugrozam-respublikancev-teflonovomu-dzho'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Джо Байден не увидел доказательств в словах Владимира ...</h3>
+                <h3>«Заслуживаем уничтожения»: в США не верят угрозам ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Джо Байден не увидел доказательств в словах Владимира ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>По словам президента США, высказывания украинского лидера не могут быть аргументом. Речь идёт о падении снарядов в польском селе Пшеводов 15 ноября.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQcY93KwoINtjPxhc0d8pKk0-OU6r87aC9MLH2ee7Tap_Yg6uNcJOQj9qNDjW0mhOubTsePppt5" alt="«Заслуживаем уничтожения»: в США не верят угрозам ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>EADaily рассказывало о том, что вчера, 17 ноября, члены палаты представителей США, которую теперь контролируют республиканцы, объявили о начале&nbsp;...</p></div>
             </div>
-        </a><a href='https://rostov.tsargrad.tv/news/prezident-ssha-dzho-bajden-ostudil-pyl-zelenskogo-po-povodu-russkih-raket_666499'>
+        </a><a href='https://www.vedomosti.ru/politics/news/2022/11/17/950900-respublikantsi-planiruyut'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Президент США Джо Байден остудил пыл Зеленского по поводу ...</h3>
+                <h3>Республиканцы планируют начать расследование в отношении ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSVAXBKYoyT8tRn4mbq68gkNwkA0zdqgCQdmaSIYZaWb4Vgb67bk0gnndhfSU5VlT_Kzs-Ex3KG" alt="Президент США Джо Байден остудил пыл Зеленского по поводу ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Глава Белого дома уверен, ракеты, упавшие на территории Польши, были выпущены украинской стороной.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRhC7JBCyWSTXcEVkfK-azn1T0f_d39cZr4RnrP_dJLrsa6bnlluurpF2pXHPVGPDQQtsvYMQCv" alt="Республиканцы планируют начать расследование в отношении ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Республиканцы в палате представителей конгресса США планируют начать свое первое расследование деятельности президента Джо Байдена, они подозревают его и&nbsp;...</p></div>
             </div>
-        </a><a href='https://topwar.ru/205250-bajden-vstupil-v-zaochnyj-spor-s-zelenskim-po-povodu-vzryva-v-polshe.html'>
+        </a><a href='https://news.ru/usa/respublikancy-zayavili-o-rassledovanii-zarubezhnyh-sdelok-bajdena-i-ego-syna/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Байден вступил в заочный спор с Зеленским по поводу взрыва в ...</h3>
+                <h3>Республиканцы заявили о расследовании зарубежных сделок ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTSMYEGJKCnaOSQVRNnYcgCght1tQ90rzjS8-Fb6GubyhtDOba1dyGOgDEdHk6ZiEf4H4v-6oak" alt="Байден вступил в заочный спор с Зеленским по поводу взрыва в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Американский лидер не согласен выводами президента Украины по поводу упавшей на польской территории ракеты Президент Украины утверждает, что взорвавшаяся на&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQKrw2n7ERAJ5-NtTpO5beyWFfAOv3YXXokrFfq0boiqXttScY274beD1X3SClzWJ6JMCESWIgn" alt="Республиканцы заявили о расследовании зарубежных сделок ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Белый дом в ответ обвинил представителей Республиканской партии в развитии «давно развенчанных теорий заговора», сообщает Fox News. В Белом доме эти действия&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.m24.ru/news/politika/17112022/522295'>
+        </a><a href='https://ont.by/news/respublikancy-provedut-rassledovanie-v-otnoshenii-dzho-bajdena-i-biznesa-ego-semi'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Байден отказался верить словам Зеленского о непричастности ...</h3>
+                <h3>Республиканцы проведут расследование в отношении Джо ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRzyv4tI50roYaAseOfxV_2L_bKhQIl1gZaa_D9nuDhI71x40ntvOiD9-hF8Y_6qMLxpVcOUXxv" alt="Байден отказался верить словам Зеленского о непричастности ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Джо Байден заявил, что слова президента Украины Владимира Зеленского о непричастности Киева не являются доказательством.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRVQvpSx05lC3a9BfCWIsRZmEjM7TiQI3B1pRRWeztLsPx0WaVE7_wVq-j0fGlSJhadgCQJbI3s" alt="Республиканцы проведут расследование в отношении Джо ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Американская политика перестает быть томной. Республиканцы проведут расследование в отношении президента США и бизнеса его семьи.</p></div>
             </div>
-        </a><a href='https://rua.gr/news/sobmn/51894-dzho-bajden-ne-soglasen-s-zayavleniem-zelenskogo.html'>
+        </a><a href='https://www.eurointegration.com.ua/rus/news/2022/11/17/7150883/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Джо Байден не согласен с заявлением Зеленского</h3>
+                <h3>Республиканцы, побеждающие в Палате представителей ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRjf8Xxbh0ysiSrDaGwFMPQS_T6_YNr0AiUACTtAlf9oCyWIAqyay4QCabZBgU3Dku_Q31_C0gX" alt="Джо Байден не согласен с заявлением Зеленского" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Как напоминает Sky News, вчера президент Украины Владимир Зеленский заявил, что у него «нет сомнений» в том, что ракета, вызвавшая взрыв в Польше, «не&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSl8-5QiUd9owH6NDFeq7Nu8Pda8WOJFHJBk2S8CnsvtK-ngvTI_Rb6Mb7ErkKaHUbB8WCzoAUE" alt="Республиканцы, побеждающие в Палате представителей ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Республиканское большинство в Палате представителей Конгресса США, которое начнет работу в январе 2023 года, планирует инициировать расследование&nbsp;...</p></div>
             </div>
-        </a><a href='https://deita.ru/article/527075'>
+        </a><a href='https://knews.kg/2022/11/18/respublikantsy-obyavili-o-rassledovanii-v-otnoshenii-dzho-bajdena/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>«Синдром Зеленского»: Байден остудил пыл украинского коллеги</h3>
+                <h3>Республиканцы объявили о расследовании в отношении Джо ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSX3ftye6j4AOQXaB0PrpVh_q1_ZJeZsHm9ZR-EoOk3xYnFJBGTVZaxhvLJpB3Ow_1VIg8I8NqY" alt="«Синдром Зеленского»: Байден остудил пыл украинского коллеги" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Инцидент с упавшими ракетами в Польше показал, что в антироссийской и проукраинской политике Запада ещё проглядываются какие-то границы. Хотя бы в тех случаях,&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTJIUgQMMjCfYud2Dq5ogkuza77N1kUySXusmLdGp51Hd4EweYjIsiWDU3of0sCEK572FHUjeVn" alt="Республиканцы объявили о расследовании в отношении Джо ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Расследование связано с коммерческой деятельностью сына президента США, Хантера Байдена. Республиканцы намерены проверить полученные ими банковские отчеты.</p></div>
             </div>
         </a>
         </Template></>;

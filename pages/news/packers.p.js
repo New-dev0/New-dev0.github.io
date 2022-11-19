@@ -11,63 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Packers"/>
         <meta name="description" content="Trending News about Packers" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Packers</h1>
-            <Image width={800} height={500} src="https://bloximages.chicago2.vip.townnews.com/bhpioneer.com/content/tncms/assets/v3/editorial/c/e9/ce994303-b43a-534f-a225-5ed6f12a124d/6376b62830d2c.image.jpg?crop=1100%2C578%2C0%2C121&resize=1100%2C578&order=crop%2Cresize" alt="Packers"/>
+            <Image width={800} height={500} src="https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/dnn4sclxcr8fjad6xbfg" alt="Packers"/>
             <h3>Recent News</h3>
-            <a href='https://www.bhpioneer.com/sports/national_sports/titans-at-packers-preview-prop-picks-prediction/article_050214f3-f87a-53fe-8459-fc05e1183870.html'>
+            <a href='https://www.nfl.com/news/2022-nfl-season-week-11-what-we-learned-from-titans-victory-over-packers-on-thur'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Titans at Packers: Preview, Prop Picks, Prediction</h3>
+                <h3>2022 NFL season, Week 11: What We Learned from Titans&#39; victory ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSbAKpEhn--ZK1Pb9BEPlCkFqIfoNDpy-1WbJ_WDmt4ni9zV4DFbrUfgSbWJplXNuYxDqcSUXIX" alt="Titans at Packers: Preview, Prop Picks, Prediction" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Green Bay Packers are eager to find out whether or not their offense can keep rolling when they play host to the Tennessee Titans on Thursday night.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTuPj615f0GWjPnQ1mDQE6KFUtV0iaSK0VbsF7I6w6RFtwRg_nWDl_XCJqAGV8c_HZqiltffTbf" alt="2022 NFL season, Week 11: What We Learned from Titans&#39; victory ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Derrick Henry and a formidable defensive performance keyed the Titans&#39; 27-17 victory over Aaron Rodgers and the host Packers on Thursday night.</p></div>
             </div>
-        </a><a href='https://www.baltimorebeatdown.com/2022/11/17/23465324/titans-vs-packer-tnf-open-thread-picks-aaron-rodgers-derrick-henry-amazon-draftkings-odds-promo-code'>
+        </a><a href='https://www.nfl.com/news/aaron-rodgers-was-admittedly-off-in-latest-packers-loss-i-threw-a-lot-of-kinda-w'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Titans vs. Packers TNF: Open Thread, Picks</h3>
+                <h3>Aaron Rodgers was admittedly off in latest Packers loss: &#39;I threw a lot ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT28sj3wZQQTo7i1p28NKGFQBC6Gi5Wrk8XKGXjaiucDjkZA2aPPTsChWS3bcV0Y3oKxM77O6p5" alt="Titans vs. Packers TNF: Open Thread, Picks" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Some game facts, courtesy of Yahoo! Sports App. In their last two home games against the Titans, the Packers have scored a combined 95 points while allowing&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQWrp2vAtzMw92btE1S5wWLpl9eVwZzftsr0AthT1DTo_lcodSfX6yJ2p9gbg-tg7x6qRVcWYkS" alt="Aaron Rodgers was admittedly off in latest Packers loss: &#39;I threw a lot ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Amid an uncharacteristic autumn in Wisconsin, the latest unconventional chapter saw Aaron Rodgers miss badly on myriad throws and the Packers booed by cold&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.espn.com/blog/green-bay-packers/post/_/id/52751/packers-jordan-love-showing-growth-as-aaron-rodgers-backup-but-when-will-he-play'>
+        </a><a href='https://www.tennesseetitans.com/news/titans-deliver-with-27-17-win-over-the-packers'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Packers&#39; Jordan Love showing growth as Aaron Rodgers&#39; backup ...</h3>
+                <h3>Titans Deliver With 27-17 Win Over the Packers</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQiKcJiYis30hQ5MK9dGlWJLbSb1azcqM-U2_FmeZg1QjJC0XlmXPEp5DosmTLJFFrHDLTl9RPK" alt="Packers&#39; Jordan Love showing growth as Aaron Rodgers&#39; backup ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>It remains unclear when Love, the Packers&#39; first-round pick in 2020, will get a chance to show what he can do as an NFL starter.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTo99FTHeE5pj4q0iU90zOuRGBNfaND6V0b7fqgbnfSklZdVnmOCBvhZFnrimmdDoRoo0w5lSvA" alt="Titans Deliver With 27-17 Win Over the Packers" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Titans quarterback Ryan Tannehill completed 22-of-27 passes for 333 yards and two touchdowns, along with an interception.</p></div>
             </div>
-        </a><a href='https://theathletic.com/live-blogs/packers-titans-score-picks-prediction/PIHWyDHF5bOH/'>
+        </a><a href='https://packerswire.usatoday.com/2022/11/18/packers-offense-faced-dilemma-with-no-positive-outcomes-vs-titans/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Packers vs. Titans live updates: Thursday Night Football start time ...</h3>
+                <h3>Packers offense faced dilemma with no positive outcomes vs. Titans</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTg_iG4TORPYsDd-IlNe0JbSMWexrO4w7W0WeVJ6qR6afH2m-OUZvjWdY2HjiilBR_2onNfZoZR" alt="Packers vs. Titans live updates: Thursday Night Football start time ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Week 11 begins with the Packers hosting the Titans on Thursday Night Football. Kickoff is at 8:15 p.m. ET with the game streaming exclusively in the U.S. on&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTkfMV5n-_wRSetTx_BCRLMjCN2__rq74P4AeITYj6y5vI-l44rMtNWYqHyXhtJSOvPW1T7hlL3" alt="Packers offense faced dilemma with no positive outcomes vs. Titans" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Green Bay Packers offense faced a dilemma in the Tennessee Titans. Regardless of which path the Packers chose on Thursday night, there was likely never&nbsp;...</p></div>
             </div>
-        </a><a href='https://packerswire.usatoday.com/lists/packers-vs-titans-5-things-to-watch-and-a-prediction-for-tnf/'>
+        </a><a href='https://www.espn.com/nfl/recap/_/gameId/401437844'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Packers vs. Titans: 5 things to watch and a prediction for TNF</h3>
+                <h3>Titans vs. Packers - Game Recap - November 17, 2022 - ESPN</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRQ9rgMTxoIyor-iZTyP7uHRAt7USL2f5KzQUt8s8yNAHVCAIEcpknAl3zRYYMzDG0wTICVX9sv" alt="Packers vs. Titans: 5 things to watch and a prediction for TNF" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Green Bay Packers can make it two wins in a row and start building actual momentum toward a late-season playoff push by beating the Tennessee Titans on&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR7kvkRd1NE8S16rKa-HCnLHgyGVevzUdzVAudl3UDpZp7rmTfDF_VcmRB6CuRSilgu5el6rEBw" alt="Titans vs. Packers - Game Recap - November 17, 2022 - ESPN" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Get a recap of the Tennessee Titans vs. Green Bay Packers football game.</p></div>
             </div>
-        </a><a href='https://www.cbssports.com/nfl/news/titans-vs-packers-odds-line-spread-thursday-night-football-picks-nfl-predictions-from-top-model/'>
+        </a><a href='https://www.packers.com/news/disappointment-at-its-peak-as-another-game-gets-away-from-packers'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Titans vs. Packers odds, line, spread: Thursday Night Football picks ...</h3>
+                <h3>Disappointment at its peak as another game gets away from Packers</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR4MEhZ6WaXbuUz3T-nRGoWDjZD0xvaiU4ZtVJk5E0sgDsVucdI5q16Uawnr99FXzSzwIn2G0u-" alt="Titans vs. Packers odds, line, spread: Thursday Night Football picks ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>SportsLine&#39;s model simulated Green Bay vs. Tennessee featuring Aaron Rodgers and Derrick Henry 10000 times.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTdkxjT77m2I0Ntf0Wvyh5NAK-NDCH3l6XBUammsTvMjZQ9Wi2ThQDDTnvJ1v5T2TQgGBNporSP" alt="Disappointment at its peak as another game gets away from Packers" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Defense gets an interception in the fourth quarter in a 10-point game. Offense goes three-and-out. Special teams provides a 24-yard punt return across midfield&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.si.com/nfl/packers/news/packers-vs-titans-three-reasons-to-worry'>
+        </a><a href='https://www.espn.com/nfl/story/_/id/35051475/packers-aaron-rodgers-takes-blame-missed-throws-loss-titans'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Packers vs. Titans: Three Reasons to Worry</h3>
+                <h3>Packers&#39; Aaron Rodgers takes blame for missed throws in loss to ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTsXxlB7HUbhY2BxYm3BE8RK0fBnekoVJ8YiWO1tspE5HddrhAiVTNBUyG7WqNIXy-QAdB0mQYe" alt="Packers vs. Titans: Three Reasons to Worry" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Green Bay Packers will host the Tennessee Titans on Thursday at Lambeau Field. The Packers are coming off a big win. Here&#39;s why they won&#39;t do it again.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTf2M-7ZOp_a6pyddDY66SreZZVBI7-PSxjSzyizlduVZoXijLnoDdY4x_7KISjnSLNiPpFEuFQ" alt="Packers&#39; Aaron Rodgers takes blame for missed throws in loss to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Instead, Rodgers missed open receivers, took a sack at an inopportune time and rendered last week&#39;s season-saving upset of the Dallas Cowboys practically&nbsp;...</p></div>
             </div>
-        </a><a href='https://atozsports.com/green-bay/signs-are-already-pointing-a-major-trade-for-the-packers-in-the-offseason/'>
+        </a><a href='https://www.packersnews.com/story/sports/nfl/packers/2022/11/18/packers-taking-inventory-of-how-they-reached-tough-spot-in-lost-season/69661349007/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Signs are already pointing a major trade for the Packers in the ...</h3>
+                <h3>Packers taking inventory of how they reached &#39;really tough spot&#39; in ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcToVD3VRdgZDZozCBTZTXue61WbdyxavB_QN0WkDN9IQUr3gDhMnUYxGM_Moz3mS3lAQs5pRyY4" alt="Signs are already pointing a major trade for the Packers in the ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Or maybe I should say there are signs that Green Bay might be forced to make a trade. Packers quarterback Jordan Love is in his third season in the NFL and he&#39;s&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT3boJ8k6eYv7zSPl2v5sGN3Vy9TCEbLtSkY7XIJrnQB0ZnXwJGYxGBVLdaNSlBpTYaVpqtrSG3" alt="Packers taking inventory of how they reached &#39;really tough spot&#39; in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>For the 4-7 Green Bay Packers, a playoff berth would require a run of the table and a lot of help from other NFC teams.</p></div>
+            </div>
+        </a><a href='https://packerswire.usatoday.com/2022/11/18/despite-another-gut-punch-loss-aaron-rodgers-still-confident-packers-can-win-final-six-games/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Despite another gut-punch loss, Aaron Rodgers still confident ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS2ntVUPPIJBrSG0VMu-XHv8CN2DC65_60fl8-pgZD-u5IPkbhgZEvEyQ6uKvp9OBQwdKQbgvKf" alt="Despite another gut-punch loss, Aaron Rodgers still confident ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>In what has become a typical performance from the Green Bay Packers during the 2022 season, another winnable game slipped away on Thursday thanks to a&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.acmepackingcompany.com/2022/11/18/23466198/packers-news-cheese-curds-11-18-turn-out-the-lights-the-partys-over'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Packers News, 11/18: Turn out the lights, the party&#39;s over</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSQFJuVwMe1mNgOo_QBcA8_nZchcbsKszZybWCCAoL0KC26HlDgZfmBIYEyE_Pz4h7UNUNBXizN" alt="Packers News, 11/18: Turn out the lights, the party&#39;s over" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>No, the Green Bay Packers aren&#39;t officially, mathematically eliminated from the playoffs. But after dropping Thursday Night Football 27-17 to the Tennessee&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

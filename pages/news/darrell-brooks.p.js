@@ -20,13 +20,6 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTJkJvFHd2cUOTg9MMnfBKCSMqb-T12I_tW_RT0-xOmMHeUJMZNdZaHGCMOlkSTfB3V9XNvIiVQ" alt="Darrell Brooks receives 6 consecutive life sentences plus more than ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Darrell Brooks receives 6 consecutive life sentences plus more than 700 additional years in prison for Waukesha Christmas parade attack &middot; darrell brooks guilty.</p></div>
             </div>
-        </a><a href='https://www.wpr.org/darrell-brooks-jr-waukesha-parade-sentenced-multiple-life-sentences'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Bent on evil&#39;: Darrell Brooks Jr. sentenced to multiple lifetimes in ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRELtPqw9ljsDd8SKt7BGbCsJtKTU142BlJ_T3lc6yDRf7ffnUbjeIpCNxiGwPS_ydQIEoKY4ea" alt="&#39;Bent on evil&#39;: Darrell Brooks Jr. sentenced to multiple lifetimes in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Waukesha Circuit Court Judge Jennifer Dorow sentenced Brooks to consecutive sentences of life in prison for each of the six people killed. Families of victims&nbsp;...</p></div>
-            </div>
         </a><a href='https://www.tmj4.com/news/darrell-brooks-trial/darrell-brooks-returns-to-court-thursday-on-milwaukee-charges'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Darrell Brooks returns to court Thursday on Milwaukee charges</h3>
@@ -34,26 +27,33 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQc88NaVwA1DSX5ULyCzIWJVKT9kENLotgCSPyvdknsSiAixm6iyf61W8E_ev_LH4C4DA-1yOnC" alt="Darrell Brooks returns to court Thursday on Milwaukee charges" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Darrell Brooks will be in the Milwaukee County Courthouse Thursday for a final pre-trial hearing on several Milwaukee charges.</p></div>
             </div>
-        </a><a href='https://www.jsonline.com/story/communities/waukesha/2022/11/16/darrell-brooks-sentenced-in-waukesha-christmas-parade-attack/69645486007/'>
+        </a><a href='https://www.fox6now.com/news/darrell-brooks-milwaukee-county-open-cases'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Darrell Brooks sentenced to six consecutive life terms, and hundreds ...</h3>
+                <h3>Darrell Brooks&#39; Milwaukee County open cases; 3 remaining</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRwDaEI6o5E9cZLG3axPcr68D9MSbDahaxXClj4FH5oqRXFAs0ng3nsPm_KKCDdwHmFQzGOAwwa" alt="Darrell Brooks sentenced to six consecutive life terms, and hundreds ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Darrell Brooks will spend life in prison six times over for the death and injuries he caused in the 2021 Waukesha Christmas Parade attack, Judge Jennifer&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ2gdUpkzyGrPlNQwl3FnCPAFaalepsqM6S80-0YkykAt04yP3alm_ycgp_FhyLIJiEvIvUgdc1" alt="Darrell Brooks&#39; Milwaukee County open cases; 3 remaining" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Darrell Brooks might have been sentenced for his crimes in Waukesha, but his time in the courtroom is far from over. That is because Brooks has three open&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.washingtonpost.com/nation/2022/11/16/waukesha-parade-driver-brooks-life/'>
+        </a><a href='https://www.courttv.com/news/darrell-brooks-returns-to-court-on-milwaukee-charges/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Man who killed 6 in Christmas parade with SUV sentenced to life</h3>
+                <h3>Darrell Brooks returns to court on Milwaukee charges</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQo1WF4mniAaotswWSJZnM7WbaWsruENZ3eVg_IfFkYxG8z48VfJf0wpCZ38nYgZ0VN_pgKbboJ" alt="Man who killed 6 in Christmas parade with SUV sentenced to life" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A Wisconsin judge sentenced Darrell E. Brooks Jr. to six life sentences for his attack on the Waukesha Christmas parade in November 2021 that killed six&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQx3EFZ0bhrBRDXuHoTBFNcM61MomQc7rpow3a4rK4RBMwxoCLDT6nMt4WtTjSfsTYUnN6KZ_XC" alt="Darrell Brooks returns to court on Milwaukee charges" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>In Milwaukee County, Darrell Brooks has three open cases, all of which have final pre-trial hearings Thursday.</p></div>
             </div>
-        </a><a href='https://www.nbcnews.com/news/us-news/darrell-brooks-wisconsin-christmas-parade-sentenced-rcna57411'>
+        </a><a href='https://www.wisn.com/article/waukesha-parade-killer-back-in-court-for-milwaukee-county-cases/41997310'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Darrell Brooks, convicted of killing 6 people at Wisconsin Christmas ...</h3>
+                <h3>Waukesha Parade killer back in court for Milwaukee County cases</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSWJ7xv4NeDzOoSzdWY2dL-3S1xS4YE2-y1QX0WiVpCVgOJKDZoKgl1X5M00Pryv0c62Bhezb56" alt="Darrell Brooks, convicted of killing 6 people at Wisconsin Christmas ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Darrell Brooks, the man convicted of killing six people and injuring dozens at a Wisconsin Christmas parade last year, was sentenced to life Wednesday.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSeQBnqr33rrwqJpICxmJ6wd5MqhDS-YdF7iCS2VWAr0Mn43FL0o0FdEm6Z7WerVtldgv8Olrfl" alt="Waukesha Parade killer back in court for Milwaukee County cases" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Less than 24 hours after a Waukesha Judge sentenced Darrell Brooks to six consecutive life sentences for the parade attack last November, Brooks was back in&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.bet.com/article/d36wju/darrell-brooks-gets-six-life-sentences-for-wisconsin-crash'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Darrell Brooks Gets 6 Life Sentences For Fatal Wisconsin Christmas ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcScOv_bWCPZoqEthWbaqFf9eqzvj3TCLXVF8n0HaHHN70Px5ZyeqZNyBOJzYetE6FTMSAAk7NbW" alt="Darrell Brooks Gets 6 Life Sentences For Fatal Wisconsin Christmas ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The jury found Brooks, who defended himself in court last month, guilty on all 76 counts stemming from the attack, according to CNN. Brooks also sat through two&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

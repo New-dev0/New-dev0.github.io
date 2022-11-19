@@ -13,54 +13,54 @@ export default function Page() {
             <h1 style={{fontSize: "30"}}>Jane Fonda</h1>
             <Image width={800} height={500} src="" alt="Jane Fonda"/>
             <h3>Recent News</h3>
-            <a href='https://www.gala.fr/l_actu/news_de_stars/jane-fonda-atteinte-dun-cancer-ses-confidences-bouleversantes-je-nai-pas-peur-de-mourir_506709'>
+            <a href='https://www.delas.pt/jane-fonda-na-luta-contra-o-cancro-nao-tenho-medo-de-ir/pessoas/939182/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Jane Fonda atteinte d&#39;un cancer, ses confidences bouleversantes ...</h3>
+                <h3>Jane Fonda na luta contra o cancro: “Não tenho medo de ir”</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTKv2bm99cQqypG3IcALWkrnj9_RJU_OlxzZqFF2YEogmWyOeuOSmsGUZUCXQDyKlsqS8xhxFc7" alt="Jane Fonda atteinte d&#39;un cancer, ses confidences bouleversantes ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Jane Fonda a annoncé être atteinte d&#39;un cancer du système lymphatique, en septembre dernier. Optimiste dans sa déclaration il y a deux mois, la ved...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT1whsOhM7Gw_U1SfeojIqGvqWEMUKwPOTNxJoYKNz_49Fw6yY9wPu-ekm27n7002rhNgT3a7hq" alt="Jane Fonda na luta contra o cancro: “Não tenho medo de ir”" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Numa entrevista ao Entertainment Tonight, Jane Fonda, que luta contra um cancro, falou sobre a morte e na qual revelou “não ter medo de ir”. “Quando se chega à&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.closermag.fr/people/jane-fonda-malade-du-cancer-elle-revele-etre-condamnee-et-se-dit-prete-a-partir-1668418'>
+        </a><a href='https://sapobrasil.com.br/celebridades/artigos/jane-fonda-luta-contra-cancer-nao-tenho-muito-mais-tempo'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Jane Fonda malade du cancer : elle révèle être condamnée et se dit ...</h3>
+                <h3>Jane Fonda luta contra câncer: &quot;Não tenho muito mais tempo&quot;</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR7jU6UBJVlku9YuofUVmswpRT3YNA1kIJXjmFqLnrBahJnW8UNTVZgYVvBCNZrngj1gvmHyCv2" alt="Jane Fonda malade du cancer : elle révèle être condamnée et se dit ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Jane Fonda a pris la parole dans l&#39;émission Entertainment Tonight le 15 novembre. L&#39;actrice a évoqué ses soucis de santé et elle a fait des confidences&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTTPo0WEd4OIeI4mhsPlwgjpHuSsqdYvdn-PsxTDhCQyqjolUpAqSe6TQIh7nIGsGPSKCeyepzi" alt="Jane Fonda luta contra câncer: &quot;Não tenho muito mais tempo&quot;" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Jane Fonda, que se encontra neste momento lutando contra um linfoma não-Hodgkin, deu uma entrevista ao Entertainment Tonight onde falou sobre a morte,&nbsp;...</p></div>
             </div>
-        </a><a href='https://parismatch.be/actualites/people/602344/jane-fonda-atteinte-dun-cancer-a-84-ans-lactrice-se-dit-prete-a-mourir'>
+        </a><a href='https://veja.abril.com.br/cultura/com-cancer-jane-fonda-declara-nao-tenho-medo-de-morrer/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Jane Fonda : Atteinte d&#39;un cancer à 84 ans, l&#39;actrice se dit « prête à ...</h3>
+                <h3>Com câncer, Jane Fonda declara: &#39;Não tenho medo de morrer&#39;</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRFBxiF91q1jDdoXqx4dSIVopXRvT308o3362EO7EINaP2MQij9MyXOxTPIq4N0ByH_P6d6mf3o" alt="Jane Fonda : Atteinte d&#39;un cancer à 84 ans, l&#39;actrice se dit « prête à ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>La célèbre actrice américaine souffre d&#39;un cancer du système lymphatique. Un témoignage bouleversant de lucidité. En septembre dernier, Jane Fonda annonçait son&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQa2j747tfM-P5SrUlshMoyozArudCO_jm8I3bT1sdyubxXxki92nFvPkNiac1XrWQjFqmfGd8k" alt="Com câncer, Jane Fonda declara: &#39;Não tenho medo de morrer&#39;" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Perto de completar 85 anos, atriz falou sobre a passagem do tempo e foi realista em relação ao fim da vida.</p></div>
             </div>
-        </a><a href='https://www.femmeactuelle.fr/actu/news-actu/jane-fonda-atteinte-dun-cancer-lactrice-assure-ne-pas-avoir-peur-de-mourir-2144901'>
+        </a><a href='https://www.lux.iol.pt/internacional/18-11-2022/jane-fonda-nao-tenho-muito-mais-tempo-estou-pronta'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Jane Fonda atteinte d&#39;un cancer : l&#39;actrice assure ne pas avoir &quot;peur ...</h3>
+                <h3>Jane Fonda: &#39;Não tenho muito mais tempo. Estou pronta&#39;</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQvouSp1eP104NEVC48F_Z4mquOVtSHZP3hBJoaLy5JW2PYwkvVJipYN7ZZBgTuOFkq6qXIvguf" alt="Jane Fonda atteinte d&#39;un cancer : l&#39;actrice assure ne pas avoir &quot;peur ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Vendredi 11 novembre 2022, Jane Fonda était invitée sur le plateau d&#39;Entertainment Tonight. Atteinte d&#39;un cancer du système lymphatique, l&#39;actrice de1.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT_B0lxkAHTWEPTLEQiiynI1ahbb1FUwKxuR0S1TNWRlGuSwVDuASndsnLTZ9T_7yq8ZEYJwsZu" alt="Jane Fonda: &#39;Não tenho muito mais tempo. Estou pronta&#39;" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Depois de no início de setembro ter revelado que começara a quimioterpia para tratar um um linfoma não Hodgkin, Jane Fonda confessou que não se tem sentido&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.programme-television.org/news-tv/Il-ne-me-reste-plus-beaucoup-de-temps-a-vivre-Jane-Fonda-fait-de-terribles-revelations-sur-son-cancer-4697025'>
+        </a><a href='https://www.terra.com.br/diversao/entre-telas/filmes/com-diagnostico-de-cancer-jane-fonda-diz-que-nao-teme-a-morte,8d753a289e1968ded4c215319e9ccc4d0tone7ch.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&quot;Il ne me reste plus beaucoup de temps à vivre&quot; : Jane Fonda fait de ...</h3>
+                <h3>Com diagnóstico de câncer, Jane Fonda diz que não teme a morte</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRNX-OdBRz85fpG1i79keKJyxTxHD3aIjFgmO9dJZ7lXOsl5Adk5P2uFhUwmwSJ3zphZJookOfe" alt="&quot;Il ne me reste plus beaucoup de temps à vivre&quot; : Jane Fonda fait de ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Il s&#39;agit d&#39;un cancer tout à fait curable. 80% des gens survivent, donc je me sens très chanceuse. J&#39;ai aussi la chance d&#39;avoir une assurance maladie et d&#39;avoir&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQnGufWfKdF9J3sMeg6OG_hUvIGQoiuaL2n-JbhRTia1Hzn1JccFY8YLMPTu8_wMyfa70pyHe-j" alt="Com diagnóstico de câncer, Jane Fonda diz que não teme a morte" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Atriz foi diagnosticada com Linfoma não Hodgkin e disse que não tem medo de morrer, pois teve &#39;uma ótima vida&#39;.</p></div>
             </div>
-        </a><a href='https://www.voici.fr/news-people/il-ne-me-reste-plus-beaucoup-de-temps-a-vivre-jane-fonda-atteinte-dun-cancer-fait-de-bouleversantes-confidences-743103'>
+        </a><a href='https://famashow.pt/famosos/jane-fonda-diz-estar-pronta-para-morrer-depois-de-novo-diagnostico-de-cancro-aos-84-anos/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>« Il ne me reste plus beaucoup de temps à vivre » : Jane Fonda ...</h3>
+                <h3>Jane Fonda diz estar &quot;pronta para morrer&quot; depois de novo ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR0iRmjmjboEfyZ4VfwXqJY-PD7kAsUE60jSKrGIHmuvVReffjs02tlB-_trny49cF1wKcRtF8t" alt="« Il ne me reste plus beaucoup de temps à vivre » : Jane Fonda ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Il y a quelques jours, l&#39;actrice Jane Fonda a pris la parole lors d&#39;une interview dans l&#39;émission Entertainment Tonight. Atteinte d&#39;un cancer, la p...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRj14Lryc8FIWk9G9Itedxvrkes0Mlz8B6w9lsdRTAUYYZO5PEEosn3nOpGuMEicUnkegEeMDm6" alt="Jane Fonda diz estar &quot;pronta para morrer&quot; depois de novo ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>O cancro que a atriz enfrenta tem origem nas células do sistema linfático, e apresenta uma alta percentagem de cura, com cerca de 80 por cento dos pacientes a&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.lalibre.be/lifestyle/people/2022/11/17/lactrice-jane-fonda-evoque-sa-maladie-je-suis-sincerement-prete-a-mourir-LWJKP4PRFJCJTOCPNUMM4JSOSQ/'>
+        </a><a href='https://aventurasnahistoria.uol.com.br/noticias/historia-hoje/jane-fonda-revela-que-nao-tem-medo-de-ir-embora.phtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>L&#39;actrice Jane Fonda évoque sa maladie : &quot;Je suis sincèrement ...</h3>
+                <h3>Jane Fonda revela que não tem medo de &quot;ir embora&quot;</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTo3fE96Z6MdGI5lUaCuH0DICPizrkokQ9s7CHsZL7VSFydyEDteOMOMmeXa2LcRLt7VhXt1_4-" alt="L&#39;actrice Jane Fonda évoque sa maladie : &quot;Je suis sincèrement ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>L&#39;actrice de 84 ans estime avoir eu &quot;une vie formidable&quot; et est prête pour affronter une nouvelle fois le cancer.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRAeKzuDZZpksQOeOONQpjcjRpuY8HeMHlOSYtykfG5zoSUhmhUkz5XRFYjJYOB02EWYo1C4ikI" alt="Jane Fonda revela que não tem medo de &quot;ir embora&quot;" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>O câncer enfrentado por Jane Fonda tem sua origem nas células do sistema linfático e alta chance de cura, já que 80% dos pacientes sobrevivem. Como noticiado&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

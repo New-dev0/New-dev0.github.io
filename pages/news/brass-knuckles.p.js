@@ -17,7 +17,7 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Israel Adesanya arrested at US airport over &#39;brass knuckles&#39;</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTvvDCh_a7a8hwziAnuqkNekYSvQkF6o5Lz_kmGYjcEsMoc0Oi4YCMGr-ZbiHcrIxLzZ4AsaINW" alt="Israel Adesanya arrested at US airport over &#39;brass knuckles&#39;" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSE9BwamA5IwMZFRauVZyZkdomsv7aqKsyZ3ZxRuGpV1wNtJyU81U9Qahnp-rW7EJJsKBXxHd2M" alt="Israel Adesanya arrested at US airport over &#39;brass knuckles&#39;" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Israel Adesanya, the Nigerian-New Zealander mixed martial artist and UFC fighter, was arrested at the John F. Kennedy airport in.</p></div>
             </div>
         </a><a href='https://saharareporters.com/2022/11/17/nigerian-born-ufc-star-israel-adesanya-released-after-arrest-possessing-brass-knuckles'>
@@ -34,12 +34,12 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTTK-EPc_2BH1-jpblPS7BWc56CE_SzQ0IbXvrgHzDVa901RtGRV1zNlR3UaNK5ukuLTsPVk8T7" alt="Israel Adesanya detained at JFK Airport for possession of brass ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>As he attempted to leave New York City, UFC Middleweight Israel Adesanya was detained by the JFK Airport police for possession of brass knuckles.</p></div>
             </div>
-        </a><a href='https://www.tmz.com/2022/11/16/israel-adesanya-arrested-jfk-airport-brass-metal-knuckles-ufc/'>
+        </a><a href='https://bleacherreport.com/articles/10055896-ufcs-israel-adesanya-arrested-accused-of-possessing-brass-knuckles-at-jfk-airport'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Israel Adesanya Arrested For Possessing Brass Knuckles, Issued ...</h3>
+                <h3>UFC&#39;s Israel Adesanya Arrested, Accused of Possessing Brass ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRf1P-vs6rYXBM1oRl8ygHeBqEeg9A-no7xXM8dDrhk0Pl9iIR8v7N-9zhMJ2lepqN8Ta3mb02Q" alt="Israel Adesanya Arrested For Possessing Brass Knuckles, Issued ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Israel Adesanya was arrested at JFK airport Wednesday for allegedly possessing metal knuckles -- which are illegal in New York.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSvQknvxP1o-_WyjI2Ip5VQXXXM4S1r9palgz1sDK-i25NZwS0eMQSY_Z73HtfM-dhpL5e6VXUl" alt="UFC&#39;s Israel Adesanya Arrested, Accused of Possessing Brass ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>UFC star Israel Adesanya was reportedly arrested at New York City&#39;s John F. Kennedy International Airport after attempting to go through security with metal&nbsp;...</p></div>
             </div>
         </a><a href='https://www.dailymail.co.uk/sport/mma/article-11436683/UFCs-Israel-Adesanya-arrested-bringing-BRASS-KNUCKLES-airport-security.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

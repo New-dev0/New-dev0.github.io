@@ -18,7 +18,7 @@ export default function Page() {
                 <h3>Ghana vs Switzerland Preview - Kick-off time, TV channel, Squad ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR1rygoBx2uqRqTXuclwIt_2T8hue6AUl0yXJoQ9QAvwWcRO0LVjcnsynXr3FEyzDD_LtzomAc9" alt="Ghana vs Switzerland Preview - Kick-off time, TV channel, Squad ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ghana are set to play Switzerland in a World Cup preparation match on Thursday afternoon at Sheikh Zayed Sports City. Both teams have made it to the 2022&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Ghana are set to play Switzerland in a World Cup preparation match on Thursday in Abu Dhabi.</p></div>
             </div>
         </a><a href='https://www.bbc.com/pidgin/articles/cnd513yy5g3o'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

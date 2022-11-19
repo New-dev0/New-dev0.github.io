@@ -11,77 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Disenchanted"/>
         <meta name="description" content="Trending News about Disenchanted" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Disenchanted</h1>
-            <Image width={800} height={500} src="https://www.irishexaminer.com/cms_media/module_img/6591/3295667_21_seoimageog_US_20Disenchanted_20070296B.jpg" alt="Disenchanted"/>
+            <Image width={800} height={500} src="https://s3.amazonaws.com/static.rogerebert.com/uploads/review/primary_image/reviews/disenchanted-movie-review-2022/homepage_disenchanted-movie-review-2022.jpg" alt="Disenchanted"/>
             <h3>Recent News</h3>
-            <a href='https://www.irishexaminer.com/lifestyle/people/arid-41008820.html'>
+            <a href='https://www.rogerebert.com/reviews/disenchanted-movie-review-2022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Disenchanted: Five of the most memorable moments from Patrick ...</h3>
+                <h3>Disenchanted movie review &amp; film summary (2022) | Roger Ebert</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT1zIQTQU7P8B-K5CUtBiOC6ItY13OS7zmTmD9FHK9e_rD9a5B91NKnUYg_VV3PrpecqQ7D6oDz" alt="Disenchanted: Five of the most memorable moments from Patrick ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The star has continued to speak about his love for the Emerald Isle after filming a fairytale in Co Wicklow last year.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR-IsGSZlRLM36XQjwoJQOoQA4kze7QmfGX0LeQH-YK-b6kBm-k63mhIZe_p27SUD33U0e1yvdP" alt="Disenchanted movie review &amp; film summary (2022) | Roger Ebert" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Amy Adams&#39; committed performance as Giselle, a Disney princess personified, catapulted her into mainstream success. But as Disney&#39;s IP continues to saturate the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.reuters.com/lifestyle/disenchanted-once-again-flips-narrative-disney-fairytales-2022-11-17/'>
+        </a><a href='https://www.cnn.com/2022/11/18/entertainment/disenchanted-review/index.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Disenchanted&#39; once again flips narrative of Disney fairytales</h3>
+                <h3>&#39;Disenchanted&#39; turns the page on a storybook ending to what comes ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQn1hS3n0KGxGn9eNs-UIt-UEqV_4JlwHj6-0N_cLqivtXHUMRqu3gEqHTu-0OD86Nf15xSIRaV" alt="&#39;Disenchanted&#39; once again flips narrative of Disney fairytales" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Disney sequel film “Disenchanted” premiered in Hollywood on Wednesday following its predecessor, “Enchanted,” by flipping the narrative of typical&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSPimbNGIOqyYtkgzIyUFNJ5Lwg6xbcTidXbSP6GYixpSyQ_DAttmsdU7mnKvViTFRs7VK57KgD" alt="&#39;Disenchanted&#39; turns the page on a storybook ending to what comes ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Amy Adams and Maya Rudolph in &quot;Disenchanted,&quot; premiering on Disney+. Jonathan Hession/Disney Enterprises, Inc. CNN —.</p></div>
             </div>
-        </a><a href='https://extra.ie/2022/11/17/entertainment/movies-tv/disenchanted-ireland'>
+        </a><a href='https://www.vanityfair.com/hollywood/2022/11/disenchanted-review-loses-some-of-enchanteds-magic'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Disenchanted Stars Reveal They &#39;Fell In Love&#39; With Ireland</h3>
+                <h3>&#39;Disenchanted&#39; Loses Some of &#39;Enchanted&#39;&#39;s Magic</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSLG4CsRKwUBdVYTWOlLf5K9zbP_SynWbDRbZdlUi_xEqm0__k2eYySWOLRKtjsNkTVxRfe7qJx" alt="Disenchanted Stars Reveal They &#39;Fell In Love&#39; With Ireland" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The stars of Disney+ prequel of Enchanted, Disenchanted admitted that they &#39;fell in love&#39; with Ireland while filming the upcoming fairy tale blockbuster&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQYiFfFzkNwMiPE7XpV22xfZPmjQCdbclFJkPA7_uM9pcl7APmKAlbcc5HF8XACefbXmyQLl1NU" alt="&#39;Disenchanted&#39; Loses Some of &#39;Enchanted&#39;&#39;s Magic" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Do we really want to turn to Disney for a musical about what a bummer real life can be in a world longing for fairytales?</p></div>
             </div>
-        </a><a href='https://collider.com/disenchanted-cast-characters-amy-adams/'>
+        </a><a href='https://www.vulture.com/article/disenchanted-review-a-disney-sequel-devoid-of-magic.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Disenchanted&#39; Cast and Character Guide: Who&#39;s Who in Disney&#39;s ...</h3>
+                <h3>Disenchanted Can&#39;t Conjure the Magic of the Original</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTch4R85ifjjAEJ4xCdcEi16NSt5ebcgPKowpOmgfT_7oyTGBa_ADbMSjWSaQFtKnrWBMgTKw3C" alt="&#39;Disenchanted&#39; Cast and Character Guide: Who&#39;s Who in Disney&#39;s ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Who&#39;s who in the dreamy Kingdom of Andalasia? Here&#39;s a look at the cast and characters of Disenchanted.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQedkO-Ka1Nxez6aLkM1b2xWbA7LxPQJnBxesSZDmMj-3zt39C7oQZQjXDTAtTZBwFRPSOT__oC" alt="Disenchanted Can&#39;t Conjure the Magic of the Original" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A review of Disenchanted, the Disney+ sequel to Enchanted that brings back stars Amy Adams, Patrick Dempsey, James Marsden, and Idina Menzel.</p></div>
             </div>
-        </a><a href='https://goss.ie/movies/everything-we-know-about-disneys-disenchanted-318259'>
+        </a><a href='https://stylecaster.com/how-to-watch-disenchanted/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Everything we know about Disney&#39;s Disenchanted</h3>
+                <h3>Here&#39;s How to Watch &#39;Disenchanted&#39; For Free to See Giselle 10 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS9haypIznTRzNBXeZSiOWMU-KljbAC90uBe7yrE1bu-G3Ifjua3gB3F7kcTm__gg5p6pW1UimM" alt="Everything we know about Disney&#39;s Disenchanted" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The highly-anticipated film will premiere on Disney+ tomorrow, November 18. The fan-favourite main characters Amy Adams, Patrick Dempsey, James Marsden and&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT6r2VyoNqQqBSLwkk9h6liCWtZQmP_PFjIKx2iLnfGunYl1VCQ9aWS6szHkhjj3bI896xpnVwX" alt="Here&#39;s How to Watch &#39;Disenchanted&#39; For Free to See Giselle 10 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Here&#39;s how to watch &quot;Disenchanted&quot; online for free in 2022 and where to stream &quot;Enchanted 2&quot; to see the sequel with Amy Adams, Idina Menzel and more.</p></div>
             </div>
-        </a><a href='https://decider.com/2022/11/17/disenchanted-2-watch-release-time-disney-plus/'>
+        </a><a href='https://www.forbes.com/sites/erikkain/2022/11/18/disenchanted-review-be-careful-what-you-wish-for-in-a-sequel/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>What Time Will &#39;Disenchanted&#39; Be on Disney+? How to Watch ...</h3>
+                <h3>&#39;Disenchanted&#39; Review: Be Careful What You Wish For (In A Sequel)</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTIDllQ-KwztgyyDcpsI1OF9s-zLEScDm_kcv_CuVIaXgQLYE1m1WnV8PsakEkf49YmTdx9A78O" alt="What Time Will &#39;Disenchanted&#39; Be on Disney+? How to Watch ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>When does Enchanted 2, aka Disenchanted, come out on Disney Plus? Get the Disenchanted release date and release time here.</p></div>
-            </div>
-        </a><a href='https://www.independent.ie/entertainment/movies/movie-news/stars-of-disenchanted-fell-in-love-with-ireland-while-filming-here-42151301.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Stars of Disenchanted &#39;fell in love with Ireland&#39; while filming here</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQfvIQx6wDEEdSdWTpkNNs0BFqflmJ8SwwjrXnhsojgRy0GXjMC9Au2ai29faIgZOhC3zR0w_SP" alt="Stars of Disenchanted &#39;fell in love with Ireland&#39; while filming here" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Actors including Idina Menzel and Patrick Dempsey hailed the &quot;beautiful&quot; countryside and the friendly local crew members. The upcoming Disney sequel to 2007&#39;s&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.irishmirror.ie/showbiz/hollywood-stars-disenchanted-fell-love-28518259'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Hollywood stars of Disenchanted &#39;fell in love&#39; with Ireland and &#39;made ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTP9aMRuPuqNkheQyoewO00MDj_rkARlOIb-rQBECpaMqy5dNl6u7xW5q3JvHjgP0aEPTz2aBg7" alt="Hollywood stars of Disenchanted &#39;fell in love&#39; with Ireland and &#39;made ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Disney flick, which is a sequel to 2007&#39;s Enchanted, was filmed on location in Ireland last year. Speaking at the premiere in Hollywood this week, star&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.deseret.com/2022/11/17/23464289/disenchanted-streams-on-disney-friday'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Disenchanted skips movie theaters to land on Disney+ this Friday</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="" alt="Disenchanted skips movie theaters to land on Disney+ this Friday" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The long-awaited film “Disenchanted” is coming to Disney+ streaming services on Friday. Fans of the highly anticipated sequel to “Enchanted” are wanting to&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.hollywoodreporter.com/movies/movie-news/disenchanted-amy-adams-maya-rudolph-sequel-15-year-wait-battle-1235264197/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Disenchanted&#39; Stars on Sequel&#39;s 15-Year Wait and Its Amy Adams ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSnDHuOmEUt7b_l-mlExzhCjelRLjgs9F5O5LDW-3ebzxbtxvOPhHCCbAcFm-HNS91mq2hePakz" alt="&#39;Disenchanted&#39; Stars on Sequel&#39;s 15-Year Wait and Its Amy Adams ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Disenchanted stars Amy Adams, Patrick Dempsey, James Marsden and Maya Rudolph on the long-awaited 2007 rom-com Enchanted sequel and its new rules.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTUMybCtuZo5jpYh-RZDkrh1I46oiFnAGT07O8jY_e3tNXdUzJqiq0HE6oD_mRAKzIZ0Y1zXBR0" alt="&#39;Disenchanted&#39; Review: Be Careful What You Wish For (In A Sequel)" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>It&#39;s less charming, less memorable and less fun. Its songs are not as catchy and its story is less unique. Even the animated sequences feel like a big step&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
