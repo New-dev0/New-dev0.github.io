@@ -11,21 +11,28 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Slumberland"/>
         <meta name="description" content="Trending News about Slumberland" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Slumberland</h1>
-            <Image width={800} height={500} src="https://s3.amazonaws.com/static.rogerebert.com/uploads/review/primary_image/reviews/slumberland-movie-review-2022/homepage_slumberland-movie-review-2022.jpeg" alt="Slumberland"/>
+            <Image width={800} height={500} src="" alt="Slumberland"/>
             <h3>Recent News</h3>
-            <a href='https://www.rogerebert.com/reviews/slumberland-movie-review-2022'>
+            <a href='https://collider.com/slumberland-francis-lawrence-interview/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>&#39;Slumberland&#39; Director Francis Lawrence Explains Why He Chose ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT9SXzdXjxlKQr2xc_C7R-vAuxFcU4W8YZeGz89ybvozLiYoDfC0DDXBOIzA9vLlgzBZAhuKxXt" alt="&#39;Slumberland&#39; Director Francis Lawrence Explains Why He Chose ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Director Francis Lawrence explains why he chose Jason Momoa for Netflix&#39;s Slumberland &amp; details how they designed the dream world.</p></div>
+            </div>
+        </a><a href='https://www.rogerebert.com/reviews/slumberland-movie-review-2022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Slumberland movie review &amp; film summary (2022) | Roger Ebert</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTROllYZyG4r3wLfywfdYvU0nHtoZDD1hX2pvvizcWaysGWy7K8SKAmsSA5BFJrZyEjN_ro_qdE" alt="Slumberland movie review &amp; film summary (2022) | Roger Ebert" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Those audacious elements would lead to its creator, Winsor McCay, to be dubbed “the first original genius of the comic strip medium” by historian R.C. Harvey&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Herald and His Moving Comics,” was a live-action/animation hybrid that depicted him producing 4,000 drawings of Nemo, a young boy whose adventures in the world&nbsp;...</p></div>
             </div>
-        </a><a href='https://economictimes.indiatimes.com/news/international/uk/jason-momoa-fully-embraces-his-fun-fantasy-dad-persona-in-slumberland-on-netflix/articleshow/95612518.cms'>
+        </a><a href='https://screenrant.com/slumberland-2022-movie-reviews/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Jason Momoa fully embraces his Fun Fantasy Dad persona in ...</h3>
+                <h3>Slumberland Review: Jason Momoa Shines In Dull Family-Friendly ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRzv-RbhgRgKbwS-JPzmGzeFzUVK4jcqCphNI3XC3m-1OG8AgDHUStUYce7K6x7ZCXLTJhgAU1K" alt="Jason Momoa fully embraces his Fun Fantasy Dad persona in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>When you say Nemo, people might think you mean the fish from the Pixar movies. If not, imagine vengeful submarine captains 20000 leagues under the sea.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR-FTNOJlgJBEJU8POraqufJsTMxxfosXYJRhYyOCJ60yI2LAcP0t9L1OwKVxgxftmDG4a4NUVA" alt="Slumberland Review: Jason Momoa Shines In Dull Family-Friendly ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>While director Francis Lawrence&#39;s Slumberland takes inspiration from the comic, it fails to capture the whimsy and delight of its origins.</p></div>
             </div>
         </a><a href='https://www.cnn.com/2022/11/18/entertainment/slumberland-review/index.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -34,26 +41,12 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcREtX8A3MRw2Ma3mwsNwAp_5msNItKc44SdYUtO_BRIo0Mmi2Kurf-G-RApI5wweCw7052Zh3B3" alt="&#39;Slumberland&#39; strands Jason Momoa in a nightmare of a movie" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>A movie about dreams becomes the stuff of nightmares in Netflix&#39;s utterly misguided &quot;Slumberland,&quot; an attempt to build a sprawling fantasy adventure from&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.polygon.com/reviews/23464972/netflix-slumberland-jason-momoa-movie-winsor-mccay'>
+        </a><a href='https://thespool.net/reviews/film-review-slumberland-netfilx/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Slumberland review: Jason Momoa headlines a version of The ...</h3>
+                <h3>Slumberland Review: Another Netflix CGI Snoozefest - The Spool</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS4vB47jkKdqnqVt7vX6eHRwnDMqsOfu7FeDPqwa5bAsTo2mw69Qle6l0e971gagJ8gcdSSBQA6" alt="Slumberland review: Jason Momoa headlines a version of The ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Aquaman star Jason Momoa stars in the vivid, giddy family fantasy Slumberland, very loosely based on Winsor McCay&#39;s classic newspaper comic Little Nemo in&nbsp;...</p></div>
-            </div>
-        </a><a href='https://dmtalkies.com/slumberland-ending-explained-2022-netflix-fantasy-film-francis-lawrence/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Slumberland&#39; Explained, Ending: Does Nemo Return To The ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ7-m7kWaZC0TjBXS7JFSx__S8IIeT9BS4PmUId2ro6AwpaYt_sn200_61_EQFQbInQoDaraZQK" alt="&#39;Slumberland&#39; Explained, Ending: Does Nemo Return To The ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>As we watched &quot;Slumberland,&quot; we could tell that its narrative was utterly confused between being a kids&#39; movie and a movie for adults.</p></div>
-            </div>
-        </a><a href='https://www.denofgeek.com/movies/slumberland-review-not-dream-jason-momoa-movie/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Slumberland Review: Not Your Dream Jason Momoa Movie</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSVwEiqG2LiOi9uxrATDUZdzCRjiIwjOujiBZOsKfV7wj59l8w-dGTPnOTrkFaclBoBPFC5TOLf" alt="Slumberland Review: Not Your Dream Jason Momoa Movie" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Jason Momoa shows a different side in Slumberland as the man-beast of your dreams, but the Netflix film struggles to stay awake.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT2INNkmWJPI0j3PYocmyAK1Ewn9o2z_s7xCoOXY_tqkZkox6KEofVb9TJFt6bTGu4bDI2J5i4S" alt="Slumberland Review: Another Netflix CGI Snoozefest - The Spool" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Little Nemo is a property rife for play. The dream world of Slumberland is vast, its rules deliberately obtuse — it&#39;s a wonderland full of slippery dream logic&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

@@ -11,56 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Chris Hemsworth"/>
         <meta name="description" content="Trending News about Chris Hemsworth" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Chris Hemsworth</h1>
-            <Image width={800} height={500} src="https://bloximages.chicago2.vip.townnews.com/bhpioneer.com/content/tncms/assets/v3/editorial/4/ab/4abdfe88-c340-55f4-9ba6-e74edee483da/6376d5d95004a.image.jpg?crop=1000%2C525%2C0%2C62&resize=1000%2C525&order=crop%2Cresize" alt="Chris Hemsworth"/>
+            <Image width={800} height={500} src="https://www.ecranlarge.com/media/cache/1600x1200/uploads/articles/000/000/000/steven-spielberg-photo-chris-hemsworth-1438628-large.jpg" alt="Chris Hemsworth"/>
             <h3>Recent News</h3>
-            <a href='https://www.bhpioneer.com/lifestyles/entertainment/chris-hemsworth-reveals-genetic-predisposition-to-alzheimers/article_0be1b78c-49ec-5136-bfe2-2292538962e9.html'>
+            <a href='https://www.ecranlarge.com/films/news/1457189-chris-hemsworth-abandonne-marvel-netflix-et-arrete-le-cinema-quelque-temps'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Chris Hemsworth reveals genetic predisposition to Alzheimer&#39;s</h3>
+                <h3>Chris Hemsworth abandonne Marvel, Netflix et arrête le cinéma ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR7RKtlxPrqPmh4ennJCvBJ5KpPeGTh3tHc6j9VO2WZB4cJ1Eq8DEQ_tbimvc9QbTjdYHUe_OOP" alt="Chris Hemsworth reveals genetic predisposition to Alzheimer&#39;s" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Chris Hemsworth is genetically predisposed to Alzheimer&#39;s disease. The 39-year-old actor has been told by medical experts that he is &quot;between eight and ten&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSVf4N7giNSfb8pdHRkazxtOz3og2FzBPV-XRWUPJPG_hCNrey71JKidxorF-zyTnrEfxIbfrSM" alt="Chris Hemsworth abandonne Marvel, Netflix et arrête le cinéma ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Pour des raisons médicales, l&#39;acteur Chris Hemsworth quitte Marvel, Netflix et le cinéma pendant quelque temps. Lorsqu&#39;un comédien plonge dans l&#39;univers du&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.hollywoodreporter.com/tv/tv-news/chris-hemsworth-increased-risk-alzheimers-limitless-1235264392/'>
+        </a><a href='https://www.cineserie.com/news/people/chris-hemsworth-annonce-faire-une-pause-pour-des-raisons-de-sante-5504361/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Chris Hemsworth on the “Intensity” of Discovering He&#39;s at Increased ...</h3>
+                <h3>Chris Hemsworth annonce faire une pause pour des raisons de santé</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTWUX4U4Rul6klG4oAQ0pUBYQJoTSI-EEm83Z_zXam1Tytt4P0hKGyiahFfKSYmv8_CN7beKZHF" alt="Chris Hemsworth on the “Intensity” of Discovering He&#39;s at Increased ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Chris Hemsworth on the experience of learning he has the APOE4 gene, which is linked to an increased risk of Alzheimer&#39;s disease, during Limitless.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSOsnOHm3fIG_iUlm9970Uivkz170kZ4967CkSbf7cZhxnCsbN6ZC_q_orthO4nSYk5G_9Qs5A6" alt="Chris Hemsworth annonce faire une pause pour des raisons de santé" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>L&#39;acteur australien Chris Hemsworth, figure emblématique du MCU, a annoncé prendre une pause pour des raisons de santé.</p></div>
             </div>
-        </a><a href='https://pagesix.com/2022/11/17/chris-hemsworth-discovers-genetic-predisposition-for-alzheimers/'>
+        </a><a href='http://braindamaged.fr/19/11/2022/chris-hemsworth-fait-une-pause-dans-sa-carriere-apres-un-diagnostic-medical-inquietant/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Chris Hemsworth discovers he has genetic predisposition for ...</h3>
+                <h3>Chris Hemsworth fait une pause dans sa carrière après un ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR-cPyzj8d3Zgzusgw-a_3dOr41y2EJVWheOLpHsxYaBi8sd6P9wf5Cxl9Dx7epjCnScYndNYVZ" alt="Chris Hemsworth discovers he has genetic predisposition for ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Chris Hemsworth discovered he has a genetic predisposition for Alzheimer&#39;s, making him &quot;eight to 10 times more likely&quot; to battle the disease.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQLuJdgWA_iARCFIycKP7J6HTQWecN_cHr4BrFKhndnle4EwASbY5Ye_aHwM3Aoggo1Oapo0RmV" alt="Chris Hemsworth fait une pause dans sa carrière après un ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Après un diagnostic de prédisposition à la maladie d&#39;Alzheimer, l&#39;acteur de Marvel Chris Hemsworth fait une pause dans sa carrière.</p></div>
             </div>
-        </a><a href='https://www.bhpioneer.com/lifestyles/entertainment/i-want-to-simplify-my-life-says-chris-hemsworth/article_1414e1db-b136-5a83-b3bc-cbcb225aae7b.html'>
+        </a><a href='https://www.tf1info.fr/culture/chris-hemsworth-decouvre-qu-il-a-un-risque-eleve-de-developper-la-maladie-d-alzheimer-predisposition-genetique-2239060.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>I want to simplify my life, says Chris Hemsworth</h3>
+                <h3>Chris Hemsworth découvre qu&#39;il a un risque élevé de développer la ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR5eg5_jPW4so5F8AbvQvixnOIgHb6Z1pWriGvwHb7LbIscgMsYD0fuyWvK6S7Gn3rGnxqAd8vw" alt="I want to simplify my life, says Chris Hemsworth" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Chris Hemsworth is eager to &quot;simplify&quot; his life. The 39-year-old actor was desperate for success earlier in his career, but Chris has become much more&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRCXpDqb2c64GK5SDcnoqyge8jM-tbeGJMf1CImyM2LmSf_f938KKaV5gRcCvk2poEwwS5T8KQS" alt="Chris Hemsworth découvre qu&#39;il a un risque élevé de développer la ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>[VIDÉO] ▶️ Dans une interview à &quot;Vanity Fair&quot;, le comédien s&#39;est livré sur son état de santé. Après avoir effectué un test génétique, il a découvert qu&#39;il&nbsp;...</p></div>
             </div>
-        </a><a href='https://nypost.com/2022/11/17/chris-hemsworth-at-high-risk-for-alzheimers-from-apoe4-genes/'>
+        </a><a href='https://www.aufeminin.com/news-people/chris-hemsworth-apres-des-resultats-medicaux-inquietants-l-acteur-fait-une-pause-dans-sa-carriere-s4053275.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>How Chris Hemsworth&#39;s genes put him at risk for Alzheimer&#39;s disease</h3>
+                <h3>Chris Hemsworth : après des résultats médicaux inquiétants, l&#39;acteur ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR-cPyzj8d3Zgzusgw-a_3dOr41y2EJVWheOLpHsxYaBi8sd6P9wf5Cxl9Dx7epjCnScYndNYVZ" alt="How Chris Hemsworth&#39;s genes put him at risk for Alzheimer&#39;s disease" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Chris Hemsworth learned he had two copies of a dominant gene that puts him at a greater risk for Alzheimer&#39;s, but doctors say it doesn&#39;t mean he&#39;ll develop&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQi2_1-Hyg0zB3-Q3xbBVn_ufYxkxZIwXIamtV6UIYDYniU7LNbmT-_u10jnlJBt2ugQ2JdkMd6" alt="Chris Hemsworth : après des résultats médicaux inquiétants, l&#39;acteur ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Actuellement au cœur d&#39;une série documentaire sur le corps humain, Chris Hemsworth a fait une découverte sur sa santé. L&#39;occasion pour lui de prendre du&nbsp;...</p></div>
             </div>
-        </a><a href='https://consequence.net/2022/11/chris-hemsworth-alzheimers/'>
+        </a><a href='https://fr.news.yahoo.com/ca-d%C3%A9clench%C3%A9-chose-face-%C3%A0-140000240.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&quot;My biggest fear&quot;: Chris Hemsworth reveals genetic predisposition ...</h3>
+                <h3>&quot;Ca a déclenché quelque chose en moi&quot; : face à la maladie d ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRhoO6B9FnbXYvxEKucbmMFBVGXBxj1hkny14zxZ7V5Kl5gXWiVASN9wyMYbm6KUdkejdqOti7Q" alt="&quot;My biggest fear&quot;: Chris Hemsworth reveals genetic predisposition ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Thor star received genetic testing for the docuseries, Limitless, which finds him grappling with aging and our bodies&#39; natural decline. He had planned to&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQzd0W2pzkyEhdhziOtGn91Y1mZ4GdXXD3PhNgGBvAOC0Shc7Fv6lDW9mYiX2LiM4w1p-IJOO0w" alt="&quot;Ca a déclenché quelque chose en moi&quot; : face à la maladie d ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Durant le tournage du docu-série Sans Limites pour Disney+, Chris Hemsworth a découvert qu&#39;il avait 8 à 10 fois plus...</p></div>
             </div>
-        </a><a href='https://www.wtnh.com/news/connecticut/chris-hemsworth-reveals-he-has-at-risk-gene-for-alzheimers-disease-but-what-does-that-mean/'>
+        </a><a href='https://www.tomsguide.fr/chris-hemsworth-thor-risque-de-developper-alzheimer-sa-plus-grande-peur/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Chris Hemsworth reveals he has at-risk gene for Alzheimer&#39;s ...</h3>
+                <h3>Chris Hemsworth (Thor) risque de développer Alzheimer, sa « plus ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSjBbv8gRESvn2cJEo8A5GVVwDXtuJrG6X_DGf2pc8KPSXB38Qrx2EtOLO7EYKqaJJL5t-mp9Wp" alt="Chris Hemsworth reveals he has at-risk gene for Alzheimer&#39;s ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Marvel star Chris Hemsworth has a gene that puts him at risk of developing Alzheimer&#39;s disease, the Thor actor announced during a media tour for his new&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRAfQU_zEp4qoZYvjEPuDml4bGBrUxTZsjb1uT3xRRdjf82cXXyu6PGYJ9_1PTAmjOSm7UpaV1e" alt="Chris Hemsworth (Thor) risque de développer Alzheimer, sa « plus ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>C&#39;est lors du tournage de sa docu-série Limitless With Chris Hemsworth, Chris Hemsworth a découvert qu&#39;il avait un risque accru de développer la maladie&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

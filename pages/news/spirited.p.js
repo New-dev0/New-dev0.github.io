@@ -18,7 +18,7 @@ export default function Page() {
                 <h3>&#39;Spirited&#39; Had Ryan Reynolds Trying Something New</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQZ48Y3Ap2EdbpqK1h3kgc8JXkfayRRf_9qEILI528W4GM41DOE8DYwnO-ZINl_AUrntfumnE_a" alt="&#39;Spirited&#39; Had Ryan Reynolds Trying Something New" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Spirited is a film that puts a new spin on the classic A Christmas Carol: It&#39;s a musical comedy version of the tale. That meant Ryan Reynolds,&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Ryan Reynolds and Will Ferrell in “Spirited,” now streaming on Apple TV+. Spirited is a film that puts a new spin on the classic A Christmas Carol: It&#39;s a&nbsp;...</p></div>
             </div>
         </a><a href='https://www.latimes.com/entertainment-arts/tv/story/2022-11-18/behind-the-scenes-ryan-reynolds-will-ferrell-good-afternoon-song-in-spirited'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -27,13 +27,6 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS6frVtF4UwyKHA320AOC8udbzruQOxEybfv78GGhjHZxhCM7FuzSXSJ5ZieurCXARAnFZlwYrf" alt="Inside Reynolds, Ferrell &#39;Good Afternoon&#39; song in &#39;Spirited&#39;" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>How did that madcap song and dance &#39;Good Afternoon&#39; come together in Apple TV+&#39;s &#39;Spirited&#39;? A lot of tap-dancing takes for stars Ryan Reynolds and Will&nbsp;...</p></div>
             </div>
-        </a><a href='https://time.com/6235153/spirited-a-christmas-carol-history/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>How &lt;i&gt;Spirited&lt;/i&gt; Continues a Long Legacy of &lt;i&gt;Christmas Carol ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRKHFQwaAKJVzFCCTUk7_8C3-D91N-6QI15Zzx7rcAMSjWet4Izau4ubU0EiWZhUVbwIfJc5Siu" alt="How &lt;i&gt;Spirited&lt;/i&gt; Continues a Long Legacy of &lt;i&gt;Christmas Carol ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>In &#39;Spirited,&#39; Ryan Reynolds (as consultant Clint Briggs) and Will Ferrell (as the Ghost of Christmas Present) rewrite &#39;A Christmas Carol.&#39;</p></div>
-            </div>
         </a><a href='https://dmtalkies.com/spirited-ending-explained-2022-appletv-comedy-drama-film-sean-anders/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>&#39;Spirited&#39; Ending, Explained: Why Did Present Choose To Not Retire ...</h3>
@@ -41,19 +34,19 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT2FwYGj4FZg5yXbchiBlbJ0LOf1QYBR1pi6BXbCDUBvhOic_3amD5rrOGVO7dE10UhjLCmkS7f" alt="&#39;Spirited&#39; Ending, Explained: Why Did Present Choose To Not Retire ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>The Ryan Reynolds and Will Ferrell-starring Christmas musical &quot;Spirited&quot; is all about redeeming oneself. Each year, the afterlife world chooses one.</p></div>
             </div>
-        </a><a href='https://9to5mac.com/2022/11/18/spirited-movie-how-to-watch-apple-tv/'>
+        </a><a href='https://www.tvinsider.com/gallery/spirited-best-musical-numbers-will-ferrell-ryan-reynolds-pasek-paul/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>How to watch Spirited, the new Christmas movie on Apple TV+</h3>
+                <h3>7 &#39;Spirited&#39; Musical Numbers You&#39;ll Be Humming All Day Long</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSEKmoo2o91YQLxEy1eM5Y8vz_pY8rHWM_h6JxrMhYlTCfweivqdvjCdJ6Luci2mNyAzHCljFkU" alt="How to watch Spirited, the new Christmas movie on Apple TV+" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Alongside Reynolds and Ferrell, Octavia Spencer and Sunita Mani round out the main cast. Spirited&#39;s musical comedy format features original songs by Oscar&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSIhKTQBPyutERmVz_LCoCvRfZHbp8RePsfPBUWkQ9I0R0dFuKoK-IV6T7qVbiMZ4EwBxyTJTS-" alt="7 &#39;Spirited&#39; Musical Numbers You&#39;ll Be Humming All Day Long" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>If you love movie musicals, Will Ferrell, and Ryan Reynolds, you&#39;ll love &#39;Spirited.&#39;</p></div>
             </div>
-        </a><a href='https://www.digitalspy.com/movies/a41994137/spirited-ending-suicide-josh/'>
+        </a><a href='https://readysteadycut.com/2022/11/19/spirited-review/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Spirited features one of the worst movie decisions of the year</h3>
+                <h3>Spirited review - an utterly charming musical take on a classic tale</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTYNZLgM3YjMpsg5YRBIYIWqht92MZyRM8rn08URIX-wgLrhc2Pzh0wLnsQbN-3VEu0na4As0hg" alt="Spirited features one of the worst movie decisions of the year" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>As in that story (and every A Christmas Carol adaptation), we watch as a generally awful human – this time around, PR executive Clint Briggs (Ryan Reynolds) –&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRC2dLWOQCKACCmfZeQ9qvg1iyEeLVG3yy0lRLjkWUlvvrISDJM98aheFsf5pIWCLJUBO-X8A0m" alt="Spirited review - an utterly charming musical take on a classic tale" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>We review the Apple TV+ film Spirited (directed by Sean Anders, which does not contain spoilers or major plot points.</p></div>
             </div>
         </a><a href='https://decider.com/2022/11/18/spirited-apple-tv-plus-review/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

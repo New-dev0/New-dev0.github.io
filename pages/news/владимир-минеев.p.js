@@ -20,19 +20,26 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS8NNGsTId0E2jrnUGzW1-A3EJdoepYtnsk_ZAr2ZQ45zJQnO3SD1idNGMb33ci-NzYO4ZPHdjX" alt="Ответил борзому бразильцу. Минеев вбил в Родригеса ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>18 ноября в Москве на «ЦСКА Арене» состоялся очередной турнир «Бойцовского клуба РЕН ТВ». Главным событием вечера стал поединок по правилам кикбоксинга между&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sport-express.ru/martial/mma/online/vladimir-mineev-fernando-rodriges-pryamaya-translyaciya-boya-gde-smotret-efir-ren-tv-yutub-onlayn-poedinka-1999664/'>
+        </a><a href='https://www.sport-express.ru/martial/mma/reviews/mma-vladimir-mineev-pobedil-brazilca-fernando-rodrigesa-podrobnosti-boya-18-noyabrya-2022-goda-1999952/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Владимир Минеев победил Фернандо Родригеса: онлайн ...</h3>
+                <h3>Минеев заставил понервничать, но все же избил огромного ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQrSTheEo4EfrXFmuhqJtTZCoaJf9R0SaDGtdz67uTOeIZeeD2zYJ1MAGh-RsN5XkPBxBgK2_ZR" alt="Владимир Минеев победил Фернандо Родригеса: онлайн ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Заврешился турнир «Бойцовский клуб РЕН ТВ» главным событием которого стал бой Владимира Минеева и Фернандо Родригеса: Владимир Минеев (Россия) — Фернандо&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSzhz5SDk6sXmXVBCR7rUXFlXNC02o9VyA9fusNZdtyWISqdsz2mTDubkBWFxGCg7_E6sGIBnzt" alt="Минеев заставил понервничать, но все же избил огромного ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Родригес свой предыдущий бой проиграл экс-бойцу UFC Карлосу Фелипе — соотечественники встретились в августе по правилам кулачки, и Фелипе забрал победу решением&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sports.ru/boxing/1113375504-vladimir-mineev-nokautiroval-fernando-rodrigesa-v-tretem-raunde.html'>
+        </a><a href='https://ulpressa.ru/2022/11/19/%D0%B1%D0%BE%D0%B5%D1%86-%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%BC%D0%B8%D0%BD%D0%B5%D0%B5%D0%B2-%D0%BD%D0%BE%D0%BA%D0%B0%D1%83%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BB-%D0%B1%D1%80/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Владимир Минеев нокаутировал Фернандо Родригеса в третьем ...</h3>
+                <h3>Боец Владимир Минеев нокаутировал бразильца Родригеса ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR7ZORtjTaVCu4PTptl--YvjrsWuE_aQoqlSGTuVWk-Izr1c853T9_MTx3Ua5E-9izGf8Zor4DG" alt="Владимир Минеев нокаутировал Фернандо Родригеса в третьем ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В Москве завершился турнир Бойцовского клуба Рен-ТВ, в главном событии которого прошел поединок по правилам кикбоксинга между Владимиром Минеевым и Фернандо&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTdSAV4dKbBTSjl6st4uqD4_Agzc0NIx9bihdG65F-vEfDdhMtSxwDgUlrkHGCxXGPBuJ_fMPqf" alt="Боец Владимир Минеев нокаутировал бразильца Родригеса ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ульяновский боец смешанного стиля (ММА), чемпион AMC Fight Nights в среднем весе Владимир Минеев одержал победу над бразильцем Фернандо Родригесом в&nbsp;...</p></div>
+            </div>
+        </a><a href='https://news.sportbox.ru/Vidy_sporta/edinoborstva/spbnews_NI1726027_Minejev_izbil_ogromnogo_brazilca_pered_uhodom_na_front_No_vso_ravno_ostalsa_nedovolen'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Минеев избил огромного бразильца перед уходом на фронт. Но ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTBvKOcUimyk9mVP24u0QHd8Hbv0DD4zfs_PScQ00wLU1grcS9SvPo8eFY8uXD6FHi2KHHkO1iy" alt="Минеев избил огромного бразильца перед уходом на фронт. Но ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Волжанин оказался недоволен досрочной остановкой поединка в бою с бразильским здоровяком.</p></div>
             </div>
         </a><a href='https://mma.metaratings.ru/news/kogda-boj-vladimir-mineev-fernando-rodriges-data-i-vremya-nachala-boya-54209/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -41,19 +48,12 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR_0DrpR33eH5J6JvQxViOWmSo5G2pIzcsXCs2_ObcLc6J91urrOWKrYWkwhLVpZX7CYFkMY7IK" alt="Когда бой Владимир Минеев – Фернандо Родригес: дата и время ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>18 ноября в Москве в рамках турнира «Бойцовского клуба РЕН ТВ» состоится поединок по правилам кикбоксинга между российским бойцом Владимиром Минеевым и&nbsp;...</p></div>
             </div>
-        </a><a href='https://fighttime.ru/news/item/30044-vladimir-mineev-nokautiroval-fernando-rodrigesa.html'>
+        </a><a href='https://www.sports.ru/boxing/1113375504-vladimir-mineev-nokautiroval-fernando-rodrigesa-v-tretem-raunde.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Владимир Минеев нокаутировал Фернандо Родригеса</h3>
+                <h3>Владимир Минеев нокаутировал Фернандо Родригеса в третьем ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ6VfatMlkzraV6cPQUJahQzQW5Tn5vd14bp5EHPpWj33l3ITCXLQ02phBPEU_erh3hpRMGhjbK" alt="Владимир Минеев нокаутировал Фернандо Родригеса" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Действующий чемпион AMC Fight Nights в среднем весе, Владимир Минеев, стал обладателем титула «Бойцовского клуба РЕН ТВ» в супертяжелой весовой категории,&nbsp;...</p></div>
-            </div>
-        </a><a href='https://life.ru/p/1539979'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Боец ММА Минеев победил бразильца Родригеса нокаутом в ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcROiNztg4MOaC5m1mZdn8lykJVfw4j9_z4QLRiZOn5OsLtUtzVD-Gvk2nckg6XED1i-DQmOuFjE" alt="Боец ММА Минеев победил бразильца Родригеса нокаутом в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Российский боец смешанных единоборств Владимир Минеев уверенно победил бразильца Фернандо Родригеса. Уже в третьем раунде противостояния он отправил&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTUt4-L40gkQGrMdQ0MX98IfD_gl6XMFx781XH65RhVcZDu8NGuDQB8rIEFYRtT-qAM0V0UmVbP" alt="Владимир Минеев нокаутировал Фернандо Родригеса в третьем ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Здесь пока ничего нет. Главные новости. 18:15 UFC Fight Night 215: Спивак против Льюиса, Куцелаба – Нзечакву и другие бои&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

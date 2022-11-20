@@ -27,12 +27,12 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQrZVfRC7wXU4dQ-N-_6l7K17mlDf1ftinB5-r7NM_pZ7uRxR4JouEoXvdXrMTetKv7bB6CfAwI" alt="Заря – Александрия. Лучшие моменты матча 14 тура Украинской ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>18 ноября состоялся матч 14 тура Украинской Премьер-лиги 2022 года. Игра состоялась в Киеве на стадионе &quot;Динамо&quot; имени Валерия Лобановского. На поле&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.ua-football.com/ukrainian/high/1668775002-razgrom-kotorogo-ne-zhdali-zarya-aleksandriya-4-1.html'>
+        </a><a href='https://www.ua-football.com/ukrainian/high/1668747697-zorya-aleksandriya-smotret-onlayn-pryamaya-translyaciya-matcha-chempionata-ukrainy.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Разгром, которого не ждали. Заря - Александрия 4:1</h3>
+                <h3>Зоря - Александрия: смотреть онлайн прямая трансляция матча ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTdPiW23raOm1I9nwPdxDxZQ_Xb1QeyakHZe8Gi-ipXcVyA5IN2H3QpAScfyhyadI3BUs8SCkmw" alt="Разгром, которого не ждали. Заря - Александрия 4:1" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>18-11-2022 ✓ Премьер-лига. Луганчане за тринадцать минут деклассируют своего прямого конкурента в борьбе за третью строчку: В двенадцати предыдущих матчах&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRttx7MGzq9g8wH7tBsqb4Iz_ouqZvlLr8Z5kNe8XGDFORS8UCFnP13btLZO8KD2WQuNKZKQHNk" alt="Зоря - Александрия: смотреть онлайн прямая трансляция матча ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Зоря - Александрия ⚽ 18.11.2022 ⚽ Смотреть онлайн трансляцию матча ✓ УПЛ ✓ Футбольные видеотрансляции ☛ Матчи чемпионата Украины на UA-Футбол.</p></div>
             </div>
         </a><a href='https://football24.ua/ru/zarja__aleksandrija__41__video_golov_i_obzor_matcha_s_istoricheskim_dublem_butko_n747819/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

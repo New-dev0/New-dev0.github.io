@@ -11,49 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Elizabeth Holmes"/>
         <meta name="description" content="Trending News about Elizabeth Holmes" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Elizabeth Holmes</h1>
-            <Image width={800} height={500} src="https://img.rasset.ie/001cd98e-1600.jpg" alt="Elizabeth Holmes"/>
+            <Image width={800} height={500} src="https://www.bloomberglinea.com/resizer/3tJCGNVCsMD9hztsqeZhkLxa9fE=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/BUA6OI3IZVDN7AGP7YV7RT7UM4.jpg" alt="Elizabeth Holmes"/>
             <h3>Recent News</h3>
-            <a href='https://www.rte.ie/news/2022/1118/1336981-elizabeth-holmes-theranos/'>
+            <a href='https://www.bloomberglinea.com.br/2022/11/19/elizabeth-holmes-fundadora-da-theranos-e-condenada-a-mais-de-11-anos-de-prisao/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Theranos founder sentenced to over 11 years for fraud</h3>
+                <h3>Elizabeth Holmes, fundadora da Theranos, é condenada a mais de ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTlhxDE5M-3DQQtAwJd4qx0ft45YXqZJKdoHIPF-idm7DLHqeq-2NRr_aq03xjaheYlMKsBHoW0" alt="Theranos founder sentenced to over 11 years for fraud" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A California judge has sentenced Theranos founder Elizabeth Holmes to 11 years and three months in prison for defrauding investors in her now-defunct&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR-xsqMGL37HxNgb-8rkR25y_uNSzz-iRlD7n8QcHpnsB-CVjtxtpL8wLzEeYyZgJPDwZIyy2ys" alt="Elizabeth Holmes, fundadora da Theranos, é condenada a mais de ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Empreendedora cuja história inspirou série e filme foi considerada culpada por ter enganado investidores e consumidores com sua empresa de exames de sangue.</p></div>
             </div>
-        </a><a href='https://www.irishexaminer.com/world/arid-41010296.html'>
+        </a><a href='https://www.correiodopovo.com.br/jornalcomtecnologia/elizabeth-holmes-%C3%A9-condenada-a-11-anos-de-pris%C3%A3o-por-fraude-com-theranos-1.925302'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Theranos founder Elizabeth Holmes sentenced to more than 11 years</h3>
+                <h3>Elizabeth Holmes é condenada a 11 anos de prisão por fraude com ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ3oRPCkYmvWjpgTQpFr8aIbjpzaRfBJIEK6lTPC0eQzkhGvoNfiRamU5b2e-jaM6VqDZBLLvGI" alt="Theranos founder Elizabeth Holmes sentenced to more than 11 years" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Theranos founder was convicted on four counts of defrauding nearly $121m after her blood testing firm collapsed.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSCmzzYlc5geIhugFeRiTV1CBDUByAXcalIQdTQxVMNp2pK_AReKG6pU3M9MllU28kXCk-1swut" alt="Elizabeth Holmes é condenada a 11 anos de prisão por fraude com ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A empresária americana Elizabeth Holmes foi condenada nesta sexta-feira (18) a pouco mais de 11 anos por fraudar investidores com a Theranos, sua empresa de&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.theguardian.com/us-news/2022/nov/18/elizabeth-holmes-theranos-trial-sentencing'>
+        </a><a href='https://glamurama.uol.com.br/notas/condenada-nesta-sexta-a-11-anos-de-prisao-elizabeth-holmes-esta-sendo-considerada-sortuda-entenda/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Theranos founder Elizabeth Holmes sentenced to more than 11 ...</h3>
+                <h3>Condenada nesta sexta a 11 anos de prisão, Elizabeth Holmes está ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSYzfjPaGCa31o3l7DgfxtKTXA16wwg75WNNL-1d5usriRhjeM8K8L5XIeW6xA4pbSD8kD48xO5" alt="Theranos founder Elizabeth Holmes sentenced to more than 11 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>She was convicted in January on four counts of deceiving investors with fraudulent claims on her blood testing startup.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSHbOS022iVIykdPHvJcviQ8xZ-3bpRG6nxCSBQ-SKaEUFpRHX0ZlCsg3X_a1XAnhy39F4EAXbu" alt="Condenada nesta sexta a 11 anos de prisão, Elizabeth Holmes está ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Em julgamento desde janeiro, depois de vários adiamentos para sentar no banco dos réus, Elizabeth Holmes foi finalmente condenada nessa sexta-feira a viver&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.kosu.org/technology/2022-11-18/elizabeth-holmes-sentenced-to-11-years-in-prison-for-theranos-fraud'>
+        </a><a href='https://www.hojeemdia.com.br/geral/elizabeth-holmes-fundadora-da-empresa-theranos-e-condenada-a-11-anos-de-pris-o-por-fraude-1.933418'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Elizabeth Holmes sentenced to 11 years in prison for Theranos fraud</h3>
+                <h3>Elizabeth Holmes, fundadora da empresa Theranos, é condenada a ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTGzUpY4INZPT3gPC7B2m-H9bMEbWaVeTICe79Tv_xAs7lLA4GRgQySWdeYcfNESuGmbmsrDF3g" alt="Elizabeth Holmes sentenced to 11 years in prison for Theranos fraud" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Former Theranos CEO Elizabeth Holmes arrives for her sentencing at federal court with her partner Billy Evans in San Jose, California. Holmes was convicted of&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSTMrLp_zPSGBmgZqvaimnnGBkdfYC_5EZaSqdA46G7EGvsRW27Uh82Cmrym5ENelNPXByd2M1z" alt="Elizabeth Holmes, fundadora da empresa Theranos, é condenada a ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A empresária Elizabeth Holmes, 38 anos, foi condenada a 11 anos de prisão por fraude com a empresa Theranos, no qual ela é fundadora, nesta sexta-feira (18)&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.ft.com/content/3ab080c9-c13d-40b3-a697-9c58fd9e218c'>
+        </a><a href='https://epocanegocios.globo.com/empresas/noticia/2022/11/empresaria-que-chegou-a-ser-considerada-nova-steve-jobs-e-condenada-a-11-anos-de-prisao.ghtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Elizabeth Holmes sentenced to more than 11 years for Theranos fraud</h3>
+                <h3>Empresária que chegou a ser considerada &#39;nova Steve Jobs&#39; é ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRpG2JKnWSPWo8vHMFTNOj27YMmtuTjzpT96-b4cTLg_YFiLqK7ogrXP2JmFxNyn1ZIZdh1NwZo" alt="Elizabeth Holmes sentenced to more than 11 years for Theranos fraud" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Judge&#39;s decision caps blood-testing company saga that put a spotlight on Silicon Valley start-up culture.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQVWG9sgChlIGtdGa89-fn4JztbyoUEqjHoeYVwm3rGURkOGVSpI3ZDYD_WvqV7P5rHvDisAbl7JQ" alt="Empresária que chegou a ser considerada &#39;nova Steve Jobs&#39; é ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Elizabeth Holmes, uma polêmica empresária do Vale do Silício, foi condenada nesta sexta-feira (18/11) a 11 anos de prisão por um juiz da Califórnia,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.independent.ie/world-news/north-america/elizabeth-holmes-gets-more-than-11-years-in-prison-for-theranos-scam-42156567.html'>
+        </a><a href='https://24.sapo.pt/atualidade/artigos/elizabeth-holmes-e-condenada-a-11-anos-de-prisao-por-fraude-com-theranos'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Elizabeth Holmes gets more than 11 years in prison for Theranos ...</h3>
+                <h3>Lembra-se de Elizabeth Holmes? Foi condenada a 11 anos de ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRo40ntS0HNGJLJXJyU1ArIcCQI6UH8ofDdWeg4mD5g_8lcFbZbPd9djUr3AUNjr5UcgYZp1q2N" alt="Elizabeth Holmes gets more than 11 years in prison for Theranos ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A federal judge has sentenced disgraced Theranos chief executive Elizabeth Holmes to more than 11 years in prison for duping investors in the failed&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTT53xNXk_G55uA441j6azKhIdyK3bYqRahPAatgWcEH347QGmW9DHzlqe76uEWQ2KgIMLPd0ra" alt="Lembra-se de Elizabeth Holmes? Foi condenada a 11 anos de ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A empresária americana Elizabeth Holmes foi condenada nesta sexta-feira cerca de 11 anos de prisão por defraudar investidores com a Theranos, a sua empresa&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.moneyreport.com.br/justica/ex-estrela-do-vale-do-silicio-e-condenada-a-11-anos-de-prisao-por-fraude/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Ex-estrela do Vale do Silício é condenada a 11 anos de prisão por ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR-agGfQIJVTTJhXt-XE0lTl3okOQJEd5RIaSwMWFIz6nFrBaMs6rpox59YUsvYocIuxmnBjr4t" alt="Ex-estrela do Vale do Silício é condenada a 11 anos de prisão por ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Fundadora da Theranos, Elizabeth Holmes enganou até Rupert Murdoch com a promessa de uma tecnologia inexistente para exames de sangue Em 2003, aos 19 anos,&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

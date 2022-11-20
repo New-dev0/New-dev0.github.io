@@ -11,21 +11,21 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Yuji Naka"/>
         <meta name="description" content="Trending News about Yuji Naka" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Yuji Naka</h1>
-            <Image width={800} height={500} src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/1d837a240a361d7ed0b87aab1ae339c8.jpg" alt="Yuji Naka"/>
+            <Image width={800} height={500} src="https://imageio.forbes.com/specials-images/imageserve/637873dc0f6e7922fe2d6c15/0x0.jpg?format=jpg&crop=2895,1628,x0,y0,safe&width=1200" alt="Yuji Naka"/>
             <h3>Recent News</h3>
-            <a href='https://www.avclub.com/sonic-the-hedgehog-creator-yuji-naka-arrested-1849802517'>
+            <a href='https://www.forbes.com/sites/olliebarder/2022/11/19/sonic-the-hedgehog-co-creator-yuji-naka-arrested-on-suspicion-of-insider-trading/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>&#39;Sonic The Hedgehog&#39; Co-Creator Yuji Naka Arrested On Suspicion ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQE1HmJ3CCrQHKg3sI0NcpNjXqZKoL1I8Pk7l-qMuByxf_eT9Q0LQAbEj77_9Jyh593KLUEnsCv" alt="&#39;Sonic The Hedgehog&#39; Co-Creator Yuji Naka Arrested On Suspicion ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Tokyo District Public Prosecutors Office arrested &#39;Sonic the Hedgehog&#39; co-creator and game director Yuji Naka on Friday on suspicion of insider trading.</p></div>
+            </div>
+        </a><a href='https://www.avclub.com/sonic-the-hedgehog-creator-yuji-naka-arrested-1849802517'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Sonic The Hedgehog creator Yuji Naka arrested for alleged insider ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTF08fm4BguAF_pWiwHa9G3Ew46WoximqlETcJkLTmK3trwkXXEb8b5LTo9ijGnTwmkw1OTjHZP" alt="Sonic The Hedgehog creator Yuji Naka arrested for alleged insider ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Yuji Naka, alongside two former Square Enix employees, is accused of buying shares before information was publicly released about a Dragon Quest mobile&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.latimes.com/entertainment-arts/story/2022-11-18/yuji-naka-arrested-insider-trading-sonic-dragon-quest'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Sonic co-creator Yuji Naka accused of insider trading</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRk4iUftRBAnhR9w_UTUdumuQ9f7_xBxe901dJhdXtwPpN7S1MhCmFxOuXIuNUlu_57gP11BwXa" alt="Sonic co-creator Yuji Naka accused of insider trading" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>&#39;Sonic&#39; co-creator Yuji Naka was arrested in Japan on suspicion of insider trading involving his former employer Square Enix and the &#39;Dragon Quest&#39; mobile&nbsp;...</p></div>
             </div>
         </a><a href='https://www.polygon.com/23465970/sonic-yuji-naka-insider-trading-arrest-square-enix-dragon-quest-tact'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -34,12 +34,12 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTWaClxANCXbhxgX2p7s-Pw1k3-NNvCKZsXL6EBtk3iangP3CqqWeqJOnET9sZMujx9KWJN14qc" alt="Sonic the Hedgehog creator Yuji Naka arrested for insider trading" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>The former Sonic Team boss at Sega is said to have bought stock in Dragon Quest Tact developer Aiming based on inside information while at Square Enix&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.gameinformer.com/2022/11/18/sonic-designer-yuji-naka-arrested-for-alleged-insider-trading'>
+        </a><a href='https://www.nintendolife.com/news/2022/11/yuji-naka-reportedly-arrested-during-square-enix-insider-trading-investigation'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Sonic Designer Yuji Naka Arrested For Alleged Insider Trading</h3>
+                <h3>Yuji Naka Reportedly Arrested During Square Enix Insider Trading ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTLkofZBrv3jr_U8x-_hSYRst0jM6baduDpgpUa2A3wP2X6OxP6Up_lYH8zGt5BmjoASnRv0dWG" alt="Sonic Designer Yuji Naka Arrested For Alleged Insider Trading" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>According to the Japanese news outlet FNN, the last 24 hours saw ex-Square Enix employee Taisuke Sazaki and his friend Fumiaki Suzuki arrested on suspicion for&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSz2lEvh94GbehjyC9jBTCrUphbgIqjWSVRTImm-zaf0KxuzJ-iUtN75HJzNtsM5bGBCdTyq1yf" alt="Yuji Naka Reportedly Arrested During Square Enix Insider Trading ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Linked to a Dragon Quest mobile announcement - Yuji Naka - the co-creator of Sonic and the more recent release Balan Wonde...</p></div>
             </div>
         </a><a href='https://www.theverge.com/2022/11/18/23465956/sonic-yuji-naka-arrested-insider-trading-scandal-game'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

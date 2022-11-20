@@ -27,20 +27,6 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQH7s2i4UogdCjK1z3oXxdUXGmWXdTjjY57PihX3e8In9P1m-7aY6lbOzxqBq3HAzDc4kfQgZ32" alt="World Rugby bans Bok supremo Rassie Erasmus again after ref ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>World Rugby has banned SA&#39;s director of rugby, Rassie Erasmus, for the second time in a year for his off-field antics and attacks on match officials.</p></div>
             </div>
-        </a><a href='https://www.sarugbymag.co.za/mallet-rassies-tweets-harm-good/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mallett: Rassie&#39;s tweets doing more harm than good</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSvuFXPTmaj9aRTwvsuba5VVNtR3Pdmqu9fBtI56wwusDTMJdyQzOhr9NC_QO8n5f-K0bTC9gfM" alt="Mallett: Rassie&#39;s tweets doing more harm than good" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Nick Mallett says Rassie Erasmus is to blame for the Springboks being the “least-liked team in the world” and not getting the 50-50 calls from referees.</p></div>
-            </div>
-        </a><a href='https://www.iol.co.za/sport/rugby/springboks/world-rugby-referee-boss-joel-jutge-rassie-erasmus-opens-the-door-to-violent-behaviour-with-his-tweets-and-videos-3ea083de-3cc3-4d0c-9919-a20ffb6d49e4'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Rugby referee boss Joël Jutge: Rassie Erasmus opens the ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQDmHjQ2V2kUigtJgPFGTNxuORxbutg77xzVbTHt4Mt1iHlWORfUAzWy0Hty4qshRadv0veQ96A" alt="World Rugby referee boss Joël Jutge: Rassie Erasmus opens the ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>World Rugby&#39;s head of match officials Joël Jutge believes Rassie Erasmus&#39; series of tweets and videos following the Springbok Tests against Ireland and&nbsp;...</p></div>
-            </div>
         </a><a href='https://www.world.rugby/news/777605/world-rugby-statement-rassie-erasmus-social-media-commentary-on-match-officials'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>World Rugby statement: Rassie Erasmus social media commentary ...</h3>
@@ -48,12 +34,26 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRplbU2Iijo9Ol9luRVWGPFbIgSMBbTckLj2ihH7787NmBpUGjnxl3xaP8xC1DJ3DnlHQUsC4dZ" alt="World Rugby statement: Rassie Erasmus social media commentary ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>World Rugby has issued SA Rugby Director of Rugby Rassie Erasmus with a ban on all match day activities for two matches as a result of recent social media&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.planetrugby.com/news/springboks-nick-mallett-blames-rassie-erasmus-for-south-africa-getting-bad-calls'>
+        </a><a href='https://www.iol.co.za/saturday-star/news/carping-point-rassie-erasmus-is-at-real-risk-of-ruining-his-deserved-reputation-d81eeb28-73bd-40ef-aa0d-2d69b51615a8'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Springboks: Nick Mallett blames Rassie Erasmus for referees&#39; &#39;bad ...</h3>
+                <h3>Carping Point: Rassie Erasmus is at real risk of ruining his deserved ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTt7_tPem4RwpyXZ0EgezejgRpTXamkwDZ6416WhdzbDefvqWIO3RBrh0Otgn_H_Q2pAxgv4SzN" alt="Springboks: Nick Mallett blames Rassie Erasmus for referees&#39; &#39;bad ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ex-Springboks head coach Nick Mallett feels rugby referees are being harsher on South Africa due to Rassie Erasmus&#39; criticism of match officials.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRmWTK1l3188uFJtnkSo_QqjBiFcOm2453BTEwaXCjHrqTXyDHf54aVJPi39z-pRyiI60iRPNpJ" alt="Carping Point: Rassie Erasmus is at real risk of ruining his deserved ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Gauteng Lions&#39; Rugby Union is running out of referees.</p></div>
+            </div>
+        </a><a href='https://www.sarugbymag.co.za/mallet-rassies-tweets-harm-good/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Mallett: Rassie&#39;s tweets doing more harm than good</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSvuFXPTmaj9aRTwvsuba5VVNtR3Pdmqu9fBtI56wwusDTMJdyQzOhr9NC_QO8n5f-K0bTC9gfM" alt="Mallett: Rassie&#39;s tweets doing more harm than good" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Nick Mallett says Rassie Erasmus is to blame for the Springboks being the “least-liked team in the world” and not getting the 50-50 calls from referees.</p></div>
+            </div>
+        </a><a href='https://ewn.co.za/2022/11/17/rassie-erasmus-banned-for-two-games-over-latest-referee-tweets'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Rassie Erasmus banned for two games over latest referee tweets</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ5xEFhIgP0jdL3MilcZ6u-p7jzVRvNNHkPHXfrWrpF2W79oAlhGJQnmcYv9w9Q5XrSyxK9zlsL" alt="Rassie Erasmus banned for two games over latest referee tweets" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>South Africa director of rugby Rassie Erasmus was suspended by World Rugby on Thursday following his criticism of refereeing decisions during the ongoing&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

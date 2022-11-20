@@ -11,49 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Millie Gibson"/>
         <meta name="description" content="Trending News about Millie Gibson" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Millie Gibson</h1>
-            <Image width={800} height={500} src="https://ichef.bbci.co.uk/news/1024/branded_news/544B/production/_127697512_mg.jpg" alt="Millie Gibson"/>
+            <Image width={800} height={500} src="https://cdn1-www.superherohype.com/assets/uploads/2022/11/Millie-Gibson-Doctor-Who-2.jpg" alt="Millie Gibson"/>
             <h3>Recent News</h3>
-            <a href='https://www.bbc.com/news/entertainment-arts-63675140'>
+            <a href='https://www.superherohype.com/tv/522175-millie-gibson-cast-as-the-new-companion-in-doctor-who'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Doctor Who: Millie Gibson revealed as Ncuti Gatwa&#39;s companion</h3>
+                <h3>Millie Gibson Cast as the New Companion In Doctor Who</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQbSzVPYjrdvyDdha9l82mN1Ymcn2HOA5AJVwJ7N0f_FM4MtznnRdUsDM0GLjg71iP6TTxj1Eqc" alt="Doctor Who: Millie Gibson revealed as Ncuti Gatwa&#39;s companion" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The 18-year-old Coronation Street actress will play Ruby Sunday in the long-running sci-fi drama.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRgwZ-5KxzOPn8RPdEJO-2LW7ExU4n1M5ovIE-bCp4Yzx2zlqGAQtIpwRClOwBPRXj-dajJ5DqA" alt="Millie Gibson Cast as the New Companion In Doctor Who" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>When Ncuti Gatwa&#39;s Fifteenth Doctor takes over the TARDIS in 2023, he will be joined by Doctor Who&#39;s newest cast member, Millie Gibson.</p></div>
             </div>
-        </a><a href='https://www.theguardian.com/tv-and-radio/2022/nov/18/millie-gibson-revealed-as-doctor-whos-new-sidekick'>
+        </a><a href='https://www.upi.com/Entertainment_News/TV/2022/11/19/doctor-who/9021668865386/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Millie Gibson revealed as Time Lord&#39;s new sidekick in Doctor Who</h3>
+                <h3>Millie Gibson will be new companion on &#39;Doctor Who&#39;</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSwyxEfDlIbnFEKQQ0E8lO8l139ZxYm90zOd9qsDjSQvFsIkZY6H0GygoigikkFndvVXboT8VVo" alt="Millie Gibson revealed as Time Lord&#39;s new sidekick in Doctor Who" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Coronation Street actor will appear as companion to Ncuti Gatwa&#39;s 15th incarnation of the Doctor late in 2023.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS2YKLv7rgzGdxv6vZCF3jvNS-P38Bi56fLwmJ87e4U7DZUg8pB-YbYrXkXgJaLH6SvUZTmSjds" alt="Millie Gibson will be new companion on &#39;Doctor Who&#39;" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Nov. 19 (UPI) -- Coronation Street and Butterfly actress Millie Gibson has signed on to play the titular time-traveler&#39;s companion in Doctor Who next year.</p></div>
             </div>
-        </a><a href='https://www.breakingnews.ie/entertainment/coronation-street-actress-millie-gibson-revealed-as-doctor-whos-15th-companion-1394417.html'>
+        </a><a href='https://wdwnt.com/2022/11/millie-gibson-cast-as-new-doctor-who-companion/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Coronation Street actress Millie Gibson revealed as Doctor Who&#39;s ...</h3>
+                <h3>Millie Gibson Cast as New Doctor Who Companion</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRIG981UKVZ1BqA81WPV5ts-k2Z-nu0JqpBY7VLirPtzyMaCRghqCU4kLRaAEv3Dx_wYbG_5iih" alt="Coronation Street actress Millie Gibson revealed as Doctor Who&#39;s ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The 18-year-old will be called Ruby Sunday and travel alongside Sex Education star Ncuti Gatwa, who takes over as the Doctor in 2023.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTe7V1b6evVxNOSE5WAJPqmV0f6iJVpKor66RlPMIChqFtDrAy67dRVcYwKe6HMAG2UFcpjKX2H" alt="Millie Gibson Cast as New Doctor Who Companion" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>&quot;Doctor Who&quot; has announced that Millie Gibson will be the companion to Ncuti Gatwa&#39;s Doctor beginning in 2023.</p></div>
             </div>
-        </a><a href='https://www.bbc.co.uk/mediacentre/2022/millie-gibson-doctor-who-companion-fifteenth-doctor'>
+        </a><a href='https://www.tvfanatic.com/2022/11/doctor-who-millie-gibson-set-as-latest-companion/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Millie Gibson joins cast of Doctor Who as companion to the Fifteenth ...</h3>
+                <h3>Doctor Who: Millie Gibson Set as Latest Companion</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQlKCacyNSJMNBYKgHE6JyxAIs4FNCkSWcNUF-SY6of9Vh9G0vEm7R-ELi1osTd_ZE6vQGMqRLg" alt="Millie Gibson joins cast of Doctor Who as companion to the Fifteenth ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Starring alongside Ncuti Gatwa, Millie will make her debut over the festive season in 2023 when the Fifteenth Doctor takes control of the TARDIS.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSCy8InH4Byz7CfCFpWIik4_2whLzIkTpWn_piR16BVYfFETwPUpVhg2EoEgrAhDL1DyxTX_Dl9" alt="Doctor Who: Millie Gibson Set as Latest Companion" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Doctor Who has locked in another cast member ahead of its big revamp. Get all the casting details right here via TV Fanatic.</p></div>
             </div>
-        </a><a href='https://news.sky.com/story/a-gift-of-a-role-coronation-street-star-millie-gibson-revealed-as-ncuti-gatwas-doctor-who-companion-12750647'>
+        </a><a href='https://news.yahoo.com/doctor-companion-revealed-millie-gibson-084031610.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;A gift of a role&#39;, Coronation Street star Millie Gibson revealed as ...</h3>
+                <h3>New &#39;Doctor Who&#39; Companion Revealed As Millie Gibson</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSGTWgOFVjY7JYyVyfY5QWfr23b1cOoTVe5WrsvHuTUmh71GTw7S-X9jw07gzpWjoDdke8ZIb-d" alt="&#39;A gift of a role&#39;, Coronation Street star Millie Gibson revealed as ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Gibson will appear as Ruby Sunday, the 15th Doctor&#39;s companion, alongside co-star Ncuti Gatwa who was revealed as the new time lord earlier this year.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQn-ySZ84Ds73p8ZQM3XZP3Syz7_LFrfYhQ99QlWpqSCz8Zca2V23yL7j_9G05xKTKnyng4fJAu" alt="New &#39;Doctor Who&#39; Companion Revealed As Millie Gibson" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The 15th companion will be called Ruby Sunday and travel alongside &quot;Sex Education&quot; star Ncuti Gatwa, who takes over as the Doctor in 2023.</p></div>
             </div>
-        </a><a href='https://www.radiotimes.com/tv/sci-fi/millie-gibson-profile-age-instagram-explained/'>
+        </a><a href='https://www.bustle.com/entertainment/doctor-who-casts-millie-gibson-as-latest-companion'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Who is Millie Gibson? Meet new Doctor Who star and Corrie favourite</h3>
+                <h3>The New &#39;Doctor Who&#39; Companion Revealed Herself During A Live ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSaDJiRMtcp0pIgxGXagd-KONocJ7uG2TrTnfRLgQEQu6ZrjFY6ozEdxEF8n9QZU6yrNY43Qz8Y" alt="Who is Millie Gibson? Meet new Doctor Who star and Corrie favourite" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Millie Gibson is an actress best known for her time on the ITV soap opera Coronation Street as the troubled teen Kelly Neelan. Article continues below advert.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQZzQ_FVErXn8ABcm6betsuaFScekFpUvuGxC-vdhekGltpxedzzbNnT-XVi6yRFZZyx5K9W9Ug" alt="The New &#39;Doctor Who&#39; Companion Revealed Herself During A Live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>British actor Millie Gibson, a &#39;Coronation Street&#39; vet, will play Ruby Sunday, opposite Ncuti Gatwa&#39;s Fifteenth Doctor on the BBC series &#39;Doctor Who.&#39;</p></div>
             </div>
         </a>
         </Template></>;

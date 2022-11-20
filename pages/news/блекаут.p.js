@@ -11,9 +11,23 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Блекаут"/>
         <meta name="description" content="Trending News about Блекаут" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Блекаут</h1>
-            <Image width={800} height={500} src="https://www.rbc.ua/static/img/_/e/_elektroopori_gettyimages_1241194848_16_1300x820.jpg" alt="Блекаут"/>
+            <Image width={800} height={500} src="https://racurs.ua/content/images/Publication/News/17/69/51/preview_w696zc1.jpg" alt="Блекаут"/>
             <h3>Recent News</h3>
-            <a href='https://www.rbc.ua/ukr/news/blekaut-kievi-mozhliviy-ale-nichogo-strashnogo-1668796654.html'>
+            <a href='https://racurs.ua/ua/n176951-blekaut-u-kyievi-u-dtek-rozkryly-scenariyi-rozvytku-sytuaciyi.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Блекаут у Києві — у ДТЕК розкрили сценарії розвитку ситуації</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQf3VRTArHgp_fp_pEljO8FQXDBKZytuKvEc4l9-CBe59ViHPxjr3qpQosnUdJ6fClaFOAHEf52" alt="Блекаут у Києві — у ДТЕК розкрили сценарії розвитку ситуації" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Повний блекаут у Києві теоретично можливий. Утім, якщо система включиться протягом наступних кількох годин, навіть тоді, коли холодно, — нічого страшного не&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.unian.ua/society/blekaut-na-porozi-naskilki-kritichna-situaciya-v-ukrajini-12050229.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Блекаут &quot;на порозі&quot;: наскільки критична ситуація в Україні</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSVbiHvGWESqQTOF34iunXkMGaUlzABfv3jANHeUQuAY0KkK4t4JK8riDVR9twAhgTym5UxiCxK" alt="Блекаут &quot;на порозі&quot;: наскільки критична ситуація в Україні" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Через постійні відключення електроенергії містянам порадили на зиму перебратися в село. Аналітик розповів про ефективність цієї поради і чи може вона&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.rbc.ua/ukr/news/blekaut-kievi-mozhliviy-ale-nichogo-strashnogo-1668796654.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Блекаут в Киеве возможен, но ничего страшного при этом не ...</h3>
                 <div style={{ display: "flex" }}>
@@ -34,6 +48,13 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQYVYl_Sbmji4V-a28-yHeJM5KmGpeK8d_slTVP5oNnAD25ChLJWAn0q1bqz594uu2cWBJz9sqe" alt="Чи може Україні загрожувати блекаут: що про це кажуть у ДТЕК" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Директор ДТЕК Дмитро Сахарук повідомив, що попри велике бажання Росії, аби Україна опинилася у повній темряві, такий сценарій є малоймовірним.</p></div>
             </div>
+        </a><a href='https://vikna.tv/video/ukrayina/chy-mozhlyvyj-blekaut-v-ukrayini-energetychna-sytuacziya-sogodni/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Чи можливий блекаут в Україні — ситуація з ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTQxsDwyUJK6LduPxSuGX3Wp3U2SbOqP4WWtSElk_9OAM7Tdl-KrMTnboaDofgXOuUAp0ncvly2" alt="Чи можливий блекаут в Україні — ситуація з ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Чи можливий блекаут в Україні - Виконавчий директор ДТЕК Дмитро Сахарук розповів, яка енергетична ситуація в регіонах сьогодні, 19.11.2022.</p></div>
+            </div>
         </a><a href='https://prm.ua/chy-varto-ochikuvaty-na-povnyy-blekaut-v-ukraini-poiasnennia-dtek/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Чи можливий в Україні повний блекаут — пояснення ДТЕК</h3>
@@ -41,47 +62,26 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRVz6zXgkwUWgqYgw7m-2Zh4AHnCzjv60qFMtF0loN9ZwrIxAKiIDhCwgm0f7rkwuuUBb4HpTJD" alt="Чи можливий в Україні повний блекаут — пояснення ДТЕК" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Попри російські атаки на об&#39;єкти енергетичної інфраструктури в Україні не очікується тотального відключення електроенергії.</p></div>
             </div>
-        </a><a href='https://www.unian.net/economics/energetics/blekaut-v-ukrajini-maloymovirniy-de-zaraz-naygirsha-situaciya-zi-svitlom-12049956.html'>
+        </a><a href='https://www.unian.net/society/blekaut-na-poroge-naskolko-kritichna-situaciya-v-ukraine-12050226.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Блэкаут в Украине маловероятен: в ДТЭК рассказали, где сейчас ...</h3>
+                <h3>Блэкаут &quot;на пороге&quot;: насколько критична ситуация в Украине</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRDo2jO__dsARS38dcNxQhVyyASL2PGG27MB2kdlVZ_JQUsUu_DM4jAvRqaoPLLLoPgmL_zseYw" alt="Блэкаут в Украине маловероятен: в ДТЭК рассказали, где сейчас ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Блэкаут в Украине возможен, говорят в ДТЭК, но его можно избежать, если вовремя отремонтировать разрушения. Но для полного восстановления системы требуется&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSVbiHvGWESqQTOF34iunXkMGaUlzABfv3jANHeUQuAY0KkK4t4JK8riDVR9twAhgTym5UxiCxK" alt="Блэкаут &quot;на пороге&quot;: насколько критична ситуация в Украине" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Из-за постоянных отключений электроэнергии горожанам советуют на зиму выехать в село. Аналитик рассказал об эффективности этого совета и может ли он&nbsp;...</p></div>
             </div>
-        </a><a href='https://zn.ua/UKRAINE/v-sluchae-blekauta-na-vosstanovlenie-enerhosistemy-ukrainy-mozhet-potrebovatsja-do-desjati-dnej-ekspert.html'>
+        </a><a href='https://focus.ua/opinions/537736-esli-budet-blekaut-on-prodlitsya-ot-treh-do-desyati-dney-chto-nuzhno-delat'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>В случае блэкаута на восстановление энергосистемы Украины ...</h3>
+                <h3>Блэкаут продлится 3-10 дней: что нужно делать власти и нам</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRMQxo8JcArnSr0tyPG9ZqFXkN8u7VqDfk1nrYmjGx2g7dFTeFzvuJimPAiO1m_tA0SbwH2duhy" alt="В случае блэкаута на восстановление энергосистемы Украины ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>При полном блекауте в Украине энергосистеме может потребоваться несколько суток на восстановление, света и тепла может не быть до десяти дней.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQHnIQwMGyYCHSmaBBjlitrwxRlSdzeEkQVF9bDdX6GXuZLBTtxffNO0D6HluFPKGt9n603LTBE" alt="Блэкаут продлится 3-10 дней: что нужно делать власти и нам" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Мне кажется, что началась информационная подготовка к блэкауту. Вопрос не в том, как и когда он произойдет, а в том, как к нему готова власть и что она и&nbsp;...</p></div>
             </div>
-        </a><a href='https://varta1.com.ua/news/u-dtek-poyasnili-chi-mozhe-ukrayini-zagrozhuvati-blekaut_356764.html'>
+        </a><a href='https://zn.ua/ukr/UKRAINE/chi-bude-blekaut-u-kijevi-prohnoz-vid-dtek.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>У ДТЕК пояснили, чи може Україні загрожувати блекаут</h3>
+                <h3>Чи буде блекаут у Києві – прогноз від ДТЕК</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSZLOBNXLMiwkj9cdwgVtrv-p48S7PAIVHoMfzmf5xws2THStmYhfNEccXOGu3GfPWVtOCh1bRd" alt="У ДТЕК пояснили, чи може Україні загрожувати блекаут" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Директор ДТЕК Дмитро Сахарук повідомив, що попри велике бажання росії, аби Україна опинилася в повній темряві, такий сценарій є малоймовірним.</p></div>
-            </div>
-        </a><a href='https://glavcom.ua/country/society/chi-zahrozhuje-ukrajini-blekaut-direktor-dtek-vistupiv-iz-zajavoju-890102.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Чи загрожує Україні блекаут? Директор ДТЕК виступив із заявою</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSFTDyiVQ1iljIfn2IduDJl5-nXMaSQVpJYbuYmjCmSEqHn5nrxJDTmt_-CIgDCM6HnQiJ2ARKz" alt="Чи загрожує Україні блекаут? Директор ДТЕК виступив із заявою" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Блекаут – це мрія окупантів, яку вони намагаються реалізувати протягом більше ніж місяця. Директор ДТЕК Дмитро Сахарук повідомив, що попри велике бажання&nbsp;...</p></div>
-            </div>
-        </a><a href='https://interfax.com.ua/news/general/873079.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Сценарії виходу з блекауту передбачають три-десять днів на ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSF4Z0m744fQuHKfl-0aaJz0KQ-uiwWPtr8NjmW0VrmGBOQg4gPFD4gDZMuejCH9kaN8WoVDArr" alt="Сценарії виходу з блекауту передбачають три-десять днів на ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Вихід із блекауту у разі його виникнення передбачає декілька сценаріїв, згідно з якими це може тривати, зокрема, від трьох до десяти днів,&nbsp;...</p></div>
-            </div>
-        </a><a href='https://biz.nv.ua/economics/kak-dolgo-prodlitsya-polnyy-blekaut-v-ukraine-skolko-dney-pridetsya-zhit-bez-sveta-ekspert-50285128.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>От трех до десяти дней. Как долго украинцам придется сидеть ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ-hBnlPZEWZxeVwIyxAll9UHI7g98Ej0zqqKTmy1PuYkEg2CktcURpyQoToXq7IUU4JvNJHG3r" alt="От трех до десяти дней. Как долго украинцам придется сидеть ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В случае полного блэкаута Украина останется без света на 7−10 дней — прогноз эксперта.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRmpcrJ8whzf_BFkkAD5GuE9VJO_SDZ5r4t5y6-PpREANn0UdqDBqJq39--jWBMni9f8lTUkqfp" alt="Чи буде блекаут у Києві – прогноз від ДТЕК" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Блекаут у столиці можливий, але в ДТЕК вважають, що якщо тотальне відключення електрики і відбудеться, воно триватиме надто довго.</p></div>
             </div>
         </a>
         </Template></>;

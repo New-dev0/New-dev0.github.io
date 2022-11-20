@@ -20,13 +20,6 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRnoiaEueX_TFnIPhuBvFd-JPuddhcX5HjUln9zPUmq_O6IYJKJanLjfL9z5RFDFelgc3ojt2RQ" alt="Rosalía, Christina Aguilera, Bad Bunny : le tapis rouge des Latin ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Ce 17 novembre, les Latin Grammy Awards 2022 ont été organisés à Las Vegas. Cette cérémonie récompense les plus grandes stars de la chanson latine.</p></div>
             </div>
-        </a><a href='https://www.vogue.fr/mode/galerie/rosalia-style-looks'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Rosalía a conquis la mode… La preuve en 14 looks</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTGacIrzfFvHD1gLfzECvccL2ZVyCYkFeKI0CCM1eTtzff3YZBba2yUzynu4Xi7BRwrPr3sAYJR" alt="Rosalía a conquis la mode… La preuve en 14 looks" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Acne Studios, Y/Project, Jacquemus, Givenchy… La chanteuse et compositrice espagnole Rosalía multiplie les looks pointus. Revue en images.</p></div>
-            </div>
         </a>
         </Template></>;
 }

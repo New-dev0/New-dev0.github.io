@@ -11,49 +11,42 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Disenchanted"/>
         <meta name="description" content="Trending News about Disenchanted" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Disenchanted</h1>
-            <Image width={800} height={500} src="https://s3.amazonaws.com/static.rogerebert.com/uploads/review/primary_image/reviews/disenchanted-movie-review-2022/homepage_disenchanted-movie-review-2022.jpg" alt="Disenchanted"/>
+            <Image width={800} height={500} src="https://film-authority.com/wp-content/uploads/2022/11/773806-featured.jpg" alt="Disenchanted"/>
             <h3>Recent News</h3>
-            <a href='https://www.rogerebert.com/reviews/disenchanted-movie-review-2022'>
+            <a href='https://film-authority.com/2022/11/19/disenchanted/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Disenchanted movie review &amp; film summary (2022) | Roger Ebert</h3>
+                <h3>Disenchanted</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR-IsGSZlRLM36XQjwoJQOoQA4kze7QmfGX0LeQH-YK-b6kBm-k63mhIZe_p27SUD33U0e1yvdP" alt="Disenchanted movie review &amp; film summary (2022) | Roger Ebert" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Amy Adams&#39; committed performance as Giselle, a Disney princess personified, catapulted her into mainstream success. But as Disney&#39;s IP continues to saturate the&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSRvT92pVmHdirMde2EpDdREVEcsOFbOUfb2yyatkVNlkto63i4_FLbpEQU5WX4B1btibKd1juC" alt="Disenchanted" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>This Amy Adams vehicle is a sequel to Enchanted, which coined $340 million back in 2007, and a far bigger sum on auxiliary markets; if you&#39;re wondering why a&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.cnn.com/2022/11/18/entertainment/disenchanted-review/index.html'>
+        </a><a href='https://collider.com/disenchanted-director-adam-shankman-interview/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Disenchanted&#39; turns the page on a storybook ending to what comes ...</h3>
+                <h3>&#39;Disenchanted&#39; Director Adam Shankman on Figuring Out the Story ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSPimbNGIOqyYtkgzIyUFNJ5Lwg6xbcTidXbSP6GYixpSyQ_DAttmsdU7mnKvViTFRs7VK57KgD" alt="&#39;Disenchanted&#39; turns the page on a storybook ending to what comes ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Amy Adams and Maya Rudolph in &quot;Disenchanted,&quot; premiering on Disney+. Jonathan Hession/Disney Enterprises, Inc. CNN —.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcToQTidLImPnM765vMfM0DRurVpXu7bV6DidNL3sc6Bk0tzwHfFHKFVIzHlba9DAet8VOcSK-hr" alt="&#39;Disenchanted&#39; Director Adam Shankman on Figuring Out the Story ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Disenchanted&#39;s Adam Shankman discusses the Disney+ Enchanted sequel starring Amy Adams, &amp; reveals how VFX had the power to make or break the feature.</p></div>
             </div>
-        </a><a href='https://www.vanityfair.com/hollywood/2022/11/disenchanted-review-loses-some-of-enchanteds-magic'>
+        </a><a href='https://www.avclub.com/disenchanted-easter-eggs-adam-shankman-1849787675'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Disenchanted&#39; Loses Some of &#39;Enchanted&#39;&#39;s Magic</h3>
+                <h3>Disenchanted continues the tradition of hiding Disney Easter eggs in ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQYiFfFzkNwMiPE7XpV22xfZPmjQCdbclFJkPA7_uM9pcl7APmKAlbcc5HF8XACefbXmyQLl1NU" alt="&#39;Disenchanted&#39; Loses Some of &#39;Enchanted&#39;&#39;s Magic" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Do we really want to turn to Disney for a musical about what a bummer real life can be in a world longing for fairytales?</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ0nfsPFt3amM8dYvMSt94OdlpVK2uFGHEuiqnLn4l3-eForueEh6UvWfvseeLLIu349S1Da5Kr" alt="Disenchanted continues the tradition of hiding Disney Easter eggs in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The musical extravaganza Enchanted was notable for many things—bringing an animated Disney princess to life; launching the film career of Amy Adams;&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.vulture.com/article/disenchanted-review-a-disney-sequel-devoid-of-magic.html'>
+        </a><a href='https://www.outlookindia.com/art-entertainment/-disenchanted-a-quick-guide-to-all-the-characters-of-the-magical-fairytale-world-news-238679'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Disenchanted Can&#39;t Conjure the Magic of the Original</h3>
+                <h3>&#39;Disenchanted&#39;: A Quick Guide To All The Characters Of The Magical ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQedkO-Ka1Nxez6aLkM1b2xWbA7LxPQJnBxesSZDmMj-3zt39C7oQZQjXDTAtTZBwFRPSOT__oC" alt="Disenchanted Can&#39;t Conjure the Magic of the Original" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A review of Disenchanted, the Disney+ sequel to Enchanted that brings back stars Amy Adams, Patrick Dempsey, James Marsden, and Idina Menzel.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSpFWXfzvS6UVjsjPNQ2Q17jJqsSZL5l734flBLXBl0C0eWYCS0rGdlJQcGD1RjAlutB4n_w0W3" alt="&#39;Disenchanted&#39;: A Quick Guide To All The Characters Of The Magical ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The magical fairytale world is set to collide with reality once again in Amy Adams starrer &#39;Disenchanted&#39; on Disney+ Hotstar.</p></div>
             </div>
-        </a><a href='https://stylecaster.com/how-to-watch-disenchanted/'>
+        </a><a href='https://indianexpress.com/article/entertainment/movie-review/disenchanted-movie-review-amy-adams-disney-musical-sequel-8275666/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Here&#39;s How to Watch &#39;Disenchanted&#39; For Free to See Giselle 10 ...</h3>
+                <h3>Disenchanted movie review: Amy Adams dusts off beloved Disney ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT6r2VyoNqQqBSLwkk9h6liCWtZQmP_PFjIKx2iLnfGunYl1VCQ9aWS6szHkhjj3bI896xpnVwX" alt="Here&#39;s How to Watch &#39;Disenchanted&#39; For Free to See Giselle 10 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Here&#39;s how to watch &quot;Disenchanted&quot; online for free in 2022 and where to stream &quot;Enchanted 2&quot; to see the sequel with Amy Adams, Idina Menzel and more.</p></div>
-            </div>
-        </a><a href='https://www.forbes.com/sites/erikkain/2022/11/18/disenchanted-review-be-careful-what-you-wish-for-in-a-sequel/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Disenchanted&#39; Review: Be Careful What You Wish For (In A Sequel)</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTUMybCtuZo5jpYh-RZDkrh1I46oiFnAGT07O8jY_e3tNXdUzJqiq0HE6oD_mRAKzIZ0Y1zXBR0" alt="&#39;Disenchanted&#39; Review: Be Careful What You Wish For (In A Sequel)" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>It&#39;s less charming, less memorable and less fun. Its songs are not as catchy and its story is less unique. Even the animated sequences feel like a big step&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTvcilK5phSs6arJ4aBFV3IFFOUiAVYij_0iiRh-DhzfavErKFYInr--AZuEK5M1QIUryeUBRUa" alt="Disenchanted movie review: Amy Adams dusts off beloved Disney ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Disenchanted movie review: The long-awaited sequel to Disney&#39;s beloved 2007 fantasy film leaves a lot to be desired, despite Amy Adams&#39; committed central&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

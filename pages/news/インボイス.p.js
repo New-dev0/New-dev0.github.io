@@ -20,13 +20,6 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS50qvAF7FcY3XD5S7ejfjZrszmmool-hHmzSKj_IknA2Gob0pfwQPjDHVOsVcIsKqjV3LYyFdx" alt="「税の標語」表彰作品まるでインボイス応援歌？ 制度反対の声が ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>日本の文化の未来が立ち消えてしまう」 16日に開かれたインボイス（適格請求書）制度の問題点を検討する超党派の議員連盟による会合で、制度廃止を強く訴えていたの&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.innovations-i.com/column/it-inside-story/4.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>デジタルインボイスの実際はこんな感じ</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTVB20gQYlF72YwRrRsxqaqRQ_Mb2ii6eK1Ttn1ne7hIRv6c9XIqAYbrJxBinSnlHgrT0JXe1A2" alt="デジタルインボイスの実際はこんな感じ" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>またメーカーは現在のシステムのデータを「Peppol変換事業者」へ送信しPeppolデータに変換後Peppolプロバイダに送るということになり、そのコストもかかることになる。編集&nbsp;...</p></div>
-            </div>
         </a>
         </Template></>;
 }

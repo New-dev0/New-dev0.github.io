@@ -41,19 +41,19 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTKI-zpaMBz_GEUzI8GhoelChWfURCwA05gGET6OsRXAdQc9Jqm18cI3vqyNU7L5v_NCGGk81rA" alt="What&#39;s the House Dem. Whip? Rep. Katherine Clark to run for No. 2 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Mass. Rep. Katherine Clark could soon be the second most powerful Democrat in the House of Representatives — the Democratic Whip. What does that mean?</p></div>
             </div>
-        </a><a href='https://www.nbcboston.com/news/local/rep-katherine-clark-officially-bids-to-help-lead-dems-in-congress/2897492/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Rep. Katherine Clark Officially Bids to Help Lead Dems in Congress</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSRmWP-vgUU_T0NMqDVcRNas2nIJdxa2rkdb04xZafetrLkuy-SP6ajy2Fmk2PJOslzJARrhn4Y" alt="Rep. Katherine Clark Officially Bids to Help Lead Dems in Congress" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>&quot;Now, we must be tough, agile, and united to stop the Republican House Majority&#39;s dangerous agenda and take back the House,&quot; Clark wrote&nbsp;...</p></div>
-            </div>
         </a><a href='https://www.bostonherald.com/2022/11/18/katherine-clark-looking-to-replace-nancy-pelosi-in-the-house/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Katherine Clark eyes U.S. House leadership post; Jeffries the top ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR55wVIxSqyLj6fY9HkJjWCyzTXEXA2J1z6LCN0tgAqOOiCgZDSokNmnfP7iutYL98XKzQ8FmqF" alt="Katherine Clark eyes U.S. House leadership post; Jeffries the top ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>U.S. Rep. Katherine Clark waited at least until a new day dawned to toss her hat into the House Democratic leadership ring. The 5th District congresswoman,&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>U.S. Rep. Katherine Clark waited at least until a new day dawned to toss her hat into the House Democratic leadership ring.</p></div>
+            </div>
+        </a><a href='https://www.nbcboston.com/news/local/rep-katherine-clark-officially-bids-to-help-lead-dems-in-congress/2897492/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Rep. Katherine Clark Officially Bids to Help Lead Dems in Congress</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSRmWP-vgUU_T0NMqDVcRNas2nIJdxa2rkdb04xZafetrLkuy-SP6ajy2Fmk2PJOslzJARrhn4Y" alt="Rep. Katherine Clark Officially Bids to Help Lead Dems in Congress" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Rep. Katherine Clark Officially Bids to Help Lead Dems in Congress. &quot;Now, we must be tough, agile, and united to stop the Republican House Majority&#39;s dangerous&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

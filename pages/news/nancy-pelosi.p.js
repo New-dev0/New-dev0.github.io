@@ -20,68 +20,40 @@ export default function Page() {
                 <Image src="" alt="Speaker Nancy Pelosi announced she&#39;ll end her run as the top ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Nancy Pelosi&#39;s decision marks the end of an era for Democrats, and triggers a search for a new generation of leadership for her caucus.</p></div>
             </div>
-        </a><a href='https://www.washingtonpost.com/lifestyle/2022/11/18/nancy-pelosi-retiring/'>
+        </a><a href='https://www.vanguardngr.com/2022/11/nancy-pelosi-steps-down-as-leader-of-us-democrats/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>There was nothing soft about Nancy Pelosi</h3>
+                <h3>Nancy Pelosi steps down as leader of US Democrats</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR6_X2wGjDeqQU4js0ppbjAsrhHF0U-MKtcW20KE18rGPVpOgYrDUiMyo42s0Y6czSvhNN2-Gja" alt="There was nothing soft about Nancy Pelosi" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The House speaker announced on Thursday that she would be stepping down from Democratic leadership at the turnover of Congress in January. “The hour has come&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSyvxgo51m3_e8TkG03wzhSIAJsXFddS4eGkG6AQAX6r-VewWLQKcySEKa2OXiqAo2nqe1CDNCj" alt="Nancy Pelosi steps down as leader of US Democrats" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>“I will not seek re-election to Democratic leadership in the next Congress. The hour has come for a new generation to lead the Democratic caucus,” she said.</p></div>
             </div>
-        </a><a href='https://www.theguardian.com/us-news/gallery/2022/nov/18/nancy-pelosi-house-speaker-in-pictures'>
+        </a><a href='https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/18/statement-by-vice-president-kamala-harris-on-speaker-nancy-pelosi/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Nancy Pelosi, House Speaker – in pictures</h3>
+                <h3>Statement by Vice President Kamala Harris on Speaker Nancy ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQraifWJSI6LoFn_OCSAJt_dqZg6h9oORCCxrK_xf03gYgGzb3Y6ZD6nP7Tof2_0VrY0Za0h_cd" alt="Nancy Pelosi, House Speaker – in pictures" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A look back at the career of Nancy Pelosi, 82, who is stepping down as the Speaker of the House of Representatives.</p></div>
+                <Image src="" alt="Statement by Vice President Kamala Harris on Speaker Nancy ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Speaker Nancy Pelosi has not only made history, she has shaped it. She has not only broken glass ceilings, she has shown the world – and young women in.</p></div>
             </div>
-        </a><a href='https://www.theguardian.com/commentisfree/2022/nov/18/nancy-pelosi-hate-figure-right-left-political-virtuoso'>
+        </a><a href='https://www.arise.tv/nancy-pelosi-82-stands-down-as-leader-of-us-house-democrats-after-19-years/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Nancy Pelosi, a hate figure to right and left, is a political virtuoso who ...</h3>
+                <h3>Nancy Pelosi, 82, Stands Down as Leader of US House Democrats ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQdxj40Z5j97LgUO3DvZRaM4LclPY5QQUzEm-kBD7aKB9ypYVy17tMX8sDRRq0MJxyE6LmYZgC6" alt="Nancy Pelosi, a hate figure to right and left, is a political virtuoso who ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>To Republicans, Pelosi has taken on a kind of mythic malice. But progressives, too, were not enamored of her.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSnXoH6YGySKtZLCcHdxf3y0ztW0J3r8-0mJRNwmiRyZXseGtXOIXwMVhyU_z8af_g_gAN0a90f" alt="Nancy Pelosi, 82, Stands Down as Leader of US House Democrats ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Republican Kevin McCarthy has won the party&#39;s nomination to be speaker in the new Congress and is likely to succeed Mrs Pelosi as speaker. Speaker of the House&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.aljazeera.com/news/2022/11/18/as-the-nancy-pelosi-era-ends-whats-next-for-the-us-house'>
+        </a><a href='https://saharareporters.com/2022/11/17/us-speaker-nancy-pelosi-step-down-after-republicans-won-majority-house'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>As the Nancy Pelosi era ends, what&#39;s next for the US House?</h3>
+                <h3>US Speaker, Nancy Pelosi To Step Down After Republicans Won ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSYhiHAsNw1HJHoCjohOTXNNruxpWYRkj_cJxiY9-2CR5VlWUbBsIo9MmJLoxLCA5UIQgYflyqc" alt="As the Nancy Pelosi era ends, what&#39;s next for the US House?" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Hakeem Jeffries is seen as the likely replacement for Pelosi, where he would be the first Black party leader in Congress.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSbUmU7KNwYLOSKjwA70n9BO2g1sAgYUQVd5f1WGbi8AP5pTUkfDXKcBoNHD_gLi-8maGTUHJgG" alt="US Speaker, Nancy Pelosi To Step Down After Republicans Won ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>In last week&#39;s midterm elections, Republicans narrowly won a majority in the House while Democrats kept control of the Senate. Nancy Pelosi, a Democrat and&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.businesslive.co.za/bd/world/americas/2022-11-17-nancy-pelosi-to-step-down-as-leader-of-house-democrats/'>
+        </a><a href='https://www.brookings.edu/blog/fixgov/2022/11/18/the-gop-should-see-nancy-pelosi-as-a-role-model-not-a-villain/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Nancy Pelosi to step down as leader of House Democrats</h3>
+                <h3>The GOP should see Nancy Pelosi as a role model, not a villain</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTPiEgrLB-m7kvQQd05rNufFXoMvmgt19XYAfuwzsx8SRjfUjBkSDPVCH66XWzUER6N4ZDStNTo" alt="Nancy Pelosi to step down as leader of House Democrats" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Biden called Pelosi &#39;the most consequential speaker of the House of Representatives in our history&#39;</p></div>
-            </div>
-        </a><a href='https://www.cnbc.com/2022/11/18/rep-hakeem-jeffries-announces-bid-to-replace-nancy-pelosi-as-democratic-leader.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Rep. Hakeem Jeffries announces bid to replace Nancy Pelosi as ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRn4yBmDWAj6A4Y2S7w_IP7-1d1NqBG1LmyF1HPBHVxGT0BlHh5_2DXraSRz1yeu9YDFcGcPU-x" alt="Rep. Hakeem Jeffries announces bid to replace Nancy Pelosi as ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>If elected, Jeffries, 52, would become the first Black leader of a congressional caucus. Reps. Katherine Clark, 59, and Pete Aguilar, 43, are seeking to&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.cnn.com/2022/11/17/politics/hakeem-jeffries-next-democratic-leader/index.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Hakeem Jeffries launches bid to be Nancy Pelosi&#39;s successor</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSbvGI2gE5qjCm_ggnmCN3A9WRtWHvHHR07U3CrQlte7GS-CokyaGSDARs_CHDEs5UDF73_6QYk" alt="Hakeem Jeffries launches bid to be Nancy Pelosi&#39;s successor" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>House Democrats appear likely to choose New York Rep. Hakeem Jeffries to succeed Speaker Nancy Pelosi, a potentially historic move to elect the first Black&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.bbc.co.uk/news/world-us-canada-63665352'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Hakeem Jeffries: The Democrat who could replace Nancy Pelosi</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSTU7P2xaP7QYcqwy76e2dhY_vyblLbJnXm47zKZwnL6l39vzeZSO1A_AUNqPmM3ISnLYMb8FEQ" alt="Hakeem Jeffries: The Democrat who could replace Nancy Pelosi" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Republicans regained a slim majority in the House of Representatives, the lower chamber of Congress, in last week&#39;s midterm elections. California Republican&nbsp;...</p></div>
-            </div>
-        </a><a href='https://abcnews.go.com/Politics/nancy-pelosi-steny-hoyers-long-tense-relationship-democratic/story?id=93514419'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Nancy Pelosi and Steny Hoyer&#39;s long and sometimes tense ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQlZeS9IX5FYgmJVeNjLsoT9UrTNeODpv73OC5LP3zbrzQdRitDiLeAX8wn1Ms246wpH6X8aNlS" alt="Nancy Pelosi and Steny Hoyer&#39;s long and sometimes tense ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>For nearly six decades the legacies of House Speaker Nancy Pelosi and House Democratic Leader Steny Hoyer have been closely linked.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT4cM5vUlLppBWDqfoD7TIxqvc6taa178FSpKzL8MqTKLwxIByflhC4yFzAxYgy3I1JrngJPnJX" alt="The GOP should see Nancy Pelosi as a role model, not a villain" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>As Nancy Pelosi winds down her nearly two-decade tenure as the leader of House Democrats, including four terms as Speaker of the House, it is important to&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

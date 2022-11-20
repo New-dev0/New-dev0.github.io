@@ -18,7 +18,7 @@ export default function Page() {
                 <h3>Новини Львова: Львівська область була однією з небагатьох, які ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSoyEAXKn1vf3uBKIsM-pIN5cRErrepFrcvfht1B-1FI0QUknfSrem6JOGiaX5pJh_2Qv9aq2g3" alt="Новини Львова: Львівська область була однією з небагатьох, які ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>&quot;Наприклад, зараз експортні ціни на продовольче зерно 2 і 3 класу поступово досягають показників попереднього року. Але частка продовольчого зерна у врожаї 2022&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Як змінився аграрний сектор області від початку повномасштабного вторгнення росії на територію України – про це під час брифінгу у медіацентрі Україна&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

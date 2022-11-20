@@ -11,9 +11,30 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Charlize Theron news"/>
         <meta name="description" content="Trending News about Charlize Theron news" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Charlize Theron news</h1>
-            <Image width={800} height={500} src="" alt="Charlize Theron news"/>
+            <Image width={800} height={500} src="https://cdn.24.co.za/files/Cms/General/d/7238/24769eba13fa4eadb72abed02785ae29.jpg" alt="Charlize Theron news"/>
             <h3>Recent News</h3>
-            <a href='https://www.iol.co.za/news/south-africa/kwazulu-natal/charlize-theron-is-wrong-world-data-shows-84-million-people-around-the-world-speak-afrikaans-87535733-f27f-47ef-8228-5e925de1e214'>
+            <a href='https://www.news24.com/news24/opinions/columnists/guestcolumn/opinion-vanessa-banton-my-fk-charlize-why-did-you-stick-your-voet-in-it-again-20221119'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>OPINION | Vanessa Banton: My f*k Charlize! Why did you stick your ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTNSm8dQpHqLTdr__y3QLR5e4Ge7ELIxhhxxREU52_mBOlgd_lHDT7ZYVFMHNayrZIMhCAZFIsx" alt="OPINION | Vanessa Banton: My f*k Charlize! Why did you stick your ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Hollywood export Charlize Theron seems to have a knack for upsetting South Africans. Vanessa Banton takes a look back at other times she waded into some&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.timeslive.co.za/tshisa-live/tshisa-live/2022-11-17-watch-5-times-charlize-theron-spoke-dying-language-afrikaans-in-hollywood/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>WATCH | 5 times Charlize Theron spoke &#39;dying language&#39; Afrikaans ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTzJOailIJxLPyPb4x2usQnitZWYeoZgWwfkHMhuoQYipU1XSqo1eHubtuyGvUBVTUhBYQck4yh" alt="WATCH | 5 times Charlize Theron spoke &#39;dying language&#39; Afrikaans ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>In 2011, Charlize said it was difficult to be an Afrikaans speaker when there was only one other person who spoke the language around her.</p></div>
+            </div>
+        </a><a href='https://www.theguardian.com/world/2022/nov/17/charlize-theron-sparks-anger-after-claiming-afrikaans-facing-oblivion'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Charlize Theron sparks anger after claiming Afrikaans facing oblivion</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQVPZYg_PLQ2szh63ci3T1RXFMYqEnAuohETta2sDIViDgvLA10uqHooObUUzkexOIwIDyGSgdg" alt="Charlize Theron sparks anger after claiming Afrikaans facing oblivion" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Charlize Theron has prompted anger in her native South Africa after suggesting that Afrikaans, a language descended from Dutch colonial settlers,&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.iol.co.za/news/south-africa/kwazulu-natal/charlize-theron-is-wrong-world-data-shows-84-million-people-around-the-world-speak-afrikaans-87535733-f27f-47ef-8228-5e925de1e214'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Charlize Theron is wrong, world data shows 8.4 million people ...</h3>
                 <div style={{ display: "flex" }}>
@@ -27,40 +48,19 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS84qzvw8bVPhd7QlJkcjGeZ9ezVeMvXQgV6cqgeK4eXY7KIPXsECX2P6WSg2ALodFe5n2ZQDdk" alt="Charlize Theron faces backlash after saying Afrikaans, her mother ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Oscar-winning actress Charlize Theron is facing fierce criticism in South Africa after saying that her mother tongue, Afrikaans, is &quot;a dying language.&quot;</p></div>
             </div>
-        </a><a href='https://www.news24.com/channel/celebrities/charlize-theron-mum-on-afrikaans-comments-as-story-makes-international-headlines-20221118'>
+        </a><a href='https://www.capetalk.co.za/articles/460093/charlize-s-comments-perpetuate-myth-afrikaans-spoken-only-by-boere-pansalb'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Charlize Theron mum on Afrikaans comments as story makes ...</h3>
+                <h3>Charlize&#39;s comments perpetuate myth Afrikaans spoken only by ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQn9-LR92J8727Jhbr_LnjPBlzdx6382xEFg5lhqnYzYs11145lroIWywPo02QDwQFMgV414s37" alt="Charlize Theron mum on Afrikaans comments as story makes ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Theron&#39;s comment went as far as making international headlines; However, the Mad Max actor has remained tight-lipped on the attention her interview has received&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRSrYWr-MsKS54lboIXCJp5QzBU7ntFdPbsW0cANJP14M0VVPQmSzbGZQr3ZB4f_m9xcSDulT-l" alt="Charlize&#39;s comments perpetuate myth Afrikaans spoken only by ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Just about everyone&#39;s having a go at Charlize Theron. The Pan South African Language Board says her comments are disheartening and disturbing.</p></div>
             </div>
-        </a><a href='https://www.sowetanlive.co.za/news/south-africa/2022-11-18-pan-south-african-language-board-disheartened-by-charlize-therons-disregard-for-afrikaans/'>
+        </a><a href='https://www.bbc.com/news/world-africa-63642042'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Pan South African Language Board disheartened by Charlize ...</h3>
+                <h3>Charlize Theron condemned for saying Afrikaans is dying language</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTzJOailIJxLPyPb4x2usQnitZWYeoZgWwfkHMhuoQYipU1XSqo1eHubtuyGvUBVTUhBYQck4yh" alt="Pan South African Language Board disheartened by Charlize ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The statement said: &quot;The comments made by Ms Theron perpetuate the persistent misconception that Afrikaans is only spoken by white &#39;boere&#39; South Africans, which&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.theguardian.com/world/2022/nov/17/charlize-theron-sparks-anger-after-claiming-afrikaans-facing-oblivion'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Charlize Theron sparks anger after claiming Afrikaans facing oblivion</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQVPZYg_PLQ2szh63ci3T1RXFMYqEnAuohETta2sDIViDgvLA10uqHooObUUzkexOIwIDyGSgdg" alt="Charlize Theron sparks anger after claiming Afrikaans facing oblivion" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Charlize Theron has prompted anger in her native South Africa after suggesting that Afrikaans, a language descended from Dutch colonial settlers,&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.independent.co.uk/life-style/charlize-theron-afrikaans-first-language-b2228465.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Charlize Theron sparks debate for claiming that her first language ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS_bNMzrh5Q7INgYKcCP_5XuYdK8ALxb4AoOLX07H4hWGVSibd-sfRiZevlrhMiXfowBUzLR2qc" alt="Charlize Theron sparks debate for claiming that her first language ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>&#39;Wow what a disrespectful comment to the millions of South Africans,&#39; one person wrote on Twitter about the actor&#39;s remarks.</p></div>
-            </div>
-        </a><a href='https://www.capetownetc.com/news/sa-twitter-reacts-to-charlize-therons-bone-to-pick-with-afrikaans/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>SA Twitter reacts to Charlize Theron&#39;s bone to pick with Afrikaans</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTH2m3uGEb84hqje7r-GoEd60ItaPt_Urg4BnRevnSU3zXns6N22n-eDfaAXxbXahs0NhFwfBw1" alt="SA Twitter reacts to Charlize Theron&#39;s bone to pick with Afrikaans" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>In case you missed it, Charlize Theron recently had a bone to pick with Afrikaans. Now, South Africans from near and far are weighing in on whether it&#39;s&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQt1IkWRJa0fLiV4A1YsIqf9d9RQwSdARX51H6nLtRvpKXWy84GpxaNstz2WwzTxDkVHxHmfZ4L" alt="Charlize Theron condemned for saying Afrikaans is dying language" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Hollywood star grew up speaking Afrikaans - many fellow South Africans are outraged by her comments.</p></div>
             </div>
         </a>
         </Template></>;
