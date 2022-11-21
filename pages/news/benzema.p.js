@@ -11,56 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Benzema"/>
         <meta name="description" content="Trending News about Benzema" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Benzema</h1>
-            <Image width={800} height={500} src="https://img.rasset.ie/001cda86-1600.jpg" alt="Benzema"/>
+            <Image width={800} height={500} src="https://media.diepresse.com/social_diepresse_nachrichten/images/uploads_1200/0/2/a/6217770/271254BF-FB7F-44F7-8C49-D8267FC3AF79_v0_l.jpg" alt="Benzema"/>
             <h3>Recent News</h3>
-            <a href='https://www.rte.ie/sport/world-cup-2022/2022/1119/1337166-huge-blow-for-france-as-benzema-out-of-world-cup/'>
+            <a href='https://www.diepresse.com/6217770/frankreich-muss-bei-wm-auf-benzema-verzichten'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Huge blow for France as Benzema out of World Cup</h3>
+                <h3>Frankreich muss bei WM auf Benzema verzichten</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQJta6pJ_-ODokiRMplBTgqiSjZ78Zt-74vjFz6xUdNoeNzJT6SANhH85r2QwCfdhgGJ_FeE-KM" alt="Huge blow for France as Benzema out of World Cup" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>France&#39;s have been dealt a major blow on the eve of the Qatar World Cup, with star striker Karim Benzema ruled out of the tournament due to an injury.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQGAdE5ix_-gQUSDhBXr3_fT6tJ-MkC3mS2N1_K3O1DSTK6irNGOkHuiYr__D844QWG1CGqzE-X" alt="Frankreich muss bei WM auf Benzema verzichten" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Der Stürmerstar hat sich am Oberschenkel verletzt und muss nun drei Wochen pausieren. „Die Vernunft sagt mir, meinen Platz jemandem zu überlassen,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.irishtimes.com/sport/soccer/2022/11/19/karim-benzema-leaves-france-training-session-early-after-picking-up-injury/'>
+        </a><a href='https://www.wienerzeitung.at/nachrichten/sport/fussball-wm-2022/2168434-Benzema-faellt-fuer-WM-aus.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>France suffer huge World Cup blow with Karim Benzema ruled out ...</h3>
+                <h3>Benzema fällt für WM aus</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRPxNP4IDVr5fDOZAf64iFgKeegPOhyCoWIkDdyyUBxt9yq7FzLBFAMYXQIsk86p_YwKLy8ZQnt" alt="France suffer huge World Cup blow with Karim Benzema ruled out ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Real Madrid striker has been struggling with a muscle problem ahead of the World Cup.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSvmRme7WiV_MWYU8_OeuXHrtesMNXdc2y4qlbbwy-a7TcvJ6i1Vb3ZOyyTSIcy0dJeW4V_FTyb" alt="Benzema fällt für WM aus" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Die Weltmeisterschaft findet ohne den Weltfußballer statt. Stürmerstar Karim Benzema kann wegen einer Verletzung im linken Oberschenkel nicht für&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.espn.com/soccer/france-fra/story/4806724/world-cup-france-karim-benzema-suffers-injury-in-training'>
+        </a><a href='https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-frankreichs-karim-benzema-faellt-verletzt-aus-18473896.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Karim Benzema ruled out of World Cup with injury</h3>
+                <h3>Verletzungs-Drama um Profi: Was Benzemas WM-Aus für ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSTNkk0tyv5DqxyvWFN11TNzw8ynD5IU3wEgWXlXLMNuKxeoZBHh65-N3jB6z6Lcq45kATpMaRTqQ" alt="Karim Benzema ruled out of World Cup with injury" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>France striker Karim Benzema has been ruled out of the World Cup after suffering an injury to his left thigh during training on Saturday in Doha.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTpSYokTdUsVfOLQ3uol8jxE8CtwBAFnADe4NJkHrEpO-c6OQT5bztqxYjXpRTwZRXhq4Q8fAR9" alt="Verletzungs-Drama um Profi: Was Benzemas WM-Aus für ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Stürmerstar Karim Benzema wird die Fußball-WM in Qatar verletzt verpassen. Die Franzosen schwächt das, ihr Team bleibt aber stark....</p></div>
             </div>
-        </a><a href='https://www.skysports.com/football/news/12098/12751403/karim-benzema-france-striker-ruled-out-of-2022-world-cup-in-qatar'>
+        </a><a href='https://www.sport1.de/news/fussball/wm/2022/11/wm-2022-frankreich-verzichtet-nach-aus-von-benzema-auf-nachnominierung'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Karim Benzema: France striker ruled out of 2022 World Cup in Qatar</h3>
+                <h3>WM 2022: Frankreich verzichtet nach Aus von Benzema auf ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSeSgxD8KiS0JjIcv8P1Wfi7ztFQiv9wkLQ3c1vU9p2RhxjGljhftjX9QnsWkktUFdweAJywcIQ" alt="Karim Benzema: France striker ruled out of 2022 World Cup in Qatar" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>France striker Karim Benzema ruled out of 2022 World Cup with quadricep injury in huge blow for reigning champions on eve of tournament; Real Madrid forward&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRA4b2qJNDCFhY2FThShkI58gTaONU-UGrCjKdLm86VcCmtGcNKDfyYuBnpL8iU5wsiacuo5vkv" alt="WM 2022: Frankreich verzichtet nach Aus von Benzema auf ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Nach dem WM-Aus von Karim Benzema wird Weltmeister Frankreich keinen Nachfolger für den Real-Star nachnominieren.</p></div>
             </div>
-        </a><a href='https://www.theguardian.com/football/2022/nov/19/karim-benzema-ruled-out-of-whole-world-cup-in-major-blow-to-france'>
+        </a><a href='https://www.spox.com/de/sport/fussball/wm/wm2022/2211/News/karim-benzema-bei-comeback-training-erneut-verletzt-aus-fuer-weltmeisterschaft-droht.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Karim Benzema ruled out of whole World Cup in major blow to France</h3>
+                <h3>WM 2022 in Katar: Karim Benzema fehlt Frankreich ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQLzuYte1iEHqzsrTNdw2bDgQA_BNzlMZsNYoGvUvuf2lXdN8SQqDjqs3a6G6jMInEsBrAP3T-N" alt="Karim Benzema ruled out of whole World Cup in major blow to France" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The French Football Federation said in a statement that the Real Madrid forward was forced to cut short training after feeling “pain in the quadriceps of his&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTCxltEV5x-igeO_PAiY6gpu-AxiOKBcUTDjCR-ZGhL15h-Zj2G5XT78tC_5T1Kf4JiSUra6dCx" alt="WM 2022 in Katar: Karim Benzema fehlt Frankreich ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Nächster Nackenschlag für den Weltmeister: Frankreich muss nach zahlreichen verletzungsbedingten Ausfällen bei der WM auch noch auf seinen Topstürmer Karim&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.eurosport.co.uk/football/world-cup/2022/karim-benzema-ruled-out-of-the-world-cup-after-confirmation-of-injury-from-the-french-football-feder_sto9235146/story.shtml'>
+        </a><a href='https://www.derwesten.de/sport/fussball/karim-benzema-wm-2022-frankreich-id300129674.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Karim Benzema ruled out of World Cup after confirmation of injury ...</h3>
+                <h3>Karim Benzema am Boden zerstört – „Vernunft sagt mir, meinen ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTFk-sil9YLwxIymzNJRgOHTfO5KV5xPy2_vuVQoAjKOhP2oGCdoKfozWhyHd6sjaeIv-eOtlf1wg" alt="Karim Benzema ruled out of World Cup after confirmation of injury ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>He joins an already lengthy list of Les Bleus absentees, with Paul Pogba, N&#39;Golo Kante, Presnel Kimpembe, Christopher Nkunku and goalkeeper Mike Maignan already&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.aljazeera.com/news/2022/11/19/benzema-injured-on-return-to-full-training-for-france'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Benzema injured on return to full training for France</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ8609c-L2bE0n9wiW2f9EEAnVVvjamUUkxkCADh0qeOWLAzUyLKdJO7md3wcBJZ-5M4p4Hrhba" alt="Benzema injured on return to full training for France" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Star forward will not take part in France&#39;s opening match against Australia, according to French media report.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTDUAHITAcmIK7a7xSMHcddx-7CjYCqxG3HcpZ-8Cym1h0sWIJLfjLskHWeqCB3O8RL9v5b8rOp" alt="Karim Benzema am Boden zerstört – „Vernunft sagt mir, meinen ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Paul Pogba, N&#39;Golo Kante, Christopher Nkunku, Presnel Kimpembe und jetzt auch noch Karim Benzem. Bei Weltmeister Frankreich gibt es für die WM 2022 den nächsten&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

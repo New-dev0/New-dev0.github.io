@@ -11,49 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Louis Vuitton"/>
         <meta name="description" content="Trending News about Louis Vuitton" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Louis Vuitton</h1>
-            <Image width={800} height={500} src="https://www.abola.pt/img/fotos/abola2015/FOTOSDR/2023/MessiRonaldoAnuncio.jpg" alt="Louis Vuitton"/>
+            <Image width={800} height={500} src="" alt="Louis Vuitton"/>
             <h3>Recent News</h3>
-            <a href='https://www.abola.pt/nnh/2022-11-19/louis-vuitton-junta-ronaldo-e-messi-numa-fotografia-para-a-historia/965364'>
+            <a href='https://www.vanguardngr.com/2022/11/qatar-2022-cristiano-ronaldo-lionel-messi-team-up-for-louis-vuitton-campaign/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Louis Vuitton junta Ronaldo e Messi numa fotografia para a história</h3>
+                <h3>QATAR 2022: Cristiano Ronaldo, Lionel Messi team up for Louis ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQlPYu8SIpfEwwjHdWoE4yaSoxtIHDSXKM0qOToJXOyIjt__v9h0AvTi8-Q4LOBU291LFbxKL2O" alt="Louis Vuitton junta Ronaldo e Messi numa fotografia para a história" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cristiano Ronaldo e Lionel Messi participaram numa publicidade da marca francesa Louis Vuitton. Os dois jogadores partilharam, nas respetivas redes sociais,&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRsxfzsUHcW_89iX51VWU_jshFcREMqrHa69b6zlMoeaCL_mTMsgMgyWVgSBbugrV8XVdkbwztd" alt="QATAR 2022: Cristiano Ronaldo, Lionel Messi team up for Louis ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>World football stars Lionel Messi and Cristiano Ronaldo played off the football pitch in a photo of Louis Vuitton campaign, which has now gone viral.</p></div>
             </div>
-        </a><a href='https://www.ojogo.pt/internacional/cristiano-ronaldo/noticias/uma-fotografia-para-a-historia-louis-vuitton-junta-cristiano-ronaldo-e-lionel-messi--15369132.html'>
+        </a><a href='https://www.chess.com/news/view/messi-ronaldo-play-chess-in-louis-vuitton-campaign'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Uma fotografia para a história: Louis Vuitton junta Cristiano Ronaldo ...</h3>
+                <h3>Messi, Ronaldo Play Chess In Louis Vuitton Campaign (And The ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQHnhH_kOER3xHpzIppheOHsKOiO_ELElY5c5v3aY0pdph8hljwj8iS8r-uF5AqSbvOsZKbPY23" alt="Uma fotografia para a história: Louis Vuitton junta Cristiano Ronaldo ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cristiano Ronaldo e Lionel Messi publicaram este sábado, em simultâneo, uma fotografia de ambos a jogarem xadrez nas respetivas redes sociais, numa campanha&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQpJ_ouDLsLGc__eZdwcsl6VWMA3ykw-PE6_95C6X8jMkugM829CFcBTqO-Wm6xN1WeMSg9uCDh" alt="Messi, Ronaldo Play Chess In Louis Vuitton Campaign (And The ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lionel Messi and Cristiano Ronaldo, the two biggest stars of football (soccer) play chess in Louis Vuitton&#39;s latest campaign. Chess fans discovered that the&nbsp;...</p></div>
             </div>
-        </a><a href='https://sol.sapo.pt/artigo/785915/cristiano-ronaldo-e-messi-jogam-xadrez-em-campanha-da-louis-vuitton'>
+        </a><a href='https://musebycl.io/sports/louis-vuittons-messironaldo-ad-even-more-brilliant-it-looks'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Cristiano Ronaldo e Messi jogam xadrez em campanha da Louis ...</h3>
+                <h3>Louis Vuitton&#39;s Messi/Ronaldo Ad Is Even More Brilliant Than It Looks</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQKFi61P64FnZ3iy6_8wGDfLi3vKetRB_7Tpj0vMJs9KqwEfWrUDEbmokFJ1IUlNTTggUgij0Yh" alt="Cristiano Ronaldo e Messi jogam xadrez em campanha da Louis ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>&#39;A vitória é um estado de espírito&#39;, lê se na legenda da fotografia, tirada por Annie Leibovitz.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTGSa-H5925yYCIGJz0EKUQc0VNvVHb01gCrRNz9hoavyVuzA4Y--tOaqdS-qOgKaPjJ-uZJ4ZN" alt="Louis Vuitton&#39;s Messi/Ronaldo Ad Is Even More Brilliant Than It Looks" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The execution features an Annie Leibowitz photo of Lionel Messi and Cristiano Ronaldo, the game&#39;s two greatest stars over the past two decades, facing off in a&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.nit.pt/compras/moda/campanha-epica-da-louis-vuitton-junta-ronaldo-e-messi'>
+        </a><a href='https://strettynews.com/2022/11/20/cristiano-ronaldo-and-lionel-messi-unite-for-louis-vuitton-promotion/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Campanha épica da Louis Vuitton junta Ronaldo e Messi</h3>
+                <h3>Cristiano Ronaldo and Lionel Messi unite for Louis Vuitton promotion</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRGe76nEusoEVy3iQp8uWTM4X69UmzptBrSz2eKgINr2UmUWnwq0ciMVzaOWXaWdHOtqTe1Tfi1" alt="Campanha épica da Louis Vuitton junta Ronaldo e Messi" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cristiano Ronaldo e Leonel Messi partilharam este sábado, 19 de novembro, em simultâneo e às 17h30, uma fotografia nas redes sociais em que estão ambos a&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTKIB-Gsrxrc743q4YzXumISOq-e79jO9fbPYdh6lIYAu59tNHNN2mJLs5EyTzHuHmyWB1-fMHU" alt="Cristiano Ronaldo and Lionel Messi unite for Louis Vuitton promotion" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>From doing an explosive interview with Piers Morgan to get the world talking about his Manchester United future, Ronaldo has since revealed his first ever&nbsp;...</p></div>
             </div>
-        </a><a href='https://d7.dnoticias.pt/2022/11/19/336991-ronaldo-e-messi-juntos-em-campanha-da-louis-vuitton/'>
+        </a><a href='https://www.tmz.com/2022/11/19/lionel-messi-cristiano-ronaldo-new-louis-vuitton-campaign-chess/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ronaldo e Messi juntos em campanha da Louis Vuitton</h3>
+                <h3>Lionel Messi &amp; Cristiano Ronaldo Star in New Louis Vuitton Chess ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTfUhq-Ii1bkt5PG-YyBTTAjG_LDm4bbGjrNZsx57KJ1wIN8eCO5JDwmHWNJIUpiAjDE5PWJDt9" alt="Ronaldo e Messi juntos em campanha da Louis Vuitton" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cristiano Ronaldo e Messi deixaram de lado a rivalidade pela qual são conhecidos no mundo do futebol e juntaram-se para uma campanha publicitária da marca&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRBCsq20kC7xzpadHWWkWoxYgRpq9uvoHasWVOW56UtypKqk8qsT3BQzth60zba3uTOlYENlQTn" alt="Lionel Messi &amp; Cristiano Ronaldo Star in New Louis Vuitton Chess ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Two G.O.A.T.s walk into a Louis Vuitton shop with chess pieces in hand ... guess what happens next.</p></div>
             </div>
-        </a><a href='https://portalrapmais.com/louis-vuitton-une-messi-e-cristiano-ronaldo-em-acao-antes-da-copa-do-mundo/'>
+        </a><a href='https://wwd.com/business-news/media/louis-vuitton-launches-campaign-lionel-messi-cristiano-ronaldo-soccer-world-cup-qatar-1235423941/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Louis Vuitton une Messi e Cristiano Ronaldo em ação antes da ...</h3>
+                <h3>Louis Vuitton Launches Campaign With Lionel Messi and Cristiano ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSOZBZ0vL-4EgV9Ioji5SRfltj1xgzEnGu-7uKm8bauJ-kx5BL9RbA1OwxDO0fJ6YHsgR4oDPuh" alt="Louis Vuitton une Messi e Cristiano Ronaldo em ação antes da ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Foto tem tudo para ser uma das mais curtidas do Instagram quando o assunto é esporte. Cristiano Ronaldo e Messi são considerados alguns dos melhores jogadores&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRbIjUDbP9br5HSRTSVHo3RW4XvFkGn5yP1-u94V_Gr9fFLUIJ9_QK1mTfLH6k0eaptG7_T6fKI" alt="Louis Vuitton Launches Campaign With Lionel Messi and Cristiano ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Louis Vuitton has launched a campaign featuring Lionel Messi and Cristiano Ronaldo to coincide with the start of the FIFA World Cup 2022 in Qatar.</p></div>
             </div>
         </a>
         </Template></>;

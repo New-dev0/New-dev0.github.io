@@ -25,7 +25,7 @@ export default function Page() {
                 <h3>さあ開幕サッカーＷ杯 わかやま伝承館で県ゆかりの選手紹介（紀伊 ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS9B_2E2c7moGUDipsaajQIxTzWy1E0rUn3J9dJ51r2MsDnAs-VA9ntevUj_6B-9rFUSsl9Fcm2" alt="さあ開幕サッカーＷ杯 わかやま伝承館で県ゆかりの選手紹介（紀伊 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>機運を盛り上げようと、和歌山市本町２丁目のわかやまスポーツ伝承館が「サッカー展」を開いており、日本代表で父親が串本町出身の久保建英選手（２１）や、田辺市に住む元&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>サッカーワールドカップ（Ｗ杯）カタール大会が２０日に開幕する。機運を盛り上げようと、和歌山市本町２丁目のわかやまスポーツ伝承館が「サッカー展」を開いており、&nbsp;...</p></div>
             </div>
         </a><a href='https://www.tokyo-np.co.jp/article/214916'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

@@ -31,7 +31,7 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Даниил Медведев: «После Australian Open я не могу достичь ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQesHi1dN_upXRIAoRjjoiAa04wWGaCnk5CKFJvAB3MIuh12N4K2vQ8k6H4uKjd3cMgMGbuyYMc" alt="Даниил Медведев: «После Australian Open я не могу достичь ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSXoYld5vGDbLTKlMi9GE7UXx4kzT_vs5v_aIalbg06_KqNEb-9dj6ukcTHmTJPAtlhkAtOaUKH" alt="Даниил Медведев: «После Australian Open я не могу достичь ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Sports.ru - 24 года! Все это время вы — наша главная ценность, поэтому сегодня заголовки на главной заменяются на комментарии. Этот переключатель вернет&nbsp;...</p></div>
             </div>
         </a><a href='https://matchtv.ru/tennis/matchtvnews_NI1725891_Daniil_Medvedev_zajavil_chto_v_matche_s_Dzhokovichem_jemu_ne_khvatilo_motivacii'>
@@ -41,19 +41,19 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR4FVpbWGet6XBpfpFS2kQVvbFCsuG4qr6GhWtUWC5q188NTvXg2S57eXcrsJguIuHhaFNN8jhu" alt="Даниил Медведев заявил, что в матче с Джоковичем ему не ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Россиянин Даниил Медведев отметил, что в заключительном матче группового этапа Итогового турнира ATP против серба Новака Джоковича ему не хватило мотивации.</p></div>
             </div>
-        </a><a href='https://gotennis.ru/read/news/daniil_medvedev_v_etom_sezone_zhdal_ot_sebya_bolshego__no_ubezhdyon_chto_smogu_vernutsya_na_prezhnij.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Даниил Медведев: В этом сезоне ждал ﻿от себя большего. Но ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="" alt="Даниил Медведев: В этом сезоне ждал ﻿от себя большего. Но ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Вообще после Australian Open я не могу добиться большого результата, даже пусть мне удалось выйти в несколько финалов, взять один титул (два - прим. GoTennis.ru)&nbsp;...</p></div>
-            </div>
         </a><a href='https://news.sportbox.ru/Vidy_sporta/Tennis/spbnews_NI1725846_Medvedev_zavershil_vystuplenije_na_Itogovom_turnire_proigrav_Dzhokovichu_v_trehchasovom_matche'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Медведев завершил выступление на Итоговом турнире ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQff1CRiE788E-Ws_dfDOffPNCga9Qpkb5Mx_2e8oE9tq0guQqacA77fWmzLeqe61_4Jb_pHzk4" alt="Медведев завершил выступление на Итоговом турнире ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Россиянин Даниил Медведев проиграл сербу Новаку Джоковичу в третьем матче группового этапа Итогового турнира АТР в Турине.</p></div>
+            </div>
+        </a><a href='https://gotennis.ru/read/news/daniil_medvedev_menya_nelzya_sravnivat_s_dzhokovichem_ili_s_kem-libo_eschyo_iz_bolshoji_trojiki.html?yrwinfo=1668908677759059-16615178579111991811-vla1-4651-vla-l7-balancer-8080-BAL-566'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Даниил Медведев: Меня нельзя сравнивать с Джоковичем или с ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="" alt="Даниил Медведев: Меня нельзя сравнивать с Джоковичем или с ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Пятая ракетка мира Даниил Медведев высказался о поражении от Новака Джоковича в третьем туре групповой стадии Итогового турнира ATP (3/6, 7/6(5), 6/7(2)).</p></div>
             </div>
         </a><a href='https://www.kommersant.ru/doc/5678857'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

@@ -11,70 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,神戸マラソン"/>
         <meta name="description" content="Trending News about 神戸マラソン" /></Head><Template>
             <h1 style={{fontSize: "30"}}>神戸マラソン</h1>
-            <Image width={800} height={500} src="https://imgopt.asahi.com/ogp/AS20221119001508_comm.jpg" alt="神戸マラソン"/>
+            <Image width={800} height={500} src="https://www.kobe-np.co.jp/news/sougou/202211/img/b_15825497.jpg" alt="神戸マラソン"/>
             <h3>Recent News</h3>
-            <a href='https://www.asahi.com/articles/ASQCM5358QCMPQIP002.html'>
+            <a href='https://www.kobe-np.co.jp/news/sougou/202211/0015825496.shtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>【ノーカット】3年ぶり開催の神戸マラソン スタートの様子</h3>
+                <h3>神戸マラソンの男性ランナー、一時心肺停止 ＡＥＤで意識戻る 救急 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSrjyzYHd7JFri318AgZM777MKrx2hWreAJJ8ycM_lRstQwHqUjxQUnbPQ1a-ej6Y7s2T60iF92" alt="【ノーカット】3年ぶり開催の神戸マラソン スタートの様子" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>神戸マラソン（兵庫県、神戸市など主催、朝日新聞社など共催）が20日、3年ぶりに開催されました。 阪神・淡路大震災の復興支援に感謝を示そうと2011年に始まり、今回が&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSmmm4VhIsZXsgoHwISdLNE6Yq3wLOjguE9zRM0sJZOSvcP9c2IdSAtT0tmEvq-Wex9Uco7P2l0" alt="神戸マラソンの男性ランナー、一時心肺停止 ＡＥＤで意識戻る 救急 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>神戸マラソン実行委員会事務局によると、２０日の神戸マラソンでは救護件数が計５３７件あった。うち７件で救急搬送された。５０代の男性ランナーがコース上で心肺.</p></div>
             </div>
-        </a><a href='https://www.kobe-np.co.jp/news/sougou/202211/0015823912.shtml'>
+        </a><a href='https://www.yomiuri.co.jp/local/kansai/news/20221120-OYO1T50016/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>３年ぶり神戸マラソンがスタート</h3>
+                <h3>神戸マラソンに２万人</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT_WkOSCRYU3Y84nyigS3UpxBkmvzdFI3V4UFd9RGrC_tHRZwz3XupWDpgw_1lmdHnNTXDTzikU" alt="３年ぶり神戸マラソンがスタート" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>「感謝と友情」をテーマに掲げる第１０回神戸マラソン（神戸新聞社など共催）は２０日、ランナーが神戸市役所前を一斉にスタートした。新型コロナウイルス感染拡大.</p></div>
+                <Image src="" alt="神戸マラソンに２万人" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>【読売新聞】 「第１０回神戸マラソン」（兵庫県、神戸市など主催）が２０日、神戸市で３年ぶりに開催された。沿道での応援自粛など新型コロナウイルスの感染対策が取&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.kobe-np.co.jp/news/sougou/202211/0015822228.shtml'>
+        </a><a href='https://www.kobe-np.co.jp/news/sougou/202211/0015824868.shtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>神戸マラソンコースは「人生そのもの」 震災、教え子たちとの日々 ...</h3>
+                <h3>【速報】神戸マラソン最終ランナーがフィニッシュ</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSd-NweZdRRGh6btR7t8hL4J6pVl_40rIBcdqzdaJFEVv4QYGLSwl_Jc1ruQxbCCsAi0B9RN6n7" alt="神戸マラソンコースは「人生そのもの」 震災、教え子たちとの日々 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>「マイロード」。神戸市立西須磨小学校（同市須磨区）の校長、森広樹さん（５９）にとって、２０日に開かれる第１０回神戸マラソン（神戸新聞社など共催）のコース.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTAHVxGpoZQVYRqvj-xGosb2TVe81GuVSl89ENjOkDUrFAxxix1DadU7ysXk4_ieGNyXq-9QCj9" alt="【速報】神戸マラソン最終ランナーがフィニッシュ" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>「感謝と友情」をテーマに掲げた第１０回神戸マラソン（神戸新聞社など共催）は２０日、神戸市役所前をスタート、明石海峡大橋西側で折り返してポートアイランドで.</p></div>
             </div>
-        </a><a href='https://news.yahoo.co.jp/articles/ba919be0df317eb7f10c773ebffb35a83df26678'>
+        </a><a href='https://www3.nhk.or.jp/kansai-news/20221120/2000068382.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>神戸マラソンで大規模な交通規制 ２０日、神戸市内各所や国道２号 ...</h3>
+                <h3>「神戸マラソン」３年ぶりに開催 ２万人のランナーが走る｜NHK ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSHCTWKCvSU7PX12Aw2Pxa39eYPy0hJ2xJv2_-OXgR_9g4kV8qOFUu24IJ_b49LJPkwqFnmLNXi" alt="神戸マラソンで大規模な交通規制 ２０日、神戸市内各所や国道２号 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>「第１０回神戸マラソン」が２０日、神戸市内で開かれる。２０日当日は、午前７時～午後５時に走行コースやその周辺の道路で大規模な交通規制が行われ、対象区間の&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRzwDdGUTkmB7frZWtV9ACzhUGl4zWF7ca-J2GPQhLpOEToxJoSM7C0bJFjySRqEQ7mfPTyoQ6h" alt="「神戸マラソン」３年ぶりに開催 ２万人のランナーが走る｜NHK ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>阪神・淡路大震災で受けた支援への感謝をテーマにした「神戸マラソン」が３年ぶりに行われ、およそ２万人のランナーが港町・神戸を駆け抜けました。…</p></div>
             </div>
-        </a><a href='https://www.kobe-np.co.jp/news/sougou/202211/0015822045.shtml'>
+        </a><a href='https://news.yahoo.co.jp/articles/33cbc6c05d5d24fef10f6f811a9f5d61bfccf038'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>神戸マラソン参加 クマガイタツロウさん「しんどいことから逃げ ...</h3>
+                <h3>神戸マラソン 男子は復帰レースの３５歳坪内が日本勢トップの４位 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSOVerthXH71x1wf3LtDNlZ1spG3LjEGDZpNu2pfH9AkStULgGWLaMTILxfsjgCZXoCjlgYmSzV" alt="神戸マラソン参加 クマガイタツロウさん「しんどいことから逃げ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>【フレンドシップランナーの思い】 参加者と一緒に神戸マラソンを走って大会を盛り上げる「フレンドシップランナー」。今回は、神戸発のロックバンド.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTrDVQRRQxXqlnYEkgFh03Y2RIQqETHj2Rfa1uQIA_PPMnJS92tnjlIHoKYpkR0XGoA7J7YpTN8" alt="神戸マラソン 男子は復帰レースの３５歳坪内が日本勢トップの４位 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>神戸新聞社共催・第１０回神戸マラソン」（２０日、神戸市役所前発～明石海峡たもと折り返し～ポートアイランド着＝４２・１９５キロ） 新型コロナウイルスの影響&nbsp;...</p></div>
             </div>
-        </a><a href='https://news.yahoo.co.jp/articles/43ccb0e8f67163bebe84a683a97c9133ac00cff1'>
+        </a><a href='https://sun-tv.co.jp/suntvnews/news/2022/11/20/60694/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>有森裕子さん「無理せず３年ぶりを楽しんで」 神戸マラソン、大会 ...</h3>
+                <h3>3年ぶり開催の神戸マラソン 2万人のランナーが駆け抜ける - サン ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRZSelQjP-IT4JYAk2WwNXarNX95JQGfhGzCUEo-UBeDmmvvMlgBhmAVZJDLWXn1C2tZfxnD26w" alt="有森裕子さん「無理せず３年ぶりを楽しんで」 神戸マラソン、大会 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>１９９２年バルセロナ五輪、９６年アトランタ五輪の２大会連続で女子マラソンのメダリストとなった有森裕子さんが、神戸マラソンの大会ゲストとして参加する。</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQd1TBUy11HF-ApO3QKYHhnK3z10DUob1pW5sTu1b6QRnmpDEWi_Sb20P52d19sgaT-xjK6nAFa" alt="3年ぶり開催の神戸マラソン 2万人のランナーが駆け抜ける - サン ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>サンテレビのニュースサイトです。ニュース動画やイベント情報など盛りだくさん！LINEニュースも配信中.</p></div>
             </div>
-        </a><a href='https://akashi-journal.com/news/kobe-marathon10/'>
+        </a><a href='https://www.tokyo-np.co.jp/article/215086'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>交通規制に注意！11月20日は「第10回神戸マラソン」が開催 ...</h3>
+                <h3>神戸マラソン２万人快走 コロナ禍で３年ぶり開催</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQJqXjuJ4JDbjmGbyN77l3Bj9h3pzIgMztDrrPlcRMEmxN-BvcfCsLP8jIOoUyfQ66RayJdFNh-" alt="交通規制に注意！11月20日は「第10回神戸マラソン」が開催 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>大会当日は、長時間にわたり大規模な交通規制が行われますので、交通渋滞が予想されます。大変ご不便をおかけして、申し訳ありません。 当日は、車のご利用をひかえて公共&nbsp;...</p></div>
-            </div>
-        </a><a href='https://news.goo.ne.jp/picture/nation/kobe-20221119016.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>神戸マラソンコースは「人生そのもの」 震災で実家が焼失、教え子 ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTo-8Ua0EWJcRUbXCP0-xnd00qrF_4D9v30FI1_iJwi5ZVxqDvPAFO7cBfAtoEaX7hgFET2T5S7" alt="神戸マラソンコースは「人生そのもの」 震災で実家が焼失、教え子 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>gooニュース。社会写真。神戸マラソンコースは「人生そのもの」 震災で実家が焼失、教え子たちとの日々…本番にかける５９歳教諭の歩んだ道.</p></div>
-            </div>
-        </a><a href='https://article.auone.jp/detail/1/2/5/267_5_r_20221119_1668842382860969'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>神戸マラソンで大規模な交通規制 20日、神戸市内各所や国道2号 ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSqUMhmJ8cf1L6pD-FiLuVoUVu4V-Gc2cHSdGIEfZRQHS0LijeIttL7CLmzoOdsuiPSpSxNAqZk" alt="神戸マラソンで大規模な交通規制 20日、神戸市内各所や国道2号 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>「第10回神戸マラソン」が20日、神戸市内で開かれる。20日当日は、午前7時～午後5時に走行コースや...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRuntIBDU5R9elbcFGbZlSv5CAms_Jy4Q2uN-5lyoqWmV3M0r7rmbkZZq0fXOnyFY1294r_37kn" alt="神戸マラソン２万人快走 コロナ禍で３年ぶり開催" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>阪神大震災の復興支援に対する「感謝と友情」をテーマにした第１０回神戸マラソンが２０日、神戸市で開かれた。震災から再生した街並みを約２万...</p></div>
             </div>
         </a>
         </Template></>;

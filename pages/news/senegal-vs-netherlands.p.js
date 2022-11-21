@@ -11,56 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Senegal vs Netherlands"/>
         <meta name="description" content="Trending News about Senegal vs Netherlands" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Senegal vs Netherlands</h1>
-            <Image width={800} height={500} src="https://theanalyst.com/wp-content/uploads/2022/11/netherlands-vs-senegal-prediction-2022-world-cup-1024x715.png" alt="Senegal vs Netherlands"/>
+            <Image width={800} height={500} src="https://cdn.vox-cdn.com/thumbor/LPTETrKmb4jael51obcAe2L4vuk=/0x0:5221x2734/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24212446/1442316552.jpg" alt="Senegal vs Netherlands"/>
             <h3>Recent News</h3>
-            <a href='https://theanalyst.com/2022/11/senegal-vs-netherlands-prediction-and-preview/'>
+            <a href='https://royalbluemersey.sbnation.com/2022/11/20/23468474/world-cup-match-previews-senegal-vs-netherlands-idrissa-gana-gueye-everton-sadio-mane-out'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Senegal vs. Netherlands: Prediction and Preview | The Analyst</h3>
+                <h3>World Cup Previews: Senegal vs Netherlands | Everton&#39;s Gueye and ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRCMUf2lrHvvYT9pd-IHolW5Krc2jHWCTarjymnDGzJdXLC4BEwt78uWWzgDrF9M5rDXqdETa4v" alt="Senegal vs. Netherlands: Prediction and Preview | The Analyst" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>We preview the 2022 World Cup match between Senegal and Netherlands, including our pre-match prediction for each team&#39;s opening game in Group A.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSuAcw4ktEh1JYBoaTaXBjl06Gp_9l-blxeKB9GgnvdLGAtaWYX_WsbuqLNd8Y9kc8N3xSWKbaO" alt="World Cup Previews: Senegal vs Netherlands | Everton&#39;s Gueye and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>For Toffee supporters though, there will be some added interest in this Senegalese team; the recently returned central defensive midfielder Idrissa Gana Gueye&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sportsmole.co.uk/football/senegal/world-cup-2022/preview/preview-senegal-vs-netherlands-prediction-team-news-lineups_500065.html'>
+        </a><a href='https://www.goal.com/en-gb/news/senegal-vs-netherlands-live-stream-tv-kick-off-time-where-to-watch/blt889ff9f76decb51b'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Preview: Senegal vs. Netherlands - prediction, team news, lineups</h3>
+                <h3>Senegal vs Netherlands: Live stream, TV channel, kick-off time ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS49q5URTTTAC4Xah4vk72WiwV4hm5pTHI7R8f90lkdpGJiWpUuCW8rcC_SCjtL_iLyMrSSVAXg" alt="Preview: Senegal vs. Netherlands - prediction, team news, lineups" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Sports Mole previews Monday&#39;s World Cup clash between Senegal and Netherlands, including predictions, team news and possible lineups.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSa9Pah_godiXFK4XfLzBQGS64QG0yDX0ClCdQo7BGHTotxFz6JeWMTobjObpkPqf0jv6CO-G8y" alt="Senegal vs Netherlands: Live stream, TV channel, kick-off time ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Everything you need to know about where you can watch Senegal vs Netherlands on TV and online in the United Kingdom, United States and India.</p></div>
             </div>
-        </a><a href='https://mashable.com/article/2022-world-cup-senegal-vs-netherlands-livestream-group-a'>
+        </a><a href='https://www.cbssports.com/soccer/news/world-cup-2022-netherlands-vs-senegal-start-time-betting-odds-lines-expert-picks-fifa-predictions-bets/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Senegal vs. Netherlands livestream: Watch World Cup 2022 Group A</h3>
+                <h3>World Cup 2022 Netherlands vs. Senegal start time, betting odds ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRmwbsxAC1HN9-kLaQV8R6zz1GRHt4egyo86m03Oj9rceP9xEmeBxWuUwE6nlN7osfACDnXXehp" alt="Senegal vs. Netherlands livestream: Watch World Cup 2022 Group A" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The 2022 World Cup is underway in Qatar. See the schedule for each round as well as how to livestream every game of the tournament.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRg5_z2A9Mb6gUYVWtj3357ciSPw8vsfv4aBvaO3lxpKwpmPdjJzrryPiO_nJBBBOPass46lXiA" alt="World Cup 2022 Netherlands vs. Senegal start time, betting odds ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Soccer expert Brandt Sutton has locked in his World Cup 2022 picks and predictions for Senegal vs. Netherlands in Group A play.</p></div>
             </div>
-        </a><a href='https://www.sportingnews.com/au/soccer/news/senegal-vs-netherlands-world-cup-time-live-stream-channel/x10lukv5fiiqnkbvtjzzsatx'>
+        </a><a href='https://english.news.cn/20221120/dc145427148d4c049b89a6aff40d2eb5/c.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Senegal vs. Netherlands World Cup time, live stream, TV channel ...</h3>
+                <h3>2022 Qatar FIFA World Cup pre-match press conference: Senegal ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRcbs_RH4wd3OBd8PoINbknu7IjuwoFLjXwRdiwb8C3SZSjR1t-sjlkubgKtqvRHDEqRLGyowlF" alt="Senegal vs. Netherlands World Cup time, live stream, TV channel ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Here&#39;s how you can watch all the action as Senegal face the Netherlands at the FIFA Qatar 2022 World Cup.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTrAtyFGrW2C988IQZPcj8xENv2GqDSp2tWl6xfTOEegjBo6TyV8qc2ieCX34bDLcykHVIEMtxn" alt="2022 Qatar FIFA World Cup pre-match press conference: Senegal ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Netherlands&#39; head Coach Louis van Gaal (L) and captain Virgil van Dijk take part in a press conference one day ahead of the group A match between Senegal&nbsp;...</p></div>
             </div>
-        </a><a href='https://soccer.nbcsports.com/2022/11/19/senegal-vs-netherlands-how-to-watch-live-stream-link-team-news/'>
+        </a><a href='https://www.goal.com/en/news/senegal-vs-netherlands-predictions-tips-and-betting-odds/blt10694eec531b7f90'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Senegal vs Netherlands: How to watch live, stream link, team news</h3>
+                <h3>Senegal vs Netherlands: Predictions, tips &amp; betting odds</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSWA8L7j_qEz3vDiT5FQdGkJLdf4aqCw-71N_jD1uPt782RsPRTj7XgfeKCqR2w_vuEpb_igRMrjA" alt="Senegal vs Netherlands: How to watch live, stream link, team news" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Tournament dark horses Senegal will have to do their dark-horsing without Sadio Mane when they meet the Netherlands in a tasty World Cup Group A match.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQKxJzMa7zmJxX6r5P5o4RBnINNhXuaj_JgzwBs4pYMH7o-hr3YWak4pnD-2it52Ch66MVQLSmD" alt="Senegal vs Netherlands: Predictions, tips &amp; betting odds" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Netherlands are back at the World Cup and are out to make a positive start when they take on Senegal in their opening game.</p></div>
             </div>
-        </a><a href='https://www.sportskeeda.com/football/senegal-vs-netherlands-prediction-betting-tips-21st-november-2022'>
+        </a><a href='https://www.sportingnews.com/us/football/news/senegal-netherlands-time-channel-live-stream-USA-world-cup/ppspyjl9cjhsqpyc60awn0qb'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Senegal vs Netherlands Prediction and Betting Tips | 21st ...</h3>
+                <h3>How to watch Senegal vs Netherlands in USA: Time, TV channel ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTNRYtg36PmjJiXqR2rhwzNRsSQANzxHfamHu7g7L553ZrWI0-t9M940Gcjss-qw9s-IrX5tXJt" alt="Senegal vs Netherlands Prediction and Betting Tips | 21st ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Netherlands kick off their FIFA World Cup campaign this week as they lock horns with an impressive Senegal outfit in a crucial Group A encounter at the&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSIArQFnyGOm45IX4Op08RiTNG9m08XWC6VNNriHD94zIXDFk8_E0k5Cm_y7ipgRYB2ktnjduWt" alt="How to watch Senegal vs Netherlands in USA: Time, TV channel ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Africa Cup of Nations champions are touted as their continent&#39;s strongest hope at the World Cup, presenting a huge opening game test for the Netherlands.</p></div>
             </div>
-        </a><a href='https://www.covers.com/soccer/world-cup/senegal-vs-netherlands-world-cup-picks-predictions-november-21-2022'>
+        </a><a href='https://khelnow.com/football/2022-11-world-football-fifa-world-cup-2022-senegal-vs-netherlands-predicted-lineup-injury-news'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Senegal vs Netherlands World Cup Picks and Predictions: Gakpo ...</h3>
+                <h3>Senegal vs Netherlands: Predicted lineup, injury news, head-to-head</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRukkv_I_k_vNvTp9YcDZeUui50WXsRw39ZwmYmYaNdow8fXLgi2YrsIvVb9QHusA7iqAEkjWvZ" alt="Senegal vs Netherlands World Cup Picks and Predictions: Gakpo ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>World Cup prediction, odds, and betting tips for Senegal vs Netherlands on November 21. World Cup free pick and game analysis.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSvLHIXKWsKXbt947hA-MBtgGwP_qJwsD9JHi3C6roDefcF55uHo13ps-qe3rPAGdDqlC2cxHvf" alt="Senegal vs Netherlands: Predicted lineup, injury news, head-to-head" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>In the third match of the FIFA World Cup 2022, it will be the reigning Africa Cup of Nations champions Senegal taking on the Netherlands.</p></div>
             </div>
         </a>
         </Template></>;

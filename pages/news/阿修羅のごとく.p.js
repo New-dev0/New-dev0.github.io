@@ -17,7 +17,7 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>名作ドラマ『阿修羅のごとく』再放送で、あらためて知る「向田 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTKhXcWrJf5fNBPmbc2NEL9H0dEu8qFo13AtjOEJPMWidQxvVMCT_qNYN-VnQV7HFB2FEm0LyMq" alt="名作ドラマ『阿修羅のごとく』再放送で、あらためて知る「向田 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQKqMYJPCQcweGV1qpvnkvqGZpoMGngPui51lcnP3tIQYZOnzplqTXKC6zJit2u-hbuNIbUIzE7" alt="名作ドラマ『阿修羅のごとく』再放送で、あらためて知る「向田 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>NHKのＢＳプレミアムで再放送された、『阿修羅のごとく』（全3話）。脚本家・向田邦子の凄みを再認識です。</p></div>
             </div>
         </a>

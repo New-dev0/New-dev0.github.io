@@ -11,56 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,England vs Iran"/>
         <meta name="description" content="Trending News about England vs Iran" /></Head><Template>
             <h1 style={{fontSize: "30"}}>England vs Iran</h1>
-            <Image width={800} height={500} src="https://theanalyst.com/wp-content/uploads/2022/11/england-vs-iran-prediction-2022-world-cup.png" alt="England vs Iran"/>
+            <Image width={800} height={500} src="https://i2-prod.chroniclelive.co.uk/sport/football/football-news/article25561148.ece/ALTERNATES/s1200/0_GettyImages-1427501439.jpg" alt="England vs Iran"/>
             <h3>Recent News</h3>
-            <a href='https://theanalyst.com/2022/11/england-vs-iran-prediction-and-preview/'>
+            <a href='https://www.football.london/international-football/england-vs-iran-prediction-odds-25564046'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>England vs. Iran: Prediction and Preview | The Analyst</h3>
+                <h3>England vs Iran betting preview</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSyyZjOuFMu08iSNW6Gb4Kw1AP7AIeYtPWk-Dxx2S1mP6S4KFYhnkyTsw8jju_LXfvVb75glch6" alt="England vs. Iran: Prediction and Preview | The Analyst" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>We preview the 2022 World Cup match between England and Iran, including our pre-match prediction for Group B&#39;s opening game.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSlYZrlPd9rBBO6lD3JTtkyOZo4l5RPxVb295JIUzonIW5l3BS9yA3lykdaNYS6wqjgdp9CBann" alt="England vs Iran betting preview" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Inside Track brings you the best in betting tips ahead of every World Cup match this winter as Gareth Southgate&#39;s England kick off their 2022 FIFA World&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.marca.com/en/world-cup/2022/11/19/637770e722601d2e028b45bd.html'>
+        </a><a href='https://www.goal.com/en/news/england-vs-iran-live-stream-tv-channel-kick-off-time-where-to-watch/bltd569a318222fbf13'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>England vs Iran: Game time and where to watch the 2022 Qatar ...</h3>
+                <h3>England vs Iran: Live stream, TV channel, kick-off time &amp; where to ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRte7_0O-esCDpzSveQb6tSHldHQBAXJVA29yVCbtiiHyVpWFRPWgITAq1ER8MPfUuoP4SbsSfx" alt="England vs Iran: Game time and where to watch the 2022 Qatar ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>England and Iran face off this November 21 at the Khalifa International Stadium in the Group B of the Qatar 2022 FIFA World Cup.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ9SCsbl0ofldG_JoDjVMfnGhoCH9IIPNO4OFnl_qPRiTyNlhM-gsRgviTEEzfgoUn-LP0mFilE" alt="England vs Iran: Live stream, TV channel, kick-off time &amp; where to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>How to watch England vs Iran World Cup game, including kick-off time &amp; team news.</p></div>
             </div>
-        </a><a href='https://mashable.com/article/2022-world-cup-england-vs-iran-livestream-group-b'>
+        </a><a href='https://www.cbssports.com/soccer/news/world-cup-2022-england-vs-iran-start-time-betting-odds-lines-expert-picks-fifa-predictions-best-bets/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>England vs. Iran livestream: Watch World Cup 2022 Group B</h3>
+                <h3>World Cup 2022 England vs. Iran start time, betting odds, lines ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRmwbsxAC1HN9-kLaQV8R6zz1GRHt4egyo86m03Oj9rceP9xEmeBxWuUwE6nlN7osfACDnXXehp" alt="England vs. Iran livestream: Watch World Cup 2022 Group B" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The 2022 World Cup is underway in Qatar. See the schedule for each round as well as how to livestream every game of the tournament.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTBuFN_Vbph9TGGUEwWFOc61hjh_YGH_nqhN8SfPC790YRfS8NsMReeIWN8PKS-ZF5j3X0fagJM" alt="World Cup 2022 England vs. Iran start time, betting odds, lines ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Soccer expert Martin Green has locked in his World Cup 2022 picks and predictions for Iran vs. England in Group B play.</p></div>
             </div>
-        </a><a href='https://www.sportsmole.co.uk/football/england/world-cup-2022/preview/preview-england-vs-iran-prediction-team-news-lineups_499970.html'>
+        </a><a href='https://en.as.com/soccer/england-vs-iran-how-to-watch-on-tv-stream-online-world-cup-2022-n/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Preview: England vs. Iran - prediction, team news, lineups</h3>
+                <h3>England vs Iran: how to watch on TV, stream online, World Cup 2022</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQpu3A62CpVAq1ZD-fDtTdcIQCwCuJBNOCFWcswOdCnfgOEvEUlJkLlWmSDlBLVXr7WxIwF3CqD" alt="Preview: England vs. Iran - prediction, team news, lineups" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Sports Mole previews Monday&#39;s World Cup clash between England and Iran, including predictions, team news and possible lineups.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS86UV66SyVyGdPQELHUdm88jsTPiJVIpPBe1YwRs1nfyEjuFgdsBqr7iVEhvtvX1qxGkyiQKii" alt="England vs Iran: how to watch on TV, stream online, World Cup 2022" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>England and Iran kick off day two of Qatar 2022 when they open up their World Cup campaigns at Khalifa International Stadium in Doha.</p></div>
             </div>
-        </a><a href='https://www.sportstiger.com/news/fifa-world-cup-2022-england-vs-iran-eng-ira-match-prediction-predicted-line-ups-team-news-win-prediction-final-score'>
+        </a><a href='https://www.thesun.ie/sport/football/9762836/england-iran-world-cup-preview/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FIFA World Cup 2022 England vs Iran: Win Prediction, Predicted ...</h3>
+                <h3>England vs Iran – World Cup Group B: How they got there, current ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQFFgqlGdX9C9dNw0GhbbTjDNLR17G6XfeJeukc7p0hef3NEdaQ-Bc-5FNbm3IPiPoPYDDFf5SO" alt="FIFA World Cup 2022 England vs Iran: Win Prediction, Predicted ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>England will look to end their search for a major international trophy at the FIFA World Cup 2022 in Qatar. They begin their campaign against Iran in a Group B&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRdk5kv5qwe12qTw1OhpE4wpU2tDML1yRkTZ7glJqzZUVgElC0iI-JvQ9fecLn9EpcAGOyQngAd" alt="England vs Iran – World Cup Group B: How they got there, current ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>ENGLAND&#39;S quest for a first World Cup triumph since 1966 starts with a clash against Iran.Gareth Southgate&#39;s side go into the tournament having reache.</p></div>
             </div>
-        </a><a href='https://www.sportskeeda.com/football/england-vs-iran-prediction-betting-tips-21st-november-2022'>
+        </a><a href='https://www.sportsmole.co.uk/football/england/world-cup-2022/feature/england-vs-iran-how-do-both-squads-compare-ahead-of-world-cup-group-b-clash_500156.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>England vs Iran Prediction and Betting Tips | 21st November 2022</h3>
+                <h3>England vs. Iran: How do both squads compare ahead of World Cup ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSVwi7JndLp1TjbqebU5RYVxQdVCZzAH2IBkc4OC6AQ_SZAFkCeE928R0hd4zExiTD3u2isRpGP" alt="England vs Iran Prediction and Betting Tips | 21st November 2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The 2022 FIFA World Cup features an important Group B clash this week as Iran lock horns with Gareth Southgate&#39;s England side at the Khalifa International&nbsp;...</p></div>
-            </div>
-        </a><a href='https://sportsbookwire.usatoday.com/2022/11/19/world-cup-group-stage-england-vs-iran-odds-picks-and-predictions/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup group stage: England vs. Iran odds, picks and predictions</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQK8vYgUO5D5nm-OUP_X-_AZCj7A-Yjg2EvZtg4cIv1_08Za9MTyjisgi8syO-kEyC6rEwlImOW" alt="World Cup group stage: England vs. Iran odds, picks and predictions" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Analyzing Monday&#39;s England vs. Iran odds and lines, with World Cup soccer expert picks, predictions and best bets.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRcnVLWtgyGFbcJkJX3TRtvMXjb_peV2cSTvkvB2XAxinuFSeJqJCIKulq4dJO0mJxj4AkdSu5u" alt="England vs. Iran: How do both squads compare ahead of World Cup ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ahead of Monday&#39;s World Cup Group B clash between England and Iran, Sports Mole compares the key statistics from both squads.</p></div>
             </div>
         </a>
         </Template></>;

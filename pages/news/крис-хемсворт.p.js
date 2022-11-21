@@ -11,14 +11,35 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Крис Хемсворт"/>
         <meta name="description" content="Trending News about Крис Хемсворт" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Крис Хемсворт</h1>
-            <Image width={800} height={500} src="https://img07.rl0.ru/afisha/e1200x630i/daily.afisha.ru/uploads/images/b/3d/b3d3f69f8fb0cb34149eb32d66cc6f56.png" alt="Крис Хемсворт"/>
+            <Image width={800} height={500} src="https://img.championat.com/news2/social/b/7a/4898531.jpg" alt="Крис Хемсворт"/>
             <h3>Recent News</h3>
-            <a href='https://daily.afisha.ru/news/70213-kris-hemsvort-planiruet-sdelat-pereryv-v-kinokarere/'>
+            <a href='https://www.championat.com/cybersport/news-4898531-kris-hemsvort-hochet-zavyazat-s-filmami-marvel.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Крис Хемсворт планирует сделать перерыв в кинокарьере</h3>
+                <h3>Крис Хемсворт хочет завязать с фильмами Marvel</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQe-M87nvNqelhW-_Frqp9KtI8qGMQZbKa6ZrX0yuiGh6O6-nAcIgEctPWJtK3D12oVQ3x70CEO" alt="Крис Хемсворт планирует сделать перерыв в кинокарьере" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Каждый день мы собираем путеводитель по лучшим фильмам, ресторанам, книгам и прочим развлечениях из привычного круга Афиши.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSpt5_S6sTe8xfRzML3RuOzJDy70MPGV8HA_2alGAndvG7LC5JNNJscHESsQ4zlM-pB1niXRhU3" alt="Крис Хемсворт хочет завязать с фильмами Marvel" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Актёр Крис Хемсворт хочет, чтобы его следующее появление на экране в образе Тора стало последней его работой в рамках киновселенной Marvel.</p></div>
+            </div>
+        </a><a href='https://shazoo.ru/2022/11/20/135524/kris-xemsvort-vzial-pereryv-v-akterskoi-karere-budushhee-tora-pod-voprosom'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Крис Хемсворт взял перерыв в актерской карьере, будущее Тора ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTVrL0u6UIctNdutZ09572c9Ss5yeUXqk3m4slORv7j5wkwCcvK8YYcb_igvTqtS9QaOV062jDT9A" alt="Крис Хемсворт взял перерыв в актерской карьере, будущее Тора ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Кинематографическая вселенная Marvel стала плацдармом, который возвысил некоторых актеров до небывалых высот. Одним из них стал Крис Хемсворт,&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.sobaka.ru/photo/heroes/159774'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Крис Хемсворт приостановит кинокарьеру</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRt1PshjMoegtVIrKFG7axWz_gQOqUOPqB2HEoo7dnOWlqJdu8QAtRhNfm8zEcrJKR4b1VCufb0" alt="Крис Хемсворт приостановит кинокарьеру" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Актер сделает это из-за предрасположенности к болезни Альцгеймера. Он хочет больше времени проводить с семьей. Об этом он рассказал в интервью журналу&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.cybersport.ru/tags/movies/akter-kris-khemsvort-planiruet-vziat-pereryv-v-karere-iz-za-veroiatnosti-vozniknoeniia-bolezni-altsgeimera'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Актер Крис Хемсворт планирует взять перерыв в карьере из-за ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQL2JqZHNpw9tyyqw1aWFf9Ls38-WwX5P1nGYjbnGj05FI0YLZmzJnhcvuqTiX2xBmm3imTWxMG" alt="Актер Крис Хемсворт планирует взять перерыв в карьере из-за ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Актер Крис Хемсворт («Тор», «Тайлер Рейк: Операция по спасению») хочет взять перерыв в карьере из-за повышенного риска возникновения болезни Аль...</p></div>
             </div>
         </a><a href='https://gamemag.ru/news/173384/chris-hemsworth-will-take-a-break-from-acting-following-a-health-warning'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -27,40 +48,19 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQTjPgEE6cLrCxAFNYpmjHEEOBQ9YS4D2ZEpzPAXnMba5pY51QUNQvxpT4t-Al9TK6W-8XN-cXH" alt="Крис Хемсворт делает паузу в карьере из-за риска развития ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>39-летний актёр узнал об этом во время съемок Limitless, документального сериала для National Geographic о &quot;противостоянии естественному упадку сил,&nbsp;...</p></div>
             </div>
-        </a><a href='https://rozetked.me/news/26513-kris-hemsvort-soobschil-chto-u-nego-est-predraspolozhennost-k-bolezni-al-cgeymera'>
+        </a><a href='https://thecity.m24.ru/news/6660'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Крис Хемсворт сообщил, что у него есть предрасположенность к ...</h3>
+                <h3>Крис Хемсворт сделает перерыв в актерской карьере из-за ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ3LbTvC_Wa2Qp5iGZZ73g378Fn_iqTcCGnXYZASXiXf_lZqC3EFlS_kFCQKKUF2u7m9Y8R7Uc7" alt="Крис Хемсворт сообщил, что у него есть предрасположенность к ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Крис Хемсворт сообщил, что у него есть предрасположенность к болезни Альцгеймера. Об этом актёр узнал во время съёмок документального сериала Limitless,&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSANh4odgQl_6gyDIWVK_0R3p49vC0znB2I0feAa4mHa3ucVw_Kuai3oy2NBMr5GuJgoEcQKHC6" alt="Крис Хемсворт сделает перерыв в актерской карьере из-за ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Крис Хемсворт сообщил, что сделает перерыв в актерской карьере из-за предрасположенности к болезни Альцгеймера, сообщает NME.</p></div>
             </div>
-        </a><a href='https://focus.ua/lifestyle/537762-kris-hemsvort-zayavil-o-geneticheskoy-predraspolozhennosti-k-bolezni-alcgeymera'>
+        </a><a href='https://vikna.tv/ru/styl-zhyttya/shou-biz/kris-hemsvort-zayavil-o-sklonnosti-k-bolezni-alczgejmera/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Крис Хемсворт заявил о генетической предрасположенности к ...</h3>
+                <h3>Крис Хемсворт хочет взять паузу в кино: как актер узнал о ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ9RynxVtMRqJC13hs657Im5ztmcsYk2HL09i6x9eLsN4Ut2H6xjwAkusZh4NKpAb_weT3wHydqkQ" alt="Крис Хемсворт заявил о генетической предрасположенности к ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Актер узнал о своей предрасположенности во время съемок проекта о долголетии.</p></div>
-            </div>
-        </a><a href='https://www.film.ru/news/otpusk-hemsvorta'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Крис Хемсворт возьмёт перерыв в карьере из-за ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRkK4kiTekbTl7ORMplSBAoo_3sd9MqMXh4J0tH9t_ZAlWVqf6tGTFcvJC3Vh0HAYhfVxbze6N5" alt="Крис Хемсворт возьмёт перерыв в карьере из-за ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>По данным Vanity Fair, в соcтав ДНК Хемсворта входят две копии гена APOE4, который связан в риском развития Альцгеймера. Недавно такой же диагноз поставили деду&nbsp;...</p></div>
-            </div>
-        </a><a href='https://kg-portal.ru/comments/109822-kris-hemsvort-gotovit-poklonnikov-k-tomu-chto-sledujuschij-tor-mozhet-stat-poslednim/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Крис Хемсворт готовит нас к тому, что следующий «Тор» может ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQUzpbcrYqXRxSG5GCeSdG1qrm9B5Et5POGbFKT_Rt_xVDNZ_oDnFjwzAt5gTuf7PCtSbKfmgjE" alt="Крис Хемсворт готовит нас к тому, что следующий «Тор» может ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В конце фильма «Тор: Любовь и гром» MCU-фандом заверили, что космический викинг ещё вернётся. Но как предполагает Крис Хемсворт, следующая картина про&nbsp;...</p></div>
-            </div>
-        </a><a href='https://tsn.ua/ru/glamur/zvezda-marvel-kris-hemsvort-priostanavlivaet-kareru-v-kino-iz-za-neuteshitelnyh-prognozov-vrachey-2205496.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Звезда Marvel Крис Хемсворт приостанавливает карьеру в кино ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT8BObxTZAH9ybOiw54rL2rJwxBGBTyFgegDd3lKCs5fvvrRsJ4aD61A5Ukg9h_Sb1BEpYuQvuI" alt="Звезда Marvel Крис Хемсворт приостанавливает карьеру в кино ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Звезда киновселенной Marvel Крис Хемсворт сообщил о намерениях приостановить свою карьеру из-за проблем со здоровьем. Недавно актер узнал, что склонен к&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSIPF5NHvPjKfouAfUtjMIJ6hM8bn1BXkd3JsleGNCRwXfrmnatwH99MAOzN-2BIrB6OQuuCVhm" alt="Крис Хемсворт хочет взять паузу в кино: как актер узнал о ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Этот факт Крис обнаружил во время съемки проекта о долголетии — сериала Безграничный для National Geographic. Об этом актер рассказал в интервью Vanity Fair.</p></div>
             </div>
         </a>
         </Template></>;
