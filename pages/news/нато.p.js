@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,НАТО"/>
         <meta name="description" content="Trending News about НАТО" /></Head><Template>
             <h1 style={{fontSize: "30"}}>НАТО</h1>
-            <Image width={800} height={500} src="https://online47.ru/media/photo/article/__159559.jpg" alt="НАТО"/>
+            <Image width={800} height={500} src="https://www.rbc.ua/static/img/_/g/_gettyimages_450289643_14_1300x820.jpg" alt="НАТО"/>
             <h3>Recent News</h3>
-            <a href='https://online47.ru/2022/11/19/shef-pentagona-ostin-nato-ne-ishchet-konfrontatsii-s-rf-no-prodolzhit-pomogat-ukraine-168858'>
+            <a href='https://www.rbc.ua/ukr/news/parlamentska-asambleya-nato-viznala-rosiyu-1669036969.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Шеф Пентагона Остин: НАТО не ищет конфронтации с РФ, но ...</h3>
+                <h3>Парламентская ассамблея НАТО признала Россию ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRQNKFjSIxLt4-FYvO35KP3A4m7XazMD2rrDqVZ2kH1JQiYLUg-8hIh1DLECi55wwZSZcf0Ym03" alt="Шеф Пентагона Остин: НАТО не ищет конфронтации с РФ, но ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>&quot;НАТО — это оборонительный альянс&quot;, - подчеркнул Остин.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRprFTlxlRTHLk8NLZdx_o_LMK_YkPAVR7H4J-D8E5b5mTl8a_4FepGnJOYFqUdoflowa2AL4Xd" alt="Парламентская ассамблея НАТО признала Россию ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Также члены все 30 стран НАТО поддержали создание специального международного трибунала.</p></div>
             </div>
-        </a><a href='https://klops.ru/news/2022-11-20/261661-komandovanie-morskih-sil-nato-obvinilo-rossiyskih-lyotchikov-v-nebezopasnyh-manyovrah-na-baltike'>
+        </a><a href='https://ipress.ua/news/v_nato_vyznaly_rf_derzhavoyuterorystom_i_zaklykaly_stvoryty_mizhnarodnyy_trybunal_336207.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Командование морских сил НАТО обвинило российских лётчиков ...</h3>
+                <h3>В НАТО визнали рф державою-терористом і закликали створити ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTdLtObyh53mRfUX4hcjMFqqBilYzT68A48OL3CpVUo1himD-ErEM67XYckg_mtMl7zbnnAxjoT" alt="Командование морских сил НАТО обвинило российских лётчиков ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Инцидент произошёл 17 ноября. Два российских истребителя якобы пролетели над участвовавшими в учениях кораблями НАТО на высоте 300 футов (91 метр — ред.) и&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT588KUCsdeph1xOX_Y4HAw7c8rk1GcDB6qDMOgzWD_bPuO5RRG75VAxmiqi8SWZsLy-9gu01me" alt="В НАТО визнали рф державою-терористом і закликали створити ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Трибунал дасть змогу засудити не тільки безпосередніх виконавців військових злочинів, але і вище керівництво російської федерації.</p></div>
             </div>
-        </a><a href='https://www.kommersant.ru/doc/5679272'>
+        </a><a href='https://www.ukrinform.ua/rubric-polytics/3619241-zelenskij-zaklikav-kraini-nato-do-konkretnih-dij-z-realizacii-ukrainskoi-formuli-miru.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>В НАТО назвали небезопасным облет кораблей российскими ...</h3>
+                <h3>Зеленський закликав країни НАТО до конкретних дій з реалізації ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="В НАТО назвали небезопасным облет кораблей российскими ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В НАТО заявили, что облет их кораблей в Балтийском море со стороны российских летчиков был небезопасным и непрофессиональным. Заявление об этом опубликовано&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQuriG7DSZBvTVRWbsj5kY-R0zVrbmxiRT_vWX4FajAiwQTmpV6qRdKhm3yzJPdYhQwngD1VrpC" alt="Зеленський закликав країни НАТО до конкретних дій з реалізації ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Президент України Володимир Зеленський під час звернення до Парламентської асамблеї НАТО закликав країни Альянсу до конкретних дій з реалізації української&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.apsny.ge/2022/pol/1668950953.php'>
+        </a><a href='https://mynizhyn.com/news/ukraina-i-svit/25660-u-nato-viznali-rosiyu-krayinoyu-teroristom.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Вице-президент ПА НАТО: Мы приветствуем и поддерживаем ...</h3>
+                <h3>У НАТО визнали Росію країною-терористом</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Вице-президент ПА НАТО: Мы приветствуем и поддерживаем ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Мы всегда встречаемся с нашими грузинскими партнерами, мы используем для этого все форматы и площадки, мы приветствуем и поддерживаем стремление Грузии в&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcToju4RMbBrQ1CEwisE_gBthnkpuOWcIrep2HYBqnUZ4u0GqYRO6QRWOnBAofq2d8oAoQF_bdRe" alt="У НАТО визнали Росію країною-терористом" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Буде створено трибунал для чиновників Кремля. Парламентська асамблея Північноатлантичного альянсу визнала Російську Федерацію країною-терористом.</p></div>
             </div>
-        </a><a href='https://www.golosameriki.com/a/nato-says-russian-jets-conduct-unsafe-baltic-ship-overflight/6841000.html'>
+        </a><a href='https://poltavawave.com.ua/p/parlamentska-asambleia-nato-viznala-rosiiu-derzhavoiu-teroristom-717670'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Российские самолеты совершили «небезопасный» облет ...</h3>
+                <h3>Парламентська асамблея НАТО визнала росію державою ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTd579_WHO7FCTVIa62PBVFwY4CQ7vYO6ECDmuv25D_hqIQUpkzH2SXkDnYg68ZI_9-EYyRO02y" alt="Российские самолеты совершили «небезопасный» облет ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Два российских истребителя приблизились к кораблям альянса на небезопасное расстояние от 73 до 91 метра.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQmSHwfEVqVI9pMIB22kVWJQ8VNVGyBifigmaTSGcTuGXeUQtwpG8u9wNv5MrRaSiz-OPWp8gzk" alt="Парламентська асамблея НАТО визнала росію державою ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Всі 30 країн НАТО проголосували за резолюцію одноголосно. poltavska-khvilia_xcwi/c74Fqod4g.jpeg. Про це повідомляє голова постійної делегації України в ПА&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.apsny.ge/2022/pol/1668968837.php'>
+        </a><a href='https://www.pravda.com.ua/news/2022/11/21/7377298/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Парламентская делегация Грузии проводит двусторонние ...</h3>
+                <h3>Парламентська асамблея НАТО визнала Росію терористичним ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Парламентская делегация Грузии проводит двусторонние ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В рамках проходящей в Мадриде Парламентской ассамблеи НАТО парламентская делегация Грузии во главе председателя парламентского комитета по обороне и&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR9NkNv8L-hiTkivq6VD87mtMICUvS-giQUNBIpIMwHHQJyVIYfwUxlun2DC0jKPAG4zIE1oPTx" alt="Парламентська асамблея НАТО визнала Росію терористичним ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>&quot;Сьогодні ми затвердимо резолюцію, яка закликає всіх союзників чітко визначити, що Російська Федерація та її чинний режим діє як терористична організація&quot;, -&nbsp;...</p></div>
             </div>
-        </a><a href='https://vologda-poisk.ru/news/politika/glava-pentagona-skazal-chto-nato-ukrainu-v-bede-ne-brosit'>
+        </a><a href='https://suspilne.media/321884-kraini-cleni-nato-pidtrimali-stvorenna-spectribunalu-dla-rosii-ale-cogo-nedostatno/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Глава Пентагона сказал, что НАТО Украину в беде не бросит</h3>
+                <h3>Країни-члени НАТО підтримали створення спецтрибуналу для ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQpoOmYxtTanxoNk2KkbeYHHz3eGo3CwRnSghkdJc9AdpZxCwQ43Cn-SEIvc8yAquFtZR2rbAmI" alt="Глава Пентагона сказал, что НАТО Украину в беде не бросит" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Глава Пентагона Ллойд Остин во время выступления в Галифаксе на ежегодном Форуме по безопасности признал, что у России многочисленная армия и впечатляющее&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSryzOpQPV71hPt7nvsoNeuMF34tbvjbQP30bdXkCCuWUfP_hsmBdO423Pr0Oy9-wUecwQYQfjt" alt="Країни-члени НАТО підтримали створення спецтрибуналу для ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>suspilne.media Парламентська асамблея НАТО 21 листопада визнала Росію державою-терористом, а також підтримала резолюцію, в якій ідеться про створення&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.rosbalt.ru/world/2022/11/19/1979250.html'>
+        </a><a href='https://www.pravda.com.ua/rus/news/2022/11/21/7377298/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Глава Пентагона заявил, что НАТО не ищет конфликта с РФ</h3>
+                <h3>Парламентская ассамблея НАТО признала Россию ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR-FS1XB4WY0ceEOpq3PifPj_DK17hxYnSQxxL7sb5gaQ_hJBFlwrNDp2ZXwguaoQI-AYq2D6Ol" alt="Глава Пентагона заявил, что НАТО не ищет конфликта с РФ" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Шеф Пентагона Ллойд Остин заявил, что НАТО не ищет конфликта с РФ. Как передает «РИА Новости», об этом Остин заявил, выступая на конференции в Канаде. «НАТ.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTUHJvTRoGuBEBbCN7UOM9F13dK7SeQiIbV3p3q6LieQV7vI_xBU9Cc5KOISZe-lUEbzwGdyPB0" alt="Парламентская ассамблея НАТО признала Россию ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>&quot;Сегодня мы утвердим резолюцию, которая призывает всех союзников четко определить, что Российская Федерация и ее действующий режим действуют как&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.unian.net/world/v-pentagone-zayavli-chto-nato-ne-predstavlyaet-nikakoy-ugrozy-dlya-rossii-12051006.html'>
+        </a><a href='https://www.pravda.com.ua/news/2022/11/21/7377314/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>В Пентагоне заявли, что НАТО не представляет никакой угрозы ...</h3>
+                <h3>Генсек НАТО: Після дев&#39;яти місяців війни Росія продовжує ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcROHaCdhPB1BIJLrb-vVbgP2PDMI03QF8Y_hUNGwSTDKE6gjjzxbujZCNaPoqN4gijpTnH8M1qN" alt="В Пентагоне заявли, что НАТО не представляет никакой угрозы ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Остин заявил, что вторжение РФ в Украину угроза не только для Европы, однако Путину не удастся втянуть в войну НАТО, которое будет защищаться в случае чего.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSw3pBdrrT1o91tzQbUTBAhU9PQQNqQJQO5BA1lqkqAPO9tlwAPaTeYg7uipPhmywymDt5eJeJs" alt="Генсек НАТО: Після дев&#39;яти місяців війни Росія продовжує ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Росія не досягла жодних поставлених цілей в Україні та продовжує зазнавати невдач на фронті.</p></div>
             </div>
-        </a><a href='https://news.ru/world/nato-pozhalovalas-na-povedenie-rossijskih-pilotov-v-vodah-baltijskogo-morya/'>
+        </a><a href='https://www.eurointegration.com.ua/rus/news/2022/11/21/7151091/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>НАТО пожаловалась на маневры российских пилотов в водах ...</h3>
+                <h3>Новый президент ПА НАТО осудила войну России и призвала ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTh3Y5ZGAdn7L4biE-PcGfbr_ar8UFzYm0_bhBiZaxGFmceLl0XjoVN1-nkbAvw0yeUGAyPKBDV" alt="НАТО пожаловалась на маневры российских пилотов в водах ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Командование НАТО обвинило пилотов ВВС России в непрофессиональных действиях в Балтийском море. Пилоты совершили облет кораблей альянса, которые проводили&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSMLPRew-RDCC00tqqJmOEZsv--sLxWESMulDabPSTV_AK_h520ZwxZMKoTs9lmLlQAiQ0lTUPX" alt="Новый президент ПА НАТО осудила войну России и призвала ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Французский сенатор Жоэль Гаррио-Майлям осудила войну России против Украины и похвалила украинский народ за защиту западных ценностей после того,&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

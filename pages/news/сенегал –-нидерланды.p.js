@@ -11,63 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Сенегал – Нидерланды"/>
         <meta name="description" content="Trending News about Сенегал – Нидерланды" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Сенегал – Нидерланды</h1>
-            <Image width={800} height={500} src="https://static.ua-football.com/img/upload/20/295342.jpeg" alt="Сенегал – Нидерланды"/>
+            <Image width={800} height={500} src="https://img.championat.com/news/social/0/f4/4900293.jpg" alt="Сенегал – Нидерланды"/>
             <h3>Recent News</h3>
-            <a href='https://www.ua-football.com/foreign/worldcup/1668984961-senegal-niderlandy-gde-i-kogda-smotret-onlayn-match-chempionata-mira.html'>
+            <a href='https://www.championat.com/football/article-4900293-senegal-niderlandy-0-2-obzor-matcha-1-go-tura-chempionata-mira-2022-goly-kodi-gakpo-i-davi-klassena-21-noyabrya.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Сенегал - Нидерланды: где и когда смотреть онлайн матч ...</h3>
+                <h3>Как же обидно за Сенегал! Матч с Нидерландами на ЧМ ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTykoYBC-tAXQWci4A6Akl93D7Tjmnvzph2YA3f2p2y_PE3T3LeP7DFeCmuWPyeFxNBD33Phq_4" alt="Сенегал - Нидерланды: где и когда смотреть онлайн матч ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>21-11-2022 ✓ Чемпионат мира FIFA. Где покажут в прямом эфире матч Нидерланды - Сенегал, Чемпионат мира, 21 ноября 2022: Сенегал - Нидерланды: где и когда&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT4xu4Qb3HXOJ9EQo8unsxodsWpLovDpYdsns9Y7jsEBKvPUCIN-PxJOpHC26fX_hKdKe6KhbuO" alt="Как же обидно за Сенегал! Матч с Нидерландами на ЧМ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Всё шло к ничьей, а закончилось двумя голами в концовке. Продолжаем следить за вторым игровым днём чемпионата мира — 2022! Во втором матче встретились две&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.vseprosport.ru/news/2022/11/20/senegal-niderlandy-prognoz-kf-4-60-i-stavki-na-match-chempionata-mira-21-nojabrja-2022-goda'>
+        </a><a href='https://www.sport-express.ru/football/world/2022/news/senegal-niderlandy-startovye-sostavy-komand-na-match-chm-2022-2001145/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Сенегал — Нидерланды: прогноз и ставки с коэффициентом 4.60</h3>
+                <h3>Сенегал — Нидерланды: стартовые составы команд на матч ЧМ ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTyG8DRHp5hIz-wNJ1YQI_aaEl8h01s0crM9Tsb0aYNfg18hDy9SR9H55NFwdAI_jJy-AnaWSbL" alt="Сенегал — Нидерланды: прогноз и ставки с коэффициентом 4.60" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Сенегал — Нидерланды. Прогноз (кф 4.60) и ставки на матч Чемпионата мира (21 ноября 2022 года). Сенегал. Сенегал. Чемпионат Мира. 21.11.2022. 19:00 МСК&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ0OQ9JoT1fP_K7EqG8Mha9fHf46oieugCOkyHOXA5vwWbh6Ai0rzKCXjFiUP8LkBAooA6vQVL7" alt="Сенегал — Нидерланды: стартовые составы команд на матч ЧМ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сборные Сенегала и Нидерландов объявили составы на матч группы А чемпионата мира-2022 в Катаре.</p></div>
             </div>
-        </a><a href='https://www.footboom.com/foreign/worldcup2022/1668973069-senehal-niderlandy-anons-ta-prohnoz-matchu.html'>
+        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1727379_Senegal__Niderlandy_luchshije_momenty_matcha_ChM_2022_po_futbolu_21_nojabra_smotret_goly_i_obzor'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Сенегал – Нидерланды. Анонс и прогноз матча</h3>
+                <h3>Сенегал — Нидерланды: лучшие моменты матча ЧМ-2022 по ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTG2galw-4cCzTxHNgOfZAtkqcAsNi0MAyjOvEbiUmdTYfZ15KMh604PKGgV3fLTqdURxpMHELz" alt="Сенегал – Нидерланды. Анонс и прогноз матча" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Прогноз на матч Сенегал — Нидерланды ✓ Состоится 21.11.2022 в рамках турнира Чемпионат мира-2022 ⚽ Статистика и анализ матча ✔️ Коэффициенты букмекеров.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRDc-aBjnXTOs9umklgKiUDO_mv2253BxbY9bFSVLZfe3a3L2jGaxqN_g4wu-_ydV0N-iVE6MXP" alt="Сенегал — Нидерланды: лучшие моменты матча ЧМ-2022 по ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сборная Нидерландов обыграла команду Сенегала в матче первого тура группового этапа чемпионата мира‑2022 по футболу в Катаре.</p></div>
             </div>
-        </a><a href='https://sport.ua/news/604289-senegal-niderlandy-prognoz-i-anons-na-match-chempionata-mira'>
+        </a><a href='https://sportrbc.ru/news/637a890b9a7947580b1dbfd2'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Сенегал – Нидерланды. Прогноз и анонс на матч чемпионата ...</h3>
+                <h3>Сенегал — Нидерланды</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTwRkIBgApNthUharwVx8qtbt2BW8_q_3SfCgMzUUtah--kWtznnlAp6ihsZ7ZwjnVd6HBuDVWd" alt="Сенегал – Нидерланды. Прогноз и анонс на матч чемпионата ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Прогноз и анонс на матч {Сенегал} – {Нидерланды} ⇒ ≺{21.11.2022}≻ ✓ {Чемпионат мира} Прогнозы, обзоры и анонсы футбольных матчей от лучших экспертов&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSRyfWqX0HeNiqgNW0JujPYf42KoO39y5xQJ2SwCFDL2t5HExhmmsP8S__6fO-hFkpzHGL8W6zv" alt="Сенегал — Нидерланды" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>На этом будем прощаться, пожелаем сборной Сенегала побед в следующих матчах турнира. А команду Нидердандов поздравляем с победой!</p></div>
             </div>
-        </a><a href='https://zn.ua/SPORT/senehal-niderlandy-onlajn-transljatsija-matcha-chm-2022.html'>
+        </a><a href='https://www.sports.ru/football/1113476167-senegal-niderlandy-02-obzor-matcha-chempionata-mira-po-futbolu-21-1120.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Сенегал – Нидерланды: онлайн-трансляция матча ЧМ-2022</h3>
+                <h3>Сенегал — Нидерланды — 0:2, обзор матча Чемпионата мира ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTzS-phdePlfBpNkYQwhXl8rOPzJsTrrBq1wNqvK5knzgW0h19ZnWntnZClXT_C21EKJVJIS95R" alt="Сенегал – Нидерланды: онлайн-трансляция матча ЧМ-2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Команды проведут первый матч в группе. Сенегал – Нидерланды: онлайн-трансляция матча ЧМ-2022. Нидерланды считаются фаворитом матча ©&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTm8HzxHfMnuJxXeTBuxobATBNQ4od125BLHXfv3Jm_GkWO2M8OnhSqvjZ8gf2WrfNaH0zfoGUS" alt="Сенегал — Нидерланды — 0:2, обзор матча Чемпионата мира ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Sports.ru - 24 года! Все это время вы — наша главная ценность, поэтому сегодня заголовки на главной заменяются на комментарии. Этот переключатель вернет&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sport-express.ru/football/world/2022/online/chm-2022-smotret-translyacii-matchey-angliya-iran-senegal-niderlandy-ssha-uels-onlayn-igr-21-noyabrya-2022-rezultaty-2000828/'>
+        </a><a href='https://www.vseprosport.ru/news/2022/11/21/senegal-gollandija-prognoz-kf-2-35-na-match-chempionata-mira-21-nojabrja-2022-goda'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ЧМ-2022: Англия — Иран, США — Уэльс и Сенегал ...</h3>
+                <h3>Сенегал — Голландия: прогноз на матч Чемпионата мира</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTLvvPB_738lnbgXftrCUXAa3fyiIK1P0tyMsxWlntujyHYBiHE0_fk0ti7G4t92QJpZN4L7Kfl" alt="ЧМ-2022: Англия — Иран, США — Уэльс и Сенегал ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ЧМ 2022 по футболу, матчи 21 ноября: Англия — Иран, США — Уэльс, Сенегал — Нидерланды, где смотреть прямые трансляции матчей чемпионата мира по футболу в&nbsp;...</p></div>
-            </div>
-        </a><a href='https://telegraf.com.ua/sport-cat/2022-11-20/5723460-senegal-niderlandy-bukmekery-prorochat-oranzhevym-legkuyu-progulku-v-matche-chm-2022'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Сенегал — Нидерланды: букмекеры пророчат &quot;Оранжевым ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSR7_8KN_lfQjEbfiW_1e50HcSS4sxOM8dyHzINDyq0g7z--rqFrn0u-kJPkPg4kL4WzWKUoiyK" alt="Сенегал — Нидерланды: букмекеры пророчат &quot;Оранжевым ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Букмекеры не верят в Сенегал в матче ЧМ-2022 по футболу против Нидерландов - котировки.</p></div>
-            </div>
-        </a><a href='https://www.sport-express.ru/stavki-na-sport/reviews/senegal-niderlandy-prognoz-i-stavka-na-match-21-noyabrya-chempionat-mira-po-futbolu-2022-2000549/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Сенегал — Нидерланды: без Мане африканцам нечего ловить ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcThJG2shXlAuMPpBWdDco0WtpzsnbihwsMj5C4tnM6I_CUFWvOGhnpyXkwsd4aSVcTZuiqBds68" alt="Сенегал — Нидерланды: без Мане африканцам нечего ловить ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Игра состоится на стадионе «Эль-Тумама» в Дохе и начнется в 19.00 по московскому времени. Обслужит ее бригада арбитров из Бразилии во главе с Вилтоном Сампайо.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRkHmLN8K8ph55tt-TYxmxjoqANcSH4LbJNDORlV6P3En2vzzTs-4pkogT_Dgbf1ygV3P3UwI4k" alt="Сенегал — Голландия: прогноз на матч Чемпионата мира" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сенегал — Голландия. Прогноз (кф 2.35) на матч Чемпионата мира (21 ноября 2022 года). Сенегал. Сенегал. Чемпионат Мира. 21.11.2022. 19:00 МСК. Нидерланды.</p></div>
             </div>
         </a>
         </Template></>;

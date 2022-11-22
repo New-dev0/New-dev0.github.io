@@ -11,49 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Morgan Freeman"/>
         <meta name="description" content="Trending News about Morgan Freeman" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Morgan Freeman</h1>
-            <Image width={800} height={500} src="https://images.indianexpress.com/2022/11/Jungkook-1200.jpg" alt="Morgan Freeman"/>
+            <Image width={800} height={500} src="https://imageio.forbes.com/specials-images/imageserve/637bc5f7982fa52fd3817eea/0x0.jpg?format=jpg&crop=3328,2253,x266,y125,safe&width=1200" alt="Morgan Freeman"/>
             <h3>Recent News</h3>
-            <a href='https://indianexpress.com/article/entertainment/music/jungkook-morgan-freeman-perform-at-fifa-world-cup-2022-opening-ceremony-photos-videos-8279735/'>
+            <a href='https://www.forbes.com/sites/danidiplacido/2022/11/21/morgan-freeman-sparks-backlash-after-leading-qatar-world-cup-opening-ceremony/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Morgan Freeman Sparks Backlash After Leading Qatar World Cup ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSGqEQy_pOx3XDctLUKflk9pB0a8hN8q6qLJGayoceDsMrwWcHkYdLtlxECEewr83Fu87rHXwgE" alt="Morgan Freeman Sparks Backlash After Leading Qatar World Cup ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Hollywood star Morgan Freeman made a surprise appearance at the opening ceremony of the FIFA World Cup in Qatar, sparking backlash from disappointed fans.</p></div>
+            </div>
+        </a><a href='https://www.siasat.com/ghanim-al-muftah-morgan-freemans-dialogue-at-fifa-world-cup-opening-sparks-interaction-2461813/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Ghanim Al Muftah, Morgan Freeman&#39;s dialogue at FIFA World Cup ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ2XYuHNkNZFkMFNyN7FVfwFzNUx3NL9Ek-jFVwablKEtGEyumRpvJFQB-omhSa08kXV1tQHA39" alt="Ghanim Al Muftah, Morgan Freeman&#39;s dialogue at FIFA World Cup ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ghanim Al Muftah drew the world&#39;s attention at the opening ceremony of the World Cup 2022, with his dialogue with the famous American actor.</p></div>
+            </div>
+        </a><a href='https://indianexpress.com/article/entertainment/music/jungkook-morgan-freeman-perform-at-fifa-world-cup-2022-opening-ceremony-photos-videos-8279735/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Jungkook and Morgan Freeman perform at FIFA World Cup 2022 ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTLcCA8IYfB5nf8v5Idd5Xf-B1wZCU8AFCpZbzO4wuhHlYTuY6r_uxw64u0_oF4xvkEiSlAVxo2" alt="Jungkook and Morgan Freeman perform at FIFA World Cup 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>The FIFA World Cup 2022 opening ceremony saw performances by K-pop band BTS&#39; Jungkook, Hollywood actor Morgan Freeman, YouTuber Ghanim Al Muftaha and singer&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.vanityfair.com/hollywood/2022/11/morgan-freeman-and-btss-jung-kook-help-kick-off-controversial-world-cup-in-qatar'>
+        </a><a href='https://nypost.com/2022/11/21/morgan-freeman-slammed-for-taking-part-in-2022-qatar-world-cup-opening-ceremony-should-be-ashamed/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Morgan Freeman and BTS&#39;s Jung Kook Help Kick Off Controversial ...</h3>
+                <h3>Morgan Freeman slammed for taking part in 2022 Qatar World Cup ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR8PuCAQZws6FdD6uvZWQeKjPQWdUDCWRtSUfrnY_ZSkuj1E6pkN048IjehDZGXuZ_SqmMLZLJj" alt="Morgan Freeman and BTS&#39;s Jung Kook Help Kick Off Controversial ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Sunday marks the first day of matches in the 22nd FIFA World Cup. (Even if you are not a soccer fan, surely you are familiar with the FIFA organization,&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQndvnAm3cBE-Nq00mso5IYDpOd33-BDlO7XB-oM5Y1SH5VEUfohasp7D60MhuOQnfWpoo4ze7g" alt="Morgan Freeman slammed for taking part in 2022 Qatar World Cup ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Fans are giving Morgan Freeman a red card for this stunt. The 85-year-old actor kicked off the tournament by narrating the opening segment of &quot;The Calling&quot;&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.tmz.com/2022/11/20/morgan-freeman-bts-jungkook-kick-off-world-cup-2022/'>
+        </a><a href='https://www.timesnownews.com/viral/fifa-world-cup-2022-the-reason-why-actor-morgan-freeman-wore-a-single-beige-glove-during-the-opening-ceremony-article-95648071'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Morgan Freeman &amp; BTS&#39; Jungkook Kick Off 2022 World Cup</h3>
+                <h3>FIFA World Cup 2022: The reason why actor Morgan Freeman wore ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRXjIwA3H-w_SZp9yWNhMJemsiu1koZLXQvLMg0ej0No-QG3pWFPXdozGe7ZG2A0c7DMhyQTRoj" alt="Morgan Freeman &amp; BTS&#39; Jungkook Kick Off 2022 World Cup" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Morgan Freeman and BTS&#39;s Jungkook were a bit of an unlikely pair to kick off the #QatarWorldCup2022, but they made it work anyway!</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTnS_PXUocmvQ9ByLg5420_tAGXNHzwl3hwTniNvk_BOt8O_LKEtyAEspbFZ5f4RjV72SVMoJ_F" alt="FIFA World Cup 2022: The reason why actor Morgan Freeman wore ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Morgan Freeman has been wearing a compression glove on his right hand ever since suffering a paralysis after his car crash in 2008.</p></div>
             </div>
-        </a><a href='https://www.marca.com/en/world-cup/2022/11/20/637a55ede2704ea8078b45f2.html'>
+        </a><a href='https://www.scoopwhoop.com/sports/morgan-freeman-left-hand-glove-qatar-world-cup/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Morgan Freeman opened Qatar 2022 World Cup opening ceremony ...</h3>
+                <h3>Here&#39;s Why Morgan Freeman Had A &#39;Fake&#39; Left Hand During Qatar ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRS8X-E4KH1CDPRa_S76CawKZhmOWch-2FgavyV9maRZ0wuSVtsMqcEsAKX6z2PhhRlzM_AK3AZ" alt="Morgan Freeman opened Qatar 2022 World Cup opening ceremony ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The surprise of the Qatar 2022 World Cup opening ceremony was the appearance of Morgan Freeman, who sent a message of inclusion to all soccer fans.</p></div>
-            </div>
-        </a><a href='https://www.usatoday.com/story/sports/soccer/worldcup/2022/11/20/morgan-freeman-delivers-speech-during-world-cup-opening-ceremony/10744447002/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Morgan Freeman delivers speech during Olympic-style World Cup ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSch1opLhfqwRp0ikn6S2bNjCalOjG-NVHE4S2WZlMs-D_sBPdV-ege6C1kqKmsjkAcoiSHEHWI" alt="Morgan Freeman delivers speech during Olympic-style World Cup ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>During the roughly 30-minute World Cup opening ceremony, stars such as American actor Morgan Freeman and Korean pop-star Jungkook took the stage.</p></div>
-            </div>
-        </a><a href='https://deadline.com/2022/11/world-cup-morgan-freeman-bts-jung-kook-opening-ceremony-qatar-1235177856/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Morgan Freeman &amp; BTS&#39; Jung Kook Take Center Stage At World ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTLo8YKOqyuV5zNaszc8YO7s3YdSjPQ6EeC3BBHeb-ualVc_x_XG8zcj_22FR_esqPs7WKJ2spt" alt="Morgan Freeman &amp; BTS&#39; Jung Kook Take Center Stage At World ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A pageant of song, dance, and a few superstars, the kick-off of FIFA&#39;s big tournament intended to send a lot of messages.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQtbiNjUniR0KAQqEPqW153ilLy-qhPqISfBVjY45dMDjnUUmIi7NabrzO_ZvOqpYweggAhBUuY" alt="Here&#39;s Why Morgan Freeman Had A &#39;Fake&#39; Left Hand During Qatar ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>During the opening ceremony of Fifa Qatar World Cup, Twitter observed Morgan Freeman and his fake left hand. It&#39;s because of a condition called&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Байден"/>
         <meta name="description" content="Trending News about Байден" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Байден</h1>
-            <Image width={800} height={500} src="https://gdb.voanews.com/00d80000-0aff-0242-9dac-08dacb210fd5_w1200_r1.jpg" alt="Байден"/>
+            <Image width={800} height={500} src="https://online47.ru/media/photo/article/__159712.jpg" alt="Байден"/>
             <h3>Recent News</h3>
-            <a href='https://www.golosameriki.com/a/joe-biden-birhday/6842636.html'>
+            <a href='https://online47.ru/2022/11/21/bayden-popytalsya-zagovorit-s-indeykoy-a-pozzhe-pomiloval-ee-169006'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Байден попытался заговорить с индейкой, а позже помиловал ее</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTM6_BHypMcU5lsR4q3YuPe125QCMHU8xw6J1bocIOdqw4mhqMCSBUOgrzSVYLu42_vjjHsS6jV" alt="Байден попытался заговорить с индейкой, а позже помиловал ее" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ранее Online47 сообщал, что в американском конгрессе &quot;понизили&quot; должность Байдена. Фото: YouTube. Новости Online47- в Telegram быстрее  . Подпишись: https://t.</p></div>
+            </div>
+        </a><a href='https://www.golosameriki.com/a/biden-white-house-turkeys-pardoning-thanksgiving/6844096.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Джо Байден провел в Белом доме церемонию «помилования ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ33p4mocs51ZI9SM3A3TGSGXsM0g718xMMc-ywoxL77zmpmM4d9y-QsogAxOsDl87D5Y-LILea" alt="Джо Байден провел в Белом доме церемонию «помилования ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Эта церемония проходит накануне одного из главных американских праздников – Дня благодарения. В понедельник президент Байден провел на лужайке Белого дома&nbsp;...</p></div>
+            </div>
+        </a><a href='https://life.ru/p/1540566'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Байден пытался поговорить с помилованной в честь Дня ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTXawjOzmTeJOQKzwaXtJNJwiUILV6csPyWmAmTHq_SOu-Csp1Zqh-03mFr7nYMSnYXvFMmQxGT" alt="Байден пытался поговорить с помилованной в честь Дня ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Президент США Джо Байден помиловал индеек Шоколадку и Крошку в честь Дня благодарения. Перед этим он попытался поговорить с одной из них, протянув микрофон.</p></div>
+            </div>
+        </a><a href='https://tsargrad.tv/news/bajden-vzjal-intervju-u-indejki-nelovko-poluchilos_669356'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Байден взял интервью у индейки. Неловко получилось</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSfP1iztaXo2uV1Tq6R25R6_nDEq64CLoSBzseq4yP6kTrKLV7IwS1_aj9P9q0rqm7-GT9MkM_e" alt="Байден взял интервью у индейки. Неловко получилось" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Президент США Джо Байден опять что-то перепутал. На этот раз он начал разговаривать с птицей. Он взял интервью у огромной индейки.</p></div>
+            </div>
+        </a><a href='https://www.vedomosti.ru/society/news/2022/11/21/951394-baiden-vvel-rezhim-chs-shtate-nyu-iork'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Байден ввел режим ЧС в штате Нью-Йорк из-за сильного ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTY81WZ5D4w2C5Ca8X4m1GWCNAx9RD-6YLXmHtAR8342NaHMT52yKgf6uN_wgsTYkueQ5igzJ7l" alt="Байден ввел режим ЧС в штате Нью-Йорк из-за сильного ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Также Байден распорядился выделить средства на борьбу со стихией. Отмечается, что такое решение президент США принял накануне вечером. Причиной стали сильные&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.fontanka.ru/2022/11/21/71834669/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Байден помиловал индеек Шоколадку и Крошку. Одна из них ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRIKVtIdABq4JroDFjd9mquwzQy2rK95NZC-rUtT68q0I6SApYdDFFooDFYPeVVbxeQLBC12e8y" alt="Байден помиловал индеек Шоколадку и Крошку. Одна из них ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Американский президент Джо Байден в понедельник помиловал индеек по кличкам Шоколадка и Крошка. Церемония проходит ежегодно - Общество - 21 ноября 2022&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.golosameriki.com/a/joe-biden-birhday/6842636.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Президент Джо Байден отмечает 80-летний юбилей</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSMohNde57i2vyu5Y3dJszGEysWmySrDhhoWGsLHuw1hxU4qB59XxP3EEu6nLq_QoO6RNZ76mTV" alt="Президент Джо Байден отмечает 80-летний юбилей" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>На протяжении своей политической карьеры Байден сыграл ключевую роль в работе над важнейшими государственными инициативами.</p></div>
             </div>
-        </a><a href='https://www.kommersant.ru/doc/5679599'>
+        </a><a href='https://daily.afisha.ru/news/70269-dzho-bayden-pomiloval-indeek-shokoladku-i-kroshku/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Байден призвал запретить штурмовое оружие после стрельбы в ...</h3>
+                <h3>Джо Байден помиловал индеек Шоколадку и Крошку</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Байден призвал запретить штурмовое оружие после стрельбы в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Президент США Джо Байден считает, что принятых им в 2022 году мер по контролю за оружием недостаточно. После гибели пяти человек во время стрельбы в&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTgGEFr9VO1JXlu4kjfoJ1w6vZQ3etYTTn-DtKtVv3NtSDUZ7ymBFFVkna94IL4erjTlYRjSMD7" alt="Джо Байден помиловал индеек Шоколадку и Крошку" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Американский президент Джо Байден по традиции Дня благодарения помиловал двух индеек — Шоколадку и Крошку. Об этом сообщает Fox News.</p></div>
             </div>
-        </a><a href='https://life.ru/p/1540329'>
+        </a><a href='https://news.ru/world/sonnyj-dzho-ne-dremlet-bajdenu-ispolnilos-80/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Байден: В США на фоне стрельбы в Колорадо выросла ...</h3>
+                <h3>Сонный Джо не дремлет: Байдену исполнилось 80</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQHJ3G75AAEt7wcWphsa0Vu8KB_IWUEOd91PPM2zF6QxBn9LCO1ZevH26tklJ8tSnWuXebKyCmn" alt="Байден: В США на фоне стрельбы в Колорадо выросла ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Президент США Джо Байден назвал вооружённое насилие эпидемией в общественной жизни страны, комментируя ЧП со стрельбой в гей-клубе в штате Колорадо.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQmmhfWQVqCIRO_G35dn2b0ihXrwZ_qwe30chQUSLW7jfEC_n8I5olJJ7Gs29lTEEyhU0zXo7mV" alt="Сонный Джо не дремлет: Байдену исполнилось 80" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Байден стал первым в истории президентом США, отметившим 80-летний юбилей на этом посту. Как парнишке из шахтерского городка удалось дойти до Овального&nbsp;...</p></div>
             </div>
-        </a><a href='https://readovka.news/news/121437'>
+        </a><a href='https://1sn.ru/baiden-obyavil-cs-v-state-nyu-iork-iz-za-nebyvalogo-snegopada'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Мистер президент: чем Джозеф Байден успел запомниться к 80 ...</h3>
+                <h3>Байден объявил ЧС в штате Нью-Йорк из-за небывалого ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSTYjpuB8d6xo_DdyvPJG-ZxyMcuranldYsUdAPXfUtQPeK29pRg9n4MpmysdUjhIRgFplx0qfn" alt="Мистер президент: чем Джозеф Байден успел запомниться к 80 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Сегодня, 20 ноября, исполнилось 80 лет 46-му президенту США Джозефу Байдену – возраст более чем почтенный. Самое время вспомнить, чем именно отметился&nbsp;...</p></div>
-            </div>
-        </a><a href='https://news.ru/usa/belyj-dom-bajden-otmetit-80-letie-v-krugu-semi/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Белый дом: Байден отметит 80-летие в кругу семьи</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTT3HOOwtQzIzgdpMEvX0eb_4XGhPaCymVMOXGSsBROgUlby5GuMckAzbMpm9mh6MjhnrNJlWFb" alt="Белый дом: Байден отметит 80-летие в кругу семьи" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Пресс-секретарь президента США Джо Байдена Карин Жан-Пьер сообщила, что действующий глава государства обычно празднует свой день рождения в кругу семьи в&nbsp;...</p></div>
-            </div>
-        </a><a href='https://focus.ua/world/537791-dzho-bajdenu-80-let-tragedii-i-vzlety-46-ogo-prezidenta-ssha'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Джо Байден отмечает 80 лет: трагедии и взлеты 46-ого ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTgZHlL2Aj-USYs82AJ06Z3HeY82nzWmjnIJor4JIOhsh8vvS5zq9SmsYRtr224BXZGFmNNTrK_" alt="Джо Байден отмечает 80 лет: трагедии и взлеты 46-ого ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Джозеф Байден –– самый пожилой глава государства за всю историю Соединенных Штатов. В молодости он пережил смерть жены и дочери, но смог выстоять перед&nbsp;...</p></div>
-            </div>
-        </a><a href='https://yamal-media.ru/news/bajden-objavil-epidemiej-vooruzhennoe-nasilie-v-ssha'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Байден объявил эпидемией вооруженное насилие в США</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRvQSdsot3Oi_qHksT7zrDOupvgAR0aHJanN39rK2Na-V6fvWPf_o4Pf8QzNWtlZ_SMOPVmKknW" alt="Байден объявил эпидемией вооруженное насилие в США" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Президент США Джо Байден назвал эпидемией вооруженное насилие в стране и призвал властей к реакции после стрельбы в ночном клубе в штате Колорадо.</p></div>
-            </div>
-        </a><a href='https://rossaprimavera.ru/news/9223e8e4'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Байден заявил об эпидемии вооруженного насилия в США</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRsqpm2Jdv3bmBd573PpTzG6dvW7kwJHUvr1Jex3lB8uPsShoeq3uqslTJfjdjvjOrqKGdL2fUP" alt="Байден заявил об эпидемии вооруженного насилия в США" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Вооруженное насилие в США президент Джо Байден назвал эпидемией в общественной жизни страны и подчеркнул, что со сторны властей необходима соответствующая&nbsp;...</p></div>
-            </div>
-        </a><a href='https://eadaily.com/ru/news/2022/11/20/ded-slivaet-moshch-politiki-ssha-vseobemlyushchie-moshennichestva-na-vyborah'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Дед сливает мощь политики США: всеобъемлющие ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRX3PPH-J2KzbyzN4_u-Xq86NwdyD7GOMcLVQ_AvEu8jBZmoX_2DGp4Z0cDucLBJ1LWaQYCmR6v" alt="Дед сливает мощь политики США: всеобъемлющие ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Президент США Джо Байден снова проговорился о том, насколько грязно осуществляется американская политика. По его словам, в стране создана самая масштабная&nbsp;...</p></div>
-            </div>
-        </a><a href='https://zn.ua/WORLD/prezidentu-ssha-dzho-bajdenu-ispolnjaetsja-80-let-i-on-planiruet-ballotirovatsja-na-vtoroj-srok.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Президенту США Джо Байдену исполняется 80 лет и он ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT6cbeVB993sn49F_NeI7k3mBrNSxx7XAyvZpUqCX-_5CPBlutbPF4Dm1SiiGsA58W2u6JEGvVZ" alt="Президенту США Джо Байдену исполняется 80 лет и он ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Байден является самым старшим человеком на посту президента в истории США. Президенту США Джо Байдену исполняется 80 лет и он планирует баллотироваться на&nbsp;...</p></div>
+                <Image src="" alt="Байден объявил ЧС в штате Нью-Йорк из-за небывалого ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Американский лидер тем самым уполномочил министерство внутренней безопасности и других специалистов Федерального агентства США по чрезвычайным ситуациям (FEMA)&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

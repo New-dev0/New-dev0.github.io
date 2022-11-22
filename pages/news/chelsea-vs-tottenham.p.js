@@ -25,7 +25,7 @@ export default function Page() {
                 <h3>%competition_name% (Sky Sports)</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="" alt="%competition_name% (Sky Sports)" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Second Half ends, Chelsea Women 3, Tottenham Hotspur Women 0. 90&#39;+1&#39; miss icon. Attempt missed. Bethany England (Chelsea Women) right footed shot from the&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Women&#39;s Super League match Chelsea Women vs Tottenham Women 20.11.2022. Preview and stats followed by live commentary, video highlights and match report.</p></div>
             </div>
         </a><a href='https://www.theguardian.com/football/live/2022/nov/20/chelsea-v-tottenham-womens-super-league-live'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -41,19 +41,19 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRpkWlNe78NInSsJxVgEmysxoj5FfptB7dEXJqHT7VkpOVtCMcSjtf-gzgnZXioIoOP1AhsLXzS" alt="Chelsea vs Tottenham Hotspur LIVE: Women&#39;s Super League result ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>The WSL is the top tier of English women&#39;s football with international players from all over the world plying their trade in one of the most competitive and&nbsp;...</p></div>
             </div>
+        </a><a href='https://www.espn.co.uk/football/report/_/gameId/648349'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Chelsea vs. Tottenham Hotspur - Football Match Report - November ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSR7VEPcWR4D9AlQ4eb9GnAQHYLuZm45touCktl5yxk623aRfxESZZVCTjbGZVhG8I64NnKNpNw" alt="Chelsea vs. Tottenham Hotspur - Football Match Report - November ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Chelsea ensured a winning return to the touchline for manager Emma Hayes as they eased past Tottenham Hotspur with a 3-0 victory in the Women&#39;s Super League&nbsp;...</p></div>
+            </div>
         </a><a href='https://www.sportsunfold.com/chelsea-vs-tottenham-prediction-head-to-head-lineup-betting-tips-where-to-watch-live-today-english-womens-super-league-2022-match-details-november-20/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Chelsea vs Tottenham Prediction, Head-To-Head, Lineup, Betting ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSHPiZAu3hmhY0Xq8LaZGoMYqDjBbyvnrI_j_KWYexyRMRECP-EAnc4tM1uHilCJz2eNx6QQe-J" alt="Chelsea vs Tottenham Prediction, Head-To-Head, Lineup, Betting ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Women&#39;s Super League 2022 match prediction for CHE-W vs. TOT-W in Dream11 Fantasy Football. On November 20, Chelsea will host Tottenham...</p></div>
-            </div>
-        </a><a href='https://www.espn.in/football/report/_/gameId/648349'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Chelsea vs. Tottenham Hotspur - Football Match Report - November ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSR7VEPcWR4D9AlQ4eb9GnAQHYLuZm45touCktl5yxk623aRfxESZZVCTjbGZVhG8I64NnKNpNw" alt="Chelsea vs. Tottenham Hotspur - Football Match Report - November ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Chelsea ensured a winning return to the touchline for manager Emma Hayes as they eased past Tottenham Hotspur with a 3-0 victory in the Women&#39;s Super League&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

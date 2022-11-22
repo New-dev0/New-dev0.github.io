@@ -11,56 +11,63 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Ева Мендес"/>
         <meta name="description" content="Trending News about Ева Мендес" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Ева Мендес</h1>
-            <Image width={800} height={500} src="https://focus.ua/static/storage/thumbs/1200x630/9/9b/a9d86bcd-9244a3ec748c19c1ed8dd8ad2b3199b9.jpg?v=0110_1" alt="Ева Мендес"/>
+            <Image width={800} height={500} src="https://n1s2.hsmedia.ru/cc/5b/1a/cc5b1aaec0200dd19035f63df1f9b472/1200x629_0xac120003_17886487061669006728.png" alt="Ева Мендес"/>
             <h3>Recent News</h3>
-            <a href='https://www.bfm.ru/news/513375'>
+            <a href='https://www.elle.ru/celebrities/novosty/eva-mendes-sluchaino-proboltalas-o-svoei-sekretnoi-svadby-s-raianom-goslingom/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Ева Мендес случайно проболталась о своей секретной свадьбе ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQABjaOUuaH-iG1_y5aHzaIHq0WCqH0wj3uiUoB6HKwCZIYwOGRZUmpxaSacBu6DRbTWaKBizkt" alt="Ева Мендес случайно проболталась о своей секретной свадьбе ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Это уже второе личное признание актрисы за минувший месяц | ELLE.</p></div>
+            </div>
+        </a><a href='https://medialeaks.ru/2111ndi-str-shw-mendes-gosling/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>«Почему она, а не я». В Сети нашли доказательства тайной ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQmG-fQGpcC81bgJ1-3aRe-vBZAVu5v9MbRPD42kHp6RkC2ExQ3ms8s1OVabpplAV2FIUjRt5Ct" alt="«Почему она, а не я». В Сети нашли доказательства тайной ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Артистка, выросшая в семье кубинцев, опубликовала в инстаграме* фото запястья, на котором можно разглядеть татуировку в честь партнёра — надпись «de Gosling».</p></div>
+            </div>
+        </a><a href='https://www.bfm.ru/news/513375'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Райан Гослинг женился на актрисе Еве Мендес</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="" alt="Райан Гослинг женился на актрисе Еве Мендес" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Недавно папарацци заметили, что на руке 48-летней Евы Мендес появилась татуировка de Gosling (так замужние испанские женщины добавляют фамилию супруга к своей).</p></div>
             </div>
-        </a><a href='https://focus.ua/lifestyle/537788-eva-mendes-oficialno-vyshla-zamuzh-za-rayana-goslinga'>
+        </a><a href='https://www.elle.ru/moda/zvezdny-stil/seksualnost-eto-osoboe-sostoyanie-eva-mendes-v-prostoi-beloi-rubashke-i-v-obtyagivayushikh-bryukakh-gulyaet-po-gorodu/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ева Мендес официально вышла замуж за Райана Гослинга</h3>
+                <h3>Сексуальность — это особое состояние: Ева Мендес в простой ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRzdpUvwCU73SMGhPZDZX2Drrm1aIUNr6Sr6fu-dOJYC2xuxcG20sDqWgspLHNb9IBIhkREpcWi" alt="Ева Мендес официально вышла замуж за Райана Гослинга" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Об отношениях звездной пары стало известно еще в 2011 году.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTtX3ugzg-bdOW4v-DEH60cBw0-XYu18s7Th4dbmREChaCEvAuEPT2Mx9H191WtvYfatkC44c3q" alt="Сексуальность — это особое состояние: Ева Мендес в простой ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>48-летняя актриса учит выглядеть притягательно в самых простых вещах. В чем ее магия? | ELLE.</p></div>
             </div>
-        </a><a href='https://dtf.ru/life/1456897-rayan-gosling-oficialno-zhenilsya-na-eve-mendes'>
+        </a><a href='https://info.sibnet.ru/article/629487/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Райан Гослинг официально женился на Еве Мендес — Жизнь на ...</h3>
+                <h3>Ева Мендес и Райан Гослинг поженились</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRTrg5IVrdc1f_rB9peLdGWIUCs0uob7G5eiatppNDURhAFdMB1JavbFxyf8XNduOrJwqp6HXGA" alt="Райан Гослинг официально женился на Еве Мендес — Жизнь на ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Американская актриса кубинского происхождения Ева Мендес призналась, что Райан Гослинг является ее мужем. О своем новом статусе 48-летняя звезда &quot;Форсажа&quot;&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQTYrh-FsHv8AzUJT4AJE3XZRmxef6D3E3rpE7HS8lWWnxQ0s55GUsj1qDWLa3nvsBNtRL-a79y" alt="Ева Мендес и Райан Гослинг поженились" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В телешоу «Today» Мендес рассказывала о поездке в Австралию и, говоря о Гослинге, назвала его своим мужем.</p></div>
             </div>
-        </a><a href='https://news.obozrevatel.com/show/people/rajan-gosling-i-eva-mendes-tajno-pozhenilis-posle-bolee-10-let-otnoshenij.htm'>
+        </a><a href='https://super.ru/a/gosling_married'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Райан Гослинг и Ева Мендес тайно поженились после более 10 ...</h3>
+                <h3>Райан Гослинг и Ева Мендес сыграли тайную свадьбу</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRH8MhQTa3kkKOLmT3-Janq-hOwhugMAENnmBlZq_FwO7lZDvTeHVttxfmiSf4lBemQe3qXFj0-" alt="Райан Гослинг и Ева Мендес тайно поженились после более 10 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>2,8 т. Только проверенная информация у нас в Telegram-канале Obozrevatel и в Viber . Не ведитесь на фейки!</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTNaowc-yTnJ5dDU4dKZD6CzhIpWKFoAqmt_8dIz5vjlqb2QLt-KUa2XAoBsm1FoxC5T4BQ8IJc" alt="Райан Гослинг и Ева Мендес сыграли тайную свадьбу" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сейчас звездная пара находится в Австралии: Райан Гослинг снимается в проекте «Падший парень», а Ева Мендес занимается благотворительной деятельностью.</p></div>
             </div>
-        </a><a href='https://pluggedin.ru/open/rayan-gosling-ghenilsya-na-eve-mendes-40895'>
+        </a><a href='https://kino.24tv.ua/ru/rajan-gosling-eva-mendel-pozhenilis-chto-izvestno-ob-otnoshenijah_n2202310'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Райан Гослинг женился на Еве Мендес</h3>
+                <h3>После 11 лет отношений: актеры Райан Гослинг и Ева Мендес ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRk_HANWeIP91DMRmYFF_KBNUTt-jTzp-553dl0wSl6PZ_1ihMGmXHagfd6Q-e1vFUQ7sYharIk" alt="Райан Гослинг женился на Еве Мендес" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ева Мендес официально вышла замуж за Райана Гослинга, о чем рассказала сама 48-летняя актриса в недавнем интервью. Об отношениях звезд известно с 2011 года,&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQrm9TxscIz8RdA7RQExaWIjYd28tll5UgWmsIGCZkRnCQ0tYWp5xjxS76Om9WtUpJLHMSCMTCx" alt="После 11 лет отношений: актеры Райан Гослинг и Ева Мендес ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Канадский актер Райан Гослинг и голливудская актриса Ева Мендес поженились. Звездная пара, встречавшаяся 11 лет, держала это известие в секрете.</p></div>
             </div>
-        </a><a href='https://glamurchik.tochka.net/282420-eva-mendes-i-rayan-gosling-stali-suprugami-spustya-12-let-otnosheniy/'>
+        </a><a href='https://www.sb.by/articles/aktery-rayan-gosling-i-eva-mendes-tayno-pozhenilis.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ева Мендес и Райан Гослинг стали супругами спустя 12 лет ...</h3>
+                <h3>Актеры Райан Гослинг и Ева Мендес тайно поженились</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQPOmPsLiNaJ1dvfBaMoZPIn4bJ7sTIb3KbqjHnSjy-iiimKJWmG_HEMzOSH8W_XMLXef3h1pAc" alt="Ева Мендес и Райан Гослинг стали супругами спустя 12 лет ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>48-летняя актриса Ева Мендес намекнула, что официально узаконила отношения с 42-летним Райаном Гослингом после 12 лет отношений. О семейном статусе девушка&nbsp;...</p></div>
-            </div>
-        </a><a href='https://dni24.com/exclusive/373593-eva-mendes-nameknula-na-taynuyu-svadbu-s-rayanom-goslingom.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ева Мендес намекнула на тайную свадьбу с Райаном Гослингом ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTic1aTgutGcenoXAmtKe1PDSC1hScuG5Xx0Tmq-NVdaoMmWnxBzlyrWEyoruH7DYhJYS5Xx78c" alt="Ева Мендес намекнула на тайную свадьбу с Райаном Гослингом ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Звезда американского кинематографа Ева Мендес разместила в своём блоге снимок с недавно появившейся татуировкой. Рисунок на руке содержал два слова «de Gosling»&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQqn5opKaHkWHM0HsOffXwRpgb4WqJSxNyUb9L01WslHr0Jhg4Nctg1cw9G39iWROZbf-msAxf2" alt="Актеры Райан Гослинг и Ева Мендес тайно поженились" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Звездная пара Райан Гослинг и Ева Мендес вместе с 2012 года. У знаменитостей даже двое общих детей, однако на протяжении 10 лет актеры расписаны...</p></div>
             </div>
         </a>
         </Template></>;

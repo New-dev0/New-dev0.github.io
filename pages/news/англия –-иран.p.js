@@ -11,56 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Англия – Иран"/>
         <meta name="description" content="Trending News about Англия – Иран" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Англия – Иран</h1>
-            <Image width={800} height={500} src="https://sport.24tv.ua/resources/photos/news/202211/2201774.jpg?v=1668974885000&w=1200&h=675" alt="Англия – Иран"/>
+            <Image width={800} height={500} src="https://img.championat.com/news2/social/0/48/4900179.jpg" alt="Англия – Иран"/>
             <h3>Recent News</h3>
-            <a href='https://sport.24tv.ua/ru/anglija-iran-smotret-onlajn-chm-2022-prjamaja-transljacija-matcha_n2201774'>
+            <a href='https://www.championat.com/football/news-4900179-angliya-iran-21-noyabrya-videoobzor-matcha-chempionata-mira-2022-goly-luchshie-momenty.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Англия – Иран: онлайн-трансляция матча ЧМ-2022</h3>
+                <h3>Англия — Иран: видеообзор матча чемпионата мира — 2022</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTi6Vt3JpbECkrOAZ2IaB7crwBv7sab2YgxM3dpuKzv8LHQCQQfLoi5o2oCZO0Yjky3gqLnJUDW" alt="Англия – Иран: онлайн-трансляция матча ЧМ-2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Англия и Иран сыграют на чемпионате мира 2022 года матч 21 ноября. Начало встречи в 15.00. Онлайн-трансляция матча Англия – Иран на ЧМ-2022 в Катаре. Англия&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSk5pcpjnlQwrCV8DbeW961hQ0kss-XZBI0jk7YSYG_7c-GlJ9jPqwes1I4xA_P8hunzsU7--iR" alt="Англия — Иран: видеообзор матча чемпионата мира — 2022" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В матче 1-го тура группового этапа чемпионата мира — 2022 в Катаре сборная Англии встречалась с национальной командой Ирана. Игра прошла на стадионе «Халифа&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.ua-football.com/foreign/worldcup/1668956239-angliya-iran-gde-i-kogda-smotret-onlayn-match-chempionata-mira.html'>
+        </a><a href='https://www.sport-express.ru/football/world/2022/news/match-angliya-iran-dlilsya-117-minut-2001139/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Англия - Иран: где и когда смотреть онлайн матч Чемпионата мира</h3>
+                <h3>Матч Англия — Иран длился 117 минут</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTjWNTbPKeoRrzj3M77I7E194bIJXbIYJd9XV_XeGik6qumboQS4Zk5fyyBc6zxGLEtaxE1aWPi" alt="Англия - Иран: где и когда смотреть онлайн матч Чемпионата мира" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Англия - Иран ⋇ 21.11.2022 ⋇ Где смотреть матч онлайн ✓ Прямые трансляции футбольных матчей ⚽ Статистика ☝ Результаты ✌ Свежие новости футбола.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ3mecH4CFhS7QYQZMiT-_2WhI7af4Xuh_oMGnBaD6lfbj_SmHtMP4jN66d3i0NY2BvBPnxNN5x" alt="Матч Англия — Иран длился 117 минут" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Матч группы В чемпионата мира-2022 Англия — Иран (6:1) продлился 117 минут.</p></div>
             </div>
-        </a><a href='https://sport.24tv.ua/ru/anglija-iran-prognoz-igru-chempionata-mira-2022-24-kanal_n2201594'>
+        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1727258_Anglija__Iran_obzor_matcha_ChM_2022_po_futbolu_21_nojabra_smotret_goly_i_luchshije_momenty'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Дебютная встреча этих сборных на фоне скандалов: прогноз на ...</h3>
+                <h3>Англия — Иран: обзор матча ЧМ-2022 по футболу 21 ноября ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRGbbBhcCrlNI_GWAaTxJEYZX3o2r7uErg0FHRVKEB4WwzbzyuZJsZeoevCPWHoq5rb2FsebRuq" alt="Дебютная встреча этих сборных на фоне скандалов: прогноз на ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Прогноз на матч Англия – Иран, который пройдет в рамках чемпионата мира по футболу 2022 года. Команды сыграют 21 ноября 2022 года. Ставки букмекеров на матч&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSzCibjX8TYrPngQrupe9NJO-lpasnblNsv6TA_U57KOAfTQkSfJ26A7H1n7qJXWl--7_CCzs-u" alt="Англия — Иран: обзор матча ЧМ-2022 по футболу 21 ноября ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сборная Англии победила команду Ирана в матче группового этапа чемпионата мира по футболу 2022 года в Катаре.</p></div>
             </div>
-        </a><a href='https://www.footboom.com/foreign/worldcup2022/1668962331-anhliia-iran-anons-ta-prohnoz-matchu.html'>
+        </a><a href='https://sportrbc.ru/news/637a87e99a794757f889e1c7'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Англия - Иран. Анонс и прогноз матча</h3>
+                <h3>Англия — Иран</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQnlgaLHA175p9hA9aejOEcrCyLXKXCXKqqtbFGmAsB8kkbsqMEVjCJVI4JvR8oRcEdsXGu65ec" alt="Англия - Иран. Анонс и прогноз матча" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Прогноз на матч Англия — Иран ✓ Состоится 21.11.2022 в рамках турнира Чемпионат мира-2022 ⚽ Статистика и анализ матча ✔️ Коэффициенты букмекеров.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ5Xsf8C52ShNWJVuwpRDoM7IJ_8pWxQhJKElGrWI1w_m9_vMVZL0eQ4FQSm54u0c2wOkR1H7ae" alt="Англия — Иран" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>На этом будем прощаться, пожелаем сборной Ирана побед в следующих матчах турнира. А команду Англии поздравляем с победой! Онлайн матча для вас провел&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.vseprosport.ru/news/2022/11/20/anglija-iran-prognoz-kf-3-98-i-stavki-na-match-chempionata-mira-21-nojabrja-2022-goda'>
+        </a><a href='https://www.sports.ru/football/1113469610-angliya-iran-62-obzor-matcha-chempionata-mira-po-futbolu-21-112022.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Англия — Иран: прогноз и ставки с коэффициентом 3.98</h3>
+                <h3>Англия — Иран — 6:2, обзор матча Чемпионата мира по ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTlq5NmJ20nYSGSERdIWHimpMIw53g_zOChXbifVGuB6Radz1qgBBapjZDjWa4efQdni6oYDTiw" alt="Англия — Иран: прогноз и ставки с коэффициентом 3.98" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Англия — Иран. Прогноз (кф 3.98) и ставки на матч Чемпионата мира (21 ноября 2022 года). Англия. Англия. Чемпионат Мира. 21.11.2022. 16:00 МСК. Иран. Иран.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSGSyD9xjn4i9eeupoVM2d4KBRUzVM11AY-45G_rcFE2WPLSqF6LJ5NvT1Mka4mLDE6zRxuTcEE" alt="Англия — Иран — 6:2, обзор матча Чемпионата мира по ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Уже в первом тайме Англия реализовала свое преимущество в классе. За 45 минут англичане забили три гола. Все три мяча забиты в последние 10 минут. Автором&nbsp;...</p></div>
             </div>
-        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1726917_Anglija__Iran_gde_smotret_onlajn_match_21_nojabra_Chempionat_mira_po_futbolu'>
+        </a><a href='https://www.sportmk.ru/sports/2022/11/21/angliya-iran-prognoz-na-match-chempionata-mira-ot-olimpbet.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Англия — Иран: где смотреть онлайн матч 21 ноября, Чемпионат ...</h3>
+                <h3>Англия — Иран: прогноз на матч чемпионата мира от Olimpbet</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQGIGYxF_NgkJFtH-QTCUb27Ja6bX9IgX1pWb-FSKYIm2CNlgPMlXqGepm-BFulnV_qxn_Gq6Q8" alt="Англия — Иран: где смотреть онлайн матч 21 ноября, Чемпионат ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Матч 1‑го тура группового этапа чемпионата мира с участием сборных Англии и Ирана состоится в понедельник, 21 ноября. Прямую трансляцию встречи можно&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.sport-express.ru/football/world/2022/online/chm-2022-smotret-translyacii-matchey-angliya-iran-senegal-niderlandy-ssha-uels-onlayn-igr-21-noyabrya-2022-rezultaty-2000828/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ЧМ-2022: Англия — Иран, США — Уэльс и Сенегал ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTLvvPB_738lnbgXftrCUXAa3fyiIK1P0tyMsxWlntujyHYBiHE0_fk0ti7G4t92QJpZN4L7Kfl" alt="ЧМ-2022: Англия — Иран, США — Уэльс и Сенегал ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ЧМ 2022 по футболу, матчи 21 ноября: Англия — Иран, США — Уэльс, Сенегал — Нидерланды, где смотреть прямые трансляции матчей чемпионата мира по футболу в&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR5acasTdZqgx9-C07iAX074UXZOh1v42RZ19X1qKGIZj7jZ60wOA2wMv_gDgJKhJL2Mz6ojKn6" alt="Англия — Иран: прогноз на матч чемпионата мира от Olimpbet" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Англия и Иран сыграют на чемпионате мира уже 21 ноября. Букмекерская компания Olimpbet* расскажет, в какой форме находятся команды, и поможет определиться&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

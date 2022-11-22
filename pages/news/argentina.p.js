@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Argentina"/>
         <meta name="description" content="Trending News about Argentina" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Argentina</h1>
-            <Image width={800} height={500} src="https://veja.abril.com.br/wp-content/uploads/2022/11/Maes-da-Praca-de-Maio-1.jpg?quality=70&strip=info&w=680&h=453&crop=1" alt="Argentina"/>
+            <Image width={800} height={500} src="https://static.globalnoticias.pt/oj/image.jpg?brand=OJ&type=generate&guid=064a0281-a2c5-4328-b92d-57ab6f555f61&w=800&h=420&watermark=true&t=20221121140100" alt="Argentina"/>
             <h3>Recent News</h3>
-            <a href='https://veja.abril.com.br/mundo/morre-na-argentina-lider-do-movimento-maes-da-praca-de-maio/'>
+            <a href='https://www.ojogo.pt/internacional/mundial-2022/noticias/adeptos-da-argentina-agitam-catar-veja-a-impressionante-pintura-humana--15372878.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Morre na Argentina líder do movimento &#39;Mães da Praça de Maio&#39;</h3>
+                <h3>Adeptos da Argentina agitam Catar. Veja a impressionante pintura ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQGmpmR9NY7P2oX4wvx4fwf6JdTyRaK15IChdtWXvQQgW-lI6pahtfktVbhI1czjK1V6pi7qNK2" alt="Morre na Argentina líder do movimento &#39;Mães da Praça de Maio&#39;" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Hebe de Bonafini comandou o movimento contra a ditadura militar; Ao lamentar a morte, Lula disse que argentina é exemplo para quem acredita na democracia.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcScuJggEELmHgGlgXT-bG0nrki0u3meNzElXSnPCj-UB4UCux87fV_I0aWMcZR6Vl2qrmMzoY6E" alt="Adeptos da Argentina agitam Catar. Veja a impressionante pintura ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A Argentina estreia-se no Mundial de 2022 na manhã de terça-feira, diante da Arábia Saudita, mas os adeptos já fazem a festa nas ruas de Doha.</p></div>
             </div>
-        </a><a href='https://www.cnnbrasil.com.br/internacional/hebe-de-bonafini-a-mae-que-desafiou-a-ditadura-argentina-morre-aos-93-anos/'>
+        </a><a href='https://ge.globo.com/futebol/selecoes/argentina/noticia/2022/11/21/scaloni-faz-misterio-sobre-time-titular-da-argentina-e-divide-favoritismo-com-outras-selecoes.ghtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Hebe de Bonafini, a mãe que desafiou a ditadura argentina, morre ...</h3>
+                <h3>Scaloni faz mistério sobre time titular da Argentina e divide ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQQE5yigblm6F7k7AT2ljTldCEeFRX8zdE0wkr1L7VAbbcrzkT9EzvmSl9yQS2OaeOpyx0k6Mto" alt="Hebe de Bonafini, a mãe que desafiou a ditadura argentina, morre ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>flipboard. Ouvir notícia. Hebe de Bonafini, a icônica cofundadora das Mães da Praça de Maio da Argentina e uma ferrenha lutadora contra as violações de direitos&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQWlAIjdy0jxnRXQ6Tx3GXVJTZH1lpfDLwvtX35H8V0tYvgNsu4EMEuI3c1MzxMTVUSs6z0RBJt" alt="Scaloni faz mistério sobre time titular da Argentina e divide ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Time sul-americano chega ao Catar com 36 jogos de invencibilidade; treinador tem dúvida no meio-campo.</p></div>
             </div>
-        </a><a href='https://www1.folha.uol.com.br/mundo/2022/11/evo-cristina-e-boulos-lamentam-morte-da-argentina-hebe-de-bonafini-veja-repercussao.shtml'>
+        </a><a href='https://ge.globo.com/futebol/selecoes/argentina/noticia/2022/11/21/antes-da-estreia-na-copa-pela-argentina-messi-avisa-chego-em-grande-momento.ghtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Lula, Evo e Cristina lamentam morte da argentina Hebe de Bonafini ...</h3>
+                <h3>Leve e sorridente, Messi promete desfrutar cada detalhe com a ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT9V_qUWnenOkAnEliGAeK3WyXRoFPV29o1NU2IPMwVPz97Fa5IORLHguDjOK9np0mjVPRCwHRq" alt="Lula, Evo e Cristina lamentam morte da argentina Hebe de Bonafini ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A cofundadora das Mães da Praça de Maio, que teve dois filhos desaparecidos durante a ditadura argentina, percorreu uma trajetória marcada pela luta em busca&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQSVhOuBC-7WerniqwztEiwsfWp5hXlaPaBALxd6jzMZU9tFMunp0JwZymIotiSNHAApg9ovEuW" alt="Leve e sorridente, Messi promete desfrutar cada detalhe com a ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Desfrutar. Palavra que praticamente virou mantra para um Lionel Messi no Catar. Em busca do que chama de &quot;grande sonho&quot;&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.terra.com.br/noticias/lider-das-maes-da-praca-de-maio-morre-na-argentina,1b251a43e230855ebe15e330d0b141ac3djng1h2.html'>
+        </a><a href='https://www.uol.com.br/esporte/ultimas-noticias/enm/2022/11/21/argentina-x-arabia-saudita-retrospecto-escalacoes-arbitragem-e-onde-assistir.htm'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Líder das Mães da Praça de Maio morre na Argentina</h3>
+                <h3>Argentina x Arábia Saudita: retrospecto, escalações, arbitragem e ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ7VdsZK8J-6BJw15gmPBIBWwe2ArwQIT-6wWCE4c0drxOk-tC9VrMeOgsHq13YyX464tG4-lvG" alt="Líder das Mães da Praça de Maio morre na Argentina" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Hebe de Bonafini, que perdeu dois filhos e uma nora durante a sanguinária ditadura militar da ...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQlE-zeaR1FmXG6P2KYa3esEZtegNm0ohP3wEEzVHDY7qWnAcHkVsk2zpzQUISoCqdaOijak5VQ" alt="Argentina x Arábia Saudita: retrospecto, escalações, arbitragem e ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A Argentina estreia na Copa do Mundo Qatar 2022 nessa terça-feira (22) diante da Arábia Saudita, às 7h, pelo horário de Brasília-DF, no estádio Lusail,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.goal.com/br/not%C3%ADcias/argentina-arabia-saudita-copa-do-mundo-2022-onde-assistir-tv-escalacao/bltdbfc9942ea687c6d'>
+        </a><a href='https://www.infomoney.com.br/consumo/argentina-franca-e-dinamarca-favoritas-e-1-jogo-equilibrado-veja-numeros-do-3o-dia-da-copa/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Argentina x Arábia Saudita: onde assistir ao vivo e online, horário ...</h3>
+                <h3>Argentina, França e Dinamarca favoritas e 1 jogo equilibrado; veja ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRLl1TV6R0u2uLnwEq8Ej888Bs9kR3U7Ftca3q9LwB4YSJLQPQK85mcR-moMAMEwHbu-su9QbBK" alt="Argentina x Arábia Saudita: onde assistir ao vivo e online, horário ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Hermanos iniciam a caminhada em busca do terceiro título Mundial nesta terça-feira (22); veja como acompanhar na TV e na internet.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQDtdegMlxhY3Ddi09_O9r7sZpYeMeVr5iOAsmeBG7PBO-cIpow58rtE3ko3OzyEkN3I_PKTxYN" alt="Argentina, França e Dinamarca favoritas e 1 jogo equilibrado; veja ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Já México e Polônia devem fazer a partida mais equilibrada até o momento, segundo dados de 3 casas de apostas esportivas online compilados pelo InfoMoney. Jogos&nbsp;...</p></div>
             </div>
-        </a><a href='https://noticias.uol.com.br/ultimas-noticias/rfi/2022/11/20/morre-na-argentina-hebe-de-bonafini-simbolo-da-resistencia-contra-os-horrores-da-ditadura-militar.htm'>
+        </a><a href='https://extra.globo.com/esporte/com-argentina-lionel-messi-estreia-na-copa-do-mundo-proximo-de-quebrar-cinco-recordes-saiba-quais-25611707.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Morre na Argentina Hebe de Bonafini, símbolo da resistência contra ...</h3>
+                <h3>Com a Argentina, Lionel Messi estreia na Copa do Mundo próximo ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Morre na Argentina Hebe de Bonafini, símbolo da resistência contra ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A ativista argentina de direitos humanos Hebe de Bonafini morreu neste domingo (20), aos 93 anos de idade. O anúncio da morte desta grande liderança das&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRAzGflpzAjGrCXUIWqD8-9oNUtAyoER8Sc3i-qyzDAayffLYU_NJYIhQPLijy_xssAsatVeJbI" alt="Com a Argentina, Lionel Messi estreia na Copa do Mundo próximo ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Apesar de a França, atual campeã mundial, estrear na Copa do Mundo do Catar, os holofotes do dia 3 estarão voltados para Lionel Messi. O astro da Argentina,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.lance.com.br/copa-do-mundo/arabia-saudita/jogadores-da-arabia-saudita-desafiam-argentina-11-contra-11.html'>
+        </a><a href='https://www.uol.com.br/esporte/futebol/copa-do-mundo/2022/11/21/argentina-dramatiza-tornozelo-maradoniano-de-messi-astro-diz-estar-bem.htm'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Jogadores da Arábia Saudita desafiam Argentina: &#39;11 contra 11&#39;</h3>
+                <h3>Argentina dramatiza tornozelo &#39;maradoniano&#39; de Messi; astro diz ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQYwXny9P3Od3LlZt56UQjjHEKmB_wJ-SRd2oiaQ7JbOPW9m_HOqqotpGMyl0r19b73u_uWFjpk" alt="Jogadores da Arábia Saudita desafiam Argentina: &#39;11 contra 11&#39;" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>LANCE! 20/11/2022. 14:12. Doha (QAT). Às vésperas do confronto contra a Argentina pela Copa do&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRAnf0bdAxeAzbpohGEVluUWrV7hWsblAjnT582kYkObHfYV7kgMHoeEik8bTV3jPIcgSdMiOUX" alt="Argentina dramatiza tornozelo &#39;maradoniano&#39; de Messi; astro diz ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lionel Messi treinou hoje na véspera da estreia da Argentina na Copa com o tornozelo direito inchado. O craque, porém, disse que não terá probelmas para&nbsp;...</p></div>
             </div>
-        </a><a href='https://ge.globo.com/futebol/selecoes/argentina/noticia/2022/11/20/enfim-messi-craque-treina-com-elenco-da-argentina-e-nao-preocupa-para-estreia-na-copa.ghtml'>
+        </a><a href='https://www.abola.pt/nnh/2022-11-21/argentina-messi-assume-chegar-ao-mundial-num-grande-momento/965572'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Enfim, Messi! Craque treina com elenco da Argentina e não ...</h3>
+                <h3>Messi assume chegar ao Mundial num «grande momento»</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcThLX-kRxnI5y99vY8Fh-AATOpq1DxA2GTyKea3HYPg-TbDPfZ7rgjLmigxcJAvFN9c5FKksUYw" alt="Enfim, Messi! Craque treina com elenco da Argentina e não ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>De acordo com meios de comunicação argentinos, ausência em primeiros treinos foi apenas por precaução; atividade deste domingo foi fechada.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQobA7l3AmsSI8lt9BwT_cvqrJE2dZ3TsYXpO_gELHJXV9w9nyGZzhyYgC9_WnZ9lJHToVRJbc7" alt="Messi assume chegar ao Mundial num «grande momento»" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Messi assumiu, na antevisão ao duelo entre Argentina e Arábia Saudita, chegar ao Mundial num grande momento. «Sinto-me muito bem fisicamente.</p></div>
             </div>
-        </a><a href='https://www.gazetaesportiva.com/times/argentina/messi-treina-pela-primeira-vez-com-a-argentina-no-catar/'>
+        </a><a href='https://www.terra.com.br/esportes/futebol/copa-2022/tornozelo-inchado-de-messi-chama-atencao-em-treino-da-argentina,f924e8d0058ab45b7a631b790777fb989283f1mo.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Messi treina pela primeira vez com a Argentina no Catar</h3>
+                <h3>Tornozelo inchado de Messi chama atenção em treino da Argentina</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS1HjVk2VehWTqqe2li1YSqAJJ7JQpEhydpxHyXvZxqQ4OZixtyCe5ENqcVeRoV-fmKmLrlbSOR" alt="Messi treina pela primeira vez com a Argentina no Catar" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Lionel Messi perdeu as primeiras sessões de treino da Seleção Argentina, mas já está de volta às atividades do grupo. Confira imagens de mais um.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRchpZ2WmzPULVBlDeEMyXTSScIfrw5MQB6YCcP4qM_tRHBtFSF8peZ8poOoMaIa2GXKDDS2r6C" alt="Tornozelo inchado de Messi chama atenção em treino da Argentina" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>O atacante Lionel Messi, do Paris Saint-Germain, afirmou que a Copa do Mundo do Catar será sua última chance de vencer a competição da Fifa.</p></div>
             </div>
-        </a><a href='https://ge.globo.com/futebol/selecoes/argentina/noticia/2022/11/20/quem-derruba-argentina-iguala-invencibilidade-do-brasil-e-esta-a-um-jogo-de-recorde-mundial.ghtml'>
+        </a><a href='https://www.cnnbrasil.com.br/esporte/copa-do-mundo-argentina-e-arabia-saudita/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Quem derruba? Argentina iguala invencibilidade do Brasil e está a ...</h3>
+                <h3>Jogo da Copa Ao Vivo: Argentina x Arábia Saudita</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQo1uBQV_AR1v-ENvKVBlEThShK66UTnPs_I-DgBxxd61udmlNVW-ljGdbBp2-rg8zTm8ZIEgL6" alt="Quem derruba? Argentina iguala invencibilidade do Brasil e está a ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Embora a França seja a atual campeã mundial, a Argentina é a seleção na Copa do Mundo do Catar com a sequência mais longa sem derrotas.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTn4RW8Ij4wBaUcpn2UXrji1mNNympQdgmJONwz8k_BOgx4HxAR19bPDnn2F0nVz4FzVaIplago" alt="Jogo da Copa Ao Vivo: Argentina x Arábia Saudita" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A partida será realizada no Lusail Stadium, localizado em Lusail. A arena tem capacidade para receber até 80 mil torcedores. Leia mais&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

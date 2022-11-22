@@ -11,14 +11,21 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Hıncal Uluç"/>
         <meta name="description" content="Trending News about Hıncal Uluç" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Hıncal Uluç</h1>
-            <Image width={800} height={500} src="https://i2.milimaj.com/i/milliyet/75/0x0/637aa34086b2454fc4b95a8e.jpg" alt="Hıncal Uluç"/>
+            <Image width={800} height={500} src="https://www.cumhuriyet.com.tr/Archive/2022/11/21/2004735/kapak_104325.jpg" alt="Hıncal Uluç"/>
             <h3>Recent News</h3>
-            <a href='https://www.milliyet.com.tr/gundem/gazeteci-hincal-uluc-hayatini-kaybetti-6860360'>
+            <a href='https://www.cumhuriyet.com.tr/yasam/hincal-uluc-kimdir-kac-yasinda-hayatini-kaybetti-2004735'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Gazeteci Hıncal Uluç hayatını kaybetti</h3>
+                <h3>Hıncal Uluç kimdir, kaç yaşında hayatını kaybetti?</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQb1jXpelJNFK-rGc_GmJJE8Iju5cIeXWHbRPhPqHX1u9PUBi91zR4XbATDpbAGsksQ9YfbNNa-" alt="Gazeteci Hıncal Uluç hayatını kaybetti" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Son Dakika Güncel Haberler - Son dakika haberler: Gazeteci Hıncal Uluç, 83 yaşında tedavi gördüğü hastanede hayatını kaybetti...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcThTckDinCH1k8d2MDEBy-ax71u7Fy4bhtrVQiyAVhiCJmzUN-brLJJ9bFoeLkeo92KT7QdElcj" alt="Hıncal Uluç kimdir, kaç yaşında hayatını kaybetti?" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>HINCAL ULUÇ KİMDİR? Hıncal Uluç 1 Kasım 1939 tarihinde Kilis&#39;te dünyaya geldi. ilkokula Bandırma&#39;da başlamış, sonra 1950 yılında Kilis&#39;te bitirmiştir. 1952&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.dunya.com/gundem/hincal-uluc-turk-medyasina-damgasini-vurdu-haberi-674756'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Hıncal Uluç, Türk medyasına damgasını vurdu</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ6s02v6INqDIPd8HN8rDzgRlcTNa3R8vUaSfyCSJQk2cvLHcqV9e6q0nPtoS_dsqnbLABhCK6b" alt="Hıncal Uluç, Türk medyasına damgasını vurdu" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Bir süredir yaşadığı sağlık sorunları nedeniyle tedavi gördüğü hastanede 83 yaşında vefat eden gazeteci, yazar, spor yorumcusu Hıncal Uluç, Türk medyasında&nbsp;...</p></div>
             </div>
         </a><a href='https://www.ntv.com.tr/turkiye/son-dakika-haberi-gazeteci-hincal-uluc-hayatini-kaybetti,Sr3xy-gftUO7tRUlwtgLMA'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -27,26 +34,26 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQJCzkGtJWNYeNU9EFmziJ67QFoUuvtptIReP3nGsFFeHpz4CpaPNRPBAcGvyswXLQdIKRLFDNQ" alt="SON DAKİKA HABERİ: Gazeteci Hıncal Uluç hayatını kaybetti" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>SON DAKİKA HABERİ: Gazeteci Hıncal Uluç, 83 yaşında hayata gözlerini yumdu. 1960&#39;lı yıllardan bu yana gazetecilik yapan Uluç, mesleğe spor yazarlığı ile&nbsp;...</p></div>
             </div>
+        </a><a href='https://www.haberturk.com/gazeteci-yazar-hincal-uluc-kimdir-kac-yasindaydi-hincal-uluc-un-hayati-ve-biyografisi-3540451'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Gazeteci yazar Hıncal Uluç kimdir, kaç yaşındaydı, hastalığı neydi ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTOxvC3OoFnqUSFAZquFAT5q9xW_mfRzl1YtRJqUQjsZcYsB9aQu9Lgw2nPtVHIyVZhLxeex1A-" alt="Gazeteci yazar Hıncal Uluç kimdir, kaç yaşındaydı, hastalığı neydi ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Türk gazeteciliğinin önemli isimlerinden biri olan Hıncal Uluç İstanbul&#39;da tedavi gördüğü hastanede 83 yaşında hayata gözlerini yumdu. Hıncal Uluç&#39;un hayatı&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.trtspor.com.tr/haber/detay/infografik-hincal-uluc-265695.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>İnfografik: Hıncal Uluç</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTtFERFh93pYymEeth6SkrPKtrz1thR_t5fTf-wUpBdqar5HQW7ej9S8G2TF84WFt0tu3yKXbES" alt="İnfografik: Hıncal Uluç" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Bir süredir yaşadığı sağlık sorunları nedeniyle tedavi gördüğü hastanede 83 yaşında vefat eden gazeteci, yazar, spor yorumcusu Hıncal Uluç, Türk medyasında&nbsp;...</p></div>
+            </div>
         </a><a href='https://www.aa.com.tr/tr/gundem/gazeteci-yazar-hincal-uluc-hayatini-kaybetti/2743669'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Gazeteci yazar Hıncal Uluç hayatını kaybetti</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ1otE8jzCGcbZ_Y4pVN76vE34v8dBcs8J7liZydGZyBlNBojxZSVV_ZDGhzCGZ2CD2_85rC_Ae" alt="Gazeteci yazar Hıncal Uluç hayatını kaybetti" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Bir süredir yaşadığı sağlık sorunları nedeniyle hastanede tedavi gören gazeteci, yazar ve spor yorumcusu Hıncal Uluç 83 yaşında vefat etti.</p></div>
-            </div>
-        </a><a href='https://www.fotomac.com.tr/futbol/2022/11/20/turk-medyasinin-aci-gunu-hincal-ulucu-kaybettik'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Türk medyasının acı günü! Hıncal Uluç&#39;u kaybettik</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR8jc9v3lUV0P1HxUp2cz6l04LzPSrahqFR7nonqPLNuECnsrQzqklnck5lVvZYS-RLMC1pfdbg" alt="Türk medyasının acı günü! Hıncal Uluç&#39;u kaybettik" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Uzun yıllardır medya sektöründe yorumculuk ve köşe yazarlığı yapan duayen gazeteci Hıncal Uluç&#39;tan üzen haber geldi. Hıncal Uluç 83 yaşında hayata veda&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.trthaber.com/haber/gundem/hincal-uluc-hayatini-kaybetti-724860.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Hıncal Uluç hayatını kaybetti</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR8Af97xAEGmtkfHNiAJCx4H1b3lUdnnU_RhSLuH5B3VMXmvj-csuvZuDdkFaKzJB7qYs2e-GaC" alt="Hıncal Uluç hayatını kaybetti" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Bir süredir yaşadığı sağlık sorunları nedeniyle hastanede tedavi gören gazeteci, yazar ve spor yorumcusu Hıncal Uluç 83 yaşında vefat etti.</p></div>
+                <p style={{marginLeft: "15px"}}>Vefat haberinin ardından bazı siyasiler ve gazeteciler sosyal medyadan Uluç ile ilgili mesajlar paylaştılar. Cumhurbaşkanı Erdoğan&#39;dan başsağlığı mesajı.</p></div>
             </div>
         </a>
         </Template></>;

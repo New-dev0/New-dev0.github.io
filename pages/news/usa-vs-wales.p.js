@@ -11,49 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,USA vs Wales"/>
         <meta name="description" content="Trending News about USA vs Wales" /></Head><Template>
             <h1 style={{fontSize: "30"}}>USA vs Wales</h1>
-            <Image width={800} height={500} src="https://images.daznservices.com/di/library/DAZN_News/90/9f/mpchristian-pulisicusa-vs-gareth-balewales_1qfru0m748yad16kynwr1uu4fe.jpg?t=-1934378268&quality=100&h=300" alt="USA vs Wales"/>
+            <Image width={800} height={500} src="https://ss-i.thgim.com/public/incoming/xo41d9/article66166886.ece/alternates/FREE_1200/WCup_US_Wales_Soccer_87385.jpg" alt="USA vs Wales"/>
             <h3>Recent News</h3>
-            <a href='https://dazn.com/en-ZA/news/soccer/usa-vs-wales-time-tv-channel-preview-and-how-to-watch-fifa-world-cup-match/fbnkw60e2xuf10gm8hnmuequ3'>
+            <a href='https://sportstar.thehindu.com/football/fifa-world-cup/news/usa-vs-wales-live-score-fifa-world-cup-streaming-info-qatar-2022-wc-us-v-wal-usmnt-men-soccer-updates/article66164891.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>USA vs. Wales: Time, TV channel, preview and how to watch FIFA ...</h3>
+                <h3>USA 1-1 Wales Highlights FIFA World Cup, Qatar 2022: Bale ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTY5wz1UL1JghWewnJ-zZVEW2KhrTuQFN3OWqkpQTzqck1bTrcD8iCWnB3uzXtbwvHeaoCiIhxy" alt="USA vs. Wales: Time, TV channel, preview and how to watch FIFA ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The teams face each other to open their tournament at Qatar 2022. Two nations making their return to the World Cup stage clash on Monday as the United States&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRzjJTvwwLS28vnGow-l-ceenUYjRH0Fqd47tkOioig_9-icWlNodFrD03xTeQAMt-ZgHUImPIQ" alt="USA 1-1 Wales Highlights FIFA World Cup, Qatar 2022: Bale ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>USA vs Wales, FIFA World Cup: Read the highlights of the Qatar 2022 match between USA and Wales, being played in Al Rayyan.</p></div>
             </div>
-        </a><a href='https://www.forbes.com/sites/robertkidd/2022/11/20/usa-vs-wales-world-cup-2022-5-things-to-know-about-group-b-match/'>
+        </a><a href='https://www.goal.com/en-in/news/usa-vs-wales-lineups-and-live-updates/bltec359ac5cf0007f7'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>USA Vs. Wales World Cup 2022: 5 Things To Know About Group B ...</h3>
+                <h3>USA vs Wales: Lineups and LIVE updates</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTuoZhrhdVO-OA6TdP6rBtNkHolc0llAuL67vNJBsY-cUkotWNhxjMJxGKX28-fp4OV5GqVwwSW" alt="USA Vs. Wales World Cup 2022: 5 Things To Know About Group B ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The U.S. men&#39;s national soccer team begins its World Cup 2022 campaign against Wales on Monday, Nov. 21. The match, which follows the Group B opener earlier&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS3PMMZjCSatoKyRnxnV8CEhVO9lkuJ4igNlJUt_t9JrfjgGMH1ActyLQ6Gq3TZWE6rGi7gc1fy" alt="USA vs Wales: Lineups and LIVE updates" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The United States Men&#39;s National Team locks horns with Wales in a crucial opening fixture for both outfits. Both the teams didn&#39;t feature in the previous&nbsp;...</p></div>
             </div>
-        </a><a href='https://supersport.com/football/fifa-world-cup-2022/news/08e7638d-0768-465c-a7c0-c989046aee35/usa-v-wales---what-the-stats-say'>
+        </a><a href='https://khelnow.com/football/2022-11-world-football-fifa-world-cup-2022-usa-vs-wales-live-updates'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>USA v Wales - what the stats say | SuperSport</h3>
+                <h3>FIFA World Cup 2022 Live Updates: USA vs Wales</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRx4PweK7sMgBGiJxPBlQEzg3YlbpiPaaqmrv8aWSJFNKJRZuWj-K__r-bRulNLNKgi6bAtsXFg" alt="USA v Wales - what the stats say | SuperSport" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>This is the first meeting between USA and Wales at the Fifa World Cup. The US team are so far unbeaten in their two previous encounters (W1 D1),&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTH5QcEcIpcYbcgub00C7Ee0_lbjUGypuTjuEI9-mXgsT5eyyoDUNVKPysOWD35m4Z_-nmIz9Kl" alt="FIFA World Cup 2022 Live Updates: USA vs Wales" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Welcome to the live blog for the USA vs Wales Group B match in FIFA World Cup 2022 group stage game, played in Qatar.</p></div>
             </div>
-        </a><a href='https://khelnow.com/football/2022-11-world-football-fifa-world-cup-2022-usa-vs-wales-predicted-lineup-injury-news'>
+        </a><a href='https://www.livemint.com/sports/football-news/fifa-world-cup-2022-usa-vs-wales-prediction-time-live-streaming-details-11669055640191.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>USA vs Wales: Predicted lineup, injury news, head-to-head</h3>
+                <h3>FIFA World Cup 2022: USA vs Wales prediction, time, live-streaming ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQN08oKiaotg46NlpYEBRTXfuRbnK-fMAW31OjzvQcbrGNgGV9MeA9D1mXT2mD6NUelTOWEtJax" alt="USA vs Wales: Predicted lineup, injury news, head-to-head" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The story of Group B in the FIFA World Cup will come down to who comes out on top in this intriguing clash between USA and Wales.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSjCN6jlzUmV8cmEBvT1pqccD3X4nKi847kBv3BGbEo5BaH1M3YM0xqr9mDB2OC-fKMMf7TsZou" alt="FIFA World Cup 2022: USA vs Wales prediction, time, live-streaming ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>FIFA World Cup 2022: It will be a tough competition for both the USA and Wales, who are appearing in the World Cup tournament after a long gap.</p></div>
             </div>
-        </a><a href='https://www.sportingnews.com/us/soccer/news/usa-wales-time-channel-live-stream-world-cup/tswd1homzz5qujq45wnzctcx'>
+        </a><a href='https://www.hindustantimes.com/sports/football/usa-vs-wales-live-score-fifa-world-cup-2022-united-states-vs-wales-football-match-latest-updates-group-b-al-rayyan-stadium-qatar-101669027545828.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>How to watch USA vs. Wales: Time, TV channel, live streams for ...</h3>
+                <h3>USA vs Wales Highlights FIFA World Cup 2022: Bale helps WAL ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT8wHnAt6emYtAXVoLeQTtE5ZaDwACml3yQuLOVqkN2s2MKqCBtA3g57pyixSUGmmnBA3lrhiV2" alt="How to watch USA vs. Wales: Time, TV channel, live streams for ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Here&#39;s everything you need to know to watch USA and Wales clash in their first game of the 2022 FIFA World Cup.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQDavQju_Nzfss_I2ZsNTEWo1kV05cReXSc4zdBFQA4g_Amy4sJaWNAcsV5900DqGFLnkPh65-s" alt="USA vs Wales Highlights FIFA World Cup 2022: Bale helps WAL ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>USA vs Wales FIFA World Cup 2022 Highlights: Gareth Bale equalised to help Wales hold USA to a 1-1 draw. Follow Highlights of the FIFA World Cup 2022 Group&nbsp;...</p></div>
             </div>
-        </a><a href='https://bleacherreport.com/articles/10056231-usa-vs-wales-top-storylines-odds-live-stream-for-world-cup-2022'>
+        </a><a href='https://indianexpress.com/article/sports/football/england-vs-iran-senegal-vs-netherlands-usa-vs-wales-fifa-world-cup-2022-live-score-8280416/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>USA vs. Wales: Top Storylines, Odds, Live Stream for World Cup 2022</h3>
+                <h3>FIFA World Cup 2022 Highlights: England rout Iran, Netherlands ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRSwvj3-79d1Sh1gU0F8hZ8tI4mg9NolHYB-suQ3jikfYZjcdLuE9JE5B96XkAVGAuFppDuJ_Sj" alt="USA vs. Wales: Top Storylines, Odds, Live Stream for World Cup 2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The United States men&#39;s national team returns to the FIFA World Cup for the first time in eight years on Monday. Gregg Berhalter&#39;s side opens its Group B...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcScYUeAYN16rnVS-gQvwzIbZaY6Sbkh1cwq8bAnNwEf_58r0XTg_9VLN9QueO4eSrhxXweq2V2R" alt="FIFA World Cup 2022 Highlights: England rout Iran, Netherlands ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>FIFA World Cup 2022 Highlights: Saka scores a brace against Iran while Bale converts late penalty to help Wales grab a point against USA.</p></div>
             </div>
         </a>
         </Template></>;

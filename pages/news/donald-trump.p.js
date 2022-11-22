@@ -11,56 +11,63 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Donald Trump"/>
         <meta name="description" content="Trending News about Donald Trump" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Donald Trump</h1>
-            <Image width={800} height={500} src="https://www.bizzbuzz.news/h-upload/2022/11/20/1619501-trump.jpg" alt="Donald Trump"/>
+            <Image width={800} height={500} src="https://images.indianexpress.com/2022/11/Election_2024_Republicans_93806-109fe.jpg" alt="Donald Trump"/>
             <h3>Recent News</h3>
-            <a href='https://www.bizzbuzz.news/industry/donald-trump-back-on-twitter-1180879'>
+            <a href='https://indianexpress.com/article/explained/explained-sci-tech/donald-trump-twitter-account-restored-explained-8280478/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Why Donald Trump&#39;s Twitter account has been restored</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSnZXwUlTOT0nIYfHSoVFz706FFhS1laoojqLCeKtGtN67m2q0nXhQQL5ewjf2tAfZKCRD6lDLH" alt="Why Donald Trump&#39;s Twitter account has been restored" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Elon Musk recently asked if Trump&#39;s account should be reinstated via a Twitter poll, where a slim majority of 51.8 per cent voted &#39;Yes&#39;.</p></div>
+            </div>
+        </a><a href='https://www.bizzbuzz.news/industry/donald-trump-back-on-twitter-1180879'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Donald Trump back on Twitter</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRDQI7Q04I8ZFvDlwqifeT3HZGiaH_LTYz3n7hcNBpnNnhnYIwXrvPzx85V0dMJjFH1rOXnQSLn" alt="Donald Trump back on Twitter" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Based on a poll, Twitter CEO Elon Musk on Sunday announced that former US President Donald Trump has been allowed to rejoin the micro-blogging platform.</p></div>
             </div>
-        </a><a href='https://economictimes.indiatimes.com/tech/technology/donald-trump-snubs-twitter-after-elon-musk-announces-account-reactivation/articleshow/95634182.cms'>
+        </a><a href='https://economictimes.indiatimes.com/magazines/panache/elon-musk-reinstates-donald-trumps-twitter-account-paytm-boss-has-this-to-say/articleshow/95653508.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Donald Trump snubs Twitter after Elon Musk announces account ...</h3>
+                <h3>Elon Musk reinstates Donald Trump&#39;s Twitter account; Paytm boss ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT-alX0xZ4QRbQdUqZ7OSUKQ2jIy9LtWdQfpTc2xCsoietVHlzfZJrVGq3YXDVQSIDjyjx5bWqI" alt="Donald Trump snubs Twitter after Elon Musk announces account ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Donald Trump said he would stick with his new platform Truth Social, the app developed by his Trump Media &amp; Technology Group (TMTG) startup, which he said&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSJOSA-ef6z5RL029LxPnavZR0ENWPchcNtKOZLQS7Q8WMpfUXrTAAt4uypr5AMSKEOPBofUXYG" alt="Elon Musk reinstates Donald Trump&#39;s Twitter account; Paytm boss ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Musk started a poll, titled &#39;Reinstate former President Trump&#39;, during the weekend.</p></div>
             </div>
-        </a><a href='https://www.amarujala.com/photo-gallery/technology/social-network/donald-trump-scam-in-twitter-followers-number-of-followers-different-in-devices'>
+        </a><a href='https://www.businesstoday.in/technology/news/story/i-dont-see-any-reason-for-it-donald-trump-refuses-to-tweet-after-elon-musk-brings-him-back-on-twitter-353494-2022-11-21'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Donald Trump: ट्रंप के ट्विटर फॉलोअर्स में घोटाला? डिवाइस में अलग ...</h3>
+                <h3>&#39;I don&#39;t see any reason for it&#39;: Donald Trump refuses to tweet after ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTr-1DUvqS9DLZ2_Zjj3T3FAqKLxeUZTijgesWHQkaNdVjW2vFMPe-Eg0EGtwiEOzI-VUGXLyfw" alt="Donald Trump: ट्रंप के ट्विटर फॉलोअर्स में घोटाला? डिवाइस में अलग ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>अमेरिका के पूर्व राष्ट्रपति डोनाल्ड ट्रंप की ट्विटर पर वापसी हो गई है। ब्लू टिक के साथ&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTcySKPsA2s5asrebqfoab09uRRQvsYxdhScnIrA6fdxTN8IKjSc2Pay7jCjAaECk6PAYl9CR6t" alt="&#39;I don&#39;t see any reason for it&#39;: Donald Trump refuses to tweet after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Twitter chief Elon Musk re-instated Donald Trump on the social media platform past weekend. Elon Musk decided to bring back the former president of US after&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.opindia.com/2022/11/elon-musk-donald-trump-twitter-account-reinstated/'>
+        </a><a href='https://www.amarujala.com/world/donald-trump-rebukes-twitter-after-elon-musk-announces-reactivation-of-ex-president-account'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Donald Trump is back on Twitter, 22 months after he was ...</h3>
+                <h3>Donald Trump: &#39;ट्विटर&#39; का नाम सुनते ही बुरी तरह झल्लाए ट्रंप, कहा- मुझे ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQFo-leI24pi4PunSD22xAX9tI1h7aqbibqG0-j2EXGcwVSrM_thK2JvIfSGFE-aPDuhXyt_t6b" alt="Donald Trump is back on Twitter, 22 months after he was ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Former US President Donald Trump&#39;s Twitter account reinstated after people voted in favour of bringing him back on microblogging website | OpIndia News.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQSMtd6eV-usYMq6O0oq3OOX62SJK-Ih_7TeWaF-7fPV9x9MaHxhVM2TQqno3tzQEXrD8uqBIRC" alt="Donald Trump: &#39;ट्विटर&#39; का नाम सुनते ही बुरी तरह झल्लाए ट्रंप, कहा- मुझे ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Donald Trump Rebukes Twitter after Elon Musk announces reactivation of ex-president accountकरीब 22 महीने बाद ट्विटर अकाउंट बहाल&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.theatlantic.com/ideas/archive/2022/11/elon-musk-donald-trump-twitter/672195/'>
+        </a><a href='https://www.thehindu.com/news/international/ban-reversed-but-donald-trump-to-stay-away-from-twitter/article66163420.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Elon Musk and Trump&#39;s Terrifically Stupid Return to Twitter</h3>
+                <h3>Ban reversed, but Donald Trump to stay away from Twitter</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSb7wvp03eoAM-11D9LnpCAqSTg7mDHFP42NH6X3_4cr8PZM2UdcBwApYhCqgQyhnEuOvFxJG_X" alt="Elon Musk and Trump&#39;s Terrifically Stupid Return to Twitter" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Like the monster miraculously resuscitated to terrorize the heroes in a horror-movie sequel, Donald Trump is back. No, I&#39;m not talking about his November 15&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQTtF7TiUdWk5vQuqZFYCOtgXiNAM3mpQN2r_37EowpL0vgPiqePxQY6Ac4tl2mS6pN-C__BTe4" alt="Ban reversed, but Donald Trump to stay away from Twitter" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Donald Trump, who on Tuesday launched a bid to regain the White House in 2024, praised Elon Musk and said he had always liked him.</p></div>
             </div>
-        </a><a href='https://www.businesstoday.in/latest/world/story/donald-trump-to-be-back-on-twitter-announces-elon-musk-after-poll-353457-2022-11-20'>
+        </a><a href='https://www.abplive.com/news/world/donald-trump-confirms-he-will-not-return-on-twitter-elon-musk-2263785'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Donald Trump to be back on Twitter, announces Elon Musk after poll</h3>
+                <h3>Twitter पर वापसी नहीं करेंगे डोनाल्ड ट्रंप, बोले- मेरे पास कोई वजह नहीं, यहां ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQz8ycFg8BG_jvCkStaEL7NdBetiQ1wuVBaTI2rTICsa6mrV-4uJuUOQc1jFixvkBBDCOMzndZb" alt="Donald Trump to be back on Twitter, announces Elon Musk after poll" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Twitter had suspended Trump&#39;s account two days after a mob backing Trump stormed the US Capitol on January 6, 2021.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRyZ6RH4naXN2kAPp2-kfL2hiXuseMGLTSkzjh6joFjAZnduxvdonmKCkrxNWm_jxEn9-T5lAA4" alt="Twitter पर वापसी नहीं करेंगे डोनाल्ड ट्रंप, बोले- मेरे पास कोई वजह नहीं, यहां ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Elon Musk ने अमेरिका के पूर्व राष्ट्रपति डोनाल्ड ट्रंप के ट्विटर अकाउंट को रिस्टोर कर&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.forbes.com/sites/johnbbrandon/2022/11/20/elon-musk-reinstated-donald-trump-on-twitter-now-the-real-drama-begins/'>
+        </a><a href='https://www.thedispatch.in/elon-musk-asks-twitter-users-to-vote-on-reinstatement-of-donald-trump/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Elon Musk Reinstated Donald Trump On Twitter. Now The Real ...</h3>
+                <h3>Elon Musk asks Twitter users to vote on reinstatement of Donald ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSyPj_le3_P3m8Tc0SwdXQpN4Vi0NZMzWy6AFCXz8FdPrm7Ur2L4SOVBGQyFqzstGHMuUQZF6WR" alt="Elon Musk Reinstated Donald Trump On Twitter. Now The Real ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The former President “rocked the vote” and was a significant favorite among Twitter users, most of whom voted because they follow Musk.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQL8ZOeY9PlOO87mr_JVRZO1ReTN6d_E-PP2zolYUmzfYj-vzLbmxRhX50mWkHiKV_VagF4XJa2" alt="Elon Musk asks Twitter users to vote on reinstatement of Donald ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>San Francisco: Elon Musk posted a poll on Twitter on Friday evening asking users to vote on whether former U.S. President Donald Trump, who was banned from&nbsp;...</p></div>
             </div>
         </a><a href='https://www.jagran.com/technology/tech-news-donald-trump-twitter-followers-are-increasing-at-the-speed-of-5g-23216152.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -68,13 +75,6 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTGUlMeaoODHZ57IE2uaps_ZXnhfM_BKCoWA-DSd8AimY9IgglxQUtcTR6QWvK5spJ8t2xu9U5A" alt="Donald Trump: 5G की स्पीड से बढ़ रहे हैं ट्रंप के ट्विटर पर फॉलोवर्स ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Donald Trump का ट्विटर अकाउंट बैन के बाद फिर से शुरू हो चुका है। लेकिन बड़ी बात यह है कि&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.prabhatkhabar.com/tech-and-auto/donald-trump-twitter-account-to-be-restored-by-elon-musk-after-holding-polls-on-twitter-sbh'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Donald Trump की दोबारा Twitter पर एंट्री, Elon Musk ने बताई अकाउंट ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR65LeM6DDissPnuXLSa3MsQLYj0i7nsHSqL4YlbfzZACTy0THdGg3tzvK1gQnP0pDCIeqpEkGX" alt="Donald Trump की दोबारा Twitter पर एंट्री, Elon Musk ने बताई अकाउंट ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Donald Trump Twitter Account: Elon Musk ने अमेरिका के पूर्व राष्ट्रपति Donald Trump का अकाउंट दोबारा से Twitter&nbsp;...</p></div>
             </div>
         </a><a href='https://www.aajtak.in/technology/tech-news/story/donald-trump-twitter-account-restore-by-elon-musk-people-are-sharing-funny-memes-ttec-1579522-2022-11-20'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

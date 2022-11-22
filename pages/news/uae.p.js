@@ -11,42 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,UAE"/>
         <meta name="description" content="Trending News about UAE" /></Head><Template>
             <h1 style={{fontSize: "30"}}>UAE</h1>
-            <Image width={800} height={500} src="https://img.etimg.com/thumb/msid-95646586,width-1070,height-580,imgsize-72662,overlay-economictimes/photo.jpg" alt="UAE"/>
+            <Image width={800} height={500} src="https://www.moroccoworldnews.com/wp-content/uploads/2022/11/morocco-uae-to-launch-1st-phases-of-security-cooperation-program-800x533.jpg" alt="UAE"/>
             <h3>Recent News</h3>
-            <a href='https://economictimes.indiatimes.com/news/international/uk/uae-to-release-metaverse-version-of-abu-dhabis-yas-island-soon/articleshow/95646587.cms'>
+            <a href='https://www.imf.org/en/News/Articles/2022/11/21/pr22387-uae-imf-staff-completes-2022-article-iv-mission-to-united-arab-emirates'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>UAE to release metaverse version of Abu Dhabi&#39;s Yas Island soon</h3>
+                <h3>IMF Staff Completes 2022 Article IV Mission to United Arab Emirates</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSOao4trWBmtMe3Rb9HbrdDHtHnC7gTd6nRSbr_MzbQC94BEIkg08Hi5RaPAcszpS523VYmgCDV" alt="UAE to release metaverse version of Abu Dhabi&#39;s Yas Island soon" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>This year, in 2023, one more island seems to be getting added to the list of islands in the UAE. It is also very special as it will be a digital island.</p></div>
+                <Image src="" alt="IMF Staff Completes 2022 Article IV Mission to United Arab Emirates" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Near-term economic growth is strong, underpinned by a rebound in domestic activity, while elevated oil prices support high surpluses in the fiscal and external&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.khaleejtimes.com/business/what-is-withholding-tax-and-its-proposed-application-in-the-uae'>
+        </a><a href='https://www.moroccoworldnews.com/2022/11/352495/morocco-uae-to-launch-1st-phases-of-security-cooperation-program'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>What is withholding tax and its proposed application in the UAE</h3>
+                <h3>Morocco, UAE to Launch 1st Phases of Security Cooperation Program</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQTssKlE_oYHys_DV5AysvRgMZomFytb1swHMpwxFRlsN5P70fD6143bs_SQuzfn8M7mqlMTITa" alt="What is withholding tax and its proposed application in the UAE" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Usually, WHT applies to cross-border payments as well. WHT rates vary based on the nature of goods and services received and the relationship status with&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSp7HSukUvG081MqdWwuO4MULjxSRwflGxXYx_vmLO2cAt5KtOUVpPmfvw9kLMdZWQaOHoY8c6d" alt="Morocco, UAE to Launch 1st Phases of Security Cooperation Program" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Morocco&#39;s General Directorates of National Security and Territorial Surveillance (DGSN-DGST) and the General Command of Abu Dhabi Police in the UAE will&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.khaleejtimes.com/business/uae-remains-top-choice-of-investors-as-fdi-inflows-to-hit-22-billion-this-year'>
+        </a><a href='https://www.defense.gov/News/Releases/Release/Article/3224987/readout-of-us-united-arab-emirates-joint-military-dialogue/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>UAE remains top choice of investors as FDI inflows to hit $22 billion ...</h3>
+                <h3>Readout of U.S.-United Arab Emirates Joint Military Dialogue</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQrz7lFd-n6ONbGCca8g8mYcNsVKQFxZXrKUGT6gooXvheR99_QOmHKHNIHrGh4nHp9zxU2Pka-" alt="UAE remains top choice of investors as FDI inflows to hit $22 billion ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The UAE will continue to drive foreign direct investment (FDI) capital into the region as investors prefer the emirate due to its business-friendly policie.</p></div>
+                <Image src="" alt="Readout of U.S.-United Arab Emirates Joint Military Dialogue" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Pentagon Spokesman Lt. Col. David Herndon provided the following readout: Under Secretary of Defense for Policy Dr. Colin Kahl led a senior-level delegation&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.argusmedia.com/en/news/2393015-uae-tightens-hsfo-bunker-regulations'>
+        </a><a href='https://www.thenationalnews.com/business/technology/2022/11/21/uaes-future-economy-is-well-positioned-to-benefit-from-ai/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>UAE tightens HSFO bunker regulations</h3>
+                <h3>UAE&#39;s future economy is well positioned to benefit from AI</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="UAE tightens HSFO bunker regulations" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Vessels refuelling with high-sulphur fuel oil (HSFO) at all United Arab Emirates (UAE) ports will now have to submit a copy of an International Air&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSbwbnOCgi0Espi9QKU_MnOmg66PqJotREzDZSypZkPJUOvGR4_MYrWkmxPtkEht-3zXsEqQ0o7" alt="UAE&#39;s future economy is well positioned to benefit from AI" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The momentum of AI development further complicates matters because current privacy and security regulations often do not account for its capabilities.</p></div>
             </div>
-        </a><a href='https://www.euronews.com/travel/2022/11/20/soon-youll-be-able-to-visit-abu-dhabis-yas-island-in-the-metaverse'>
+        </a><a href='https://northafricapost.com/62835-morocco-training-senior-uae-law-enforcement-officers.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Soon you&#39;ll be able to visit Abu Dhabi&#39;s Yas Island in the Metaverse</h3>
+                <h3>Morocco training senior UAE law enforcement officers</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRrHUe2E_mddrVQ1l2UPKE2YVfz_senn82e_fvcYQpx3n-yCzftDT5K81BO2lEPsq11nnMcv4jy" alt="Soon you&#39;ll be able to visit Abu Dhabi&#39;s Yas Island in the Metaverse" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The largest emirate in the United Arab Emirates (UAE), Abu Dhabi has 200 islands to its name, but in 2023 it&#39;s due to add one more - if you include digital&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTMV_GBGlGXDJgbvpXVpJFDS3pJ75EYOmQ6wYoajj1WI9NNn2qPJjAQohp3z8QLBZYiB5Eech7q" alt="Morocco training senior UAE law enforcement officers" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A group of senior Emirati police officers started this Monday a two-month training at the Royal Moroccan Police Institute within the frame of the exchange&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.arabnews.com/node/2203706/saudi-arabia'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>UAE defense delegation visits IMCTC headquarters in Riyadh</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQn-0h26gIHHDyqC0u9hQVXL77V44kk9dkgiNLktsRums7H6sGsjrbh7nKqFRBfy9W9neSESorX" alt="UAE defense delegation visits IMCTC headquarters in Riyadh" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>RIYADH: The Islamic Military Counter Terrorism Coalition on Monday received a delegation of cadets and members of the training committee of the 10th&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

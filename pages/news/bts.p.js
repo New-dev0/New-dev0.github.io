@@ -20,68 +20,68 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRVsuqyHO-OHoy76_hHZa4GhMIKSj9_W84Gcx_v3IAl8B42LfX6QBPFfaUwqz-xMU6HmnysIAjj" alt="WATCH: BTS frontman Jung Kook performs World Cup anthem ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>The 2022 World Cup has finally begun in Qatar, with an opening ceremony including a performance from the BTS frontman.</p></div>
             </div>
-        </a><a href='https://sportsbrief.com/football/28268-bts-star-jung-kook-lights-world-cup-opening-ceremony-spectacular-performance/'>
+        </a><a href='https://www.soompi.com/article/1555138wpp/bts-becomes-1st-artist-to-win-american-music-award-for-favorite-pop-duo-group-4-times'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>BTS Star Jung Kook Lights Up World Cup Opening Ceremony With ...</h3>
+                <h3>BTS Becomes 1st Artist To Win American Music Award For Favorite ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTRICXmX01dUp_1xcQY_5C96ecpKxxcxt3fouyp1hnI0FAsL3qYxrwLI5m0yFAj4C7AioUU35cr" alt="BTS Star Jung Kook Lights Up World Cup Opening Ceremony With ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>SportsBrief.com News ☆ A member of South Korea musical band BTS, Jung Kook produced a spectacular musical performance at the opening ceremony of the 2022&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTeuBm9vlL7c-yBDna78gm6i8oZkDWNbB0DXVwE5I-HpJH9U6LUv5O8g35tWHwbc00fhh9CcZAH" alt="BTS Becomes 1st Artist To Win American Music Award For Favorite ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>BTS has just made history at the 2022 American Music Awards (AMAs)! On November 20 local time, the American Music Awards announced some of this year&#39;s&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.tmz.com/2022/11/20/morgan-freeman-bts-jungkook-kick-off-world-cup-2022/'>
+        </a><a href='https://www.allkpop.com/article/2022/11/bts-jungkook-hits-1-on-itunes-charts-in-102-countries-with-his-fifa-world-cup-song-dreamers'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Morgan Freeman &amp; BTS&#39; Jungkook Kick Off 2022 World Cup</h3>
+                <h3>BTS&#39; Jungkook hits #1 on iTunes charts in 102 countries with his ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRXjIwA3H-w_SZp9yWNhMJemsiu1koZLXQvLMg0ej0No-QG3pWFPXdozGe7ZG2A0c7DMhyQTRoj" alt="Morgan Freeman &amp; BTS&#39; Jungkook Kick Off 2022 World Cup" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Morgan Freeman and BTS&#39;s Jungkook were a bit of an unlikely pair to kick off the #QatarWorldCup2022, but they made it work anyway!</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSzn6HcjvUoopxSpNGtkeDzEsu21CNGb1oFINj-PFf59LzV67p9GKsw-5CTaXXuy5qOQiEi70Jc" alt="BTS&#39; Jungkook hits #1 on iTunes charts in 102 countries with his ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>BTS member Jungkook dominated the iTunes charts worldwide with this latest song, signaling his world dominance!Shortly after releasing Jun…</p></div>
             </div>
-        </a><a href='https://en.as.com/soccer/who-is-jungkook-the-bts-member-who-performed-at-the-opening-of-the-world-cup-in-qatar-n/'>
+        </a><a href='https://economictimes.indiatimes.com/magazines/panache/jungkook-performs-at-fifa-world-cup-2022-bts-members-rm-v-j-hope-suga-cheer-for-singer/articleshow/95654314.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Who is Jungkook, the BTS member who performed at the opening of ...</h3>
+                <h3>Jungkook performs at FIFA World Cup 2022, BTS members RM, V, J ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTpXFad1L4I8s7C8liiRj3xqNo2yQw7hMtzt7q2NL0wh3Y1jJHZkxvx2D77Mo1kEudyoTXOVkSX" alt="Who is Jungkook, the BTS member who performed at the opening of ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Meet Jungkook, the K-pop superstar and BTS member performing at the opening of the 2022 FIFA Soccer World Cup in Qatar.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSc0wEa-MplnIWEuPvcprkmGJYN7Mol-wmbYjAUSC8f8R--w8XqyeM0xSiUYQrnO7o81OKJSx31" alt="Jungkook performs at FIFA World Cup 2022, BTS members RM, V, J ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The 25-year-old singer from BTS performed &#39;Dreamers&#39; in front of millions of fans in Qatar on Sunday.</p></div>
             </div>
-        </a><a href='https://www.hindustantimes.com/entertainment/music/jungkooks-performance-at-fifa-world-cup-opening-wins-hearts-bts-army-react-101668958820485.html'>
+        </a><a href='https://www.allkpop.com/article/2022/11/bts-takes-home-the-favorite-pop-duo-or-group-award-for-the-fourth-consecutive-year-at-the-american-music-awards'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Jungkook&#39;s performance at FIFA World Cup opening wins hearts ...</h3>
+                <h3>BTS takes home the &#39;Favorite Pop Duo or Group&#39; award for the fourth ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS5CtW-YS4wo6Q1RMH9dmcC6ko6ekwhVlgwhcve9kYc7eTfi1L97Ldt0_oWC_Xk6e-ZEQ0dzP73" alt="Jungkook&#39;s performance at FIFA World Cup opening wins hearts ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>BTS member Jungkook performed at the FIFA World Cup opening ceremony on Sunday evening, winning fans&#39; hearts with his performance.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ0LgXUcbV4YOQGEwoZA-gejX8zu0bRFcnsVR671WYuIn81y3zRTDLiw01DIs4W_I8gDILVI_Jn" alt="BTS takes home the &#39;Favorite Pop Duo or Group&#39; award for the fourth ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The year-end award shows are always thrilling events. Many artists gathered at this year&#39;s American Music Awards&amp;…</p></div>
             </div>
-        </a><a href='https://sportstar.thehindu.com/football/fifa-world-cup/news/fifa-world-cup-bts-army-jungkook-song-release-for-qatar-2022-soccer-wc-official-track-opening-ceremony/article66160661.ece'>
+        </a><a href='https://hitsdailydouble.com/news&id=333840&title=BTS-JUNG-KOOK-AND-RedOne-CONNECT-FOR-GLOBAL-GOAL'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FIFA World Cup: BTS singer Jungkook releases &#39;Dreamers&#39; for Qatar ...</h3>
+                <h3>BTS&#39; Jung Kook, with an assist from hit producer RedOne, has ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT7gThF_7JScBrm66nKTaUjx4g9UYnybvi5hh-v5bAZAPFCKtByGj768U2m3CtcWMtI402ZLemD" alt="FIFA World Cup: BTS singer Jungkook releases &#39;Dreamers&#39; for Qatar ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>World Cups have been marked with landmark tracks such as the Wavin Flag and Waka Waka in 2010 to the Cup of Life in 1998 and this track will be another&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS3cnQQFm9VXX7_tI2FygZHsDuco1B53qyOmYrPwnfIba7Lys_tESV9bK0XUlVo40aZsefwPMyI" alt="BTS&#39; Jung Kook, with an assist from hit producer RedOne, has ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>BTS&#39; Jung Kook, with an assist from hit producer RedOne, has scored a goal with &quot;Dreamers,&quot; the official single of the World Cup opening ceremony.</p></div>
             </div>
-        </a><a href='https://stylecaster.com/jung-kook-world-cup/'>
+        </a><a href='https://www.allkpop.com/article/2022/11/btss-dynamite-mv-surpasses-16-billion-views-on-youtube'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>How To Watch BTS&#39;s Jung Kook Perform at the World Cup Qatar ...</h3>
+                <h3>BTS&#39;s &#39;Dynamite&#39; MV surpasses 1.6 billion views on YouTube</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS59JyE1cFG4n0StjS9aLG-9_1Xwi3YBICnpffD-kAKJna_SsKiWVTUpp3oIofZ5XQ6ZFjrOcz5" alt="How To Watch BTS&#39;s Jung Kook Perform at the World Cup Qatar ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Here&#39;s how to watch BTS&#39;s Jung Kook perform at the Qatar World Cup Opening Ceremony 2022 live online for free.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRNeJ5F_wPLYrt2hTMIvo13lkwg-OQ2BpZCbCL3Dbl5b-d1rVxgha3hhhX_DhBVcwKQEcA_MmFo" alt="BTS&#39;s &#39;Dynamite&#39; MV surpasses 1.6 billion views on YouTube" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>BTS&#39;s &quot;Dynamite&quot; music video surpassed 1.6 billion views on YouTube.On November 22 KST at around 4:26AM KST, BTS&#39;s music video for their tr…</p></div>
             </div>
-        </a><a href='https://www.soompi.com/article/1555146wpp/btss-jungkook-sweeps-itunes-charts-sets-new-u-s-record-with-his-world-cup-song-dreamers'>
+        </a><a href='https://news.yahoo.com/bts-jungkook-performs-2022-world-224957585.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>BTS&#39;s Jungkook Sweeps iTunes Charts + Sets New U.S. Record ...</h3>
+                <h3>BTS&#39; Jungkook performs at 2022 World Cup opening ceremony</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcROLWLX_0HpAM00a8DY-cioHDfB_amy9ePTNd0dRWctuxIXIgvXiqtjTsRCvg7XqRPS4KbigKG5" alt="BTS&#39;s Jungkook Sweeps iTunes Charts + Sets New U.S. Record ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>BTS&#39;s Jungkook is dominating iTunes charts across the globe with his official song for the FIFA World Cup 2022! On November 20 at 2 p.m. KST,&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR3zSpMYLvr0FXDnn8h0RaondhoHocU6dnpDCyC8zhH7Caazhved-ZBZ12nbUsyGwrtMeqoYKqB" alt="BTS&#39; Jungkook performs at 2022 World Cup opening ceremony" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>BTS&#39; Jungkook performed his newly released track “Dreamers” as part of the opening ceremony of the 2022 FIFA World Cup in Qatar over the weekend.</p></div>
             </div>
-        </a><a href='https://www.vanityfair.com/hollywood/2022/11/morgan-freeman-and-btss-jung-kook-help-kick-off-controversial-world-cup-in-qatar'>
+        </a><a href='https://www.usatoday.com/picture-gallery/entertainment/2022/11/19/jung-kook-bts/10740083002/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Morgan Freeman and BTS&#39;s Jung Kook Help Kick Off Controversial ...</h3>
+                <h3>BTS member Jungkook performs at the World Cup: See the photos</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR8PuCAQZws6FdD6uvZWQeKjPQWdUDCWRtSUfrnY_ZSkuj1E6pkN048IjehDZGXuZ_SqmMLZLJj" alt="Morgan Freeman and BTS&#39;s Jung Kook Help Kick Off Controversial ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Sunday marks the first day of matches in the 22nd FIFA World Cup. (Even if you are not a soccer fan, surely you are familiar with the FIFA organization,&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTzKz7CpvSzWb7enN6mgRxENHWvr3rdyGa7evfjckpmyw7FCeYAbCuOVKHF0kavnmTZuzEtTh5w" alt="BTS member Jungkook performs at the World Cup: See the photos" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Jungkook of BTS performed at the opening ceremony of the 2022 World Cup, debuting his new song &quot;Dreamers.&quot; See the photos and look back at his career.</p></div>
             </div>
-        </a><a href='https://deadline.com/2022/11/world-cup-morgan-freeman-bts-jung-kook-opening-ceremony-qatar-1235177856/'>
+        </a><a href='https://www.allkpop.com/article/2022/11/an-sbs-production-team-member-is-surprised-at-btss-global-popularity-once-again-after-an-unexpected-interview-with-a-restaurant-worker-in-qatar'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Morgan Freeman &amp; BTS&#39; Jung Kook Take Center Stage At World ...</h3>
+                <h3>An SBS production team member is surprised at BTS&#39;s global ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTLo8YKOqyuV5zNaszc8YO7s3YdSjPQ6EeC3BBHeb-ualVc_x_XG8zcj_22FR_esqPs7WKJ2spt" alt="Morgan Freeman &amp; BTS&#39; Jung Kook Take Center Stage At World ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A pageant of song, dance, and a few superstars, the kick-off of FIFA&#39;s big tournament intended to send a lot of messages.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQaPXk3Sg3m7gNLDyagBnsZw_64g6Kmrq_Tu9WfOBZijvQG6g6lgbh99tL9wIHHpoOVLq4S1_aP" alt="An SBS production team member is surprised at BTS&#39;s global ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A SBS production team member became surprised at BTS&#39;s global popularity once again after an unexpected interview with a restaurant worker in Qatar.</p></div>
             </div>
         </a>
         </Template></>;

@@ -11,35 +11,42 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Bengals"/>
         <meta name="description" content="Trending News about Bengals" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Bengals</h1>
-            <Image width={800} height={500} src="https://images2.minutemediacdn.com/image/upload/c_crop,w_3000,h_1687,x_0,y_152/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/59/01gj0zyam8m81n967mzs.jpg" alt="Bengals"/>
+            <Image width={800} height={500} src="https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/ravens/bub4x50zid3iqlue5mmw" alt="Bengals"/>
             <h3>Recent News</h3>
-            <a href='https://stripehype.com/posts/bengals-vs-steelers-breaking-down-week-11-announcers'>
+            <a href='https://www.baltimoreravens.com/news/bengals-offense-humming-jamarr-chase-samaje-perine-joe-mixon-concussion'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bengals vs Steelers: Breaking down the Week 11 announcers</h3>
+                <h3>Around the AFC North: Bengals Offense Hums Without Stars Joe ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRm1gquwli5n3PN0IkcNIEUcLtjpGrKAZlBViYdJ9QcSeR_AqRv4acK38y8a6qAzE7_ENJcczyU" alt="Bengals vs Steelers: Breaking down the Week 11 announcers" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Cincinnati Bengals and Pittsburgh Steelers face off for round two on Sunday&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRtnXbV4t3SUxVPjptYQ9wgxsR1WUsuSgUMnEd-jLU-tCDcCN2SrYcYaXiriHxIyfX-6fSVItvC" alt="Around the AFC North: Bengals Offense Hums Without Stars Joe ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>T.J Watt on Steelers&#39; woes: &#39;Sitting here sulking about it isn&#39;t going to do anything.&#39; Myles Garrett is worried that Browns are wasting prime years of key&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.espn.com/nfl/story/_/id/35070518/bengals-rb-joe-mixon-suffers-concussion-vs-steelers'>
+        </a><a href='https://www.bengals.com/news/bengals-roster-moves-isaiah-prince-mike-thomas-tegray-scales'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bengals RB Joe Mixon suffers concussion vs. Steelers</h3>
+                <h3>Bengals Roster Moves: Prince to Active Roster, Wide Receiver ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSpSih0dezBHwDVKljD-RefIvK_oQWeQ4IAcR2IHJnnOndza5TBwhVBmMAnRaMErchuDrCqWX2y" alt="Bengals RB Joe Mixon suffers concussion vs. Steelers" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Bengals running back Joe Mixon suffered a concussion in Sunday&#39;s game against the Steelers.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTTL2K6ppOrRUbwQHUgiteIEAPcEA9300TLFVGqirChQ3t-SDO7nBFP61VCBTMGfYhDMyZIxlfz" alt="Bengals Roster Moves: Prince to Active Roster, Wide Receiver ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Designated OT Isaiah Prince for return from the Reserve/Injured list and returned him to the active roster. &middot; Waived WR Mike D. Thomas. &middot; Released LB Tegray&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.steelers.com/news/pregame-blog-steelers-vs-bengals-x9058'>
+        </a><a href='https://www.steelers.com/news/labriola-on-the-loss-to-the-bengals-x3629'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Pregame Blog: Steelers vs. Bengals</h3>
+                <h3>Labriola on the loss to the Bengals</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR0g7HTHnOiFgs8Bajj5aPUoQJ1PYCHJvYKEskmM2vZbZfWIQ_0CHm8zVRy9YRahglBPZReSxsA" alt="Pregame Blog: Steelers vs. Bengals" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Steelers take on the Cincinnati Bengals at Acrisure Stadium.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcStyU-aU3FXtBtVALFvQf2Xw9l8kmvFegQ_OdnaF1wmL5RDkj211OUoVwMMEUO2X98amRVyej8r" alt="Labriola on the loss to the Bengals" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The defense made some plays, such as Heyward&#39;s sack, but also allowed two 90-yard TD drives.</p></div>
             </div>
-        </a><a href='https://www.steelers.com/news/steelers-inactives-for-week-11-vs-bengals'>
+        </a><a href='https://theathletic.com/3920393/2022/11/21/bengals-jamarr-chase-practice/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Steelers inactives for Week 11 vs. Bengals</h3>
+                <h3>Bengals WR Ja&#39;Marr Chase returning to practice field this week ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQeGN6-YzdsFrz7hTHJ-Oc3ZZa0cFcsyV8_AES_OMwScWByVYe_8-FNqp6YGO_HkG72rpp7-9Jh" alt="Steelers inactives for Week 11 vs. Bengals" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Find out who won&#39;t play as the Steelers take on the Cincinnati Bengals at Acrisure Stadium.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRME1mL94_BgQ_FnI3O9hx6UZqhkEFCnECMMGlY3vi6SlxmQ1hJEFZhgdFT72jxeV_6gJO4gGrZ" alt="Bengals WR Ja&#39;Marr Chase returning to practice field this week ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cincinnati Bengals wide receiver Ja&#39;Marr Chase will return to practice this week, according to coach Zac Taylor.</p></div>
+            </div>
+        </a><a href='https://apnews.com/article/joe-mixon-burrow-cincinnati-bengals-pittsburgh-steelers-zac-taylor-5b034d9f1549b22d153cad4f9249ab25'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Bengals, Burrow look to keep momentum after beating Steelers</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT5VHcMRP4M8qVWr_MFonoAP4CI3bR2AsT9g6RQoPaYyZC17af0JcPxxeskq2IbhH5z-60FfaW_" alt="Bengals, Burrow look to keep momentum after beating Steelers" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>CINCINNATI (AP) — Cincinnati quarterback Joe Burrow said Sunday&#39;s 37-30 win over the Steelers was “one of my favorites since I&#39;ve been here.</p></div>
             </div>
         </a><a href='https://www.bengals.com/news/bengals-throttle-steelers-with-second-half-onslaught'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -48,40 +55,33 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS-Tr-izvYA-RaS7aFN6s2-s1lur12HL_tFsr6G-du0U1hnn0X4m9sssG2TX_o3vV3DeMNg3ucu" alt="Bengals Upend Steelers With Second Half Onslaught" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>PITTSBURGH -- Joe Burrow gave Steelers rookie Kenny Pickett an NFL quarterbacking clinic Sunday when he sliced the Steelers for four touchdown passes and&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.cincinnati.com/story/sports/nfl/bengals/2022/11/20/cincinnati-bengals-game-score-vs-pittsburgh-steelers-live-updates/69660363007/'>
+        </a><a href='https://www.cincinnati.com/story/sports/nfl/bengals/2022/11/21/bengals-wr-jamarr-chase-injury-updated-ahead-of-titans-game/69669222007/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Replay: Cincinnati Bengals beat Pittsburgh Steelers 37-30</h3>
+                <h3>Bengals will ease Ja&#39;Marr Chase back into practice ahead of AFC ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTFaToZFBlO04wO9YtxSflOZZt_TxyK9DX29EW8y4kiJfynvvgSQUyBjurT0f6MIoulbaYxCH7A" alt="Replay: Cincinnati Bengals beat Pittsburgh Steelers 37-30" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Cincinnati Bengals (5-4) will face the Pittsburgh Steelers (3-6) in a Week 11 AFC North battle at 4:25 p.m. on CBS. Cincinnati is coming off a bye week&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSq2lI9G_eQErkq-Hqq34RWCsmi_iPY3fM7aHhV__lcNuEho-mNriSj-3HrUYZCl3R-6PN7zxVT" alt="Bengals will ease Ja&#39;Marr Chase back into practice ahead of AFC ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The second-year wide receiver will be back at practice, but his status against the Tennessee Titans is unknown.</p></div>
             </div>
-        </a><a href='https://theathletic.com/3916225/2022/11/20/bengals-joe-mixon-concussion/'>
+        </a><a href='https://www.forbes.com/sites/nicholasmcgee/2022/11/21/cincinnati-bengals-offense-inspiring-hope-of-another-deep-playoff-run/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bengals RB Joe Mixon ruled out vs. Steelers with concussion</h3>
+                <h3>Cincinnati Bengals&#39; Offense Inspiring Hope Of Another Deep Playoff ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSNkMsSeHnKl1iDnzcD86tivNl0FxcVYxfTissYaULDxN3Fg_xPVxZMugkXmBvhh9w7hinhx3xq" alt="Bengals RB Joe Mixon ruled out vs. Steelers with concussion" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Entering Sunday, the 26-year-old Pro Bowler led the Bengals with 585 rushing yards and eight total touchdowns this season.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ8Zl58AYP4GHa_VNonUziviv_YOhG9qv2ZdF7pkcOBKGntKkqwKQbaPt63XZRIPDzbKfAppFPT" alt="Cincinnati Bengals&#39; Offense Inspiring Hope Of Another Deep Playoff ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Though Joe Burrow was intercepted twice, the second a phenomenal play by returning Steelers defensive end T.J. Watt, the Bengals still racked up 408 net yards&nbsp;...</p></div>
             </div>
-        </a><a href='https://profootballtalk.nbcsports.com/2022/11/20/bengals-lose-joe-mixon-to-concussion/'>
+        </a><a href='https://www.cbssports.com/nfl/news/bengals-jamarr-chase-hip-to-resume-practice-labeled-as-day-to-day-ahead-of-week-12-matchup-with-titans/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bengals lose Joe Mixon to concussion</h3>
+                <h3>Bengals&#39; Ja&#39;Marr Chase (hip) to resume practice, labeled as &#39;day to ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRwFZg2_RZWGHBu_ZZUsWB3z-BIrBhAQqQ2P19oBDfVPTHUNvRM__nstcqJj_s2Aj5KW1htSpEU" alt="Bengals lose Joe Mixon to concussion" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Under NFL rules, Mixon will have to go through the league&#39;s concussion protocol, which includes getting cleared by an independent neurologist, before he can&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRjRfdnI615FpPE2xFUQyIZJIUmDBQaLpns-UpTnyoaGwAIdOqX7Vw-uwPxlvTVPLHylZO8tnhR" alt="Bengals&#39; Ja&#39;Marr Chase (hip) to resume practice, labeled as &#39;day to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Bengals are 2-1 this season without Chase, who had not missed an NFL game prior to sustaining his hip injury. His absence was clearly felt during the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.cincyjungle.com/2022/11/20/23469760/bengals-steelers-final-score-recap-cincinnati-news-pittsburgh'>
+        </a><a href='https://titanswire.usatoday.com/2022/11/21/bengals-jamarr-chase-has-chance-to-play-vs-titans-in-week-12/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bengals beat Steelers: Final score, recap and more from Cincinnati ...</h3>
+                <h3>Bengals&#39; Ja&#39;Marr Chase has chance to play vs. Titans in Week 12</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSOTsleXiNcweaCDc2-WeqMX9KkGM7LlPaoDwOQDckMkJCxjKbk0iA7M2V60UyugVm6Ly7AC-6w" alt="Bengals beat Steelers: Final score, recap and more from Cincinnati ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Six different receivers were recipients of 20+ yard passes, and Samaje Perine ended up with three touchdowns through the air. You read that right. Tee Higgins&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.si.com/nfl/steelers/news/offense-disappears-second-half-as-steelers-fall-cincinnati-bengals'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Offense Disappears in Second Half as Steelers Fall to Bengals</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQCgQTed2GXClyAugO_PNqUOSM9BnYpeZe_0FJwDyT5gRe-5P61hV7vYMxRQd0o6ro0lOTakUkd" alt="Offense Disappears in Second Half as Steelers Fall to Bengals" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Pittsburgh Steelers entered halftime with a lead but couldn&#39;t create enough offense to beat the Cincinnati Bengals.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRHGFUgMJz5rfoz01PT4U5tqD1WNzWxpwWkF8wOSCT7V4VwI2CqLXyy8LgQwfSFIUuv_H22yvV4" alt="Bengals&#39; Ja&#39;Marr Chase has chance to play vs. Titans in Week 12" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cincinnati Bengals WR Ja&#39;Marr Chase has a chance to return from his hip injury and play in Week 12 against the Tennessee Titans.</p></div>
             </div>
         </a>
         </Template></>;

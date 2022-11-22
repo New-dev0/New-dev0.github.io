@@ -41,26 +41,26 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR4aANwFfI7171ytS7fdAz77KupS5ISWhzB3_-oyl67039Zs0cG1wd9AAVPHIKJVoWG_7gWIfzS" alt="NFL roundup: Eagles win late as Pats crush Jets&#39; hearts with last ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Jalen Hurts ran for an eight-yard touchdown with 1:20 remaining, and the Philadelphia Eagles rallied past the Indianapolis Colts.</p></div>
             </div>
-        </a><a href='https://www.bleedinggreennation.com/2022/11/20/23469249/eagles-colts-final-score-17-16-jalen-hurts-quez-watkins-nick-sirianni-jonathan-gannon-philadelphia'>
+        </a><a href='https://www.sportsgrid.com/real-sports/nfl/eagles-have-ndamukong-suh-in-the-lineup-vs-colts/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Eagles-Colts final score: Philadelphia wins ugly in Indianapolis, 17 ...</h3>
+                <h3>Eagles Have Ndamukong Suh in the Lineup vs. Colts</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRsEDZeivHG9vqEL5RjMB-Lqj38OjijjGsz1fZTFb4Iw8G6euERP40IW7pFgXIiot2fOAo6Ue5X" alt="Eagles-Colts final score: Philadelphia wins ugly in Indianapolis, 17 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>But they did not! Down six points with 4:37 remaining in the game, the Eagles badly needed a touchdown to lead for the first time. After struggling for way too&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQeonbz8Alxj_O5RgRiRPqJ0GqrmHdRtUjeX-_xGdN9ZS0CdWCAUGopPT2yQWeTVzcb3MNPW37p" alt="Eagles Have Ndamukong Suh in the Lineup vs. Colts" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Philadelphia Colts travel to take on the Indianapolis Colts in Week 11. Will the NFC East leaders have Ndamukong Suh in the lineup on Sunday.</p></div>
             </div>
-        </a><a href='https://sports.yahoo.com/nfl-winners-and-losers-eagles-pull-out-clutch-win-but-they-struggled-vs-jeff-saturdays-colts-212737767.html'>
+        </a><a href='https://www.indystar.com/story/sports/nfl/colts/2022/11/20/colts-vs-eagles-why-zaire-franklin-took-pass-interference-penalty/69665748007/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>NFL Winners and Losers: Eagles pull out clutch win, but they ...</h3>
+                <h3>Why Colts LB Zaire Franklin committed a key pass interference ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSK3xtAVBF015QjOxI49JUgudAeUm4mKLyexaK0KE-yFXhjeg_avu_8AllsyNZwuqVz0c6s5lpd" alt="NFL Winners and Losers: Eagles pull out clutch win, but they ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Philadelphia Eagles won, as everyone figured going into Sunday&#39;s game against the Indianapolis Colts. But there are probably more questions about the&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRziuPDSyujI-SeXM_xd3UNnwWyFhSyDydA6Rg9L7JQJMPCoy0L-NgtYHV-thJIwglJAAAXs4Ra" alt="Why Colts LB Zaire Franklin committed a key pass interference ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Franklin did not realize the ball had been underthrown, and the Colts linebacker was trying to prevent the go-ahead touchdown.</p></div>
             </div>
-        </a><a href='https://profootballtalk.nbcsports.com/2022/11/20/ndamukong-suh-chose-eagles-over-49ers/'>
+        </a><a href='https://www.espn.com/nfl/recap/_/gameId/401437849'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ndamukong Suh chose Eagles over 49ers</h3>
+                <h3>Eagles vs. Colts - Game Recap - November 20, 2022 - ESPN</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSkAYXl0fk-Jrts15G4ez37u6z7P164akho1Arpq32IeeMUnHATSIi3OcW0b2Z8ABXqzwG_YPgV" alt="Ndamukong Suh chose Eagles over 49ers" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Suh said that he was attracted to the 49ers because of the presence of defensive line coach Kris Kocurek on the coaching staff. Kocurek first arrived as a coach&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQzEZDNIXxZNUdJIAyUwkF1AfkLi19l3EGh6Bnwf_leQw6VUlPwRlNQuC9DzU2jCfSNpkItsdqU" alt="Eagles vs. Colts - Game Recap - November 20, 2022 - ESPN" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Get a recap of the Philadelphia Eagles vs. Indianapolis Colts football game.</p></div>
             </div>
         </a><a href='https://www.inquirer.com/eagles/eagles-marlon-tuipulotu-injury-defensive-line-20221120.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -69,19 +69,19 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTva5c7Fja1a-ABaaD-PJlH2YJOSh7sBjTgUT_9Mopbm5YntTdAZEd5ALkhIpYwmLJlGFfqa8n2" alt="Sources: Eagles DT Marlon Tuipulotu suffered a torn meniscus ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Eagles second-year defensive tackle Marlon Tuipulotu suffered a torn meniscus last Monday during the team&#39;s game against Washington, league sources told The&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.profootballrumors.com/2022/11/dt-ndamukong-suh-makes-debut-with-eagles'>
+        </a><a href='https://profootballtalk.nbcsports.com/2022/11/20/ndamukong-suh-chose-eagles-over-49ers/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>DT Ndamukong Suh Makes Debut With Eagles</h3>
+                <h3>Ndamukong Suh chose Eagles over 49ers</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTnbxOFth7zgPJumBPuuHgH-foX32b_eESbO_IzhpWZXAz1Mn2snSDr4d1B_LV_znKQQICgQIgT" alt="DT Ndamukong Suh Makes Debut With Eagles" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>After failing to find a home through the first ten weeks of the 2022 NFL season, defensive tackle Ndamukong Suh made his season-debut today with the Eagles,&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSkAYXl0fk-Jrts15G4ez37u6z7P164akho1Arpq32IeeMUnHATSIi3OcW0b2Z8ABXqzwG_YPgV" alt="Ndamukong Suh chose Eagles over 49ers" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Suh said that he was attracted to the 49ers because of the presence of defensive line coach Kris Kocurek on the coaching staff. Kocurek first arrived as a coach&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.49erswebzone.com/articles/163533-ndamukong-suh-says-decision-came-down-eagles-49ers/'>
+        </a><a href='https://sports.yahoo.com/eagles-inactives-ndamukong-suh-linval-163500959.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ndamukong Suh says decision came down to Eagles, 49ers</h3>
+                <h3>Eagles inactives: Ndamukong Suh, Linval Joseph both playing vs ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRdmfUWVonHPx6ZKSTDbzT7_hlq05xnJteYeqZxXIdabODvzNNQbGtCc3cDpLDMVNTkXTsHCVQw" alt="Ndamukong Suh says decision came down to Eagles, 49ers" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>This past week, defensive tackle Ndamukong Suh signed with the Philadelphia Eagles, making his debut on Sunday in a 17-16 win over the Indianapolis Colts.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQENa08vlKrHFVUYzqksQhaOswSW2N4MGiTv_R6XG1WK9DIkd3sy922QFVZTytKQ5-wVOaSQE39pw" alt="Eagles inactives: Ndamukong Suh, Linval Joseph both playing vs ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ndamukong Suh and Linval Joseph are active for their first game as Eagles. By Dave Zangaro.</p></div>
             </div>
         </a>
         </Template></>;

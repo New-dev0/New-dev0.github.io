@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Messi"/>
         <meta name="description" content="Trending News about Messi" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Messi</h1>
-            <Image width={800} height={500} src="https://medias.lequipe.fr/img-video-cover/1500000001713926/640/0" alt="Messi"/>
+            <Image width={800} height={500} src="https://static.tnn.in/thumb/msid-95652264,imgsize-100,width-1280,height-720,resizemode-75/95652264.jpg" alt="Messi"/>
             <h3>Recent News</h3>
-            <a href='https://www.lequipe.fr/Football/Actualites/Lionel-messi-s-est-entraine-avec-le-groupe-de-l-argentine/1365898'>
+            <a href='https://www.timesnownews.com/sports/football/was-the-viral-messi-ronaldo-pic-edited-fans-feel-betrayed-as-bts-video-of-the-photo-reveals-truth-article-95652264'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Lionel Messi s&#39;est entraîné avec le groupe de l&#39;Argentine</h3>
+                <h3>Was the viral Messi-Ronaldo pic edited? Fans feel &#39;betrayed&#39; as BTS ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRUFECfUQVU_o2PiKULyosxLMk4zvnFg5bpii-0Egmqmxuojz9D2bLDLc5oer8KmjK-j1HMA7jZ" alt="Lionel Messi s&#39;est entraîné avec le groupe de l&#39;Argentine" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Lionel Messi, qui s&#39;était entraîné en marge du groupe argentin ces deux derniers jours, a participé à la séance collective ce dimanche.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSKUMMd8Nj34U_zUR4ei3zAWGrxdc9aXl5EU6q-YdaVtTHIoaNhDDE6Vso3KoSU6u6Zn62FVInU" alt="Was the viral Messi-Ronaldo pic edited? Fans feel &#39;betrayed&#39; as BTS ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cristiano Ronaldo-Lionel Messi pic​ture took the internet by storm, however, there is a catch and that too a big one. A behind-the-scenes footage of the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.ladepeche.fr/2022/11/20/deja-legendaire-une-photo-de-cristiano-ronaldo-et-lionel-messi-devient-lune-des-plus-likees-dinstagram-en-seulement-24-heures-10814486.php'>
+        </a><a href='https://economictimes.indiatimes.com/news/international/uk/lionel-messi-vs-cristiano-ronaldo-football-legends-play-chess-in-new-advertisement-see-who-is-winning/articleshow/95646033.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Déjà légendaire ! une photo de Cristiano Ronaldo et Lionel Messi ...</h3>
+                <h3>Lionel Messi Vs Cristiano Ronaldo: Football legends play chess in ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQshCOaxTWoG8sSxHFgUNSuPSY_QYxDxmkYSJ9H6kR5Y1ZndzpKRX-8P9XNVhLXixgDF3f7dzgE" alt="Déjà légendaire ! une photo de Cristiano Ronaldo et Lionel Messi ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ce samedi 19 novembre à 19 heures, Lionel Messi et Cristiano Ronaldo ont publié le même cliché sur leur compte Instagram : celui d&#39;une campagne publicitaire&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRO9kGAFDC_bb2MRudCCsHBtmyQjs11zRAVPmUcDz0HoTvOQgjFnAcPk2ktOiK0SKR5cO5DxJrg" alt="Lionel Messi Vs Cristiano Ronaldo: Football legends play chess in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A Louis Vuitton advertisement has been making waves on the internet as the football legends, Cristiano Ronaldo and Lionel Messi, are featured in it.</p></div>
             </div>
-        </a><a href='https://www.leparisien.fr/sports/football/coupe-du-monde/coupe-du-monde-la-photo-de-messi-et-ronaldo-par-louis-vuitton-devient-lune-des-plus-likees-dinstagram-20-11-2022-A4B4J5PFDVBLXL6RGCLHHZMDEU.php'>
+        </a><a href='https://www.espn.in/football/blog-the-toe-poke/story/4807183/cristiano-ronaldo-lionel-messi-break-the-internet-with-instagram-chess-photo'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Coupe du monde : la photo de Messi et Ronaldo par Louis Vuitton ...</h3>
+                <h3>Ronaldo, Messi break the internet with Instagram chess photo</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSPDQ64a2d_egiVSQgS6LTHAcKq3Ofwm6VzLrvkulyBjMvGMubobClehoSVvum8-EQtTgUELk2R" alt="Coupe du monde : la photo de Messi et Ronaldo par Louis Vuitton ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>C&#39;est ce qu&#39;on peut appeler un coup de pub réussi. Cristiano Ronaldo et Lionel Messi, qui ont dévoilé samedi dans la soirée un cliché, pris dans le cadre&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSuOMEeell-AszsrB7xauHRwwE2L0kOIrmyeBZX0MUfTHqyXpMHMPzUKwcV_t6Rwejhm_ETheIr" alt="Ronaldo, Messi break the internet with Instagram chess photo" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lionel Messi and Cristiano Ronaldo are used to breaking records on and off the pitch, but the pair almost broke the internet on Saturday night.</p></div>
             </div>
-        </a><a href='https://le10sport.com/football/coupe-du-monde/coupe-du-monde-2022-inquietude-pour-messi-la-reponse-622405'>
+        </a><a href='https://www.si.com/extra-mustard/2022/11/20/photo-lionel-messi-cristiano-ronaldo-playing-chess-viral-world-cup'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Coupe du monde 2022 : Inquiétude pour Messi ? La réponse</h3>
+                <h3>Photo of Lionel Messi, Cristiano Ronaldo Playing Chess Goes Viral</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSD7u6jZky0bEKXc3opdbwTAnvojtVcpexXK3UGldLyfGp3gzJg-iZIfozFJBhwf5Z1K4ZPoZdZ" alt="Coupe du monde 2022 : Inquiétude pour Messi ? La réponse" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Alors que la Coupe du monde 2022 débute ce dimanche avec la rencontre Qatar-Equateur, pour l&#39;Argentine, le premier match sera mardi à l&#39;Arabie Saoudite.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRJBIfpEbP1uI2PxNrsQs3XPtQlr3g4M9ZsMos5LKhqujQca72zP7RFrbU1Sz_Qfc3JawehmopI" alt="Photo of Lionel Messi, Cristiano Ronaldo Playing Chess Goes Viral" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>One day before the 2022 FIFA World Cup kicked off, soccer legends Lionel Messi and Cristiano Ronaldo went viral with an Instagram photo.</p></div>
             </div>
-        </a><a href='https://www.sports.fr/football/coupe-du-monde-2022/qatar-2022-nouvelles-rassurantes-messi-646378.html'>
+        </a><a href='https://www.marca.com/en/world-cup/2022/11/20/6379ffb3e2704e3f428b45a8.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Qatar 2022: Nouvelles rassurantes pour Messi</h3>
+                <h3>Messi is fine and will play on Tuesday: Argentina can breathe a sigh ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSnSVsYJyjiigrdDnQeldHDmJtNeoon4JDrINaIoMUUObu0SgHwYBKZXCBm2DQRI6iK65DlpJXX" alt="Qatar 2022: Nouvelles rassurantes pour Messi" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Absent de l&#39;entraînement collectif avec l&#39;Argentine samedi, Lionel Messi a retrouvé ses coéquipiers ce dimanche et ne ressentirait aucune gêne.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSCxNZcNEXCq-yArfk-zTeBuVc47KjR-2Ux3jAL9MmbbGM3-patIVv33Ch39vQxmtNMJF_sU7zl" alt="Messi is fine and will play on Tuesday: Argentina can breathe a sigh ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>From alarm... to calm. Argentina can breathe easy because, barring any unwanted mishaps, Leo Messi will be available on Tuesday against Saudi Arabia in the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.onzemondial.com/ligue-1/portugal-argentine-cristiano-ronaldo-et-messi-vont-exploser-un-record-avec-une-photo-806962'>
+        </a><a href='https://indianexpress.com/article/sports/football/alarm-bells-ring-in-argentina-after-messi-trains-alone-8279083/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Portugal, Argentine : Cristiano Ronaldo et Messi vont exploser un ...</h3>
+                <h3>Alarm bells ring in Argentina after Messi trains alone</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQLAf-uN4a6I8mZHZaA26GB028U-15NByiejBc2sSnA2N1KbmVHilG5ISfYqsdFBdsBTTShUpJw" alt="Portugal, Argentine : Cristiano Ronaldo et Messi vont exploser un ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>La photo de Lionel Messi et Cristiano Ronaldo en partenariat avec Louis Vuitton bat des records sur Instagram !</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT6aWG8nzqnw773tE7qRCr4zYo9ZSEyaA4yu8Bi_hfAw6rmn00zAhwlS7cMvdR2PAMy4Ja8fkor" alt="Alarm bells ring in Argentina after Messi trains alone" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Argentina will take on Saudi Arabia on Tuesday. The South Americans are on a 36-match unbeaten run.</p></div>
             </div>
-        </a><a href='https://www.eurosport.fr/football/coupe-du-monde/2022/qatar-2022-messi-neymar-boufal-leao-sane-ces-dribbleurs-vont-illuminer-le-mondial_sto9231193/story.shtml'>
+        </a><a href='https://www.mathrubhumi.com/special-pages/fifa-world-cup-2022/news/what-do-messis-tattoos-mean-qatar-world-cup-2022-1.8066570'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Qatar 2022 : Messi, Neymar, Boufal, Leão, Sané : ces dribbleurs ...</h3>
+                <h3>അരയിൽ അന്റൊനെല്ലയുടെ ചുണ്ടുകൾ ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTMaZdxOyAUnJwq_XPQGw92nTFhULR7meMB-USKSdMeqrMrt80RWlS1cZVjzMi40JsPRXz043yJ" alt="Qatar 2022 : Messi, Neymar, Boufal, Leão, Sané : ces dribbleurs ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>COUPE DU MONDE - De Lionel Messi à Leroy Sané en passant par Neymar, voici les cinq dribbleurs qui vont donner le tournis aux défenseurs adverses.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSR_Kd5fBjEYF9Hx8VnMn4WyW57olunncrVtZqDUT7NsDGxDzHXySeNmn7hgo0u-Dyl7HqUqCYt" alt="അരയിൽ അന്റൊനെല്ലയുടെ ചുണ്ടുകൾ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Share this Article &middot; Related Topics &middot; FIFA WORLD CUP 2022 &middot; TATTOOING &middot; LIONEL MESSI&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sports.fr/football/coupe-du-monde-2022/messi-ronaldo-detail-dingue-dune-photo-de-legende-646221.html'>
+        </a><a href='https://www.sport.es/en/news/world-cup/lionel-messi-will-be-fit-for-argentina-world-cup-opener-vs-saudi-arabia-78837058'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Messi-Ronaldo, le détail dingue d&#39;une photo de légende</h3>
+                <h3>Lionel Messi will be fit for Argentina World Cup opener vs. Saudi ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTYpequ9AFZJLxRTWUxHL9YmqP2aZASkLUfWSUdniKpusIiMqr_fZPtCG0b8ocObqOI-GiAyqWP" alt="Messi-Ronaldo, le détail dingue d&#39;une photo de légende" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Pour Louis Vuitton, Lionel Messi et Cristiano Ronaldo se sont affichés en pleine partie d&#39;échecs. Et on sait qui a gagné ce duel de légendes. commenter.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSVrQudmMtUikffTIzOt4qiGc0LjSjLBKbJG9IlfeKOofOGPGlqBFUJw3lmSAGcRkv42amXXj1f" alt="Lionel Messi will be fit for Argentina World Cup opener vs. Saudi ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The PSG player has been managing his workload but is fit for the game.</p></div>
             </div>
-        </a><a href='https://www.onzemondial.com/coupe-du-monde-2022/argentine-des-nouvelles-tres-rassurantes-pour-lionel-messi-806964'>
+        </a><a href='https://navbharattimes.indiatimes.com/navbharatgold/day-today/know-about-footballer-lionel-messi-income/story/95641677.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Argentine : des nouvelles très rassurantes pour Lionel Messi</h3>
+                <h3>Lionel Messi Income: मेसी की कमाई में पूरी क्रिकेट टीम खड़ी हो जाए</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSvhDKU8ROu6gEccU4RMC2hRj_lklm2_ah8LWGWUiVwX6ys4tqSXzb2iyMG_vib2IGR8WP1u7Hk" alt="Argentine : des nouvelles très rassurantes pour Lionel Messi" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Absent de l&#39;entraînement collectif hier, Lionel Messi était de retour avec le groupe aujourd&#39;hui, à l&#39;approche du premier match de l&#39;Argentine en Coupe du&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTpzaBzye7wBge3-pxytWqLxKXE7ZdZK5GqErMrU-ydsYP30XHC58i7DhMkzGFm6HjUFTKUT8wuDQ" alt="Lionel Messi Income: मेसी की कमाई में पूरी क्रिकेट टीम खड़ी हो जाए" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Know about Lionel Messi Income: ऑस्ट्रेलिया में अभी टी-20 विश्व कप खत्म हुआ और कतर में फुटबॉल विश्व कप&nbsp;...</p></div>
             </div>
-        </a><a href='https://canal-supporters.com/coupe-du-monde-2022-bonne-nouvelle-pour-lionel-messi/'>
+        </a><a href='https://www.wionews.com/sports/ronaldo-and-messi-pose-together-in-a-stunning-pictue-to-break-the-internet-ahead-of-fifa-world-cup-2022-535857'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Coupe du Monde 2022:Bonne nouvelle pour Lionel Messi</h3>
+                <h3>Ronaldo and Messi pose together in a stunning picture to break the ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQxvrkRcUpcDlgpRdMBXuxjIRY6kkHcA30jEM-otodP8uKSEtdO3lzxAfku0gA9NGKQJXerorzP" alt="Coupe du Monde 2022:Bonne nouvelle pour Lionel Messi" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Absent des entraînements collectifs de l&#39;Argentine ces derniers jours, l&#39;attaquant du PSG, Lionel Messi, était bien présent avec ses coéquipiers ce&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT1f0gHwf7ghQmvTmPDjboWaKDh3h77_N925HLazOxAAyFiANzRCS5Qbud1_gO5qGAixeanyGO4" alt="Ronaldo and Messi pose together in a stunning picture to break the ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cristiano Ronaldo and Lionel Messi posed together in a stunning photograph to take the internet by storm ahead of the start of the FIFA World Cup 2022.</p></div>
             </div>
         </a>
         </Template></>;

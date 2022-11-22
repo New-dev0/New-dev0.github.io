@@ -20,12 +20,12 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS9TbtwubfdM_VTjULySOuhkX5lGMIJr5FclmNoGxeKCqGvn8ofXpscQwGnwfY0XGbCwKTfMeBU" alt="Узбекистан — Россия: вторая нулевая ничья сборной подряд ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Футбол Узбекистан — Россия: прямая трансляция товарищеского матча, дата и время начала игры, где смотреть — какой канал и сайт, текстовая трансляция онлайн,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.championat.com/football/news-4898525-uzbekistan-rossiya-silyanov-poluchil-povrezhdenie-i-pokinul-pole.html'>
+        </a><a href='https://www.championat.com/football/news-4898177-uzbekistan-rossiya-tekstovaya-onlajn-translyaciya-matcha-nachnyotsya-v-15-00.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Узбекистан — Россия: Сильянов получил повреждение и покинул ...</h3>
+                <h3>Узбекистан — Россия: текстовая онлайн-трансляция матча ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ3ZHGuqEPsep2qPk0rYCksLNev95JXEib5p8OZGQOCDQAuuvu2Z2VMmWqX4wqbL25mon8uN_nD" alt="Узбекистан — Россия: Сильянов получил повреждение и покинул ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Защитник «Ростова» и сборной России Александр Сильянов получил повреждение в товарищеском матче с национальной командой Узбекистана (0:0, идёт второй тайм).</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRGXFgc21ejY0YjshblzI_R3hR9obUyxvIGv8HKPJtAESJbB0EObRUfPJcxm6o-CKv6lxllW2sD" alt="Узбекистан — Россия: текстовая онлайн-трансляция матча ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сегодня, 20 ноября, в товарищеском матче сборная России встретится с национальной командой Узбекистана. Игра пройдёт на стадионе «Пахтакор» в Ташкенте&nbsp;...</p></div>
             </div>
         </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/spbnews_NI1726504_Uzbekistan__Rossija_kogda_nachalo_gde_smotret_onlajn_tovarishheskogo_matcha_futbolnyh_sbornyh'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -41,19 +41,19 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRHV32s7voGLlj8-yeuIUr4my0vuudCj_Dd6_sPbczeq57tzoV77TcPzJhCP3aqB6WXiQs6ILNe" alt="Команда Валерия Карпина заканчивает ноябрьский ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Национальные сборные России и Узбекистана сыграли товарищеский матч вничью не забив друг другу мячей. Встреча проходила в Ташкенте на Центральном стадионе&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.vseprosport.ru/news/2022/11/19/uzbekistan-rossija-prognoz-kf-3-78-i-stavki-na-tovarishheskij-match-20-nojabrja-2022-goda'>
+        </a><a href='https://sport24.ru/news/football/2022-11-20-uzbekistan-rossiya-prognoz-i-stavka-na-tovarishcheskiy-match-20noyabrya-ot-romana-pavlyuchenko'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Узбекистан — Россия: прогноз и ставки с коэффициентом 3.78</h3>
+                <h3>«Узбекистан попытается сыграть агрессивно». Роман ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS1RyFviQkj1O44bt8cT5eG1FSwiepdEZ-KrSvBzss3Z1tHQje81Q16R5fBPxN9VXUWXZxZjnv_" alt="Узбекистан — Россия: прогноз и ставки с коэффициентом 3.78" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Прогноз и ставка на Узбекистан — Россия + фрибет до 10000, статистика, коэффициенты. Сегодня в 15:00. Узбекистан и Россия сойдутся в очной встрече 20 ноября&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTdADfryuznTg3R0X5ttXjYjwclj8cbNG-TV7zinWOQLMaRE8FIo2G34Vmf4aFSmZl83m5fvxTh" alt="«Узбекистан попытается сыграть агрессивно». Роман ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Самые свежие новости российского и мирового спорта только на сайте Sport24.ru! Интервью со спортсменами, онлайн трансляции, аналитика и прогнозы,&nbsp;...</p></div>
             </div>
-        </a><a href='https://sportrbc.ru/news/637a2d2d9a794747c96adefa'>
+        </a><a href='https://www.euro-football.ru/article/1003652458/1004949905_djeparov__o_matche_uzbekistan_-_rossiya_igra_byila_skuchnovata'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Сборная России не смогла обыграть Узбекистан в ...</h3>
+                <h3>Джепаров — о матче Узбекистан - Россия: «Игра была скучновата»</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSo54mK06RFgCr2uHpfNG7yL5l50H53gu5crcG6Yf49qkudEWL3Stie5os7uy3_Mnlvjs-_0iw2" alt="Сборная России не смогла обыграть Узбекистан в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Встреча в Ташкенте закончилась со счетом 0:0. Команда Валерия Карпина провела оба ноябрьских матча без забитых мячей.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR-K810-D6KJj6MWRuDRLfmD9FxQvwZJp9YaeMO0pMF4eD_-8RT8HBPvK1qLhaXdMGwHEbLAapE" alt="Джепаров — о матче Узбекистан - Россия: «Игра была скучновата»" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Бывший игрок сборной Узбекистана, дважды футболист года в Азии Сервер Джепаров прокомментировал игру своей национальной команды против сборной России.</p></div>
             </div>
         </a>
         </Template></>;

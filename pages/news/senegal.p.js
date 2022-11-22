@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Senegal"/>
         <meta name="description" content="Trending News about Senegal" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Senegal</h1>
-            <Image width={800} height={500} src="https://s2.glbimg.com/cy58zXuFy7p_C0XsoAKt19xpLYs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/w/B/yQflUSTQ2Stm1CiowVFg/sabaly-senegal.png" alt="Senegal"/>
+            <Image width={800} height={500} src="https://static01.nyt.com/images/2022/11/21/sports/21world-cup-senegal-netherlands-gamer-photos-goal/21world-cup-senegal-netherlands-gamer-photos-goal-facebookJumbo.jpg" alt="Senegal"/>
             <h3>Recent News</h3>
-            <a href='https://www.terra.com.br/esportes/futebol/copa-2022/senegal-x-holanda-veja-informacoes-do-jogo-pela-copa-do-mundo,8771d5dd1a08dd707c5d124b465cfcecqadejf5f.html'>
+            <a href='https://www.nytimes.com/2022/11/21/sports/soccer/senegal-netherlands-score-match.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Senegal x Holanda: veja informações do jogo pela Copa do Mundo</h3>
+                <h3>Senegal vs. Netherlands: Final Score and Match Highlights</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Senegal x Holanda: veja informações do jogo pela Copa do Mundo" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Nesta segunda-feira, Senegal e Holanda vão se enfrentar pela primeira rodada da fase de grupos da Copa do Mundo no Catar. A partida será disputada às 13 horas (&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ9tYk4YxOq0Iyd9Sd6mbu9qEarOXCW_zUMXhDIDOKP6CtRA8yCfcRushlxFKkyhpoQJEiD26WR" alt="Senegal vs. Netherlands: Final Score and Match Highlights" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>In his World Cup debut, Cody Gakpo scored in the 84th minute to put the Netherlands ahead of Senegal.</p></div>
             </div>
-        </a><a href='https://ge.globo.com/futebol/selecoes/senegal/noticia/2022/11/20/senegal-x-holanda-sem-dupla-na-esquerda-selecao-africana-improvisa-na-lateral-veja-time-provavel.ghtml'>
+        </a><a href='https://theathletic.com/live-blogs/senegal-netherlands-score-world-cup-2022/Ss4i4z00cHAW/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Senegal x Holanda: sem dupla na esquerda, seleção africana ...</h3>
+                <h3>Full highlights and analysis of the Netherlands&#39; 2-0 win over ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRs1OAfcFyiFHcV-4tAxc7Af-gU_XCw6GytyG8FMcd7jb-K50dSCe97UGejdvDU19wfnif0YYcI" alt="Senegal x Holanda: sem dupla na esquerda, seleção africana ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Aliou Cissé perde lateral-esquerdo por lesão e terá defensor versátil para cobrir a posição.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTAP-BgcdezsgIYq8PI3pPawLooKNH-zEI9_ebLMimartkNK34nsA1j2D8f4G_mIlVQtDuhpnqw" alt="Full highlights and analysis of the Netherlands&#39; 2-0 win over ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cody Gakpo and Davy Klaassen struck late to earn the Netherlands a 2-0 win over Senegal in their Group A opener.The sides had struggled to break the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.brasildefato.com.br/2022/11/20/copa-do-mundo-2022-senegal-e-camaroes-carregam-as-maiores-esperancas-da-africa'>
+        </a><a href='https://www.si.com/soccer/2022/11/21/senegal-netherlands-world-cup-2022-video-highlights-recap'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Copa do Mundo 2022: Senegal e Camarões carregam as maiores ...</h3>
+                <h3>Netherlands Scores Twice Late to Defeat Senegal, Take Three Points</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQA_prMPSZJ2H31jc6cK7IFvzbKPVarxsC_MMJCbdL2FFkEiCerb7Fv0TCQQomlkvUPnOXcgdgI" alt="Copa do Mundo 2022: Senegal e Camarões carregam as maiores ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Pela primeira vez, todas as equipes do continente têm treinadores locais, além de talentos que atuam em grandes times.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRWY_gSIleolPnikv2CHemu_X-8v6TB8tygDW1PIPgS5kwSFn_6cktkyD8umvYFQHf6qtTuACmV" alt="Netherlands Scores Twice Late to Defeat Senegal, Take Three Points" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cody Gakpo scored in the 84th minute while Davy Klaassen added a stoppage-time insurance goal to send the Oranje past Senegal.</p></div>
             </div>
-        </a><a href='https://www.cnnbrasil.com.br/esporte/copa-do-mundo-senegal-e-holanda/'>
+        </a><a href='https://www.nbcmiami.com/news/sports/world-cup-2022/netherlands-two-late-goals-vs-senegal-brings-oranje-atop-group-a/2914064/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Jogo da Copa Ao Vivo: Senegal x Holanda</h3>
+                <h3>Netherlands&#39; Two Late Goals Vs. Senegal Brings Oranje Atop Group A</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT5Hz3FuKTffIyEeEM9HLwxlDcV9ycFBcvmltvU2LeFwp4scocihO0uTBZaG02Q6cNLlie3UEKl" alt="Jogo da Copa Ao Vivo: Senegal x Holanda" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Acompanhe todos os jogos da Copa ao vivo no site da CNN. Veja também, minuto a minuto, as estatísticas, lances e as escalações das seleções no Catar.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQgqyxZsEGvgCb-Gq-l4kRvGV0pYLfVRyn0lJ5yYYHlPwm5WdgQ0nPv9sbMcC41JlATZARf1LBq" alt="Netherlands&#39; Two Late Goals Vs. Senegal Brings Oranje Atop Group A" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Senegal put up a tough fight, despite playing without Sadio Mané, but the Dutch capitalized in the final minutes to win 2-0 in the 2022 FIFA World Cup.</p></div>
             </div>
-        </a><a href='https://www.uol.com.br/esporte/ultimas-noticias/enm/2022/11/20/senegal-x-holanda-retrospecto-provaveis-escalacoes-onde-assistir-e-arbitragem.htm'>
+        </a><a href='https://www.aljazeera.com/sports/liveblog/2022/11/21/live-senegal-vs-netherlands-world-cup-2022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Senegal x Holanda: Retrospecto, prováveis escalações, onde ...</h3>
+                <h3>Senegal vs Netherlands 0-2: World Cup 2022 – as it happened</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQlE-zeaR1FmXG6P2KYa3esEZtegNm0ohP3wEEzVHDY7qWnAcHkVsk2zpzQUISoCqdaOijak5VQ" alt="Senegal x Holanda: Retrospecto, prováveis escalações, onde ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Nesta segunda-feira (21), Senegal e Holanda se enfrentam, no Al Thumama Stadium, em partida válida pela 1ª rodada da fase de grupos da Copa do Mundo.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTzVk66IgkgxMuI_Vt5KSUsssh6Kn6TKJQPNUf1nvxU4JOYt7hrDlIf4oSREei56BbrnuI2HdCq" alt="Senegal vs Netherlands 0-2: World Cup 2022 – as it happened" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>All the updates from Tuesday&#39;s World Cup match between Netherlands and Senegal at Qatar&#39;s Al Thumama Stadium.</p></div>
             </div>
-        </a><a href='https://www.mg.superesportes.com.br/app/noticias/futebol/copa-do-mundo/catar/2022/11/20/catar-2022,3980258/senegal-x-holanda-veja-prognosticos-para-duelo-da-copa-do-mundo.shtml'>
+        </a><a href='https://www.espn.com/soccer/report/_/gameId/633788'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Senegal x Holanda: veja prognósticos para duelo da Copa do Mundo</h3>
+                <h3>Senegal vs. Netherlands - Football Match Report - November 21 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRF4_3aG-ptsqRKoxHtwdGQpjOHcxVUE1IkZTaXw7w7n4E10ONNm1kb2Q69e3a9s2Q-MMZNnlp7" alt="Senegal x Holanda: veja prognósticos para duelo da Copa do Mundo" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Casas de apostas atuantes no Brasil apontam seleção favorita para vencer o segundo jogo do Grupo A da Copa do Mundo no Catar; veja palpites.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR6JSLmKVgWGOFf-bToU0O1T99c3O-GmLH9UzR2b7URqwW-eHhfsR3_ZN5IWSF5XY03l4M5Dq9A" alt="Senegal vs. Netherlands - Football Match Report - November 21 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Get a report of the Senegal vs. Netherlands 2022 FIFA World Cup, Group Stage football match.</p></div>
             </div>
-        </a><a href='https://www.lance.com.br/copa-do-mundo/senegal-x-holanda-onde-assistir-horario-e-escalacoes-do-jogo-da-copa-do-mundo.html'>
+        </a><a href='https://espndeportes.espn.com/futbol/mundial/nota/_/id/11258146/paises-bajos-senegal-ritmo-buen-juego-pero-poca-imaginacion-en-ataque'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Senegal x Holanda: onde assistir, horário e escalações do jogo da ...</h3>
+                <h3>Países Bajos-Senegal: ritmo, buen juego pero poca imaginación en ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTclnNoGcRWxTEelLtjb-d_cCZFvr20FjTMAZ4mKte2L3CjSkAeQbT1HogsBp8u7zoX88CGQ9oo" alt="Senegal x Holanda: onde assistir, horário e escalações do jogo da ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Equipes estreiam no Mundial do Qatar em jogo que promete ser agitado, válido pelo Grupo A.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTV0EyE7Joz80JfVs74Y6k5_ALcN1gBvFsNu_8MY6PqjEO76rteYJtmzrZi3vFzpOm3ZYWnoFu_" alt="Países Bajos-Senegal: ritmo, buen juego pero poca imaginación en ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>La Naranja ganó un partidazo gracias a errores del rival y no tanto a virtudes propias en la ofensiva.</p></div>
             </div>
-        </a><a href='https://www.uol.com.br/esporte/ultimas-noticias/enm/2022/11/20/mane-incentiva-companheiros-de-senegal-apos-ficar-de-fora-da-copa-do-mundo-lutarao-como-um-so-homem.htm'>
+        </a><a href='https://www.tudn.com/futbol/mundial-qatar-2022/paises-bajos-gana-a-una-senegal-que-padece-errores-portero-mendy'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mané incentiva companheiros de Senegal após ficar de fora da ...</h3>
+                <h3>Países Bajos gana a una Senegal que padece errores de Mendy</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQlE-zeaR1FmXG6P2KYa3esEZtegNm0ohP3wEEzVHDY7qWnAcHkVsk2zpzQUISoCqdaOijak5VQ" alt="Mané incentiva companheiros de Senegal após ficar de fora da ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>O segundo colocado na premiação da última Bola de Ouro, Sadio Mané se tornou desfalque poucos dias do início da Copa do Mundo e será uma das maiores perdas&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSqBlogDFYag4g_aNkWef3RXKFe0qHGnqK6hxHHney9JGXDXSYqPf8Zwc5JpyYNFBvzY4Kd6B-J" alt="Países Bajos gana a una Senegal que padece errores de Mendy" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Dos errores del portero Mendy echaron en borda trabajo de los &#39;Leones de Teranga&#39; en debut en Qatar 2022 | Deportes Mundial - Qatar 2022 | TUDN Univision.</p></div>
             </div>
-        </a><a href='https://radios.ebc.com.br/especiais-radio-mec/2022/11/escalacao-musical-senegal'>
+        </a><a href='https://www.telesurtv.net/news/mundial-qatar-senegal-paises-bajos-grupo-a-partido-20221120-0028.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Escalação Musical: Senegal</h3>
+                <h3>Países Bajos triunfa por 2-0 sobre Senegal en Qatar 2022</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTQgLLLTpgvsRIiLYf6P-ebk4J2e-WlYy3lUcllnncoInUENmMrTB-Zlyq9BYV7Cb6QpL2mwG_O" alt="Escalação Musical: Senegal" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A seleção senegalesa tem um histórico recente em Copas do Mundo: sua primeira participação foi em 2002, onde chegou às quartas de final.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ0iVeb7H_M6U2WH3yStP0jGrQmxppS_YYKTjJ4e7ReoGiqSdV2ObeEl-tXJm7SA6Pd9beBd_c3" alt="Países Bajos triunfa por 2-0 sobre Senegal en Qatar 2022" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>El resultado de este juego comienza a definir al Grupo A, luego que Ecuador venciera 2 goles por 0 a Qatar.</p></div>
             </div>
-        </a><a href='https://www.bemparana.com.br/noticias/senegal-tem-problemas-com-documento-e-jogador-naturalizado-preocupa-para-estreia/'>
+        </a><a href='https://www.mediotiempo.com/futbol/copa-mundial/resumen-partido-senegal-vs-paises-bajos'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Senegal tem problemas com documento e jogador naturalizado ...</h3>
+                <h3>Países Bajos alza la mano en Qatar y derrota a Senegal con goles ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Senegal tem problemas com documento e jogador naturalizado ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Além do corte de Sadio Mané, Senegal pode ter um novo desfalque em sua lista de convocados. Por problemas em sua documentação, Ismail Jakobs, nascido na.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTqHRr4d47pS3QMzlGNIk_YxiqzbBgQ6l954hmPNEUZB6hYki1YUnDJsBUXSeGUtqwSaMegNPgY" alt="Países Bajos alza la mano en Qatar y derrota a Senegal con goles ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Senegal no pudo abrir a la defensa rival y debutó en Qatar con derrota.</p></div>
             </div>
         </a>
         </Template></>;

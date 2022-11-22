@@ -11,28 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Mason Greenwood"/>
         <meta name="description" content="Trending News about Mason Greenwood" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Mason Greenwood</h1>
-            <Image width={800} height={500} src="https://www.insidesport.in/wp-content/uploads/2022/11/skysports-mason-greenwood-manchester_5934157-1.jpg?w=768" alt="Mason Greenwood"/>
+            <Image width={800} height={500} src="https://ichef.bbci.co.uk/news/1024/branded_news/8C70/production/_127725953_787df250518c5833361720f5a316bacf71044e0a.jpg" alt="Mason Greenwood"/>
             <h3>Recent News</h3>
-            <a href='https://www.insidesport.in/mason-greenwood-trial-manchester-united-star-to-appear-in-court-for-attempted-rape-charge-on-monday-follow-live-updates/'>
+            <a href='https://www.bbc.com/news/uk-england-manchester-63699399'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mason Greenwood Trial: Manchester United star to appear in court ...</h3>
+                <h3>Mason Greenwood: Trial date set for Manchester United player</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSpgwlb_3neQ2ZdPffmFekADE3GUtZUvGFSoQHt67_NPLWm1wFqGsOzaWS9f5_Sls0dohYIuPro" alt="Mason Greenwood Trial: Manchester United star to appear in court ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mason Greenwood Trial -Mason Greenwood Rape Charge: Manchester United footballer Mason Greenwood will appear in court on Monday for a preliminary hearing on&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS566eec3St5LFMulKROHtKSXpznc0zi7eVIiD7lCVD5f0wr6_bgULIECjwegEJLHZQmjfYUl8h" alt="Mason Greenwood: Trial date set for Manchester United player" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mason Greenwood is due to face trial on charges of attempted rape, assault and coercion in 2023.</p></div>
             </div>
-        </a><a href='https://www.iol.co.za/sport/soccer/premier-league/manchester-uniteds-mason-greenwood-to-appear-in-court-on-attempted-rape-charge-65513da8-878f-4440-9134-b55a1a3263a2'>
+        </a><a href='https://www.iol.co.za/sport/soccer/premier-league/mason-greenwoods-trial-for-attempted-rape-will-take-place-in-november-next-year-5d13580e-9ca1-49e8-a228-5c6aaa129c72'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Manchester United&#39;s Mason Greenwood to appear in court on ...</h3>
+                <h3>Mason Greenwood&#39;s trial for attempted rape will take place in ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTow1hhFHVb-iBHPsQcfBnoKne2ekGfwfZRpQkGK_CF2OKSp3R7GFbRzX7QpbHWfrxEB4iy8ta1" alt="Manchester United&#39;s Mason Greenwood to appear in court on ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mason Greenwood will appear in court on Monday for a preliminary hearing on charges of attempted rape, controlling and coercive behaviour, and assault.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRRlApVamumUZD4jOGMY7d6NzI1f7pJTSd7e3w473dDFRJazHXJLm3qDqcGT2ZPyDiLqP9hUVPg" alt="Mason Greenwood&#39;s trial for attempted rape will take place in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Footballer Mason Greenwood will face trial next year on charges of attempted rape, controlling and coercive behaviour, and assault, a judge said on Monday.</p></div>
             </div>
-        </a><a href='https://www.besoccer.com/new/greenwood-will-return-to-court-on-monday-to-testify-1204418'>
+        </a><a href='https://www.theguardian.com/uk-news/2022/nov/21/mason-greenwood-set-to-face-trial-next-year-accused-of-attempted-rape'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Greenwood will return to court on Monday to testify</h3>
+                <h3>Mason Greenwood set to face trial next year accused of attempted ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQCV94noz6HgRZgHu9NwT36EBlryqPZvo7knTgg59_pauyUZ9ckT43pePFdZES-tBS6jIyFNXFn" alt="Greenwood will return to court on Monday to testify" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Manchester United&#39;s Mason Greenwood will return to court on Monday on charges of attempted rape and assault. The young striker is now completely sidelined&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRaD6SyPztpiAQ6s21QomQIqOyyrmf9_tfIZKUhsOtqfResBqzA068Y4eAMHEqozvqUVpGTGUh7" alt="Mason Greenwood set to face trial next year accused of attempted ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Greenwood, 21, appeared before a judge at Manchester Minshull Street crown court on Monday. The footballer is accused of attempted rape on 22 October 2021, and&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.goal.com/en-ug/news/greenwood-re-bailed-2023-trial-date/blt57ad65cde044985a'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Mason Greenwood re-bailed ahead of 2023 trial date</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSs-jK3PK9JR1MYzHgwbWYShYvxN-xVkeB41M5TtWX73zbkFEEVIbj3qqQGHY7Ygfec3Hcy87zI" alt="Mason Greenwood re-bailed ahead of 2023 trial date" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mason Greenwood has been re-bailed during his latest appearance in court, with a provisional trial date set for November 27, 2023.</p></div>
+            </div>
+        </a><a href='https://www.skysports.com/football/news/11667/12752338/mason-greenwood-manchester-united-player-faces-trial-next-year-on-attempted-rape-charge'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Mason Greenwood: Manchester United player faces trial next year ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRCuxVAcJlpI5ksX7X7O7TvyURkD9D_n_AwFt2tY7Hbv80n2GM0vegxivyalaqaoekDwcPYeeYD" alt="Mason Greenwood: Manchester United player faces trial next year ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mason Greenwood appeared at Manchesters Minshull Street Crown Court for a hearing on Monday; the Manchester United forward is being charged with attempted&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.90min.com/posts/mason-greenwood-date-set-for-trial'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Mason Greenwood: Date set for trial</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRDinW5KhSrZbEs_ou3KKgc9_2uJ8iCy1xYSoCVdagFxWjOO7Rs81UbWWF_P9lrf8WY5ZkqdHtd" alt="Mason Greenwood: Date set for trial" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The 21-year-old Manchester United forward appeared at Manchester Minshull&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

@@ -11,9 +11,23 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Cowboys vs Vikings"/>
         <meta name="description" content="Trending News about Cowboys vs Vikings" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Cowboys vs Vikings</h1>
-            <Image width={800} height={500} src="https://sportshub.cbsistatic.com/i/r/2022/09/09/637acf8a-2084-4f07-9610-0bb2ec96731d/thumbnail/1200x675/2f59a389bc7574c53bcffe400186f753/dak-prescott-usatsi-cowboys.jpg" alt="Cowboys vs Vikings"/>
+            <Image width={800} height={500} src="https://media.cnn.com/api/v1/images/stellar/prod/221121122808-01-dallas-cowboys-minnesota-vikings-1120.jpg?c=16x9&q=w_800,c_fill" alt="Cowboys vs Vikings"/>
             <h3>Recent News</h3>
-            <a href='https://www.cbssports.com/nfl/news/cowboys-vs-vikings-odds-picks-line-how-to-watch-live-stream-model-reveals-2022-week-11-nfl-predictions/'>
+            <a href='https://www.cnn.com/2022/11/21/sport/dallas-cowboys-minnesota-vikings-intl-spt/index.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>The Dallas Cowboys demolish the surging Minnesota Vikings, 40-3</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSTi4EYVard60eUHtYf2NepugjxPbQWB5aTLTVQlgi-lBohElLc3XHZ9BPFYYyDqOb43KbsR8HG" alt="The Dallas Cowboys demolish the surging Minnesota Vikings, 40-3" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>With seven straight games won and under their belt, the Minnesota Vikings had a rude awakening Sunday, taking a battering by the Dallas Cowboys who came&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.espn.com/nfl/recap/_/gameId/401437855'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Cowboys vs. Vikings - Game Recap - November 20, 2022 - ESPN</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQd9gin8Kgg1laiHKlAXYKGBZImJTkpfZ4rNOk29rp3TanOYbL4sjmA-aBehpPu7K86VZm7f9Cf" alt="Cowboys vs. Vikings - Game Recap - November 20, 2022 - ESPN" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Get a recap of the Dallas Cowboys vs. Minnesota Vikings football game.</p></div>
+            </div>
+        </a><a href='https://www.cbssports.com/nfl/news/cowboys-vs-vikings-odds-picks-line-how-to-watch-live-stream-model-reveals-2022-week-11-nfl-predictions/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Cowboys vs. Vikings odds, picks, line, how to watch, live stream ...</h3>
                 <div style={{ display: "flex" }}>
@@ -34,26 +48,12 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTcrBLWdlOtwxUvSLf8uz4f2LXFqINLPqI1bI5AFKP1I3p7m_acQb6gYN4crOYKCCTlPYR1oPUL" alt="Cowboys vs. Vikings Week 11 Preview and Prediction" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Adam Beasley and Dalton Miller break down the Dallas Cowboys vs. Minnesota Vikings matchup in Week 11 and offer a prediction.</p></div>
             </div>
-        </a><a href='https://www.si.com/nfl/cowboys/news/dallas-cowboys-vs-minnesota-vikings-nfl-week-11-live-game-updates'>
+        </a><a href='https://www.chicagotribune.com/betting/ct-dallas-cowboys-minnesota-vikings-odds-predictions-20221120-k2okkssrxnbhzothponofxzhqa-story.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>WATCH: Cowboys Strike Again Early 3Q for 30-3 Lead Over Vikings ...</h3>
+                <h3>Cowboys vs. Vikings predictions: time to take advantage of a ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR63L6CAI6KWm3zJ3PyIW5rdC3ABpIDTV65e6rfA7ZFb3tktCWnS-xnzyjSb9fDo3Vi2szL8TxF" alt="WATCH: Cowboys Strike Again Early 3Q for 30-3 Lead Over Vikings ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Cowboys take to the road to try and get back on track against the Minnesota Vikings on Sunday.</p></div>
-            </div>
-        </a><a href='https://www.actionnetwork.com/nfl/cowboys-vs-vikings-odds-picks-prediction-week-11-nfl'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Vikings vs Cowboys Odds, Picks, Prediction | NFL Week 11</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSV1uDnE7xcBj3sYcfRcJpcPSD6R1da7EJui8hbhkSahYYbtRi3-mv9kIeHUX2h5v_4C7aR64px" alt="Vikings vs Cowboys Odds, Picks, Prediction | NFL Week 11" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Anthony Dabbundo of Action Network previews the Week 11 NFL game between the Dallas Cowboys and Minnesota Vikings.</p></div>
-            </div>
-        </a><a href='https://www.cleveland.com/tv/2022/11/dallas-cowboys-vs-minnesota-vikings-how-to-watch-live-for-free-112022.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Dallas Cowboys vs. Minnesota Vikings: How to watch live for free ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT6ucZrfU4HhJSEa00Hv6ofAI9EuU26IR1zbmy7APDaTMFEh-7AdNR8ZsqKV5G_5ms1VT7-h7Tt" alt="Dallas Cowboys vs. Minnesota Vikings: How to watch live for free ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Find out how to watch the Cowboys vs. Vikings game for free on Sunday.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRnugBbLXvlBAnFZ6SLZ4tQkXwBMIIi25uksQ7A4xnP3BZvR0FrjppHGrAf6Uyygj_cNqTR5FlF" alt="Cowboys vs. Vikings predictions: time to take advantage of a ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>We give our best Cowboys vs. Vikings predictions and bets for Sunday&#39;s matchup between Dallas and Minnesota.</p></div>
             </div>
         </a>
         </Template></>;
