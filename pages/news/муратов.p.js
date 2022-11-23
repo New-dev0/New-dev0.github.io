@@ -11,21 +11,21 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Муратов"/>
         <meta name="description" content="Trending News about Муратов" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Муратов</h1>
-            <Image width={800} height={500} src="https://oblast45.ru/uploads/publications/images/51531/big/33e0e8242dd8a2137b66b23d91e6cbdbed43bee5.jpg" alt="Муратов"/>
+            <Image width={800} height={500} src="https://nashaniva.com/photos/generated/fb303692.png" alt="Муратов"/>
             <h3>Recent News</h3>
-            <a href='https://oblast45.ru/publication/51531'>
+            <a href='https://nashaniva.com/ru/303692'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Сенатор Сергей Муратов поздравил курганскую гимназию с ...</h3>
+                <h3>Нобелевский лауреат Муратов в беседе с Дудем объяснил ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRNRhs3w-x1YS84pV7Tp9HpDIslCpqqQaRjZmpZWAcpGtZRQIbPvRd5wu1pPBGVwatosX9sz6zt" alt="Сенатор Сергей Муратов поздравил курганскую гимназию с ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Курганская гимназия №32 отметила юбилей. В этом году учебному заведению исполнилось 65 лет. Поздравить директора и педагогов лично приехал сенатор России&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSkeZwGaGEdJB-Xi07prfq-IPQllPOF5oAPxAOSiNGJihhAC5m0erYf7qr973Gl1aUkxP3Bs0x3" alt="Нобелевский лауреат Муратов в беседе с Дудем объяснил ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Путин сделал службу в армии единственным возможным социальным лифтом для жителей провинции, а смерть родного на войне — выгодной для семей, живущих в&nbsp;...</p></div>
             </div>
-        </a><a href='https://spektr.press/news/2022/11/21/muratov-v-intervyu-dudyu-rasskazal-o-dele-politkovskoj-problemah-pravosudiya-v-rossii-i-vojne-v-ukraine/'>
+        </a><a href='https://gazetaby.com/post/muratov-oni-nazyvayut-vedushhix-olenka-vovochka-i-/188429/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Муратов в интервью Дудю рассказал о деле Политковской ...</h3>
+                <h3>Муратов: «Они называют ведущих «Оленька, Вовочка» и ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQZuIQDtHZhho0pqFoG0UtuKGcQ9ev21-K5dmjQmRx9JXQmN-_VYzl7-ebimHdpFOeqg618zPKB" alt="Муратов в интервью Дудю рассказал о деле Политковской ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Главный редактор «Новой газеты» и лауреат Нобелевской премии мира 2021 года Дмитрий Муратов дал интервью журналисту и блогеру Юрию Дудю. В интервью они.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQQVp9FHpwNCihGsVtp0b-fAWvuv2Nb_1giJZ4cyRK3NQq_-ckrTSrD5fK4nFYMXjcZfEBY5R81" alt="Муратов: «Они называют ведущих «Оленька, Вовочка» и ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>— Обычно в мире, когда народ нищенствует, под правителем начинает качаться кресло. У нас в стране процесс прямо противоположный: чем более тяжело и бедно живет&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

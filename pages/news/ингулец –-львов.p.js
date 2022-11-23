@@ -48,19 +48,19 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQWpgyXk58o7NwoJvct6tmJywmfZfNDCxuup4no0hTrjf94rcuF8W4QoHoQNlM-J3Xsuilu4brF" alt="&quot;Ингулец&quot; одержал первую победу с новым тренером и покинул ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Ингулец оказался сильнее Львова в рамках 14-го тура украинской Премьер-лиги. Команда Младена Бартуловича отправила соперника на дно турнирной таблицы.</p></div>
             </div>
+        </a><a href='https://vprognoze.ru/topforecast/5975174-ingulec-fk-lvov.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Ингулец - Львов прогноз на матч Украина. Премьер-лига (21.11.22)</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTyF2NORowGlAjjp8ctaKgbiL-U8zIbzgSdyDiRhkPBglc-eJmCo8B-L1GeELakl6hISe1xW3Xy" alt="Ингулец - Львов прогноз на матч Украина. Премьер-лига (21.11.22)" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Бесплатные прогнозы на футбол: Ингулец - Львов на 21 ноября 2022 от профессионалов. Статистика встреч. Сравнение коэффициентов на исход матча Ингулец&nbsp;...</p></div>
+            </div>
         </a><a href='https://sportarena.com/football/upl/ingulets-na-svoem-pole-minimalno-obygral-lvov/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Ингулец на своем поле минимально обыграл Львов</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQz3NjD9JXy5XG8PEQQ9p-35iEwqIADCk0SAC-ZEhx0jkT5793pqb9o98hc0PTDtvKgj-49yPtS" alt="Ингулец на своем поле минимально обыграл Львов" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Обзор матча Ингулец - Львов, видео повторы голов, лучшие моменты игры, в которой Ингулец выиграл Львов со счетом 1:0 - чемпионат Украины.</p></div>
-            </div>
-        </a><a href='https://sport24.ua/ru/football/news/30872-ingulec-v-bolshinstve-minimalno-pereigral-lvov-opustiv-komandu-duluba-na-poslednjuju-strochku-upl'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ингулец в большинстве минимально переиграл Львов, опустив ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTBZ89h1wYY-bJMxJtiIuycZujb3_S5GoIjY0HPFlBAqbXaVeVg7S3Jw0zP_7I2yvsFVW_Gx8fd" alt="Ингулец в большинстве минимально переиграл Львов, опустив ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Львов потерпел еще одно поражение в текущем сезоне чемпионата Украины. УПЛ, 14 тур. Ингулец – Львов – 1:0. Гол: Марусич, 45. Удаление: Грисьо, 84.</p></div>
             </div>
         </a>
         </Template></>;

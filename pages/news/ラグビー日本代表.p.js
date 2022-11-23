@@ -11,9 +11,16 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,ラグビー日本代表"/>
         <meta name="description" content="Trending News about ラグビー日本代表" /></Head><Template>
             <h1 style={{fontSize: "30"}}>ラグビー日本代表</h1>
-            <Image width={800} height={500} src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221121-00062156-thedigest-000-3-view.jpg?exp=10800" alt="ラグビー日本代表"/>
+            <Image width={800} height={500} src="https://sportiva.shueisha.co.jp/clm/otherballgame/rugby/2022/assets_c/2022/11/DylanRiley221122-thumb-800xauto-285576.jpg" alt="ラグビー日本代表"/>
             <h3>Recent News</h3>
-            <a href='https://news.yahoo.co.jp/articles/bfaf29f91840279c2d4d07c210d613175de8574d'>
+            <a href='https://sportiva.shueisha.co.jp/clm/otherballgame/rugby/2022/11/22/12/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>12連勝中のフランス代表から後半２トライ奪取。ラグビー日本代表 ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTfrZEzacZeugdWgmGDGjlPaFbP2tVW68Z2nQowA9fzwnq--jS1TnypSNA-BVRB03-he8CHtqeG" alt="12連勝中のフランス代表から後半２トライ奪取。ラグビー日本代表 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>今年最後のテストマッチに向けて、日本代表のジェイミー・ジョセフHC（ヘッドコーチ）は中野将伍をCTB（センター）に、ディラン・ライリーをWTB（ウィング）に配置し、&nbsp;...</p></div>
+            </div>
+        </a><a href='https://news.yahoo.co.jp/articles/bfaf29f91840279c2d4d07c210d613175de8574d'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>強豪フランスにも怯まなかったラグビー日本代表の遂行力！ 来年の ...</h3>
                 <div style={{ display: "flex" }}>
@@ -27,26 +34,12 @@ export default function Page() {
                 <Image src="" alt="日本代表「リポビタンDツアー2022」フランス代表戦 試合後 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>ラグビーを世界一楽しもう！ラグビー日本代表のニュース・試合日程・結果およびイベント情報など最新情報が満載。ラグビーの普及・育成に関する情報やルール・観戦&nbsp;...</p></div>
             </div>
-        </a><a href='https://news.yahoo.co.jp/articles/d36ca55df498160630391d6529c2bc1e0ecca6d5'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ラグビー日本代表、フランス代表とのテストマッチで敗れる（毎日 ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT32EqsCHmkDPvM-jqNQ0LSTBOJvSBqhQ2OS1DosIw_IMFreHodAP1jTsP18Bxj0GthHobUKtPb" alt="ラグビー日本代表、フランス代表とのテストマッチで敗れる（毎日 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ラグビー日本代表は20日、フランス代表とのテストマッチ「リポビタンDツアー2022」にフランス・トゥールーズで臨み、17―35で敗れた。通算対戦成績は日本の1分け12敗と&nbsp;...</p></div>
-            </div>
         </a><a href='https://www.yomiuri.co.jp/sports/etc/20221121-OYT1T50024/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>ラグビー日本代表、フランスに及ばず…後半に反撃のトライ</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQvAQQGc-y0kPlEgMkwtgC3qlMYZ9zNh6oNdUObs1vYngOd-0LB4ON9aP_RMJVDWcjx4UmI1LT8" alt="ラグビー日本代表、フランスに及ばず…後半に反撃のトライ" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>【読売新聞】 ラグビー日本代表は２０日、フランスのトゥールーズで世界ランキング２位の同国代表と対戦し、１７―３５で敗れた。 フランスは前半に２トライを&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.sponichi.co.jp/sports/news/2022/11/22/kiji/20221122s00044000070000c.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ラグビー日本代表 ミス響き仏に敗戦も中野から斎藤“荒ぶるコンビ”で ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="" alt="ラグビー日本代表 ミス響き仏に敗戦も中野から斎藤“荒ぶるコンビ”で ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>【ラグビー「リポビタンDツアー2022」 日本17―35フランス （ 2022年11月20日 フランス・トゥールーズ ）】 欧州遠征でテストマッチ2試合を終えたラグビー日本代表は21&nbsp;...</p></div>
             </div>
         </a><a href='https://www.nikkei.com/article/DGXZQOKC204050Q2A121C2000000/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -61,6 +54,13 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="" alt="【ラグビー】日本、世界ランク２位フランスに敗戦 善戦するも歴史 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>ラグビー日本代表（世界ランク10位）が欧州遠征「リポビタンDツアー2022」第2戦のフランス（同2位）戦に臨む。フランスは出場停止の世界的SHアントワーヌ・デ…</p></div>
+            </div>
+        </a><a href='https://www.sanspo.com/article/20221121-WZDAS3KIBZHOFEGTWG6CQL7VYM/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>ラグビー日本２トライも１７－３５でフランスに力負け 欧州遠征２ ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTT9AVoQSGBDVer_oj9XJI2uiSAKpOVDmKySOjp8wKovlFvewMOPXckQRh2suBCqCChXJUe4mcv" alt="ラグビー日本２トライも１７－３５でフランスに力負け 欧州遠征２ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>ラグビー日本代表の欧州遠征「リポビタンＤツアー２０２２」で２０日、日本代表－フランス代表のテストマッチが来年のＷ杯開催地で、大会中の日本の前線基地となる&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

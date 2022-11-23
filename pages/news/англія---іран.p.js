@@ -34,13 +34,6 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTjWNTbPKeoRrzj3M77I7E194bIJXbIYJd9XV_XeGik6qumboQS4Zk5fyyBc6zxGLEtaxE1aWPi" alt="Англія - Іран: де й коли дивитись онлайн матч Чемпіонату світу" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Англія - Іран ⋇ 21.11.2022 ⋇ Де дивитися матч онлайн ✓ Прямі трансляції футбольних матчів ⚽ Статистика ☝ Результати ✌ Свіжі новини футболу.</p></div>
             </div>
-        </a><a href='https://fakty.ua/411115-angliya-startovala-na-chm-2022-otgruziv-shest-myachej-iranu-videoobzor-matcha'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Англія надрезультативно стартувала на ЧС-2022 ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSH1M3eTejryBXFtlr1nTKBn96mhHucAuHo_CkMtzrmu9bV9FiyP0CNwPTZXjMFnUhogyN496w0" alt="Англія надрезультативно стартувала на ЧС-2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Результат та відеоогляд матчу 1-го туру групи В на ЧС-2022 у Катарі між збірними Англії та Ірану 21 листопада – британці відвантажили супернику цілих шість&nbsp;...</p></div>
-            </div>
         </a><a href='https://news.obozrevatel.com/ukr/sport/football/angliya-iran-onlajn-translyatsiya-matchu-chs-2022.htm'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Англія – Іран: результат і хронологія матчу ЧС-2022</h3>
@@ -48,12 +41,19 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRNPr3esmuEuhSaj8hHGvxDSX69nFpHOnrpzSR7jyQsqypE3iMJ9KKxSX9rpDuR1BG9wNjWFyYouQ" alt="Англія – Іран: результат і хронологія матчу ЧС-2022" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Зустріч проходила на стадіоні &quot;Халіфа&quot; у столиці Ер-Раян. OBOZREVATEL вів онлайн-трансляцію матчу Англія – Іран. Англія – Іран: результат і хронологія матчу ЧС-&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.rbc.ua/rus/news/angliya-roztroshchila-zbirnu-iranu-starti-1669043663.html'>
+        </a><a href='https://fakty.ua/411115-angliya-startovala-na-chm-2022-otgruziv-shest-myachej-iranu-videoobzor-matcha'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Англія розтрощила збірну Ірану на старті ЧС-2022</h3>
+                <h3>Англія надрезультативно стартувала на ЧС-2022 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ1jWdTkc-PdSX4D2H9mO56yrnbDwkkLAO3wvl8CDieuo6b5Q0UwE9ba0KB6D7z4Iqjz7V2Nheb" alt="Англія розтрощила збірну Ірану на старті ЧС-2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Розгромною перемогою збірної Англії над національною командою Ірану завершився матч першого туру в групі B чемпіонату світу-2022.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSH1M3eTejryBXFtlr1nTKBn96mhHucAuHo_CkMtzrmu9bV9FiyP0CNwPTZXjMFnUhogyN496w0" alt="Англія надрезультативно стартувала на ЧС-2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Результат та відеоогляд матчу 1-го туру групи В на ЧС-2022 у Катарі між збірними Англії та Ірану 21 листопада – британці відвантажили супернику цілих шість&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.5.ua/dv/life/293059'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Англія – Іран: де дивитися та анонс матчу ЧС-2022</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ1EyCN0Rbxreqf0h4iSGvHmjHQxJKgyItq3oFHbJkyYm_lIHYt5Nn2kqeif-G6MuIXhisH5W-g" alt="Англія – Іран: де дивитися та анонс матчу ЧС-2022" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>У рамках першого туру групового етапу Чемпіонату Світу-2022 збірна Англії зустрінеться зі збірною Ірану.</p></div>
             </div>
         </a>
         </Template></>;

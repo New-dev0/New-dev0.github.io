@@ -13,12 +13,12 @@ export default function Page() {
             <h1 style={{fontSize: "30"}}>Netherlands</h1>
             <Image width={800} height={500} src="" alt="Netherlands"/>
             <h3>Recent News</h3>
-            <a href='https://www.washingtonpost.com/business/interactive/2022/netherlands-agriculture-technology/'>
+            <a href='https://www.vanguardngr.com/2022/11/lagos-netherlands-firm-partner-to-tackle-waterborne-diseases/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Netherlands is the second-largest exporter of agricultural products</h3>
+                <h3>Lagos, Netherlands firm, partner to tackle waterborne diseases</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSE2xUmfq_RzJlJqlk9WrsuY4vDXZBk8hObA3d9QeZpumDsdVAnlno9PFZVeWNcGjuUeVb-VuDW" alt="Netherlands is the second-largest exporter of agricultural products" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Netherlands has used advances in vertical farming, seed technology and robotics to become the world&#39;s second-largest agriculture exporter.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSBH5PVf3h3t4VPbLGVPkUJvZAhxcnbJ_TM0EV6ap97ZJSVam2Tn2ik59n3vpWqqzcjAPO4fauK" alt="Lagos, Netherlands firm, partner to tackle waterborne diseases" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>By Olasunkanmi Akoni. Lagos State Government, in collaboration with Faecal Sludge Management Alliance, FSMA firm, of the Netherlands, is putting measures in&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

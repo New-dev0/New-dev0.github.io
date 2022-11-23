@@ -11,42 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Cristina Scuccia"/>
         <meta name="description" content="Trending News about Cristina Scuccia" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Cristina Scuccia</h1>
-            <Image width={800} height={500} src="https://www.vienna.at/2022/11/cross-g9132566b3_1920-4-3-1405016391230-1639x1230.jpg" alt="Cristina Scuccia"/>
+            <Image width={800} height={500} src="https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A3186%3A1790%3Anowe%3A36%3A24%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F11%2F21203503%2Fbefunky-collage-9.jpg" alt="Cristina Scuccia"/>
             <h3>Recent News</h3>
-            <a href='https://www.vienna.at/italiens-singende-nonne-cristina-scuccia-tritt-aus-ihrem-orden-aus/7757443'>
+            <a href='https://observador.pt/2022/11/21/lembra-se-da-freira-que-venceu-o-the-voice-italiano-abandonou-o-convento-e-agora-e-empregada-de-mesa-em-espanha-segui-o-meu-coracao/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Italiens &quot;singende Nonne&quot; Cristina Scuccia tritt aus ihrem Orden aus</h3>
+                <h3>Lembra-se da freira que venceu o The Voice italiano? Abandonou o ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS3xKSAK5uC0h97KEKr8oO-Cb9xNPwhF0C-4GYvMjwpM_LmdEmcllgxkeapzyPukaomFgrPes0P" alt="Italiens &quot;singende Nonne&quot; Cristina Scuccia tritt aus ihrem Orden aus" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Die singende Nonne aus Italien, Ordensschwester Cristina Scuccia hat sich entschieden, aus ihrem Orden auszutreten. 2014 hat Scuccia The Voice Of Italy&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSuvN-5QlsDe_87RUhHQY8HLZNXkQov7lKqwzV10MYUdzyU5ydrquBuQgPb3kVcw4rg5TTAGFh5" alt="Lembra-se da freira que venceu o The Voice italiano? Abandonou o ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ex-freira Cristina Scuccia venceu The Voice italiano em 2014, lançou dois álbuns e tornou-se uma estrela. 8 anos depois, abandonou o convento: &quot;Vejo minha&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.krone.at/2862071'>
+        </a><a href='https://www.jn.pt/mundo/freira-italiana-que-venceu-the-voice-e-agora-empregada-de-mesa-15373484.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Irdische Karriere - Italiens singende Nonne tritt aus ihrem Orden aus</h3>
+                <h3>Freira italiana que venceu &quot;The Voice&quot; é agora empregada de mesa</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSZUX9Kr0ACJUT-fHctK2kSeGyas4249a-uPsh8pqe4TNVRgi3yXcWk9gVWkjCEaFEDIyKJeFMT" alt="Irdische Karriere - Italiens singende Nonne tritt aus ihrem Orden aus" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Italiens als „singende Nonne“ bekannte Ordensschwester Cristina Scuccia, die Gewinnerin von „The Voice Of Italy“ 2014, hat sich entschieden, einen ...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRWMyr9GBK9sDeFJoHzY5GtZ931SAyXG6G8696wOcy0QrRcoubBMEOJib_-_jq0Gcj54Tlg1Tz0" alt="Freira italiana que venceu &quot;The Voice&quot; é agora empregada de mesa" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Uma freira, conhecida por &quot;irmã Cristina&quot;, que ficou internacionalmente famosa ao vencer o concurso de canto &quot;The Voice&quot; de Itália em 2014, anunciou que&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.rtl.de/cms/italien-singende-nonne-cristina-scuccia-verlaesst-orden-und-ist-jetzt-kellnerin-in-spanien-5017358.html'>
+        </a><a href='https://oglobo.globo.com/ela/noticia/2022/11/vencedora-do-the-voice-freira-italiana-deixa-vida-religiosa-para-virar-cantora-e-trabalha-como-garconete.ghtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Italien: &quot;Singende Nonne&quot; Cristina Scuccia verlässt Orden und ist ...</h3>
+                <h3>Vencedora do The Voice, freira italiana deixa vida religiosa para ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRkWTiuj-8JYVi4VYokzj-ecca99djeeztR5O4VcL30qItoF2VgTdk4A6sedsEkRIIRBDRIvZWv" alt="Italien: &quot;Singende Nonne&quot; Cristina Scuccia verlässt Orden und ist ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Neues von Italiens vielleicht bekanntester Ordensfrau: Die „singende Nonne“ Cristina Scuccia hat ihren Orden verlassen.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRm4eKewsnJdZYohCZvlKeweeLN18aHjNp23AlPg0W3YJ8BOCEuyP_wUd8QjdRfngk46Ypj4Zwp" alt="Vencedora do The Voice, freira italiana deixa vida religiosa para ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>&#39;Nunca vi conflito entre religião e música porque fiz meu noviciado no Brasil&#39;, diz Cristina.</p></div>
             </div>
-        </a><a href='https://www.katholisch.de/artikel/42151-singende-nonne-cristina-scuccia-aus-orden-ausgetreten'>
+        </a><a href='https://www.publico.pt/2022/11/22/impar/noticia/ha-8-anos-irma-cristina-venceu-the-voice-trocou-veu-musica-2028651'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&quot;Singende Nonne&quot; Cristina Scuccia aus Orden ausgetreten</h3>
+                <h3>Há oito anos, a irmã Cristina venceu o &lt;i&gt;The Voice&lt;/i&gt;. Agora ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSCDL1x0IY1Bv4cY_QAColjyGhA1PgPHgAfKSAeP8ivXKub7cf9BiwDEGD7s2_idNkETph9-IXAUQ" alt="&quot;Singende Nonne&quot; Cristina Scuccia aus Orden ausgetreten" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Als &quot;singende Nonne&quot; im Habit erlangte Cristina Scuccia große Bekanntheit in der Musikbranche. 2014 gewann die Ordensschwester sogar die italienische&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSxkQUGtKY6Aea2jpuerdBEa3bBjDd0OsgBY7DNH6FnIHrcw7JP1ggS6HzV6ZdQsynt2jkQQzcR" alt="Há oito anos, a irmã Cristina venceu o &lt;i&gt;The Voice&lt;/i&gt;. Agora ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Vestida de vermelho e com stilettos, Cristina Sciuccia apresentou-se renovada num programa de televisão italiano. “Mas a essência continua a ser a mesma”,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.domradio.de/artikel/singende-nonne-cristina-scuccia-aus-orden-ausgetreten'>
+        </a><a href='https://noticias.uol.com.br/ultimas-noticias/ansa/2022/11/21/freira-cristina-deixa-vida-religiosa-para-ser-cantora-na-italia.htm'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Singende Nonne Cristina Scuccia aus Orden ausgetreten</h3>
+                <h3>Freira Cristina deixa vida religiosa para ser cantora na Itália</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR9vDDOSPmUC4PAM5TfvgTEjGsgsHeFJDHSuef2yev9k3vYKhMjamtUcwP9pRQgZ-oQSNiwtRj8" alt="Singende Nonne Cristina Scuccia aus Orden ausgetreten" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Die als &quot;singende Nonne&quot; populär gewordene Italienerin Cristina Scuccia, hat ihren Austritt aus dem Ursulinen-Orden verkündet. Sie habe in den vergangenen&nbsp;...</p></div>
+                <Image src="" alt="Freira Cristina deixa vida religiosa para ser cantora na Itália" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>ROMA, 21 NOV (ANSA) - A italiana Cristina Scuccia, vencedora do programa &quot;The Voice&quot; de 2014, anunciou que deixou a vida consagrada como freira e que agora&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.impala.pt/noticias/portugal-e-o-mundo/cristina-scuccia-freia-ganhou-the-voice/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Lembra-se de Cristina Scuccia, a freia que ganhou o The Voice ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTJB2IspQivCgk2TtHsylqha0OmyNhv9fAb8Es-xfejXiM2X8flgwLp4d4HEtPhHjbPgrXsbiu2" alt="Lembra-se de Cristina Scuccia, a freia que ganhou o The Voice ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Estávamos em 2014 quando uma freira entrou no palco da versão italiana de The Voice. Cristina Scuccia conquistou de imediato os jurados (viraram as quatro&nbsp;...</p></div>
+            </div>
+        </a><a href='https://mag.sapo.pt/showbiz/artigos/freira-italiana-que-venceu-o-the-voice-abandona-convento-para-ser-empregada-de-mesa-em-espanha'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Freira italiana que venceu o &quot;The Voice&quot; abandona convento para ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRi2TSTAsajcVxXY3-lZ4zegAKlxNpaypIiPGKpTSkK2WP0x2uH5EXADdNBDy5fBF1sMkQbGfqG" alt="Freira italiana que venceu o &quot;The Voice&quot; abandona convento para ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cristina Scuccia foi uma das estrelas da versão italiana do programa de talentos.</p></div>
             </div>
         </a>
         </Template></>;

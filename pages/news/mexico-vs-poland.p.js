@@ -11,49 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Mexico vs Poland"/>
         <meta name="description" content="Trending News about Mexico vs Poland" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Mexico vs Poland</h1>
-            <Image width={800} height={500} src="https://assets.khelnow.com/news/uploads/2022/11/world-cup-preview-lead-pic-Mexico-vs-Poland-1024x512.jpg" alt="Mexico vs Poland"/>
+            <Image width={800} height={500} src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt131f24da016e6a34/6378b48fd0bb084e87cd344f/MP_ochoa_mexico_vs_lewandowski_poland-worldcup-md1.jpg" alt="Mexico vs Poland"/>
             <h3>Recent News</h3>
-            <a href='https://khelnow.com/football/2022-11-world-football-fifa-world-cup-2022-mexico-vs-poland-predicted-lineup-injury-news'>
+            <a href='https://www.goal.com/en-in/news/mexico-vs-poland-lineups-and-live-updates/blt72657d93ddea2404'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mexico vs Poland: Predicted lineup, injury news, head-to-head</h3>
+                <h3>Mexico vs Poland: Lineups and LIVE updates</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSOwd7HOTJ2RSWEijZXzW66vC6xJjJrk1r2p8JeCRG9DoHnpytSl-nZjnSLKcCyT-LM2Ibx-Hp3" alt="Mexico vs Poland: Predicted lineup, injury news, head-to-head" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mexico open their FIFA World Cup 2022 campaign against Poland in the Group C fixture at the Stadium 974 in Qatar.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ2kWib6D50At2VSV3BAzN44BURU1ujwKm1ZXXCP-QhwP3IULxHBhpVaMCZVAIXvjYoGnyOR0qT" alt="Mexico vs Poland: Lineups and LIVE updates" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mexico square off against the Robert Lewandowski-led Poland in their Group C opener.</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-in/news/mexico-vs-poland-live-stream-tv-channel-kick-off-time-where-to-watch/blt1586022f23c57aa8'>
+        </a><a href='https://sportstar.thehindu.com/football/fifa-world-cup/news/fifa-world-cup-mexico-vs-poland-ochoa-lewandowski-penalty-save-group-c/article66171300.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mexico vs Poland: Live stream, TV channel, kick-off time &amp; where to ...</h3>
+                <h3>Ochoa saves Lewandowski penalty in Mexico vs Poland, shines ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSRj_J7jXV5qjSGBDe4MLdQpeP3L4PSrYHWNRvbmnz6CWuGEiBoz5_o2edu6DLTDBBf53suWmeH" alt="Mexico vs Poland: Live stream, TV channel, kick-off time &amp; where to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Former Argentina boss Gerardo Martino is in charge of Mexico this time around as El Tri make their eighth consecutive World Cup finals appearance after failing&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSGqxlptTBqFabwgYeBenM7MNqvZtZGJCn9uOhqDagb9hkr9wSIv6qCiwneyogWSCThDucdkdDO" alt="Ochoa saves Lewandowski penalty in Mexico vs Poland, shines ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Poland won a penalty in the 57th minute but the Mexican keeper denied Lewandowski his first World Cup goal.</p></div>
             </div>
-        </a><a href='https://bleacherreport.com/articles/10056345-mexico-vs-poland-top-storylines-odds-live-stream-for-world-cup-2022'>
+        </a><a href='https://www.hindustantimes.com/sports/football/mexico-vs-poland-live-score-fifa-world-cup-2022-football-latest-updates-mex-vs-pol-stadium-974-qatar-101669126733936.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mexico vs. Poland: Top Storylines, Odds, Live Stream for World Cup ...</h3>
+                <h3>Mexico vs Poland Highlights FIFA World Cup 2022: MEX, POL settle ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTPe38Rj23Cg1QxJqIF60v9A8bUwf5Zp52tVcz8sDgtmQNOJBng_cv7_iQllZUdHTWQrUPvJWJq" alt="Mexico vs. Poland: Top Storylines, Odds, Live Stream for World Cup ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mexico has been one of the most consistent squads in the last two decades of the FIFA World Cup. El Tri reached the round of 16 in each of the last seven...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRSNy-RSyuWlmLDSExd8DvpMNTSGGX3FvYpyciDlfyenKfvo5IoCxjp-qfNmhFfYz6ws2LNfv9o" alt="Mexico vs Poland Highlights FIFA World Cup 2022: MEX, POL settle ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mexico vs Poland FIFA World Cup 2022 Highlights: Robert Lewandowski missed a penalty as Poland were held to a 0-0 draw vs Mexico, on Tuesday.</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-in/news/mexico-vs-poland-predictions-tips-and-betting-odds/blt9ce101f4f84f969c'>
+        </a><a href='https://theathletic.com/live-blogs/mexico-poland-score-2022-world-cup/Mj4ydoCZboxs/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mexico vs Poland: Predictions, tips &amp; betting odds</h3>
+                <h3>Highlights and analysis of Mexico and Poland&#39;s goalless draw in ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRcdfLmxTsNs3i0btrJi6L80Yrabz59F5X6BNtu4vV0Kg3RqUc_YE44Cx08I9DLs7iP-1p_UTXe" alt="Mexico vs Poland: Predictions, tips &amp; betting odds" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>With both teams boasting some excellent forwards there could be value in backing them both to find the back of the net.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRGIgTbc8amaSgC616Hk4d1nDLg4sXsidrhmLBl4dK73B_Wga5ebax7UBnPOHWHBwJh8miz9mAY" alt="Highlights and analysis of Mexico and Poland&#39;s goalless draw in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>An open game at Stadium 974 saw Mexico get the better of the start, with Ernesto Vega going closest with a header.However, a foul on Robert Lewandowski in&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.cbssports.com/soccer/news/mexico-vs-poland-2022-world-cup-live-stream-tv-channel-how-to-watch-online-pick-start-time-odds/'>
+        </a><a href='https://sports.ndtv.com/fifa-world-cup-2022/fifa-world-cup-2022-live-mexico-vs-poland-live-score-3543520'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mexico vs. Poland: 2022 World Cup live stream, TV channel, how to ...</h3>
+                <h3>Mexico vs Poland FIFA World Cup 2022 Highlights: Robert ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRYpvnJkvTV6CPC4V1Abx0m4X1L1_PvqnhEKsJbxEonvUl1hXJU-U4or267vdSSyTJkMayWcaoD" alt="Mexico vs. Poland: 2022 World Cup live stream, TV channel, how to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Date: Tuesday, Nov. 22 | Time: 11 a.m.ET &middot; Location: Stadium 974 -- Doha, Qatar &middot; TV: Fox and Telemundo | Live stream: fuboTV (Try for free) &middot; Odds: Mexico +175;&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTva-zho_prpnwV3vfaVFHY1jxd_v3bo_fP_f0gHAagZ2CGazAGzXvHJzqvGf4Ga6RpJwn-XD9U" alt="Mexico vs Poland FIFA World Cup 2022 Highlights: Robert ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>FIFA World Cup 2022, Mexico vs Poland Highlights: Poland and Mexico played out a goalles draw in Group C match of FIFA World Cup 2022 at Stadium 974 on&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.espn.com/soccer/fifa-world-cup/story/4809191/mexico-aging-squad-preps-for-world-cup-opener-vs-poland'>
+        </a><a href='https://www.aljazeera.com/sports/liveblog/2022/11/22/live-mexico-vs-poland-world-cup-2022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mexico&#39;s aging squad preps for World Cup opener vs. Poland</h3>
+                <h3>Mexico vs Poland 0-0: World Cup 2022 – as it happened</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTyt-bVmxlRGMXhWTGq3oRn2VYY7QGjGY2ouDgs74m7hg__HG1UgChYza5bVUDmBKbqYJQgmg--" alt="Mexico&#39;s aging squad preps for World Cup opener vs. Poland" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Is Mexico&#39;s aging squad a boost of World Cup experience or a liability? Assessing Tata Martino&#39;s gamble ahead of Poland match.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQjIm57uj8P3bodSi7rpNKDji6D6O8BihEFUI1eXvxKjFTawpBUDW-JGM58G7gGpzQFMGABJ3pt" alt="Mexico vs Poland 0-0: World Cup 2022 – as it happened" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>All the updates from the FIFA World Cup 2022 match between Mexico and Poland at Stadium 974 in Doha, Qatar.</p></div>
             </div>
         </a>
         </Template></>;

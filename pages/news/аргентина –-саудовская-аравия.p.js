@@ -11,56 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Аргентина – Саудовская Аравия"/>
         <meta name="description" content="Trending News about Аргентина – Саудовская Аравия" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Аргентина – Саудовская Аравия</h1>
-            <Image width={800} height={500} src="https://images.unian.net/photos/2022_11/thumb_files/620_324_1669059079-4628.jfif?1" alt="Аргентина – Саудовская Аравия"/>
+            <Image width={800} height={500} src="https://www.rbc.ua/static/img/3/1/316672713_6648714548477669_1840814371152382346_n_1300x820.jpg" alt="Аргентина – Саудовская Аравия"/>
             <h3>Recent News</h3>
-            <a href='https://sport.unian.net/football/argentina-saudovskaya-araviya-prognoz-bukmekerov-i-gde-smotret-match-chm-2022-po-futbolu-12052890.html'>
+            <a href='https://www.rbc.ua/ukr/news/zbirna-argentini-zganbilasya-porazkoyu-vid-1669118891.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Аргентина - Саудовская Аравия: прогноз букмекеров и где ...</h3>
+                <h3>Сборная Аргентины опозорилась поражением от Саудовской ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQfOGxhqZiWCaH-q1qGhQPkzSjctXx6FrkHwizKUE4sI_ad8S2iitZ3Pwc59sWHei8zI0MdJol8" alt="Аргентина - Саудовская Аравия: прогноз букмекеров и где ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>22 ноября в рамках первого тура чемпионата мира-2022 по футболу сборная Аргентины сыграет против Саудовской Аравии - где смотреть поединок ЧМ-2022.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTcuGAFyc1jc6HlKUuDIp_-EBPhCCNdbxYK46PgOnYgfw1PvK1wr97Gy2YQtw4iT3yheabnEHUy" alt="Сборная Аргентины опозорилась поражением от Саудовской ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Аравийская сборная одолела одного из фаворитов чемпионата мира 2022 года.</p></div>
             </div>
-        </a><a href='https://sport.24tv.ua/ru/argentina-saudovskaja-aravija-prognoz-igru-chempionata-mira-2022_n2202219'>
+        </a><a href='https://www.sport-express.ru/football/world/2022/reviews/chm-2022-argentina-saudovskaya-araviya-slezy-radosti-bolelschikov-i-izdevatelstva-nad-messi-reportazh-s-fanatskoy-tribuny-video-2001577/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Месси во главе с Аргентиной совершит бесплатный мастер ...</h3>
+                <h3>Саудиты сошли с ума от победы над Аргентиной: слезы радости ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRy-GlM9UGOn8y_Vfil_qKgSMn99puLFujHTPv8SkRrv-epXo-aWQZAUK-u_6shyzXyPBVUJH_V" alt="Месси во главе с Аргентиной совершит бесплатный мастер ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Прогноз на матч Аргентина – Саудовская Аравия, который пройдет на чемпионате мира 2022. Команды сыграют 22 ноября 2022 года. Ставки букмекеров на ЧМ 2022&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRGHFxh4Xnto9eVvC2KLwVXpB9WycAIFABZWbequ7ljV2uMzsLOJ0OvmN6IccodYXpDuWVO-sWp" alt="Саудиты сошли с ума от победы над Аргентиной: слезы радости ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>На 80-й минуте стало очевидно, что сенсация в матче Аргентина — Саудовская Аравия очень близка. Понял, что лучшее место для просмотра концовки — фанатка&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.vseprosport.ru/news/2022/11/21/argentina-saudovskaja-aravija-prognoz-kf-3-78-i-stavki-na-match-chempionata-mira-22-nojabrja-2022-goda'>
+        </a><a href='https://www.championat.com/football/article-4901205-saudovskaya-araviya-argentina-2-1-chempionat-mira-po-futbolu-v-katare-kak-eto-vyglyadelo-na-stadione-fanaty-video.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Аргентина — Саудовская Аравия: прогноз и ставки с ...</h3>
+                <h3>За Саудовскую Аравию болел весь Катар. Как чудо в матче с ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRARpkupZhPd_QW0R9M-QnNucRiS4tKakldJKRx7PX5H4a5ycClnamfDv5vJI8rLUx5A8nZYCVo" alt="Аргентина — Саудовская Аравия: прогноз и ставки с ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Прогноз и ставка на Аргентина — Саудовская Аравия + фрибет до 10 000, статистика, коэффициенты. Сегодня в 13:00. Аргентина выиграла пять последних матчей,&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQvItLmW4FpU5F-SI7CP6CokPAWSmnU-xI0Z7_wiRmCw-GF7Z-aBLD8uVSvbrkqH2i-gwIk5joD" alt="За Саудовскую Аравию болел весь Катар. Как чудо в матче с ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Эмоции Андрея Панкова со стадиона. Главная сенсация чемпионата мира (окей, на данный момент) случилась. Саудовская Аравия совершила камбэк после первого тайма и&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.ua-football.com/predictions/worldcup/1669060372-argentina-saudovskaya-araviya-anons-i-prognoz-na-match-chempionata-mira-na-22-11-2022.html'>
+        </a><a href='https://www.bbc.com/russian/news-63720821'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Аргентина - Саудовская Аравия. Анонс и прогноз на матч ...</h3>
+                <h3>Первая сенсация ЧМ по футболу в Катаре: Саудовская Аравия ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTPTT253srmaA73UEi-J2v26Zwf5f7YLC8pNmlB6pyNvtlrnTiUPZ1JQ3XA0bh63RMCmoqI2gOK" alt="Аргентина - Саудовская Аравия. Анонс и прогноз на матч ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Анонс и прогноз матча ⋙ Аргентина – Саудовская Аравия ⋇ 22 ноября 2022 ⋇ Прогноз на матч от экспертов ⚽ Ставки на матч ⚽ Аналитика ☝ Результаты&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcToeHJ8b9TQope0NqhE5hYiOYQPBR8cMEmAYRy02OjwthFVHgU_R_6iZXjmNV6XAHQknkpfb1m_" alt="Первая сенсация ЧМ по футболу в Катаре: Саудовская Аравия ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Саудовская Аравия, которая находилась на 51 месте в рейтинге ФИФА, произвела фурор, победив на поле двукратного чемпиона мира, сборную Аргентины.</p></div>
             </div>
-        </a><a href='https://telegraf.com.ua/sport-cat/2022-11-22/5723613-argentina-saudovskaya-araviya-onlayn-translyatsiya-matcha-chm-2022'>
+        </a><a href='https://www.ua-football.com/foreign/worldcup/1669108762-argentina-saudovskaya-araviya-5-0-.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Аргентина — Саудовская Аравия: онлайн-трансляция матча ЧМ ...</h3>
+                <h3>Аргентина - Саудовская Аравия 1:2. Первая суперсенсация ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRJVz-w6HmGCMJ_G-Esfb9uaFXvyqW0xBkzr1Wkv10vt5VPDa-uRCDphACNOcIPhcsW7jeMxDbj" alt="Аргентина — Саудовская Аравия: онлайн-трансляция матча ЧМ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Текстовая трансляция матча первого тура чемпионата мира по футболу между сборными Аргентины и Саудовской Аравии.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQLMxhoMpwrnHRHO0o9qVn1hTPPS1WkFWQJHkC3l0ZhrZV1denQKtyqUNFH-ojrhz_A6vUBp_Gi" alt="Аргентина - Саудовская Аравия 1:2. Первая суперсенсация ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>22-11-2022 ✓ Чемпионат мира FIFA. Все пошло не по сценарию Лионеля Месси : Один из самых шокирующих результатов в истории Чемпионатов мира?</p></div>
             </div>
-        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1727490_Argentina__Saudovskaja_Aravija_gde_smotret_onlajn_matcha_22_nojabra_chempionat_mira_po_futbolu'>
+        </a><a href='https://fakty.ua/ru/411156-argentina-s-golom-messi-sensacionno-proigralana-chm-2022-saudovskoj-aravii-videoobzor-poedinka'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Аргентина — Саудовская Аравия: где смотреть онлайн матча 22 ...</h3>
+                <h3>Аргентина с голом Месси сенсационно проиграла на ЧМ-2022 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQXRdN_Fbij6pIZbYcxfeOF-L0zcjMDzt_UG9MsZPeKxWVnjggfc1tYBjZ8QbZVWcdVCyrqawHR" alt="Аргентина — Саудовская Аравия: где смотреть онлайн матча 22 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Матч первого тура группового этапа чемпионата мира с участием сборных Аргентины и Саудовской Аравии состоится во вторник, 22 ноября.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRA1YLhU5-4B-bV6kU5vqPR_8vrCnBgvnQcnXBK-vREup4LWiAhrbMg1nDy-zgoL1ThcPmxB20m" alt="Аргентина с голом Месси сенсационно проиграла на ЧМ-2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сборная Аргентины с Лионелем Месси в составе сенсационно проиграла в дебютном поединке чемпионата мира по футболу команде Саудовской Аравии, впервые с 1930&nbsp;...</p></div>
             </div>
-        </a><a href='https://sport.ua/news/604298-argentina-saudovskaya-araviya-prognoz-i-anons-na-match-chempionata-mira'>
+        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1727644_ARGeNTINA__SAUDOVSKAJa_ARAVIJa__10_MeSSI_NA_10_J_MINUTe_S_PeNALTI_VYVeL_VPeReD_SBORNUJu_ARGeNTINY_V_MATChe_ChM_2022_VIDeO'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Аргентина - Саудовская Аравия. Прогноз и анонс на матч ...</h3>
+                <h3>Аргентина — Саудовская Аравия — 1:0: Месси на 10–й минуте ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTs_74hViqwkdnjE2SrCa22Q-UOx_0GFixzxp1hxD7Q_YvIOF7AEtxBIS4eZuN5lcr_PhvovlW-" alt="Аргентина - Саудовская Аравия. Прогноз и анонс на матч ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Прогноз и анонс на матч {Аргентина} – {Саудовская Аравия} ⇒ ≺{22.11.2022}≻ ✓ {Чемпионат мира} Прогнозы, обзоры и анонсы футбольных матчей от лучших&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS_wIZe7QV7yORJHXXlGfcFDtSAiWpaBWm_akyz6flHa1MoJMYDl2I9qUftEq1zCy58w13rdYaz" alt="Аргентина — Саудовская Аравия — 1:0: Месси на 10–й минуте ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Форвард сборной Аргентины Лионель Месси на 10‑й минуте вывел свою команду вперед в матче чемпионата мира в Катаре против Саудовской Аравии,&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

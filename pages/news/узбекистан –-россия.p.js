@@ -48,12 +48,12 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTdADfryuznTg3R0X5ttXjYjwclj8cbNG-TV7zinWOQLMaRE8FIo2G34Vmf4aFSmZl83m5fvxTh" alt="«Узбекистан попытается сыграть агрессивно». Роман ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Самые свежие новости российского и мирового спорта только на сайте Sport24.ru! Интервью со спортсменами, онлайн трансляции, аналитика и прогнозы,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.euro-football.ru/article/1003652458/1004949905_djeparov__o_matche_uzbekistan_-_rossiya_igra_byila_skuchnovata'>
+        </a><a href='https://www.liveresult.ru/news/152384'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Джепаров — о матче Узбекистан - Россия: «Игра была скучновата»</h3>
+                <h3>Узбекистан – Россия: прямая трансляция, где смотреть матч ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR-K810-D6KJj6MWRuDRLfmD9FxQvwZJp9YaeMO0pMF4eD_-8RT8HBPvK1qLhaXdMGwHEbLAapE" alt="Джепаров — о матче Узбекистан - Россия: «Игра была скучновата»" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Бывший игрок сборной Узбекистана, дважды футболист года в Азии Сервер Джепаров прокомментировал игру своей национальной команды против сборной России.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS0PMH4P3TkrRuGQ7S8h4Vf3mbJp4kyAhoj3xHFmddyLu8t9JYLJYYPieJdn83VIKBxz1bEyT1z" alt="Узбекистан – Россия: прямая трансляция, где смотреть матч ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В воскресенье, 20 ноября, состоится товарищеский матч, в котором сборная Узбекистана сыграет дома со сборной России.</p></div>
             </div>
         </a>
         </Template></>;

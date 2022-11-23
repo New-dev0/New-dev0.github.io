@@ -11,9 +11,30 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Динамо"/>
         <meta name="description" content="Trending News about Динамо" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Динамо</h1>
-            <Image width={800} height={500} src="https://fcdynamo.com/img/img/7ff72b02-7814-4819-b405-6afb8ca3cbf8/beg-4504.jpg" alt="Динамо"/>
+            <Image width={800} height={500} src="https://sport.24tv.ua/resources/photos/news/202211/2202895.jpg?v=1669116873000&w=1200&h=675" alt="Динамо"/>
             <h3>Recent News</h3>
-            <a href='https://fcdynamo.com/news/veres-dinamo-0-1-preskonferenciya-yuriya-virta'>
+            <a href='https://sport.24tv.ua/dinamo-planuye-provesti-chotiri-korotkotrivali-zbori-mizhsezonni_n2202895'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Все з чистого листа: Динамо планує провести чотири ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTP5Rz9yV-EDP1KPmrKSJsKmnYL8UNxwCNBM0kQjXJSeVWEbvopknI-LM8jEGGoT4NXTVJhzjlg" alt="Все з чистого листа: Динамо планує провести чотири ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Мірча Луческу хоче взимку провести чотири збори зі своєю командою, які триватимуть по 10 днів. Причина такого терміну– засвоєння інформації та надання змоги&nbsp;...</p></div>
+            </div>
+        </a><a href='https://sport.24tv.ua/ru/dinamo-planiruet-provesti-chetyre-kratkovremennyh-sbora-mezhsezone_n2202900'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Все из чистого листа: Динамо планирует провести четыре ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTP5Rz9yV-EDP1KPmrKSJsKmnYL8UNxwCNBM0kQjXJSeVWEbvopknI-LM8jEGGoT4NXTVJhzjlg" alt="Все из чистого листа: Динамо планирует провести четыре ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Мирча Луческу хочет зимой провести четыре сбора со своей командой, которое продлится по 10 дней. Причина такого срока – усвоение информации и возможность&nbsp;...</p></div>
+            </div>
+        </a><a href='https://football24.ua/tsiganik_nazvav_dvi_prichini_chomu_luchesku_zalishitsya_v_dinamo_sprava_ne_v_babli_n748448/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Циганик назвав дві причини, чому Луческу залишиться в Динамо ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTbouX81mbzR-TI2ZMZ8j9UYdQusz1Yg5WPLdgbm3GbmEO74jcFg_8Kdg-Lz7lCbKcLliBl6xLu" alt="Циганик назвав дві причини, чому Луческу залишиться в Динамо ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Журналіст Ігор Циганик поділився своїми думками щодо майбутнього Мірчі Луческу на чолі київського Динамо. Новини футболу Футбол 24.</p></div>
+            </div>
+        </a><a href='https://fcdynamo.com/news/veres-dinamo-0-1-preskonferenciya-yuriya-virta'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>«Верес» - «Динамо» - 0:1. Пресконференція Юрія Вірта - ФK ...</h3>
                 <div style={{ display: "flex" }}>
@@ -27,6 +48,20 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQJ04mpUXF3oUOZAkGmOQ_ku_a2BBCmtuyPnie9Xy1OwLa7fM0zyhuJFUP3RBdXJkZQm-B4EP9w" alt="&quot;Динамо&quot; минимально обыграло &quot;Верес&quot; и сохранило позиции в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Победой киевского &quot;Динамо&quot; в непростых погодных условиях завершилась встреча 14-го тура отечественной Премьер-лиги против ровненского &quot;Вереса&quot;.</p></div>
             </div>
+        </a><a href='https://sport.ua/news/604536-dinamo-zimoy-planiruet-provesti-chetyre-sbora'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Динамо зимой планирует провести четыре сбора</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTkknzDlAsDMbeLOGx_aVlX631vVtlJO-0HSMGRQtGVL9In7s2S6Z30Gd7l-PFS4JtG1pGF-qWj" alt="Динамо зимой планирует провести четыре сбора" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>По информации журналиста Игоря Цыганыка, «Динамо» зимой не будет проводить один или два длительных сбора. Наставник Мирча Луческу хочет организовать четыре&nbsp;...</p></div>
+            </div>
+        </a><a href='https://sport.ua/uk/news/604536-dinamo-zimoy-planiruet-provesti-chetyre-sbora'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Динамо взимку планує провести чотири збори</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTkknzDlAsDMbeLOGx_aVlX631vVtlJO-0HSMGRQtGVL9In7s2S6Z30Gd7l-PFS4JtG1pGF-qWj" alt="Динамо взимку планує провести чотири збори" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>За інформацією журналіста Ігоря Циганика, «Динамо» взимку не проводитиме один чи два тривалих збори. Наставник Мірча Луческу хоче організувати чотири&nbsp;...</p></div>
+            </div>
         </a><a href='https://fcdynamo.com/ru/news/veres-dinamo-cisla-ta-fakti'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>«Верес» – «Динамо» - 0:1: числа и факты - ФK «Динамо» Киев ...</h3>
@@ -34,54 +69,19 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT74Lwbxx-TYUbFJE6TcnsCvDfdq1W57U-88iVLlJuwflzoAS0OEVu9RqQwCehkesPZBDN4TYg0" alt="«Верес» – «Динамо» - 0:1: числа и факты - ФK «Динамо» Киев ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>В рамках 14-го тура VBET Лиги киевское «Динамо» в номинально гостевом матче, проходившем на столичном стадионе имени Валерия Лобановского,&nbsp;...</p></div>
             </div>
-        </a><a href='https://fakty.ua/411111-dinamo-blagodarya-golu-cygankova-obygralo-veres-videoobzory-matchej-upl'>
+        </a><a href='https://dynamo.kiev.ua/news/425337-dinamo-planiruet-provesti-chetyire-sbora-zimoj'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>«Динамо» завдяки голу Циганкова обіграло «Верес ...</h3>
+                <h3>«Динамо» планирует провести четыре сбора зимой</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSsXSGGprYh6IDN8AtI66HKx6KZ7YVnqBHizUJ91ZrHmoZdyP7Nn8cE-p_lneUPCykpmSpnaQco" alt="«Динамо» завдяки голу Циганкова обіграло «Верес ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Диво-гол приніс «Інгульцю» перемогу над «Львовом»</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQXge08vyrrWO6XxrAl7zV8yESLIt-_9DHHZc-7PTOvJWycwYDWQ4RjRD7ymblpmOKYbZv4gH2F" alt="«Динамо» планирует провести четыре сбора зимой" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Журналист Игорь Цыганик в эфире программы «Цыганик Live» рассказал о планах «Динамо» в зимнее межсезонье. Фото: fcdynamo.com П... (22 ноября 2022 г.).</p></div>
             </div>
-        </a><a href='http://www.golos.com.ua/news/171753'>
+        </a><a href='https://prsport.net/football/dinamo-minimalno-obygralo-veres-dognav-v-turnirnoy-tablice-zaryu.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Футбол. Скромна перемога «Динамо» в гостях … на своєму полі</h3>
+                <h3>«Динамо» минимально обыграло «Верес», догнав в турнирной ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS9pNEAYVixlViwMZ6DRtvr4_hIex2se8Q3mnKXIP-05SzggutTkXJe0VdVOqiMC6ldccduAw" alt="Футбол. Скромна перемога «Динамо» в гостях … на своєму полі" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Чемпіонат УПЛ. 14-й тур. 21 листопада. «Верес» – «Динамо». 0:1. Гол: Циганков, 26. «Верес»: Когут, Гагун, Мірошник, Вовченко, Є.Пасіч, Кльоц (Курко, 85),&nbsp;...</p></div>
-            </div>
-        </a><a href='https://fakty.ua/ru/411111-dinamo-blagodarya-golu-cygankova-obygralo-veres-videoobzory-matchej-upl'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>«Динамо» благодаря голу Цыганкова обыграло «Верес ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSsXSGGprYh6IDN8AtI66HKx6KZ7YVnqBHizUJ91ZrHmoZdyP7Nn8cE-p_lneUPCykpmSpnaQco" alt="«Динамо» благодаря голу Цыганкова обыграло «Верес ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Чудо-гол принес «Ингульцу» победу над «Львовом»</p></div>
-            </div>
-        </a><a href='https://tsn.ua/prosport/supergol-cigankova-dozvoliv-dinamo-peregrati-veres-i-vpritul-pidibratisya-do-shahtarya-v-upl-video-2206441.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Супергол Циганкова дозволив &quot;Динамо&quot; переграти &quot;Верес&quot; і ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR2ing0enXurPoOT8EJxs0t8kF2CW7Mev0eNYZA8Eik3dJuYigs_YmCzof3RgDU5zklR5a6TVX4" alt="Супергол Циганкова дозволив &quot;Динамо&quot; переграти &quot;Верес&quot; і ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Київське Динамо обіграло рівненський Верес у рамках 14-го туру української Прем&#39;єр-ліги (УПЛ). Перемогу підопічним Мірчі Луческу приніс розкішний гол&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.ua-football.com/ua/ukrainian/high/1669038804-veres-dinamo-0-1-mig-bi-buti-rozgrom-ale-vistachilo-odnogo-udaru-cigankova.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Верес - Динамо 0:1. Міг би бути розгром, але вистачило одного ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSmXDr-Lc4RLnAfeU1QA2iBj9dlMjeiNKjW-YYeSzw0Nxx5zmG77H_zqwo00O2Jh5pN0hoXYHNI" alt="Верес - Динамо 0:1. Міг би бути розгром, але вистачило одного ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>21-11-2022 ✓ Прем&#39;єр-Ліга. Майже без шансів для рівненців: Хоча це був домашній матч для Вереса, однак рівненський клуб звернувся до Динамо з проханням&nbsp;...</p></div>
-            </div>
-        </a><a href='https://football24.ua/veres__dinamo_skladi_i_onlayn_translyatsiya_matchu_upl_n748182/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Верес – Динамо: склади і онлайн-трансляція матчу УПЛ ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTG3jOSlpdQY8D-nhF2rjoN5oUIIKwvjjQDss8PxIGlYCcamOgmFHmlBA8zIHCXU2wvsMu78G6M" alt="Верес – Динамо: склади і онлайн-трансляція матчу УПЛ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Динамо зустрічається з рівненським Вересом у матчі 14-го туру УПЛ. Склади і посилання на онлайн-тнансляцію – у цій новині на &quot;Футбол 24&quot;.</p></div>
-            </div>
-        </a><a href='https://sport.ua/news/604420-v-gostyah-kak-doma-dinamo-v-kieve-odolelo-veres'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>В гостях как дома. Динамо в Киеве одолело Верес</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQBwlsT6bBCufWww4Yw32VaUrKlfPkiEbCkwbLfW18C58WR-iJeMCrjOHtF4eOqEJ6nSyCycl29" alt="В гостях как дома. Динамо в Киеве одолело Верес" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Результаты матча {Верес} – {Динамо Киев} ⇒ ≺{21.11.2022}≻ ✓ {Чемпионат Украины} Счет матча ⇒ Кто выиграл ☛ Лучшие моменты матча,&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQusuGeVB2NtJ4N0X6k-5c2DIORE_qXwf7tfRZ6XqULFa40Uh_A9VrwLgG3z2nQTgwdtebrdl7I" alt="«Динамо» минимально обыграло «Верес», догнав в турнирной ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В понедельник, 21 ноября, киевский ФК «Динамо» в рамках 14 тура УПЛ провел «выездную» победную встречу против «Вереса» (0:1).</p></div>
             </div>
         </a>
         </Template></>;

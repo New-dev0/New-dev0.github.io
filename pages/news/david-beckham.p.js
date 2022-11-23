@@ -11,9 +11,16 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,David Beckham"/>
         <meta name="description" content="Trending News about David Beckham" /></Head><Template>
             <h1 style={{fontSize: "30"}}>David Beckham</h1>
-            <Image width={800} height={500} src="https://ichef.bbci.co.uk/news/1024/branded_news/17B80/production/_127725179_lycettgetty.jpg" alt="David Beckham"/>
+            <Image width={800} height={500} src="https://deadline.com/wp-content/uploads/2022/11/Joe-Lycett.jpg?w=1024" alt="David Beckham"/>
             <h3>Recent News</h3>
-            <a href='https://www.bbc.com/news/entertainment-arts-63703831'>
+            <a href='https://deadline.com/2022/11/david-beckham-joe-lycett-shredded-cash-fake-1235178473/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Comedian Joe Lycett Sets Record Straight About David Beckham ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTUo--UP_poWeaIQzB_tv9Ft9OnLguyaIoUzppvfWj6jxHRs3Fj2TnhIviu2XuZl1wTl1ETAlhk" alt="Comedian Joe Lycett Sets Record Straight About David Beckham ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Broadcaster Joe Lycett has revealed the £10000 he shredded in protest of David Beckham&#39;s ambassador role at the Qatari World Cup was not real cash.</p></div>
+            </div>
+        </a><a href='https://www.bbc.com/news/entertainment-arts-63703831'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Joe Lycett did not shred £10k in David Beckham Qatar protest</h3>
                 <div style={{ display: "flex" }}>
@@ -27,33 +34,26 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSiSUQes52PmYT2ZS_3gCdytm0fDvnWgKTwiHZY3ac_5dURdGYMHnt4nSPgtpi0zymEydsWY4NX" alt="UK comedian destroys $11900 after this FIFA WC challenge to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>FIFA World Cup: David Beckham, who played for Manchester United and Real Madrid midfielder, is working for Qatar, which has been criticised for human rights&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.cnn.com/2022/11/21/football/joe-lycett-david-beckham-qatar-world-cup-spt-intl/index.html'>
+        </a><a href='https://metro.co.uk/2022/11/22/joe-lycett-reveals-lgbt-charities-he-donated-10k-to-in-david-beckham-stunt-17808669/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>British comedian Joe Lycett did not shred $11000 over David ...</h3>
+                <h3>Joe Lycett reveals LGBT charities he donated £10k to in David ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSnpNPj70Ud1-9UkFHLlSB72UuY5f0cVIiNcPJ9Yq_Zx8OgPcIa3iw5EEL8yLVU5rAVe0vRo31U" alt="British comedian Joe Lycett did not shred $11000 over David ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Lycett had called on English football icon David Beckham to step down from being an ambassador for Qatar during the World Cup due to the country&#39;s human rights&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRlliD9EDxzLiPuTzPtfRH9MGwwe0mMDx0HiJKHoylIV3uJzb-HGcWUFb3thNA_EbdGfPN8sI4F" alt="Joe Lycett reveals LGBT charities he donated £10k to in David ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The comic announced this week that his stunt was fake, pointing out that it got people talking. He said on Monday: &#39;This is my final message to David Beckham,&nbsp;...</p></div>
             </div>
-        </a><a href='https://fortune.com/2022/11/21/comedian-joe-lycett-condemns-david-beckham-multimillion-deal-ambassador-qatar-world-cup-fake-stunt-shredding-12000-money/'>
+        </a><a href='https://theathletic.com/2976035/2022/11/22/explained-david-beckham-ambassador-for-qatar/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Comedian condemns David Beckham&#39;s multimillion-dollar deal to be ...</h3>
+                <h3>Explained: David Beckham, ambassador for Qatar</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS1qeudBa16-Jf4SNjpB3LjlIloBuZVculI76QjaRscwRhzeDFNt-mhUuvqjJ1g7L_rvq-fCZUU" alt="Comedian condemns David Beckham&#39;s multimillion-dollar deal to be ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>British Comedian Joe Lycett appeared to have shredded almost $12,000 (£10,000) of his own money in protest of world-famous former soccer player David&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTSH30SLML0l_kz6Vg1u1qoPbMVmhnk9_TeOSTb_iAcopoLLgEZuwSWAWCPufxuTfUyDGru-WiH" alt="Explained: David Beckham, ambassador for Qatar" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>He was there as part of his role as ambassador for the host nation, designed initially to promote and polish the image of the 2022 World Cup, but later to sell&nbsp;...</p></div>
             </div>
-        </a><a href='https://deadline.com/2022/11/david-beckham-joe-lycett-shredded-cash-fake-1235178473/'>
+        </a><a href='https://www.dailymail.co.uk/news/article-11456649/Attitude-publisher-REMOVES-David-Beckhams-cover-office-protest-10m-Qatar-deal.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Comedian Joe Lycett Sets Record Straight About David Beckham ...</h3>
+                <h3>Attitude publisher removes David Beckham&#39;s cover from office after ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTUo--UP_poWeaIQzB_tv9Ft9OnLguyaIoUzppvfWj6jxHRs3Fj2TnhIviu2XuZl1wTl1ETAlhk" alt="Comedian Joe Lycett Sets Record Straight About David Beckham ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Broadcaster Joe Lycett has revealed the £10000 he shredded in protest of David Beckham&#39;s ambassador role at the Qatari World Cup was not real cash.</p></div>
-            </div>
-        </a><a href='https://www.sbs.com.au/news/article/comedian-joe-lycett-shreds-17-000-in-protest-against-david-beckhams-qatar-world-cup-partnership/6n9u87zb1'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Comedian Joe Lycett &#39;shreds&#39; $17000 in protest against David ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSzj4bJFn33IB8vdlY_Qr8v3YjYbA35EiMFvJ2MVrTWOHDWl8nhSBuCBciIvdw0-o2HiTXwjNXR" alt="Comedian Joe Lycett &#39;shreds&#39; $17000 in protest against David ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Last week, the English comedian publicly urged Beckham to end his promotional partnership with the country over its treatment of LGBTIQ+ people.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT0GhTgDmB1wk1UrpCLg2a_co1Q6OSERkHpDT66VLScNApabiyVp-VI8zbPOKf8lNimEQGQr6zJ" alt="Attitude publisher removes David Beckham&#39;s cover from office after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Darren Styles OBE, owner of the gay lifestyle magazine, has tweeted its 2002 cover showing the former England captain with dyed blonde hair.</p></div>
             </div>
         </a>
         </Template></>;

@@ -11,49 +11,42 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Argentina vs Saudi Arabia"/>
         <meta name="description" content="Trending News about Argentina vs Saudi Arabia" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Argentina vs Saudi Arabia</h1>
-            <Image width={800} height={500} src="https://www.sportsmole.co.uk//b.smimg.net/22/47/argsau.jpg" alt="Argentina vs Saudi Arabia"/>
+            <Image width={800} height={500} src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt881b2d810c47f23e/6377fb2e678f637cf694ab14/MP_Lionel_Messi_Argentina_vs_Saud_Abulhamid_Saudi_Arabia.jpg" alt="Argentina vs Saudi Arabia"/>
             <h3>Recent News</h3>
-            <a href='https://www.sportsmole.co.uk/football/argentina/world-cup-2022/feature/world-cup-2022-argentina-vs-saudi-arabia-head-to-head-record_500256.html'>
+            <a href='https://www.goal.com/en/news/argentina-vs-saudi-arabia-lineups-and-live-updates/blte2f2519482f4f7ca'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022: Argentina vs. Saudi Arabia head-to-head record</h3>
+                <h3>Argentina vs Saudi Arabia: Lineups and LIVE updates</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQPn7u3EKnxuwzysjKK44989IB9BLUl-yk5T1CHvyZaTNeyDJk9_6JwOi4ywP8dnzM7b3kdcA1E" alt="World Cup 2022: Argentina vs. Saudi Arabia head-to-head record" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ahead of Tuesday&#39;s World Cup clash between Argentina and Saudi Arabia, Sports Mole looks at the head-to-head record between the two sides.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSS3_sOFx1WK257pLnVf4mfv249cqNyI7nd96zXnROR9YAgbPQtWwX2IzjGHiqlPVFB8ac5Ckg8" alt="Argentina vs Saudi Arabia: Lineups and LIVE updates" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The 2014 FIFA World Cup&#39;s runner-up begin their campaign today against Saudi Arabia at the Lusail Stadium. Argentina come into this game having not lost a&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.goal.com/en/news/argentina-vs-saudi-arabia-live-stream-tv-channel-kick-off-time-and-where-to-watch/blt21bf39b9e90b9f83'>
+        </a><a href='https://www.espn.com/soccer/report/_/gameId/633794'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Argentina vs Saudi Arabia: Live stream, TV channel, kick-off time ...</h3>
+                <h3>Argentina vs. Saudi Arabia - Football Match Report - November 22 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSS3_sOFx1WK257pLnVf4mfv249cqNyI7nd96zXnROR9YAgbPQtWwX2IzjGHiqlPVFB8ac5Ckg8" alt="Argentina vs Saudi Arabia: Live stream, TV channel, kick-off time ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>How to watch Argentina vs Saudi Arabia World Cup game, including kick-off time &amp; team news.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTeYm0UgBlv7QZyXgVtdsDylWi3BRKuxtwii45eF6dcOA2aAEiImjEVR9cubLlhWwDTfvJORLZg" alt="Argentina vs. Saudi Arabia - Football Match Report - November 22 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Get a report of the Argentina vs. Saudi Arabia 2022 FIFA World Cup, Group Stage football match.</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-us/news/argentina-vs-saudi-arabia-predictions-tips-and-betting-odds/blt4c9fd6d48e542bd2'>
+        </a><a href='https://www.bbc.com/pidgin/sport-63714777'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Argentina vs Saudi Arabia: Predictions, tips &amp; betting odds</h3>
+                <h3>Argentina vs Saudi Arabia highlight: Lionel Messi, Di Maria skill no ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRU4YxP1DOVsUvYUc_YtpYpXcc_UFkmo1vPrn5mrV6xXWBhkx1f6AqsiTPZX5Vwgnf88lrlXYiw" alt="Argentina vs Saudi Arabia: Predictions, tips &amp; betting odds" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The champions of South America should have no problems when they come up against one of the lowest ranked teams in the competition.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQd0eP0uHx3GbNJZmJSEqaTPQQlD1nzYLTs164m3ekXWNKOmfGUy1hGcUq8xsgMmeJbfdQWNVxl5g" alt="Argentina vs Saudi Arabia highlight: Lionel Messi, Di Maria skill no ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Saudi Arabia dey lead 2-1 wit gaols from Al Shehri and Al Dawsari. Dia goals come after dem dey one nil behind for first half courtesy of Lionel Messi&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sportingnews.com/au/soccer/news/argentina-vs-saudi-arabia-lineup-starting-11-world-cup-2022/rtri4txhsilcivhnlxkzpset'>
+        </a><a href='https://www.sportingnews.com/au/soccer/news/argentina-vs-saudi-arabia-world-cup-live-score-result/guldh6njdecvphcvfjki22ze'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Argentina vs Saudi Arabia World Cup lineup, starting 11 for Group C ...</h3>
+                <h3>Argentina vs. Saudi Arabia final score, result: Green Falcons stun ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcThIeKqdtxkQUsfeO_3Xg66kfSe_tP7CCUxE08lLKOQ8iyNkCuW0niE1M07hGXfWqPlTR9dT4IC" alt="Argentina vs Saudi Arabia World Cup lineup, starting 11 for Group C ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>It&#39;s time for Lionel Messi to begin his final shot at World Cup glory. How will Argentina and Saudi Arabia line up?</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSi6j0t64z4noX-jpKFWV4NQwyMA8E92s80Qv7zdK6H-n9kl4ozpiuKw7LqOyooL9JZsdQglSrc" alt="Argentina vs. Saudi Arabia final score, result: Green Falcons stun ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Argentina were expected to start their 2022 World Cup campaign with a comfortable win over Saudi Arabia. It didn&#39;t quite work out like that.</p></div>
             </div>
-        </a><a href='https://en.as.com/soccer/argentina-vs-saudi-arabia-odds-and-predictions-who-is-the-favorite-in-messis-debut-in-the-2022-world-cup-n/'>
+        </a><a href='https://en.as.com/soccer/argentina-saudi-arabia-live-online-score-stats-and-updates-world-cup-2022-n/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Argentina vs Saudi Arabia odds and predictions: Who is the favorite ...</h3>
+                <h3>Argentina vs Saudi Arabia summary: 1-2, goals, highlights, Al ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRp1ZpxeX8sW611RXdA_wCV5PWR8zRDwE97NEcbE9xqZ5wutJfDpiVzLi2d5JVp_0E1wvllvWVR" alt="Argentina vs Saudi Arabia odds and predictions: Who is the favorite ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Argentina take on Saudi Arabia in what could be, Qatar - Netherlands notwithstanding, the most one-sided group game of the 2022 World Cup.</p></div>
-            </div>
-        </a><a href='https://www.sportingnews.com/ca/soccer/news/argentina-vs-saudi-arabia-time-schedule-world-cup/urjcqqoubtfg1snhol39n4q5'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>What time is Argentina vs Saudi Arabia today? TV schedule ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSzKx90MLP4lNvERmeS9Z4Vs8dmYwwetqIIHDdMx1gmNrMZOGlKYVhe3GsPZMwjV0s483alNbwa" alt="What time is Argentina vs Saudi Arabia today? TV schedule ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Lionel Messi will begin his final tilt at World Cup glory when Argentina take on Saudi Arabia on Tuesday. Here&#39;s how you can watch all the action.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRcVYqOcQLhI2mbkfyMCQvSM6kL4jxvqn2CtMXKJg5bK30omI7Xe5vqjJ7Q5CH5TcLWKFSdZwNu" alt="Argentina vs Saudi Arabia summary: 1-2, goals, highlights, Al ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Saudi Arabia stunning Argentina with goals from Al Shehri and Salem Al-Dawsari, Messi got the opener in the Group C game.</p></div>
             </div>
         </a>
         </Template></>;

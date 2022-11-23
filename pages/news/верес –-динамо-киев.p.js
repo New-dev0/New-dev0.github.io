@@ -27,6 +27,13 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQJ15J8c86L7DkP1AVt1fwfQFSHuT_CoaVb_kUhTrpScKR-_96wlzy-nIyABvOt8tDT9zoislpS" alt="Верес – Динамо прямая трансляция матча Setanta" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>В понедельник, 21 ноября, матч 14-го тура чемпионата Украины Верес – Динамо Киев онлайн видеотрансляцию можно посмотреть телеканале Setanta Sports. Также матч&nbsp;...</p></div>
             </div>
+        </a><a href='https://dynamo.kiev.ua/news/425357-bolelschiki-nazvali-viktora-tsyigankova-luchshim-igrokom-matcha-veres--dinamo'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Болельщики назвали Виктора Цыганкова лучшим игроком матча ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ0PEGIAQi2KsJPfvPeVO0Z2krxZpNAwebuw5OfDUp9YZlW5KyUXxwPSWR3t6jNtuC0bSd3VPln" alt="Болельщики назвали Виктора Цыганкова лучшим игроком матча ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Полузащитник киевского «Динамо» Виктор Цыганков признан посетителями Dynamo.kiev.ua лучшим игроком в составе команды Мирчи Луческу... (22 ноября 2022 г.).</p></div>
+            </div>
         </a><a href='https://terrikon.com/posts/420554'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Верес - Динамо: смотреть онлайн видеотрансляцию матча УПЛ</h3>
@@ -40,13 +47,6 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQJ04mpUXF3oUOZAkGmOQ_ku_a2BBCmtuyPnie9Xy1OwLa7fM0zyhuJFUP3RBdXJkZQm-B4EP9w" alt="&quot;Динамо&quot; минимально обыграло &quot;Верес&quot; и сохранило позиции в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Победой киевского &quot;Динамо&quot; в непростых погодных условиях завершилась встреча 14-го тура отечественной Премьер-лиги против ровненского &quot;Вереса&quot;.</p></div>
-            </div>
-        </a><a href='https://dynamo.kiev.ua/news/424914-14-j-tur-chempionata-ukrainyi-veres--dinamo--01-obzor-matcha-statistika'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>14-й тур чемпионата Украины. «Верес» — «Динамо» — 0:1 ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRPVRp-Zo-167-hk3STkxq-29mNzXNwUqvIklII6RXvLJTaPaPJvubJtYco7cTdn_r_dOLwE3SF" alt="14-й тур чемпионата Украины. «Верес» — «Динамо» — 0:1 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В этот уик-энд состоялись матчи 14-го тура чемпионата Украины. В одном из них в понедельник, 21 ноября, встречались ровенский «Вер... (21 ноября 2022 г.).</p></div>
             </div>
         </a><a href='https://fakty.ua/ru/411111-dinamo-blagodarya-golu-cygankova-obygralo-veres-videoobzory-matchej-upl'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

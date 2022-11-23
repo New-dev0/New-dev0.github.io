@@ -20,6 +20,13 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTcbRBH4dXkbEQ0Yq_bobjoKGXKfsk-gzuSpsZBaqvQ2VTONyuOFGkYfOa1WB6BXDvudGV4W_F3" alt="Умер кумир поколения. Актёр из «Могучих рейнджеров» был ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Уроженец Калифорнии снялся во множестве фильмов и сериалов, но большинство из них были связаны только с одной франшизой — «Могучие рейнджеры». Данный&nbsp;...</p></div>
             </div>
+        </a><a href='https://korrespondent.net/lifestyle/4537389-umer-zvezda-mohuchykh-reindzherov-dzheison-devyd-frenk'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Умер звезда Могучих рейнджеров Джейсон Дэвид Фрэнк</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSDi3XaBtqhJJzb4aO3ajdczOTxEy8US5q6gzKWTZoW1jI-5boZRvoVNVQ_rzdBzKWnBtmaabfC" alt="Умер звезда Могучих рейнджеров Джейсон Дэвид Фрэнк" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Знаменитость скончался в результате самоубийства. Ему было 49 лет. Причина поступка неизвестна.</p></div>
+            </div>
         </a><a href='https://daily.afisha.ru/news/70266-akter-dzheyson-devid-frenk-pokonchil-s-soboy-v-vozraste-49-let-on-snimalsya-v-moguchih-reyndzherah/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Актер Джейсон Дэвид Фрэнк покончил с собой в возрасте 49 лет ...</h3>
@@ -54,13 +61,6 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQfSZ0rS34i4EDEzqCeRdU3uEzl8ffCqxHEs_1kpNxTlobEvq0x1ik22-qiq8JANAsekUCZPQXV" alt="Скончался актёр Джейсон Дэвид Фрэнк, сыгравший одного из ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Скончался актёр и боец смешанных единоборств Джейсон Дэвид Фрэнк, который сыграл одного из «могучих рейнджеров» в одноимённом сериале. Об этом пишет Film.ru&nbsp;...</p></div>
-            </div>
-        </a><a href='https://life.nv.ua/znamenitosti/umer-zvezda-moguchih-reyndzherov-dzheyson-devid-frenk-pokonchil-s-soboy-50285666.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Предположительно, покончил с собой. Умер звезда Могучих ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSEvK6G48Wt48SvrE2Cl5eC18zXzyGVADKdCU9Iz-N3khGVpyVhCbAPfkDR-oIH40G3Qal3TNsF" alt="Предположительно, покончил с собой. Умер звезда Могучих ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Умер американский актер и боец смешанных единоборств Джейсон Дэвид Фрэнк. Ему было 49 лет.</p></div>
             </div>
         </a>
         </Template></>;

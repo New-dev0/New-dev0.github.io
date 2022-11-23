@@ -20,6 +20,13 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTvfZyyqpiwS9he3Lhmad-BM7cYcTd5ZNf73nVFQfbG-DEaWFA_vFdgp0E-FWIiuvv2jGZK9t4G" alt="Из Германии депортировали россиянку, оскорблявшую ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Юлия Прохорова «прославилась» тем, что 9 мая в Мюнхене станцевала «Калинку» и провоцировала украинцев в Германии. По данным журналистов,&nbsp;...</p></div>
             </div>
+        </a><a href='https://nv.ua/world/countries/rossiyskuyu-provokatorshu-yuliyu-prohorovu-deportirovali-iz-germanii-video-novosti-rossii-50285491.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Россиянку Прохорову, оскорблявшую украинских беженцев ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRRoSPR_ohh-dzMnQTmtfhUwRi4aRwweOHToRzBa-RoxxP8G2KV_ixDyovd_0uK3CMmvgGM6wv0" alt="Россиянку Прохорову, оскорблявшую украинских беженцев ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Прокремлевская провокаторша, занимавшаяся ранее предоставлением интим-услуг, оскорбляла украинских беженцев.</p></div>
+            </div>
         </a><a href='https://telegraf.com.ua/novosti-rossii/2022-11-21/5723532-blizhche-do-bolot-rosiyanku-shcho-obrazhala-ukrainok-vidvorili-z-es-video'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Поближе к болотам: оскорблявшую украинок россиянку ...</h3>
@@ -34,20 +41,6 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcStp1dT1_7DS68i8BBvmRp1obqdbR67eNFpxcCQbyhetXzgMgrRZjcN4DE7-uVYMNAVNoXoLCTY" alt="Власти Германии выслали из страны россиянку, станцевавшую ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Предположительно, Прохорову посадили на рейс до Стамбула. Как сообщало EADaily, после танца «Калинка», который сплясала Юлия Прохорова перед толпой украинских&nbsp;...</p></div>
             </div>
-        </a><a href='https://nv.ua/world/countries/rossiyskuyu-provokatorshu-yuliyu-prohorovu-deportirovali-iz-germanii-video-novosti-rossii-50285491.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Россиянку Прохорову, оскорблявшую украинских беженцев ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRRoSPR_ohh-dzMnQTmtfhUwRi4aRwweOHToRzBa-RoxxP8G2KV_ixDyovd_0uK3CMmvgGM6wv0" alt="Россиянку Прохорову, оскорблявшую украинских беженцев ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Прокремлевская провокаторша, занимавшаяся ранее предоставлением интим-услуг, оскорбляла украинских беженцев.</p></div>
-            </div>
-        </a><a href='https://www.rbc.ua/ukr/styler/uslid-rosiyskii-korablem-putinistku-ka-napadala-1669021846.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Известную блогершу, которая нападала на украинок в Германии ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQQ0Uq-oggdgRT7XzbC4DdI8tJ_bXeOhnvhGCcdmerOFz5g7kpDcMxmrvKdtU7UAW3t8ur9q3ct" alt="Известную блогершу, которая нападала на украинок в Германии ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Поклонницу Путина Юлию Прохорову депортировали из Германии. Женщина систематически нападала на украинских беженцев, выкрикивала пропагандистские лозунги и&nbsp;...</p></div>
-            </div>
         </a><a href='https://www.delfi.lt/ru/abroad/global/pohozhuyu-na-yuliyu-prohorovu-passazhirku-oskorblyavshuyu-ukrainskih-bezhencev-deportirovali-iz-germanii.d?id=91803459'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Похожую на Юлию Прохорову пассажирку, оскорблявшую ...</h3>
@@ -61,6 +54,13 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQEw-BIfAu1UZf9zMKSFOlAteRqVNV25oHtDju8eLuKTg9d04HZrmmzEhH7-m8swrvU-Ai2gaHl" alt="Юлию Прохорову якобы депортировали из Германии. На видео ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Оригинальные кадры опубликовали журналисты издания The Insider (СМИ-иноагент в РФ). Ранее Medialeaks рассказал, как сервис Booking.com отменил бронь Прохоровой&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.rbc.ua/ukr/styler/uslid-rosiyskii-korablem-putinistku-ka-napadala-1669021846.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Известную блогершу, которая нападала на украинок в Германии ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQQ0Uq-oggdgRT7XzbC4DdI8tJ_bXeOhnvhGCcdmerOFz5g7kpDcMxmrvKdtU7UAW3t8ur9q3ct" alt="Известную блогершу, которая нападала на украинок в Германии ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Поклонницу Путина Юлию Прохорову депортировали из Германии. Женщина систематически нападала на украинских беженцев, выкрикивала пропагандистские лозунги и&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
