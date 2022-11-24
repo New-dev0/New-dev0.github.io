@@ -11,70 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Portugal"/>
         <meta name="description" content="Trending News about Portugal" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Portugal</h1>
-            <Image width={800} height={500} src="https://socientifica.com.br/wp-content/uploads/2022/11/ex-colonias-de-Portugal.jpg" alt="Portugal"/>
+            <Image width={800} height={500} src="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1123%2Fr1095421_1296x729_16%2D9.jpg" alt="Portugal"/>
             <h3>Recent News</h3>
-            <a href='https://socientifica.com.br/as-5-ex-colonias-de-portugal/'>
+            <a href='https://www.espn.com/soccer/fifa-world-cup/story/4808571/cristiano-ronaldo-circus-engulfs-portugal-after-man-united-exit-but-will-it-impact-world-cup-hopes'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>As 5 ex-colônias de Portugal</h3>
+                <h3>Cristiano Ronaldo&#39;s Man United exit circus engulfs Portugal</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRfR0Nstd42bPGiZqKHTEWyGBFW0QIpYEpJCiUOOOd5UGwhF4--X5LXb395qw_ulN_tBPSwRNcn" alt="As 5 ex-colônias de Portugal" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Além disso, as práticas realizadas nesse ciclo influenciaram a cultura europeia e ajudaram na introdução do colonialismo em todo o mundo, representando o início&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSGdmAEUmm01ok9b6GYT48WMgVFIjSnPlZGibM8oM7GkOy1wogyVWvJS42yhz6WhewyYUIJ_EXA" alt="Cristiano Ronaldo&#39;s Man United exit circus engulfs Portugal" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>AL SHAHANIYA, Qatar -- Portugal midfielder Bernardo Silva tried his best to say all the right things. Speaking at Portugal&#39;s first news conference since&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.correiobraziliense.com.br/opiniao/2022/11/5053417-artigo-um-grande-portugal.html'>
+        </a><a href='https://www.theguardian.com/football/2022/nov/23/portugal-ronaldo-switch-focus-ghana-world-cup-group-h'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Artigo: Um grande Portugal</h3>
+                <h3>Portugal try to put Ronaldo to one side and switch focus on to Ghana</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSvpVuTkbfxUDzwWl8TFZQfzbCVop0FRRanNd6WPKGApbifNSwNl76lY61fH-h28FVjLgpJGj6W" alt="Artigo: Um grande Portugal" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ANDRÉ GUSTAVO STUMPF - Jornalista (andregustavo10@terra.com.br). Há 12 anos, quando o então presidente Lula entregou a faixa presidencial para sua aliada Dilma&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSTyaDLFYYbEynqjFynsb4heiVn8hTkPp0485ZFgv2JgKyw3aPVm3X2vlzcKigXwawGkNV2EF3o" alt="Portugal try to put Ronaldo to one side and switch focus on to Ghana" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Fernando Santos, Portugal&#39;s coach, says the squad are as integrated as they have been in years despite the enduring soap opera.</p></div>
             </div>
-        </a><a href='https://ge.globo.com/futebol/selecoes/portugal/noticia/2022/11/22/zagueiro-de-portugal-comenta-possivel-duelo-com-o-brasil-se-acontecer-estamos-preparados.ghtml'>
+        </a><a href='https://www.goal.com/en-in/news/portugal-vs-ghana-predictions-tips-and-betting-odds/bltfad0c4811a5d7ec0'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Zagueiro de Portugal comenta possível duelo com o Brasil: &quot;Se ...</h3>
+                <h3>Portugal vs Ghana: Predictions, tips &amp; betting odds</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQONdUBJLiDMl3QQrr3auL-pI__2BdpR0VmXYdSXUfnkFOoMzi0agWP-z4-lwWpiq87rdy2YxS2" alt="Zagueiro de Portugal comenta possível duelo com o Brasil: &quot;Se ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Rúben Dias comenta chance de encontrar a seleção brasileira já nas oitavas de final e volta a dizer que tema Cristiano Ronaldo está encerrado no time&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSpSs7TyaHWntYo7dRab6UNbkx0zJFARmkbn8stao6DEbfoJDchcb9Zd6IhLE-cWSnFP8wM_ByG" alt="Portugal vs Ghana: Predictions, tips &amp; betting odds" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Iberian nation boast some exceptional players yet with a negative coach they might fail to rack up the goals in their opening game.</p></div>
             </div>
-        </a><a href='https://www.lance.com.br/copa-do-mundo/portugal/rivais-na-estreia-da-copa-portugal-tem-selecao-quatro-vezes-mais-valiosa-do-que-gana.html'>
+        </a><a href='https://www.dailymail.co.uk/sport/football/article-11460865/Cristiano-Ronaldo-skip-Portugals-final-press-conference.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Rivais na estreia da Copa, Portugal tem seleção quatro vezes mais ...</h3>
+                <h3>Cristiano Ronaldo to skip Portugal&#39;s final press conference before ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSonmDek-I4K-IFmPQ4ckkyLivMudh8DkHpK_M0V4aKQEBbvHXYlPDTXLqx_Mc89zl1jvceKBOC" alt="Rivais na estreia da Copa, Portugal tem seleção quatro vezes mais ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Com uma de suas melhores gerações, Portugal vai para o Qatar com a esperança de conquistar o inédito título da Copa do Mundo. A seleção portuguesa é a&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRBtCesRuk1bpFF092MaKZOzt3ahf4M3NymV16zwqq_6V0xgflCpioZvVSg-b6Xc-srCPPLBeIu" alt="Cristiano Ronaldo to skip Portugal&#39;s final press conference before ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ronaldo would normally be expected to take his place alongside manager Fernando Santos to take questions from the media, but it is understood that he will&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.uol.com.br/esporte/futebol/ultimas-noticias/gazeta-esportiva/2022/11/22/zagueiro-de-portugal-minimiza-possivel-encontro-com-brasil-nao-ha-o-que-pensar.htm'>
+        </a><a href='https://khelnow.com/football/2022-11-world-football-fifa-world-cup-2022-portugal-vs-ghana-predicted-lineup-injury-news'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Zagueiro de Portugal minimiza possível encontro com Brasil na ...</h3>
+                <h3>Portugal vs Ghana: Predicted lineup, injury news, head-to-head</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSIlctaUB-GVD1i033wWbTlJ5PaLzvOdhPulnYxZsDzUQs8A_RiUup9_j_lkUH5YZtMEMpTO_YM" alt="Zagueiro de Portugal minimiza possível encontro com Brasil na ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Um encontro precoce entre brasileiros e portugueses acontecerá no primeiro confronto eliminatório caso uma das equipes lidere seu grupo na primeira fase e a&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR9UsqpLzrZvOSQrX-ukW2RWgyLq4GY99ZoQxTK4GzRcGfLKL1meQueX2sOWjgDWk_SCjgDyQOO" alt="Portugal vs Ghana: Predicted lineup, injury news, head-to-head" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Portugal&#39;s first FIFA World Cup 2022 game will begin against young and exciting Ghana at Stadium 974 on Thursday.</p></div>
             </div>
-        </a><a href='https://www.gazetaesportiva.com/times/portugal/ruben-dias-diz-que-portugal-deve-pensar-na-copa-e-nao-em-cristiano-ronaldo/'>
+        </a><a href='https://www.sportsmole.co.uk/football/portugal/world-cup-2022/feature/world-cup-2022-portugal-vs-ghana-head-to-head-record_500407.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ruben Dias diz que Portugal deve &quot;pensar na Copa e não em ...</h3>
+                <h3>World Cup 2022: Portugal vs. Ghana head-to-head record</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQX9zSS9f-l2SdgJHeOBLrvUOyPz-79FP2CdiYmLU-nFX_QZhgtT04egzGDCLS_pPHeYHgibLET" alt="Ruben Dias diz que Portugal deve &quot;pensar na Copa e não em ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>O zagueiro Ruben Dias, da seleção de Portugal, declarou nesta terça-feira, dois dias antes da estreia de sua equipe na Copa do Mundo contra Gana, que é.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQj8JVQ4H7jB3N06ZWLPxZEOd9tHKgSsFlXt5A2uYij9AjIbi-p9Pxn-v7Oy4Gs1JiHEZyX5UNF" alt="World Cup 2022: Portugal vs. Ghana head-to-head record" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ahead of Thursday&#39;s World Cup clash between Portugal and Ghana, Sports Mole looks back at the previous meeting between the two sides.</p></div>
             </div>
-        </a><a href='https://noticias.uol.com.br/ultimas-noticias/rfi/2022/11/22/a-ambicao-cautelosa-de-portugal-para-ganhar-a-copa-do-mundo.htm'>
+        </a><a href='https://www.bloomberg.com/news/articles/2022-11-23/ronaldo-out-to-impress-in-portugal-s-first-game-at-world-cup'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>A ambição cautelosa de Portugal para ganhar a Copa do Mundo</h3>
+                <h3>Ronaldo Out to Impress in Portugal&#39;s First Game At World Cup</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="A ambição cautelosa de Portugal para ganhar a Copa do Mundo" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Antes da sessão de treinos de Portugal, no Centro Al Shahaniya distante 30 km de Doha, o zagueiro Rúben Diaz mostrou mais uma vez o clima de confiança da equipe&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR1etBteUx2qtLFwm-2kpVosIoS2bZ7IrXkQX3KArxrsMPOWWj_i5JzL3mdNOY8iKfVVAckensA" alt="Ronaldo Out to Impress in Portugal&#39;s First Game At World Cup" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Doha, Qatar (AP) -- Cristiano Ronaldo is in the shop window as he starts his fifth and probably final World Cup with Portugal.</p></div>
             </div>
-        </a><a href='https://www.terra.com.br/esportes/zagueiro-de-portugal-nao-se-assusta-com-possivel-encontro-com-o-brasil-na-copa-do-mundo,a7df7cc85d9a32d492bba8f23c2430f83s94st6k.html'>
+        </a><a href='https://en.as.com/soccer/portugal-possible-starting-lineup-for-game-1-of-the-group-stage-vs-ghana-n/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Zagueiro de Portugal &#39;não se assusta&#39; com possível encontro com o ...</h3>
+                <h3>Portugal possible starting lineup for game 1 of the group stage vs ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQW2jy_qbQzPNDU8ZcLbiZ4DPz10JYy530xK6nPqX4ZIxOGrTx9sJxqljSGNLv0fvidArK7WSoM" alt="Zagueiro de Portugal &#39;não se assusta&#39; com possível encontro com o ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A estreia da seleção de Portugal na Copa do Mundo do Qatar acontecerá nesta quinta-feira, diante de Gana, às 13h (de Brasília).</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTIhszF-MPeCKz3fvQmnBRA3XH-8eLgg4m7vPyg6UFweKVAo3UriZRP8UJnNqxWs-J8CaayeVNE" alt="Portugal possible starting lineup for game 1 of the group stage vs ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cristiano Ronaldo headlines the Portuguese team as they face Ghana in game 1 of their campaign to raise the trophy at the 2022 FIFA World Cup in Qatar.</p></div>
             </div>
-        </a><a href='https://www.acorianooriental.pt/noticia/beto-ve-capacidade-e-talento-em-portugal-para-bater-gana-344848'>
+        </a><a href='https://www.goal.com/en-ng/lists/2022-world-cup-ghana-s-predicted-xi-to-face-cristiano-ronaldo-s-portugal/blt5d62b256a074675d'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Beto vê capacidade e talento em Portugal para bater Gana</h3>
+                <h3>2022 World Cup: Ghana&#39;s predicted XI to face Cristiano Ronaldo&#39;s ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQpcjL34t8tdFHIgu76eozM6PHcqKVO9o7ZkmC9za_S11-rHEvIB3TsOFXmfUYW9E96I1wD8lWN" alt="Beto vê capacidade e talento em Portugal para bater Gana" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Acima de tudo, e na teoria, Portugal tem uma seleção e jogadores de nível superior. Por isso, temos tudo para fazer um grande jogo e começar muito bem”, avaliou&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSlhtTjy0BilYH6XseFZI71l5D025pi3ipbXN4KExS2Dmdbq2sh8H29si__VO_ebVICWD8TZ7-e" alt="2022 World Cup: Ghana&#39;s predicted XI to face Cristiano Ronaldo&#39;s ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>GOAL predicts Ghana&#39;s starting line-up as the Black Stars take aim at the Portugal in a 2022 World Cup match on Thursday.</p></div>
+            </div>
+        </a><a href='https://soccernet.ng/2022/11/after-missing-portugal-friendly-super-eagles-star-gets-return-date-from-hamstring-injury.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>After missing Portugal friendly, Super Eagles star gets return date ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTiUyou-bglFVNA3BEKqURe3RXBfgiot65U_GMqXx7lLw6E5U-hXX2yRs1YjWfr8bJmQ_Wzrmnu" alt="After missing Portugal friendly, Super Eagles star gets return date ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Nigeria international has missed recent games for club and country due to an injury. Super Eagles defender Ola Aina is a few days from returning to&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

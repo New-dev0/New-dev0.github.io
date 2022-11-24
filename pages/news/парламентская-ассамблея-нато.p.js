@@ -17,7 +17,7 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Парламентская ассамблея НАТО призвала объявить Россию ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR3TFZSkW_BbI_DXRiw2R1xIUM06ySXfVVsLYnkUntCqT9mpaWUuIpy0hoqfMnOh119RaZ1HFI-" alt="Парламентская ассамблея НАТО призвала объявить Россию ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTEMLDVbavrFww0cIQedZWHtUsu0ocGr7Xg0L0t5uquEmguBVoJ4xMjNaIUHfRQog-xOJLaLWnZ" alt="Парламентская ассамблея НАТО призвала объявить Россию ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Парламентская ассамблея НАТО призвала правительства и парламенты стран — членов альянса официально заявить, что «российское государство при нынешнем режиме&nbsp;...</p></div>
             </div>
         </a><a href='https://www.kommersant.ru/doc/5680163'>

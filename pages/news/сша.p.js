@@ -11,77 +11,70 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,США"/>
         <meta name="description" content="Trending News about США" /></Head><Template>
             <h1 style={{fontSize: "30"}}>США</h1>
-            <Image width={800} height={500} src="https://iv.kommersant.ru/SocialPics/5680801_26_2296917_2085538227" alt="США"/>
+            <Image width={800} height={500} src="http://www.aex.ru/images/media/600/14478.jpg" alt="США"/>
             <h3>Recent News</h3>
-            <a href='https://www.kommersant.ru/doc/5680801'>
+            <a href='https://www.aex.ru/news/2022/11/23/250455/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>США выделили Украине $4,5 млрд прямой финансовой помощи</h3>
+                <h3>В США в День благодарения авиаперевозки могут достичь ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQcXAKdT-eEz0d-LjBPepg_uyk2qohREDq72Mt4tAdS9ntpwbYCpKKIxA5BmVjlgksYxRo47Wpg" alt="США выделили Украине $4,5 млрд прямой финансовой помощи" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Министерство финансов США согласовало выделение бюджетной помощи для Украины на общую сумму в $4,5 млрд. Глава ведомства Джанет Йеллен пояснила,&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRmd5UzrYT6qgZ9q2H25k7XyjeJ9BjNAoulGKV53k5mJGJHbkphwCnXZjgrqlYzXGue__rq8sgx" alt="В США в День благодарения авиаперевозки могут достичь ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>23 ноября 2022 г., AEX.RU – Американские авиакомпании приготовились к наплыву пассажиров в День благодарения 24 ноября, ожидая, что число туристов достигнет&nbsp;...</p></div>
             </div>
-        </a><a href='https://ura.news/news/1052605174'>
+        </a><a href='https://www.rubaltic.ru/article/politika-i-obshchestvo/20221123-razborki-marionetok-ukraine-i-tayvanyu-pridetsya-borotsya-za-blagosklonnost-ssha/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Минфин США разрешил ряду стран покупать нефть у России</h3>
+                <h3>Разборки марионеток: Украине и Тайваню придется бороться за ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTkxXHd3Ke4rLoJUBZ1QXtY-2grshGINSV1ukgS56HlpSUQZ4XmoMXeDh0ntepX1iBNvwlHFfyw" alt="Минфин США разрешил ряду стран покупать нефть у России" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ряд стран, не имеющих выход к морю Евросоюза, сможет проводить операции, связанные с поставками российской нефти. Такое заявление сделало Министерство&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRdVKMTulPuKyozxFE0nHW7Dj9HD6GeEGPnbLeiWHTpzMG-0jYcHhtUgpqdXAyozJiejpLjMQgC" alt="Разборки марионеток: Украине и Тайваню придется бороться за ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Смена власти в Конгрессе США грозит тем, что Украина рискует лишиться не только значительной части внимания, но и выделяемых средств.</p></div>
             </div>
-        </a><a href='https://www.golosameriki.com/a/us-ukraine-dudget-support-yellen-statement/6845499.html'>
+        </a><a href='https://meduza.io/news/2022/11/23/minfin-ssha-raz-yasnil-kak-budet-rabotat-ogranichenie-tsen-na-rossiyskuyu-neft-v-pravilah-predusmotreny-poslableniya-dlya-ryada-stran-es'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>США выделяют Украине $4,5 млрд в рамках прямой бюджетной ...</h3>
+                <h3>Минфин США разъяснил, как будет работать ограничение цен ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRRTuGkRXV4Wm31bfdDOTeaT7_-refq329uhwR1zhoT3m7n5u3xKGMds8kt9znPOiInzIxVs9qt" alt="США выделяют Украине $4,5 млрд в рамках прямой бюджетной ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>«В сочетании с нашей помощью в обеспечении безопасности и огромной храбростью украинского народа эти средства являются важнейшим инструментом сопротивления&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRP95MNe4-XAlw3O4oUTOwSKoQFLx-1VMsme2_qX8Zk4QC2SbDBr0WtCgHXMhZIX5xuSFIRVmGd" alt="Минфин США разъяснил, как будет работать ограничение цен ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Минфин США разъяснил, как будет работать ограничение цен на российскую нефть. В правилах предусмотрены послабления для ряда стран ЕС. 23:27, 22 ноября 2022.</p></div>
             </div>
-        </a><a href='https://www.interfax.ru/business/873711'>
+        </a><a href='https://www.forbes.ru/finansy/481491-ssa-razresili-svazannye-s-importom-nefti-iz-rossii-v-aponiu-i-strany-evropy-operacii'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>США выделят Украине еще $4,5 млрд в форме прямой ...</h3>
+                <h3>США разрешили связанные с импортом нефти из России в ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTr_TvhZ_RD6BP29uqVZtCre9Gmvz47shega5iWWDiHh1dSDlQc519vC4cH9AaDZxrrRkhKy3bZ" alt="США выделят Украине еще $4,5 млрд в форме прямой ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Москва. 22 ноября. INTERFAX.RU - США направят Украине еще $4,5 млрд субсидий для прямой поддержки бюджета страны, средства начнут распределять в ближайшие&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRHezubzD8F3TMgak0IwmsMsPFXMKT1CUaWLQaf7hYFuFZ7t3X8GubbNqLu4me3OaahrmAKHbWc" alt="США разрешили связанные с импортом нефти из России в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Минфин США разрешил операции, связанные с морской перевозкой нефти, добытой на проекте «Сахалин-2», в Японию и с поставками российской нефти в Хорватию,&nbsp;...</p></div>
             </div>
-        </a><a href='https://eadaily.com/ru/news/2022/11/23/minfin-ssha-utochnil-ogranicheniya-na-zakupku-rossiyskoy-nefti'>
+        </a><a href='https://pravo.ru/news/244046/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Минфин США уточнил ограничения на закупку российской нефти</h3>
+                <h3>США разрешили транзакции за российскую нефть в пользу ряда ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQQWpRzW3ruoDgJxpjr1MlmVkbSxcHYewJLia8uA2dNp5uihGO5TD6-SctPU99cNKOaJMLbiAci" alt="Минфин США уточнил ограничения на закупку российской нефти" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В частности, Вашингтон разрешил проводить финансовые операции, связанные с поставками российской сырой нефти, в Болгарию, Хорватию, а также в ряд не имеющих&nbsp;...</p></div>
+                <Image src="" alt="США разрешили транзакции за российскую нефть в пользу ряда ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Министр финансов США Джанет Йеллен ранее предложила установить предельную цену в $60 за баррель. Это ниже рыночной цены на нефть, но близко к цене, по которой&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.bfm.ru/news/513508'>
+        </a><a href='https://klops.ru/news/2022-11-23/261794-minfin-ssha-razreshil-postavki-rossiyskoy-nefti-v-ryad-stran-evrosoyuza'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>США выделят Украине еще ,5 млрд в виде прямой бюджетной ...</h3>
+                <h3>Минфин США разрешил поставки российской нефти в ряд стран ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="США выделят Украине еще ,5 млрд в виде прямой бюджетной ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ранее сообщалось, что общая сумма американской военной помощи Киеву с конца февраля достигла 21,5 млрд долларов.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSVdkbSrnVVXmDC82VKAFLDkCmyI4MdffRs0vkbzKodt_bUbxqIrEjo3S4Ur5qKY1V0OwG7dSMU" alt="Минфин США разрешил поставки российской нефти в ряд стран ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Речь идёт о Болгарии, Хорватии и государствах, не имеющих выхода к морю.</p></div>
             </div>
-        </a><a href='https://life.ru/p/1540798'>
+        </a><a href='https://www.currenttime.tv/a/minfin-usa-oboznachil-ogranicheniya-na-zakupku-rossiyskoy-nefti/32144664.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Минфин США разрешил поставлять российскую нефть в ...</h3>
+                <h3>Минфин США разрешил временную перевозку российской ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRUoz2FmMik5o8GTXupQuabFtlSbiTLwvcSxc9KpJnb_UZNonadPtHau-jCPaBD43IsKYHv6gh8" alt="Минфин США разрешил поставлять российскую нефть в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Вашингтон разрешил проводить финансовые операции, связанные с поставками сырой нефти из России в Болгарию, Хорватию и ещё ряд не имеющих выхода к морю стран&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS17NnfuJChHUJ62k23_0wL1f_YjCc-IWBJ9cIrjhzneyYwaB5cUxru6SbEzYvmMisGrWehnhAZ" alt="Минфин США разрешил временную перевозку российской ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Минфин США выпустил генеральные лицензии, регулирующие ограничительные меры против российского нефтяного сектора из-за вторжения РФ в Украину. &quot;Политика&nbsp;...</p></div>
             </div>
-        </a><a href='https://zerkalo.az/ssha-vydelili-ukraine-4-5-mlrd-byudzhetnoj-podderzhki/'>
+        </a><a href='https://www.bfm.ru/news/513527'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>США выделили Украине $4,5 млрд бюджетной поддержки -</h3>
+                <h3>Минфин США распространил руководство по реализации ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSXEhY8AlwsNQpSOLKPyEh5m-9XYyQLJauHX0y7kKiL625hSjLUVSEULkqfYnsycV7nbBa5Bk4z" alt="США выделили Украине $4,5 млрд бюджетной поддержки -" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>США выделили Украине $4,5 млрд бюджетной поддержки. Общий объем средств, выделенных США на прямую бюджетную поддержку Украине, составит $13 млрд.</p></div>
+                <Image src="" alt="Минфин США распространил руководство по реализации ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Западная коалиция рассчитывает запустить механизм ограничения цен с 5 декабря. Соединенные Штаты совместно со странами G7, Евросоюза и Австралией&nbsp;...</p></div>
             </div>
-        </a><a href='https://news.ru/usa/ssha-razreshili-postavki-rossijskoj-nefti-v-strany-es/'>
+        </a><a href='https://www.interfax.ru/business/873750'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>США разрешили поставки российской нефти в страны ЕС</h3>
+                <h3>Минфин США распространил руководство по реализации ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcToMs8yX1HxzxflhHNnYw9ljDlegAXqIB2j5OgTmY154_vRUYC07ydCP8-E83OQnn8PHYyC726V" alt="США разрешили поставки российской нефти в страны ЕС" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Минфин США разрешил транзакции, связанные с поставками нефти из России в ряд стран ЕС.</p></div>
-            </div>
-        </a><a href='https://news.ru/world/ssha-vydelyat-4-5-mlrd-na-podderzhku-ukrainy/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>США выделят Украине еще $4,5 млрд</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTm-d8UMfBTEgDPSQiP9yRv4TF5Iw1eGEUjVjz9to7L60YqY4KWUIzEfDkMJqhuiaLz84GOOs2L" alt="США выделят Украине еще $4,5 млрд" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>США выделят Украине $4,5 млрд для поддержки бюджета страны, заявила министр финансов Джанет Йеллен. По ее словам, эти деньги помогут стабилизировать&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTOm8Q_4CD9U7RKN43aZIDAkueQKnYv8XtNYAR5ujqlwhvhWS3vMZl-VqO6HQlErhc3gSnqjnvA" alt="Минфин США распространил руководство по реализации ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Москва. 23 ноября. INTERFAX.RU - Министерство финансов США распространило документ, в котором содержит руководство по реализации политики ограничения цен на&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

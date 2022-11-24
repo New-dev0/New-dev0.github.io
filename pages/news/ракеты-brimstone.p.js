@@ -34,26 +34,19 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQuVJMXROwT7vJLYnaCQtc9hs0AsvT34qtDbQkYG4rsx-IYBgm7Eyffyg5eSFUyteypPApFaO5v" alt="Киев получил от Великобритании высокоточные ракеты ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>РИАМО - 22 ноя. Великобритания впервые передала Киеву высокоточные ракеты Brimstone-2, дальность пуска которых вдвое больше, чем у самонаводящихся ракет&nbsp;...</p></div>
             </div>
-        </a><a href='https://versia.ru/telegraph-soobshhila-o-peredache-velikobritaniej-ukraine-modernizirovannyx-raket-brimstone'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Telegraph сообщила о передаче Великобританией Украине ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSaJ-lgdeO07cRxuaAqxFkSh3rXkGyA0xJKpKYTsdADzmBtRHrNphGqYSIUNyBAxXXUFWb6caeW" alt="Telegraph сообщила о передаче Великобританией Украине ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Великобритания передала Украине ракеты Brimstone 2, обладающие большей дальностью, чем Brimstone первого поколения. При запуске с воздуха дальность ракет&nbsp;...</p></div>
-            </div>
         </a><a href='https://www.rosbalt.ru/world/2022/11/23/1979427.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>СБУ ищет шпионов в монастырях, Лондон передал Украине ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTdkya8_M9L3sAg7tLYrnacLoa2nbP9Q1WlI-Hq0-kJqnEppgAzwWX-VCqht8boi4MIzDXVBvwx" alt="СБУ ищет шпионов в монастырях, Лондон передал Украине ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ДАННОЕ СООБЩЕНИЕ (МАТЕРИАЛ) СОЗДАНО И (ИЛИ) РАСПРОСТРАНЕНО ИНОСТРАННЫМ СРЕДСТВОМ МАССОВОЙ ИНФОРМАЦИИ, ВЫПОЛНЯЮЩИМ ФУНКЦИИ ИНОСТРАННОГО АГЕНТА,&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>СБУ ищет шпионов в монастырях, Лондон передал Украине ракеты Brimstone, «Газпром» грозит Киеву отключением газового транзита &middot; Обыски в Киево-Печерской лавре СБУ&nbsp;...</p></div>
             </div>
-        </a><a href='https://dumatv.ru/news/the-telegraph-uznal-o-peredache-britaniei-ukraine-raket-brimstone-2'>
+        </a><a href='https://life.ru/p/1540691'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>The Telegraph узнал о передаче Британией Украине ракет ...</h3>
+                <h3>Как на СВО повлияют ракеты Brimstone-2 с лазерным наведением</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQj-SRs5-gc2VgnJwBMv-nNfgm0r9UFypc2PdTe1ZzSgjNNwmHBBg3DtUgaw0SrpxEA1yIUYlIp" alt="The Telegraph узнал о передаче Британией Украине ракет ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Британские власти направили киевскому режиму мощные ракеты Brimstone-2, модернизированную модель рак... Читать далее на Дума ТВ.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTJu5wbK3Oigrfmx5EJwNYWWzNZy0lYYanaKqA5-aHJIjPZlI-L33cJ5qcXNon-LID9rXg7MDwg" alt="Как на СВО повлияют ракеты Brimstone-2 с лазерным наведением" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Эксперты считают, что использование мобильных платформ превращает британские ракеты в противотанковые и их количество не приведёт к усилению ВСУ.</p></div>
             </div>
         </a><a href='https://eadaily.com/ru/news/2022/11/22/perendzhiev-o-vozmozhnosti-puska-raket-brimstone-2-s-gruzovikov-chush'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -62,12 +55,19 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSS6wQ2YJH6Zkb5oJlg_4zWFV9F-fnP9yNtUSMiL1OmiroXG2oQgPPzSYvi9gCLLAteMy2ZUzPD" alt="Перенджиев о возможности пуска ракет Brimstone 2 с грузовиков ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Заявления об использовании грузовиков в качестве пусковых установок для британских ракет Brimstone 2 — не более чем попытка дезинформировать российскую&nbsp;...</p></div>
             </div>
-        </a><a href='https://sud.ua/ru/news/ukraine/254867-imeyut-lazernoe-navedenie-ukraina-poluchila-modernizirovannye-rakety-brimstone-smi'>
+        </a><a href='https://dumatv.ru/news/the-telegraph-uznal-o-peredache-britaniei-ukraine-raket-brimstone-2'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Имеют лазерное наведение: Украина получила ...</h3>
+                <h3>The Telegraph узнал о передаче Британией Украине ракет ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTNMF7hO-cZBYHekj_4HW2UX_C_Ud7fJKdpiL3qxFGqlLqNU2teUsIUixfxInsXqi9a-nTR-cvb" alt="Имеют лазерное наведение: Украина получила ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Великобритания передала Украине модернизированные ракеты с лазерным наведение Brimstone 2 с вдвое большей дальностью, чем в первом поколении. Об этом сообщили&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQPUthb6nBFxJbg_yM7UoXmyvSL59YaG61JhbKl-u0B6pgtUhyRuh8wWuMqv4Ream6b67kOLgt5" alt="The Telegraph узнал о передаче Британией Украине ракет ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Британские власти направили киевскому режиму мощные ракеты Brimstone-2, модернизированную модель рак... Читать далее на Дума ТВ.</p></div>
+            </div>
+        </a><a href='https://hvylya.net/news/263005-britaniya-peredast-ukraine-noveyshie-rakety-s-lazernoy-navodkoy-brimstone'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Британия передаст Украине новейшие ракеты с лазерной ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSCXqH43HNqaQOVg4S29ujZ6GmEDDE8n3iMK2FYHNGh-QRVG9j43KOQSZJI0BMRWz702MXJyP5y" alt="Британия передаст Украине новейшие ракеты с лазерной ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Великобритания направит в Украину новые ракеты с лазерным наведением Brimstone 2, которые имеют вдвое большую дистанцию ​​поражения, чем их предыдущая&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

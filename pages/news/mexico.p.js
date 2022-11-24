@@ -11,77 +11,70 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Mexico"/>
         <meta name="description" content="Trending News about Mexico" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Mexico</h1>
-            <Image width={800} height={500} src="https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png" alt="Mexico"/>
+            <Image width={800} height={500} src="https://media.moneytimes.com.br/uploads/2022/05/img-1-ubernews2022.jpg" alt="Mexico"/>
             <h3>Recent News</h3>
-            <a href='https://www.nytimes.com/2022/11/22/sports/soccer/mexico-poland-group-c-world-cup.html'>
+            <a href='https://www.moneytimes.com.br/uber-e-apps-de-delivery-oferecem-beneficios-para-motoristas-no-mexico-antes-de-regulacao/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mexico and Poland Draw and Miss a Chance to Gain the Upper ...</h3>
+                <h3>Uber e apps de delivery oferecem benefícios para motoristas no ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTccOmUzTP_Ij_CE7vp-tdc3ErCDIYR_lMaUbSW1X49vyOcd5ViZTA21ur3t6bOThivNp7SSO9W" alt="Mexico and Poland Draw and Miss a Chance to Gain the Upper ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The match took on a different complexion even before kickoff, after Saudi Arabia&#39;s stunning upset of Argentina in the other Group C match on Tuesday.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQilkYSneED8FMIjXfLduYnZyJq5H6fu8_WcMMdcbS6U2lxRQ_FnRrvJ_MpEuTstZszpir011dD" alt="Uber e apps de delivery oferecem benefícios para motoristas no ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>As empresas disseram nesta quarta-feira em um comunicado assinado em conjunto por grupos de direitos dos trabalhadores.</p></div>
             </div>
-        </a><a href='https://www.espn.com/soccer/fifa-world-cup/story/4806876/mexicopoland-fail-to-capitalize-as-guillermo-ochoa-is-hero'>
+        </a><a href='https://www.terra.com.br/noticias/mundo/turista-e-agredida-e-ofendida-ao-subir-em-piramide-proibida-no-mexico,a12539caa27b63a03c8d0c0d3a6b4fd2p6y8auui.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mexico, Poland fail to capitalize as Guillermo Ochoa is hero</h3>
+                <h3>Turista é agredida e ofendida ao subir em pirâmide proibida no ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT7FxvQDbqHglbXl6ZWEYzRVenWiO0Wh01Oj-24OaxpNtx2s7L8YZLmQfbuEWOvS6ke53LLjQWG" alt="Mexico, Poland fail to capitalize as Guillermo Ochoa is hero" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A stalemate between Mexico and Poland means they missed the chance to capitalize on Argentina&#39;s shock defeat to Saudi Arabia.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQy_E306JISBCkZWZHpil0S0DEN3heH2L92-DSolzNgLEUfDMGM-xxi5XeB0czECYCKlvWZUhRT" alt="Turista é agredida e ofendida ao subir em pirâmide proibida no ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mulher desrespeitou barreira e subiu as escadas de um templo em Chichén Itzá ... Uma turista foi xingada, empurrada, teve o cabelo puxado e até recebeu um banho&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.reuters.com/world/americas/magnitude-62-earthquake-strikes-off-coast-baja-california-mexico-usgs-2022-11-22/'>
+        </a><a href='https://noticias.r7.com/internacional/turista-e-agredida-apos-subir-degraus-de-piramide-maia-no-mexico-23112022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Magnitude 6.2 earthquake strikes off the coast of Baja California ...</h3>
+                <h3>Turista é agredida após subir degraus de pirâmide maia no México</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Magnitude 6.2 earthquake strikes off the coast of Baja California ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>An earthquake of 6.2 magnitude struck off the coast of Baja California in Mexico on Tuesday, the U.S. Geological Survey (USGS) said.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRf6fKTQJo8DrgYTYfsHGr9Y94HdAacwc3jErsTM6lMSmCy2uvGmUzwa1Hh-Va-aVGkSRA1NvdI" alt="Turista é agredida após subir degraus de pirâmide maia no México" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mulher foi vaiada, teve os cabelos puxados e recebeu garrafadas de água ao descer do monumento histórico, em Yucatán.</p></div>
             </div>
-        </a><a href='https://www.latimes.com/sports/soccer/story/2022-11-22/mexico-vs-poland-game-coverage'>
+        </a><a href='https://hugogloss.uol.com.br/mundo/mulher-escala-e-danca-em-piramide-proibida-no-mexico-revolta-publico-e-e-agredida-assista/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup: Memo Ochoa, Mexico tie Robert Lewandowski, Poland</h3>
+                <h3>Mulher escala e dança em pirâmide proibida no México, revolta ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRDtfROUHiN5nI_-0GiVE-TdhUIc14kfDAYPHbNhbNjDCkgy9BwfTKN7yhvq4OL6ENfMzL5NrlL" alt="World Cup: Memo Ochoa, Mexico tie Robert Lewandowski, Poland" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mexico veteran goalkeeper Memo Ochoa blocked elite Poland scorer Robert Lewandowski&#39;s penalty kick, preserving a 0-0 draw during the teams&#39; World Cup&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSBD6R0vAps6UbgRKq161n4tzzyMtBJ4BITAZ7sDvlGzvMtXwxZ8_DJ3ZoeO7Z8rVmsxyxeQxWd" alt="Mulher escala e dança em pirâmide proibida no México, revolta ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Imagens de uma mulher escalando uma pirâmide maia, no México, viralizaram nas redes sociais. No vídeo, postado nesta segunda-feira (21), a moça – que não&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.porkbusiness.com/news/industry/brazil-now-exporting-pork-mexico-will-it-affect-us'>
+        </a><a href='https://www.prensalatina.com.br/2022/11/23/presidente-chileno-chega-ao-mexico-para-uma-visita-de-estado/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brazil Now Exporting Pork to Mexico: Will it Affect the U.S.?</h3>
+                <h3>Presidente chileno chega ao México para uma visita de Estado ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ7Swl3iN7_JwessnL3NR1qJtS3D-1CL8oOI8-J3OVF7kbnrj-S2cU4GmL15TWBRcE6h6BUyYOZ" alt="Brazil Now Exporting Pork to Mexico: Will it Affect the U.S.?" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>With the announcement of Brazilian pork exports eligible in Mexico, USMEF&#39;s Erin Borror weighs in on how it might affect U.S. exports to the country.</p></div>
+                <Image src="" alt="Presidente chileno chega ao México para uma visita de Estado ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cidade do México, 22 nov (Prensa Latina) O presidente chileno Gabriel Boric chegou hoje ao México para iniciar uma visita de Estado amanhã para discutir&nbsp;...</p></div>
             </div>
-        </a><a href='https://hudsonreporter.com/2022/11/22/from-mexico-to-grove-street/'>
+        </a><a href='https://oglobo.globo.com/mundo/noticia/2022/11/jornalista-pedro-pablo-kumul-e-17o-assassinado-no-mexico-este-anp.ghtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>From Mexico to Newark Avenue - Hudson Reporter</h3>
+                <h3>Jornalista Pedro Pablo Kumul é o 17º assassinado este ano no ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQhS-13i-C6eoNHqTlqiZsR1OzKs30Yo9KJ04_VITwMAbMz6VTO0E2IXA9ymgZ3oIWT59VU_acn" alt="From Mexico to Newark Avenue - Hudson Reporter" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>With an upside down relic of Lady Liberty on a ceiling and city streets that seem to have no end, Taco Drive, located on the walkway of Newark Avenue,&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRi8J7Jufh60A4ubJ4cBgKDk_xmyWIdxiPYYxBHYmDrB9F_iTTdBc6dsWEmhcR51Z3iLsbpLNG4" alt="Jornalista Pedro Pablo Kumul é o 17º assassinado este ano no ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>O assassinato do repórter e radialista Pedro Pablo Kumul na segunda-feira em El Castillo, cidade no estado mexicano de Veracruz, foi confirmado pelo portal&nbsp;...</p></div>
             </div>
-        </a><a href='https://theathletic.com/live-blogs/mexico-poland-score-2022-world-cup/Mj4ydoCZboxs/'>
+        </a><a href='https://www.maisgoias.com.br/turista-e-agredida-e-expulsa-apos-subir-em-piramide-no-mexico-video/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Highlights and analysis of Mexico and Poland&#39;s goalless draw in ...</h3>
+                <h3>Turista é agredida e expulsa após subir em pirâmide no México; vídeo</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRGIgTbc8amaSgC616Hk4d1nDLg4sXsidrhmLBl4dK73B_Wga5ebax7UBnPOHWHBwJh8miz9mAY" alt="Highlights and analysis of Mexico and Poland&#39;s goalless draw in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>An open game at Stadium 974 saw Mexico get the better of the start, with Ernesto Vega going closest with a header.However, a foul on Robert Lewandowski in&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS91DFNfnvhgY3uXwd8bbVTfMOtPYhPByiCLQnZQdP3Kgv38vMDf8nvcUQccQIvYJc7-HrsXo96" alt="Turista é agredida e expulsa após subir em pirâmide no México; vídeo" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Uma turista subiu os mais de 90 degraus do Templo de Kukulcán, pirâmide localizada na zona arqueológica de Chichén Itzá, na península mexicana de Yucatán.</p></div>
             </div>
-        </a><a href='https://www.espn.com/nfl/story/_/id/35086933/cardinals-fire-assistant-sean-kugler-mexico-city-incident'>
+        </a><a href='https://oglobo.globo.com/boa-viagem/noticia/2022/11/turista-e-expulsa-e-agredida-apos-subir-na-piramide-de-chichen-itza-no-mexico-video.ghtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Cardinals fire assistant Sean Kugler after Mexico City incident</h3>
+                <h3>Turista é expulsa e agredida após subir na pirâmide de Chichén Itzá ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSb0pzhz0qNr3oPLANVmncmhjnVzElH2uHthNwqoIi8ctES2CORHHKGQD4VlXDIcIk546qk3d_G" alt="Cardinals fire assistant Sean Kugler after Mexico City incident" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Sean Kugler, the Cardinals&#39; offensive line coach and run-game coordinator, was fired after an incident in Mexico City, a source told ESPN.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRTsY2sfb4kfPFbUdDI9b_-TLc58n9NoPvqKA0hMU9WjZG6BLNu2CVUeULfla5zsfsIIY4esWu-" alt="Turista é expulsa e agredida após subir na pirâmide de Chichén Itzá ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Monumento é considerado Patrimônio da Humanidade pela Unesco; autoridades locais informaram que não houve danos na zona arqueológica localizada em Yucatán.</p></div>
             </div>
-        </a><a href='https://www.nytimes.com/2022/11/22/opinion/will-mexico-be-the-next-venezuela.html'>
+        </a><a href='https://istoe.com.br/video-mulher-e-vaiada-e-expulsa-de-sitio-arqueologico-por-escalar-piramide-protegida-no-mexico/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Opinion | Will Mexico Be the Next Venezuela?</h3>
+                <h3>Vídeo: Mulher é vaiada e expulsa de sítio arqueológico por escalar ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRqSR-eLvDwT9G-3P9ltOcoCbLWZ0MVEiemgB0IEBoP5vqo8_DXBlXtJC3BfHT31J73VDgkb583" alt="Opinion | Will Mexico Be the Next Venezuela?" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>In 2018, I wrote a column calling the soon-to-be-elected Mexican president, Andrés Manuel López Obrador, or AMLO, a left-wing version of Donald Trump.</p></div>
-            </div>
-        </a><a href='https://www.nfl.com/news/cardinals-fire-assistant-coach-sean-kugler-following-incident-in-mexico-city'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Cardinals fire assistant coach Sean Kugler following incident in ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTdqqeq7s-lckvgUFGjlkcgXYWvOE-c2avgpz3aPDl_i95Rj4-dusexlZ31MVRuRdU0j-8QlAn3" alt="Cardinals fire assistant coach Sean Kugler following incident in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Arizona Cardinals have fired offensive line coach/running game coordinator Sean Kugler due to an incident in Mexico City on Sunday, head coach Kliff&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSucCofI6dpuL7ON0DsGYIvVIJSmz5rK5UdqcYoNbPc5lViZh91AR6yt5o_O8hom_3OlIIRTREU" alt="Vídeo: Mulher é vaiada e expulsa de sítio arqueológico por escalar ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Um vídeo que está circulando nas redes sociais mostra uma mulher que ultrapassou uma barreira de proteção e escalou o templo de Kukulcán, localizado no&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

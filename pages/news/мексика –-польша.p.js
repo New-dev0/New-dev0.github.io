@@ -11,49 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Мексика – Польша"/>
         <meta name="description" content="Trending News about Мексика – Польша" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Мексика – Польша</h1>
-            <Image width={800} height={500} src="https://www.rbc.ua/static/img/3/1/316218468_2328191160682090_8279637419473675722_n_1300x820.jpg" alt="Мексика – Польша"/>
+            <Image width={800} height={500} src="https://img.championat.com/news2/social/6/f7/4901505.jpg" alt="Мексика – Польша"/>
             <h3>Recent News</h3>
-            <a href='https://www.rbc.ua/ukr/news/nezabitiy-levandovski-penalti-pozbaviv-zbirnu-1669149721.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Незабитый Левандовски пенальти лишил сборную Польши ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRgrKEPoN-iT-JJBDWKHJ1XD6oHiX1xmvPD6jbXAFi-jws42ju0j_zk8N0jd9xtI_rEJv0913A8" alt="Незабитый Левандовски пенальти лишил сборную Польши ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Национальные команды Мексики и Польши не выявили сильнейшего в стартовом матче на Мундиале.</p></div>
-            </div>
-        </a><a href='https://www.championat.com/football/news-4901505-meksika-polsha-levandovski-ne-realizoval-penalti.html'>
+            <a href='https://www.championat.com/football/news-4901505-meksika-polsha-levandovski-ne-realizoval-penalti.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Мексика — Польша: Левандовски не реализовал пенальти</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTMEXROmGqttz9PirB_ltXtWg0GboYd9zxeWiJUQe_7wy-ghrhPZHvqnKsldgRAF28daBgBCzER" alt="Мексика — Польша: Левандовски не реализовал пенальти" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Сегодня, 22 ноября, проходит матч 1-го тура группы С между сборными Мексики и Польши на стадионе «Стэдиум 974».</p></div>
             </div>
-        </a><a href='https://www.sport-express.ru/football/world/2022/news/meksika-polsha-startovye-sostavy-komand-chempionat-mira-22-noyabrya-2022-goda-2001586/'>
+        </a><a href='https://www.sport-express.ru/football/world/2022/news/meksika-polsha-gde-i-vo-skolko-smotret-besplatno-pryamuyu-translyaciyu-matcha-chempionata-mira-2022-po-futbolu-22-noyabrya-2022-goda-2001321/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Мексика — Польша: составы команд на матч ЧМ-2022. Крыховяк ...</h3>
+                <h3>Мексика — Польша: где и во сколько смотреть бесплатно прямую ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR2RTDTBgOE2G3-2IvhBHk9383tjyFTc8GVDeprNmXJODIzXgcpVqacWFVhvECgnbszqpNX429f" alt="Мексика — Польша: составы команд на матч ЧМ-2022. Крыховяк ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Сборная Мексики сыграет с командой Польши в матче группового этапа ЧМ-2022.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR_Eflv4DOGp32Tc6jdXkPv4mlzOmG6kjYbxUutQsgN64eqQ6qZ8TVyVCJy4FisBkrsV9EKa20m" alt="Мексика — Польша: где и во сколько смотреть бесплатно прямую ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Во вторник, 22 ноября, сборная Мексики сыграет против команды Польши в матче групповой стадии чемпионата мира по футболу-2022.</p></div>
             </div>
-        </a><a href='https://football24.ua/ru/meksika_polsha_obzor_schet_matcha_22_11_2022_n748347/'>
+        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1727574_Meksika__Polsha_gde_smotret_onlajn_match_22_nojabra_2022_chempionat_mira_po_futbolu'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ЧМ-2022: Польша и Мексика расписали ничью в пользу ...</h3>
+                <h3>Мексика — Польша: где смотреть онлайн матч 22 ноября 2022 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSnD12lsNmsjfHCaPTR72wmqJB-MmW9pjwqHl_RRAa5uaBb48PP0AGZZqTRtqq7Jd5T09CFZpXX" alt="ЧМ-2022: Польша и Мексика расписали ничью в пользу ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Мексика и Польша сыграли 22 ноября 2022, игра прошла в рамках 1 тура группы С Чемпионата мира по футболу 2022. Какой счет и полный обзор читайте на&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSsFiYEB4_sMILEuQUFpGAVp1Kh0uQIvfvZxy9R-DRsTtGsU0_ZnJK5vr1IrLhI3uB5j8wWHzDn" alt="Мексика — Польша: где смотреть онлайн матч 22 ноября 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сборная Мексики сыграет с командой Польши на старте группового этапа чемпионата мира‑2022 во вторник, 22 ноября. Прямую трансляцию встречи можно посмотреть&nbsp;...</p></div>
             </div>
-        </a><a href='https://news.obozrevatel.com/sport/football/meksika-polsha-onlajn-translyatsiya-matcha-chm-2022.htm'>
+        </a><a href='https://sportrbc.ru/news/637bf7e09a7947470af23e09'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Мексика – Польша: результат и хронология матча ЧМ-2022</h3>
+                <h3>Мексика — Польша</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTnqSgSwBw8TLd0eQRUn2maR13cU_4ViWD_jr4-NcGOA2i0bSv25sOSrVQktEwIK9FKONkWQyHbQw" alt="Мексика – Польша: результат и хронология матча ЧМ-2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Сборная Польши по футболу во вторник, 22 ноября, проводила стартовый для себя матч чемпионата мира 2022 года. Команда Чеслава Михневича играла с&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTtSNhxYEebBbTpX01tGVpXNendNQdZUIeNSSnS7FYUJQKtPPwjM84yVE76jsWjqmhSc7fXrEsc" alt="Мексика — Польша" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>На этом будем прощаться, пожелаем сборным Мексики и Польши побед в следующих матчах и поблагодарим за игру! Онлайн матча для вас провел корреспондент «РБК&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.ua-football.com/foreign/worldcup/1669129451-meksika-polsha-smotret-onlayn-live-pryamuyu-videotranslyaciyu-matcha-chempionata-mira.html'>
+        </a><a href='https://matchtv.ru/football/chempionat_mira/matchtvnews_NI1728140_Meksika__Polsha_obzor_matcha_ChM_2022_po_futbolu_22_nojabra_smotret_luchshije_momenty_Video'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Мексика – Польша. Смотреть онлайн LIVE прямую ...</h3>
+                <h3>Мексика — Польша: обзор матча ЧМ-2022 по футболу 22 ноября ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSem8Zf6Dn0CKG0MzeQQcE8Xuai5Gqxne7GUt6W69CZz7aILQmR9ugtW44OPW5S3E8VDGeBZQYb" alt="Мексика – Польша. Смотреть онлайн LIVE прямую ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Мексика - Польша ⚽ 22.11.2022 ⚽ Смотреть онлайн трансляцию матча ✓ ЧМ-2022 ✓ Футбольные видео трансляции ☛ Матчи чемпионата мира 2022 на UA-Футбол.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTUyM90tEQhKW_I2a1pvgWOa7xE3utbpPWgDKhUKggkyee_P3lSpv8G39NcYk0eQNaBn5PAs-Pc" alt="Мексика — Польша: обзор матча ЧМ-2022 по футболу 22 ноября ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сборные Мексики и Польши сыграли вничью в матче группового этапа чемпионата мира‑2022 по футболу, который проходит в Катаре.</p></div>
+            </div>
+        </a><a href='https://www.sports.ru/football/1113489607-meksika-polsha-startovye-sostavy-komand-na-match-chempionata-mira-po-f.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Мексика — Польша: стартовые составы команд на матч ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTbd0IHk36kumc6lulTcFd3ZuXIBpBBgGBtmXND1IeXS2omNfVMLYhgUSviOSN3yAWcyCGykDdK" alt="Мексика — Польша: стартовые составы команд на матч ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Мексика: Очоа – Санчес, Морено, Монтес, Гальярдо – Эррера, Чавес, Альварес – Лосано, Мартин, Вега. Польша: Шченсны – Кэш, Глик, Берешиньски, Кивер – Крыховяк,&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

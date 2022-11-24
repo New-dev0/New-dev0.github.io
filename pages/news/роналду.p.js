@@ -11,70 +11,21 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Роналду"/>
         <meta name="description" content="Trending News about Роналду" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Роналду</h1>
-            <Image width={800} height={500} src="" alt="Роналду"/>
+            <Image width={800} height={500} src="https://img.championat.com/news2/social/d/39/4902575.jpg" alt="Роналду"/>
             <h3>Recent News</h3>
-            <a href='https://suspilne.media/322748-mu-oficijno-rozirvav-kontrakt-z-kristianu-ronaldu/'>
+            <a href='https://www.championat.com/football/news-4902575-ronaldu-oshtrafovan-na-50-tysyach-i-diskvalificirovan-na-2-matcha-federaciej-futbola-anglii.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&quot;Манчестер Юнайтед&quot; офіційно розірвав контракт з Кріштіану ...</h3>
+                <h3>Роналду оштрафован на £ 50 тыс. и дисквалифицирован на два ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTx3oWXx-Nr3KUdrnn726816TNIYqhlJcPKMfuFMd3QJmeqtt_VqkszK6LqCA-yq9OduICuKZ8H" alt="&quot;Манчестер Юнайтед&quot; офіційно розірвав контракт з Кріштіану ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Англійський клуб припинив співпрацю з португальцем ще перед його дебютним матчем на ЧС-2022. &quot;Манчестер Юнайтед&quot; офіційно розірвав контракт з португальським&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTzsZySsTvdPC3XVLieadS2IyRp_nal-wXvfcty8HAKVGvQXFSrshOdpzJY7Dj2XxuYOIwYJ2P0" alt="Роналду оштрафован на £ 50 тыс. и дисквалифицирован на два ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Независимая регулирующая комиссия установила, что его поведение было неподобающим и жестоким во время последующего слушания, и наложила эти санкции», — приводит&nbsp;...</p></div>
             </div>
-        </a><a href='https://racurs.ua/ua/n177078-manchester-unayted-poproschavsya-z-krishtianu-ronaldu-scho-stalosya.html'>
+        </a><a href='https://sportrbc.ru/news/637e05aa9a7947ef3770678f'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>«Манчестер Юнайтед» попрощався з Кріштіану Роналду — що ...</h3>
+                <h3>Роналду и Дзюба стали безработными. Кто еще из футболистов ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS75EL4PMwtk7ATHa0zAVbHxw5E8iVSQ3u9XHc6bROr9F1WYIwseRfGztCjDkLJRWi1VwEpRt4h" alt="«Манчестер Юнайтед» попрощався з Кріштіану Роналду — що ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Англійський футбольний клуб «Манчестер Юнайтед» 22 листопада оголосив про розірвання контракту із зірковим гравцем збірної Португалії Кріштіану Роналду.</p></div>
-            </div>
-        </a><a href='https://www.pravda.com.ua/news/2022/11/22/7377514/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Роналду покинув &quot;Манчестер Юнайтед&quot;</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTGhFCEleb8eYkqyDuBCOa73mDXgop0snToxbLSjz3TLf4qbWN8PY9yFFvg70UMw65UNjIZ6TEE" alt="Роналду покинув &quot;Манчестер Юнайтед&quot;" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>&quot;Манчестер Юнайтед&quot; офіційно повідомив, що португалець Кріштіану Роналду залишає клуб &quot;за взаємною згодою&quot;. Джерело: сайт клубу.</p></div>
-            </div>
-        </a><a href='https://www.radiosvoboda.org/a/news-ronaldu-mu-vykhid/32144144.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>«Манчестер Юнайтед» розірвав контракт із Кріштіану Роналду</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTLSZvD-DwHu0JV_3R2r4orlD1CEcD2rSyQtXMO6JKBnCw72LcSwg10bk3f8tNWBkFmSFruvi2C" alt="«Манчестер Юнайтед» розірвав контракт із Кріштіану Роналду" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Англійський футбольний клуб «Манчестер Юнайтед» розірвав контракт із Кріштіану Роналду. У повідомленні на сайті команди йдеться, що португальський спортсмен&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.pravda.com.ua/rus/news/2022/11/22/7377514/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Роналду покинул &quot;Манчестер Юнайтед&quot;</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTGhFCEleb8eYkqyDuBCOa73mDXgop0snToxbLSjz3TLf4qbWN8PY9yFFvg70UMw65UNjIZ6TEE" alt="Роналду покинул &quot;Манчестер Юнайтед&quot;" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>&quot;Манчестер Юнайтед&quot; официально сообщил, что португалец Криштиану Роналду покидает клуб &quot;по взаимному согласию&quot;. Источник: сайт клуба.</p></div>
-            </div>
-        </a><a href='https://espreso.tv/lyublyu-manchester-yunayted-ale-nastav-chas-dlya-novogo-vikliku-ronaldu-prokomentuvav-rozriv-kontraktu'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Люблю &quot;Манчестер Юнайтед&quot;, але настав час для нового виклику ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRAi48DpTZJbEg6BawIr6hrP3ELgcsjSD8aVclrrNvDN8JQUkjsUeP_IXRenTa54cylWZLJFmTi" alt="Люблю &quot;Манчестер Юнайтед&quot;, але настав час для нового виклику ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Португальський форвард Кріштіану Роналду пояснив, чому він покинув англійський &quot;Манчестер Юнайтед&quot;. Читайте більше тут.</p></div>
-            </div>
-        </a><a href='https://www.rbc.ua/ukr/news/manchester-yunayted-rozirvav-kontrakt-krishtianu-1669139369.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&quot;Манчестер Юнайтед&quot; расторг контракт с Криштиану Роналду</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSLgkXxb2w5bPP_I73PE2q6re_Ppdu0ci35H_LsXhfauxxQQHErWBRtfOFgvHRxshBrY67X_mPK" alt="&quot;Манчестер Юнайтед&quot; расторг контракт с Криштиану Роналду" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Футбольный клуб поблагодарил его за его огромный вклад в течение двух периодов на Олд Траффорд. Ранее лидер сборной Португалии и &quot;Манчестер Юнайтед&quot; Криштиану&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.championat.com/football/article-4901587-manchester-yunajted-razorval-kontrakt-s-krishtianu-ronaldu-podrobnosti-kuda-perejdyot-ronaldu-real-chelsi.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>«Манчестер Юнайтед» всё-таки это сделал. Подробности ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTgP9JjMHqlQKRZQfzQAF_VV4aYB8aDaWnMrNh5VEpP-yAhYbjrC1IaqKIs0xVYLszuwSGdgv1b" alt="«Манчестер Юнайтед» всё-таки это сделал. Подробности ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>«Клуб благодарит Криштиану за огромный вклад во время выступлений на «Олд Траффорд». Все работники «Манчестер Юнайтед» сосредоточены на прогрессе команды под&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.ukrinform.ua/rubric-sports/3619903-mu-rozirvav-kontrakt-z-ronaldu-pisla-skandalnogo-intervu-portugalca.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>«Манчестер Юнайтед» розірвав контракт з Роналду після ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcThc_qQSrzafpUT47nAVGCCzOBHWDoT321s-W7fbzfUrNgnld_lCaZ7A9fUA1pAMBCfU3z3vCH3" alt="«Манчестер Юнайтед» розірвав контракт з Роналду після ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Як повідомляв Укрінформ, збірна Португалії зіграє на чемпіонаті світу-2022 у групі Н з Ганою, Уругваєм і Південною Кореєю. Фото: Getty Images. Футбол Манчестер&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQeAiA-CXpb6ynRrcdwNPXJzHJoClg5qACYkBrM4odvhxXCuprT8f9gDHnnW0eW5wmVX24MUVFA" alt="Роналду и Дзюба стали безработными. Кто еще из футболистов ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>«Манчестер Юнайтед» расторг контракт с Криштиану Роналду, на данный момент португалец является свободным агентом. Кого еще могут подписать после чемпионата&nbsp;...</p></div>
             </div>
         </a><a href='https://www.sport-express.ru/football/england/reviews/krishtianu-ronaldu-portugalec-oficialno-rastorg-kontrakt-s-manchester-yunayted-podrobnosti-2001729/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -82,6 +33,27 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRz57Jgd7HFx64lMhZJ0jQ-DniKuYOMGDlDftSir_WSLEafhte4RkR7OHYzxjjSzjSnn8pRU7uk" alt="Роналду расторг контракт с «МЮ». Попрощались друг с другом ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Третий день ЧМ-2022 в Катаре разбавила довольно ожидаемая, но все равно громкая новость.</p></div>
+            </div>
+        </a><a href='https://www.forbes.ru/forbeslife/481496-nevostrebovannaa-zvezda-pocemu-mancester-unajted-rastorgaet-kontrakt-s-ronaldu'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Невостребованная звезда: почему «Манчестер Юнайтед ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR-G2COnEv8bTkjOe0KT5I8uV0QljZ1ujYiJx4s5z7vwLhU-jxTn9MFbSV4wE6Xhm4ySb-K93dR" alt="Невостребованная звезда: почему «Манчестер Юнайтед ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>На этой неделе английский футбольный клуб «Манчестер Юнайтед» объявил о расторжении контракта с Криштиану Роналду. В колонке для Forbes Life спортивный&nbsp;...</p></div>
+            </div>
+        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/spbnews_NI1728801_Ronaldu_diskvalificirovali_na_dva_matcha_za_incident_s_malchikom_autistom'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Роналду дисквалифицировали на два матча за инцидент с ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTIhGLTYYb0IWr2NeARus-UTktiEbsTeC5X1tv6ysWcz6FTee8XCdA2iWcAh5fxCCMSAw7Wb8UC" alt="Роналду дисквалифицировали на два матча за инцидент с ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Бывший нападающий «Манчестер Юнайтед» Криштиану Роналду дисквалифицирован на два матча Футбольной ассоциацией Англии (FA) из‑за инцидент с&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.bbc.com/russian/news-63723543'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Криштиану Роналду - больше не игрок &quot;Манчестер Юнайтед&quot;</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRFatTkasxSx5nGgjLrATTdcdRgPAWMA3n6ii8T0k7qduvMu-FX0-bjfY7zxTdA-T57SKSNVgSu" alt="Криштиану Роналду - больше не игрок &quot;Манчестер Юнайтед&quot;" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Знаменитый форвард сборной Португалии 37-летний Криштиану Роналду покидает клуб английской Премьер-лиги “Манчестер Юнайтед” - как заявили обе стороны,&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

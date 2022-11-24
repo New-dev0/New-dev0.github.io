@@ -11,9 +11,16 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Raheem Sterling"/>
         <meta name="description" content="Trending News about Raheem Sterling" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Raheem Sterling</h1>
-            <Image width={800} height={500} src="https://cdn1.thechelseachronicle.com/uploads/17/2022/11/GettyImages-1244197128-2-scaled.jpg" alt="Raheem Sterling"/>
+            <Image width={800} height={500} src="https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4416530.jpg?r=1669126619839" alt="Raheem Sterling"/>
             <h3>Recent News</h3>
-            <a href='https://www.thechelseachronicle.com/player-quotes/hes-the-truth-raheem-sterling-says-21-year-old-chelsea-youngster-is-going-to-turn-into-a-first-team-star/'>
+            <a href='https://www.express.co.uk/sport/football/1700027/chelsea-news-cristiano-ronaldo-raheem-sterling-armando-broja'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Chelsea already have Cristiano Ronaldo alternative who Sterling ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRsXLthaVYEB08zlg9v-27wnlvqRYDPdTgnirPWQAsIH1F4eHwfBwx98QC1HednjJ6avA1SYcBf" alt="Chelsea already have Cristiano Ronaldo alternative who Sterling ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Chelsea are linked with Manchester United outcast Cristiano Ronaldo ahead of the January transfer window.</p></div>
+            </div>
+        </a><a href='https://www.thechelseachronicle.com/player-quotes/hes-the-truth-raheem-sterling-says-21-year-old-chelsea-youngster-is-going-to-turn-into-a-first-team-star/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Raheem Sterling thinks Broja could be the next big thing at Chelsea</h3>
                 <div style={{ display: "flex" }}>
@@ -26,6 +33,13 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTfwpcluCBcV_IqAkPl6y-0h8pE_Z1d6snrkGDZMfxUmR7J-Rpt6wEJghoEqaaHDhnYlhOacBCT" alt="Raheem Sterling makes rogue shout that Chelsea teammate will be ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Raheem Sterling has made a rogue shout that Chelsea striker Armando Broja will be &#39;the next one&#39; to turn into a star.</p></div>
+            </div>
+        </a><a href='https://tbrfootball.com/raheem-sterling-claims-21-year-old-newcastle-reportedly-want-to-sign-is-the-fastest-man-in-the-world/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Raheem Sterling calls Newcastle target Broja the &#39;fastest man in the ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSj_ruAI4uNtdMUIfXQqCXFaJ1e-UDBv_lBtU64kGZWhNoY-d3CRwBZs-5eCTGqiTvrwcFngRbF" alt="Raheem Sterling calls Newcastle target Broja the &#39;fastest man in the ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>England World Cup star Raheem Sterling has lavished praise on the pace and potential of Chelsea teammate Armando Broja.</p></div>
             </div>
         </a><a href='https://www.hampshirelive.news/sport/football/football-news/chelsea-raheem-sterling-southampton-loan-7850531'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

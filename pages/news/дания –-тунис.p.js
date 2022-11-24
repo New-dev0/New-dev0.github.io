@@ -11,77 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Дания – Тунис"/>
         <meta name="description" content="Trending News about Дания – Тунис" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Дания – Тунис</h1>
-            <Image width={800} height={500} src="" alt="Дания – Тунис"/>
+            <Image width={800} height={500} src="https://img.championat.com/news2/social/c/2a/4896447.jpg" alt="Дания – Тунис"/>
             <h3>Recent News</h3>
-            <a href='https://prm.ua/daniia-tunis-ta-meksyka-polshcha-ohliad-matchiv-22-lystopada/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Данія - Туніс та Мексика - Польща: огляд матчів 22 листопада</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTr_Anj5_7WLN4bsOXBfrW0NitW4BDpRufPnwlvgr5Qv4K_FENtsqwiJXmgXOYaSVJ3qjkjpdMl" alt="Данія - Туніс та Мексика - Польща: огляд матчів 22 листопада" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Як Данія, так і Польща виходили на матч проти своїх опонентів фаворитами. Данію взагалі називають “найнезручнішим” суперником для будь-кого.</p></div>
-            </div>
-        </a><a href='https://www.rbc.ua/ukr/news/chs-2022-zbirna-daniyi-nespodivano-rozpisala-1669129165.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ЧМ-2022: Сборная Дании неожиданно расписала с Тунисом ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSAkg1wrCaMEHOVFNzBPicnNkNZv-Jn5iazn0WRaH1gevBVrYr0xpCEEoxlnZVND2SzGgHygqfs" alt="ЧМ-2022: Сборная Дании неожиданно расписала с Тунисом ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Безголевой ничьей завершился матч стартового тура чемпионата мира-2022 в группе D между национальными командами Дании и Туниса.</p></div>
-            </div>
-        </a><a href='https://www.sport-express.ru/football/world/2022/news/daniya-tunis-0-0-rezultat-matcha-gruppy-d-chempionata-mira-2022-22-noyabrya-2022-2001575/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Дания и Тунис сыграли первую нулевую ничью на ЧМ-2022</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSVmYTBd12VTwJ3GWRDPQS6ZaOvMeIn8w7PloFhtAcpcoI7FklDpUKYVPRSvSbFNGaGzN660otu" alt="Дания и Тунис сыграли первую нулевую ничью на ЧМ-2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Сборные Дании и Туниса сыграли вничью в матче группы D чемпионата мира-2022. Встреча на стадионе «Эдьюкейшн сити» завершилась со счетом 0:0.</p></div>
-            </div>
-        </a><a href='https://www.championat.com/football/news-4896447-daniya-tunis-onlajn-translyaciya-matcha-chempionata-mira-2022-nachnyotsya-v-16-00.html'>
+            <a href='https://www.championat.com/football/news-4896447-daniya-tunis-onlajn-translyaciya-matcha-chempionata-mira-2022-nachnyotsya-v-16-00.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Дания — Тунис: онлайн-трансляция матча чемпионата мира ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR2h5PQVSbtV0FL_viEawpwUM-M2lpstFWuMLoBp6dGCPsE4bAMReG77ZtqHkizNkLfvmX2dMwu" alt="Дания — Тунис: онлайн-трансляция матча чемпионата мира ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Сегодня, 22 ноября, в матче 1-го тура группового этапа чемпионата мира по футболу — 2022 встретятся сборные Дании и Туниса. «Чемпионат» проведёт текстовую&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.ua-football.com/foreign/worldcup/1669114353-daniya-tunis-smotret-onlayn-live-pryamuyu-videotranslyaciyu-matcha-chempionata-mira-2022.html'>
+        </a><a href='https://www.sport-express.ru/football/world/2022/news/daniya-tunis-startovye-sostavy-komand-na-match-chempionata-mira-2022-goda-v-katare-2001501/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Дания - Тунис. Смотреть онлайн LIVE прямую видеотрансляцию ...</h3>
+                <h3>Дания — Тунис: стали известны стартовые составы команд</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSH9XpgCJlXfSi5YgpDAyJBP0UDjq_F4YCfaNj7YIsAyZBHM-6JyIxWASWtYf6AEb-L6POIRPwV" alt="Дания - Тунис. Смотреть онлайн LIVE прямую видеотрансляцию ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Дания - Тунис ⚽ 22.11.2022 ⚽ Смотреть онлайн трансляцию матча ✓ ЧМ-2022 ✓ Футбольные видеотрансляции ☛ Матчи чемпионата мира 2022 на UA-Футбол.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRG6-bbHrFrDI8malm93AqP-VLwiUr4APuZkw_Ed-M14wHRZfe_mahht3mvRL6p6poblIvZDEql" alt="Дания — Тунис: стали известны стартовые составы команд" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сборные Дании и Туниса объявили стартовые составы на матч группового турнира ЧМ-2022.</p></div>
             </div>
-        </a><a href='https://sport.24tv.ua/ru/danija-tunis-rezultat-matcha-chempionata-mira-2022-videoobzor-24-kanal-sport_n2203081'>
+        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1727960_Danija__Tunis_obzor_matcha_ChM_2022_po_futbolu_22_nojabra_smotret_luchshije_momenty'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Дания и Тунис в зрелищном противостоянии провели первый ...</h3>
+                <h3>Дания — Тунис: обзор матча ЧМ-2022 по футболу 22 ноября ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQQiaxQpREyJdvjyV4V14413LpksvDmzkp7_GPEOtoaL9Wta2PbfLAkWVm32-qm8aSq79-Hbar7" alt="Дания и Тунис в зрелищном противостоянии провели первый ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Дания – Тунис. Как сыграли команды на чемпионате мира-2022? Результат и видеообзор матча чемпионата мира-2022 Дания – Тунис – смотрите на 24 канале.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQwMCWM1vIGArxPUgo2vxUQyrfh3-A26rUDz4OZ9nHW2hP4K95OSQcJtS0nLiyB7sz5qcA-Y2cn" alt="Дания — Тунис: обзор матча ЧМ-2022 по футболу 22 ноября ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сборные Дании и Туниса сыграли вничью в матче группового этапа чемпионата мира‑2022 по футболу, который проходит в Катаре.</p></div>
             </div>
-        </a><a href='https://sport.ua/news/604556-daniya-tunis-video-golov-i-obzor-matcha-obnovlyaetsya'>
+        </a><a href='https://sportrbc.ru/news/637bf71b9a794745c18d4829'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Дания – Тунис. Видео голов и обзор матча (обновляется)</h3>
+                <h3>Дания — Тунис</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRa8SFCfeSvpOzckqctoeZzYwBX6QkyWLFYRwdwgNJWn6dBjN8SF5eubmG4154uN9qqYwMpxyh7" alt="Дания – Тунис. Видео голов и обзор матча (обновляется)" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Обзор и видео голов матча {Дания} – {Тунис} ⇒ ≺{22.11.2022}≻ ✓ {Чемпионат мира} Футбольные видео ☛ Лучшие моменты матча, обзоры и комментарии лучших&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQPnU4ocIR8mrrGZSGTjJq_3sBGkhzQAdyCvxevkNLIjHSv_zJHywNf8doFzgJK7k-B8bvmbMrz" alt="Дания — Тунис" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>На этом будем прощаться, пожелаем сборным Дании и Туниса побед в следующих матчах и поблагодарим за игру! Онлайн матча для вас провел корреспондент «РБК&nbsp;...</p></div>
             </div>
-        </a><a href='https://kp.ua/sport/a659945-danija-tunis-pervaja-nulevaja-nichja-na-chm-i-vozvrashchenie-eriksena'>
+        </a><a href='https://www.sports.ru/football/1113506683-daniya-tunis-00-obzor-matcha-chempionata-mira-po-futbolu-22-112022.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Дания – Тунис: первая нулевая ничья на ЧМ и возвращение ...</h3>
+                <h3>Дания — Тунис — 0:0, обзор матча Чемпионата мира по футболу ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ9ucX-j_q_ML7HdX1yEuPOqYfRKECy7gkTmj1nZsVTTV5dZy0qp9siN_3thvkt--BeUHOakEKv" alt="Дания – Тунис: первая нулевая ничья на ЧМ и возвращение ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Первый матч группы «D» на ЧМ по футболу в Катаре между сборными Дании и Туниса завершился безрезультативной ничьей.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ-yB_kCOPEMrZ1kmDqPJmhKwM9p0m7V2Jp6LSHyexgdm4UAz8DO2sAjhaWgBQ3SeriLDk7qenY" alt="Дания — Тунис — 0:0, обзор матча Чемпионата мира по футболу ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Первые пять минут команды провели активно и обменивались опасными атаками. После игроки взяли паузу и основная борьба шла в центре поля. На 21 минуте Иссам&nbsp;...</p></div>
             </div>
-        </a><a href='https://fakty.ua/411165-daniya-spotknulas-na-neustupchivyh-afrikancah-videoobzor-matcha-chm-2022'>
+        </a><a href='https://news.ru/football/daniya-i-tunis-sygrali-vnichyu-na-chm-2022-v-katare/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Данія спіткнулася на непоступливих африканцях: відеоогляд ...</h3>
+                <h3>Дания и Тунис сыграли вничью на ЧМ-2022 в Катаре</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSzxAoZ-tnMcIvRP6dP3LAg7EQRLlgum2H2RNQkA-Tbz4k2PaEdYz9MIl-A04wTdPNSHOd5vOzn" alt="Данія спіткнулася на непоступливих африканцях: відеоогляд ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Збірна Данії зіграла внічию з командою Тунісу у своєму стартовому поєдинку на чемпіонаті світу з футболу у Катарі.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRQzlksYLcwKD0mk8r56cS6uKlcQzyCGdXCLamX8AybyQbGxjXb3nJg5wal-ZZ0TappT_T2RciD" alt="Дания и Тунис сыграли вничью на ЧМ-2022 в Катаре" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сборные Дании и Туниса сыграли вничью во втором туре группового этапа чемпионата мира по футболу в Катаре. Встреча завершилась со счетом 0:0.</p></div>
             </div>
-        </a><a href='https://tsn.ua/prosport/daniya-nespodivano-ne-zmogla-zlamati-opir-tunisu-na-chs-2022-arbitr-ne-priznachiv-superechliviy-penalti-2207251.html'>
+        </a><a href='https://www.rusfootball.info/worldcup2022/1146689444-daniya-i-tunis-ne-smogli-vyyavit-pobeditelya-eto-pervaya-nulevaya-nichya-na-chm.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Данія несподівано не змогла зламати опір Тунісу на ЧС-2022 ...</h3>
+                <h3>Дания и Тунис не смогли выявить победителя. Это первая ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS6A_i2lSgAFBJ0VlofsAFkcqHkRm_6j2ws8zSwsHp6B5px4Z1dK6xhZche-mqUGDFedlEpOrjp" alt="Данія несподівано не змогла зламати опір Тунісу на ЧС-2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Збірні Данії та Тунісу розписали нічию в рамках 1-го туру групи D чемпіонату світу з футболу 2022 року, який відбувся 22 листопада в Ер-Раяні.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRPJEgktuUaiYrs-s8z9jXgEboLQy4GU4p2n3GOWnCWF5qKSmiZvpfF04lOC6RgskZ0oXM0c7ql" alt="Дания и Тунис не смогли выявить победителя. Это первая ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Матч первого тура группы D между Данией и Тунисом завершился со счетом 0:0. Сборные Дании и Туниса встречались в рамках группы D. Команды так и не смогли&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

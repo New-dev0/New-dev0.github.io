@@ -11,49 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Mexico vs Poland"/>
         <meta name="description" content="Trending News about Mexico vs Poland" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Mexico vs Poland</h1>
-            <Image width={800} height={500} src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt131f24da016e6a34/6378b48fd0bb084e87cd344f/MP_ochoa_mexico_vs_lewandowski_poland-worldcup-md1.jpg" alt="Mexico vs Poland"/>
+            <Image width={800} height={500} src="https://theathletic-media-production.s3-us-west-2.amazonaws.com/Mj4ydoCZboxs_Tf79qRDsuxJ3_1440x960.jpg" alt="Mexico vs Poland"/>
             <h3>Recent News</h3>
-            <a href='https://www.goal.com/en-in/news/mexico-vs-poland-lineups-and-live-updates/blt72657d93ddea2404'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mexico vs Poland: Lineups and LIVE updates</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ2kWib6D50At2VSV3BAzN44BURU1ujwKm1ZXXCP-QhwP3IULxHBhpVaMCZVAIXvjYoGnyOR0qT" alt="Mexico vs Poland: Lineups and LIVE updates" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mexico square off against the Robert Lewandowski-led Poland in their Group C opener.</p></div>
-            </div>
-        </a><a href='https://sportstar.thehindu.com/football/fifa-world-cup/news/fifa-world-cup-mexico-vs-poland-ochoa-lewandowski-penalty-save-group-c/article66171300.ece'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ochoa saves Lewandowski penalty in Mexico vs Poland, shines ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSGqxlptTBqFabwgYeBenM7MNqvZtZGJCn9uOhqDagb9hkr9wSIv6qCiwneyogWSCThDucdkdDO" alt="Ochoa saves Lewandowski penalty in Mexico vs Poland, shines ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Poland won a penalty in the 57th minute but the Mexican keeper denied Lewandowski his first World Cup goal.</p></div>
-            </div>
-        </a><a href='https://www.hindustantimes.com/sports/football/mexico-vs-poland-live-score-fifa-world-cup-2022-football-latest-updates-mex-vs-pol-stadium-974-qatar-101669126733936.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mexico vs Poland Highlights FIFA World Cup 2022: MEX, POL settle ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRSNy-RSyuWlmLDSExd8DvpMNTSGGX3FvYpyciDlfyenKfvo5IoCxjp-qfNmhFfYz6ws2LNfv9o" alt="Mexico vs Poland Highlights FIFA World Cup 2022: MEX, POL settle ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mexico vs Poland FIFA World Cup 2022 Highlights: Robert Lewandowski missed a penalty as Poland were held to a 0-0 draw vs Mexico, on Tuesday.</p></div>
-            </div>
-        </a><a href='https://theathletic.com/live-blogs/mexico-poland-score-2022-world-cup/Mj4ydoCZboxs/'>
+            <a href='https://theathletic.com/live-blogs/mexico-poland-score-2022-world-cup/Mj4ydoCZboxs/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Highlights and analysis of Mexico and Poland&#39;s goalless draw in ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRGIgTbc8amaSgC616Hk4d1nDLg4sXsidrhmLBl4dK73B_Wga5ebax7UBnPOHWHBwJh8miz9mAY" alt="Highlights and analysis of Mexico and Poland&#39;s goalless draw in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>An open game at Stadium 974 saw Mexico get the better of the start, with Ernesto Vega going closest with a header.However, a foul on Robert Lewandowski in&nbsp;...</p></div>
             </div>
-        </a><a href='https://sports.ndtv.com/fifa-world-cup-2022/fifa-world-cup-2022-live-mexico-vs-poland-live-score-3543520'>
+        </a><a href='https://www.sportingnews.com/us/soccer/news/mexico-vs-poland-world-cup-live-score-result/sdz7hrvc0okpgnlckw1p4zvo'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mexico vs Poland FIFA World Cup 2022 Highlights: Robert ...</h3>
+                <h3>Mexico vs Poland final score, result: Memo Ochoa extends Robert ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTva-zho_prpnwV3vfaVFHY1jxd_v3bo_fP_f0gHAagZ2CGazAGzXvHJzqvGf4Ga6RpJwn-XD9U" alt="Mexico vs Poland FIFA World Cup 2022 Highlights: Robert ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>FIFA World Cup 2022, Mexico vs Poland Highlights: Poland and Mexico played out a goalles draw in Group C match of FIFA World Cup 2022 at Stadium 974 on&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT4ZQGsjHOh9VN7f3TuT4BVHF7rMkIqWgCugtFdHqk8gweHIRvIwJ15tzGjqeYgTxidCo33EEjp" alt="Mexico vs Poland final score, result: Memo Ochoa extends Robert ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Sporting News is tracking live scoring updates and highlights for Mexico vs Poland at the 2022 World Cup. Follow for complete results from the Group C match&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.aljazeera.com/sports/liveblog/2022/11/22/live-mexico-vs-poland-world-cup-2022'>
+        </a><a href='https://www.espn.com/soccer/report/_/gameId/633793'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mexico vs Poland 0-0: World Cup 2022 – as it happened</h3>
+                <h3>Mexico vs. Poland - Football Match Report - November 22, 2022 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQjIm57uj8P3bodSi7rpNKDji6D6O8BihEFUI1eXvxKjFTawpBUDW-JGM58G7gGpzQFMGABJ3pt" alt="Mexico vs Poland 0-0: World Cup 2022 – as it happened" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>All the updates from the FIFA World Cup 2022 match between Mexico and Poland at Stadium 974 in Doha, Qatar.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQZSqCESSIWBfhMJiTqaq5zwCnLWYjPeh4p2g3oba4GC7_XnAO0AEKmUhOkP-uV1vfEMWVkh5XV" alt="Mexico vs. Poland - Football Match Report - November 22, 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Get a report of the Mexico vs. Poland 2022 FIFA World Cup, Group Stage football match.</p></div>
+            </div>
+        </a><a href='https://www.latimes.com/sports/soccer/liveblog/world-cup-mexico-poland-live-updates-start-time-score-blog'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>World Cup: Memo Ochoa helps Mexico escape with scoreless draw</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ46oD-Owj_mmH_7japDELzsEUBXisH3o39Ii9Ya-hyxXWH_veqrnkW0C2sUTT3bj-2iXMbt-ct" alt="World Cup: Memo Ochoa helps Mexico escape with scoreless draw" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mexico goalkeeper Memo Ochoa blocks a penalty kick by Poland&#39;s Robert Lewandowski during a World Cup Group C match at Stadium 974 in Doha, Qatar, Tuesday. (&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.cbssports.com/soccer/news/mexico-vs-poland-score-memo-ochoa-stops-robert-lewandowski-penalty-shot-in-scoreless-world-cup-draw/live/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Mexico vs. Poland score: Memo Ochoa stops Robert Lewandowski ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSy4SbaAq7Dz-6tmc92Q5kZL_BPMjH1LzGYzeoU77wnEstgfWU4soGRFgpfL4GVOaw7RlxiB_5A" alt="Mexico vs. Poland score: Memo Ochoa stops Robert Lewandowski ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mexico and Poland settled for a scoreless draw on Tuesday. Mexico dominated possession of the ball and tried to attack out wide, featuring their wingers&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.foxsports.com/stories/soccer/world-cup-now-3-takeaways-from-mexicos-heroic-draw-vs-poland'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>World Cup Now: 3 takeaways from Mexico&#39;s heroic draw vs. Poland</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSO2TLruhzvl4sgzDneSntre_KzwOefCvM4KMeM1BA_HUJEPPdAhtYEdMBQeSC9dng0HwKwVKDH" alt="World Cup Now: 3 takeaways from Mexico&#39;s heroic draw vs. Poland" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>FOX Sports soccer analysts and former United States men&#39;s national team players Jimmy Conrad and Sacha Kljestan gave their takeaways from the game and discussed&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

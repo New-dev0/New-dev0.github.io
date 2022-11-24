@@ -20,33 +20,40 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSv5hYeqEJjkxQ2zcilCswvTAu9zki9cYkK40h8PXEFi9KQ45qrB9njEPysTpaz1lQcfV6c1tP7" alt="Helicopter crash leaves TV meteorologist and pilot dead in Charlotte ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>WBTV meteorologist Jason Myers and pilot Chip Tayag were identified as the victims in the crash.</p></div>
             </div>
-        </a><a href='https://www.wsaz.com/2022/11/22/2-dead-helicopter-crash-interstate-charlotte/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>LIVE: Meteorologist and pilot killed in helicopter crash in Charlotte ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRkhFYAeQnyL0ugUPfTEum54nCC6jfa7PIG3FWFoLcXe2ig_BQ0os3Bb4p3fr0vbajLVsMtVq7X" alt="LIVE: Meteorologist and pilot killed in helicopter crash in Charlotte ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Meteorologist Jason Myers and pilot Chip Tayag, who worked for Charlotte television station WBTV, were killed in a helicopter crash early Tuesday afternoon.</p></div>
-            </div>
         </a><a href='https://www.wbtv.com/2022/11/22/crews-scene-helicopter-crash-i-77-south-south-charlotte/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>WBTV helicopter crashes on I-77 South, two killed</h3>
+                <h3>I-77 South reopens after deadly helicopter crash</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT32KNxqLd9S59iHXb7fTSMvX__tY2J7KlKphHgXmUCj_Xp_THdZQvNMVaebANZCFpxvfo3ytXq" alt="WBTV helicopter crashes on I-77 South, two killed" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>CHARLOTTE, N.C. (WBTV) – WBTV Meteorologist Jason Myers and Sky3 pilot Chip Tayag were killed in a helicopter crash in the southbound lanes of Interstate 77&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcST-W2HxDUqTzg7aUL9x4HN-3HRLvLL7wYCVGqRf_9tlZecz91jrmVAH_WWKaj2Q0pQLRLTl_Cm" alt="I-77 South reopens after deadly helicopter crash" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>CHARLOTTE, N.C. (WBTV) – The southbound lanes of Interstate 77 in south Charlotte have reopened after Tuesday&#39;s helicopter crash that killed WBTV&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.cbsnews.com/news/charlotte-north-carolina-helicopter-crash-deaths/'>
+        </a><a href='https://www.wsoctv.com/news/local/helicopter-crashes-near-interstate-77-south-charlotte/FK47VEBOT5H2NKDRA7ZJTHVBVQ/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Local meteorologist and pilot killed in North Carolina helicopter crash</h3>
+                <h3>2 dead in helicopter crash near I-77 in south Charlotte</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcREnVapyM_q4lGtK2r4O2grkVPDlBHwYsABghz5x6bapbjQjWYBlPgC5hlbkh2ZJLZu_TsLDSn4" alt="Local meteorologist and pilot killed in North Carolina helicopter crash" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>CBS Charlotte affiliate WBTV​ identified the two people killed as Jason Myers, a meteorologist at the station, and Chip Tayag, the helicopter&#39;s pilot.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQABNjo-4-qgeYKOjN9IhoPdbhaed-uB_gK0OpWF15OmyGBR8UEp75PtFVdXd4c8t0znfmraDxv" alt="2 dead in helicopter crash near I-77 in south Charlotte" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The accident occurred near Interstate 77 at Nations Ford Road. MEDIC confirmed that two people were pronounced deceased on the scene. At about 3 p.m. Tuesday,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.wcnc.com/article/news/local/helicopter-crash-interstate-77-charlotte-north-carolina/275-516aeaad-01d0-4227-a87c-9523e5ace28a'>
+        </a><a href='https://www.charlotteobserver.com/news/local/article269107697.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>2 dead in TV news helicopter crash near I-77: Medic</h3>
+                <h3>What to know: The Charlotte helicopter crash that killed 2 on I-77</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQUtwD8nMJebfrMHq24UZ2stLK3BeDmgjLumAh5e0w-vsjzqB-s7dRlCY_R4No771DAbs87aj8P" alt="2 dead in TV news helicopter crash near I-77: Medic" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Two people were killed when a Robinson R44 chopper belonging to WBTV News crashed near I-77 in Charlotte Tuesday. The FAA &amp; NTSB are investigating.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQTYk9al3dn91-KQD3LyKue2mkO52L8QyTDDRYYr1BD7_WXeDqfAM3ECSZJKGJkoyTQDWrwuPSV" alt="What to know: The Charlotte helicopter crash that killed 2 on I-77" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Two WBTV employees were killed in a helicopter crash Tuesday afternoon in Charlotte while aboard a Robinson R44 aircraft.</p></div>
+            </div>
+        </a><a href='https://spectrumlocalnews.com/nc/charlotte/news/2022/11/22/helicopter-crash-shuts-down-i-77-in-south-charlotte'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>I-77 fully reopens in area of Tuesday&#39;s deadly news helicopter crash</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQLH9DRJiYldv7mSBAum2Wk4AJ90plvII4VVMNqe3DuZayZ7Y2WJmxm2cZ_hHd87VsnhwKJ1AkZ" alt="I-77 fully reopens in area of Tuesday&#39;s deadly news helicopter crash" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Meteorologist Jason Myers and pilot Chip Tayag were identified as the people killed in the crash in a statement by WBTV — and by coworkers who&#39;d been reporting&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.ky3.com/2022/11/22/2-dead-helicopter-crash-interstate-charlotte/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Meteorologist and pilot killed in helicopter crash in Charlotte, N.C.</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRo0Xh3tMuq7n9EFlVTNKArw98FCGKELgMM1LwzEsyrT-1Y-kj98zLkEN2Lr9ElqHbEsx9bt8wZ" alt="Meteorologist and pilot killed in helicopter crash in Charlotte, N.C." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Meteorologist Jason Myers and pilot Chip Tayag, who worked for Charlotte television station WBTV, were killed in a helicopter crash early Tuesday afternoon.</p></div>
             </div>
         </a>
         </Template></>;

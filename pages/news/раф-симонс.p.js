@@ -27,19 +27,19 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRQBVQUB5O7QcqdSQYKvQYJQ4dhN8ySsVN2H9n0299Tz2K0QjUFa8gL8KFldigBRF77v3xN002e" alt="Раф Симонс объявил о закрытии собственного бренда" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Бельгийский дизайнер Раф Симонс закрывает собственный бренд. Об этом сообщается в соцсетях компании Raf Simons.</p></div>
             </div>
-        </a><a href='https://www.buro247.ru/news/style/22-nov-2022-raf-simons-closure-of-his-name-brand.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Раф Симонс объявил о закрытии своего именного бренда</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRQB-LskzghHIphQiOAQrJsttz4zziFeebUqS23Z6ehZcUmWPkIqZxegj6xVjXH8laD07dRS6ij" alt="Раф Симонс объявил о закрытии своего именного бренда" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В заключении Симонс поблагодарил за веру в его видение и в него самого. Raf Simons был запущен в 1995 году. Дизайнер продолжал развивать его, работая в крупных&nbsp;...</p></div>
-            </div>
         </a><a href='https://daily.afisha.ru/news/70270-raf-simons-zakroet/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Раф Симонс закроет свой бренд</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS0s6--u890FdR2B7kEAdYAGzWnMkUwmwsZOq6idOjv_cXN2b7DdAjBNbpFciePaYpTyFbtUY0i" alt="Раф Симонс закроет свой бренд" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Симонс создал свой бренд в 1995 году. Дизайнер продолжал развивать его, работая в крупных домах моды, включая Jil Sander, Dior и Calvin Klein. Изделия,&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.buro247.ru/news/style/22-nov-2022-raf-simons-closure-of-his-name-brand.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Раф Симонс объявил о закрытии своего именного бренда</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRQB-LskzghHIphQiOAQrJsttz4zziFeebUqS23Z6ehZcUmWPkIqZxegj6xVjXH8laD07dRS6ij" alt="Раф Симонс объявил о закрытии своего именного бренда" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В заключении Симонс поблагодарил за веру в его видение и в него самого. Raf Simons был запущен в 1995 году. Дизайнер продолжал развивать его, работая в крупных&nbsp;...</p></div>
             </div>
         </a><a href='https://thecity.m24.ru/articles/7758'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

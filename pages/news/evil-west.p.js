@@ -11,9 +11,16 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Evil West"/>
         <meta name="description" content="Trending News about Evil West" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Evil West</h1>
-            <Image width={800} height={500} src="https://img.championat.com/news2/social/4/cb/4901289.jpg" alt="Evil West"/>
+            <Image width={800} height={500} src="https://media.kg-portal.ru/games/e/evilwest/trailers/51241t.jpg" alt="Evil West"/>
             <h3>Recent News</h3>
-            <a href='https://www.championat.com/cybersport/news-4901289-evil-west-koop-ekshen-pro-vampirov-vzlomali-pryamo-v-den-reliza.html'>
+            <a href='https://kg-portal.ru/comments/109957-evil-west-premernyj-trejler/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Evil West — премьерный трейлер отличного духовного ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSJbhuS9Y_3YFOfj0b30AvhfIG9fTE7k0ps3wh-NVuV6P5ZQb8z7dBMjIAs4adMfKqJYeFZlJ9E" alt="Evil West — премьерный трейлер отличного духовного ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>На днях состоялся релиз вдохновлённого God of War экшена Evil West от создателей современной трилогии Shadow Warrior — студии Flying Wild Hog.</p></div>
+            </div>
+        </a><a href='https://www.championat.com/cybersport/news-4901289-evil-west-koop-ekshen-pro-vampirov-vzlomali-pryamo-v-den-reliza.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Evil West, кооп-экшен про вампиров, взломали прямо в день релиза</h3>
                 <div style={{ display: "flex" }}>
@@ -25,14 +32,14 @@ export default function Page() {
                 <h3>Бесхитростное веселье: вампирский вестерн Evil West вернул ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRBt-2awndtPRhniMdpFynAXuOi6wNQaXpwew4uV4FqeNKmZ01MdF8k2WMz_MFBzjb9l-JvYuAh" alt="Бесхитростное веселье: вампирский вестерн Evil West вернул ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Вампирский вестерн Evil West уже добрался до игроков, но ещё раньше совместное творение издательства Focus Entertainment и разработчиков из студии Flying&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Рейтинг Evil West варьируется от 73 (PC, Xbox Series X и S) до 75 % (PS5). Новый проект Flying Wild Hog встал в один ряд с другими релизами студии 2022 года:&nbsp;...</p></div>
             </div>
-        </a><a href='https://shazoo.ru/2022/11/22/135621/ocenki-evil-west-dobrotnyi-suter-na-paru-vecerov'>
+        </a><a href='https://shazoo.ru/2022/11/23/135641/eksen-evil-west-sravnili-na-pc-ps5-i-xbox-series-xs'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Оценки Evil West: Добротный шутер на пару вечеров</h3>
+                <h3>Экшен Evil West сравнили на PC, PS5 и Xbox Series X/S</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS1OL_XaySqmYcFJ-KXKd85OLEEbGMNqQxuKdT7DQ9zfL2S_F5UJGn4Dbtr5XmAevrSi2qBc002" alt="Оценки Evil West: Добротный шутер на пару вечеров" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Сегодня состоялся релиз Evil West — необычного экшена в сеттинге Дикого Запада с различными демонами, вампирами и другими тварями от студии Flying Wild Hog&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT-JQ0gHXehn4X4jP8niFtlDTdm8IeOVTX_9Iib26rpdlvRV3Yc9N0hqps8dNJ2MTEHgX-VAijcPg" alt="Экшен Evil West сравнили на PC, PS5 и Xbox Series X/S" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>На канале ElAnalistaDeBits вышло видео, в котором можно увидеть сравнение экшена Evil West на PC, PS5 и Xbox Series X/S. Лучше всего игра выглядит на PC при&nbsp;...</p></div>
             </div>
         </a><a href='https://www.goha.ru/obzor-evil-west-slavnyj-boevik-iz-nostalgicheskogo-proshlogo-x1kVVA'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -54,13 +61,6 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQClkMmAYjHNySIUcdVPcfVg5CZh5jfWJj-C5wj8zeNaEopvoGAvWVWuNk3pqpya-XvclrVeWsz" alt="Ковбой против вампиров и демонов — состоялся релиз экшена ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Focus Entertainment и Flying Wild Hog выпустили вампирский экшен Evil West, представив по этому случаю зрелищный релизный трейлер проекта.</p></div>
-            </div>
-        </a><a href='https://www.overclockers.ua/news/games/2022-11-22/131807/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>В продажу поступил боевик Evil West</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT6JMWwPyyA1NHYfFCeqk7EFX7pIyZIocaLVkq_rNOSSxAkStQ0nYAK4UmTZZSsd53n1ez21nbk" alt="В продажу поступил боевик Evil West" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Стартовали продажи новой игры от польской студии Flying Wild Hog и издателя Focus Entertainment. Боевик Evil West предлагает истреблять вампиров в антураже&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
