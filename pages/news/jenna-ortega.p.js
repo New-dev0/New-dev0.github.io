@@ -11,56 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Jenna Ortega"/>
         <meta name="description" content="Trending News about Jenna Ortega" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Jenna Ortega</h1>
-            <Image width={800} height={500} src="https://img.olhardigital.com.br/wp-content/uploads/2022/11/WEDNESDAY_101_Unit_00881RC.jpg" alt="Jenna Ortega"/>
+            <Image width={800} height={500} src="https://imgs.capitalfm.com/images/542410?width=1000&crop=16_9&signature=Pvy7OPzzZwGs25IrFleEclOXXOk=" alt="Jenna Ortega"/>
             <h3>Recent News</h3>
-            <a href='https://olhardigital.com.br/2022/11/23/cinema-e-streaming/quem-e-jenna-ortega-conheca-a-protagonista-de-wandinha/'>
+            <a href='https://www.capitalfm.com/news/jenna-ortega-christina-ricci-wednesday-addams/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Quem é Jenna Ortega? Conheça a protagonista de “Wandinha”</h3>
+                <h3>Jenna Ortega &amp; Christina Ricci&#39;s iconic transition from Wednesday ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQwd9NpCDTleAHmAwKrNYg2UeS2uAnqaHZErbxeKCkuDg9aA9m3UUxTxaL2BCek3bkjtpeKUGiG" alt="Quem é Jenna Ortega? Conheça a protagonista de “Wandinha”" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A série “Wandinha” acaba de chegar à Netflix, e seu maior destaque é a atriz Jenna Ortega, que vive a protagonista da nova produção sobre a Família Addams&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQIsS4Ox0o6USxxttIIjy5ztiQnjPWf7cfutiP1bxN5kkyks9idSaLQ_rcX1PHVY9yAOj1Rj-b8" alt="Jenna Ortega &amp; Christina Ricci&#39;s iconic transition from Wednesday ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Both Jenna Ortega and Christina Ricci have flourished in their roles as Wednesday Addams - and they now are starring together in the new Netflix series of&nbsp;...</p></div>
             </div>
-        </a><a href='https://gauchazh.clicrbs.com.br/cultura-e-lazer/tv/noticia/2022/11/jenna-ortega-revela-semelhanca-com-wandinha-costumava-fazer-autopsias-em-pequenos-animais-quando-mais-nova-clau30dog00dh014ugkjac6qm.html'>
+        </a><a href='https://www.pinkvilla.com/entertainment/hollywood/wednesday-star-jenna-ortega-reveals-how-billie-eilish-influenced-her-character-wednesday-addams-1200385'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Jenna Ortega revela semelhança com Wandinha: &quot;Costumava fazer ...</h3>
+                <h3>Wednesday star Jenna Ortega REVEALS how Billie Eilish ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRdVtNXRGZ6qykXQrHBfCakQWPIogRzCJ3DCO7Plg4YgeFhHB4PpFtxCeOWtnMZz3X4GLR-Y8H6" alt="Jenna Ortega revela semelhança com Wandinha: &quot;Costumava fazer ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Atriz interpreta a filha da Família Addams na série da Netflix que estreou nesta quarta.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRtoaO3ZaM-ctu1MAipmLH5G52k369o-XwvnzfCR6FNObUIDMY3HKi-6aUlTSVk3F-xbAqYEZR_" alt="Wednesday star Jenna Ortega REVEALS how Billie Eilish ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Jenna Ortega, who plays Wednesday Addams in Tim Burton&#39;s Wednesday, disclosed about her beloved character: We weren&#39;t making her like every other teenage&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.eonline.com/br/news/1355819/jenna-ortega-de-wandinha-diz-que-fazia-autopsia-em-animais-mortos'>
+        </a><a href='https://www.crowrivermedia.com/national/entertainment/jenna-ortega-performed-autopsies-on-animals-as-a-kid/article_691b1d09-842a-55ea-b059-3b8731f135e7.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Jenna Ortega, de Wandinha, diz que fazia autópsia em animais</h3>
+                <h3>Jenna Ortega performed autopsies on animals as a kid</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSiQcBoVHiMTZ2vfuyVGgvm4D4cZMHohbF4Iv0N_6LVJOTMGk6eerJUZ-Q3Ss6qet_WFMGWHc95" alt="Jenna Ortega, de Wandinha, diz que fazia autópsia em animais" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A atriz revelou que, quando criança, costumava realizar autópsias em animais, incluindo lagartos. Veja os detalhes.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRnYP0IScHc0Zm7yuAbLlvmYlp3Ik4llaUXXheccdvlWjlGZSurKmzN3xxeTwm6k485B9HHQqsu" alt="Jenna Ortega performed autopsies on animals as a kid" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>&#39;Wednesday&#39; actress Jenna Ortega used to &quot;perform autopsies on little animals&quot; as a child, while she thinks her &quot;dark&quot; sense of humour creeped out Christina&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.legiaodosherois.com.br/lista/jenna-ortega-filmes-series-atriz-wandinha.html'>
+        </a><a href='https://www.nme.com/news/tv/wednesday-jenna-ortega-praises-netflix-faddams-hispanic-3355337'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Jenna Ortega: 6 filmes e séries para conhecer a atriz de Wandinha</h3>
+                <h3>Jenna Ortega praises Netflix for making Wednesday Addams Hispanic</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSLy8hmDcnjCqUs_u_KRwvPUZeKufKkvF4Lc1BzhsH2BwkO8IZ5PxCZU2i7QWZbHxZJj15BlHaj" alt="Jenna Ortega: 6 filmes e séries para conhecer a atriz de Wandinha" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Com apenas 20 anos de idade, Jenna Ortega já se tornou uma grande estrela, sobretudo quando falamos de produções de horror. A atriz está em uma crescente&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSxrQUqVH8LL_u4NehvURfl6l2gJ7LTSgPFM3wE9DA8RdD8OBocF-0_NQeIbdLkp4mkoKkr3cpA" alt="Jenna Ortega praises Netflix for making Wednesday Addams Hispanic" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The actor plays the iconic character in Tim Burton&#39;s Netflix reboot series Wednesday, and opened up about the character in an interview with NME. Read More: &#39;&nbsp;...</p></div>
             </div>
-        </a><a href='https://br.bolavip.com/entretenimento/Eu-costumava-fazer...-Jenna-Ortega-estrela-de-Wandinha-fala-sobre-semelhancas-de-sua-vida-com-a-personagem-e-comenta-bastidores-da-serie-Netflix-dirigida-por-Tim-Burton-20221123-0204.html'>
+        </a><a href='https://screenrant.com/wednesday-addams-christina-ricci-jenna-ortega-differences/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&quot;Eu costumava fazer...&quot;; Jenna Ortega, estrela de Wandinha, fala ...</h3>
+                <h3>Wednesday: 10 Differences Between Jenna Ortega &amp; Christina ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRAw58tCUvpuoKULaMwlEjulQ8iRGz3iyHG66NUjp2DVhQnf7pAOahVodCKzlCjnF5kY8jrshz5" alt="&quot;Eu costumava fazer...&quot;; Jenna Ortega, estrela de Wandinha, fala ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Jenna Ortega é a estrela de Wandinha, série da Netflix que estreou debaixo de grande expectativa, nesta quarta (23)</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSZ8pWN2hzguwZvz7HXmfA1HBejYe4Qmskk-x0-EnN1lkw0g4UPfZtfFLx_qPHwBKey1kTLFQWT" alt="Wednesday: 10 Differences Between Jenna Ortega &amp; Christina ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>It&#39;s fun to compare how Christina Ricci and Jenna Ortega play The Addams Family character Wednesday in the 1990s movies and Netflix series.</p></div>
             </div>
-        </a><a href='https://br.vida-estilo.yahoo.com/jenna-ortega-interprete-de-wandinha-e-estrela-em-ascencao-do-terror-205555269.html'>
+        </a><a href='https://www.vanguardngr.com/2022/11/i-used-to-perform-autopsies-on-little-animals-american-actress-jenna-ortega/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Intérprete de &#39;Wandinha&#39;, Jenna Ortega é estrela em ascensão no ...</h3>
+                <h3>I used to perform autopsies on little animals – American actress ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRZxE00iJnq34IVB_NTMTionjqTUx2ygPke3JD_i_QttN346_bCyC639WtU6eJurgSJMdg22yOx" alt="Intérprete de &#39;Wandinha&#39;, Jenna Ortega é estrela em ascensão no ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A atriz Jenna Ortega estreia oficialmente como Wandinha na nova série da Família Addams, que chegou nesta quarta-feira (23) à Netflix.</p></div>
-            </div>
-        </a><a href='https://portalpopline.com.br/atrizes-interpretaram-wandinha-antes-jenna-ortega/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Atrizes que interpretaram Wandinha antes de Jenna Ortega</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRKCAkj7-xsrcpxxsa3clAzLFo8InyjL7GAzmfpWj3qmR2pbdJHHhJXCoj-GvOFE6tq0YDz9MpU" alt="Atrizes que interpretaram Wandinha antes de Jenna Ortega" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Sucesso na TV, no cinema e no teatro, Wandinha ganha nova versão no streaming.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRVvEw-NdZBbiUXYSOWiR_jRcv0LyQYca4cjosZuHUaEFt5-lCd94LrpHljqNzwNHLR9bTWCdzO" alt="I used to perform autopsies on little animals – American actress ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>By Biodun Busari. American actress, Jenna Ortega says she used to perform autopsies on dead animals as she shared her strange childhood hobbies when growing&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

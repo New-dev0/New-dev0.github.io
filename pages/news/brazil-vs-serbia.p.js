@@ -11,56 +11,42 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Brazil vs Serbia"/>
         <meta name="description" content="Trending News about Brazil vs Serbia" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Brazil vs Serbia</h1>
-            <Image width={800} height={500} src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt7202b41a17a82757/63610a5e64bc6451c59fbf79/GettyImages-1414258813.jpg" alt="Brazil vs Serbia"/>
+            <Image width={800} height={500} src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt9ce3314bf32401e8/637c928d678f637cf694ace6/MP_Neymar_Brazil_vs_Aleksandar_Mitrovic_Serbia.jpg" alt="Brazil vs Serbia"/>
             <h3>Recent News</h3>
-            <a href='https://www.goal.com/en/news/brazil-vs-serbia-predictions-tips-and-betting-odds/blta8dedca5853d3f12'>
+            <a href='https://www.goal.com/en-za/news/brazil-vs-serbia-lineups-and-live-updates/bltdc25b9bf0f624bc7'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brazil vs Serbia: Predictions, tips &amp; betting odds</h3>
+                <h3>Brazil vs Serbia: Lineups and LIVE updates</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRMv-Wm6x3dzvTTdui2YEKplY_w6vZxN3cyckpW6vjPwf-iDpIC6hEh6QhgwUJg8ahqt921iFO5" alt="Brazil vs Serbia: Predictions, tips &amp; betting odds" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>As one of the tournament favourites, Brazil will be determined to get off to a winning start at the World Cup when they take on Serbia on Thursday.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT3ZwJ1LFocE7E_Gxiz-3U9rMI0B6l7kiD6hb2YXrbWHMS4oSlPjPtQCniEzZK0DI5uChVC8qDW" alt="Brazil vs Serbia: Lineups and LIVE updates" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Brazil have been touted by many as one of the clear favourites. Can Neymar lead them to glory this time?</p></div>
             </div>
-        </a><a href='https://www.sportsmole.co.uk/football/brazil/world-cup-2022/feature/world-cup-2022-brazil-vs-serbia-head-to-head-record_500417.html'>
+        </a><a href='https://en.as.com/soccer/brazil-vs-serbia-live-online-score-stats-and-updates-world-cup-2022-n/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022: Brazil vs. Serbia head-to-head record</h3>
+                <h3>Brazil vs Serbia summary: Richarlison overhead kick, score, goals ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQK3xHpk_5ypbeL-JZIX9gcZ35O5Mk5T-kkmZczvo_b6VLHzXl7hI7x8rFroXQ1qWk2nEhIXpu2" alt="World Cup 2022: Brazil vs. Serbia head-to-head record" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ahead of Thursday&#39;s World Cup clash between Brazil and Serbia, Sports Mole looks back at the previous meetings between the two sides.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQE1ZtgBmGg4ce9-JJ5zZU0fHFAaXlkEeKzD-T6YbM8Ir7qoi34mITWT1CPtA6G-7rvaUkYiSUG" alt="Brazil vs Serbia summary: Richarlison overhead kick, score, goals ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Live updates as Brazil face Serbia in World Cup 2022 Group G at Lusail Stadium, Qatar, today, Thursday 24 November 2022. Kick-off: 2pm ET.</p></div>
             </div>
-        </a><a href='https://en.as.com/soccer/brazil-vs-serbia-times-how-to-watch-on-tv-stream-online-world-cup-2022-n/'>
+        </a><a href='https://www.sportingnews.com/us/soccer/news/brazil-vs-serbia-world-cup-live-score-result/xjm8fs3qzmqfjhdwgg0lyzpw'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brazil vs Serbia: times, how to watch on TV, stream online, World ...</h3>
+                <h3>Brazil vs Serbia final score, result: Richarlison stunner seals win as ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTIuw4EbSk9AAZhOGaLw8i5xiiqmQvlNWNPRUjJEB0wJ4PSHGGNWFohi83X7tcG0aP7TYm71mu8" alt="Brazil vs Serbia: times, how to watch on TV, stream online, World ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brazil plays Serbia at Lusail Stadium on 24/11/2022 with KICK-OFF TIME at 2:00 p.m..</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRNyrdqwzk_4w0bt3qpih372y2t-ZjxJDwqu4Yec_FHJyQ2kij-PQN20dcS8yR3Yn0o2A5hlWtH" alt="Brazil vs Serbia final score, result: Richarlison stunner seals win as ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Tournament heavyweights Brazil started their World Cup challenge by seeing off Group G rivals Serbia at the Lusail Stadium, thanks to Richarlison&#39;s&nbsp;...</p></div>
             </div>
-        </a><a href='https://khelnow.com/football/2022-11-world-football-fifa-world-cup-2022-brazil-vs-serbia-predicted-lineup-injury-news'>
+        </a><a href='https://www.aljazeera.com/news/liveblog/2022/11/24/live-brazil-vs-serbia-world-cup-2022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brazil vs Serbia: Predicted lineup, injury news, head-to-head</h3>
+                <h3>Brazil vs Serbia 2-0: World Cup 2022 – as it happened</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSjelqx6SqhJCH8qvy8oMuRc__EyDMOBcSjXjlB1wdxZ-jI0vQst5YsU_y4sP85eiJ5hzgeNU3V" alt="Brazil vs Serbia: Predicted lineup, injury news, head-to-head" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>An exciting clash awaits us as tournament favourites Brazil meet the dark horses Serbia in Group G at FIFA World Cup 2022 in Qatar.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT1vqahibnlBzaR25JM6nY46qXuVcaYbM1lwDJfcTCDF11hG5cYaZUm-o_itDaiRRwvFAWBZQXV" alt="Brazil vs Serbia 2-0: World Cup 2022 – as it happened" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>All the updates from the World Cup 2022 match between Brazil and Serbia at Lusail Stadium.</p></div>
             </div>
-        </a><a href='https://www.sportingnews.com/au/soccer/news/brazil-serbia-time-channel-live-stream-australia-world-cup/bqslt4ycezqi0uonvofkqrwi'>
+        </a><a href='https://www.si.com/soccer/2022/11/24/brazil-serbia-world-cup-2022-video-highlights-recap-neymar'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>How to watch Brazil vs. Serbia in Australia: Time, TV channel, live ...</h3>
+                <h3>Richarlison, Brazil Make Highlight-Reel Opening Statement vs ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTYmKGNEQC8v961vrdluILdtcp0cqIJtOxQDqjrliis7XhP_JPs3Oyc8lCoIRi-fzv4TrQ9gBfN" alt="How to watch Brazil vs. Serbia in Australia: Time, TV channel, live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Exactly 20 years on from Brazil&#39;s last World Cup triumph, the most successful nation in football history will be keen to lift the trophy for a sixth time in&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.telegraph.co.uk/betting/football/world-cup-2022/betting-tips-brazil-serbia-odds-free-bet/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Betting tips for Brazil vs Serbia: World Cup preview and odds</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS_dn8Mb9Zbbc-0Lqndnnn89-liF3NCyEW57bJnVm1zVOYRJILSvaV7iJLxyjbAiox9uy_oL7OA" alt="Betting tips for Brazil vs Serbia: World Cup preview and odds" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Our expert backs Neymar to score in his betting tips for Brazil&#39;s opening World Cup match against Serbia on Thursday evening.</p></div>
-            </div>
-        </a><a href='https://www.cbssports.com/soccer/news/world-cup-2022-brazil-vs-serbia-start-time-betting-odds-lines-expert-picks-fifa-predictions-bets/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022 Brazil vs. Serbia start time, betting odds, lines ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTA_XNX3XrvmDUpknY0ydtA66qPtkbFdsifscPKeWqUuQsWJDfC5pHN3BcdbkhSeISk75p2rXRP" alt="World Cup 2022 Brazil vs. Serbia start time, betting odds, lines ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>SportsLine soccer expert Jon Eimer has locked in his 2022 World Cup picks and predictions for Serbia vs. Brazil in Group G play.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTVqY1TEUhXJnK20WSBjw13n1Ws54NCKxdxrxi5-N_bsmaaCwptOZgnyogAI7eTvA5QBeJ6_4bR" alt="Richarlison, Brazil Make Highlight-Reel Opening Statement vs ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Tottenham forward scored a pair to lead Brazil to the three points at the World Cup—with his second a front-runner for goal of the tournament.</p></div>
             </div>
         </a>
         </Template></>;

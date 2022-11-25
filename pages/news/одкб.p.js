@@ -11,77 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,ОДКБ"/>
         <meta name="description" content="Trending News about ОДКБ" /></Head><Template>
             <h1 style={{fontSize: "30"}}>ОДКБ</h1>
-            <Image width={800} height={500} src="https://img.pravda.com/images/doc/7/3/7377718_fb_image_rus_2022_11_23_23_05_38.png" alt="ОДКБ"/>
+            <Image width={800} height={500} src="https://img.rebeltv.eu/wp-content/uploads/2022/11/EN_01546359_1347.jpg?x97134" alt="ОДКБ"/>
             <h3>Recent News</h3>
-            <a href='https://www.pravda.com.ua/rus/news/2022/11/23/7377718/'>
+            <a href='https://vot-tak.tv/novosti/24-11-2022-sammit-odkb-armeniya/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Премьер Армении отказался подписать ключевые решения ...</h3>
+                <h3>Азербайджанская агрессия без ответа и антироссийские ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTt34Qit3uI-NPMELy3_IEUIxdb3FGaq_GHoDXa8LDs3x3UiYRnZjMMyMEFlgICUdmqxtF_EWnJ" alt="Премьер Армении отказался подписать ключевые решения ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Премьер-министр Армении Никол Пашинян отказался подписать главные решения саммита ОДКБ по итогам прошедшей в Ереване встрече лидеров организации.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTLQZLt8tz8MHNoaoH4A59xhBzU4U4MCTHKOxqFjQdifVpsIqxaF8NVjIFPCC0m12OwHE706J9C" alt="Азербайджанская агрессия без ответа и антироссийские ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Премьер-министр Армении Никол Пашинян на встрече лидеров ОДКБ в Ереване. Армения, 23 ноября 2022 года. Фото Karen Minayan / AFP / East News.</p></div>
             </div>
-        </a><a href='https://www.pravda.com.ua/news/2022/11/23/7377718/'>
+        </a><a href='https://www.golosameriki.com/a/experts-on-armenia-/6848265.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Прем&#39;єр Вірменії відмовився підписати ключові рішення саміту ...</h3>
+                <h3>ОДКБ: противовес Западу или «мертвая организация»?</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSU81kpWyEzOwqtJmVuE9pvoNNPZz6Tg3FF_pBzZMVXZkSruZzWcmIae7ZhKKoMWJalZ__dot31" alt="Прем&#39;єр Вірменії відмовився підписати ключові рішення саміту ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Премєр-міністр Вірменії Нікол Пашинян відмовився підписати головні рішення саміту ОДКБ за підсумками зучтрічі лідерів організації, яка проходила у Єревані.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ_XeJljct-VlAvV_H92vfYXLlkFq0jlCpymFtkmHcjKhmaNJ3KOS9AmJ-B6PeR-AJdVhVdf-Xr" alt="ОДКБ: противовес Западу или «мертвая организация»?" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Саммит блока в Ереване завершился демаршем армянской стороны. Премьер-министр Армении Никол Пашинян на саммите Организации договора о коллективной&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.rbc.ua/ukr/news/odkb-zagrozhue-rozval-pashinyan-vlashtuvav-1669229873.html'>
+        </a><a href='https://www.kommersant.ru/doc/5681603'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ОДКБ грозит развал? Пашинян устроил демарш, а Лукашенко ...</h3>
+                <h3>Пашинян отказался подписывать декларацию Совета ОДКБ по ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQbSSGKKkrbR6GtY38dBGEEuzoJyXa5NFUj08dwrrbfVm3PMGl6h5n2vlNVslnl_TEMwXQz1eiI" alt="ОДКБ грозит развал? Пашинян устроил демарш, а Лукашенко ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Лидеры Армении и Беларуси отличились заявлениями на саммите ОДКБ, из которых следует, что организации может грозить развал.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTNSptexRrX6kpYT5lDbOCPyE3M6l5KiXSpUVQI5q1GKWldu3CTjyCCmV5rJUy1JNEumLX7gvEz" alt="Пашинян отказался подписывать декларацию Совета ОДКБ по ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Премьер-министр Армении Никол Пашинян заявил, что проект декларации Совета коллективной безопасности Организации Договора о коллективной безопасности в&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.pravda.com.ua/rus/news/2022/11/24/7377726/'>
+        </a><a href='https://tsargrad.tv/articles/lukashenko-vstupaet-v-vojnu-tokaev-predlagaet-sdatsja-istoricheskie-zajavlenija-sammita-odkb_671366'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Лукашенко порассуждал о распаде ОДКБ</h3>
+                <h3>Лукашенко вступает в войну, Токаев предлагает сдаться ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQN9zWKHDQHli2-61oNEA0D90YEHYvgFTQzOlYeXSBam6vKAmKVAyM40r-POTC3vYc5ZYRIdIHS" alt="Лукашенко порассуждал о распаде ОДКБ" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Самопровозглашенный президент Беларуси Александр Лукашенко заявил, что становится все более распространенным мнение, что если Россия проиграет войну в&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRrnl4dPuUNJdLFXXRfrQFGmKazVABQPsXYTlzZAEgMAjktJIgn_2asF9Oo1hstT4StFSvVvwh7" alt="Лукашенко вступает в войну, Токаев предлагает сдаться ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Саммит Организации договора коллективной безопасности (ОДКБ) в Ереване получился самым конфликтным и, вероятно, самым важным в истории этой организации.</p></div>
             </div>
-        </a><a href='https://tsn.ua/svit/nemaye-zoni-vidpovidalnosti-nemaye-organizaciyi-samit-putinskoyi-odkb-zakinchivsya-demarshem-virmeniyi-2208391.html'>
+        </a><a href='https://www.eurointegration.com.ua/rus/news/2022/11/24/7151284/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&quot;Немає зони відповідальності — немає організації”: саміт ...</h3>
+                <h3>Спикер парламента Армении: Ереван не смирится с ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRHAdYfZrFM092PYk9B7nDqBSo_eBF9Bf0ZQA677qdUzaKlJ21PtjE_0meTFbK5xqebrPgHvlvN" alt="&quot;Немає зони відповідальності — немає організації”: саміт ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Пашинян відмовився підписати підсумковий документ саміту ОДКБ через відсутність політичної оцінки агресії Азербайджану.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQwZTREyBzU6k13W8zk4E8Ln9m-FI01UVFMApMJbFsI0-pt3n9bS59AWZI7umExX61WPKTogelU" alt="Спикер парламента Армении: Ереван не смирится с ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Спикер Национального собрания Армении Ален Симонян заявил, что власти страны &quot;не смирились и не смирятся&quot; с сегодняшним бездействием ОДКБ.</p></div>
             </div>
-        </a><a href='https://espreso.tv/pashinyan-vchiniv-demarsh-na-samiti-odkb-vidmovivshis-pidpisuvati-spilni-dokumenti'>
+        </a><a href='https://www.m24.ru/news/vlast/24112022/524691'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Пашинян вчинив демарш на саміті ОДКБ, відмовившись ...</h3>
+                <h3>Отказ Армении подписать декларацию не повлияет на работу ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRNp3_CqEBiRi-h_G7Gz4IGQNxMX61hzGzBPD6TVUVbnDHekjafcAbOaC6JkERG5jgtYt7Dhs7-" alt="Пашинян вчинив демарш на саміті ОДКБ, відмовившись ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Прем&#39;єр-міністр Вірменії на саміті ОДКБ в Єревані відмовився підписувати проєкти спільних декларацій і документи про державні заходи щодо надання допомоги&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.aex.ru/news/2022/11/23/250501/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Денис Мантуров назначен председателем Межгосударственной ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTCMCjmK4WSyrOX_ljCjfya7uVp5ZzFGiDSeoUbkb23CSKDLNq5OpnGhy_J6R7m4QIspESao9rg" alt="Денис Мантуров назначен председателем Межгосударственной ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>23 ноября 2022 г., AEX.RU – Вице-премьер РФ - глава Минпромторга РФ Денис Мантуров назначен председателем межгосударственной комиссии по&nbsp;...</p></div>
-            </div>
-        </a><a href='https://focus.ua/voennye-novosti/538259-nesmotrya-na-protesty-putin-pribyl-v-erevan-na-zasedanie-odkb-video'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Несмотря на протесты: Путин прибыл в Ереван на заседание ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSbqVw4zgyw3LJzuWwHuTC-2ln_j_zx8iv1ZJ-ZqBDFScPnO6lwZSpSfvPkKl2vjWZNJ1A8Age2" alt="Несмотря на протесты: Путин прибыл в Ереван на заседание ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В аэропорту главу страны-агрессора встретил премьер-министр Армении Никол Пашинян. Related video. Президент России Владимир Путин в среду, 23 ноября,&nbsp;...</p></div>
-            </div>
-        </a><a href='https://focus.ua/uk/voennye-novosti/538259-nesmotria-na-protesty-putin-pribyl-v-erevan-na-zasedanie-odkb-video'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Попри протести: Путін прибув до Єревану на засідання ОДКБ ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSbqVw4zgyw3LJzuWwHuTC-2ln_j_zx8iv1ZJ-ZqBDFScPnO6lwZSpSfvPkKl2vjWZNJ1A8Age2" alt="Попри протести: Путін прибув до Єревану на засідання ОДКБ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В аеропорту главу держави-агресорки зустрів прем&#39;єр-міністр Вірменії Нікол Пашинян. Related video. Президент Росії Володимир Путін у середу, 23 листопада,&nbsp;...</p></div>
-            </div>
-        </a><a href='https://news.liga.net/politics/news/premer-armenii-otkazalsya-podpisyvat-itogovye-dokumenty-sammita-odkb'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Премьер Армении отказался подписывать итоговые документы ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR7OoJaBuhiiUaHk1ifpejGxhyQCkekU-qBNdtTgq7Il9xBa4S9N6W_45sxsk3igeZETgP_90T1" alt="Премьер Армении отказался подписывать итоговые документы ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Никол Пашинян не поддержал проекты декларации Совета коллективной безопасности ОДКБ и документа о совместных мерах по оказанию помощи Армении. никол пашинян&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSsaWmpX1YxMB0hPz0q1l_715cFqSc8pLh2NOnzoieAIZaQTFGYgAWHXifipNPaKt4a1TFfJQnu" alt="Отказ Армении подписать декларацию не повлияет на работу ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Совещание, которое состоялась недавно, говорит о потребности членов ОДКБ в такой конференции, считает Дмитрий Песков.</p></div>
             </div>
         </a>
         </Template></>;

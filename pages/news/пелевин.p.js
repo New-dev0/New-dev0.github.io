@@ -20,13 +20,6 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRaAtKIW02Ru3D4wege5j-ay5hIt6OM5lbzcQtaYokpspCm7GBkJd28DjccFjEJ8XpUGiYzNgsX" alt="Пелевин и Пустота" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>К 60-летию главного мистификатора российской литературы Виктора Пелевина вышел новый, авторский документальный фильм Родиона Чепеля о нем.</p></div>
             </div>
-        </a><a href='https://www.starhit.ru/novosti/aleksei-serebryakov-s-tatyanoi-lyutaevoi-v-budenovke-stilnaya-lyubov-tolkalina-premera-filma-pelevin-850663/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Алексей Серебряков с Татьяной Лютаевой в буденовке ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS9nK1mcN7iCXtihatptuFVWGpop73WBL6hIsPQM9UIn5HmQTDZc1-OmfcUKgkf4RgX0iSGE9NC" alt="Алексей Серебряков с Татьяной Лютаевой в буденовке ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В клубном пространстве Noôdome в 60-летний юбилей Виктора Пелевина состоялся закрытый премьерный показ авторского документально-литературного расследования&nbsp;...</p></div>
-            </div>
         </a><a href='https://www.forbes.ru/forbeslife/481448-model-boga-cto-my-uznaem-o-pelevine-iz-novogo-dokumental-nogo-fil-ma-o-ego-zizni'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Модель бога: что мы узнаем о Пелевине из нового ...</h3>
@@ -34,26 +27,12 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSK5seGB7NprEWuN3-IK7GA0Vnfexjfhb63nQJea5Yrak160Q99onPgSip4_y5BnddInAqgmoAJ" alt="Модель бога: что мы узнаем о Пелевине из нового ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>В день рождения самого закрытого российского писателя Виктора Пелевина, 22 ноября, онлайн-кинотеатр KION и кинокомпания «Амурские волны» выпускают&nbsp;...</p></div>
             </div>
-        </a><a href='https://kg-rostov.ru/premiere/k-yubileyu-viktora-pilevina-v-rostove-proydet-premera-dokumentalnogo-filma-pelevin/'>
+        </a><a href='https://www.mirf.ru/kino/pelevin-film-chto-uznali/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>К юбилею Виктора Пелевина в Ростове пройдет премьера ...</h3>
+                <h3>Что мы узнали из фильма о Викторе Пелевине? | Кино, Обзоры ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRb4c5gPBXL4uB4EMH6IDJbw4uTSZ1yWAA99ipxcGAJP1AsVrUfDq7k_0l7NkYw_hjnU7QzZbBC" alt="К юбилею Виктора Пелевина в Ростове пройдет премьера ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>22 ноября исполнилось 60 лет Виктору Пелевину. Последние 20 лет он не появляется на публике, но, несмотря на скрытный образ жизни, остается одним из самых&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.buro247.ru/community/party/23-nov-2022-pelevin-premiere.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Как прошла премьера фильма «Пелевин» в Noôdome</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSFG00rI-RE0mD0xkKtQdJuG20_KaR41ND4fXwy0Vh1Ay_BhV-yc8U3l9c_bpyHwgu1XGYiB-4C" alt="Как прошла премьера фильма «Пелевин» в Noôdome" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В пространстве Noôdome прошла премьера документального фильма Родиона Чепеля «Пелевин», приуроченного к 60-летию писателя.</p></div>
-            </div>
-        </a><a href='https://vnnews.ru/gorodeckiy-vladislav-viktor-pelevin/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Городецкий Владислав: ВИКТОР ПЕЛЕВИН – ЮБИЛЕЙ МЕЖ ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRJw8epHK5KHy2lS94962K1ZgQLU6AHatUctMPW-xQiKM7t6CI5_3KGhIZLnu67ke8WhM92bA69" alt="Городецкий Владислав: ВИКТОР ПЕЛЕВИН – ЮБИЛЕЙ МЕЖ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Стремление к прямому высказыванию руководит писателем идей – Пелевиным. Виктор Пелевин. Фото: pelevin.nov.ru. И в этом отношении найденная форма максимально&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRjSQSOc0kDkZnlyJPcEnb-psCbkti-xqvp3HzS0I7SwC9wpzh2MfTNHL29Wpb3XYXHGvVX446P" alt="Что мы узнали из фильма о Викторе Пелевине? | Кино, Обзоры ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Правда ли Пелевин пишет на скорость, что его связывает с Китаем и как он переписал Кастанеду.</p></div>
             </div>
         </a><a href='https://www.fontanka.ru/2022/11/22/71837372/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -69,12 +48,19 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSY7DaEAYNp8YPfHrPy7k3w6z47ABZ2ax4tJ6GZKE659X_ItHqe8OSaOAjZ6maZIekDqFqRJldV" alt="Насколько актуален Пелевин и его «KGBT+»" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Виктор Пелевин выпустил новый роман — «KGBT+», уже 19 книга за его авторством. Объясняем, насколько актуально его творчество во время войны.</p></div>
             </div>
-        </a><a href='https://spbvedomosti.ru/news/culture/prosto-byt-o-chem-rasskazyvaet-novaya-kniga-kgbt-viktor-olegovicha/'>
+        </a><a href='https://kg-rostov.ru/premiere/k-yubileyu-viktora-pilevina-v-rostove-proydet-premera-dokumentalnogo-filma-pelevin/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Просто быть. О чем рассказывает новая книга «KGBT+» Виктор ...</h3>
+                <h3>К юбилею Виктора Пелевина в Ростове пройдет премьера ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Просто быть. О чем рассказывает новая книга «KGBT+» Виктор ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В ноябре 2022 года Виктору Пелевину исполняется шестьдесят. Дата примечательная, и возраст вполне почтенный. Однако Виктор Олегович, заслуженный ветеран&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRb4c5gPBXL4uB4EMH6IDJbw4uTSZ1yWAA99ipxcGAJP1AsVrUfDq7k_0l7NkYw_hjnU7QzZbBC" alt="К юбилею Виктора Пелевина в Ростове пройдет премьера ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>22 ноября исполнилось 60 лет Виктору Пелевину. Последние 20 лет он не появляется на публике, но, несмотря на скрытный образ жизни, остается одним из самых&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.buro247.ru/community/party/23-nov-2022-pelevin-premiere.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Как прошла премьера фильма «Пелевин» в Noôdome</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSFG00rI-RE0mD0xkKtQdJuG20_KaR41ND4fXwy0Vh1Ay_BhV-yc8U3l9c_bpyHwgu1XGYiB-4C" alt="Как прошла премьера фильма «Пелевин» в Noôdome" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В пространстве Noôdome прошла премьера документального фильма Родиона Чепеля «Пелевин», приуроченного к 60-летию писателя.</p></div>
             </div>
         </a>
         </Template></>;

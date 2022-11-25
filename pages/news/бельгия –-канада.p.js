@@ -11,14 +11,14 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Бельгия – Канада"/>
         <meta name="description" content="Trending News about Бельгия – Канада" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Бельгия – Канада</h1>
-            <Image width={800} height={500} src="https://ss.sport-express.ru/userfiles/materials/183/1839415/large.jpg" alt="Бельгия – Канада"/>
+            <Image width={800} height={500} src="https://ss.sport-express.ru/userfiles/materials/183/1839418/large.jpg" alt="Бельгия – Канада"/>
             <h3>Recent News</h3>
-            <a href='https://www.sport-express.ru/football/world/2022/news/belgiya-kanada-v-vorota-belgiycev-ne-naznachen-penalti-var-ne-vmeshalsya-2002307/'>
+            <a href='https://www.sport-express.ru/football/world/2022/news/belgiya-kanada-1-0-rezultat-matcha-chempionata-mira-gruppa-f-23-noyabrya-2022-goda-2002314/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Бельгия — Канада: в ворота бельгийцев не назначен пенальти ...</h3>
+                <h3>Бельгия с минимальным счетом победила Канаду, Куртуа ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTYWovE0x5rlfPT-HFgT9OaJE-hf7jZE6DWmBk-QV9yx9bxTm3mriVf-TgreYTUMH8l_QxhJS4p" alt="Бельгия — Канада: в ворота бельгийцев не назначен пенальти ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>На 14-й минуте матча группового этапа ЧМ-2022 Бельгия — Канада судейская бригада ошибочно зафиксировала положение «вне игры» у канадца Тейджона Бьюкенена,&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQW9biPNpwzOYdY4fMWKYwkUGQ_B3E-RzFNk5elDhRykoHoRCFNbEfXfZIBVe1-BFXv-kRSh75p" alt="Бельгия с минимальным счетом победила Канаду, Куртуа ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Бельгия с минимальным счетом победила Канаду в матче группового этапа чемпионата мира-2022 — 1:0.</p></div>
             </div>
         </a><a href='https://www.championat.com/football/news-4902973-belgiya-kanada-kurtua-otrazil-penalti.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -27,26 +27,26 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS0NmQSZFVdisMNXvtJb8RwIz55Ve8BE9_XpEWZjhMuQvj9XNrn3O2zutDa1rx-w53FdvXD6XBc" alt="Бельгия — Канада: Куртуа отразил пенальти" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Сегодня, 23 ноября, проходит матч 1-го тура группы F между сборными Бельгии и Канады. Игра идёт на стадионе «Ахмед бин Али».</p></div>
             </div>
-        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1729123_Belgija__Kanada__10_kanadskij_zashhitnik_Adekubge_zamenil_Lareja_v_matche_ChM_2022'>
+        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1729117_BeLGIJa__KANADA__10_BATShUAJI_VYVeL_VPeReD_SBORNUJu_BeLGII_V_MATChe_CheMPIONATA_MIRA_VIDeO'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Бельгия — Канада — 1:0: канадский защитник Адекубге заменил ...</h3>
+                <h3>Бельгия — Канада — 1:0: Батшуайи вывел бельгийцев вперед в ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT7jNef4UsSdzliIvegpSaGWaqXosf-qk7ZiKPB2KryeNThNzmmLk2bnKL9WN1RORYXID3U5GJq" alt="Бельгия — Канада — 1:0: канадский защитник Адекубге заменил ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Защитник сборной Канады Самуэль Адекубге вышел на замену на 74‑й минуте матча чемпионата мира‑2022 с командой Бельгии.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRFaqcfxHeHFjmWOKPFeKDgUGOUbVAromOVAkWlYvq4P0IH5886UaXrKAzY396G9crf4zLRszyF7A" alt="Бельгия — Канада — 1:0: Батшуайи вывел бельгийцев вперед в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Нападающий сборной Бельгии Миши Батшуайи открыл счет в матче группового этапа чемпионата мира‑2022 в Катаре против команды Канады.</p></div>
             </div>
         </a><a href='https://sportrbc.ru/news/637d515a9a7947b675bb271b'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Бельгия — Канада</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS7NFljvXXzqfGzVxMrUqhmRI_6iHfpyZ-5AkOJ332jpYzI14ju4ZofRJaYWJU2q_9nfYA05m3a" alt="Бельгия — Канада" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTMN-DCT68SeFhNWviIWTAdttaEoCG2QYXtmPD5Jm4GIMujbYUAzcmmjguq0-Yl3EUsLv0FEbOW" alt="Бельгия — Канада" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>На этом будем прощаться, пожелаем сборной Канады побед в следующих матчах турнира. А команду Бельгии поздравляем с победой! Онлайн матча для вас провел&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sports.ru/football/1113555487-belgiya-kanada-10-obzor-matcha-chempionata-mira-po-futbolu-23-112022.html'>
+        </a><a href='https://www.sports.ru/football/1113527001-belgiya-kanada-onlajn-translyacziya-nachnetsya-v-2200.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Бельгия — Канада — 1:0, обзор матча Чемпионата мира по ...</h3>
+                <h3>Бельгия одолела Канаду (1:0) в 1-м туре ЧМ благодаря голу ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRr8g-tlIlg2vlO311fEBpyR2hrCXiYbOUonvFbRjf1RktS_u7V-_bWXh1p86WF_zG5RPUzbP6j" alt="Бельгия — Канада — 1:0, обзор матча Чемпионата мира по ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>На девятой минуте встречи в руку Карраско попал мяч, когда игрок находился в своей штрафной. После просмотра ВАР в ворота сборной Бельгии был назначен&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSLKQYMFWDemfCYjfR-z5uQEBKIHfuPdoeN71BfW_qteMiZ1p5PaLdopsFoalBdcRWnvLYhm0Rd" alt="Бельгия одолела Канаду (1:0) в 1-м туре ЧМ благодаря голу ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сборная Бельгии обыграла Канаду (1:0) в 1-м туре группового этапа ЧМ-2022.</p></div>
             </div>
         </a><a href='https://sport24.ru/news/football/2022-11-23-belgiya-kanada-smotret-besplatno-belgiya-kanada-pryamoy-efir-belgiya-kanada-pryamaya-translyatsiya-belgiya-kanada-videotranslyatsiya-belgiya-kanada-gde-smotret-smotret-match-tv-onlayn'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

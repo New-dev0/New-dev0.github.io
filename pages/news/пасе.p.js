@@ -11,14 +11,21 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,ПАСЕ"/>
         <meta name="description" content="Trending News about ПАСЕ" /></Head><Template>
             <h1 style={{fontSize: "30"}}>ПАСЕ</h1>
-            <Image width={800} height={500} src="https://img.pravda.com/images/doc/7/3/7377702_fb_image_rus_2022_11_23_21_07_42.png" alt="ПАСЕ"/>
+            <Image width={800} height={500} src="" alt="ПАСЕ"/>
             <h3>Recent News</h3>
-            <a href='https://www.pravda.com.ua/rus/news/2022/11/23/7377702/'>
+            <a href='https://www.eurointegration.com.ua/rus/news/2022/11/23/7151216/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Президент ПАСЕ после новых ракетных атак РФ предупредил ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRsLt2GxVaydkyepSElrWvTCbUTt28RDVgqHfMjRH1dz9KONJtJTSrAdQ1zfk-75TDuwsIZf25G" alt="Президент ПАСЕ после новых ракетных атак РФ предупредил ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Президент Парламентской ассамблеи Совета Европы (ПАСЕ) Тини Кокс предупредил руководство РФ о наказаниях после последних ракетных атак РФ по гражданской&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRjpN0VrfQ4_3qgmDbxEazKWuxK6kE-XmWs5PNW2f26PsgJYWVuNHcl_tW0rquIofVU4psDu-A1" alt="Президент ПАСЕ после новых ракетных атак РФ предупредил ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Об этом он написал в среду в своем Twitter, пишет &quot;Европейская правда&quot;. Кокс отметил, что сегодняшними ракетными обстрелами гражданской инфраструктуры (включая&nbsp;...</p></div>
+            </div>
+        </a><a href='https://fakty.com.ua/ru/svit/svitovi-novyny/20221124-lidery-kremlya-nachuvajtesya-u-parye-prygrozyly-rf-pokarannyam-za-raketni-udary/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Лидеры Кремля, берегитесь! В ПАСЕ пригрозили РФ наказанием ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQyc7x63u9MbhP4_bI5mLK2XJUOQQ_GWn6z7Kons7OcKylS7lZqys561MiikcrHBF8mIoUqelW5" alt="Лидеры Кремля, берегитесь! В ПАСЕ пригрозили РФ наказанием ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ракетные удары России по украинским инфраструктурным объектам не останутся безнаказанными. В этом заверил лидеров Кремля президент Парламентской ассамблеи&nbsp;...</p></div>
             </div>
         </a><a href='https://focus.ua/voennye-novosti/538310-osteregaytes-prezident-pase-prigrozil-kremlyu-iz-za-raketnyh-udarov-po-ukraine'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -54,13 +61,6 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSUIqE_tx6VEtS8RBdMsAVSF4QVhxodflz1lpVzKDYjUb77LXSHZg40wz7AT9mooh0gS8tQnKtO" alt="Военные преступления кремля не останутся безнаказанными ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Президент Парламентской ассамблеи Совета Европы Тини Кокс отмечает, что военные преступления кремля не останутся безнаказанными. — Укринформ.</p></div>
-            </div>
-        </a><a href='https://tsn.ua/ru/ukrayina/rukovoditeli-kremlya-beregites-prezident-pase-predupredil-rf-o-posledstviyah-ataki-po-ukraine-2208376.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&quot;Руководители Кремля, берегитесь&quot;: президент ПАСЕ ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS1N99oV-HVWCgFZKLMn2HYPINCUJnFPz9kuBQb04g6kziC9W0umDTTDh8bQGEE5UXT0ij4rZKJ" alt="&quot;Руководители Кремля, берегитесь&quot;: президент ПАСЕ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Президент Парламентской ассамблеи Совета Европы Тини Кокс отреагировал на российский массированный обстрел Украины и предупредил власти РФ о оследствиях&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

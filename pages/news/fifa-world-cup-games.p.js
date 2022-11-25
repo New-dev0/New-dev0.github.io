@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,FIFA World Cup games"/>
         <meta name="description" content="Trending News about FIFA World Cup games" /></Head><Template>
             <h1 style={{fontSize: "30"}}>FIFA World Cup games</h1>
-            <Image width={800} height={500} src="https://assets3.cbsnewsstatic.com/hub/i/r/2022/11/23/d25e7666-7f97-4319-bf0a-b1132c9a375a/thumbnail/1200x630/52f9724a5e1155e6e2d4fc44c7e03b71/fifa-canada-alphonso-davies.jpg" alt="FIFA World Cup games"/>
+            <Image width={800} height={500} src="https://images.indianexpress.com/2022/11/FIFA-WC.jpg" alt="FIFA World Cup games"/>
             <h3>Recent News</h3>
-            <a href='https://www.cbsnews.com/essentials/2022-fifa-world-cup-how-to-stream-todays-belgium-vs-canada-game-2022-11-23/'>
+            <a href='https://indianexpress.com/article/sports/football/switzerland-vs-cameroon-uruguay-vs-south-korea-portugal-vs-ghana-fifa-world-cup-2022-8287179/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>2022 FIFA World Cup: How to stream today&#39;s Belgium vs. Canada ...</h3>
+                <h3>FIFA World Cup 2022 Highlights: POR scrape past GHA, Embolo&#39;s ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRQjGBTk096Ez-FPGmBkKzHrktrfVaeInn56USeux1cPzrCjmbzgPuzwohvC8FvamKNR2ls-RUx" alt="2022 FIFA World Cup: How to stream today&#39;s Belgium vs. Canada ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Alphonso Davies of Canada poses during the official FIFA World Cup Qatar 2022 portrait session on Nov. 19, 2022 in Doha, Qatar. Mike Hewitt - FIFA/FIFA via&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSIoPRQFGeBqDXdK5SsAVM68FaHGmICIIjhM72RN9_mKuFU3DW-SSG8a_rqEbMlIvQjuEQogq66" alt="FIFA World Cup 2022 Highlights: POR scrape past GHA, Embolo&#39;s ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>FIFA World Cup Highlights: Cristiano Ronaldo becomes first player to score in five different World Cups.</p></div>
             </div>
-        </a><a href='https://www.aljazeera.com/news/liveblog/2022/11/23/world-cup-2022-morocco-hopes-for-win-as-mena-steals-the-show'>
+        </a><a href='https://www.cbsnews.com/essentials/2022-fifa-world-cup-how-to-stream-todays-portugal-vs-ghana-game-2022-11-24/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022 updates: Spain&#39;s Gavi makes history</h3>
+                <h3>2022 FIFA World Cup: How to stream today&#39;s Portugal vs. Ghana game</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRE_asdW3b-4NqQp0N7yx65PVQAqum4wmqC8R3nVLjhZuB30u9FudqF-dqEjs4ti783wLC3bCnA" alt="World Cup 2022 updates: Spain&#39;s Gavi makes history" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Belgium have paid tribute to their goalkeeper Thibaut Courtois after their win against Canada. Courtois&#39;s save on a 10th minute penalty taken by Canada&#39;s&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQvB1gBmNYvT3eVtQ4vBVjWkuKIW8g__UtotJkVXKJmgmDQHWy7KdG_AUhkJb06HaHoAvSqk-1Q" alt="2022 FIFA World Cup: How to stream today&#39;s Portugal vs. Ghana game" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>How to watch Portugal vs. Ghana 2022 FIFA World Cup soccer game right now -- for free.</p></div>
             </div>
-        </a><a href='https://www.tvtechnology.com/news/fifa-world-cup-2022-ratings-on-telemundo-and-peacock-up-72-vs-2018'>
+        </a><a href='https://sportstar.thehindu.com/football/fifa-world-cup/news/brazil-vs-serbia-live-score-fifa-world-cup-updates-commentary-highlights-qatar-2022-a-selecao-group-g/article66179177.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FIFA World Cup 2022 Ratings on Telemundo And Peacock Up 72 ...</h3>
+                <h3>BRA 2-0 SRB, HIGHLIGHTS FIFA World Cup: Richarlison scores ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRehc4O0kl7z8rfydq7_tiGjeBiU4b8tWn6Lo_Etbj_dFeJ53h60djpPsA_lzgN-trYMf4N6GaW" alt="FIFA World Cup 2022 Ratings on Telemundo And Peacock Up 72 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The first four games of 2022 tournament averaged total audience delivery of 2.6M viewers across Telemundo, Peacock and Telemundo digital streaming&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSxuisviR6ToLAMuJ3c10C593g-1Q1xG8ZZjLW9So8U0mNoo6UA1HWdMkG_j7EsWb8aQL42FCrK" alt="BRA 2-0 SRB, HIGHLIGHTS FIFA World Cup: Richarlison scores ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Catch the live score, updates and commentary from the Brazil vs Serbia FIFA World Cup Group G game at the Lusail Stadium.</p></div>
             </div>
-        </a><a href='https://www.cbsnews.com/essentials/2022-fifa-world-cup-how-to-stream-todays-spain-vs-costa-rica-game-2022-11-23/'>
+        </a><a href='https://www.hindustantimes.com/sports/football/fifa-world-cup-2022-live-score-switzerland-vs-cameroon-football-latest-updates-101669278947475.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>2022 FIFA World Cup: How to stream today&#39;s Spain vs. Costa Rica ...</h3>
+                <h3>FIFA World Cup Switzerland vs Cameroon Highlights: Embolo helps ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSJPViue_ZHjGqbEM7EJIbMrYoYHdZYBGU4blEkZK4h91oJPg4h3W1FPGoD9nzl4zMrDkOaiGo1" alt="2022 FIFA World Cup: How to stream today&#39;s Spain vs. Costa Rica ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>CBS Essentials is created independently from the CBS News staff. We may receive commissions from some links to products on this page. Promotions are subject to&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRt2MoZFLZ2nTljeoH10o60V03zOuiDtzp3kxBYt6BRXxi8XbzpZRLRRdM6TXzIxa2NH7v2-WJq" alt="FIFA World Cup Switzerland vs Cameroon Highlights: Embolo helps ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Switzerland vs Cameroon Highlights FIFA World Cup 2022: Embolo&#39;s strike helps Switzerland win by 1-0 against Cameroon. Catch all Live score and update of&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.aljazeera.com/sports/liveblog/2022/11/23/live-morocco-vs-croatia-world-cup-2022'>
+        </a><a href='https://supersport.com/football/fifa-world-cup-2022/news/b4fb36a4-7cb1-4f34-8904-a655f5d99861/netherlands-v-ecuador-what-the-stats-say'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Morocco vs Croatia 0-0: World Cup 2022 – as it happened</h3>
+                <h3>Netherlands v Ecuador – what the stats say | SuperSport</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSC5KCjekf7LP0zXPlNKQMuTxQFr_G6CE95FNoOkKJ_pu6C-q1dAc4YqRcdZnzzMyMTf-C6OFnK" alt="Morocco vs Croatia 0-0: World Cup 2022 – as it happened" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>All the updates from Wednesday&#39;s World Cup match between Morocco and Croatia at Qatar&#39;s Al Bayt Stadium.</p></div>
+                <Image src="" alt="Netherlands v Ecuador – what the stats say | SuperSport" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Netherlands have lost just two of their 14 Fifa World Cup matches against South American opponents (W8 D4), losing the 1978 final against Argentina, and a&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.foxsports.com/stories/soccer/world-cup-2022-top-plays-spain-costa-rica'>
+        </a><a href='https://www.hindustantimes.com/sports/football/fifa-world-cup-2022-live-score-brazil-vs-serbia-football-latest-updates-lusail-stadium-al-daayen-101669313543653.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022 highlights: Spain steamrolls Costa Rica 7-0</h3>
+                <h3>FIFA World Cup 2022 Brazil vs Serbia highlights: BRA beat SRB 2-0</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQmIx8JR6JMvyBE2m3oVBSPYtqXUiHsKOYlylhE2iAn6x4OdnPlf9EafYcXrvTKOBvZ_K4kQU7J" alt="World Cup 2022 highlights: Spain steamrolls Costa Rica 7-0" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The 2022 FIFA World Cup continued Wednesday, as Spain dominated Costa Rica on FOX. Here are the top plays!</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSaAnAHK4YbIXsAiI17erzA9EU1q3OyCyYGruxgcCdTmfuOgbOIg9dlfn-y48b5_gnlvwLMl-rr" alt="FIFA World Cup 2022 Brazil vs Serbia highlights: BRA beat SRB 2-0" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>FIFA World Cup 2022 Brazil vs Serbia highlights: Richarlison scored twice, the second of which was a sensational bicycle kick, as a dominant Brazil started&nbsp;...</p></div>
             </div>
-        </a><a href='https://sportstar.thehindu.com/football/fifa-world-cup/news/fifa-world-cup-qatar-2022-wc-live-updates-november-23-spain-germany-croatia/article66172573.ece'>
+        </a><a href='https://economictimes.indiatimes.com/news/sports/fifa-world-cup-2022-matchday-5-todays-games-and-schedule/articleshow/95729916.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FIFA World Cup, Day 4 LIVE: Davies misses penalty; Spain thrashes ...</h3>
+                <h3>FIFA World Cup 2022 matchday 5: Today&#39;s games and schedule</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR3njYaRfG3NKRir1ROJpA-WTSJd1a-kj0tkpDD2-5E_cIRhZvogskvUqnvHslD09DKudzT2pPM" alt="FIFA World Cup, Day 4 LIVE: Davies misses penalty; Spain thrashes ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>FIFA World Cup 2022, Day 4 LIVE: There will be four important matches played across as many stadiums in Qatar, with the first one - Morocco vs Croatia&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTzr0VCbD776HvP8rdlgI-ZIJWPBmGA5F_I7ti2ai9H_FuGlW9sKK7R-6lQNoVRHnCiKDIdITnV" alt="FIFA World Cup 2022 matchday 5: Today&#39;s games and schedule" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Matchday five features a mix of Europe, South America and Africa, with Brazil, Uruguay, Portugal and Ghana all in action. South Korea and Switzerland also&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.tsn.ca/fifa-world-cup/canada-vs-belgium-2022-fifa-world-cup-blog-1.1882660'>
+        </a><a href='https://www.mirror.co.uk/sport/football/news/japan-world-cup-dressing-room-28574136'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Canada Gameday Live Blog: Starting XI set</h3>
+                <h3>State Japan left World Cup dressing room in after stunning Germany ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Canada Gameday Live Blog: Starting XI set" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Watch Canada&#39;s game vs. Belgium on Wednesday at 2pm et/11am pt on TSN, with pregame coverage underway on TSN5.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTJGoBJMnfbqirPbM82XLA6ZIu6QehRFNjoP-taWzXJL00dhkFu1gk8XZpBFmKJ40-JZkNRSu-O" alt="State Japan left World Cup dressing room in after stunning Germany ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>&quot;After an historic victory against Germany at the #FIFAWorldCup on Match Day 4, Japan fans cleaned up their rubbish in the stadium, whilst the Samurai Blue left&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.aljazeera.com/sports/liveblog/2022/11/23/live-germany-vs-japan-world-cup-2022'>
+        </a><a href='https://bleacherreport.com/articles/10056703-richarlison-celebrated-for-best-goal-of-the-world-cup-as-neymar-brazil-beat-serbia'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Germany vs Japan 1-2: World Cup 2022 – as it happened</h3>
+                <h3>Richarlison Celebrated for Best Goal of the World Cup as Neymar ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTPHK6Qo8VZXhMLleh9Dc3mJVImA0K4ZgT4y2iWk9MLOmSm1bJ4FtwMLOi5oQQYgT7EUD_AxLET" alt="Germany vs Japan 1-2: World Cup 2022 – as it happened" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>All the updates from Wednesday&#39;s World Cup match between Germany and Japan at Qatar&#39;s Khalifa International Stadium.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSdFbvyPQX23l2yPgqPM07ESZURnJQvwVJGtC3q944xmdrbLVe-abyFOTt4pWk_lamzAXSaqbg8" alt="Richarlison Celebrated for Best Goal of the World Cup as Neymar ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Richarlison had a memorable start to the 2022 FIFA World Cup, scoring both goals in Brazil&#39;s 2-0 victory over Serbia at Lusail Iconic Stadium on Thursday.</p></div>
             </div>
-        </a><a href='https://www.nytimes.com/live/2022/11/23/sports/world-cup-scores'>
+        </a><a href='https://www.livemint.com/sports/football-news/fifa-world-cup-2022-brazil-vs-serbia-prediction-time-live-streaming-details-11669315290168.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup Highlights: After Germany Was Upset by Japan, Favorites ...</h3>
+                <h3>FIFA World Cup 2022: Brazil vs Serbia prediction, time, live ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS-BG7HPOGjKV3rbq9JJQ_5wg8cqD5gswaFTDa7xgx37a63stb4WyC8xGy75d-5mjvGWvs9zhR2" alt="World Cup Highlights: After Germany Was Upset by Japan, Favorites ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>For the second straight day, a World Cup favorite stumbled. Spain made up for it by scoring 7 goals on Costa Rica.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSRK0DZaQ3pZnakN0edb8Xjlud0AscuCvMBbboF5Liz1PMfAYIk-TaAYXKdCDRU8mF5qrkoJyJ1" alt="FIFA World Cup 2022: Brazil vs Serbia prediction, time, live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Following 2002, Brazil could only reach the semi-final once and have suffered three quarter-final exits, while Serbia in its all three World Cup appearances&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
