@@ -7,4 +7,5 @@ const puppeteer = require("puppeteer");
     new Promise(resolve => {setTimeout(resolve, 100)});
     await page.screenshot({path: "../ss.png", fullPage: true});
     console.log("Saved");
+    process.exit();
 })();
