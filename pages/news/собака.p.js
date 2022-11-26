@@ -11,49 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Собака"/>
         <meta name="description" content="Trending News about Собака" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Собака</h1>
-            <Image width={800} height={500} src="https://cbn.com.ua/wp-content/uploads/2022/11/2022-11-24_13-55_695012.jpg" alt="Собака"/>
+            <Image width={800} height={500} src="https://cbn.com.ua/wp-content/uploads/2022/11/2022-11-25_14-02_182825.jpg" alt="Собака"/>
             <h3>Recent News</h3>
-            <a href='https://cbn.com.ua/2022/11/24/kropyvnytska-sobaka-matilda-zavela-storinku-v-instagram-video/'>
+            <a href='https://cbn.com.ua/2022/11/25/matilda-kropyvnytska-sobaka-zavela-sobi-instagram-j-rozdaye-interv-yu/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Кропивницька собака Матільда завела сторінку в Instagram (відео)</h3>
+                <h3>Матільда. Кропивницька собака завела собі інстаграм й роздає ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRGqQmfJvWC6T2B4KWVd9tPuUBNm4zUJzmUuKQKxyrx8OT-_z_N5DjtCtBTxdV6oVahkavjXZJ7" alt="Кропивницька собака Матільда завела сторінку в Instagram (відео)" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQGaUhFKWoimpz_vwtNZgpxuW8_y6dTdmIcFYerNsS1PvCpC50hwNenOQTzkDTAdDEY0siQqYEB" alt="Матільда. Кропивницька собака завела собі інстаграм й роздає ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Новини Кіровоградської області та Кропивницького, події, репортажі, прес-конференції, статті, спецпроекти, фото, відео, кіровоградське телебачення,&nbsp;...</p></div>
             </div>
-        </a><a href='https://suspilne.media/324028-u-hmelnickomu-kinologi-z-sobakami-vcilisa-sukati-tila/'>
+        </a><a href='https://mir24.tv/news/16532233/pohishchennaya-sobaka-vernulas-k-hozyaike-spustya-12-let-v-velikobritanii'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>У Хмельницькому кінологи з собаками вчилися шукати тіла</h3>
+                <h3>Похищенная собака вернулась к хозяйке спустя 12 лет в ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQXHjgpEZkwmkkPF6E-mG7-aIMBKp-qTr3NJcsDAHNMb0ctPVBwGXYcHd0Q1q3iZMhMO6Z18cOj" alt="У Хмельницькому кінологи з собаками вчилися шукати тіла" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>suspilne.media У Хмельницькому вперше кінологів-нацгвардійців з собаками навчали пошуку людей під завалами. Вчилися шукати й тіла загиблих.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQabfSFZSR6lUn3-WXoudT-xITAH7OBkyu83ugt9imtKcoBiZL7g9QfmD4YXZhobjJnKuj0YK-O" alt="Похищенная собака вернулась к хозяйке спустя 12 лет в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Собаку породы борд-терьер украли еще в 2011 году.</p></div>
             </div>
-        </a><a href='https://www.belnovosti.by/domashnie-zhivotnye/pochemu-sobaka-tyanet-povodok-na-progulke-eksperty-nazvali-3-glavnye-prichiny'>
+        </a><a href='https://dumskaya.net/news/sobaka-i-morskie-svinki-v-odesskom-punkti-nezlam-170802/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Почему собака тянет поводок на прогулке: эксперты назвали 3 ...</h3>
+                <h3>Собака и морские свинки: в одесском «пункті незламності ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRzmQHdlFX4V_oFFhiaBZv-wFxH1-NqNMcgLrwqKnHXFUPB7-UT8yA-AjjFmDkHcqTUD5ATDyFR" alt="Почему собака тянет поводок на прогулке: эксперты назвали 3 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Если собака тянет поводок во время прогулки, то эту проблему можно решить - достаточно правильно установить причину нежелательного поведения.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQuN0ZcBJSfHJvkKkj0-JqROW8R9Oqm2QWqXGEVVaNTm5tqJcbFL6g3-6kdmv3-uEEJf0AzhQDl" alt="Собака и морские свинки: в одесском «пункті незламності ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Четверолапые психологи — пес Мажор и морские свинки Пушка и Мишка — работали в пятницу, 25 ноября, в одном из одесских «пунктів незламності».</p></div>
             </div>
-        </a><a href='https://www.ivanovonews.ru/reports/1307245/'>
+        </a><a href='https://rus.lsm.lv/statja/novosti/obschestvo/bezdomniy-s-sobakoy-obrel-dom-blagodarja-soobscheniyu-v-socseti.a484127/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Собака упала на женщину. Пострадавшая 4-й месяц на ...</h3>
+                <h3>Бездомный с собакой обрел дом благодаря сообщению в соцсети</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Собака упала на женщину. Пострадавшая 4-й месяц на ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>IN - всегда рядом в соцсетях: 24.11.2022, 16:11. 187 0. Ivanovonews на. Перелом позвоночника, повреждённый локтевой нерв и потеря чувствительности&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS3VtcHD35IV1q_4c9OIU-QoY2DLQOP_VbBzVCERqe8ZOGWT5Lo2_wHsa3bdJ0QXmUEmXo0fHJY" alt="Бездомный с собакой обрел дом благодаря сообщению в соцсети" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Последние пять лет жизни Имант Михненокс жил в садовом домике, а единственным источником тепла зимой была его собака Белла. Мужчина не употребляет наркотики&nbsp;...</p></div>
             </div>
-        </a><a href='https://vostokmedia.com/news/2022-11-24/taksa-razdora-kakoe-nakazanie-zhdet-hozyayku-psov-za-rasterzannuyu-sobaku-v-primorie-2598281'>
+        </a><a href='https://sibkray.ru/news/1/964898/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Такса раздора: какое наказание ждет хозяйку псов за ...</h3>
+                <h3>«Собака съехала с катушек»: замдиректора ипподрома ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ8cNpUb6No7lKomxoAwcCT-9mU1wWlcMAUUHAwxGUGudDzF7l-xpBbKUvQv824OVK6HJNVSAbj" alt="Такса раздора: какое наказание ждет хозяйку псов за ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Если две большие собаки разорвут одну маленькую, то будет ли это преступлением для хозяина агрессивных псов? Полиция Владивостока провела проверку по одному&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQPQ843fphN69Xp60Qxig4QD8IKxlbSSfAxOYzGcCMmWcg5bpt01yV7UhCBpJkJvXUMpXupbF5u" alt="«Собака съехала с катушек»: замдиректора ипподрома ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сегодня утром на ипподроме Новосибирска посетительница нашла окровавленный труп собаки. Сибкрай.ru выяснил, что животное убил заместитель директора&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.belnovosti.by/domashnie-zhivotnye/kak-uznat-gluhaya-li-sobaka'>
+        </a><a href='https://rus.postimees.ee/7656757/proklyatoe-mesto-zhutkiy-sluchay-na-ostanovke-deti-ryadom-nablyudali-kak-umiraet-moya-sobaka'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Как узнать, глухая ли собака</h3>
+                <h3>Проклятое место? Жуткий случай на остановке: «Дети рядом ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS128Z27VwmJ34JltZQGR--CNu6pGCzMTiw1UAg4NaLKoG8mH-U5ZPIyPUpvhOv2rRAj2k7evln" alt="Как узнать, глухая ли собака" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Поведение глухой собаки может быть идентично поведению здоровой, поэтому необходимо уделять питомцу больше внимания, чтобы обнаружить, что что-то не так.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ1RqEp-lHHeltncZw__J2L2XUveDdM_jD7eiqRgXoFFI1asHjJ-i313q2m9iIvWkM_CZupN4Sy" alt="Проклятое место? Жуткий случай на остановке: «Дети рядом ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Это было так страшно. Я хочу, чтобы люди знали, что это опасное место!» – говорит житель Тарту Алекс, маленькая собачка которого в среду чудом избежала&nbsp;...</p></div>
+            </div>
+        </a><a href='https://novostivl.ru/news/20221125/104013/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>В Великобритании похищенная в 2011 году собака по кличке ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQMsfwjCp3ymjvJ0zFPJHqEc9Rhjg7vbjfTGZAl8gPHge-iNJNB2Whlb-UQqwDR49ZE4WLBMwGB" alt="В Великобритании похищенная в 2011 году собака по кличке ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>25 ноября - NVL. В Великобритании произошел интересный случай, собака, утерянная 12 лет назад, вернулась к хозяйке, чему все были очень рады.</p></div>
             </div>
         </a>
         </Template></>;

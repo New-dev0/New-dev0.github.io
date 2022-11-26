@@ -11,49 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Qatar vs Senegal"/>
         <meta name="description" content="Trending News about Qatar vs Senegal" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Qatar vs Senegal</h1>
-            <Image width={800} height={500} src="https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/7C8E/production/_127768813_gettyimages-1443087833.jpg" alt="Qatar vs Senegal"/>
+            <Image width={800} height={500} src="https://images.livemint.com/img/2022/11/25/600x338/SOCCER-WORLDCUP-SEN-NLD-REPORT-357_1669343155377_1669343155377_1669343163656_1669343163656.JPG" alt="Qatar vs Senegal"/>
             <h3>Recent News</h3>
-            <a href='https://www.bbc.co.uk/sport/football/63672200'>
+            <a href='https://www.livemint.com/news/world/qatar-vs-senegal-prediction-fifa-world-cup-2022-football-11669343000766.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Qatar v Senegal</h3>
+                <h3>FIFA World Cup 2022: Qatar vs Senegal prediction, time, live ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTfqF4o-oeRgn4l_6T_Lj5S_oZwLNDGkaZUBJohBEJRzV-T7K4Zj7GkBTCZIBHnl_kgGC-4UMpX" alt="Qatar v Senegal" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Preview followed by live coverage of Friday&#39;s FIFA World Cup game between Qatar and Senegal.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ7O9maON9S2TdoD39IMiyqtHzzI1yaNUSv0K29IkfiGKjvRJJy5ryT2Qg9Q4vi_ThwNHI3g2Jr" alt="FIFA World Cup 2022: Qatar vs Senegal prediction, time, live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>On November 25, Qatar and Senegal will face each other in a Group A match. Both teams are in an identical position as they lost their first matches with an&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.cbssports.com/soccer/news/world-cup-2022-qatar-vs-senegal-start-time-betting-odds-lines-expert-picks-fifa-predictions-best-bets/'>
+        </a><a href='https://sportstar.thehindu.com/football/fifa-world-cup/news/qatar-vs-senegal-live-score-updates-fifa-world-cup-lineups-updates-commentary-qatar-wc-2022/article66183344.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022 Qatar vs. Senegal start time, betting odds, lines ...</h3>
+                <h3>Qatar vs Senegal LIVE score FIFA World Cup: Dieng scores to give ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRMjsXewUl4kwSd7C8OuJDYUDcPYiaL4zTVfKW_5FjH2rlp7CM6R3oDmXavMHXA8gtVMzGQDb-h" alt="World Cup 2022 Qatar vs. Senegal start time, betting odds, lines ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Soccer expert Jon Eimer has locked in his 2022 World Cup picks and predictions for Senegal vs. Qatar in Group A play.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRMOMy2vp84B0OBi8ED73cJb3ty-Fc17pEwXOqgiejcPj4ucRv1G4mAlGjSoSKWpLNc2wYylKpl" alt="Qatar vs Senegal LIVE score FIFA World Cup: Dieng scores to give ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Follow for all live updates from the FIFA World Cup game between Senegal and Qatar.</p></div>
             </div>
-        </a><a href='https://www.sportingnews.com/us/soccer/news/qatar-senegal-watch-time-channel-live-stream-usa-world-cup/dirsgxrtphtnjrn3tn2fpyz5'>
+        </a><a href='https://indianexpress.com/article/sports/football/qatar-vs-senegal-what-to-watch-8288321/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>How to watch Qatar vs Senegal in USA: Time, TV channel, live ...</h3>
+                <h3>Qatar vs Senegal: Will the hosts be the first to leave the party?</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTGb9VwYwdtlxYxknvYpDWogDTazJFj_lZxs3tl6adPYNm5v4XTfpmbChU5yNao4r2XMJNP68Y5" alt="How to watch Qatar vs Senegal in USA: Time, TV channel, live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>But they fluffed their lines on the opening night of World Cup 2022, as Enner Valencia struck twice in the first half for Ecuador, who showed their superior&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSsprYdt7hUwwudMG4flhkJ9UIP1n71n1Y91Ryg3IeNmby9tKOb314dGoPUqoGKWMmBFsqjqw9w" alt="Qatar vs Senegal: Will the hosts be the first to leave the party?" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Group A battle between the Asian and African champions is a must-win for both teams.</p></div>
             </div>
-        </a><a href='https://www.moroccoworldnews.com/2022/11/352586/tomorrows-world-cup-predictions-qatar-senegal-aim-to-recover-from-losses'>
+        </a><a href='https://www.hindustantimes.com/sports/football/qatar-vs-senegal-live-score-fifa-world-cup-2022-football-latest-updates-101669377945117.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Tomorrow&#39;s World Cup Predictions: Qatar, Senegal Aim to Recover ...</h3>
+                <h3>Qatar vs Senegal Highlights FIFA World Cup: SEN beat QAT 3-1</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRTIlSN2-wJFRjF-z0sh62eotlWnV9WdDKNz5o0R7RDBA4yByi6zFSvvig-XeK6uR--xtluc8Cf" alt="Tomorrow&#39;s World Cup Predictions: Qatar, Senegal Aim to Recover ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>November 25 will feature Wales vs Iran, Qatar vs Senegal, the Netherlands vs Ecuador, England vs USA. Tomorrow&#39;s World Cup Predictions: Qatar, Senegal Aim&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQPjQfK5e5E9rm5eshT7CiL41gXm9eGDD0dTUJmixVVKFkwXSmggbB82tJHkew0ZilFwx5Ts8Sg" alt="Qatar vs Senegal Highlights FIFA World Cup: SEN beat QAT 3-1" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>FIFA World Cup 2022 Highlights Qatar vs Senegal Football Match Today: Senegal defeated Qatar 3-1 at the Al Thumama Stadium on Friday.</p></div>
             </div>
-        </a><a href='https://www.goal.com/en/news/qatar-vs-senegal-predictions-tips-and-betting-odds/blt85871d19a4b623d7'>
+        </a><a href='https://www.goal.com/en-in/news/qatar-vs-senegal-lineups-and-live-updates/blt3ead7e54bca6596e'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Qatar vs Senegal: Predictions, tips &amp; betting odds</h3>
+                <h3>Qatar vs Senegal : Lineups and LIVE updates</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSc5ctq4ZCwEBTA8ZIo2M4hAHDwZG-sb5KclWnUWXfWsXwyy0iTd7WiWAVSd5eSeX-WugNw4OT6" alt="Qatar vs Senegal: Predictions, tips &amp; betting odds" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Qatar and Senegal are out to keep their World Cup dreams alive when they go head-to-head on Friday.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSJNC-C4JmxpjwubPPqhO3oKl931RWYEyvm1PeegV1_ZlESys6pmyEtvL8pNB7xcgYuoTVkg9LF" alt="Qatar vs Senegal : Lineups and LIVE updates" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Both Qatar and Senegal lost their opening matches by a two-goal deficit against Ecuador and the Netherlands respectively. A loss for either country would&nbsp;...</p></div>
             </div>
-        </a><a href='https://sportsbookwire.usatoday.com/2022/11/24/2022-world-cup-qatar-vs-senegal-odds-picks-and-predictions/'>
+        </a><a href='https://sports.ndtv.com/fifa-world-cup-2022/fifa-world-cup-2022-qatar-vs-senegal-football-live-score-updates-3552947'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>2022 World Cup: Qatar vs. Senegal odds, picks and predictions</h3>
+                <h3>Qatar vs Senegal FIFA World Cup 2022 Highlights: Hosts Qatar ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSrR8r9KHGAbzvgZ4nPTAQJfIraDdG0ANAk_4VhappCYOtHHlmqW83B-EQyOXDNOmLk_Zn5ksMd" alt="2022 World Cup: Qatar vs. Senegal odds, picks and predictions" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Analyzing Friday&#39;s Qatar vs. Senegal odds and lines, with World Cup soccer expert picks, predictions and best bets.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSzwtcfMqGeHp5ysMehcEMIGh9CBCVkdi8SYm5V5DwJNWt4oebvMuE7SUk1FOFsoPfdq2fj7yOd" alt="Qatar vs Senegal FIFA World Cup 2022 Highlights: Hosts Qatar ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>FIFA World Cup 2022 Highlights: Senegal secure a 3-1 win over Qatar to leave the hosts on the brink of elimination.</p></div>
             </div>
         </a>
         </Template></>;

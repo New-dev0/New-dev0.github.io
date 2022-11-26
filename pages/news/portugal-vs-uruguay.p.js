@@ -11,56 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Portugal vs Uruguay"/>
         <meta name="description" content="Trending News about Portugal vs Uruguay" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Portugal vs Uruguay</h1>
-            <Image width={800} height={500} src="" alt="Portugal vs Uruguay"/>
+            <Image width={800} height={500} src="https://i.dailymail.co.uk/1s/2022/11/25/14/64937219-0-image-a-9_1669387492364.jpg" alt="Portugal vs Uruguay"/>
             <h3>Recent News</h3>
-            <a href='https://football-italia.net/portugal-vs-uruguay-predictions-betting-tips/'>
+            <a href='https://www.dailymail.co.uk/sport/football/article-11461371/Portugal-vs-Uruguay-World-Cup-2022-Team-news-kick-time-TV-channel-stream-head-head.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Portugal vs. Uruguay Predictions, Betting Tips and Odds</h3>
+                <h3>Portugal vs Uruguay - World Cup 2022: Team news, kick-off time, TV ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSZIaDjN789DCPEhpODxpk2OhyvFPyaXksMD56wW9wjYFIQn8xXTUn7c_QM8mfIHcrMtKR-l1v1" alt="Portugal vs. Uruguay Predictions, Betting Tips and Odds" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The 2022 World Cup has thrown up some mouth-watering ties with these Portugal vs. Uruguay predictions set to be decisive.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ2I0kd_rc-M1TUldcMgdiH0vNs2xW45Md5EUUlb4l8aLPiNanRVK5zFcTMS5tZ717uCkpnLlga" alt="Portugal vs Uruguay - World Cup 2022: Team news, kick-off time, TV ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Portugal take on Uruguay with Cristiano Ronaldo&#39;s side just one win away from securing a place in the last-16. Sportsmail takes you through everything you&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.fanduel.com/theduel/posts/portugal-vs-uruguay-odds-prediction-best-bet-2022-world-cup-01gjnkj3fy6e'>
+        </a><a href='https://www.90min.com/posts/portugal-vs-uruguay-world-cup-team-news-lineups-prediction-28-11-2022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Portugal vs Uruguay Odds, Prediction &amp; Best Bet for 2022 World ...</h3>
+                <h3>Portugal vs Uruguay - World Cup: Team news, lineups &amp; prediction</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSjZfKngngHjCM5Y5WPbZCjNvyOLlRLgGV9BYpyw7xBKHIhk5SIpCsu9M3ZBdI2xKcz7NXNuWaJ" alt="Portugal vs Uruguay Odds, Prediction &amp; Best Bet for 2022 World ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The 2022 FIFA World Cup is in full swing with more action slated for Monday, Nov. 28.&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTv1ARlbN-KyhsW33Lxt9TLgW89Pynk1szLIbyh0Fo-PEgMSH_GnxEnCy5emTkLyktNpjmJJDjp" alt="Portugal vs Uruguay - World Cup: Team news, lineups &amp; prediction" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Preview of Portugal&#39;s World Cup group game against Uruguay, including team news,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.tsn.ca/portugal-vs-uruguay-how-to-watch-stream-2022-fifa-world-cup-1.1883475'>
+        </a><a href='https://www.thesun.co.uk/sport/20361759/portugal-uruguay-channel-time-live-free-2022-world-cup/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Portugal vs. Uruguay: How to watch, stream 2022 FIFA World Cup</h3>
+                <h3>Portugal vs Uruguay: Stream FREE, TV channel, kick-off time and ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRNrt_wBnAsJkYFFkAZzWml1qDGYUshyTxknO-5opcG-0RvrpjI3PPswwXBTDdDxWhp4tnnnVDt" alt="Portugal vs. Uruguay: How to watch, stream 2022 FIFA World Cup" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ronaldo became the first men&#39;s player to score at five FIFA World Cups as Portugal defeated Ghana 3-2 in the tournament opener for both teams last Thursday.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT6RNwfCxzxMI-Np8duFXjgNB2V45wtsrT9zHXEkXWpGdOF2k2WmkJF5ERonbuuKmehHkVLPr_c" alt="Portugal vs Uruguay: Stream FREE, TV channel, kick-off time and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>PORTUGAL face off against South American giants Uruguay in their huge match in Group H.Cristiano Ronaldo has already lit up the tournament after scori.</p></div>
             </div>
-        </a><a href='https://www.mirror.co.uk/sport/football/news/world-cup-2022-live-portugal-28570984'>
+        </a><a href='https://sports.bwin.com/en/news/football/portugal-vs-uruguay-prediction/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brazil fire warning to World Cup rivals but favourites end night on ...</h3>
+                <h3>Portugal vs Uruguay Prediction, Odds &amp; Betting Tips | 28/11 | bwin</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQM1D4QzeAWg6aPvRwXRzuhj0pzTj1yNtXsYmVKaWNis4a9i4h-xL-BsdHOQaBw1dAFfzrNIq1m" alt="Brazil fire warning to World Cup rivals but favourites end night on ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brazil beat Serbia 2-0 in the final game of day five of the World Cup after Switzerland beat Cameroon, Uruguay were held to a goalless draw against South&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRhg0Z30KaogpDTmXzzjslMkjisa40V_rqzJTO9bS8JGeDIiz5InqEukWrHJdV2Ad_0TsSJR8p9" alt="Portugal vs Uruguay Prediction, Odds &amp; Betting Tips | 28/11 | bwin" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>We&#39;re taking 19/5 for Draw HT/Portugal FT as our top Portugal vs Uruguay prediction and have other World Cup betting tips and odds.</p></div>
             </div>
-        </a><a href='https://www.foxsports.com.au/football/fifa-world-cup-2022-live-updates-scores-start-times-matchday-5-switzerland-vs-cameroon-uruguay-vs-south-korea-portugal-vs-ghana-brazil-vs-serbia/news-story/1de2953c23931b0d30b6d1a3060ae83a'>
+        </a><a href='https://easyodds.com/betting-tips/football/132-portugal-vs-uruguay-bet-builder-tips-prediction-43212'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Neymar&#39;s cheeky play as Brazil break stalemate; Ronaldo&#39;s epic ...</h3>
+                <h3>13/2 Portugal vs Uruguay Bet Builder Tips, Prediction</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR2ESZkWWYkcZTqb7VgJMscdwicpie46EnSr8eCgZEa7BZEZ8Ts6qltHzRjZdJXEpZ8AX3-NIbh" alt="Neymar&#39;s cheeky play as Brazil break stalemate; Ronaldo&#39;s epic ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Plus Cristiano Ronaldo made World Cup history by scoring at his fifth tournament but watched on helpless as Portugal almost threw it away against Ghana. Follow&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRnRLWTLMBRWCC-hhj0GwM1XBMfnC98c2n6fGAOH3PU76WZzTNKDkjwvG1O2VsyaALjz6wgWWjS" alt="13/2 Portugal vs Uruguay Bet Builder Tips, Prediction" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Check out our 13/2 Portugal vs Uruguay bet builder tips and predictions for Monday&#39;s World Cup 2022 match on Easyodds.com. | 25/11/2022.</p></div>
             </div>
-        </a><a href='https://www.businesstoday.in/latest/trends/story/fifa-world-cup-day-5-brazil-portugal-switzerland-uruguay-to-play-today-check-how-to-watch-match-timings-score-cards-squad-details-354053-2022-11-24'>
+        </a><a href='https://www.msn.com/en-gb/sport/fifa-world-cup/portugal-vs-uruguay-world-cup-team-news-start-time-channel/ar-AA14yL1N'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FIFA World Cup, Day 5: Brazil, Portugal, Switzerland, Uruguay to ...</h3>
+                <h3>Portugal vs Uruguay - World Cup: Team news, start time, channel</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTPZ-6sju9O0MbZJlGqFx_yI_3pgRtwH_etYJFAB3xoW0zB-40odOISAPgPuLbhUCJtThSFuZq9" alt="FIFA World Cup, Day 5: Brazil, Portugal, Switzerland, Uruguay to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>All the matches will be live broadcast on Sports18 and Sports18 HD TV channels, which is available on all set-top boxes. Besides, Indian viewers can watch&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT-YWlCmOcd4FJlAbyh4wMZDzj3RbK8GMX1u2vjGRlpoDLnQQR__bGJSZJswsXDra20jfpTEjfd" alt="Portugal vs Uruguay - World Cup: Team news, start time, channel" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Portugal take on Uruguay with Cristiano Ronaldo&#39;s side just one win away from securing a place in the last-16. Sportsmail takes you through everything you&nbsp;...</p></div>
             </div>
-        </a><a href='https://sports.yahoo.com/world-cup-2022-scores-updates-portugal-vs-ghana-brazil-vs-serbia-145614667.html'>
+        </a><a href='https://ats.io/soccer/portugal-vs-uruguay-world-cup/99114/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022 scores, updates: Portugal vs. Ghana, Brazil vs. Serbia</h3>
+                <h3>Portugal vs Uruguay World Cup Pick &amp; Prediction 11/28/22</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT5I7zGpG8CI6nsVqmJmc-_BB7xFHWLEAnUPftchh3TCIOI881PtBj_gq6UgAG1cxsT8HX_hyyt" alt="World Cup 2022 scores, updates: Portugal vs. Ghana, Brazil vs. Serbia" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The last remaining groups to play finally get their World Cup campaigns underway on Thanksgiving as Brazil and Portugal make their first World Cup 2022&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS2NfEtVFatirmqMcN21oB3r7Xw4ZtOaDIRVB7_OnWODo8qA3vKEgcbUo9ffXz17J0fXjaXSDTn" alt="Portugal vs Uruguay World Cup Pick &amp; Prediction 11/28/22" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Group H will end Monday&#39;s action with Portugal battling Uruguay. The Portuguese got off to a winning start over Ghana, while Uruguay played South Korea to a&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
