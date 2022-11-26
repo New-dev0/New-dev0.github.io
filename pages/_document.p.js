@@ -15,7 +15,7 @@ const firebaseConfig = {
 };
 
 // Initialize Firebase
-const app = initializeApp(firebaseConfig);
+initializeApp(firebaseConfig);
 
 
 class MyDocument extends Document {
@@ -33,7 +33,7 @@ class MyDocument extends Document {
         <Head>
           <meta name="theme-color" content="#003399" />
           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4464694750922288"
-     crossorigin="anonymous"></script>
+   crossOrigin="anonymous"></script>
           </Head>
         <body>
           <Main />

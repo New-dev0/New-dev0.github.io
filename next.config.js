@@ -14,6 +14,9 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   pageExtensions: ["p.js", "md", "mdx"],
+  typescript: {
+    ignoreBuildErrors: true
+  },
   images: {
     unoptimized: true,
     domains: [
