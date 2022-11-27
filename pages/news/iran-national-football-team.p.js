@@ -34,26 +34,26 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ75sVmEtw0A67wf3HZ5h7rXyp1ZsTBfY8DubQk-GjrJorr_YkvJxYEZIklKVrhmG7IJIHhTJ--" alt="Iranian fans savour victory but wrangle over protests" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Iran&#39;s national soccer team sang during the playing of their national anthem at their second World Cup match against Wales on Friday having refrained from&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.iranintl.com/en/202211254658'>
+        </a><a href='https://www.voanews.com/a/iran-s-soccer-team-halfheartedly-sings-national-anthem-at-world-cup/6851052.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Iran&#39;s Football Team Sings Anthem Amid Jeers From Spectators</h3>
+                <h3>Iran&#39;s Soccer Team Halfheartedly Sings National Anthem at World Cup</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSGDSUtlVKbi94BG6Y6a4UYOJ-zS-tml8SuTLKz7V-DigYJ7l8BVh9uSE4d7Phg1g2svLfw3REj" alt="Iran&#39;s Football Team Sings Anthem Amid Jeers From Spectators" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Iran&#39;s national soccer team sang during the playing of the Islamic Republic anthem at their second World Cup match against Wales on Friday, barely moving&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRwzcQZXnjkO4J7WZF3SaOtFAk48tJzpFUQT8ja-EnCb_one2mWxVIpQ1lV2mgCHoEZflaI4CjS" alt="Iran&#39;s Soccer Team Halfheartedly Sings National Anthem at World Cup" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Monday&#39;s failure of the Iranian athletes to sing the anthem was widely viewed as a demonstration of support for the protests that erupted in Iran after Mehsa&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.middleeasteye.net/news/qatar-world-cup-wales-iran-players-sing-national-anthem-boos'>
+        </a><a href='https://english.alarabiya.net/News/middle-east/2022/11/26/Iran-s-World-Cup-win-against-Wales-draws-mixed-reactions-from-Iranians'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Tears and boos as Iran players sing national anthem at Wales game</h3>
+                <h3>Iran&#39;s World Cup win against Wales draws mixed reactions from ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQaOcfRKvEs5AoW5zTW9kCO57uZtQdEPrBNNdQ1ZzrvxBv_NvgHPQn473xFFUimfuhX09NtBUgc" alt="Tears and boos as Iran players sing national anthem at Wales game" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Several fans seen weeping as the team, many of them appearing reluctant to take part, were seen mumbling the song.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT1vqdxy890OM0vzty7MM-BYWSrwvnQN1ZK5JZy5AeYS98dgWJfbsItSdt2X_T1qxsLQfDdmqd4" alt="Iran&#39;s World Cup win against Wales draws mixed reactions from ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Iran&#39;s 2-0 victory over Wales in their second World Cup game drew mixed reactions from Iranians. Some refused to celebrate the win, insisting the team.</p></div>
             </div>
-        </a><a href='https://supersport.com/football/fifa-world-cup-2022/news/43e31ce6-335b-4a31-b3ff-c5285721d93b/protest-scrutiny-intensifies-on-iran-despite-win'>
+        </a><a href='https://www.timesofisrael.com/irans-national-team-set-for-fateful-match-against-us-at-world-cup/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Protest scrutiny intensifies on Iran despite win | SuperSport</h3>
+                <h3>Iran&#39;s national team set for fateful match against US at World Cup</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Protest scrutiny intensifies on Iran despite win | SuperSport" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>In a striking U-turn, the Iranian players sung their national anthem ahead of Friday&#39;s match against Wales. Their silence when the song was played ahead of&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQUfC8gyqQSolxOOE0fA-okleKDc91f-xi37iR9xaeBP57umrZfcB6WF0w42CSMyg8rsquxXAmt" alt="Iran&#39;s national team set for fateful match against US at World Cup" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>After win against Wales and under cloud of ongoing protests at home, Team Melli is celebrating the prospect of its first-ever trip to the knockout stage.</p></div>
             </div>
         </a>
         </Template></>;

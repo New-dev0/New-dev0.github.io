@@ -11,7 +11,7 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,TV guide"/>
         <meta name="description" content="Trending News about TV guide" /></Head><Template>
             <h1 style={{fontSize: "30"}}>TV guide</h1>
-            <Image width={800} height={500} src="https://i2-prod.irishmirror.ie/incoming/article28574705.ece/ALTERNATES/s1200/0_christmas-tv-movie-film.jpg" alt="TV guide"/>
+            <Image width={800} height={500} src="https://i2-prod.irishmirror.ie/incoming/article28574705.ece/ALTERNATES/s1200/3_GettyImages-1182426781.jpg" alt="TV guide"/>
             <h3>Recent News</h3>
             <a href='https://www.irishmirror.ie/news/irish-news/ireland-christmas-tv-guide-tg4-28581084'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

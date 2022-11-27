@@ -34,19 +34,19 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTA-o4jXSjckZLB_vfZQ5ltlFv2tFvvZdnk_Kfq8FBdwn-wMEf7Op26CpyEwXSq3Pnv-j6a9GeQ" alt="Певица Светлана Лобода стала нежелательной в Литве" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>ИА SakhaNews. &middot; Как отметил министр культуры Литвы Симонас Кайрис, позиция Лободы по отношению к действиям России на Украине непонятна.</p></div>
             </div>
-        </a><a href='https://www.kommersant.ru/doc/5682356'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Литва включила певицу Светлану Лободу в список ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS71iO6AezFVFSCOjtQQlqltMN8vwaug53Tt0ohOpt057G0KlXf2QQ9pFYiIrordmwScE2B247S" alt="Литва включила певицу Светлану Лободу в список ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Украинская певица Светлана Лобода попала в список нежелательных в Литве лиц. Об этом сообщила пресс-секретарь главы литовского МИДа Паулина Левицкайте.</p></div>
-            </div>
         </a><a href='https://argumenti.ru/society/2022/11/800659'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Светлана Лобода оказалась в черном списке Литвы - Аргументы ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSHPpsp2Hrrzncu739WXtgy53AdHBp4c6W8Q6vuGpUmvc8yX-JRBEPZa8kIWjSEbSJlWaVaRDZ_" alt="Светлана Лобода оказалась в черном списке Литвы - Аргументы ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Украинская певица Светлана Лобода, которая проживает в Латвии (Юрмала) вдруг оказалась в черном списке Литвы. Чем же певица, которая отстаивает интересы&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.kommersant.ru/doc/5682356'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Литва включила певицу Светлану Лободу в список ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS71iO6AezFVFSCOjtQQlqltMN8vwaug53Tt0ohOpt057G0KlXf2QQ9pFYiIrordmwScE2B247S" alt="Литва включила певицу Светлану Лободу в список ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Украинская певица Светлана Лобода попала в список нежелательных в Литве лиц. Об этом сообщила пресс-секретарь главы литовского МИДа Паулина Левицкайте.</p></div>
             </div>
         </a><a href='https://www.eurointegration.com.ua/rus/news/2022/11/24/7151279/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -55,12 +55,12 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS9fQuR6bWf8gQuqqtX6V520YKNETMclCe3xOjDrS8-m2CT3tZDjq84o6EhXq-VhhKZBc4v2ZnU" alt="Литва внесет певицу Светлану Лободу в список нежелательных ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Украинская певица Светлана Лобода будет добавлена ​​в список нежелательных лиц в Литве. Об этом заявила представитель министра иностранных дел Паулина&nbsp;...</p></div>
             </div>
-        </a><a href='https://showbiz.24tv.ua/ru/svetlanu-lobodu-ne-hotjat-puskat-litvu-ona-otreagirovala_n2205445'>
+        </a><a href='https://www.eg.ru/showbusiness/2778132-svetlanu-lobodu-likvidirovali-v-evrope/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Лобода ответила на слухи, что станет персоной нон грата в ...</h3>
+                <h3>Светлану Лободу ликвидировали в Европе</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRByfCYNHL8FU972Z_Wre98F2hWIcbf87N0blH7EJfphsNcyHxMogdG6psQb32ZgoGXv5-gaORN" alt="Лобода ответила на слухи, что станет персоной нон грата в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Светлана Лобода может попасть в черный список Литвы. Ее не хотят пускать с концертами. Как отреагировала бывшая гастролерша, узнавайте и смотрите видео на&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR0WxKACEtIacNT8x4f7kVvnbBx7ZmL7q_hjPzzxEdC_x2PkzJON7CCHQaVPatw1OImHMNnlFm4" alt="Светлану Лободу ликвидировали в Европе" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>40-летняя украинская исполнительница несколько лет назад обзавелась дорогостоящей недвижимостью за границей, где надеялась обрести свое счастье.</p></div>
             </div>
         </a>
         </Template></>;

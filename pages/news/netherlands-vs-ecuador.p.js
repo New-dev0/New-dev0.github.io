@@ -11,21 +11,21 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Netherlands vs Ecuador"/>
         <meta name="description" content="Trending News about Netherlands vs Ecuador" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Netherlands vs Ecuador</h1>
-            <Image width={800} height={500} src="https://ss-i.thgim.com/public/incoming/65b3fr/article66185203.ece/alternates/FREE_1200/1444498972.jpg" alt="Netherlands vs Ecuador"/>
+            <Image width={800} height={500} src="https://images.hindustantimes.com/img/2022/11/25/1600x900/WCup-Netherlands-Ecuador-Soccer-76_1669396448286_1669396448286_1669396473949_1669396473949.jpg" alt="Netherlands vs Ecuador"/>
             <h3>Recent News</h3>
-            <a href='https://sportstar.thehindu.com/football/fifa-world-cup/news/netherlands-vs-ecuador-live-score-fifa-world-cup-qatar-2022-soccer-ned-vs-ecu-goals-updates-group-a/article66183834.ece'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Netherlands 1-1 Ecuador Highlights, FIFA World Cup: Qatar out after ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS0ciXmftKV26Ru8GzcRo8xPC2qe1RsvFxYg1RsBlzo4r-Q5lkFXb5TcAPcqXq7y37fZT3GGu5C" alt="Netherlands 1-1 Ecuador Highlights, FIFA World Cup: Qatar out after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Welcome to Sportstar&#39;s highlights of the Netherlands vs Ecuador FIFA World Cup Group A match at the Khalifa International Stadium.</p></div>
-            </div>
-        </a><a href='https://www.hindustantimes.com/sports/football/fifa-world-cup-2022-live-score-netherlands-vs-ecuador-football-match-latest-updates-khalifa-international-stadium-101669386360500.html'>
+            <a href='https://www.hindustantimes.com/sports/football/fifa-world-cup-2022-live-score-netherlands-vs-ecuador-football-match-latest-updates-khalifa-international-stadium-101669386360500.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>FIFA World Cup highlights Netherlands vs Ecuador: NED, play out ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQwUq7tZx4w8lenz8x_HWhfYLDCLpqeYM36Y_UGXRDVRJ9p6uw1oMm0U3on-bUJCEmNg1J8H5D5" alt="FIFA World Cup highlights Netherlands vs Ecuador: NED, play out ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Valencia, 33, tapped in his third goal of the tournament from a rebound in the second half after Cody Gakpo had put the Dutch ahead in the sixth minute with a&nbsp;...</p></div>
+            </div>
+        </a><a href='https://sportstar.thehindu.com/football/fifa-world-cup/news/netherlands-vs-ecuador-live-score-fifa-world-cup-qatar-2022-soccer-ned-vs-ecu-goals-updates-group-a/article66183834.ece'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Netherlands 1-1 Ecuador Highlights, FIFA World Cup: Qatar out after ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS0ciXmftKV26Ru8GzcRo8xPC2qe1RsvFxYg1RsBlzo4r-Q5lkFXb5TcAPcqXq7y37fZT3GGu5C" alt="Netherlands 1-1 Ecuador Highlights, FIFA World Cup: Qatar out after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Welcome to Sportstar&#39;s highlights of the Netherlands vs Ecuador FIFA World Cup Group A match at the Khalifa International Stadium.</p></div>
             </div>
         </a><a href='https://www.goal.com/en-in/news/netherlands-vs-ecuador-lineups-and-live-updates/blt834d80226ded5d6d'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -48,12 +48,12 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS2N0FueRCGmjov1yaM9ckeb5iawggx_9tQ0Z8qMyBI64BpcTyEnVeMg-dXYN7AppFLSeAobwjF" alt="Netherlands vs Ecuador FIFA World Cup 2022 Highlights: Ecuador ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>FIFA World Cup 2022, Netherlands vs Ecuador Highlights: Ecuador scored early in the second-half to salvage a drawagainst Netherlands in a Group A match at&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.espn.in/football/report/_/gameId/633805'>
+        </a><a href='https://www.insidesport.in/netherlands-vs-ecuador-live-score-disciplined-dutch-aims-to-keep-dangerous-ecuador-at-bay-netherlands-ecuador-starts-at-930-p-m-ist-follow-fifa-world-cup-live/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Netherlands vs. Ecuador - Football Match Report - November 25 ...</h3>
+                <h3>Netherlands vs Ecuador HIGHLIGHTS: Enner Valencia scores as ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRXs4-oTSdAqnkEwqnZZcISccSpA0FXx3cqVJL89Cmt7CKU9lGFMJfsjk7GednSEIgIR1wCuyeq" alt="Netherlands vs. Ecuador - Football Match Report - November 25 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Get a report of the Netherlands vs. Ecuador 2022 FIFA World Cup, Group Stage football match.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQNiS9g1EgCeFqCIlf7jhD03zEmLt9EO2xxPcRSjnNSaJ53hPuHcbkLMG9UUR4X4EiNKIZRx4Hp" alt="Netherlands vs Ecuador HIGHLIGHTS: Enner Valencia scores as ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Netherlands vs Ecuador HIGHLIGHTS: Netherlands, Ecuador, FIFA World CUP 2022, FIFA WC LIVE Streaming, NED 1-1 ECU HIGHLIGHTS, NED ECU HIGHLIGHTS.</p></div>
             </div>
         </a>
         </Template></>;

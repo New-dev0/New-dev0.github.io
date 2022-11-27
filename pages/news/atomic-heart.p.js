@@ -20,19 +20,19 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRk8XbIEFtZKmm6E3Ppujf7Yga_SP46tSmvtKki-04WQbyyVdVotD9CuV1EfPll_KxoDTyi_2OD" alt="Atomic Heart: первые впечатления | Видеоигры, Игры | Мир ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>24 ноября прошла презентация Atomic Heart для отечественных блогеров и прессы. Мероприятие получилось отличным — локацию подобрали безупречно,&nbsp;...</p></div>
             </div>
-        </a><a href='https://dtf.ru/games/1465722-poigral-v-atomic-heart'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Поиграл в Atomic Heart — Игры на DTF</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQP1rV7CI07-pqalMBNkZpQEuilHXcSl8mbQtnhGiwRsxLcZvJVnzWWkswJxr_SDR2LTbMBVY6vCA" alt="Поиграл в Atomic Heart — Игры на DTF" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Посетил вчера презентацию Atomic Heart, поиграл в ранний билд игры (на ПК). Презентация была с хорошим таким размахом, стилизацией и даже с&nbsp;...</p></div>
-            </div>
         </a><a href='https://www.cybersport.ru/tags/games/sovetskii-anturazh-i-roboty-v-moskve-proshla-prezentatsiia-atomic-heart'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Советский антураж и роботы — в Москве прошла презентация ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRorHcuMw44xqYAUFVjf1HiM7MBJrrLhOtOmvKTtRi65x8cmVitOhL7T6B_zb9d6p6m8XKfcwBC" alt="Советский антураж и роботы — в Москве прошла презентация ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Студия Mundfish провела специальную презентацию, посвященную будущему экшену Atomic Heart. На ней приглашенные гости могли больше узнать об игре,&nbsp;...</p></div>
+            </div>
+        </a><a href='https://dtf.ru/u/514759-netvoyaprincessa/1467100-makarenkov-pro-meropriyatie-atomic-heart'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Макаренков про мероприятие Atomic Heart — netvoyaprincessa ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSbhFXD80HwUql2gkclMU2NftWEUczivSBRZsxhjupq1odINGybqFvDsPuF9I_n-Mebu3e62WSE" alt="Макаренков про мероприятие Atomic Heart — netvoyaprincessa ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ничего особенного, просто видосик с мероприятия по Atomic Heart. И тут два взгляда на вопрос. Взгляд первый - хорошо организованный ивент (про фейл с него&nbsp;...</p></div>
             </div>
         </a><a href='https://www.goha.ru/Atomic-Heart-preview-lj6ZAZ'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -59,7 +59,7 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Разработчики провели показ Atomic Heart для прессы. Делимся ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR5DRjg_p3pfFfdj-KtH-OzPI38RuyjTfZZecue8mbWZy9CI07SnX4M5hLDG9YoWG5f7aSePuYt" alt="Разработчики провели показ Atomic Heart для прессы. Делимся ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQnCNlF6G3jk1T_59ioDwzFT1fBBEgzsEUUg5oPx08xAPhsEYyRntoJ0ssVlPkQQlzC2v_pTZFc" alt="Разработчики провели показ Atomic Heart для прессы. Делимся ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Релиз Atomic Heart ожидается 21 февраля 2023 года на PC, PlayStation 4, PlayStation 5, Xbox One и Xbox Series X.</p></div>
             </div>
         </a>

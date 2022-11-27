@@ -11,42 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Владимир Путин"/>
         <meta name="description" content="Trending News about Владимир Путин" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Владимир Путин</h1>
-            <Image width={800} height={500} src="https://sharing.vedomosti.ru/1669414313/vedomosti.ru/politics/articles/2022/11/26/952246-putin-pogovoril-s-materyami.jpg" alt="Владимир Путин"/>
+            <Image width={800} height={500} src="https://api.bashinform.ru/attachments/5ca762b808e31e8ad2bdc220135e435ebf2888fa/store/crop/6/0/1593/900/1593/900/0/71b891127be093cd9e83afa92ea4990c2eeb32d75ae981a6733190ed5e00/GOFwppbrwhbyOHA5R9WggAN2ehnA541A.jpeg.jpg" alt="Владимир Путин"/>
             <h3>Recent News</h3>
-            <a href='https://www.vedomosti.ru/politics/articles/2022/11/26/952246-putin-pogovoril-s-materyami'>
+            <a href='https://www.bashinform.ru/news/social/2022-11-26/vladimir-putin-prisvoil-zvanie-mat-geroinya-esche-semi-zhenschinam-3047241'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Владимир Путин поговорил с матерями российских военных</h3>
+                <h3>Владимир Путин присвоил звание «Мать-героиня» еще семи ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcREQK6azEj38gmKQQcX5DELdHGWUM7GUU3FnoYPaQqXyU7pw_g--3c0eBsZGRJAFagl60eA2o0r" alt="Владимир Путин поговорил с матерями российских военных" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Президент начал с того, что напомнил: послезавтра отмечается День матери, «который наполнен особым, очень добрым содержанием и подчеркивает присущее всем&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQKoq3TVrGiM3GmvSqJXmVCbfCFfUhtBIoGbdGErNX2pduDGFcX0eoavVn4hntWzszePsSVUBOO" alt="Владимир Путин присвоил звание «Мать-героиня» еще семи ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Указ об учреждении звания «Мать-героиня» подписан 15 августа 2022 года. Данное звание могут получить женщины, родившие и воспитавшие 10 и более детей,&nbsp;...</p></div>
             </div>
-        </a><a href='https://meduza.io/paragraph/2022/11/25/gospitali-zapolneny-na-38-voyna-put-k-ochischeniyu'>
+        </a><a href='https://spbdnevnik.ru/news/2022-11-26/vladimir-putin-prisvoil-peterburzhenke-zvanie-matgeroinya'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>«Госпитали заполнены на 38%. Война — путь к очищению ...</h3>
+                <h3>Владимир Путин присвоил петербурженке звание «Мать-героиня»</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS2cU1fU4fnIiIQqf0ISJ5J-kSUsqC0YdKU3utByK4yedrfte2oq5geluP8XTcfuWOYCZ92DXVJ" alt="«Госпитали заполнены на 38%. Война — путь к очищению ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>«Госпитали заполнены на 38%. Война — путь к очищению» Такими словами Владимир Путин анонсировал День матери. 10:11, 25 ноября 2022. Источник: Meduza.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQPxKgF1GrKagmgsh_3WsH6IRRq_lVPkJF9LnGB_EWQ9QDJbuNePgECSdwwZ-bS4Bttc-zReEpQ" alt="Владимир Путин присвоил петербурженке звание «Мать-героиня»" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Звание также получили еще шесть женщин в разных регионах России. Фото: kremlin.ru. Президент России Владимир Путин присвоил звание «Мать-героиня» семи&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.pravda.com.ua/rus/news/2022/11/25/7377962/'>
+        </a><a href='https://www.kommersant.ru/doc/5692460'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Встреча Путина с матерями военных оказалась фарсом ...</h3>
+                <h3>Путин присвоил звание «Мать-героиня» семи россиянкам</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSyCq-mXP-uXk9w6B85I071k-ffdoJJfseTM3Yjt2DjRXRe_nnEHlLr7Grv4ik3bkO4MBA2Yxcs" alt="Встреча Путина с матерями военных оказалась фарсом ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>По данным СМИ во встрече с президентом РФ Владимиром Путиным в качестве матерей участвовали специально подготовленные женщины.</p></div>
+                <Image src="" alt="Путин присвоил звание «Мать-героиня» семи россиянкам" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Президент России Владимир Путин присвоил семи россиянкам звание «Мать-героиня». Они удостоены звания за большие заслуги в укреплении института семьи,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.severreal.org/a/vladimir-putin-vstretilsya-s-materyami-uchastnikov-voyny-v-ukraine-/32148846.html'>
+        </a><a href='https://www.volgograd.ru/gubernator/tekush/437447/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Владимир Путин встретился с матерями участников войны в ...</h3>
+                <h3>Владимир Путин присвоил многодетной маме из Волгоградской ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT29WJmsKlV3RuLNML-9xcokK9MlV7rH0-IQf8oLGaKDnY2OdtUeEStDTsLrxstODARPhmcW6Ns" alt="Владимир Путин встретился с матерями участников войны в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Встреча прошла в резиденции в Ново-Огарёво под Москвой. Путин сказал, что решил поговорить с матерями военнослужащих, чтобы &quot;из первых уст&quot; услышать их оценки,&nbsp;...</p></div>
+                <Image src="" alt="Владимир Путин присвоил многодетной маме из Волгоградской ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Президент России Владимир Путин присвоил звание «Мать-героиня» семи женщинам, в числе которых — жительница Волгоградской области Галина Меньшикова. С&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.bbc.com/russian/news-63756383'>
+        </a><a href='https://vpravda.ru/obshchestvo/prezident-rf-vladimir-putin-prisvoil-volgogradke-zvanie-mat-geroinya-146902/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&quot;Ваши ребята выбрали такую судьбу&quot;. Что сказал Путин на ...</h3>
+                <h3>Президент РФ Владимир Путин присвоил волгоградке звание ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQBhZSkpsy7Rk9w4cQ8imXqFAsCjaEWAc6efjMirItj5k7aPDzvL4YWioBfmBZf9N3fplRziqaP" alt="&quot;Ваши ребята выбрали такую судьбу&quot;. Что сказал Путин на ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Президент России Владимир Путин в пятницу 25 ноября провел встречу с матерями российских военных, участвующих в войне с Украиной. Опрошенные Би-би-си&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcStCTKTDoHMTZM7sbB1kbMk92MHGCKCb1iaV73YEQp8hAzuLthqsFu0xhwbMp-zdoQdhkD2W2aP" alt="Президент РФ Владимир Путин присвоил волгоградке звание ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Президент России Владимир Путин присвоил звание «Мать-героиня» семи женщинам. В их числе – многодетная жительница Новониколаевского района Волгоградской&nbsp;...</p></div>
+            </div>
+        </a><a href='https://lacmus.life/novosti/8698-volgogradke-vladimir-putin-prisvoil-zvanie-mat-geroinja.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Волгоградке Владимир Путин присвоил звание «Мать-героиня»</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSjk-2awCJiqpH1vliqW-7GGuVfmw3ODqGvIv1ISACAMR1foclODkOFFuPxm-uJGjKGi6eq6eq9" alt="Волгоградке Владимир Путин присвоил звание «Мать-героиня»" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Напомним, почетное звание Указом Президента было вновь учреждено в августе 2022 года. Среди первых награжденных и жительница Волгоградской области Галина&nbsp;...</p></div>
+            </div>
+        </a><a href='https://v1.ru/text/family/2022/11/26/71849051/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>11 раз мама и 15 — бабушка: президент Владимир Путин ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQQKX6jXXGSatWd_x9eM_rH2KUvFCgwTsOy7EK-6WAFj0AkUskhkKPx8i2X_TrCUzKNMz2g_ffy" alt="11 раз мама и 15 — бабушка: президент Владимир Путин ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Многодетная мама работает почтальоном в сельском отделении, а глава семейства трудится техником-электриком. 26 ноября 2022, 20:50.</p></div>
             </div>
         </a>
         </Template></>;

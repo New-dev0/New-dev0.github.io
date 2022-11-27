@@ -17,7 +17,7 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Take advantage of &#39;geniuses&#39; Messi, Neymar, Dani Alves advises ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTkImC7ltrm5MmN750v9VgUryI8zVfdZy6JvKpZBSjD4nw3kpgePZ7cmMSBqDmosebZRZSI-ijX" alt="Take advantage of &#39;geniuses&#39; Messi, Neymar, Dani Alves advises ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSoEti_j4UfXJ_J2fkzWqcPwjW2kq0NXhIZ6sPVf8Ceb1qUoo3xaaayuPAVrwPLUJXMyzp2ZvKL" alt="Take advantage of &#39;geniuses&#39; Messi, Neymar, Dani Alves advises ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Brazilian professional footballer, Dani Alves has asked French footballer and Paris Saint-Germain forward, Kylian Mbappé to take advantage of Argentine&nbsp;...</p></div>
             </div>
         </a><a href='https://www.goal.com/en/news/dani-alves-takes-shot-at-kylian-mbappe-his-attack-partners-are-more-phenomenal-than-him/blt7084ea3149b3e473'>

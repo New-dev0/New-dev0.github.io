@@ -20,13 +20,6 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT94-BIehGu9oVWCPyvoAJ5sSoVOgKbxPbbqEcoc_KLPx_IU26l-T7YCQQlV9JYLUNjKav0AThv" alt="Zé Felipe pisa hoje o palco Super Bock Arena" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Um dos maiores artistas brasileiros da atualidade, Zé Felipe, atua esta sexta-feira no palco do Super Bock arena no Porto, às 21.30 horas.</p></div>
             </div>
-        </a><a href='https://gq.globo.com/noticia/2022/11/virginia-fonseca-ze-felipe-show-portugal.ghtml'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Virginia Fonseca aparece no show de Zé Felipe em Portugal, faz ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS7S4XaQ_zqOLptItAikfZ9gGVzSeLBcf2XAdXnunzvEbpYgC9-gb9QoI1aQbM3C6jXXjv6PYTB" alt="Virginia Fonseca aparece no show de Zé Felipe em Portugal, faz ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>&quot;Me emocionei vários momentos do show&quot;, revelou a influenciadora.</p></div>
-            </div>
         </a>
         </Template></>;
 }

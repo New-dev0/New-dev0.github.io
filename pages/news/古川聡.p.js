@@ -34,6 +34,13 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRQyaPcUp6PtFj6-uK2wSpjdfQjQ_kCIe18cztLT9GFVZ39usK2f1n6lW2FtS0-e6WCfWq90lIs" alt="宇宙飛行士・古川聡氏ら責任者の医学研究で不適切行為" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>宇宙航空研究開発機構（JAXA）は25日、宇宙飛行士の古川聡氏らが責任者を務めた宇宙に関する医学研究で、データの取り扱いなどに不適切な事案があったことを発表した。</p></div>
             </div>
+        </a><a href='https://news.yahoo.co.jp/articles/b5ced550bf0bd5ca65860cd1ebfc37e12003f000'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>古川聡宇宙飛行士が責任者の実験で不正 JAXA「研究全体の科学的 ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS2n2mUtVb940ROPyI1oPlBns6Aic8D4WHSRNIKWsQVM9iQsT4jp3UvBXcmzc6kkXjlcpzLrr5g" alt="古川聡宇宙飛行士が責任者の実験で不正 JAXA「研究全体の科学的 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>JAXA（宇宙航空研究開発機構）の古川聡（ふるかわ・さとし）宇宙飛行士（58）が責任者を務めた研究で、データに改ざんや捏造（ねつぞう）などがあったことが分かりまし&nbsp;...</p></div>
+            </div>
         </a><a href='https://www.sanspo.com/article/20221125-IROESQBD3FKXVEAHTIES7LSLII/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>古川聡飛行士の研究で不正、同僚が実験データ捏造 ＪＡＸＡ「適切 ...</h3>

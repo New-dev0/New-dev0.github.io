@@ -38,7 +38,7 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Вдова известного российского режиссера и актера Станислава ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcScNYrakC7l2PlhaVWhP4vkHUtMRfY_czKjKSTUzGxiZYsaM-v-iE8zDgBebT6uY7Kg_oesmIMC" alt="Вдова известного российского режиссера и актера Станислава ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTFl_AC8xvIcsEU-wTkKz5xzfuf5KwoSDzzgKBJdgUeXgYZJMF6zht51dA28wsf0l208Fcgazyr" alt="Вдова известного российского режиссера и актера Станислава ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Пожар произошел в коттеджном поселке Лесное Озеро в Новой Москве в частном доме с мансардой. В доме с Галиной Говорухиной находилась ее помощница, ей удалось&nbsp;...</p></div>
             </div>
         </a><a href='https://www.fontanka.ru/2022/11/25/71847398/'>
@@ -55,12 +55,12 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRJjiCwfQumSbj5d-30fy0jetyyOgzPtx54BNUNT8oZeh2cUpqKo3_momAN_gxZYAzouPCjFpnl" alt="Вдова режиссера Станислава Говорухина погибла при пожаре в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Возгорание в коттедже произошло в пятницу в поселке Лесное Озеро.</p></div>
             </div>
-        </a><a href='https://www.vokrug.tv/article/show/16693963081/'>
+        </a><a href='https://secretmag.ru/news/pri-pozhare-v-moskve-pogibla-vdova-izvestnogo-rossiiskogo-rezhissyora-26-11-2022.htm'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Стало известно, что в пожаре сгорела вдова Станислава ...</h3>
+                <h3>При пожаре в Москве погибла вдова известного российского ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ097yr6jz8HMluSux_jgT3xW5yEl0B4Q4Wc2OFOnumA7X2O7rjaVtEsrDLjaX9GO7XMZepv6xW" alt="Стало известно, что в пожаре сгорела вдова Станислава ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Сегодня стало известно о смерти супруги Станислава Сергеевича Говорухина. Галина Борисовна сгорела в крупном пожаре в собственном загородном доме.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRHf4_jTp6oIO9XpKGbi4xtrhMoewpzwGRLnHhwP3f2qf1joJ3XqrsJFb28WPkgNJ2a2NbbjBQL" alt="При пожаре в Москве погибла вдова известного российского ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Вдова кинорежиссёра и политика Станислава Говорухина Галина погибла во время пожара в Новой Москве. Тело 74-летней женщины обнаружили после тушения огня в&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

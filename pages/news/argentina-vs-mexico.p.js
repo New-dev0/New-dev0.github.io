@@ -11,56 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Argentina vs Mexico"/>
         <meta name="description" content="Trending News about Argentina vs Mexico" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Argentina vs Mexico</h1>
-            <Image width={800} height={500} src="https://images.daznservices.com/di/library/DAZN_News/26/a0/messi-argentina_7dg1u2qa81bn17h097awbc59h.jpg?t=-1464122012&quality=100&h=300" alt="Argentina vs Mexico"/>
+            <Image width={800} height={500} src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt9f0a92e07ecf09e4/60dfdc6031c2dd2e11363eb9/49fd0fda290238f9fa058cf8cc236686bcbe2a00.jpg" alt="Argentina vs Mexico"/>
             <h3>Recent News</h3>
-            <a href='https://www.dazn.com/en-IE/news/soccer/argentina-vs-mexico-time-tv-channel-preview-and-how-to-watch-fifa-world-cup-match/17k134o3acori1lb5tfmnnbuzo'>
+            <a href='https://www.goal.com/en/news/argentina-vs-mexico-lineups-and-live-updates/blte39c1bb64068b5af'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Argentina vs. Mexico: Time, TV channel, preview and how to watch ...</h3>
+                <h3>Argentina vs Mexico : Lineups and LIVE updates</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSycH9FSZkooSPjHbQeVEQagZLIzlcKNKErXQhwrEbV1uHUMGRIYSwxXGy01DZ1bBUwQT4nEsXE" alt="Argentina vs. Mexico: Time, TV channel, preview and how to watch ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Argentines were shocked in their opening match, falling 2-1 to Saudi Arabia after having gone up early in the game. As one of the pre-tournament favourites,&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQxCnEBRx_p-UKcQjAoZWzn-jMOoMTRJC-Q9ds32lK4oXYzoT1NWgOMSCpZR7AUVqKRiMewSrd-" alt="Argentina vs Mexico : Lineups and LIVE updates" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Argentina will seek all three-points against Mexico in a must-win Group C clash on Saturday at Lusail Stadium. The 2014 FIFA World Cup&#39;s runner-up suffered&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.aljazeera.com/sports/2022/11/26/mexico-vs-uruguay-last-chance-for-messis-men'>
+        </a><a href='https://www.sportingnews.com/au/soccer/news/argentina-vs-mexico-world-cup-live-score-result/mjquo0zluvowqxtbngp3tzmi'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022: Mexico vs Argentina match preview</h3>
+                <h3>Argentina vs Mexico score, result: Lionel Messi goal helps World ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRItp3gPCoqdSjtapZy6S7dLKiC6LXFC9nuJ4kfjJj3Wp0Rre6oPi5q2oUpw27WNqRJci08bx1M" alt="World Cup 2022: Mexico vs Argentina match preview" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Argentina are under huge pressure to get a win after the shock defeat to Saudi Arabia in their Group C opener.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSWdyiel4tQ9_CFCGCWDteSoDUyLT7QVy7z7JoeBRBkWwekjpnenaZ0ZAjwXETldcF_dfxrjQh3" alt="Argentina vs Mexico score, result: Lionel Messi goal helps World ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lionel Messi scored the breakthrough goal for Argentina in a big 2-0 win over Mexico that put the Albiceleste&#39;s World Cup title push back on track after the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.espn.com/soccer/fifa-world-cup/story/4814115/2022-world-cup-mexico-aim-to-oust-messi-and-argentina-usa-can-build-off-england-draw-saturdays-best-bets'>
+        </a><a href='https://www.si.com/soccer/2022/11/26/argentina-mexico-world-cup-2022-video-highlights-recap'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>2022 World Cup: Mexico vs. Messi, Argentina, USA vs. England</h3>
+                <h3>Messi&#39;s Stunner Sparks Argentina&#39;s World Cup Win Over Mexico</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTL--XNzZ6RgSbNdT_G06fdNDwY0QHwQCExkR4CesMEYNuD_GxXJbsJFcD1roTPcb8FdHP9LbTa" alt="2022 World Cup: Mexico vs. Messi, Argentina, USA vs. England" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The World Cup&#39;s matches on Friday saw Qatar eliminated, while England and USA entertained. Here&#39;s the latest and what&#39;s ahead at the World Cup.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTLHUhre48CttwLiLTsHsCNRIhJb65fG9V3EuZ0wYPosIWvJrLGPdPGDP-G7FlDsIyqmkZNfmdx" alt="Messi&#39;s Stunner Sparks Argentina&#39;s World Cup Win Over Mexico" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>It was clear that La Albiceleste needed a moment of magic, and who else to provide it but Lionel Messi. The 35-year-old produced a brilliant strike from outside&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sportsmole.co.uk/football/argentina/world-cup-2022/feature/world-cup-2022-argentina-vs-mexico-head-to-head-record_500596.html'>
+        </a><a href='https://www.skysports.com/football/argentina-vs-mexico/report/462979'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022: Argentina vs. Mexico head-to-head record</h3>
+                <h3>World Cup 2022 - Argentina 2-0 Mexico: Lionel Messi&#39;s stunning ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQapslslJOdbBaceB6YFJXQ2JSw51uO5P1gIYA7a8AH_b_7WANRf0Dcg5zhCZiVE2AIKOeDhEzK" alt="World Cup 2022: Argentina vs. Mexico head-to-head record" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ahead of Saturday&#39;s World Cup clash between Argentina and Mexico, Sports Mole looks at the head-to-head record between the two sides.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRK0brjYuC6TfLVz_NEtAz0GAXl46pd4v6oIripw-N5gWusaOsbBpz9Q1D3C8fJmWnaIAryAXT1" alt="World Cup 2022 - Argentina 2-0 Mexico: Lionel Messi&#39;s stunning ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Match report as Lionel Messis stunning goal helps Argentina claim a 2-0 win over Mexico to keep their World Cup dream alive; substitute Enzo Fernandez added&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.cbssports.com/soccer/news/argentina-vs-mexico-live-stream-how-to-watch-2022-world-cup-live-online-tv-channel-prediction-odds-time/'>
+        </a><a href='https://www.espn.com/soccer/report/_/gameId/633807'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Argentina vs. Mexico live stream: How to watch 2022 World Cup live ...</h3>
+                <h3>Argentina vs. Mexico - Football Match Report - November 26, 2022 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR1bG9aPxlWVpEDghAGxwIv5-AnU9Nq8bXKyM7xWz7a5s_dRWtD7ft3evYfVk_hdVAIw6a_a5cp" alt="Argentina vs. Mexico live stream: How to watch 2022 World Cup live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Lionel Messi and company can&#39;t afford any more slip-ups.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSyH9ui5_e8bG2x_op1wLsr-XJOSWRyJOiZ679Cc74qMH5GAW5XfikvYPNwtPJsdLWE4U4F6jrO" alt="Argentina vs. Mexico - Football Match Report - November 26, 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Get a report of the Argentina vs. Mexico 2022 FIFA World Cup, Group Stage football match.</p></div>
             </div>
-        </a><a href='https://news.paddypower.com/football/2022/11/25/football-tips-our-20-1-punt-on-argentina-vs-mexico/'>
+        </a><a href='https://www.marca.com/en/football/fifa-world-cup/argentina-mexico-directo/2022/11/26/01_0117_20221126_632_659.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Football Tips: Messi the man in this 20/1 Argentina vs Mexico punt</h3>
+                <h3>Argentina - Mexico World Cup: Results, updates and game highlights</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS3LegapQLSdTq5Af8vtlaI4ftZT5Jk-wjWWFis1GgF2L1q44id9nobywRKrULbTKWWsnReQ7XT" alt="Football Tips: Messi the man in this 20/1 Argentina vs Mexico punt" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The two sides have met 10 times since 2005, with Mexico failing to win a single game. They have also met twice in the World Cup during that period, with&nbsp;...</p></div>
-            </div>
-        </a><a href='https://indianexpress.com/article/sports/football/argentina-vs-mexico-lionel-messi-co-play-first-final-8290535/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Argentina vs Mexico: Lionel Messi &amp; Co play &#39;first final&#39;</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQyXO-IsHIhVPklViwX5d2jhh7ixs20YH1znM9tsTwiZMdM0oxORBbJuV0V-UeeqHdb7gNBsXrf" alt="Argentina vs Mexico: Lionel Messi &amp; Co play &#39;first final&#39;" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Albiceleste landed in Doha as firm contender for the title. Now, they risk making a group-stage exit.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRKTNFe4yaUmkrTi8jL-SciVaXx6fBdeKiD2-QvG2FFAdFQ67MKJiqTr_lj0p4X1ZlgMh0C4nLO" alt="Argentina - Mexico World Cup: Results, updates and game highlights" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Enzos goal was a beauty to watch Take a look at Enzo Fernandezs goal that gave Argentina the final 2-0 victory. With this result, Mexico is still not.</p></div>
             </div>
         </a>
         </Template></>;

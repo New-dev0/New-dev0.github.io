@@ -24,7 +24,7 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>サッカーW杯 ウルグアイ×韓国 視聴率は2桁10・6％（スポニチ ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTto0BhrnCQ3uLxaq7TARhukoYwMcDwFFPwS__KH99f-pf6sCJ1NtXefX4rJdwDnYxnbNlI9RqD" alt="サッカーW杯 ウルグアイ×韓国 視聴率は2桁10・6％（スポニチ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTibAJbanR5Rr1lMQ5qtgQURTNxKRF2cwPPbQgH_JRm_9UjnMj7_EPudi8WTsc9UKkql9k9PrLu" alt="サッカーW杯 ウルグアイ×韓国 視聴率は2桁10・6％（スポニチ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>サッカーFIFAワールドカップ（W杯）カタール大会の1次リーグH組のウルグアイ×韓国を生中継したフジテレビ（24日午後9時40分～25日午前0時10分）の平均世帯視聴率&nbsp;...</p></div>
             </div>
         </a><a href='https://www3.nhk.or.jp/news/html/20221125/k10013902991000.html'>

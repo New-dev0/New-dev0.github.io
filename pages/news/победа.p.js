@@ -20,13 +20,6 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTkKQdjQus9mBpKIUGEwXEy91snF1q0ZJRRFxYF5SXleKxlxw4FySA_QnuaE66qeRHLVHKzq-0V" alt="«Победа» объявила распродажу билетов по 999 рублей" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Рейсы в стамбульский аэропорт им.Сабихи Гёкчен начнутся 1 декабря 2022 года и будут выполняться ежедневно. Рейсы в главный стамбульский аэропорт стартуют 21&nbsp;...</p></div>
             </div>
-        </a><a href='https://hcsalavat.ru/news/kseniya-tyurina-match-poluchilsya-dostatochno-interesnym-i-tyazhyelym-trudovaya-pobeda/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ксения Тюрина: «Матч получился достаточно интересным и ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSK_8XKJigrhhAeNjuKL9REbIZGUErecbIFIvMNU846SFVXKnXgF0-h-1f5ov1gyupEWjUti1ne" alt="Ксения Тюрина: «Матч получился достаточно интересным и ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>История клуба и состав команды. Календарь чемпионата КХЛ и билеты на матчи. Последние новости и фан-зона для верных болельщиков &quot;Салавата Юлаева&quot;</p></div>
-            </div>
         </a>
         </Template></>;
 }

@@ -31,8 +31,8 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>【Amazonブラックフライデー】ゲームセールまとめ。Switchソフト ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQxtOucyIRafvad6iCijAk1i7znikgCEPlDKl7GUVwuKA77uTohzLf2xqTBJLhxJGbdU-G0otRJ" alt="【Amazonブラックフライデー】ゲームセールまとめ。Switchソフト ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Amazon.co.jp(アマゾン)にてビッグセール“Amazonブラックフライデー”が、11月25日～12月1日の期間で開催中。ゲーム関連のセール情報をまとめて紹介する。</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQjmz-1KTCfAPtbOd0QFnCQRSBkp_JFf_ytBeVj6MVtkQMdiUiXjToZbPRPuJTlDNGoliH8S4VI" alt="【Amazonブラックフライデー】ゲームセールまとめ。Switchソフト ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>本稿では、ゲーム関連のセール情報をまとめてお届け。Nintendo Switchソフトやプレイステーション4/5ソフト、Steamオンラインコード、Xbox Game Pass Ultimateなどの&nbsp;...</p></div>
             </div>
         </a><a href='https://forest.watch.impress.co.jp/docs/serial/goodbuy/1458786.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -41,19 +41,19 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT_AOPWT4Qh8-FOlvoxprwwdI4VB0hkaf9ujhs1i5VlDKUlFSobsgRYhidVR_8DzYcCXl7SAVk5" alt="『iPad mini』が最大15％OFF！ Amazonブラックフライデーセール ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>『iPad』2021年版（第9世代）は、2,160×1,620ドットの10.2インチ Retinaディスプレイを採用したタブレット端末。ブラックフライデーセールでは、Wi-Fiモデルのストレージ&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/amazon-black-friday-time-sale-buy/bltc2fa31a813d4aa76'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Amazonブラックフライデー2022で買うべきおすすめ商品・タイム ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRmMsrrbyp5KctVGx73eF2qsIDBth95ZtF1wqTL31kRHb8JH_faX-Uxc-UgTTDwXMcGPLAphmkq" alt="Amazonブラックフライデー2022で買うべきおすすめ商品・タイム ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>【2022年11月26日更新】Amazon(アマゾン)ブラックフライデーで買うべきおすすめ商品まとめ。AirPods ProなどのApple製品、Fire TV Stickなどが特選タイムセール中！</p></div>
-            </div>
         </a><a href='https://www.gqjapan.jp/fashion/article/20221126-abf-fashion-recommends-22'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Amazonブラックフライデーでファッションも冬支度！ ディーゼル ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRzXbnMZ7r3bGEzftjRKUUjPPdCUwBfDnln6BtaJ6YHARduDcaqkq9goUbGjvn4mAByUgDgyXmp" alt="Amazonブラックフライデーでファッションも冬支度！ ディーゼル ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>ディーゼル、ヘインズ、ビームスなど、Amazonに公式ショップを持つブランドから、ブラックフライデーで狙いたいおすすめをピックアップ！</p></div>
+            </div>
+        </a><a href='https://av.watch.impress.co.jp/docs/news/1458680.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>ソニーやBOSEのサウンドバー、エヴァBDもセール中。Amazon ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTIHAuTCPlUzOpf1rHU8dACdHO5VzXAXH3_x3baXFaaUzBRFes4ZWLN-Lb1nyD3BGp-gAXPnWU2" alt="ソニーやBOSEのサウンドバー、エヴァBDもセール中。Amazon ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>11月25日0時にスタートしたAmazonの大型セール「Amazon ブラックフライデー」で、ソニーやJBL、BOSE、Sonosなどのサウンドバーがセール価格で販売されている。25日に&nbsp;...</p></div>
             </div>
         </a><a href='https://www.businessinsider.jp/post-262376'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

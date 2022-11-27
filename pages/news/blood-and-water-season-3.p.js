@@ -11,14 +11,14 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Blood and Water season 3"/>
         <meta name="description" content="Trending News about Blood and Water season 3" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Blood and Water season 3</h1>
-            <Image width={800} height={500} src="https://readysteadycut.com/wp-content/uploads/2022/11/bloodandwater.jpeg" alt="Blood and Water season 3"/>
+            <Image width={800} height={500} src="https://i0.wp.com/dmtalkies.com/wp-content/uploads/2022/11/Blood-and-Water-Season-3-Ending-Explained-Puleng-Khumalo-and-Fikile-Bhele.jpg" alt="Blood and Water season 3"/>
             <h3>Recent News</h3>
-            <a href='https://readysteadycut.com/2022/11/25/blood-water-season-3-ending/'>
+            <a href='https://dmtalkies.com/blood-and-water-season-3-ending-explained-2022-netflix-teen-series/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Blood &amp; Water season 3 ending explained - how does Puleng ...</h3>
+                <h3>&#39;Blood &amp; Water&#39; Season 3: Ending, Explained - What Happens To ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQBM1SBrOCFfLq8OVqIBtHsNRUf2dmim0kTGeZLGtQDhc4EEkREqhEwkqMt6E9tReHEnwobUoz0" alt="Blood &amp; Water season 3 ending explained - how does Puleng ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>We recap the Netflix series Blood &amp; Water season 3, episode 6, &quot;A Tale of Two Sisters,&quot; which contains spoilers and explains the ending.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQRccZ1Z7snGiv9VwhviOOPXsFjNSdu5eRZyZ7Kfom2uY6YyQG2rpZAzShIfp2fnv0kt3ZVWwGo" alt="&#39;Blood &amp; Water&#39; Season 3: Ending, Explained - What Happens To ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Netflix&#39;s South African teen drama thriller &quot;Blood &amp; Water&quot; is back with its 3rd season, and the stakes are indeed higher this time around. While all the.</p></div>
             </div>
         </a><a href='https://www.capetownetc.com/culture/blood-water-season-3-finally-premieres/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -27,12 +27,12 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQCv1Pq8HTkVI0I1TEAGQDe3fI6lwVEQUzScWqUbq5RsGQEwS8pLT-4K2DoCLBJnK0odpeCo6bU" alt="Blood &amp; Water Season 3 finally premieres" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>The wait is finally over, and the Cape Town-shot internationally acclaimed series Blood &amp; Water Season 3 is finally streaming on Netflix as promised.</p></div>
             </div>
-        </a><a href='https://dmtalkies.com/blood-and-water-season-1-2-recap-ending-explained-2022-netflix-series/'>
+        </a><a href='https://readysteadycut.com/2022/11/25/blood-water-season-3-ending/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Blood &amp; Water&#39; Season 1 And 2: Recap And Ending, Explained ...</h3>
+                <h3>Blood &amp; Water season 3 ending explained - how does Puleng ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTdR07NrAx7TnpKrfmYG2Ywj2lqIUK_m9UOXt8lpJ826v-DKfjLiZysC2WpxFcKLRCz_EoC1eXg" alt="&#39;Blood &amp; Water&#39; Season 1 And 2: Recap And Ending, Explained ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Netflix original teen drama series &quot;Blood &amp; Water&quot; is just like the very usual average works of the genre, intermixing crime thriller elements with.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRlJr0ZKUo5aNBgKlWo7e_0Owqme3nB-iEton4LtQF7FBUN1TcAE283qYOfFBHp_O8jRnOaW82g" alt="Blood &amp; Water season 3 ending explained - how does Puleng ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>We recap the Netflix series Blood &amp; Water season 3, episode 6, &quot;A Tale of Two Sisters,&quot; which contains spoilers and explains the ending.</p></div>
             </div>
         </a><a href='https://moviesr.net/p-blood-water-season-3-review-its-time-for-some-revelations'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -55,12 +55,12 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSAwskCk9JvqXifNlbPLhH_hHAvPPEP4fcjF1qKjgorGTa2EY77h0QdITBBUhZDRnZLEJskk36w" alt="Blood &amp; Water season 3 cast list: Ama Qamata, Khosi Ngema and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Blood &amp; Water is all set to make its return to Netflix and things are going to get a lot more hectic this time around.</p></div>
             </div>
-        </a><a href='https://briefly.co.za/entertainment/tv-shows/147023-netflix-releases-season-3-blood-water-mzansi-rejoices/'>
+        </a><a href='https://briefly.co.za/entertainment/celebrities/147140-new-mom-natasha-thahane-flaunts-haircut-blood-water-scrrening/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Netflix Releases Season 3 of &#39;Blood and Water&#39;, Mzansi Thrilled: “So ...</h3>
+                <h3>New Mom Natasha Thahane Flaunts New Short Haircut at &#39;Blood ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSMebncb6hXnWi3iq3Fvf60Dyuv4sweyWNYM8pOSpyamgZmKr8doVAZU-izVtW4Q0i7e7iatm1-" alt="Netflix Releases Season 3 of &#39;Blood and Water&#39;, Mzansi Thrilled: “So ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Netflix released the season 3 of &#39;Blood and Water&#39; on Friday morning. Mzansi took to social media to express how thrilled they were to watch the popular&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS4i0ZJOXoKA2s-hIM3kM4DxZO5cFgTAji_gUDlxIAqqXQC9nkMpBFOlA-lpMKJKGzITgYDzYOs" alt="New Mom Natasha Thahane Flaunts New Short Haircut at &#39;Blood ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>New mom and actress Natasha Thahane cut her into a short pixie. The star flaunted her new hairstyle at the &#39;Blood and Water&#39; screening, and her fans loved&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

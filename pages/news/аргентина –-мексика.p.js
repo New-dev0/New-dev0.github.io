@@ -11,49 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Аргентина – Мексика"/>
         <meta name="description" content="Trending News about Аргентина – Мексика" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Аргентина – Мексика</h1>
-            <Image width={800} height={500} src="https://img.championat.com/news2/social/b/e8/4900983.jpg" alt="Аргентина – Мексика"/>
+            <Image width={800} height={500} src="https://ss.sport-express.ru/userfiles/materials/184/1840676/large.jpg" alt="Аргентина – Мексика"/>
             <h3>Recent News</h3>
-            <a href='https://www.championat.com/football/news-4900983-argentina-meksika-vo-skolko-match-chempionata-mira-2022-gde-smotret.html'>
+            <a href='https://www.sport-express.ru/football/world/2022/news/argentina-meksika-2-0-rezultat-matcha-vtorogo-tura-gruppy-s-chm-2022-26-noyabrya-2022-2003797/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Аргентина — Мексика: во сколько матч чемпионата мира — 2022 ...</h3>
+                <h3>Аргентина победила Мексику и избежала досрочного вылета с ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR6b7HeEqkmjVMXcEqpjN9-UW7hAXXI2PMfjkimes6Cwg5PCJjQA8YXg3MGdz6dsTDtUUsQZU-2" alt="Аргентина — Мексика: во сколько матч чемпионата мира — 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cегодня, 26 ноября, в матче 2-го тура группового этапа чемпионата мира 2022 года в Катаре встретятся сборные Аргентины и Мексики. Стартовый свисток на&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR35VpnC3uNOf2VZEgFxgpq2wl1oQu9JlKLEGroZMj3Dvyllo6ZJwSFAdUHa7rjS6PH--P7tOjg" alt="Аргентина победила Мексику и избежала досрочного вылета с ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Аргентина победила Мексику в матче второго тура группы С чемпионата мира-2022 в Катаре. Встреча на стадионе «Лусаил» завершилась со счетом 2:0.</p></div>
             </div>
-        </a><a href='https://www.sport-express.ru/football/world/2022/reviews/argentina-meksika-prognoz-na-match-chempionata-mira-v-katare-26-noyabrya-2022-goda-koefficienty-bukmekerov-i-gde-smotret-onlayn-2003175/'>
+        </a><a href='https://www.championat.com/football/news-4906743-argentina-meksika-komandy-ne-smogli-otkryt-schyot-v-pervom-tajme.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Матч жизни для сборной Аргентины. Оставит ли Мексика Месси ...</h3>
+                <h3>Аргентина — Мексика: команды не смогли открыть счёт в первом ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRmrlH9hSDAZhf0VohqLpxde4sS4Ny4_s8E6aA1FCH-egOcKDHoC6dNU37vM_HUa_xtm9sXQaFZ" alt="Матч жизни для сборной Аргентины. Оставит ли Мексика Месси ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Матч жизни для сборной Аргентины. Оставит ли Мексика Месси без шансов на трофей? Прогнозы и ставки на матч чемпионата мира Аргентина — Мексика 26 ноября 2022&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTVOMVj3Yo1xB2RouPuwkqUExxo2ty8PNsOg1PWnF_FRd0E_llBleV-PHczT-3pnTXXkftIwrXU" alt="Аргентина — Мексика: команды не смогли открыть счёт в первом ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сегодня, 26 ноября, проходит заключительный матч 2-го тура группы D, в котором сборная Аргентины встречается с Мексикой. Команды проводят игру на стадионе&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.vseprosport.ru/news/2022/11/25/argentina-meksika-prognoz-kf-3-35-na-match-chempionata-mira-26-nojabrja-2022-goda'>
+        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1731287_ARGeNTINA__MeKSIKA__10_MeSSI_OTKRYL_SCheT_NA_63_J_MINUTe_MATChA_ChM_2022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Аргентина — Мексика: прогноз на матч Чемпионата мира</h3>
+                <h3>Аргентина — Мексика — 1:0: Месси открыл счет на 64-й минуте ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRRF_JSAdJQjgvdD8AKy1Nqwys6T1g5uRkjqAlWdZ9t3lcFDNCCx5fXMQvqSV0NEh3wmH8APvd-" alt="Аргентина — Мексика: прогноз на матч Чемпионата мира" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Аргентина — Мексика. Прогноз (кф 3.35) на матч Чемпионата мира (26 ноября 2022 года). Аргентина. Аргентина. Чемпионат Мира. 26.11.2022. 22:00 МСК. Мексика.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTti6gdszA7znsG-7t1sCzrN-mtr4XJER3gGn-QFkj5Y8HegQvcGAoG6JBdE-G8cjcwdjrDkUh5" alt="Аргентина — Мексика — 1:0: Месси открыл счет на 64-й минуте ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Нападающий сборной Аргентины Лионель Месси открыл счет в матче второго тура группового этапа чемпионата мира‑2022 со командой Мексики.</p></div>
             </div>
-        </a><a href='https://www.sports.ru/football/1113614901-chm-2022-argentina-meksika-pryamaya-translyacziya.html'>
+        </a><a href='https://sportrbc.ru/news/638132569a794776115de504'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ЧМ 2022: Аргентина — Мексика прямая трансляция</h3>
+                <h3>Аргентина — Мексика</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTMkEtt_kpQ5EZNBVgtDT4V6-F9qYw0b7Vh8XZTjHDczXkc2a_R6-9ybuZvvGcVk2wiZ3-iaWDW" alt="ЧМ 2022: Аргентина — Мексика прямая трансляция" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Прямая трансляция начнется на канале «Матч ТВ» в 21:45. Смотреть онлайн прямую трансляцию матча Аргентина — Мексика на ЧМ 2022 по футболу в Катаре можно на&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRScqUqFYIcZAwizgbqeZw8ANNF7GJ3NiQ7nBwGlod2yyRKBFWjJb8jV17x4ugaBu7c6znUhdox" alt="Аргентина — Мексика" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>На этом будем прощаться, пожелаем сборной Мексики побед в следующих матчах турнира. А команду Аргентину поздравляем с победой!</p></div>
             </div>
-        </a><a href='https://www.ua-football.com/foreign/worldcup/1669419038-argentina-meksika-gde-i-kogda-smotret-match-chempionata-mira.html'>
+        </a><a href='https://www.sports.ru/football/1113612237-argentina-meksika-startovye-sostavy-komand-na-match-chempionata-mira-p.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Аргентина - Мексика. Где и когда смотреть матч чемпионата мира</h3>
+                <h3>Аргентина — Мексика: стартовые составы команд на матч ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTha4umpSBdOOy_h6zeLCQXHr0y787JApU-4Va188-aE58k5IN_QDhjDlUq43EbPDCiOPHTehX8" alt="Аргентина - Мексика. Где и когда смотреть матч чемпионата мира" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Аргентина – Мексика ⋇ 26.11.2022 ⋇ Где смотреть матч онлайн ✓ Прямые трансляции футбольных матчей ⚽ Статистика ☝ Результаты ✌ Свежие новости футбола.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTIn5lzb10P-IOpFyZjjDT545PQXV7bVTq0MIhF84pjnoc7xDua2R3arVkAq9pK7Sljc43B7Mpc" alt="Аргентина — Мексика: стартовые составы команд на матч ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Мексика: Очоа – Альварес, Морено, Араухо, Монтес – Гальярдо, Гуардадо, Эррера, Чавес – Лосано, Вега. Помимо этих двух сборных, в группе C выступают национальные&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.euro-football.ru/article/1003063681/1004952387_argentina__meksika_prognoz_i_stavki_ot_bk_pinnacle'>
+        </a><a href='https://www.sport-interfax.ru/874389'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Аргентина – Мексика: прогноз и ставки от БК Pinnacle</h3>
+                <h3>Месси на грани вылета. Онлайн матча Аргентина - Мексика</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Аргентина – Мексика: прогноз и ставки от БК Pinnacle" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Аргентина и Мексика сыграют во втором туре группового этапа чемпионата мира. Предлагаем прогноз и анализ линии ставок букмекерской компании Pinnacle на эту&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSlZiulVSdHeu-hhiyAzRkkEp17OjiAmnVRKfEm8aapbcGkqzEd4wDJmRGjPOLZqlXnjbLQq-8Z" alt="Месси на грани вылета. Онлайн матча Аргентина - Мексика" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Интерфакс: Аргентина - Мексика. 2:0На этом я завершаю свою трансляцию! Спасибо вам за внимание и до новых встреч! До свидания!Будет интересно!</p></div>
             </div>
         </a>
         </Template></>;

@@ -11,56 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Tunisia vs Australia"/>
         <meta name="description" content="Trending News about Tunisia vs Australia" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Tunisia vs Australia</h1>
-            <Image width={800} height={500} src="https://images.livemint.com/img/2022/11/26/600x338/SOCCER-WORLDCUP-DNK-TUN-REPORT-248_1669425073732_1669425073732_1669425083818_1669425083818.JPG" alt="Tunisia vs Australia"/>
+            <Image width={800} height={500} src="https://theathletic-media-production.s3-us-west-2.amazonaws.com/rYsArE0flYWM_LFJfY2l0nkse_1440x960.jpeg" alt="Tunisia vs Australia"/>
             <h3>Recent News</h3>
-            <a href='https://www.livemint.com/news/world/tunisia-vs-australia-prediction-fifa-world-cup-2022-football-11669424804676.html'>
+            <a href='https://theathletic.com/live-blogs/tunisia-australia-score-2022-world-cup/rYsArE0flYWM/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FIFA World Cup 2022: Tunisia vs Australia prediction, time, live ...</h3>
+                <h3>World Cup result: How Australia defeated Tunisia 1-0 in Group D ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTyxG7kNal03riOcsU6ZAZ5Zg8ZqzatZnh1D7bEIvW_qWSlWrW6-jhSGTD919rYcOFdFb5pMwq5" alt="FIFA World Cup 2022: Tunisia vs Australia prediction, time, live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>In the Group D match, these teams are coming from quite different first games. While Australia suffered a 1-4 defeat against France in their first game, Tunisia&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.goal.com/en-in/news/tunisia-vs-australia-predictions-tips-and-betting-odds/blt8157da7ed0a72b96'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Tunisia vs Australia: Predictions, tips &amp; betting odds</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQUBV0RvBj3ivcuxBGZZbvqCQgKxogf7BBXFvDHtrh_VTvmiubwH19AtzNQndz5Yi7cUucZUuEN" alt="Tunisia vs Australia: Predictions, tips &amp; betting odds" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Socceroos were thrashed 4-1 by Les Bleus despite going ahead in the early stages of the game through a Craig Goodwin goal. Tunisia, meanwhile, opened their&nbsp;...</p></div>
-            </div>
-        </a><a href='https://khelnow.com/football/2022-11-world-football-fifa-world-cup-2022-tunisia-vs-australia-predicted-lineup-injury-news'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Tunisia vs Australia: Predicted lineup, injury news, head-to-head</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQT1CSZ4p5qxPGdFs_SuI88decs0aWGunV46muaKJPCWrZznIdWyLATVbdmfyBnw_R3nZfqfoaX" alt="Tunisia vs Australia: Predicted lineup, injury news, head-to-head" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Tunisia and Australia will tussle in the second match day of Group D in their hunt for first win of the FIFA World Cup 2022.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTJSTGSrVzPaN0TSNFtLoQvtE-NRNFOPpAgBbh-Xalape4NvPkM8c6fhL1gIhTYdITpxu5TQVnl" alt="World Cup result: How Australia defeated Tunisia 1-0 in Group D ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Australia claimed their first win of the tournament, thanks to Mitchell Duke&#39;s superb first-half header against Tunisia at the Al Janoub Stadium.</p></div>
             </div>
         </a><a href='https://www.sportingnews.com/us/soccer/news/tunisia-vs-australia-world-cup-live-score-result/om7ht0mfjdx8issuengvjgi3'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Tunisia vs Australia live: World Cup score, highlights, result from ...</h3>
+                <h3>Tunisia vs Australia final score, result: Mitchell Duke goal secures ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQD-QDq_-IBwYVBCz20CtrWQd_xKUK19nmTywgR0uKpFI-zHJYxHIep2PseArGu7-KUi-KqfNV8" alt="Tunisia vs Australia live: World Cup score, highlights, result from ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Sporting News is tracking live scoring updates and highlights for Tunisia vs Australia at the 2022 World Cup. Follow for complete results from the Group D&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRN7EZQGy3j69A5RpKTp7E3-uR5WNaRLVFoLJx1f-QLZuFfHAqSrQ63NMVKYGTMS21f2DjOikNv" alt="Tunisia vs Australia final score, result: Mitchell Duke goal secures ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Australia lost their opening 2022 World Cup match 4-1 to France but their hopes of qualifying from Group D are still alive after their second encounter with&nbsp;...</p></div>
             </div>
-        </a><a href='https://sportstar.thehindu.com/football/fifa-world-cup/news/australia-vs-tunisia-fifa-world-cup-live-streaming-info-qatar-2022-soccer-ned-vs-ecu-head-to-head-form-predicted-xi/article66185112.ece'>
+        </a><a href='https://dknation.draftkings.com/2022/11/26/23474156/tunisia-vs-australia-group-stage-world-cup-2022-referee-daniel-siebert-history-cards'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Australia vs Tunisia, Live streaming info, FIFA World Cup: Preview ...</h3>
+                <h3>Tunisia vs. Australia: Who is the referee for Group D match in 2022 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRJdwLs3Z3JS1TnJJDFMX4Fv--Wz445Axll2KlspwUowpUKVg8Saq1Jitmv2J7Zd6WwFGTRy5Ay" alt="Australia vs Tunisia, Live streaming info, FIFA World Cup: Preview ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Here is all you need to know about the FIFA World Cup fixture between Australia and Tunisia.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTw4HmBfYvbbTfmLCPa6isbtNL7m9siowb0dZMjLbYuFmtFNSnBQt1CHj1RV3TJPmN61reQZUuR" alt="Tunisia vs. Australia: Who is the referee for Group D match in 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The match will be officiated by an all-German crew with Daniel Siebert taking charge in the center, flanked by assistants Rafael Foltyn and Jan Seidel on the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sportsmole.co.uk/football/tunisia/world-cup-2022/feature/world-cup-2022-tunisia-vs-australia-head-to-head-record_500597.html'>
+        </a><a href='https://www.espn.com/soccer/report/_/gameId/633808'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022: Tunisia vs. Australia head-to-head record</h3>
+                <h3>Tunisia vs. Australia - Football Match Report - November 26, 2022 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT_mX-YuVwRVX7RNSJbcTKaGeqEm24raZtdeUmr6GFsxaOlLqPQl0hX6ZO3m7_uVD30leS-FsVJ" alt="World Cup 2022: Tunisia vs. Australia head-to-head record" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ahead of Saturday&#39;s World Cup clash between Tunisia and Australia, Sports Mole looks at the head-to-head record between the two sides.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTZ4o5Ydice_C8mTaNte0cj9IyqinvL0wbcbS7mOFPB9OtWD5d_5E6vHyMVOHZZgtTd85UrMkTI" alt="Tunisia vs. Australia - Football Match Report - November 26, 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Get a report of the Tunisia vs. Australia 2022 FIFA World Cup, Group Stage football match.</p></div>
             </div>
-        </a><a href='https://www.cnbctv18.com/sports/fifa-world-cup-2022-tunisia-and-australia-to-slug-it-out-in-group-d-to-have-a-chance-at-round-of-16-15256721.htm'>
+        </a><a href='https://www.aljazeera.com/sports/liveblog/2022/11/26/live-2'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FIFA World Cup 2022: Tunisia vs Australia | Preview, Team News ...</h3>
+                <h3>Tunisia vs Australia 0-1: World Cup 2022 – as it happened</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSyD8ASZHGIYiwhwdLgd44bR0gTo6mr88EqAAx3cOkGsVYH7P0Ibpizzlck3uU8Bh_U80NMYOqh" alt="FIFA World Cup 2022: Tunisia vs Australia | Preview, Team News ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>With a spot in the round of 16 now at stake, both Tunisia and Australia will be giving their all to win all 3 points. But victory doesn&#39;t seem to be coming&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQOKbR5W7NYbDgJDiri1FBY6i3wi7mDI7pb5F-9SnQ0NY48J8FRu51xwbXZbSxF5yACQzb0BLGC" alt="Tunisia vs Australia 0-1: World Cup 2022 – as it happened" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>All the updates from the World Cup 2022 match between Tunisia and Australia at Al Janoub Stadium.</p></div>
+            </div>
+        </a><a href='https://www.cbssports.com/soccer/news/tunisia-vs-australia-final-score-fifa-world-cup-2022-socceroos-net-three-crucial-points-ahead-of-last-match/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Tunisia vs. Australia final score, FIFA World Cup 2022: Socceroos ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQHYga-K2R_jgfNMyfK4mfuAGW1U3gjtPBBWZe549jX_w23XpqnTrlA0AE8XMZLzyRmR4d4-1yx" alt="Tunisia vs. Australia final score, FIFA World Cup 2022: Socceroos ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Australia scored a crucial win as Socceroos won 1-0 against Tunisia on Saturday for the first game of Group D Matchday 2. Australia had a better start to&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

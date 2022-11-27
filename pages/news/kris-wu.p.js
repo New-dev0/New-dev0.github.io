@@ -11,49 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Kris Wu"/>
         <meta name="description" content="Trending News about Kris Wu" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Kris Wu</h1>
-            <Image width={800} height={500} src="https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4096%3A2307%3Anowe%3A0%3A250%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F11%2F25112129%2FGettyImages-1320609322-scaled.jpg" alt="Kris Wu"/>
+            <Image width={800} height={500} src="https://img.etimg.com/thumb/msid-95779876,width-1070,height-580,imgsize-86720,overlay-economictimes/photo.jpg" alt="Kris Wu"/>
             <h3>Recent News</h3>
-            <a href='https://observador.pt/2022/11/25/china-cantor-kris-wu-condenado-a-treze-anos-de-prisao-por-violacao/'>
+            <a href='https://economictimes.indiatimes.com/news/new-updates/china-sentences-xxx-return-of-xander-cage-actor-kris-wu-to-13-years-in-jail-for-raping-minor/articleshow/95779900.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>China. Cantor Kris Wu condenado a treze anos de prisão por violação</h3>
+                <h3>China sentences XXX Return of Xander Cage actor Kris Wu to 13 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT-RlxR9tKcqVkZtqe35qLAvZ-3UT_2vETZLI4NVFILOAXmV8mVoHVHfYGsg-W_G4tmPazB5o6D" alt="China. Cantor Kris Wu condenado a treze anos de prisão por violação" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>O tribunal condenou o cantor pop Kris Wu a 13 anos de prisão por ter abusado de três mulheres alcoolizadas e incentivar menores a participar de um grupo de&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRZasKW22QBxqYMrdbu7vZ9kLA9ZXKnPI_U7zX4ZIXyL_2UmJXGk2W3vRky9cR-G5pWy0bG_ZgC" alt="China sentences XXX Return of Xander Cage actor Kris Wu to 13 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Chinese-Canadian actor and singer was sentenced to 13 years in prison by a court on Friday. His case was heard without media access in June.</p></div>
             </div>
-        </a><a href='https://g1.globo.com/pop-arte/noticia/2022/11/25/cantor-kris-wu-ex-integrante-do-grupo-de-k-pop-exo-e-condenado-por-estupro.ghtml'>
+        </a><a href='https://www.washingtonpost.com/world/2022/11/26/china-exo-kris-wu-scandal/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Cantor Kris Wu, ex-integrante do grupo de K-POP EXO, é ...</h3>
+                <h3>China sentences Canadian pop star Kris Wu to prison for rape</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSsDPK3Psr0mtiJmBkrCNjBl_Bdile54qQ1LmvGzmCUzzyDcga9T-DO5cfGTzg0T-AlLweaBNmn" alt="Cantor Kris Wu, ex-integrante do grupo de K-POP EXO, é ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ele tinha deixado o grupo em 2014 para seguir carreira solo. Após a acusação do ano passado, o artista perdeu contrato com marcas como Louis Vuitton,&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQuJ8nxvEda9SQAcHrZxW-kUm7QQ7HCYNrn-fLXenKAyHpogejd88OD6p_LFylGOQ-4Qz01rive" alt="China sentences Canadian pop star Kris Wu to prison for rape" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kris Wu, who had been at the center of one of China&#39;s major #MeToo cases, was sentenced to 13 years imprisonment on charges including rape.</p></div>
             </div>
-        </a><a href='https://radiocomercial.iol.pt/noticias/130816/cantor-kris-wu-condenado-a-13-anos-de-prisao-por-violacao-e-incentivo-em-atividades-promiscuas'>
+        </a><a href='https://www.jansatta.com/entertainment/canadian-singer-kris-wu-has-been-sentenced-to-13-years-of-prison-for-rape-charges/2520941/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Cantor Kris Wu condenado a 13 anos de prisão por violação e ...</h3>
+                <h3>कनाडाई सिंगर Kris Wu को 13 साल की जेल, 3 नाबालिग लड़कियों से नशे में रेप ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTYCWS_YJfCHmx5g2IvVSL_P9TQRvf0reILvuWpodGk18w-gH3MyQl9kYTpJyMohmiwveAsVvuQ" alt="Cantor Kris Wu condenado a 13 anos de prisão por violação e ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>O artista, atualmente com 32 anos, foi condenado por um tribunal em Pequim, China.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSMRdGBomDo2Y7eJthOkaX_wKnqtp63u0Dl6nT4u11A5od4JGrHRP3NRhKD3j6t_zIdWK2tXaUn" alt="कनाडाई सिंगर Kris Wu को 13 साल की जेल, 3 नाबालिग लड़कियों से नशे में रेप ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>चीन की अदालत ने चीनी-कनाडाई पॉप स्टार क्रिस वू को दुष्कर्म व यौन उत्पीड़न के आरोप में 13&nbsp;...</p></div>
             </div>
-        </a><a href='https://lifestyle.sapo.pt/fama/noticias-fama/artigos/cantor-kris-wu-condenado-a-13-anos-de-prisao-na-china-por-violacao'>
+        </a><a href='https://www.allkpop.com/article/2022/11/korean-netizens-react-to-kris-wu-getting-13-years-in-jail-for-rape'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Cantor Kris Wu condenado a 13 anos de prisão na China por violação</h3>
+                <h3>Korean netizens react to Kris Wu getting 13 years in jail for rape</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT3fFlCg9uXj8e4lHpBqnss67qDSiG-knTw7qKJURMYxhkjk2-j8K0jBItDv3Wp4ApIRE80dWgU" alt="Cantor Kris Wu condenado a 13 anos de prisão na China por violação" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>O popular cantor e ator sino-canadiano Kris Wu foi hoje condenado por um tribunal chinês a 13 anos de prisão, por violar uma adolescente e &quot;organizar um&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSKI2kqZ4ktGZdoEbsSiJLHsRkqszSbsayOGajc_fVc1ya4J_BpJ5dZIAtqWAFoAmbw9lVV1zq5" alt="Korean netizens react to Kris Wu getting 13 years in jail for rape" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kris Wu has been sentenced to 13 years in jail for rape and this is how Korean netizens reacted to the news. On November 25th, a Beijing co…</p></div>
             </div>
-        </a><a href='https://www.cnnbrasil.com.br/entretenimento/china-condena-ex-integrante-de-grupo-de-k-pop-kris-wu-a-13-anos-de-prisao-por-estupro/'>
+        </a><a href='https://www.hindustantimes.com/entertainment/music/fans-react-as-former-exo-star-kris-wu-sentenced-to-13-years-in-jail-for-rape-101669369335172.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>China condena ex-integrante de grupo de K-pop Kris Wu a 13 anos ...</h3>
+                <h3>Fans react as former EXO star Kris Wu sentenced to 13 years in jail ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQvEvasbQgPb4ncpEFZIqhqn4o_BgF8o40lz7ZNxpg6Gb69uti7svhF3t1isMSqFH3CLtaSMCtm" alt="China condena ex-integrante de grupo de K-pop Kris Wu a 13 anos ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Um tribunal de Pequim condenou o cantor canadense Kris Wu nesta sexta-feira (25) a 13 anos de prisão após considerá-lo culpado de crimes como estupro,&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQlf0iN2Q4zh70hBs0xQ-FPFR7lhaOFH5sn7Set3LqdYkvwB57Bs6qtLQKD4hJb8NoqSClFGnsVsg" alt="Fans react as former EXO star Kris Wu sentenced to 13 years in jail ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ex-EXO member Kris Wu has been found guilty of rape on Friday. A court in China sentenced him to 13 years in prison after which he will be deported from the&nbsp;...</p></div>
             </div>
-        </a><a href='https://extra.globo.com/tv-e-lazer/astro-de-pop-kris-wu-ex-exo-condenado-13-anos-de-prisao-por-estupro-25615654.html'>
+        </a><a href='https://www.vulture.com/2022/11/kris-wu-13-year-jail-sentence-rape.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Astro de K-pop Kris Wu, ex-EXO, é condenado a 13 anos de prisão ...</h3>
+                <h3>Kris Wu Gets 13-Year Jail Sentence for Raping Multiple Women</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRdZmiOalN2GsWmWLFFzO78mHgVX58ZN_vbeKR-pucM3w1K1UHzThCEubRDHMJipR1SK7jSCisG" alt="Astro de K-pop Kris Wu, ex-EXO, é condenado a 13 anos de prisão ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>O ex-astro pop sino-canadense Kris Wu foi condenado a 13 anos de prisão após ser considerado culpado de estupro, informou um tribunal chinês nesta&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTRQ9dGJ8WO9OkFcAkqcjQaOUxT4p-T8ldVF92lru_SNQ3PCVcvsEmNpmdrN6UOmKdBPo2oklTa" alt="Kris Wu Gets 13-Year Jail Sentence for Raping Multiple Women" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Chinese Canadian pop star Kris Wu, born Wu Yifan, has been sentenced to 13 years in jail after being found guilty of rape and other sexual offenses.</p></div>
+            </div>
+        </a><a href='https://www.voanews.com/a/china-sentences-chinese-canadian-star-kris-wu-to-13-years-/6851071.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>China Sentences Chinese Canadian Star Kris Wu to 13 Years</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ9BQFOyGc0V2CsfC2VfKS0DEzoDgBWSnBWsEZdZYo3dD2DfaziIuHmw0z27NnQR6i7pvUDuG1z" alt="China Sentences Chinese Canadian Star Kris Wu to 13 Years" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Beijing&#39;s Chaoyang District Court said Wu was given 11 years and six months for a 2020 rape, and one year and 10 months for the “crime of assembling a crowd to&nbsp;...</p></div>
+            </div>
+        </a><a href='https://navbharattimes.indiatimes.com/entertainment/hollywood-news/candian-pop-star-actor-kris-wu-jailed-for-13-years-for-raping-three-women-and-assembling-crowd-for-orgy/articleshow/95778731.cms'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Kris Wu Jail: पॉप सिंगर क्रिस वू को हुई 13 साल की जेल, तीन महिलाओं को ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTVNtEtFHmai9hgRSILdbgY0RA9V6uCIuu8zoFadNI2Q2PPmIOwnZ2uU4DfP7Rb8siNfIQr7hzG" alt="Kris Wu Jail: पॉप सिंगर क्रिस वू को हुई 13 साल की जेल, तीन महिलाओं को ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>कनाडा के पॉप स्टार और एक्टर क्रिस वू को बीजिंग की कोर्ट ने तीन महिलाओं का रेप करने के&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.amarujala.com/entertainment/hollywood/chinese-canadian-singer-kris-wu-has-been-sentenced-to-13-years-of-prison-for-rape-charges'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Kris Wu: चीनी-कनाडाई सिंगर क्रिस वू को हुई 13 साल की जेल, नाबालिग के ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTk9TS7qKfBAqhc2E3yacT_QDexRP6BmpzIG6a0kW9N4zEgk7qoaWW4WeoDE_pHcb9R2kCyyaW2" alt="Kris Wu: चीनी-कनाडाई सिंगर क्रिस वू को हुई 13 साल की जेल, नाबालिग के ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kris Wu: चीनी-कनाडाई सिंगर क्रिस वू को हुई 13 साल की जेल, नाबालिग के साथ किया था दुष्कर्म &middot; चीनी&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.mathrubhumi.com/movies-music/news/chinese-court-sentences-canadian-singer-kris-wu-to-prison-for-rape-1.8080800'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>ബലാത്സം​ഗ കേസ്; പോപ് ​ഗായകൻ ക്രിസ് ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSukq3u2rGF3L0VioXW7Rc9wZgTi9lsq9iYXUXx4WnaTJdNJVf9-KcnKz-LHJcla7xpdQ3HVHDj" alt="ബലാത്സം​ഗ കേസ്; പോപ് ​ഗായകൻ ക്രിസ് ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>2020-ലാണ് ​ഗായകനെ കുടുക്കിയ സംഭവം നടന്നത്. മദ്യലഹരിയിലായിരുന്ന മൂന്ന് സ്ത്രീകളെ 2020 നവംബർ&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

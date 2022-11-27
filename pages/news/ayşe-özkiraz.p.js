@@ -11,49 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Ayşe Özkiraz"/>
         <meta name="description" content="Trending News about Ayşe Özkiraz" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Ayşe Özkiraz</h1>
-            <Image width={800} height={500} src="https://www.cumhuriyet.com.tr/Archive/2022/11/25/2006206/kapak_224021.jpg" alt="Ayşe Özkiraz"/>
+            <Image width={800} height={500} src="https://cdn1.ntv.com.tr/gorsel/65Vi3bK57Uau1nwYS9RO1Q.jpg?width=1080&mode=crop&scale=both" alt="Ayşe Özkiraz"/>
             <h3>Recent News</h3>
-            <a href='https://www.cumhuriyet.com.tr/turkiye/cerkezkoy-devlet-hastanesinde-1-yildir-gorev-yapan-sahte-doktor-tutuklandi-2006206'>
+            <a href='https://www.ntv.com.tr/galeri/turkiye/sahte-doktor-ayse-ozkirazin-ifadesi-ortaya-cikti,TyT0U54K9kCazdsUmJqrIQ'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Sahte doktor Ayşe Özkiraz&#39;ın ifadesi ortaya çıktı</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSQeTqNdocKxtV9ZITncwIq80xTCtwM4Lir7c_savbCXxHaog-S1PzRlDq4tPxeTpUzMm97HSXA" alt="Sahte doktor Ayşe Özkiraz&#39;ın ifadesi ortaya çıktı" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Tekirdağ&#39;da Çerkezköy Devlet Hastanesi&#39;nde sahte doktorluk yaptığı gerekçesiyle gözaltına alındıktan sonra tutuklanan Ayşe Özkiraz&#39;ın ifadesi ortaya çıktı.</p></div>
+            </div>
+        </a><a href='https://www.cumhuriyet.com.tr/turkiye/cerkezkoy-devlet-hastanesinde-1-yildir-gorev-yapan-sahte-doktor-tutuklandi-2006206'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Çerkezköy Devlet Hastanesi&#39;nde 1 yıldır görev yapan sahte doktor ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQsmylz14YLHG8ZI9uiTc_9uFkTOtb9KdwCTDJDsuGmMJu7jQL9RB9YG5ISoShd4AoAcWCYcj93" alt="Çerkezköy Devlet Hastanesi&#39;nde 1 yıldır görev yapan sahte doktor ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Tekirdağ&#39;ın Çerkezköy ilçesi Devlet Hastanesi&#39;nde yaklaşık 1 yıldır pratisyen hekim olarak görev yapan Ayşe Özkiraz&#39;ın (25) sahte doktor olduğu ortaya&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Çocuk doktoru olarak kaşeler bastıran Özkiraz&#39;ın durumundan şüphelenen hastanedeki doktorlar, kendisine tıpla ilgili çeşitli sorular yöneltti. Çapa Tıp&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.hurriyet.com.tr/gundem/sahte-doktor-tutuklandi-42177286'>
+        </a><a href='https://www.hurriyet.com.tr/gundem/sahte-doktordan-savcilikta-ilk-ifade-yasi-bile-yalan-cikti-42177774'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Sahte doktor tutuklandı</h3>
+                <h3>&#39;Sahte doktor&#39;dan savcılıkta ilk ifade... Ameliyata girdi, dikiş attı! Yaşı ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ-2IJsU62L3Rlc2MSYQp6JKvuah1794EkckztnEfUzuEyJLal17MS9FS9oW75d2WTGvpHI8An7" alt="Sahte doktor tutuklandı" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Tekirdağ Çerkezköy Devlet Hastanesi&#39;nde yaklaşık 1 yıldır pratisyen hekim olarak görev yapan Ayşe Özkiraz (25), sahte doktor olduğu anlaşılınca dün tutuklandı.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRZoUARX6cJd21V3hszxEuwH4JzK5AfYoKyxm1QqSpdzG-5eUyPp_72-t9s7lzHi1HRuxqxEqpB" alt="&#39;Sahte doktor&#39;dan savcılıkta ilk ifade... Ameliyata girdi, dikiş attı! Yaşı ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Çerkezköy Devlet Hastanesi&#39;nde yaklaşık 1 yıldır kendisini pratisyen hekim olarak tanıtan Ayşe Özkiraz&#39;ın sahte doktor olduğu ortaya çıkmıştı.</p></div>
             </div>
-        </a><a href='https://www.gazeteduvar.com.tr/devlet-hastanesinde-1-yildir-gorev-yapan-sahte-doktor-tutuklandi-haber-1590900'>
+        </a><a href='https://www.gazetevatan.com/gundem/ayse-ozkiraz-kimdir-sahte-doktor-tutuklandi-mi-cerkezkoy-devlet-hastanesi-sahte-doktor-ayse-ozkiraz-olayi-nedir-2071387'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Devlet hastanesinde 1 yıldır görev yapan sahte doktor tutuklandı</h3>
+                <h3>Ayşe Özkiraz kimdir, Sahte doktor tutuklandı mı? Çerkezköy Devlet ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTC7IZfmX5_wv3jL--29qdGQnnERKWUnuKsQ05yqpy7S91KriwlrEo1kyzJkeokYw4a2cYHkZT0" alt="Devlet hastanesinde 1 yıldır görev yapan sahte doktor tutuklandı" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Çerkezköy Devlet Hastanesi&#39;nde yaklaşık 1 yıldır, &quot;pratisyen hekim&quot; sıfatıyla görev yapan Ayşe Özkiraz&#39;ın aslında doktor olmadığı ortaya çıktı.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ0swo_g6hjMbLg7DclIdEIyEvVs-bZu0J_2t-QTjRrr-HhyNIUsiWPeRUatwERwMohIUevgQXb" alt="Ayşe Özkiraz kimdir, Sahte doktor tutuklandı mı? Çerkezköy Devlet ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Son Dakika Gündem Haberleri - Tekirdağ&#39;ın Çerkezköy ilçesi Devlet Hastanesi&#39;nde yaklaşık 1 yıldır pratisyen hekim olarak görev yapan Ayşe Özkiraz&#39;ın (25)&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.odatv4.com/saglik/hastanede-akil-almaz-skandal-sahte-doktor-bir-yil-calismis-259906'>
+        </a><a href='https://www.yenicaggazetesi.com.tr/sahte-doktor-ayse-ozkirazin-ifadeleri-ortaya-cikti-her-sey-ailesine-yalan-soylemekle-baslamis-601723h.htm'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Hastanede akıl almaz skandal... Sahte doktor bir yıl çalışmış</h3>
+                <h3>Sahte doktor Ayşe Özkiraz&#39;ın ifadeleri ortaya çıktı. Her şey ailesine ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQnQbxNm7Tgt_rubbKGDY_wPN0KPF1ar7R_2Au2MlUfrmk1B4ISrMPwUFeVq3eBK5TjtOFDBZiF" alt="Hastanede akıl almaz skandal... Sahte doktor bir yıl çalışmış" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>İnceleme başlatan hastane yönetimi Ayşe Özkiraz&#39;ın diplomasının sahte olduğunu ve lise mezunu olduğunu fark etti...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSzT2FQBCoX_oBgpRmutz5I2wVX-BrvSs1Xm52_L1xHMe2IyFryoLJ-uObUp6rNKjAtz-oQkfgO" alt="Sahte doktor Ayşe Özkiraz&#39;ın ifadeleri ortaya çıktı. Her şey ailesine ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Tekirdağ Çerkezköy Devlet Hastanesinde sahte doktorluk yaptığı gerekçesiyle gözaltına alındıktan sonra tutuklanan genç kadının ameliyat masasında fotoğrafı&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.yenisafak.com/gundem/hastanede-skandal-olay-bir-yildir-herkesi-kandiran-sahte-doktor-tutuklandi-3892149'>
+        </a><a href='https://www.mynet.com/sahte-doktor-ayse-ozkiraz-unlu-anketci-kemal-ozkiraz-in-akrabasi-cikti-tip-kazandigini-duyunca-mutlu-olmustuk-110107073866'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Hastanede skandal olay: Bir yıldır herkesi kandıran sahte doktor ...</h3>
+                <h3>Sahte doktor Ayşe Özkiraz ünlü anketçi Kemal Özkiraz&#39;ın akrabası ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQXVXnHVqlZUloIV4EgjEKUplxPNeloAsQFMHzDkkQsSpNfySZ8ngdpdura6cj4LKhh2LOrfpCQ" alt="Hastanede skandal olay: Bir yıldır herkesi kandıran sahte doktor ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Tekirdağ&#39;ın Çerkezköy ilçesi Devlet Hastanesi&#39;nde yaklaşık 1 yıldır pratisyen hekim olarak görev yapan Ayşe Özkiraz&#39;ın (25) sahte doktor olduğu ortaya çıktı&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRSmmxRlu4EwRDesxgxTaJwo8F1bSnznRz2g0GAkKrevrxCDKBpwv9PPyktdDgk2MOwQ2AGTZJm" alt="Sahte doktor Ayşe Özkiraz ünlü anketçi Kemal Özkiraz&#39;ın akrabası ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Tekirdağ&#39;ın Çerkezköy ilçesinde bir yıldır kendini pratisyen hekim olarak tanıtan ve eylül ayındaki Tıpta Uzmanlık Sınavı&#39;ndan 81 puan aldığını iddia eden&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.yenicaggazetesi.com.tr/devlet-hastanesinde-bir-yildir-gorev-yapiyordu-diplomasi-sahte-cikti-601405h.htm'>
+        </a><a href='https://www.sozcu18.com/sahte-doktor-ayse-ozkiraz-herseyi-anlatti-39000h.htm'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Sahte doktor ameliyata da girmiş</h3>
+                <h3>&quot;Sahte doktor&quot; Ayşe Özkiraz herşeyi anlattı</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQb3kz4mHRBvhgSQ2Ser3hdhJSC91xPOaoanqzuEVSLY5miDFf3Vxlym2ljz7ZWFvVdE-YXKhhg" alt="Sahte doktor ameliyata da girmiş" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Tekirdağ&#39;ın Çerkezköy ilçesi Devlet Hastanesi&#39;nde yaklaşık bir yıldır pratisyen hekim olarak görev yapan Ayşe Özkiraz&#39;ın lise mezunu sahte doktor olduğu&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTwdG91oz-yvhSxV0chkBv4Q2RQ7y5p3N0Duw_-FKjuXJzOVwEtKt8pbPfNGvS1NlpudtX97jDh" alt="&quot;Sahte doktor&quot; Ayşe Özkiraz herşeyi anlattı" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Tekirdağ Çerkezköy Devlet Hastanesi&#39;nde kendisini pratisyen hekim olarak tanıtan ve diğer doktorların şüphelenip, şikayette bulunmasıyla gözaltına&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

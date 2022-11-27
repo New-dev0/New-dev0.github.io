@@ -20,19 +20,12 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR6h7C00NqCxCp9LyJcav55z6gJV2ygCn-1qZhBMGKclO7uR0mzbzCuH_rMtvbOG9BlZqUeMZAM" alt="Brazil vs Serbia: Live stream, TV channel, kick-off time &amp; where to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>How to watch Brazil vs Serbia World Cup game, including kick-off time &amp; team news.</p></div>
             </div>
-        </a><a href='https://sportstar.thehindu.com/football/fifa-world-cup/news/fifa-world-cup-brazil-vs-serbia-live-streaming-info-qatar-2022-when-and-where-to-watch-head-to-head-form-predicted-xi/article66177702.ece'>
+        </a><a href='https://sportstar.thehindu.com/football/fifa-world-cup/news/brazil-vs-serbia-live-score-qatar-2022-updates-fifa-world-cup-bra-v-srb-starting-lineups-neymar/article66178976.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brazil vs Serbia, Live streaming info, FIFA World Cup: Preview, head ...</h3>
+                <h3>Richarlison brace: Brazil 2-0 Serbia, HIGHLIGHTS, FIFA World Cup ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSLGd3Xw6OillElpABIKYZMWxjQWDVgboWItcmPZkNcQyAyJ6G4j1weZrBHU-fYr9l_9GIp5F3w" alt="Brazil vs Serbia, Live streaming info, FIFA World Cup: Preview, head ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Here is all you need to know before the Brazil vs Serbia Group G FIFA World Cup game at the Lusail Stadium.</p></div>
-            </div>
-        </a><a href='https://indianexpress.com/article/sports/football/brazil-vs-serbia-fifa-world-cup-2022-live-updates-8288027/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brazil vs Serbia FIFA World Cup 2022 Highlights: Richarlison brace ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRofUZOHvSleWqoOb3grFiNKHPSKc1gkEonD0rAfrUJY24JRrChW9D00qf2xgFXO8AUpbIhi1Ef" alt="Brazil vs Serbia FIFA World Cup 2022 Highlights: Richarlison brace ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brazil v Serbia Group G Match Highlights: Brazil had struggled to get past the Serbian defense until Richarlison scored from close range in the 62nd in a&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRs-z90J6nBo2HNBNA4GcBossi0WO68Ds5gLcQyyf7yXNVyBUOVpfJ1CnqrlVw4MJJWJg_Dge-e" alt="Richarlison brace: Brazil 2-0 Serbia, HIGHLIGHTS, FIFA World Cup ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Welcome to Sportstar&#39;s highlights of the Brazil vs Serbia Group G FIFA World Cup game at the Lusail Stadium.</p></div>
             </div>
         </a><a href='https://www.livemint.com/sports/football-news/fifa-world-cup-2022-brazil-vs-serbia-prediction-time-live-streaming-details-11669315290168.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -40,6 +33,13 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSRK0DZaQ3pZnakN0edb8Xjlud0AscuCvMBbboF5Liz1PMfAYIk-TaAYXKdCDRU8mF5qrkoJyJ1" alt="FIFA World Cup 2022: Brazil vs Serbia prediction, time, live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Following 2002, Brazil could only reach the semi-final once and have suffered three quarter-final exits, while Serbia in its all three World Cup appearances&nbsp;...</p></div>
+            </div>
+        </a><a href='https://indianexpress.com/article/sports/football/brazil-vs-serbia-fifa-world-cup-2022-live-updates-8288027/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Brazil vs Serbia FIFA World Cup 2022 Highlights: Richarlison brace ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRofUZOHvSleWqoOb3grFiNKHPSKc1gkEonD0rAfrUJY24JRrChW9D00qf2xgFXO8AUpbIhi1Ef" alt="Brazil vs Serbia FIFA World Cup 2022 Highlights: Richarlison brace ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Brazil v Serbia Group G Match Highlights: Brazil had struggled to get past the Serbian defense until Richarlison scored from close range in the 62nd in a&nbsp;...</p></div>
             </div>
         </a><a href='https://www.espn.in/football/report/_/gameId/633802'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

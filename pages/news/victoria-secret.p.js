@@ -15,9 +15,9 @@ export default function Page() {
             <h3>Recent News</h3>
             <a href='https://nypost.com/2022/11/25/the-best-victorias-secret-black-friday-deals-of-2022/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>The best Victoria&#39;s Secret Black Friday Deals: Bras, pajamas, more</h3>
+                <h3>The best extended Victoria&#39;s Secret Black Friday Deals: Bras ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQWqz_DD8uR384_q4t2y0mzkh-_AGVAF9KLCh6Cs_5lJ8gS3QRC2NrEUKKdb8lP5y3joitm1AlV" alt="The best Victoria&#39;s Secret Black Friday Deals: Bras, pajamas, more" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQWqz_DD8uR384_q4t2y0mzkh-_AGVAF9KLCh6Cs_5lJ8gS3QRC2NrEUKKdb8lP5y3joitm1AlV" alt="The best extended Victoria&#39;s Secret Black Friday Deals: Bras ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Starting off with cozy essentials, shop now and get sleepwear for $35 and under, including PJ sets and separates, too. This also includes their limited edition&nbsp;...</p></div>
             </div>
         </a>

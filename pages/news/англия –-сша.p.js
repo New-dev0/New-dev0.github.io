@@ -11,16 +11,9 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Англия – США"/>
         <meta name="description" content="Trending News about Англия – США" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Англия – США</h1>
-            <Image width={800} height={500} src="https://img.championat.com/news/social/8/bd/4905599.jpg" alt="Англия – США"/>
+            <Image width={800} height={500} src="https://ss.sport-express.ru/img-gen/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB+%5C%5C+%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82+%D0%BC%D0%B8%D1%80%D0%B0+%5C%5C+%D0%A7%D0%9C-2022/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F%C2%A0%E2%80%94+%D0%A1%D0%A8%D0%90%3A+%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D1%8B%D0%B5+%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%8B+%D0%BD%D0%B0%C2%A0%D0%BC%D0%B0%D1%82%D1%87+%D0%A7%D0%9C-2022.jpg" alt="Англия – США"/>
             <h3>Recent News</h3>
-            <a href='https://www.championat.com/football/article-4905599-angliya-ssha-0-0-obzor-i-statistika-matcha-25-noyabrya-2022-goda-chempionat-mira-po-futbolu.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>И это фаворит чемпионата мира? Футболисты США сильно ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTbFtbkc2gVTZWsQaCS6WULz9ezEY2iYerQH2vUEXjbmxUGmSDojRchoYDLIvGTNoW2Mxb8e7ce" alt="И это фаворит чемпионата мира? Футболисты США сильно ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Во 2-м туре команда Саутгейта разочаровала. Шесть голов Англии в ворота Ирана не напугали американцев. Сборная США с первых минут высоко прессинговала, а&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.sport-express.ru/football/world/2022/news/angliya-ssha-startovye-sostavy-na-match-chm-2022-2003251/'>
+            <a href='https://www.sport-express.ru/football/world/2022/news/angliya-ssha-startovye-sostavy-na-match-chm-2022-2003251/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Англия — США: стартовые составы на матч ЧМ-2022</h3>
                 <div style={{ display: "flex" }}>
@@ -34,12 +27,12 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQjTIKywuVBJikNKU2CbFsoLqDhBsaYjKZDNAD1F-WN9r8Q69QHkCk700jJCqsxKt2yI_EWdkv8" alt="США расстроили Англию ничьей на чемпионате мира по футболу" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Во вторник американская сборная встретится с иранской командой в матче за место в 1/8 финала мирового турнира.</p></div>
             </div>
-        </a><a href='https://sportrbc.ru/news/637fe2af9a794706012f8d35'>
+        </a><a href='https://www.championat.com/football/article-4905565-angliya-ssha-chempionat-mira-po-futbolu-anglijskie-futbolisty-vstali-na-koleno-reakciya-bolelschikov.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Англия — США</h3>
+                <h3>«Англия встаёт на колено, американцы — нет». Поступок ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRQi-gR8CLacj7OVh9iGJBwZVQq3tU2dJ8NB2oCAwk1OO_zJ3hc7M3xqhrUrgX3_tLOhwoU_equ" alt="Англия — США" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>На этом будем прощаться, пожелаем сборным Англии и США побед в следующих матчах и поблагодарим за игру! Онлайн матча для вас провел корреспондент «РБК&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQpbXWaqFJ6BZAMNTDJ9n0T-k5E5X3Mh9AB3cMWHpg6ETjoy7kS0IDI5Ed8vInpj3sPsd6Iud2l" alt="«Англия встаёт на колено, американцы — нет». Поступок ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Европейцы вернулись в Катаре к акции, про которую многие забыли. Английские футболисты снова встали на колено. Это произошло перед матчем 2-го тура&nbsp;...</p></div>
             </div>
         </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1730718_Pochti_69_tysach_bolelshhikov_posetili_match_Anglija__SShA_na_ChM_2022_v_Katare'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -47,6 +40,13 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT-ioSl5EdhEWaUKYUPOsRskoB1WCr1YGkkfrxyD1Pyfit4DLpiukcPfCqJXXzsKGfusfW00Jag" alt="Почти 69 тысяч болельщиков посетили матч Англия — США на ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Пресс‑служба ФИФА сообщила, что на матче второго тура чемпионата мира‑2022 между сборными Англии и США присутствуют 68 463 болельщика.</p></div>
+            </div>
+        </a><a href='https://sportrbc.ru/news/637fe2af9a794706012f8d35'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Англия — США</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRQi-gR8CLacj7OVh9iGJBwZVQq3tU2dJ8NB2oCAwk1OO_zJ3hc7M3xqhrUrgX3_tLOhwoU_equ" alt="Англия — США" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>На этом будем прощаться, пожелаем сборным Англии и США побед в следующих матчах и поблагодарим за игру! Онлайн матча для вас провел корреспондент «РБК&nbsp;...</p></div>
             </div>
         </a><a href='https://www.sportmk.ru/sports/2022/11/25/angliya-ssha-prognoz-na-match-chempionata-mira-25-noyabrya-ot-olimpbet.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

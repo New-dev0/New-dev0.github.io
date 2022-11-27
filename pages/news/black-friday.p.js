@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Black Friday"/>
         <meta name="description" content="Trending News about Black Friday" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Black Friday</h1>
-            <Image width={800} height={500} src="https://image.cnbcfm.com/api/v1/image/107157059-1669387437647-gettyimages-1245081353-BLACK_FRIDAY_2022.jpeg?v=1669421655&w=1920&h=1080" alt="Black Friday"/>
+            <Image width={800} height={500} src="https://media.npr.org/assets/img/2022/11/26/gettyimages-1064297296_wide-9fec9e5594076616fe5f7128e7818657106eb3ae-s1400-c100.jpg" alt="Black Friday"/>
             <h3>Recent News</h3>
-            <a href='https://www.cnbc.com/2022/11/25/black-friday-online-sales-to-hit-new-record-expected-to-top-9-billion.html'>
+            <a href='https://www.npr.org/2022/11/26/1139274449/black-friday-sales-inflation-online-shopping'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Black Friday online sales to hit new record, expected to top $9 billion</h3>
+                <h3>Black Friday sales rake in a record $9.12 billion from online shoppers</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQk3nGJscGmTfGWTOKxujJtIsoF9Ot8k5hBzo6iQzllasfcJtu53zAoVNXtHaen0jdaJFthiNF7" alt="Black Friday online sales to hit new record, expected to top $9 billion" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Black Friday shoppers bought Apple products, espresso machines and gaming consoles, as well as toys from Funko, Hatchimals and Squishmallows.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSoOuuOnlV0RztVB5hgW254fXfE3NLrCn8H4Excbfg3yx9M7hzD4321R8Dm8pyzkGhDYT9Auaem" alt="Black Friday sales rake in a record $9.12 billion from online shoppers" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>More than 166 million Americans are expected to shop over the five days from Thanksgiving Day through Cyber Monday.</p></div>
             </div>
-        </a><a href='https://www.gsmarena.com/black_friday_deals_roundup-news-56659.php'>
+        </a><a href='https://www.cnbc.com/2022/11/26/black-friday-online-sales-top-9-billion-in-new-record.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Black Friday deals roundup</h3>
+                <h3>Black Friday online sales top $9 billion in new record</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQfZerE6qS-WW9glRSrzelphpbeB_vxWwpN3RAjt-lWvz6tCioAXniPTdklfwhn11fUnG2mQogu" alt="Black Friday deals roundup" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>We&#39;ve curated a list of the best offers for smartphones, tablets, headphones and other gadgets.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQqlX6MzeDkjj72AhotKOyPh2J1IdwSHyO7hXHpr6z5-p_StkUOiWpAhQfn-ZDpfaP-ki4aUoog" alt="Black Friday online sales top $9 billion in new record" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Consumers spent a record $9.12 billion online shopping during Black Friday this year, according to Adobe.</p></div>
             </div>
-        </a><a href='https://www.wired.com/story/best-black-friday-phone-deals-tablet-watch-2022/'>
+        </a><a href='https://www.usatoday.com/story/money/shopping/2022/11/26/black-friday-2022-online-sales-record/10780279002/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>60 Best Black Friday Phone Deals (2022): Phones, Cases, Tablets ...</h3>
+                <h3>$9.12 billion spent in a day: New Black Friday online spending ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQy7-D1IYAzPS0N-zAkwrPsbxs1PnfQyJyFuuwb8zPWoTpZsdt-PzE4Ifll29ZRBEdiWwxJeKvU" alt="60 Best Black Friday Phone Deals (2022): Phones, Cases, Tablets ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Treat yourself to a bargain as we serve up a platter of irresistible Black Friday discounts on small screens and mobile accessories.</p></div>
-            </div>
-        </a><a href='https://www.cnn.com/2022/11/25/economy/black-friday-mall-of-america/index.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>The mall where Black Friday refuses to die</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSNwonj_qWqXzGWK-uqltm23dl-AeDgSZTqRpbA-dPS6CGHRhid2wb5oygn51Kbd_TkBxCyYSYj" alt="The mall where Black Friday refuses to die" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The rise of e-commerce in recent years has taken its toll on in-person shopping, felling brick-and-mortar stores and once popular malls in the process.</p></div>
-            </div>
-        </a><a href='https://www.reuters.com/business/retail-consumer/more-black-friday-shoppers-return-stores-chasing-deals-2022-11-25/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Thin Black Friday crowds mark U.S. holiday shopping kickoff</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR1wKgIrHP4y9F1YXumZfXNcJMV8YAPVpbWbITTCa0i2yV6xV-Foqy6lHYgltY-rnpEO6Mc6weM" alt="Thin Black Friday crowds mark U.S. holiday shopping kickoff" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Thin crowds of inflation-weary consumers hunted for Black Friday deals at stores in big cities including New York, Los Angeles, Chicago and other locales,&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.wired.com/story/best-black-friday-laptop-deals-2022-1/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>63 Best Black Friday Laptop and Home Office Deals (2022): Office ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTvoe-X5r8cpHZvut5yS41ujR-yup8F_zHJrgGrHzqDGu4Mc7woQ6_FfNrzA_DYkPUpdBhwBfp-" alt="63 Best Black Friday Laptop and Home Office Deals (2022): Office ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Get discounted office chairs, standing desks, and plenty more to furnish your remote workstation with these Black Friday deals.</p></div>
-            </div>
-        </a><a href='https://www.today.com/shop/amazon-black-friday-deals-2022-1125-t270581'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>60+ best Amazon Black Friday deals to shop before they&#39;re gone</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTz6r-ASw9SC1hik0EWlLx0OwsdmKyvTTNyo6I0j79rry7SqwoJdTE-B2MZbGCOiggslf_QBmos" alt="60+ best Amazon Black Friday deals to shop before they&#39;re gone" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Amazon&#39;s 2022 Black Friday sale starts now. We have details on the biggest savings (up to 60%) from brands like Acer, Samsung, Shark, Casper, Revlon and&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.nytimes.com/2022/11/25/business/black-friday-shopping.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Black Friday Shoppers Worry About Economy as Retailers Push Sales</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ97Uol0d0I3tl-5XBTiBsVrZ1AVT0D9i0UtwvFfHkhgHoGHqhOcRahLoXn78O0U-AISEbKnmqm" alt="Black Friday Shoppers Worry About Economy as Retailers Push Sales" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Black Friday deals returned, drawing shoppers back into stores, but inflation worries left many companies unsure what the holiday shopping season would look&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR5pQ2GZGB2kZUrdDA1OjgLK6NwjPEabPFIg5noVb0oZyXqq_deb0Zu6lyy3KG_pz7zyk-n8mLt" alt="$9.12 billion spent in a day: New Black Friday online spending ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>In a good sign for retailers, shoppers spent a record $9.12 billion online during Black Friday, according to Adobe Analytics.</p></div>
             </div>
         </a><a href='https://www.bloomberg.com/news/articles/2022-11-25/black-friday-deals-bring-small-crowds-for-us-retailers'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>US Shoppers Kick Off Holiday Season With a Muted Black Friday</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSmIYUlBVDEGoHNpP-Tc_3ImbmUNBgTJxNKaKf-of87R8bGbM8gumUtuofTl-oyPvuyPwpzMnE0" alt="US Shoppers Kick Off Holiday Season With a Muted Black Friday" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>US Shoppers Kick Off Holiday Season With a Muted Black Friday &middot; Heavy discounts to clear inventory appear to draw small crowds &middot; &#39;I have to spend more for it to&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>US retailers discounted heavily on Black Friday to clear out bloated inventories but customers responded with only modest traffic, leaving profitability in&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.wired.com/story/best-black-friday-video-game-deals-2022-1/'>
+        </a><a href='https://www.wired.com/story/best-black-friday-laptop-deals-2022-2/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>27 Best Video Game Black Friday Deals (2022): Switch, Playstation ...</h3>
+                <h3>68 Best Black Friday Laptop and Home Office Deals (2022): Office ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQoehES-PjSsyyU0P2oqayIPWw_CVYKY8JAhoGAhHpq84DnfrJPWjfgZMFoBFNZLC5JSpB53QhfmQ" alt="27 Best Video Game Black Friday Deals (2022): Switch, Playstation ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Snag discounts on Nintendo Switch, Playstation, and Xbox consoles and accessories.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTvoe-X5r8cpHZvut5yS41ujR-yup8F_zHJrgGrHzqDGu4Mc7woQ6_FfNrzA_DYkPUpdBhwBfp-" alt="68 Best Black Friday Laptop and Home Office Deals (2022): Office ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Get discounted office chairs, standing desks, and plenty more to furnish your remote workstation with these Black Friday and Cyber Monday deals.</p></div>
+            </div>
+        </a><a href='https://www.voanews.com/a/us-black-friday-online-sales-hit-9-billion-despite-inflation/6851317.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>US Black Friday Online Sales Hit $9 Billion Despite Inflation</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTWzDBHhClWJj1zo1kUJ7WZQsu7lvAezy_rPD0qnE_T0EJG_7E9UOnCGv-W6NvwNlc1qrG0ViMD" alt="US Black Friday Online Sales Hit $9 Billion Despite Inflation" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Adobe Analytics, which measures e-commerce by analyzing transactions at websites, has access to data covering purchases at 85% of the top 100 internet&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.xda-developers.com/best-mouse-keyboard-deals-black-friday-2022/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>10 killer mouse and keyboard deals for Black Friday</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT3BR02U1h-X9wF3HajcTvsDRalMjx_0gOxICsz3sgfvN3wUy61q6UWswjGeC7YKPAXGPBkp9eH" alt="10 killer mouse and keyboard deals for Black Friday" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Razer Huntsman Elite Gaming Keyboard — $100 ($100 off) &middot; Logitech G Pro Wireless — $88 ($42 off) &middot; Microsoft Bluetooth Keyboard - $19.99 ($30 off) &middot; Logitech K845&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.forbes.com/sites/shelleykohan/2022/11/26/black-friday-traffic-up-29-as-shoppers-return-to-stores/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Black Friday Traffic Up 2.9% As Shoppers Return To Stores</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcReoN0IvGLITnhkXiqEtCLxuFJ1_uSARsvchvNU9X89U98UnQzfoJUTm-9XJR-xFEo2SFHuEWt7" alt="Black Friday Traffic Up 2.9% As Shoppers Return To Stores" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Consumers were back in stores on Black Friday as shopper visits increased by 2.9% compared to last year. Consumer sentiment data showed that price,&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.cnet.com/tech/black-friday-sees-record-online-sales-with-deals-still-to-be-had/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Black Friday Sees Record Online Sales, With Deals Still Available</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT9pO1_96YyvuAj3ZMX38xa3k9yDOMuL6vgm6r5Spt28gBupXB4Gc9tQdi8pKz1yN_8cqAbpNRv" alt="Black Friday Sees Record Online Sales, With Deals Still Available" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>It expects Cyber Monday to see the best deals on computers, at 27% off list prices. Appliances, however, will hit 18% off on Thursday, Dec. 1. Cyber Monday is&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.cbsnews.com/essentials/the-best-black-friday-deals-that-you-can-still-get-on-gaming-laptops-and-accessories/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>The best Black Friday deals that you can still get on gaming laptops ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT5WB3aa26uRxDrrVgldOneXcNKzm_q7DdKyaAuJzKcHRJeIbx8aiP7ORK86i6mudLGNP5ziYb5" alt="The best Black Friday deals that you can still get on gaming laptops ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Black Friday is over, but there are still tons of gaming laptop deals available at Walmart, Amazon and Best Buy.</p></div>
             </div>
         </a>
         </Template></>;

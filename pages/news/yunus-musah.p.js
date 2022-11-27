@@ -11,9 +11,23 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Yunus Musah"/>
         <meta name="description" content="Trending News about Yunus Musah" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Yunus Musah</h1>
-            <Image width={800} height={500} src="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/11/1408/814/Musah-Bellingham.jpg?ve=1&tl=1" alt="Yunus Musah"/>
+            <Image width={800} height={500} src="https://i.dailymail.co.uk/1s/2022/11/26/14/64961771-0-image-a-15_1669472333733.jpg" alt="Yunus Musah"/>
             <h3>Recent News</h3>
-            <a href='https://www.foxsports.com/stories/soccer/yunus-musah-has-world-cup-moment-outduels-england-star-jude-bellingham'>
+            <a href='https://www.dailymail.co.uk/sport/football/article-11472045/USMNT-star-Yunus-Musah-swaps-shirts-old-Arsenal-teammate-Bukayo-Saka-World-Cup.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>USMNT star Yunus Musah swaps shirts with his old Arsenal ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSXBFepAmUoj5WQdrZV_wIUoFSx3RPhvpYDUoETOLyw8itLsvgHIA5EwodHn8oIlN2_1FmaHG4u" alt="USMNT star Yunus Musah swaps shirts with his old Arsenal ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>He said it was going to be a special game before kickoff and after a staring role in an important result for USMNT, Yunus Musah made time to return his&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.thesun.co.uk/sport/20560345/bukayo-saka-reunites-arsenal-academy-yunus-musah-usa/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Bukayo Saka reunites with former Arsenal academy star Yunus ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRBY0Pyy82nEJIToV1nPUcKMJ-0Z79UiXTMqNnRobEpojFe9tbnkjSL9d-Ei1t87UtiN8MYi04O" alt="Bukayo Saka reunites with former Arsenal academy star Yunus ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>BUKAYO SAKA reunited with his former Arsenal academy team-mate Yunus Musah last night following England&#39;s World Cup draw with the USA.The winger, 21,</p></div>
+            </div>
+        </a><a href='https://www.foxsports.com/stories/soccer/yunus-musah-has-world-cup-moment-outduels-england-star-jude-bellingham'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Yunus Musah has his World Cup moment, outduels England star ...</h3>
                 <div style={{ display: "flex" }}>
@@ -45,22 +59,8 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>World Cup 2022: Gareth Southgate &quot;not happy&quot; that Yunus Musah ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQkOaolELfBVK2v6PnYw_C7sYnIs0mxTABtKpwX_onEEtiAGJ0LhOJud6WTCSRHh4kS3nkXN0V2" alt="World Cup 2022: Gareth Southgate &quot;not happy&quot; that Yunus Musah ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTvjnTJTcFQGZj_0NEu1JwD-ddBSLOfhsr2VpDBGyCKaZQCLzvqGlaMAlnRFh1tOTYauXdgniom" alt="World Cup 2022: Gareth Southgate &quot;not happy&quot; that Yunus Musah ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>US star Yunus Musah lines up against England at World Cup 2022 knowing he could have played for the opposition.</p></div>
-            </div>
-        </a><a href='https://www.standard.co.uk/news/uk/england-usa-yunus-musah-worldcup-2022-qatar-arsenal-saka-b1042646.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022: I don&#39;t want my old pupil to play too well, says ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ-AJ9ZqC9kKSIZgH2RlU37TfDeX_THkbAJYg8oP2aTgNpBsd9zkkXVJfWpyCyC9lg2K4IHQ7cn" alt="World Cup 2022: I don&#39;t want my old pupil to play too well, says ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Yunus Musah spent seven years at the Gunners&#39; academy before joining Valencia in 2019.</p></div>
-            </div>
-        </a><a href='https://www.ghanaweb.com/GhanaHomePage/SportsArchive/Ghanaian-Yunus-Musah-explains-why-he-dumped-England-for-USA-ahead-clash-1669553'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ghanaian Yunus Musah explains why he dumped England for USA ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRL1rCcqCGYDzhX0C_XtSSq0vAYb6XOmtM5FZnZy1oZM9dQQOwj1q9_KC8bVzhuI9M5JUKrDMzl" alt="Ghanaian Yunus Musah explains why he dumped England for USA ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ghanaian-born midfielder Yunus Musah has explained why he committed his international allegiance to the United States of America ahead of England.</p></div>
             </div>
         </a>
         </Template></>;

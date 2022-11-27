@@ -24,7 +24,7 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Find great Black Friday beauty deals, holiday bundles at Ulta Beauty ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQUJJxre9ystnRMeQnG6udZ4qL3i7hEWV4lBOSaBGnkFprExJLXVlybfl4t9hR3cdUvFgXAMbtt" alt="Find great Black Friday beauty deals, holiday bundles at Ulta Beauty ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ5jydzkOLvTYzznME4jA5ZnR9HkCHL1vcQ5ty5_i00ow-Ojbb5mF8G_Z_81eaKLy0zAe64ibLj" alt="Find great Black Friday beauty deals, holiday bundles at Ulta Beauty ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Stock your beauty essentials and snag gifts for loved ones during Ulta Beauty and Sephora&#39;s Black Friday beauty deals.</p></div>
             </div>
         </a><a href='https://www.allure.com/story/sephora-black-friday-sales-2022-1'>
@@ -38,22 +38,29 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Black Friday beauty sales: Shop these products from Sephora</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRrIayQRaS5OerMHMrZ_AcBCuUa45iT3M3JS50eTgAUhsVyZJa3kE2825Q7EprXK_ARxx-NKNS1" alt="Black Friday beauty sales: Shop these products from Sephora" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRwH0Tph-v58e1UB37uPw0xcQOuj4d3_dMAB3SgZ9IuzZ9jDrlQhEq95LWuGwcDmyvDo63eqzYY" alt="Black Friday beauty sales: Shop these products from Sephora" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Black Friday is here and with the return of the annual shopping holiday, comes with deals and sales. Beauty stores like Sephora are having their own sales&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.glamour.com/story/sephora-black-friday-sale-2022-2'>
+        </a><a href='https://www.glamourmagazine.co.uk/article/sephora-black-friday'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>38 Best Sephora Cyber Monday Deals 2022: Shop Lancôme, Urban ...</h3>
+                <h3>Best Sephora Black Friday Deals 2022: Save £££ On Makeup ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTkeU7kdVJ8wrwfEVvX8Zr5XHHvFf024L3Ft_PQ2eqQ3-52TFd2SRVWlb2oNyRHe94__jMOIgoD" alt="38 Best Sephora Cyber Monday Deals 2022: Shop Lancôme, Urban ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Sephora Cyber Monday sale 2022 is happening right now, and we&#39;ve got your guide on all the skin care, hair, and makeup products to add to cart&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQTY9MUbLJHJfLwgiddipMPdXrgbE8_LPJ8tvzAHF4sJ-wcJEb7d4mSvjDHgp5tcUy1mC7DDHrP" alt="Best Sephora Black Friday Deals 2022: Save £££ On Makeup ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Discover the best Sephora Black Friday deals in 2022 and stock up on everything from Dior, Huda Beauty, Elemis, Urban Decay and more.</p></div>
             </div>
-        </a><a href='https://nz.news.yahoo.com/sephora-black-friday-2022-deals-080045708.html'>
+        </a><a href='https://www.yahoo.com/lifestyle/epic-new-black-friday-deals-from-sephora-like-drew-barrymores-game-changing-eye-cream-080045167.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Sephora&#39;s Black Friday sale is overflowing with deals — like Drew ...</h3>
+                <h3>Epic New Black Friday Deals from Sephora (like Drew Barrymore&#39;s ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTOanfs2k7Yn_TY6R1a-w4sg1wPOQvfHL7B6bRSH1EGCrFgr-vdaECPCG1t1_8zVm7sRtolzCMD" alt="Sephora&#39;s Black Friday sale is overflowing with deals — like Drew ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQSV0cPQxbD_KCofIHgYQm4lSKUWsjMyA279K5vKr4a9EW1E7hGV_f2BLdVbambRaPugeAYBkzZ" alt="Epic New Black Friday Deals from Sephora (like Drew Barrymore&#39;s ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>A photo of Drew Barrymore. Drew Barrymore called the Sunday Riley Autocorrect eye cream a &quot;game-changer.&quot; It&#39;s on sale at Sephora for Black Friday!</p></div>
+            </div>
+        </a><a href='https://www.popsugar.com/beauty/best-sephora-black-friday-deals-2022-49020963'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Shop Sephora Best Black Friday Deals 2022 | POPSUGAR Beauty</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQyz6jktx9OUANz93XjCZfGcmkQriqYgH0PIkoPFp5X99-U9OeQCdBDEk2vtATsEKQ3bnroSNx_" alt="Shop Sephora Best Black Friday Deals 2022 | POPSUGAR Beauty" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>We rounded up the best Black Friday deals from Sephora, including discounts on skin care, makeup, hair care, and beauty tools.</p></div>
             </div>
         </a>
         </Template></>;

@@ -11,77 +11,42 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Jude Bellingham"/>
         <meta name="description" content="Trending News about Jude Bellingham" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Jude Bellingham</h1>
-            <Image width={800} height={500} src="https://i2-prod.mirror.co.uk/incoming/article28587394.ece/ALTERNATES/s1200/2_GettyImages-1245090760.jpg" alt="Jude Bellingham"/>
+            <Image width={800} height={500} src="https://www.si.com/.image/t_share/MTk0MDI0MTYwNTU5NjM4MDIx/imago1019750720h.jpg" alt="Jude Bellingham"/>
             <h3>Recent News</h3>
-            <a href='https://www.irishmirror.ie/sport/soccer/england-usa-jude-bellingham-lesson-28588507'>
+            <a href='https://www.si.com/soccer/manchesterunited/transfers/manchester-united-out-of-the-race-to-sign-jude-bellingham'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Jude Bellingham learns harsh England lesson in morale-sapping ...</h3>
+                <h3>Manchester United &#39;Out Of The Race&#39; To Sign Jude Bellingham</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTihvGUpInbHa49ncqJll9vv1daWD0kNYVMGdn6Bro0_KLWDS7yzSnfd6JCVN2GAe8bjABKC5m-" alt="Jude Bellingham learns harsh England lesson in morale-sapping ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Jude Bellingham huffed and puffed and tried to take responsibility but learnt a harsh lesson that he can&#39;t do it all himself in England&#39;s clash with the USA&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRx24Q5UnWHMysmFEs4DPbUYlp9xcaAiiAUme8avVlFiNbrAgZJAZ8LnJIuyU6VvGc6fN9qwhHZ" alt="Manchester United &#39;Out Of The Race&#39; To Sign Jude Bellingham" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Manchester United are now said to &#39;barely have a chance&#39; in signing Jude Bellingham next summer.</p></div>
             </div>
-        </a><a href='https://www.thesun.ie/sport/football/9798206/man-utd-transfer-jude-bellingham-liverpool-man-city/'>
+        </a><a href='https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-jude-bellingham-clubs-25593520'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Man Utd have &#39;hardly any chance&#39; to sign Jude Bellingham leaving ...</h3>
+                <h3>Manchester United told two clubs are &#39;way ahead of them&#39; in Jude ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ1E1r01CsIbD-PfOA3qLR3aGC5m2U0ulLlZx7-qkGVyiH3Rxl1pjJjpmwQjv4sFLw7f99lgLpn" alt="Man Utd have &#39;hardly any chance&#39; to sign Jude Bellingham leaving ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>MANCHESTER UNITED reportedly have “hardly any chance” of signing Jude Bellingham.And now it is rivals Liverpool, Man City and Real Madrid leading.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQUinpy8h7U8xjP_umWTaOSvfdIYhj6b63sbZdWEKUkJjwDphQzi0SiI8XN85-ovzo-JuEVAb2I" alt="Manchester United told two clubs are &#39;way ahead of them&#39; in Jude ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Borussia Dortmund and England midfielder has been keenly watched at the World Cup so far.</p></div>
             </div>
-        </a><a href='https://www.express.co.uk/sport/football/1701456/Jude-Bellingham-Liverpool-Man-Utd-England-World-Cup-Premier-League-transfer-news'>
+        </a><a href='https://strettynews.com/2022/11/26/manchester-united-dealt-blow-in-pursuit-of-jude-bellingham/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Jude Bellingham &#39;already beyond Liverpool&#39;s means&#39; as Man Utd ...</h3>
+                <h3>Manchester United dealt blow in pursuit of Jude Bellingham</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRY-hT5Og8VJ8gVlVhDVigYZlzjJ_FGVAhXRNcoVH4yRxRc4wuDuwvG7ZkWCgVeSCUSZ_RFRPzX" alt="Jude Bellingham &#39;already beyond Liverpool&#39;s means&#39; as Man Utd ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Bellingham is widely expected to return to England from Dortmund, having made the move to Germany from Birmingham in the summer of 2020. But Liverpool face&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSUUyMLCNzxw8VQatwrriRf3SwSmaPHYCsWKDOBjo05jUEU7iJWn1qW1F8eWAN8b08wDZbwopPz" alt="Manchester United dealt blow in pursuit of Jude Bellingham" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Borussia Dortmund midfielder is being pursued by some of the biggest clubs in Europe and we&#39;ve already been snubbed by him in the past. Now, according to&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.thetimes.co.uk/article/blow-by-blow-how-boy-wonder-jude-bellingham-faltered-against-feisty-usa-3m8hd2b7x'>
+        </a><a href='https://weallfollowunited.com/2022/11/26/manchester-united-hardly-have-a-chance-to-sign-england-and-borussia-dortmund-star-jude-bellingham/amp/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Blow-by-blow: How boy wonder Jude Bellingham faltered against ...</h3>
+                <h3>Plettenberg: Manchester United “hardly has a chance” to sign ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS6rpR1dbp5U5HkdUEx8iomN2AZSKKJwmjzu50v1sPHthN6Dx0ZonxxYA0dBKsMLh6MruCUpJQj" alt="Blow-by-blow: How boy wonder Jude Bellingham faltered against ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>On Monday Jude Bellingham scored his first England goal, in his first World Cup finals game, to break more records and gain national acclaim.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS9zWAhcQei5jKsW_e_8JkkFcoMyXpkAmEO-zecBe-_Hgz8wM9XSWJSVTOSumbyJjl6McO41zCW" alt="Plettenberg: Manchester United “hardly has a chance” to sign ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Instead, the race for the 19-year-old&#39;s signature is going to be between the Premier League rivals Liverpool and Manchester City and European champions Real&nbsp;...</p></div>
             </div>
-        </a><a href='https://therealchamps.com/2022/11/25/real-madrid-made-bellingham-decision/'>
+        </a><a href='https://www.caughtoffside.com/2022/11/26/manchester-united-dealt-blow-in-pursuit-of-england-international/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Real Madrid have made Jude Bellingham decision</h3>
+                <h3>Manchester United dealt blow in pursuit of England international</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQguekdOSHWJBy-0U9yFvVJxKlt2bOOk9zLvoyufF_MxVtzPpMQ3aH-TtTjfLmJZPLAM6bPTH_3" alt="Real Madrid have made Jude Bellingham decision" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Bellingham is not only a great player but also a leader, having captained a historic club like Borussia Dortmund at just 19 years of age. It is safe to say that&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.birminghammail.co.uk/sport/football/transfer-news/jude-bellingham-transfers-liverpool-real-25610858'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Liverpool triple transfer claim made over £129m Jude Bellingham as ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRgcuiVlqFP7Crk-VC5OHZEqUeCpqs5XcVYhVMcf58Nj_kFzrNLhfmkY6jlBcVkZqcmQnrLyBNq" alt="Liverpool triple transfer claim made over £129m Jude Bellingham as ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The 19-year-old England midfielder and former Blues star Jude Bellingham has been linked with interest from Liverpool, Manchester City and Real Madrid.</p></div>
-            </div>
-        </a><a href='https://www.si.com/soccer/liverpool/transfers/jude-bellingham-transfer-now-inconceivable-unless-liverpool-get-new-owners-or-sell-star-player'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Jude Bellingham Transfer Now &#39;Inconceivable&#39; Unless Liverpool Get ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS53FEDa2XJZ4gOW0EefM4GqJBIU8qfDl6-sMQDF6OKrB-LQ23_MYRa0Q9jpSta9MV_OHPJT1Fl" alt="Jude Bellingham Transfer Now &#39;Inconceivable&#39; Unless Liverpool Get ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Jude Bellingham and Liverpool is a transfer story that seems to have gone on for years and years. Reports have claimed that the Borussia Dortmund midfielder&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.stourbridgenews.co.uk/news/23151120.jude-bellingham-puts-black-country-football-spotlight/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Jude Bellingham puts Black Country in football spotlight</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcStx1mA1Lb3juDF8BDHO47n2FYvK5trIXaeV8LguDguigMezzIYLeqOR25-V4FRhVuiY-nuyn-W" alt="Jude Bellingham puts Black Country in football spotlight" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Bellingham, aged 19, who plays for Bundesliga club Borussia Dortmund, is only the second teenager to have scored a goal for England in the World Cup. The other&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.independent.co.uk/sport/football/world-cup/jude-bellingham-england-world-cup-b2233116.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Jude Bellingham&#39;s neighbours, teachers and friends reveal what he ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTxfVitE19W2h9__oDnn8DMZeWZwkZaii8PlinVf-q58aFiEsRoyzObgPt3RRXrOEDXHn9-wDkw" alt="Jude Bellingham&#39;s neighbours, teachers and friends reveal what he ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Sign up to Miguel&#39;s Delaney&#39;s free weekly newsletter ... As England&#39;s teenage football hero Jude Bellingham returns to the pitch in Qatar on Friday, friends and&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.empireofthekop.com/2022/11/25/liverpool-triple-fight-bellingham/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Liverpool in a &#39;triple fight&#39; for Bellingham but have two South ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS-ud-AGxvdquj9c9-WlN_WACmcKWhoSBB_DTqew7RbdQ0NreTGsxuP7VGMfw3MGBwkoHPDIneE" alt="Liverpool in a &#39;triple fight&#39; for Bellingham but have two South ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Liverpool supporters are desperate to see Jude Bellingham arrive at Anfield and it seems as though we have been dealt a huge boost in our current hunt for&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTdpxzVHdlXe7Q7eRFzYUVIWc1fwwQRFqpObSoWLML6-6-Cm8rL3sYVb1vWZp7ahDYDPcy4wcTI" alt="Manchester United dealt blow in pursuit of England international" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Now, according to Florian Plettenberg, one club who aren&#39;t playing Champions League football in Manchester United now have very little chance of signing&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

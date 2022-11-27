@@ -20,6 +20,13 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRpdvVdU3pMYaicWtGB9Za3pocuPwDGRiZNrfzxCPiveoXG5bf3qNjs9RmINubmKXhDq0xfWjFH" alt="Atatürk Üniversitesi&#39;nde biyoçeşitliliği koruma çalıştayı" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Program çerçevesinde ilk olarak kürsüye çıkan DKMP 13. Bölge Müdürü Okan Gün; biyolojik çeşitliliğin oldukça fazla olduğu ülkemizde bu alana yönelik önemli&nbsp;...</p></div>
             </div>
+        </a><a href='https://www.medyagazete.com/haber/ataturk-universitesinde-biyocesitliligi-koruma-calistayi-582004'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Atatürk Üniversitesinde biyoçeşitliliği koruma çalıştayı</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQdPmUr_3_UcNY0ELWxHWRwltpRFjU6io7nUwq9oYkMMkBt9l6BPkNazAvjar-PmfQw6F8kSCHE" alt="Atatürk Üniversitesinde biyoçeşitliliği koruma çalıştayı" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>BİYOÇEŞİTLİLİK UYGULAMA VE ARAŞTIRMA MERKEZİ TARAFINDAN DÜZENLENEN &#39;BİYOÇEŞİTLİLİĞİ KORUMA ÇALIŞTAYI&#39; ATATÜRK ÜNİVERSİTESİ EV SAHİPLİĞİNDE GERÇEKLEŞTİ.</p></div>
+            </div>
         </a>
         </Template></>;
 }

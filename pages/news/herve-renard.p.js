@@ -11,56 +11,35 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Herve Renard"/>
         <meta name="description" content="Trending News about Herve Renard" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Herve Renard</h1>
-            <Image width={800} height={500} src="https://static.onzemondial.com/8/2022/11/photo_article/807763/321217/1200-L-coupe-du-monde-herv-renard-revient-sur-son-incroyable-causerie-qui-a-fait-le-buzz.jpg" alt="Herve Renard"/>
+            <Image width={800} height={500} src="https://media1.faz.net/ppmedia/aktuell/sport/282966670/1.8488511/facebook_teaser/fussball-ist-magisch-sagt.jpg" alt="Herve Renard"/>
             <h3>Recent News</h3>
-            <a href='https://www.onzemondial.com/coupe-du-monde-2022/coupe-du-monde-herve-renard-revient-sur-son-incroyable-causerie-qui-a-fait-le-buzz--807763'>
+            <a href='https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-saudi-arabiens-trainer-herve-renard-im-fokus-18488512.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Coupe du Monde : Hervé Renard revient sur son incroyable ...</h3>
+                <h3>Trainer von Saudi-Arabien: Hervé Renard ist der Spezialist für ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTE4jTdocdWKSqLHza2eqQD1erwtUJiWiQvEVdcLSMjpuJOCM-NLuOaVCCKPMza8tpwfv1ISXcz" alt="Coupe du Monde : Hervé Renard revient sur son incroyable ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Auteur d&#39;un discours mythique à la mi-temps d&#39;Arabie Saoudite - Argentine, Hervé Renard décrypte sa causerie. Zapping Onze Mondial PSG : la réponse cash de&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTKeOuS7uolxbn82lFF_h0y_ORnzFiXdPcVVGy0eHuxjamSpQPLbrJa63OaKkzEVrhDSjjL1Umh" alt="Trainer von Saudi-Arabien: Hervé Renard ist der Spezialist für ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Er war Gebäudereiniger und wurde als Trainer Sambias zum Helden einer ganzen Nation. Nun arbeitet Hervé Renard mit Saudi-Arabien an der...</p></div>
             </div>
-        </a><a href='https://www.france24.com/fr/sports/20221125-mondial-2022-herv%C3%A9-renard-le-sorcier-blanc-qui-pr%C3%A9side-%C3%A0-la-destin%C3%A9e-de-l-arabie-saoudite'>
+        </a><a href='https://www.nd-aktuell.de/artikel/1168823.fussball-wm-in-katar-herve-renard-ist-vom-glueck-gekuesst.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mondial-2022 : Hervé Renard, le &quot;sorcier blanc&quot; qui préside à la ...</h3>
+                <h3>Hervé Renard ist vom Glück geküsst</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRBA4eywlpKIfYuSPrh_FBos9fMoE2yWWzYC816QtGOH5lBNXteS7XMkqUs7cPA-rDfVyPMnkQl" alt="Mondial-2022 : Hervé Renard, le &quot;sorcier blanc&quot; qui préside à la ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Sélectionneur du Ghana, de la Zambie, de l&#39;Angola, de la Côte d&#39;Ivoire, du Maroc et maintenant de l&#39;Arabie saoudite... À 54 ans, Hervé Renard est passé,&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRGH6VVIWv2oMaT3Ja6WZ_i0uSS5kB9Pq2bE5fmhXFfVDJ8siazbQ0Zq9V9Wv26yjjW1MYnwAex" alt="Hervé Renard ist vom Glück geküsst" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Der Trainer ist ein Spezialist für Außenseitererfolge. Sein Sieg mit den Saudis gegen Argentinien bewegt sogar die Weltpolitik. Von Daniel Theweleit, Doha&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.francelive.fr/article/france-live/herve-renard-ce-qu-il-faut-savoir-sur-le-sorcier-blanc-selectionneur-francais-de-l-arabie-saoudite-7727134/'>
+        </a><a href='https://www.sportschau.de/fussball/fifa-wm-2022/wm-2022-saudi-arabien-herve-renard-100.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Hervé Renard : ce qu&#39;il faut savoir sur le &quot;sorcier blanc ...</h3>
+                <h3>Globetrotter Renard auch mit Saudi-Arabien auf Erfolgskurs</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSzUA-cAGFi25TdLLIFDreeq06LY2oRp6N-k1ZH2nzGH1uacKPI1fcjrct99PZrBjk4N9zzJEPO" alt="Hervé Renard : ce qu&#39;il faut savoir sur le &quot;sorcier blanc ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Vainqueur avec l&#39;Arabie Saoudite contre l&#39;Argentine, le sélectionneur français Hervé Renard est entré dans l&#39;histoire de la Coupe du monde.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS0EzoySpKhhjXJeHobahFB76zrGdLmKAGV28aEFQLgZ4A9iG89PO_19842kGmXuu765FkdZi3x" alt="Globetrotter Renard auch mit Saudi-Arabien auf Erfolgskurs" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Der französische Trainer Hervé Renard wird in Afrika als &quot;weißer Zauberer&quot; verehrt, seit er Sambia und die Elfenbeinküste zum Afrika-Cup-Titel führte.</p></div>
             </div>
-        </a><a href='https://le10sport.com/football/coupe-du-monde/coupe-du-monde-2022-apres-son-incroyable-punchline-sur-messi-herve-renard-623138'>
+        </a><a href='https://www.wolfenbuetteler-zeitung.de/sport/article237006757/Herve-Renard-bei-der-WM-Blonder-Zauberer-fuer-Saudi-Arabien.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Coupe du monde 2022 : Après son incroyable punchline sur Messi ...</h3>
+                <h3>Hervé Renard bei der WM: Blonder Zauberer für Saudi-Arabien</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRA0fwvC0tSn6L-IBF8M7HsdyLS19cH-8iCa4jYqEeFx_L4kLbXAp5OLW-_FH4jZS0xAXmQ8Gzr" alt="Coupe du monde 2022 : Après son incroyable punchline sur Messi ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Plus habile clavier en main que ballon au pied, il décide de couvrir principalement un sport adulé, critiqué et détesté à la fois (le football) et un sport qui&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.tf1info.fr/sport/football-coupe-du-monde-qatar-2022-le-coup-de-gueule-de-herve-renard-a-la-mi-temps-d-argentine-arabie-saoudite-2239787.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&quot;Bougez-vous !&quot; : le coup de gueule de Hervé Renard à la mi-temps ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRc-VlAOfQECsCa1qCAUkmX9PZC_kYsxg6p-lIDsVagyPIjrJaLO5JrrfxmkFPCklajXoWh9CLD" alt="&quot;Bougez-vous !&quot; : le coup de gueule de Hervé Renard à la mi-temps ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Dans une vidéo partagée par la fédération saoudienne, le sélectionneur français des Faucons verts hausse le ton face à ses joueurs lors du match face à l&#39;&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.rtl.fr/sport/football/video-coupe-du-monde-le-discours-poignant-d-herve-renard-a-la-mi-temps-du-match-arabie-saoudite-argentine-7900209860'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>VIDÉO - Coupe du monde : le discours poignant d&#39;Hervé Renard à ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQRQAHZtlDJwr-CG_rI81iIY8mVzVBSO5Z4EYI2ejfjgBBdhvNzuKrf7DdASViM0HM0UPN4bEos" alt="VIDÉO - Coupe du monde : le discours poignant d&#39;Hervé Renard à ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Le sélectionneur de l&#39;Arabie Saoudite Hervé Renard a su remobiliser ses joueurs à la mi-temps du match face à l&#39;Argentine. La vidéo de son discours a été&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.20minutes.fr/sport/coupe_du_monde_2022/4011776-20221125-coupe-monde-2022-faites-selfie-messi-tant-causerie-magique-herve-renard-saoudiens'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Coupe du monde 2022 : « Faites un selfie avec Messi tant qu&#39;on y ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR7mykxsOZH4SlHrGH3Gq1ICEMFMnXhurTym8CtnUVN4upLqFjFUvE_esNvZX0yPRg9Sb96H8Lo" alt="Coupe du monde 2022 : « Faites un selfie avec Messi tant qu&#39;on y ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>L&#39;entraîneur français de l&#39;Arabie Saoudite a remué son équipe à la mi-temps du match entre l&#39;Argentine. Avant qu&#39;elle ne réalise l&#39;exploit (2-1)</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRDG2UqKf2s1rvxyju3UaF8C_Tec2TKIDTFezOfBi6qRgHUd41wDn6-WlTIJF8VPACitN1bgi5-" alt="Hervé Renard bei der WM: Blonder Zauberer für Saudi-Arabien" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>WM Inside - Der Experten-Vodcast: DFB-Fehlstart gegen Japan. Nach dem misslungenen WM-Auftakt gegen Japan spricht Weltmeisterin Linda Bresonik im&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
