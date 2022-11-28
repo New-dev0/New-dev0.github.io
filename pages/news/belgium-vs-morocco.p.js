@@ -11,49 +11,42 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Belgium vs Morocco"/>
         <meta name="description" content="Trending News about Belgium vs Morocco" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Belgium vs Morocco</h1>
-            <Image width={800} height={500} src="https://library.sportingnews.com/styles/facebook_1200x630/s3/2022-11/nba-canada--4cfd3cf4-ebe2-49f6-ace8-32c2a488785e.png?itok=kuKiTozC" alt="Belgium vs Morocco"/>
+            <Image width={800} height={500} src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt66aa821f7a387d32/6200f7291ec7e81a326ca5cc/GettyImages-1237070947.jpg" alt="Belgium vs Morocco"/>
             <h3>Recent News</h3>
-            <a href='https://www.sportingnews.com/us/soccer/news/belgium-vs-morocco-prediction-world-cup-odds-betting-tips-2022/vf7ubpzkzft7bbiybmut8k61'>
+            <a href='https://www.goal.com/en-us/news/belgium-vs-morocco-predictions-world-cup-group-stage-odds-and-best-bets/blt38ae785959467ef0'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Belgium vs Morocco prediction, odds, betting tips and best bets for ...</h3>
+                <h3>Belgium vs Morocco Predictions: World Cup Group Stage Odds ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSZTwBbXOCD77FTKoFQ_BvCXUA_SLcxqOQl1S_VybiWXtr8aoNA0QAdJYlyiP_cWwdUI2Q_tEHM" alt="Belgium vs Morocco prediction, odds, betting tips and best bets for ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Belgium and Morocco meet in a fascinating Group F matchup, with both teams eyeing improvement over their last match in a bid to secure a knockout-stage&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSc5ctq4ZCwEBTA8ZIo2M4hAHDwZG-sb5KclWnUWXfWsXwyy0iTd7WiWAVSd5eSeX-WugNw4OT6" alt="Belgium vs Morocco Predictions: World Cup Group Stage Odds ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>An exciting high scoring game looks like being on the cards when these two continental powerhouses meet in Group F this weekend.</p></div>
             </div>
-        </a><a href='https://www.cbssports.com/soccer/news/belgium-vs-morocco-live-stream-how-to-watch-2022-world-cup-live-online-tv-channel-prediction-odds/'>
+        </a><a href='https://www.sportingnews.com/au/soccer/news/belgium-vs-morocco-world-cup-live-score-result/b54gadr36j1z8wkcdkrtjwbo'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Belgium vs. Morocco live stream: How to watch 2022 World Cup live ...</h3>
+                <h3>Belgium vs Morocco final score, result: Atlas Lions claim stunning ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTNEzWV1so0oq7P35bOffSCfXnrDXGWX41CoVWIvPxAPyWLfuc7zQGTNtjBezF7UCZAv1I5c9Mv" alt="Belgium vs. Morocco live stream: How to watch 2022 World Cup live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Belgium vs. Morocco is one of the highlights on Day 8 at the FIFA 2022 World Cup in Qatar with Al Thumama Stadium the venue for this Group F clash.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSylMfwEGDrj0G0v2q99eW0eNAky_mqmNynzjCUJgZJujIGEQLdYsZTCLlOJKs10Hn-1oR99skD" alt="Belgium vs Morocco final score, result: Atlas Lions claim stunning ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Sporting News tracked live scoring updates and highlights for Belgium vs Morocco at the 2022 World Cup. Follow for complete results from the Group F match&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-us/news/belgium-vs-morocco-predictions-tips-and-betting-odds/blt068686c1d4599897'>
+        </a><a href='https://www.vanguardngr.com/2022/11/belgium-vs-morocco-we-hope-to-be-champions-in-qatar-dendonker/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Belgium vs Morocco: Predictions, tips &amp; betting odds</h3>
+                <h3>Belgium vs Morocco: We hope to be champions in Qatar — Dendonker</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSc5ctq4ZCwEBTA8ZIo2M4hAHDwZG-sb5KclWnUWXfWsXwyy0iTd7WiWAVSd5eSeX-WugNw4OT6" alt="Belgium vs Morocco: Predictions, tips &amp; betting odds" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Belgium hope to build on their strong start to the World Cup by picking up a second straight win when they take on Morocco on Sunday.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTwiSDcmyL7QnNbnTp0fblyq471lm_iS5AYu9zgOtsKHYpstqkpwktmlZj1BDoPvYidhBpicEFn" alt="Belgium vs Morocco: We hope to be champions in Qatar — Dendonker" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Belgium midfielder, Leander Dendonker says his team is optimistic they can win the 2022 World Cup in Qatar. The Aston Villa man was among the squad that&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.thesun.ie/sport/football/9464829/belgium-vs-morocco-live-stream-free-tv-channel-kick-off-time-world-cup-2022/'>
+        </a><a href='https://www.aljazeera.com/sports/liveblog/2022/11/27/live-belgium-vs-morocco-world-cup'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Belgium vs Morocco: TV channel, stream FREE, kick-off time and ...</h3>
+                <h3>Belgium vs Morocco 0-2: World Cup 2022 – as it happened</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTf-5RZ9-4quz9FNVMz7Qqzjyx6wFekCaQUs4qoVJ2wN0bOFAc_xgzN0HB-lg1xzKjOhg7zAAPq" alt="Belgium vs Morocco: TV channel, stream FREE, kick-off time and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>BELGIUM can qualify for the knockout stages of the World Cup if they overcome Morocco in their second group game.Morocco drew 0-0 with Croatia in thei.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRxg94DVsiqtmTAfft020eVGUlEhLmabXJ_zfPfraMF6N1oRXb9D_LNE0r9H4L8wMW1ODsgyy2Y" alt="Belgium vs Morocco 0-2: World Cup 2022 – as it happened" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Live updates from the FIFA World Cup 2022 match between Belgium and Morocco at Al Thumama Stadium.</p></div>
             </div>
-        </a><a href='https://www.sportinglife.com/football/news/belgium-v-morocco-tips-world-cup-2022-best-bets-predictions-and-preview/205471'>
+        </a><a href='https://www.pulse.ng/sports/football/qatar-2022-belgium-vs-morocco-live/skxryse'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Belgium v Morocco tips: World Cup 2022 best bets, predictions and ...</h3>
+                <h3>Belgium vs Morocco Live</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS5Y79G6G5dqMLQ9auqvc-722-0c8c0UEsiwQ0BBUw6efSVcPVS_mWGWvek4-f1P6YlZHBg3QYM" alt="Belgium v Morocco tips: World Cup 2022 best bets, predictions and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Belgium need to be better if they are to beat Morocco in the second round of group games. Liam Kelly selects two best bets.</p></div>
-            </div>
-        </a><a href='https://khelnow.com/football/2022-11-world-football-fifa-world-cup-2022-belgium-vs-morocco-predicted-lineup-injury-news'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Belgium vs Morocco: Predicted Line-up, injury news, head-to-head</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS1De5dG1-PwS35EYn836PzCp1IZ3SYWq2YlOXF4hxM4-kPcJ2XYYtXQ0Fn5ML_AY0pWOBYM6Ib" alt="Belgium vs Morocco: Predicted Line-up, injury news, head-to-head" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Belgium will have an opportunity to confirm their place in the FIFA World Cup 2022 knockouts with a win against Morocco.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQaSywv4Mt19UYkhWWdrEvvsqsUaiT9c53Y_jl6dsFqQKLVHPnknJ1XJu25PtMQB4AKqxFQT8ZW" alt="Belgium vs Morocco Live" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Hello, welcome to our afternoon coverage of the day 8 of the Qatar 2022 FIFA World Cup. | Pulse Nigeria.</p></div>
             </div>
         </a>
         </Template></>;

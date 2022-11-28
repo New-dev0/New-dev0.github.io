@@ -13,75 +13,54 @@ export default function Page() {
             <h1 style={{fontSize: "30"}}>Black Panther: Wakanda Forever</h1>
             <Image width={800} height={500} src="" alt="Black Panther: Wakanda Forever"/>
             <h3>Recent News</h3>
-            <a href='https://collider.com/black-panther-wakanda-forever-global-box-office-600-million/'>
+            <a href='https://collider.com/black-panther-wakanda-forever-global-box-office-675-million/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Black Panther: Wakanda Forever&#39; Passes $600 Million at Global ...</h3>
+                <h3>&#39;Black Panther: Wakanda Forever&#39; Passes $675 Million at the Global ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTxVIQUkxQbBIHL3iQX631czD4eiHvOtpBIRNKR36_NniBhcEDk0mU1RJCWh1e6E8J-Z8tahayR" alt="&#39;Black Panther: Wakanda Forever&#39; Passes $600 Million at Global ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Marvel superhero sequel entered its third week of release by passing a major box office milestone. The film has now made more than $600 million globally,&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTgrMj7kNKhzDtq1l3WRpdzf4FPEbLLpZjTIPWZ-kyy-_nY-g6LHy6DZBCqRiFVT-KDkXBzm3Jn" alt="&#39;Black Panther: Wakanda Forever&#39; Passes $675 Million at the Global ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Black Panther: Wakanda Forever has crossed $675 million at the global box office, less than a month since its release in theaters.</p></div>
             </div>
-        </a><a href='https://nypost.com/2022/11/26/black-panther-wakanda-forever-tops-box-office-for-third-week/'>
+        </a><a href='https://www.forbes.com/sites/markhughes/2022/11/27/black-panther-wakanda-forever-rules-thanksgiving-box-office-with-64-million-haul/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Black Panther: Wakanda Forever&#39; tops box office for third ...</h3>
+                <h3>&#39;Black Panther: Wakanda Forever&#39; Rules Thanksgiving Box Office ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRHGO9mzaWprvHpkEBzyskMBlJFt9es2udzfxsIsOU47NqO6Gib7LfyMC8jOhXQwBZMBGAhA9MW" alt="&#39;Black Panther: Wakanda Forever&#39; tops box office for third ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Black Panther: Wakanda Forever,” took home over a staggering $18 million at the box office on Friday alone. The Marvel superhero blockbuster took home over&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSC8FN5t8ht3XxsfpQ2SCp0H59DUt-RMD2HxIzohsJpk9s2_Qx4on-IBql51R9rRyCHd7p8g9-b" alt="&#39;Black Panther: Wakanda Forever&#39; Rules Thanksgiving Box Office ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Marvel&#39;s superhero sequel is still Queen of the box office, even as the holiday season suffers a slump.</p></div>
             </div>
-        </a><a href='https://collider.com/why-marvel-cant-make-namor-movie-explained/'>
+        </a><a href='https://deadline.com/2022/11/black-panther-wakanda-forever-strange-world-matilda-global-international-box-office-1235182165/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Marvel Can&#39;t Make a Standalone Namor Movie, &#39;Black Panther ...</h3>
+                <h3>&#39;Black Panther: Wakanda Forever&#39; Leaps To $676M WW; &#39;Strange ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTgrMj7kNKhzDtq1l3WRpdzf4FPEbLLpZjTIPWZ-kyy-_nY-g6LHy6DZBCqRiFVT-KDkXBzm3Jn" alt="Marvel Can&#39;t Make a Standalone Namor Movie, &#39;Black Panther ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>It&#39;s similar to why fans haven&#39;t received a solo Hulk film in years. black-panther-wakanda-forever-tenoch-huerta-mejia Image&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRfyLUEXBOKP1FiBjx8X9kRebqNNHqlVnCmXuVA2joBFm-r6lqdlOvJum8HEswhOhlMjQqoVSFA" alt="&#39;Black Panther: Wakanda Forever&#39; Leaps To $676M WW; &#39;Strange ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Black Panther: Wakanda Forever continued to reign at the global and international box office in its 3rd weekend as Strange World arrived with a thud.</p></div>
             </div>
-        </a><a href='https://www.cbr.com/black-panther-wakanda-forever-passes-iron-man-shang-chi-worldwide/'>
+        </a><a href='https://www.boxofficepro.com/weekend-box-office-black-panther-wakanda-forever-strange-world-glass-onion-knives-out-devotion-fabelmans/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Black Panther: Wakanda Forever Surpasses Iron Man, Shang-Chi at ...</h3>
+                <h3>Weekend Box Office: Black Panther: Wakanda Forever Dominates ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS-ijNPKHGFTWXS_YSUYdcMHv5TvxSOv7R9vd9RUjaOlZO60Afl8Um9LbEQ2Pzdbsu7IyvOPWzB" alt="Black Panther: Wakanda Forever Surpasses Iron Man, Shang-Chi at ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Marvel Studios&#39; Black Panther: Wakanda Forever has crossed some major milestones at the box office, recently surpassing Iron Man and Shang-Chi.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSpyn9iJFdfDfwnOfHm-SGzqEHHkPCH4UIZfuusjRu3Pr2XP1FBqxekSpKBiDGE3fPFNiA70589" alt="Weekend Box Office: Black Panther: Wakanda Forever Dominates ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>In its third frame, Disney and Marvel Studios&#39; superhero sequel Black Panther: Wakanda Forever easily captured the top spot, as five other titles made their&nbsp;...</p></div>
             </div>
-        </a><a href='https://comicbook.com/marvel/news/black-panther-wakanda-forever-namor-concept-design-closer-to-comics/'>
+        </a><a href='https://www.goldderby.com/article/2022/thanksgiving-box-office-recap-black-panther-wakanda-forever/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Black Panther: Wakanda Forever Visual Artist Reveals Namor ...</h3>
+                <h3>Thanksgiving box office recap: &#39;Black Panther: Wakanda Forever ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQREnzXNkINonbHYDDbOtXmf9xhtLSbs-YMTSgSiejvfwnboAhOok_b_4554XZiD2zeDSeF0Mi6" alt="Black Panther: Wakanda Forever Visual Artist Reveals Namor ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Black Panther: Wakanda Forever brought Namor, one of Marvel&#39;s oldest characters to live action and more than that, gave the iconic antihero a new look and&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS2828QS2aUzHWcfq6JndPJqYQgrEHYMnuFN9FTTW2UQt_k3O0APp4YrmrAyTrah6hVSKjkavXR" alt="Thanksgiving box office recap: &#39;Black Panther: Wakanda Forever ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>This year&#39;s Disney family-friendly animated movie “Strange World” placed second to the Marvel Studios mega hit.</p></div>
             </div>
-        </a><a href='https://comicbook.com/movies/news/black-panther-wakanda-forever-to-win-third-straight-weekend-at-the-box-office/'>
+        </a><a href='https://ew.com/movies/black-panther-wakanda-forever-thanksgiving-box-office/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Black Panther: Wakanda Forever To Win Third Straight Weekend at ...</h3>
+                <h3>&lt;em&gt;Black Panther: Wakanda Forever&lt;/em&gt; gobbled up the ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQxGoU-c6XCLE1LzDpHobELPkyiaFlNE7gDUk_xFjASdlAwXT3RXeXk6X_eJzWQqdlXCWskI8ND" alt="Black Panther: Wakanda Forever To Win Third Straight Weekend at ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Black Panther: Wakanda Forever will remain in the top spot on the box office charts for a third consecutive weekend. This follows its record-breaking&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcScz23xqHP7FkE_1jp7FaBl5NhJ1Lho-lp4-1hIP7o9xRRCoNZNuBdx_SCPZJOBsqkpBlk2ex71" alt="&lt;em&gt;Black Panther: Wakanda Forever&lt;/em&gt; gobbled up the ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Black Panther: Wakanda Forever continued its benevolent rule of the box office over the Thanksgiving weekend, pulling in $64 million over five days.</p></div>
             </div>
-        </a><a href='https://www.wionews.com/entertainment/hollywood/news-namor-of-black-panther-wakanda-forever-can-return-but-not-in-standalone-film-says-producer-heres-why-537639'>
+        </a><a href='https://www.latimes.com/entertainment-arts/movies/story/2022-11-27/wakanda-forever-black-panther-2-thanksgiving-box-office-disney'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Namor of Black Panther Wakanda Forever can return, but not in ...</h3>
+                <h3>&#39;Wakanda Forever&#39; dominates Thanksgiving box office</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTihgi6Zi7WkWY4gUKzO4kZGjDSv-uf_dQVD3Wz_WMStg6pwMzPLJishAXNeXji9i4NS0MB2Clc" alt="Namor of Black Panther Wakanda Forever can return, but not in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>&#39;Black Panther: Wakanda Forever&#39; has crossed $600 million worldwide. The film is a roaring success, despite the absence of Chadwick Boseman, late actor who&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.cbr.com/black-panther-wakanda-forever-sequel-set-up-mcu/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>How Black Panther: Wakanda Forever Sets up a Sequel</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRWRmIKIfvn7Epkst_3ILk9C4UUrq4uX75TlcstrFUYLbk0xkechCKH17xwMzSLc81_RMfbHDhp" alt="How Black Panther: Wakanda Forever Sets up a Sequel" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Black Panther: Wakanda Forever has several emotional and action-packed threads intertwining which creates a few roads a third film can embark on.</p></div>
-            </div>
-        </a><a href='https://comicbook.com/movies/news/marvel-fans-black-panther-wakanda-forever-disney-plus-debut/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Marvel Fans Will Be Waiting a While for Black Panther: Wakanda ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSl7WC_9WI6SBpNDLMkL1sHhXWR95ZNvvlrhSeXZ1oIaBhAkxhZNF1xystxwrdHTt5NNFLj8Inr" alt="Marvel Fans Will Be Waiting a While for Black Panther: Wakanda ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>In what shouldn&#39;t be a huge surprise, Black Panther: Wakanda Forever&#39;s streaming debut on Disney+ may not be for a while. Deadline brings word that the box&nbsp;...</p></div>
-            </div>
-        </a><a href='https://gizmodo.com/black-panther-wakanda-forever-namor-solo-story-1849823391'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Despite Wakanda Forever&#39;s Success, Namor&#39;s Still Off Limits for a ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTrpf6cVnqc3JV9vrE5gecpofoBt2RC1rC4VqSRqy_XuMrlLwJfbp9ZNbfIuuiJpZHQGH3yzea-" alt="Despite Wakanda Forever&#39;s Success, Namor&#39;s Still Off Limits for a ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Before Black Panther: Wakanda Forever released in theaters and became a juggernaut in the way most Marvel movies do, there was plenty of anticipation to see&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ1o4lJrgQVA3HsIO3jhmM4NM0v8K0Kfg1cWV-ER2nMmKTLs4iclez3FKcX7rO0plnM33EUgjXw" alt="&#39;Wakanda Forever&#39; dominates Thanksgiving box office" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Danai Gurira as Okoye, left, and Letitia Wright as Shuri in “Black Panther: Wakanda Forever.” (Eli Adé / Marvel Studios). By&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

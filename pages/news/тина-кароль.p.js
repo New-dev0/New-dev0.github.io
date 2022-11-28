@@ -11,28 +11,28 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Тина Кароль"/>
         <meta name="description" content="Trending News about Тина Кароль" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Тина Кароль</h1>
-            <Image width={800} height={500} src="https://showbiz.24tv.ua/resources/photos/news/202211/2205645.jpg?v=1669447787000&w=1200&h=675" alt="Тина Кароль"/>
+            <Image width={800} height={500} src="https://img.tsn.ua/cached/649/tsn-15890496c3fba55a55e21f0ca3090d06/thumbs/1200x630/37/a2/adf2cd465428485769893cb63a5da237.jpeg" alt="Тина Кароль"/>
             <h3>Recent News</h3>
-            <a href='https://showbiz.24tv.ua/ru/nacotbor-evrovidenie-2023-dzhamala-o-zhjuri-tine-karol-showbiz_n2205645'>
+            <a href='https://tsn.ua/glamur/tina-karol-bez-makiyazhu-ta-u-sportivnomu-vbranni-podililasya-zamriyanim-foto-zi-studiyi-zvukozapisu-2210899.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Всех уважаю, – Джамала о скандале с Тиной Кароль на ...</h3>
+                <h3>Тіна Кароль без макіяжу та у спортивному вбранні поділилася ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSYfKbwTYlX3r74x5pXvtRsFPYt92FwYj4qSbTr3jKZY8AL5DFsPGsp8JYUGuzcQzApLGJA_d_y" alt="Всех уважаю, – Джамала о скандале с Тиной Кароль на ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Джамала будет в жюри Нацотбора на Евровидение-2023. Она призналась, как отреагировала на это и критику от Тины Кароль. Обо всем читайте на Showbiz.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRLw1NrAeRMH8xCgibmM9u3FFWdoRTw1eJMlV1FF5kMIsxK-c6cC5Nwi2wgyTklTuU0YjV2Ckvj" alt="Тіна Кароль без макіяжу та у спортивному вбранні поділилася ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>У спортивному образі Тіна Кароль поділилася фото зі студії звукозапису та натякнула на підготовку до нової пісні.</p></div>
             </div>
-        </a><a href='https://www.unian.net/lite/stars/nacotbor-na-evrovidenie-2023-dzhamala-otreagirovala-na-isteriku-tiny-karol-12057939.html'>
+        </a><a href='https://showbiz.24tv.ua/yak-tina-karol-viglyadaye-bez-makiyazhu-sportivnomu-kostyumi_n2206265'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Нацотбор на Евровидение-2023: Джамала отреагировала на ...</h3>
+                <h3>Без макіяжу та у спортивному костюмі: Тіна Кароль показала, як ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSKK-EIGX3ctp0y5UPaDlR9Mr3AvKMgyiPukjpCpmdvigfTQUh3Mac_ufnITYuBUGfHy-AKaSL1" alt="Нацотбор на Евровидение-2023: Джамала отреагировала на ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Украинская певица и член жюри Нацотбора на Евровидение-2023 Джамала прокомментировала скандал с Тиной Кароль, которой не хватило несколько голосов,&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ8_PUDAx8hSXICzKZjko2RznnhklShOCDvk9u_q7mFTdKNGK0m0yQcmqe0KQPUsFMgATU4U3JB" alt="Без макіяжу та у спортивному костюмі: Тіна Кароль показала, як ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Співачка Тіна Кароль продовжує творити, записувати нові пісні. У повсякденному житті вона надає перевагу комфортному одягу та мінімуму макіяжу.</p></div>
             </div>
-        </a><a href='https://life.fakty.com.ua/ru/showbiz/naczvidbir-yevrobachennya-2023-dzhamala-prokomentuvala-skandal-iz-tinoyu-karol/'>
+        </a><a href='https://today.ua/ob-39-yemne-hudi-ta-oblyagayuchi-losyny-tina-karol-bez-makiyazhu-pokazala-stylnyj-sportyvnyj-obraz/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Нацотбор Евровидения 2023: Джамала прокомментировала ...</h3>
+                <h3>Об&#39;ємне худі та облягаючі лосини: Тіна Кароль без макіяжу ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTgB9pSiG_qFVJmm4XpUGfL01RTdYfkqAYzxYIVxUfwDJE0SbmJe3HuaPS_Ry_udOlD6efstXvk" alt="Нацотбор Евровидения 2023: Джамала прокомментировала ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Джамала прокомментировала скандал с исполнительницей Тиной Кароль из-за судейского кресла в жюри Нацотбора Евровидения 2023. Джамала о судейском кресле для&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS_U7dDPLU6QcLGyruc4SMI8LVN2gK3fTuW8RMKtYtm6cOpSPkB-OPZQgjcunhHAdTKfXsphIey" alt="Об&#39;ємне худі та облягаючі лосини: Тіна Кароль без макіяжу ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Тіна Кароль поділилася з шанувальниками фотографією зі студії звукозапису, на якій позувала у спортивному костюмі та повністю без макіяжу. Ймовірно, з...</p></div>
             </div>
         </a>
         </Template></>;

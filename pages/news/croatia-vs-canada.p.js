@@ -11,56 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Croatia vs Canada"/>
         <meta name="description" content="Trending News about Croatia vs Canada" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Croatia vs Canada</h1>
-            <Image width={800} height={500} src="https://assets.khelnow.com/news/uploads/2022/11/Croatia-vs-Canada-Preview.jpg" alt="Croatia vs Canada"/>
+            <Image width={800} height={500} src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltc16ae93c47602a15/638048ddb59ca66130917304/MP_Luka_Modric_Croatia_vs_Junior_Hoilett_Canada.jpg" alt="Croatia vs Canada"/>
             <h3>Recent News</h3>
-            <a href='https://khelnow.com/football/2022-11-world-football-fifa-world-cup-2022-croatia-vs-canada-predicted-lineup-injury-news'>
+            <a href='https://www.goal.com/en/news/croatia-vs-canada-lineups-and-live-updates/bltbb6de29a3e350b14'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Croatia vs Canada: Predicted lineup, injury news, head-to-head</h3>
+                <h3>Croatia vs Canada : Lineups and LIVE updates</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR8ZrizOPSp84sqpvxA5ctZxAOCGR23uMIC7Rvi3lh9yOkhBmKg-preBfl2mI9k1I4nAS809yHz" alt="Croatia vs Canada: Predicted lineup, injury news, head-to-head" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Winless after round one, Croatia and Canada will aim to take control of Group F when they clash at the Khalifa International Stadium.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQyA9oAAXjGUPmcMHlusa6D2-UO3hAEwbTdpz6QistG8PuEWjF03xVb3Eon4dejRzx7Jk84yGAo" alt="Croatia vs Canada : Lineups and LIVE updates" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Croatia face Canada in a Group F fixture at the 2022 FIFA World Cup with both teams seeking their first win in the competition.</p></div>
             </div>
-        </a><a href='https://www.goal.com/en/news/croatia-vs-canada-live-stream-tv-channel-kick-off-time-where-to-watch/blt609dadabc6632a81'>
+        </a><a href='https://www.skysports.com/football/croatia-vs-canada/report/462986'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Croatia vs Canada: Live stream, TV channel, kick-off time &amp; where to ...</h3>
+                <h3>World Cup 2022 - Croatia 4-1 Canada: Andrej Kramaric double sees ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSWtLTFjxfT7wbi278btXvnl3rQi1Sl-FG7XATLwScqziGx_IHmiFTF5Lc5Z3yYBjY8Ik1ghcwF" alt="Croatia vs Canada: Live stream, TV channel, kick-off time &amp; where to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>How to watch Croatia vs Canada World Cup game, including kick-off time &amp; team news.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRowX0pOiYTIasHFSpo3ABVwDRK0fsEQ0n4r5XTTlp3WFG-3swv5KhQsDFkoXlfLNn2TIywGmPR" alt="World Cup 2022 - Croatia 4-1 Canada: Andrej Kramaric double sees ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Match report as Croatia come from behind and win in Group F thanks to two goals from Andrej Kramaric either side of a Marko Livaja strike, while substitute&nbsp;...</p></div>
             </div>
-        </a><a href='https://sportstar.thehindu.com/football/fifa-world-cup/news/canada-croatia-live-streaming-can-v-cro-updates-highlights-predicted-11-schedule-qatar-2022/article66188626.ece'>
+        </a><a href='https://www.sportingnews.com/au/soccer/news/croatia-vs-canada-world-cup-live-score-result/vzdja6b8bhxont8mqkfcr7qb'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Croatia vs Canada, FIFA World Cup LIVE streaming info: Schedule ...</h3>
+                <h3>Canada vs Croatia final score, result: Herdman&#39;s side eliminated ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSnapsy1V1eIvoNMQ-SJt8V3HA6w3tplq4uWarNqKTpNvYK5ctWIR0KSQmabG7vf--NM88oUyIp" alt="Croatia vs Canada, FIFA World Cup LIVE streaming info: Schedule ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>CAN v CRO: Here is all you need to know about the FIFA World Cup match between Canada and Croatia happening at the Khalifa International stadium.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTzvdwQK0qK_ajulCKEsuFQ7wHniIi4TohiPvvLhJFws0Gv8Wlrc0HekgH2Jln5cX7fBkbXwe4u" alt="Canada vs Croatia final score, result: Herdman&#39;s side eliminated ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Canada and Croatia will both be desperate for all three points in their second Group F match with the buildup dominated by discussion around a comment made&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.cnbctv18.com/sports/fifa-world-cup-2022-croatia-vs-canada-preview-head-to-head-live-streaming-15268631.htm'>
+        </a><a href='https://www.football.london/international-football/croatia-vs-canada-prediction-odds-25614624'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Croatia vs Canada FIFA World Cup 2022 Preview: Head-to-head ...</h3>
+                <h3>Croatia vs Canada betting previews</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRT1v0pTS48nmyk2h2KKy8TJee33L4Zl6pYyE9S4rpuwXFKFcAF2_Gl_j3gHanpck2pc-DuQf_u" alt="Croatia vs Canada FIFA World Cup 2022 Preview: Head-to-head ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>FIFA World Cup 2022, Croatia vs Canada Preview: Both teams will be looking for their first win of the tournament as Croatia were held to a 0-0 draw against&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQsrKdEtVHGVjDDoTSX392ZMyT18venZjDgXB9S7S7VTjxHuVf1LSkZoLUUKx6gFsdHjeBxsEt7" alt="Croatia vs Canada betting previews" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Inside Track brings you the best in betting tips, predictions and odds during the 2022 World Cup as Croatia face a Canada still searching for their&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-in/news/croatia-vs-canada-predictions-tips-and-betting-odds/blte1ab77881ccfcf82'>
+        </a><a href='https://indianexpress.com/article/sports/football/fifa-world-cup-2022-live-updates-japan-vs-costa-rica-belgium-vs-morocco-croatia-vs-canada-spain-vs-germany-8292317/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Croatia vs Canada: Predictions, tips &amp; betting odds</h3>
+                <h3>FIFA World Cup 2022, Croatia vs Canada Highlights: Croatia win 4 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTyDqnitstOfw4llCL5nmgIURDlpe8mgqHzPFkMlWgzKSDTbK9gQQ53C9naXPTPtETAOTe0J5fb" alt="Croatia vs Canada: Predictions, tips &amp; betting odds" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Croatia were held to a goalless draw against Morocco in their first match of the campaign, while Canada were beaten by Belgium. Croatia vs Canada latest odds.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQsZ94_IZbErsgTQIs4ZSOahjQPNlFz8EwoWuqBgzsYEzGn3IV7vglUFgtgh54fA6Opg3BaWYR9" alt="FIFA World Cup 2022, Croatia vs Canada Highlights: Croatia win 4 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Alphonso Davies headed home the fastest goal of the tournament. Croatia responded strongly as Kramaric and Livaja scored to complete the comeback. The 2018&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sportingnews.com/us/soccer/news/croatia-vs-canada-prediction-world-cup-odds-betting-tips-2022/eecd6smt7cw8xeggqi0nmiai'>
+        </a><a href='https://en.as.com/soccer/croatia-vs-canada-odds-and-predictions-who-is-the-favorite-in-the-world-cup-2022-game-n/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Croatia vs Canada prediction, odds, betting tips and best bets for ...</h3>
+                <h3>Croatia vs Canada odds and predictions: Who is the favorite in the ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSe9zMl-XD8CJSwbXR-M8mxehlo5WkhAeXY22-swBda2IsE9q5kNOcmx-B5jTbcKpF4Ghoc8HeJ" alt="Croatia vs Canada prediction, odds, betting tips and best bets for ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Canada announced themselves to the world in their opening match against Belgium but came away with nothing to show for it. Can they get points against&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.cbssports.com/soccer/news/croatia-vs-canada-2022-world-cup-live-stream-tv-channel-how-to-watch-online-pick-start-time-odds/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Croatia vs. Canada: 2022 World Cup live stream, TV channel, how ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSJR1Q6O3i3PuZIfRFMFXy97l7VJRTkbdCEIxexkn_hMN_mcGEsTTjFShuzoxW0d6wMqbtygZwo" alt="Croatia vs. Canada: 2022 World Cup live stream, TV channel, how ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Despite taking 22 shots, the Canucks were unable to beat Thibaut Courtois despite drawing a penalty. They&#39;ll likely have a new taker after Alphonso Davies&#39; miss&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRyPGWCYiJ6plQCwPSPwqbIqVuNuLS-3XqD4rme0Z6xOCy6AO7-PICK5soKwLWR2RM0GE3mERhA" alt="Croatia vs Canada odds and predictions: Who is the favorite in the ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>With neither Croatia nor Canada having won their opening group F match, both could really do with a victory at Khalifa International Stadium.</p></div>
             </div>
         </a>
         </Template></>;

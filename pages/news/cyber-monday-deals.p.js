@@ -11,63 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Cyber Monday deals"/>
         <meta name="description" content="Trending News about Cyber Monday deals" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Cyber Monday deals</h1>
-            <Image width={800} height={500} src="https://cdn.thewirecutter.com/wp-content/media/2022/11/early-cyber-monday-deals-2048px-3x2-v3.jpg?auto=webp&quality=60&crop=1.91:1&width=1200" alt="Cyber Monday deals"/>
+            <Image width={800} height={500} src="https://media.cnn.com/api/v1/images/stellar/prod/221127083329-underscored-cm-lead-img-early-deals-jpg.jpg?c=16x9&q=w_800,c_fill" alt="Cyber Monday deals"/>
             <h3>Recent News</h3>
-            <a href='https://www.consumerreports.org/money/sales-promotions/best-cyber-monday-deals-under-50-a1122226515/'>
+            <a href='https://www.cnn.com/cnn-underscored/deals/best-cyber-monday-deals-2022-11-27'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Best Cyber Monday Deals Under $50</h3>
+                <h3>The 510 best Cyber Monday 2022 deals to shop right now</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Best Cyber Monday Deals Under $50" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cyber Monday sales have officially begun, which means you can find some great offers on lower-cost items. And if you&#39;re looking to shop without spending too&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRgrBsYn2fTeDUGEVRWfiDm9XUiTJGCJ923TXrxmDVOQKbEu7pQBoDdir4JtSJMKik24YSB6962" alt="The 510 best Cyber Monday 2022 deals to shop right now" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>We&#39;ve scoured the web and rounded up all the best Cyber Monday 2022 deals from all the best brands.</p></div>
             </div>
-        </a><a href='https://www.nytimes.com/wirecutter/money/best-early-cyber-monday-deals-2022/'>
+        </a><a href='https://www.caranddriver.com/shopping-advice/g42026413/cyber-monday-automotive-deals/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>The 120+ Best Early Cyber Monday Deals of 2022</h3>
+                <h3>17 Amazing Cyber Monday Deals on Car and Truck Accessories ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcShNhPY1lYbpCiZtU-OG8NIGCjYsfEnKYYVYxFEj85QXKbCublCWPLPF-lGAdbD7TIfwVPFFocQ" alt="The 120+ Best Early Cyber Monday Deals of 2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cyber Monday officially starts in a couple days, but the deals are already rolling in. Check out these early Cyber Monday deals on Wirecutter-approved&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTXiFJt4RKVoWJdZ2TT6zkLbtfO1kEdUn1fqrkcBt-P1QgYuayclE-npEcr1yzxOtH-UaxCjPat" alt="17 Amazing Cyber Monday Deals on Car and Truck Accessories ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>When it comes to parts, tools, and automotive gear, the deals don&#39;t end on Black Friday.</p></div>
             </div>
-        </a><a href='https://www.consumerreports.org/appliances/best-cyber-monday-deals-on-small-kitchen-appliances-a4673435238/'>
+        </a><a href='https://decrypt.co/115675/crypto-cyber-monday-deals-for-your-holiday-list'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Best Cyber Monday Deals on Small Kitchen Appliances</h3>
+                <h3>Crypto Cyber Monday Deals for Your Shopping List</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Best Cyber Monday Deals on Small Kitchen Appliances" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cyber Monday brings plenty of savings on coffee makers, blenders, air fryers, and more, ranging from budget buys under $50 to deep discounts on high-end&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRhxiqcmUtl1-pbCGGiU9taoaZzfKXjsuFXItUzwRoLmUMbre45e3CdHA6qHluBkCT23dIu3Uhp" alt="Crypto Cyber Monday Deals for Your Shopping List" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Hardware wallets are a popular option for securing digital assets, and blockchain intelligence firms are also offering deals.</p></div>
             </div>
-        </a><a href='https://www.ign.com/articles/amazon-cyber-monday-device-deals-start-now-fire-tv-kindle-and-more'>
+        </a><a href='https://www.vanityfair.com/style/2021/11/the-best-early-black-friday-deals-to-shop-now-before-cyber-week-2022-1'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Amazon Cyber Monday Device Deals Start Now: Fire TV, Kindle and ...</h3>
+                <h3>Shop Cyber Monday Deals 2022: Nordstrom, Amazon, Hill House ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRyveX5b6Jp_29qofFtYvzrlzND6CSFVzohYv-YXbpFVSDyxEdX5gN467-vL1Mi_WPxnzF13pzd" alt="Amazon Cyber Monday Device Deals Start Now: Fire TV, Kindle and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Amazon has already kicked off its Cyber Monday 2022 deals, and it&#39;s a fantastic time to save some cash on all your favorite things, but it&#39;s also a great&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSzjuxcJS5Xs93vQAmOFHVHqGD9-4-T4TXaiZrfkNcUSmMUknAPwKQGy3IdpiLUYVUmikQAoi5-" alt="Shop Cyber Monday Deals 2022: Nordstrom, Amazon, Hill House ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Shop the best Cyber Monday deals and holiday sale events from brands and retailers like Nordstrom, Amazon, Alo, Hill House Home, Tory Burch, AWAY,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.gq.com/story/best-cyber-monday-deals-2022'>
+        </a><a href='https://www.epicurious.com/shopping/cyber-monday-nespresso-deal-2022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>146 Early Cyber Monday Deals 2022: Home, Tech, Kitchen, Men&#39;s ...</h3>
+                <h3>The 18 Best Nespresso Cyber Monday Deals of 2022</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRpNm8V1ew8nEbU3xtGux36dTnsYr6i6jNAsrymZ-jTNjl1Za4W1DhjCouHY5j1LUoKDvioxt2_" alt="146 Early Cyber Monday Deals 2022: Home, Tech, Kitchen, Men&#39;s ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Early Cyber Monday deals have already arrived. Shop our ultimate list of deals on menswear, tech, kitchen goods, and much, much more.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSkxkJh7MQr_0i8SookqdqIO9nXv9UQ-R2Ic3DZ4VZUmwJX3Z54XLGkw-QJbct9syFxcahDvy08" alt="The 18 Best Nespresso Cyber Monday Deals of 2022" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Save up to 50% on an Original or Vertuoline Nespresso coffee maker and espresso machine with these Nespresso Cyber Monday Deals.</p></div>
             </div>
-        </a><a href='https://www.tomsguide.com/deals/cyber-monday-gaming-laptop-deals'>
+        </a><a href='https://www.today.com/shop/cyber-monday-2022-deals-under-25-t273049'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>9 best Cyber Monday gaming laptop deals you can&#39;t miss</h3>
+                <h3>34 best Cyber Monday 2022 deals under $25 live now</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRRwir8BxyTtFTS-GiR3otagQNg_VDaqZKbCRwJluaPauzVvpOitJAQwyfywAlGMP-p9GLCB4aY" alt="9 best Cyber Monday gaming laptop deals you can&#39;t miss" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>We&#39;ve already seen gaming laptops with hundreds of dollars knocked off their price tags thanks to Black Friday, and several of those bargains are still&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRQYQu5SFyX3hRhNCdtGl2NMwgla9hyBQVhQCLC7mRuhhVGlJ5SIbcGdPDlVXBeQLX4DvFYBODV" alt="34 best Cyber Monday 2022 deals under $25 live now" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>See the best Cyber Monday deals under $25, including Olaplex, Amazon Fire Stick, Apple, Yeti and Sephora. You won&#39;t want to miss out on these sales.</p></div>
             </div>
-        </a><a href='https://www.sfgate.com/shopping/article/cyber-monday-luggage-deals-17612303.php'>
+        </a><a href='https://www.zdnet.com/article/newegg-early-cyber-monday-deals-november-27-2022/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Cyber Monday luggage deals: Save on Away, Monos and more</h3>
+                <h3>25 best early Newegg Cyber Monday deals 2022: Top PCs, laptops ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS7Ps57mNW-aaXyYuMX0T8Vr_Q135lYt5F1GebaxYUw6USnAn6Tiady1FKbpd7mlWFlOGWIBd8x" alt="Cyber Monday luggage deals: Save on Away, Monos and more" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>We&#39;re rounding up the best Cyber Monday luggage deals of 2022, including sales from Paravel, ROAM and others.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRJcuyl3X_yu1PaDerykXtp4g40pSFaxv0g-jU0DmtFObIa_iOzImBZIhjFooNZU8Y-LW3hVYh4" alt="25 best early Newegg Cyber Monday deals 2022: Top PCs, laptops ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>As a Black Friday and Cyber Monday staple, Newegg is offering loads of deals on everything from sound systems to gaming PCs that you can shop from today.</p></div>
             </div>
-        </a><a href='https://nypost.com/article/best-cyber-monday-deals-sales-2022/'>
+        </a><a href='https://www.cnn.com/cnn-underscored/deals/cyber-monday-kitchen-deals-2022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>130 best early Cyber Monday 2022 deals to shop now: tech, clothing ...</h3>
+                <h3>The best Cyber Monday kitchen deals to shop before they&#39;re gone</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSRNV_eAC3Y7n_WMdxf7CQKUuESECJ-XUNAIip2hQrS58AH0BME5ScbMgytVdn13PDBseWLMKNt" alt="130 best early Cyber Monday 2022 deals to shop now: tech, clothing ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>We rounded up the best deals to shop for Cyber Monday 2022, including sales on tech, kitchen items, clothing, beauty, food and more.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSTEzoCCv9anSTRAN0dUVeXeyT3UQG6AI0rPHBn0j_mbI7ctM4uNGuIiMVzYR1OfcAQN3ISDRhg" alt="The best Cyber Monday kitchen deals to shop before they&#39;re gone" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>If you&#39;re looking to buy a brand new air fryer, blender or coffee maker this year, you won&#39;t want to skip these Cyber Monday kitchen deals.</p></div>
+            </div>
+        </a><a href='https://www.forbes.com/sites/forbes-personal-shopper/2022/11/27/cyber-monday-appliance-sales/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>The 20 Best Cyber Monday Appliance Deals To Upgrade Your ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQbvl9RXzJYvkzrV0L7de-JzIT2tkP6XPyvLD7Di7Zo_uXruXn-Z9AE6oVc1er65R3uexgC8ZVe" alt="The 20 Best Cyber Monday Appliance Deals To Upgrade Your ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>If you&#39;ve been looking to replace an appliance or two, today&#39;s your best chance. Here are the best Cyber Monday appliance deals we&#39;ve seen so far.</p></div>
+            </div>
+        </a><a href='https://www.epicurious.com/expert-advice/kitchenaid-cyber-monday-deals-2022'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>The Best Cyber Monday KitchenAid Deals (2022) on Stand Mixers ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTH1TZlWG7cJXI98ljOF1kobr_-rgUe88fw3jioJevy-HIrfFIgWQIszMiM6QQ3OO5Xur549LFh" alt="The Best Cyber Monday KitchenAid Deals (2022) on Stand Mixers ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Photo of a KitchenAid stand mixer whipping up merengue on a countertop next to a carton. Photo by Joseph De Leo.</p></div>
             </div>
         </a>
         </Template></>;

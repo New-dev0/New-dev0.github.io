@@ -11,56 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,India vs New Zealand"/>
         <meta name="description" content="Trending News about India vs New Zealand" /></Head><Template>
             <h1 style={{fontSize: "30"}}>India vs New Zealand</h1>
-            <Image width={800} height={500} src="https://images.indianexpress.com/2022/11/Hooda-Chahar-Yadav.jpg" alt="India vs New Zealand"/>
+            <Image width={800} height={500} src="https://images.indianexpress.com/2022/11/Untitled-design-64-2.jpg" alt="India vs New Zealand"/>
             <h3>Recent News</h3>
-            <a href='https://indianexpress.com/article/sports/cricket/india-new-zealand-2nd-odi-playing-xi-8291030/'>
+            <a href='https://indianexpress.com/article/sports/cricket/india-vs-new-zealand-2nd-odi-live-score-updates-8291554/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>India-New Zealand 2nd ODI Playing XI tip-off: Hooda in for Pant ...</h3>
+                <h3>India vs New Zealand highlights: Match has been called off</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ6FamMp7dsObbh315ZMEnNZhnTYyT-flV67jMZ-G8k25_TVQ3OKWA3fr4laQ4pZXth8vy002vN" alt="India-New Zealand 2nd ODI Playing XI tip-off: Hooda in for Pant ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>India-New Zealand 2nd ODI Playing XI tip-off: Indian Express argues for the inclusion of Deepak Hooda, Deepak Chahar and Kuldeep Yadav for the second ODI&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSPNFjW5d92wBHt8WXvWQiy7y8eY3AeBsqZF5lxz2dQaoYwoDXexH82EIRO1i16L1CkSwfDcjp1" alt="India vs New Zealand highlights: Match has been called off" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>IND vs NZ 2022, 2nd ODI highlights: The second ODI between India and New Zealand has been abandoned due to rain. We had five overs when the play was stopped&nbsp;...</p></div>
             </div>
-        </a><a href='https://economictimes.indiatimes.com/news/sports/india-vs-new-zealand-2nd-odi-indian-batting-needs-fresh-approach-to-save-series/articleshow/95782247.cms'>
+        </a><a href='https://www.prabhatkhabar.com/live/india-vs-new-zealand-live-score-updates-ind-vs-nz-2nd-odi-cricket-match-in-hamilton-jst'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3><b>India vs New Zealand</b> 2nd ODI: Indian batting needs fresh approach to save series</h3>
+                <h3>IND vs NZ 2nd ODI Highlights: बारिश में धुला दूसरा वनडे मुकाबला, भारत ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSqhb9ETQmFCLT0OOG3dSGaqAVOCLZQabWVsckuopqBw_lF95dVt45skSPXwN9sW2g9lhlg_h_Y" alt="<b>India vs New Zealand</b> 2nd ODI: Indian batting needs fresh approach to save series" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}><b>India</b> would expect a better approach from skipper Shikhar Dhawan and young Shubman Gill in the Powerplay overs when the team clashes with <b>New Zealand</b> in the do-or-die second One-Day International here on Sunday. The Seddon Park is a three-way open&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQOYEi75o7e3vT7NbST-fYFL_FK7Z88yIdaROO8hAq7KxDJAZDOQbQCn5TpEfxU_ZIyMDSWk8tL" alt="IND vs NZ 2nd ODI Highlights: बारिश में धुला दूसरा वनडे मुकाबला, भारत ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>IND vs NZ 2nd ODI Highlights: भारत और न्यूजीलैंड के बीच तीन मैचों की वनडे सीरीज का दूसरा मुकाबला&nbsp;...</p></div>
             </div>
-        </a><a href='https://sportsmintmedia.com/india-vs-new-zealand-2022-2nd-odi-match-preview-head-to-head-and-streaming-details/'>
+        </a><a href='https://www.hindustantimes.com/cricket/live-score-india-vs-new-zealand-2nd-odi-2022-ind-vs-nz-latest-match-updates-at-hamilton-101669506301134.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>India vs New Zealand 2022 2nd ODI: Match preview, head-to-head ...</h3>
+                <h3>India vs New Zealand Highlights: IND vs NZ 2nd ODI called off due ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRJyoKvsiUikYrJ6I4DqXtIJgTAjPgSSC7KaReKImrP7rlXUy7ROmHQEoJiq0Jvd9S_4fdRgvN8" alt="India vs New Zealand 2022 2nd ODI: Match preview, head-to-head ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>In the second ODI of the India tour of New Zealand 2022, both teams will take on each other at Seddon Park on Sunday, November 27.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS3M_8ox2Bh1ZmhuBE_pUpuXVj_fMFGsV9-FkcRi0sTwnZ57cREW9BtSNu_j0EyGJtGuJIgaJxv" alt="India vs New Zealand Highlights: IND vs NZ 2nd ODI called off due ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>India vs New Zealand 2nd ODI Highlights: The second ODI between India and New Zealand has been called off due to rain in Hamilton. Catch the Highlights of&nbsp;...</p></div>
             </div>
-        </a><a href='https://sports.ndtv.com/new-zealand-vs-india-2022-23/ind-vs-nz-2nd-odi-when-and-where-to-watch-live-telecast-live-streaming-3554828'>
+        </a><a href='https://www.amarujala.com/live/cricket/cricket-news/ind-vs-nz-live-cricket-score-india-vs-new-zealand-2nd-odi-2022-match-at-seddon-park-stadium-news-in-hindi'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>India vs New Zealand, 2nd ODI: When And Where To Watch Live ...</h3>
+                <h3>IND vs NZ 2nd ODI: बारिश के कारण मैच रद्द, न्यूजीलैंड सीरीज में 1-0 से ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR1fByhWzDplSf75RkF40iD6FbCK7aGtPS-ObS6iELn0HYAeoNcrpD73zMRi0DIqIDhE0FGBZzV" alt="India vs New Zealand, 2nd ODI: When And Where To Watch Live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>IND vs NZ, 2nd ODI: Shikhar Dhawan-led side would look to level the three-match series on Sunday.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRs77KnD_PCrVbLVhNppKFp2bDVtnvq_w5_r9SyqGyGKqK628-9tSqUwQxvGrGz09zx3b6P3bQO" alt="IND vs NZ 2nd ODI: बारिश के कारण मैच रद्द, न्यूजीलैंड सीरीज में 1-0 से ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>बारिश की वजह से दूसरा वनडे मैच रद्द कर दिया गया है। इस मुकाबले में कुल 12.5 ओवर का खेल हो&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.mykhel.com/cricket/india-vs-new-zealand-2nd-odi-dream11-prediction-fantasy-tips-possible-playing-11-match-prediction-202892.html'>
+        </a><a href='https://www.espncricinfo.com/series/india-in-new-zealand-2022-23-1322272/new-zealand-vs-india-2nd-odi-1322279/match-report'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>India vs New Zealand, 2nd ODI: Dream11 Prediction, Fantasy Tips ...</h3>
+                <h3>Gill and Suryakumar sparkle before rain washes out stop-start ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTQfpH_qnLyvilE2_81k5oEJ97LkliMnC0j1IcBb6iU0-8e2itKF2CzZFYwRk0WP_Zmprbju-_7" alt="India vs New Zealand, 2nd ODI: Dream11 Prediction, Fantasy Tips ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>India vs New Zealand, 2nd ODI: Dream11 Prediction, Fantasy Tips, Possible Playing 11, Match Prediction. India are facing New Zealand on Sunday at Hamilton.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTuFLJe4CR4dlcvl09F965qhvIaFQ9rKiunhOdJoNmU_SFoqu0NJjcEtS5_t54EcitBNZ-gCdc3" alt="Gill and Suryakumar sparkle before rain washes out stop-start ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A stop-start day ended in victory for rain, with the Hamilton ODI washed out after only 12.5 overs of play. Suryakumar Yadav, with 34 off 25 balls, and Shubman&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.dnaindia.com/cricket/report-ind-vs-nz-2nd-odi-dream11-prediction-fantasy-cricket-tips-india-vs-new-zealand-2nd-odi-hamilton-amazon-prime-3005805'>
+        </a><a href='https://www.tv9hindi.com/sports/cricket-news/india-vs-new-zealand-live-cricket-score-ind-vs-nz-2nd-odi-today-match-playing-xi-latest-news-in-hindi-au115-1579433.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>IND vs NZ 2nd ODI Dream11 prediction: Fantasy cricket tips for India ...</h3>
+                <h3>इंडिया Vs न्यूजीलैंड, 2nd ODI, Highlights: बारिश के कारण मैच रद्द</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSG-o4HWfx5noBs7Q1UpYJkB2-fIKH7V3T2xAj3JUPcbIXef3nqvG5y3Zs70-FQQKVAJzZ4Bicw" alt="IND vs NZ 2nd ODI Dream11 prediction: Fantasy cricket tips for India ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>IND vs NZ 2nd ODI Dream 11 Team - Check My Dream11 Team, Best Player&#39;s list for India vs New Zealand 2nd ODI in Hamilton.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT2UNb0ekRVWMgoLLXDrHVpAoORsSyKs6iLnGKM3IW2WGhygmFt4OgTF-pm__UcLMriZk7Clfql" alt="इंडिया Vs न्यूजीलैंड, 2nd ODI, Highlights: बारिश के कारण मैच रद्द" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>IND Vs NZ, 2nd ODI, LIVE Updates : ऑकलैंड में खेले गए पहले वनडे मैच में भारत को न्यूजीलैंड के खिलाफ&nbsp;...</p></div>
             </div>
-        </a><a href='https://news.abplive.com/sports/cricket/india-vs-new-zealand-when-and-where-to-watch-the-second-odi-live-streaming-1565804'>
+        </a><a href='https://sportstar.thehindu.com/cricket/india-vs-new-zealand-2nd-odi-live-streaming-when-where-to-watch-ind-vs-nz-live-in-india-online-tv-telecast-details/article66188942.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>India vs New Zealand: When And Where To Watch The Second ODI</h3>
+                <h3>India vs New Zealand 2nd ODI 2022 Live Streaming Info: When and ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQo9dzUh-O9i2707aA9wYsODVFz7hid84WEofLjTo7uzeJDB4niT0MQ_NuBFkKnHh1qXhW-E5Hw" alt="India vs New Zealand: When And Where To Watch The Second ODI" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>India will face New Zealand in the 2nd ODI at Seddon Park, Hamilton.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRXNEILoArL7f60HhU0i16VNTe0oPqn4T0aUXLHZVYIo0iUk83zvT_fPO5xG-jwR7KKiaWihz1m" alt="India vs New Zealand 2nd ODI 2022 Live Streaming Info: When and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>IND vs NZ 2nd ODI Live Streaming: Get Live streaming info and telecast details as India takes on New Zealand in the 2nd ODI at Seddon Park in Hamilton.</p></div>
+            </div>
+        </a><a href='https://www.livehindustan.com/cricket/story-nz-vs-ind-2nd-odi-match-live-score-updates-india-vs-new-zealand-hamilton-odi-match-hindi-commentary-live-7411026.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>NZ vs Ind 2nd ODI Match called off: हैमिल्टन में दिखा सूर्या-गिल का ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRebGiVmmxpPCGIJXW5LDaE5yFUeAj1V3YFrJy-tZ82r_tLImp4uLkjBqvicVdrMtSRELy3B1HM" alt="NZ vs Ind 2nd ODI Match called off: हैमिल्टन में दिखा सूर्या-गिल का ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>NZ vs Ind 2nd ODI Match Called Off: हैमिल्टन में भारत और न्यूजीलैंड के बीच दूसरा वनडे मैच बारिश के&nbsp;...</p></div>
+            </div>
+        </a><a href='https://sports.ndtv.com/new-zealand-vs-india-2022-23/india-vs-new-zealand-2nd-odi-match-ind-vs-nz-live-score-updates-3555257'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>India vs New Zealand, 2nd ODI Highlights: Match Abandoned Due ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR59mmjlJMRajnKRPtZ8KSqf6h0tsAXFzcHZjMW5swnUQUfffjHDNzwolIC0SIcIeEY1PTLNeJK" alt="India vs New Zealand, 2nd ODI Highlights: Match Abandoned Due ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>IND vs NZ Highlights, 2nd ODI: India were 89 for 1 in 12.5 overs when the rain interrupted the play to see the game eventually being called off.</p></div>
+            </div>
+        </a><a href='https://www.businesstoday.in/latest/trends/story/india-vs-new-zealand-2nd-odi-latest-update-india-bats-first-rain-interrupts-play-354328-2022-11-27'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>India vs New Zealand 2nd ODI Latest Update: India bats first, rain ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ_xSI9DNluQ3THlkXHsqic6GAg9tjqJI72R4unXTOsswTYF4yanBlWWQ1qw9E5eYP7iccfpg7h" alt="India vs New Zealand 2nd ODI Latest Update: India bats first, rain ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Blackcaps have already won the first ODI by 7 wickets to take a 1-0 series lead. In the first ODI against India, Tom Latham&#39;s 145 not out off 104 balls&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

@@ -20,13 +20,6 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS_Vr3c-lO6k770uz9qrk5io9DdDznZF2Uiy4ToTAOjx0GY818pwmx-EL6mN5zWQvivyJLrQ9xB" alt="Watch Spurs vs. Lakers: How to live stream, TV channel, start time ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>The Los Angeles Lakers and the San Antonio Spurs will face off at 8 p.m. ET Nov. 26 at AT&amp;T Center after both having played games yesterday. The Lakers will be&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.si.com/nba/spurs/news/spurs-vs-lakers-gameday-can-san-antonio-avoid-season-series-sweep'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Spurs vs. Lakers GAMEDAY: Can San Antonio Avoid Season-Series ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcScNZAaMRFgDaELSLN03Z-8ldMud32vvRy6--8vk7lHeEhUKNw8inL2dnK6-noJLZXypg9Ajrfn" alt="Spurs vs. Lakers GAMEDAY: Can San Antonio Avoid Season-Series ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Los Angeles Lakers have won both of their matchups against the San Antonio Spurs. Will they sweep the season series on Saturday?</p></div>
-            </div>
         </a><a href='https://www.silverscreenandroll.com/2022/11/26/23479079/lakers-vs-spurs-preview-starting-time-tv-schedule-injury-report-lebron-james-anthony-davis'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Lakers vs. Spurs Preview, Start Time, TV Schedule, Injury Report</h3>
@@ -34,26 +27,33 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQUz3lLyJKHg9pM914yt_EV2LA6SPLgbzgVap1DuMdTguMQmfAXASB_Aymg9cy-8zra6hUFHaYJ" alt="Lakers vs. Spurs Preview, Start Time, TV Schedule, Injury Report" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>With tough competition around the corner, it would greatly behoove the Lakers to win their third game against the Spurs in six days during their Saturday&nbsp;...</p></div>
             </div>
+        </a><a href='https://www.si.com/nba/spurs/news/spurs-vs-lakers-gameday-can-san-antonio-avoid-season-series-sweep'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Spurs vs. Lakers GAMEDAY: Can San Antonio End Seven-Game ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcScNZAaMRFgDaELSLN03Z-8ldMud32vvRy6--8vk7lHeEhUKNw8inL2dnK6-noJLZXypg9Ajrfn" alt="Spurs vs. Lakers GAMEDAY: Can San Antonio End Seven-Game ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Los Angeles Lakers have won both of their matchups against the San Antonio Spurs. Will they trail 0-3 in the season series after Saturday&#39;s game?</p></div>
+            </div>
+        </a><a href='https://www.espn.com/nba/recap/_/gameId/401468443'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Lakers vs. Spurs - NBA Game Recap - November 26, 2022 | ESPN</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRsLdiNQdFaLGg-eIy_sVg-c-nmgcTGqSbhfy6zCu2rf7G10rZ9Jjjps3eUtoQp1xTQuPgO44K9" alt="Lakers vs. Spurs - NBA Game Recap - November 26, 2022 | ESPN" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Visit ESPN for the game recap of the Los Angeles Lakers vs. San Antonio Spurs NBA basketball game on November 26, 2022.</p></div>
+            </div>
+        </a><a href='https://www.poundingtherock.com/2022/11/26/23479101/its-time-for-basketball-spurs-vs-lakers-again'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>It&#39;s time for Basketball: Spurs vs Lakers, again</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQTWDddQ1UYy9lqzyuwSMVXGwY5o9e4eHsqDZuwqYNYYaTTJZv56S2Lu11P2hRU_Zgl_hVTQRfp" alt="It&#39;s time for Basketball: Spurs vs Lakers, again" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Spurs face a familiar foe as they try to halt their losing streak.</p></div>
+            </div>
         </a><a href='https://clutchpoints.com/nba-odds-lakers-vs-spurs-prediction-odds-and-pick-11-26-2022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>NBA Odds: Lakers-Spurs prediction, odds and pick - 11/26/2022</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTIOvnBocW0rMkw0RvIzY42_WGg3d-rOIQfgesDRO7IY2n5faB6XbcpcQQF2pusqcEsyoXzaC2N" alt="NBA Odds: Lakers-Spurs prediction, odds and pick - 11/26/2022" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>A rematch of last night&#39;s bout will take place for the second-consecutive night as the Los Angeles Lakers will do battle with San Antonio Spurs in Alamo&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.poundingtherock.com/2022/11/26/23479101/its-time-for-basketball-spurs-vs-lakers-again'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>It&#39;s time for Basketball: Spurs vs Lakers, again</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTJnNS6lbw6mahh1OSJdOIStXzxLScSsJQM1TUtJDKq3_h0lGxo2-DZn8tj3mW7DFJ_agPLRY8_" alt="It&#39;s time for Basketball: Spurs vs Lakers, again" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>San Antonio Spurs vs Los Angeles Lakers November 26, 2022 | 7:00 PM CT Streaming: NBA League Pass TV: KENS 5 San Antonio, MyTV 14 Austin ... Reminder: It is&nbsp;...</p></div>
-            </div>
-        </a><a href='https://lebronwire.usatoday.com/lists/lakers-vs-spurs-lineups-injuries-and-broadcast-info-for-saturday/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Lakers vs. Spurs: Lineups, injuries and broadcast info for Saturday</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRyBZbbGT-fT01WL2P9qKdT6bZYbxQyrPD0WWr7NI7uaPsFp6_J7Wkj-Vdjlv2fSzPmpK19I2Ck" alt="Lakers vs. Spurs: Lineups, injuries and broadcast info for Saturday" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Los Angeles Lakers play the San Antonio Spurs on Saturday, and if you&#39;re wondering how you can watch the action live, you&#39;ve come to the right place.</p></div>
             </div>
         </a>
         </Template></>;

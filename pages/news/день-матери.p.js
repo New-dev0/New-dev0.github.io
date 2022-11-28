@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,День матери"/>
         <meta name="description" content="Trending News about День матери" /></Head><Template>
             <h1 style={{fontSize: "30"}}>День матери</h1>
-            <Image width={800} height={500} src="https://cdni-vm.servicecdn.ru/2022.06/original/720_629f807482682c42ddc63b13.jpg" alt="День матери"/>
+            <Image width={800} height={500} src="https://bloknot-taganrog.ru/upload/iblock/ce1/kgu3lnm6cpw6550is1ulh5e4tbm709fj/den-materi.jpg" alt="День матери"/>
             <h3>Recent News</h3>
-            <a href='https://vm.ru/society/1014211-den-materi-v-2022-godu-kogda-otmechayut-istoriya-prazdnika-v-rossii-i-torzhestvennye-meropriyatiya'>
+            <a href='https://bloknot-taganrog.ru/news/segodnya-v-taganroge-prazdnuyut-den-materi'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>День матери в 2022 году: когда отмечают, история праздника в ...</h3>
+                <h3>Сегодня в Таганроге празднуют День матери</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRDtPUpbbG86_necnCilRZlg3sEKrCvCxm8BBllcI5V2dtMRSTr7kMt62Ih4uBHesD3UMD_CoPa" alt="День матери в 2022 году: когда отмечают, история праздника в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>День матери в России традиционно отмечают в последнее воскресенье ноября. В 2022 году праздник пришелся на 27-е число. Его история, традиции и идеи для&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS7xYenPcGUjGDf4SbyZkszMUo-moS-HCYZnVJTIsWhODpzvHN8cOj04YATARzTanfj_ONM93mW" alt="Сегодня в Таганроге празднуют День матери" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Согласно Указу Президента Российской Федерации № 120 от 30 января 1998 года, такой чудесный праздник отмечают в последнее воскресенье ноября. Он создан, чтобы&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.kurgan-city.ru/city/info/glava/1165619/'>
+        </a><a href='https://readovka.news/news/122494'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>День матери - последнее воскресенье ноября</h3>
+                <h3>27 ноября вся страна отмечает День матери — Readovka.news</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="День матери - последнее воскресенье ноября" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Милые дорогие наши мамы и бабушки! Поздравляю вас с праздником – днем матери. Именно вам мы обязаны жизнью, семейным уютом, всем лучшим, что в нас есть.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT3bLu_HA6wlmDQfxQwFhY86Y9rIHDrEdaiEUIvmVkOZJIgnNorvXUJjpm8QaCYv4VyBiw9d9A7" alt="27 ноября вся страна отмечает День матери — Readovka.news" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Эмилия Руднева сегодня в 21:39. Империя. Благодарные за подаренную жизнь дети поделились своими эмоциями. Корреспондент Readovka пообщался с москвичами,&nbsp;...</p></div>
             </div>
-        </a><a href='https://foma.ru/v-rossii-otmechajut-den-materi.html'>
+        </a><a href='https://ulpressa.ru/2022/11/27/%D0%B2-%D0%B4%D0%B5%D0%BD%D1%8C-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8-%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B5-%D1%83%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%86%D1%8B-%D1%80%D0%B0%D1%81/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>В России отмечают День матери – Православный журнал «Фома»</h3>
+                <h3>В День матери известные ульяновцы рассказали о своих мамах</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSoKBw1Bii0R9eNjd7eZUb9DCKnVCVM45bbxiPLMUA0Ik_cQ-bnAttknYsw3Nuvloczl8i4QZLX" alt="В России отмечают День матери – Православный журнал «Фома»" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В воскресенье 28 ноября 2022 года в России отмечается День матери, учрежденный в нашей стране в 1998 году.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSvsafH4i-ysFUu6qpLgX4fDZfxecYuO88WsfufIgygNZ64h9JpHZX0GpMzIG_Cq-ttXI4qUMae" alt="В День матери известные ульяновцы рассказали о своих мамах" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В последнее воскресенье ноября в России отмечают День матери. Главная традиция праздника — поздравлять мам и беременных женщин.</p></div>
             </div>
-        </a><a href='https://rt-online.ru/27-noyabrya-v-rossii-otmetyat-den-materi/'>
+        </a><a href='https://www.bashinform.ru/news/social/2022-11-27/v-rossii-segodnya-otmechaetsya-den-materi-3047436'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>27 ноября в России отметят День матери</h3>
+                <h3>В России сегодня отмечается День матери</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="27 ноября в России отметят День матери" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Цель праздника— поддержать традиции бережного отношения к женщине, закрепить семейные устои.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSkpD9fcyTEQjA6OZ-TGpDGUk8ZU6WbE_Ea4Log_dpJQJRhxrl3iLxJH0BtmTR7rE2bI_YLFTnu" alt="В России сегодня отмечается День матери" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Праздник формально не получил продолжения в советский период - материнство чествовали в рамках международного женского дня 8 марта. Однако, в СССР существовали&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.penzainform.ru/news/remember/2022/11/26/27_noyabrya-den_materi_v_rossii.html'>
+        </a><a href='https://grozny-inform.ru/news/society/146040/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>27 ноября - День матери в России</h3>
+                <h3>Сегодня в России отмечается День матери | Информационное ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRc5Z6t4y7E3sm-YgvIZhVLiYBuUWuhdWJc0NUQ0lw4BPsbYmCeBZAhNjhmKQdoXVuQCqAu2Dax" alt="27 ноября - День матери в России" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Сегодня, 27 ноября, в последнее воскресенье месяца, в России празднуется День матери. Это прекрасный повод сказать самому дорогому на свете человеку - маме&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRDC0ULLXVwZLKwONRekUCBrt39Bm2x-ud4Xoen0VLOjLUHygA5f9a9qqT2PUPXeEyOgR-y7rzi" alt="Сегодня в России отмечается День матери | Информационное ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Каждое последнее воскресенье ноября в России отмечается праздник - День матери. В 2022 году он выпадает на 27 ноября, в этот день дети традиционно&nbsp;...</p></div>
             </div>
-        </a><a href='https://vladimir.tsargrad.tv/news/kuda-shodit-vo-vladimire-na-den-materi-v-2022-godu_672981'>
+        </a><a href='https://apostrophe.ua/ua/news/society/2022-11-27/den-materi-v-ukraine-chto-vajno-pomnit-pro-datu-prazdnika/284786'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Куда сходить во Владимире на День матери в 2022 году</h3>
+                <h3>День матері в Україні: що важливо пам&#39;ятати про дату свята</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTW67LpzPMZ-8_bwawNgRx5gNQyE5wwrtOM4rG1lvAmhxWUk0wbNYZwJNFTRbnxex-D9YdqGQWK" alt="Куда сходить во Владимире на День матери в 2022 году" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Средство массовой информации сетевое издание «Царьград/Tsargrad» зарегистрировано Федеральной службой по надзору в сфере связи, информационных технологий и&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSYCi7nO4Uc5nN5zPL-8VwkAdc2dsMwZaOUxkG1ZognirgRhXCOgSriBEBRx__zkKFwsDp0nkS_" alt="День матері в Україні: що важливо пам&#39;ятати про дату свята" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В Україні, як і в багатьох європейських країнах, День матері щорічно святкують у другу неділю травня, про що свідчить указ президента від 10 травня 1999&nbsp;...</p></div>
             </div>
-        </a><a href='https://vc.ru/cdek/547962-tret-rossiyan-ne-v-kurse-sushchestvovaniya-v-rossii-dnya-materi'>
+        </a><a href='https://www.niann.ru/?id=586279'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Треть россиян не в курсе существования в России Дня матери ...</h3>
+                <h3>Юрий Шалабаев: &quot;День матери - один из самых тёплых и ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTxhW3S16KTyVZsmk6R-jA88UJ806iKiQuAz_Ld1nXrCnzccmHvpE7c0tccgKhYcfEvL2zUZdVj" alt="Треть россиян не в курсе существования в России Дня матери ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Такой вывод можно сделать на основании результатов опроса*, который провёл СДЭК совместно с некоммерческим центром «Душа мамы».</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSAWWECPO6UCz7O6P-SHE33psYl8k0xDwIlpYa5ETmOaZn2POvvQefBZl6Q7BNCYxDXkEgODx0h" alt="Юрий Шалабаев: &quot;День матери - один из самых тёплых и ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>душе. Матери дарят нам жизнь, свою бескорыстную и бесконечную любовь&quot;, - говорится в тексте поздравления. &quot;Сначала они учат нас ходить и говорить, дают первые&nbsp;...</p></div>
             </div>
-        </a><a href='https://ysia.ru/den-materi-novye-smysly-prazdnika-v-rossii-vo-vremya-svo/'>
+        </a><a href='https://belros.tv/news/obschestvo/v-rossii-otmechayut-den-materi/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>День матери: новые смыслы праздника в России во время СВО</h3>
+                <h3>В России отмечают День матери</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSD_jR_3ljnENEJgn6bU_sLtYfjXZa3I6fWiP3PgdIM5VQIQVTmxsOIji5uhMGIc3loQ35Kf4IN" alt="День матери: новые смыслы праздника в России во время СВО" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Президент утвердил основы госполитики по сохранению и укреплению традиционных российских духовно-нравственных ценностей.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSUpAfSjnn1S29Hpm1RImnZgj8Tx9Sp05yOgU0H6OMuKIi2hVFpjupj0ZL-EIYXh8zZkSjjgJIN" alt="В России отмечают День матери" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Глава государства отметил, что это не какой-то пафосный шумный праздник, а день, который наполнен особым, очень добрым содержанием и подчеркивает присущее всем&nbsp;...</p></div>
             </div>
-        </a><a href='https://spbdnevnik.ru/news/2022-11-26/peterburzhtsy-rasskazali-chto-hoteli-by-pozhelat-svoim-mamam-nakanune-dnya-materi'>
+        </a><a href='https://apostrophe.ua/news/society/2022-11-27/den-materi-v-ukraine-chto-vajno-pomnit-pro-datu-prazdnika/284786'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Петербуржцы рассказали, что хотели бы пожелать своим мамам ...</h3>
+                <h3>День матери в Украине: что важно помнить про дату праздника</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRmWe64_9JF9VUZd-n_YRURYpiUv0qXDd37CpURmyEN85hGLIdDZ6QUHq2EcUPXEJuPicEbB9bf" alt="Петербуржцы рассказали, что хотели бы пожелать своим мамам ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Этот праздник отмечается в последнее воскресенье ноября. Фото: кадр из видео/t.me/spbprav. В последнее воскресенье ноября отмечается День матери.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSYCi7nO4Uc5nN5zPL-8VwkAdc2dsMwZaOUxkG1ZognirgRhXCOgSriBEBRx__zkKFwsDp0nkS_" alt="День матери в Украине: что важно помнить про дату праздника" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В Украине, как и во многих европейских странах День матери ежегодно празднуют во второе воскресенье мая, о чем свидетельствует указ президента от 10 мая&nbsp;...</p></div>
             </div>
-        </a><a href='https://ndn.info/citylife/243682-den-materi-2022-s-kogo-brat-primer/'>
+        </a><a href='https://www.tvtomsk.ru/news/81530-den-materi.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>День матери — 2022: с кого брать пример</h3>
+                <h3>День матери: 5 простых завтраков, которыми можно порадовать ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRy518X0GD3W1ENAbeG_vfjhEIcERAhn0NtwHW1X8NOj_F28bSn2nllXZXxuZ6iK5q6z5y9I6_x" alt="День матери — 2022: с кого брать пример" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Международный праздник День матери существует во многих странах мира (в некоторых – уже несколько столетий) и отмечается в разные дни, согласно устоявшимся там&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSYMypU8LDKaIM7iFcZC8NAa4twfNpiHQNZaeKQsjxBwXRESRNDazYui6RpCuuBZLBVe0_fQtEH" alt="День матери: 5 простых завтраков, которыми можно порадовать ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Каждое последнее воскресенье ноября в России отмечается День матери. В этот праздник принято говорить слова благодарности самому дорогому человеку— маме.</p></div>
             </div>
         </a>
         </Template></>;

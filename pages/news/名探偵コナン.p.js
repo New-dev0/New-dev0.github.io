@@ -11,14 +11,21 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,名探偵コナン"/>
         <meta name="description" content="Trending News about 名探偵コナン" /></Head><Template>
             <h1 style={{fontSize: "30"}}>名探偵コナン</h1>
-            <Image width={800} height={500} src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221126-00000017-anmanmv-000-1-view.jpg?exp=10800" alt="名探偵コナン"/>
+            <Image width={800} height={500} src="https://www.famitsu.com/images/000/282/772/z_6372efcc8fcfd.jpg" alt="名探偵コナン"/>
             <h3>Recent News</h3>
-            <a href='https://news.yahoo.co.jp/articles/ed7e3d72730f78c4c38d6d23c4dec997cb1df5d0'>
+            <a href='https://www.famitsu.com/news/202211/27282772.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>「名探偵コナン」と一緒に楽しく学ぼう新コンセプトくじ「一番 ...</h3>
+                <h3>つぎのメインは“哀ちゃん”!? 劇場版『名探偵コナン』最新作の予告編 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRiD13yFS0DNnWyRqhdbMN61GgGscsb9SdHgNXixHdVRQnlH5FEnNsI18nN9OnwfMCpwig-jjsG" alt="「名探偵コナン」と一緒に楽しく学ぼう新コンセプトくじ「一番 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>TVアニメ『名探偵コナン』が、キャラクターくじ「一番くじ」の展開する新コンセプトくじ「一番ラボ」シリーズ第1弾として登場する。まなびへの好奇心を高めるアイテム&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQcLNrX4YklOXIcHCKeO78PcE4f4Ij9rJMV0va8cAm2Mk14VyIM7Gv76grrjBRjnLVStmJNZkQ7" alt="つぎのメインは“哀ちゃん”!? 劇場版『名探偵コナン』最新作の予告編 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>2022年11月8日に、Twitterで“哀ちゃん”というワードがトレンド入りを果たしました。きっかけとなったのは、2023年に公開される劇場版『名探偵コナン』の最新情報。</p></div>
+            </div>
+        </a><a href='https://animeanime.jp/article/2022/11/27/73803.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>「名探偵コナン」安室や風見、警察学校組も！グラデーションで ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSXJNxdG23KsCR2kxNmfvzg_ulD6p6yEjSJUIAZdf7VM47ssLWoLXEq-X9YIQRi9LFgPoj_D_1G" alt="「名探偵コナン」安室や風見、警察学校組も！グラデーションで ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>TVアニメ『名探偵コナン』より、「日常でも使用できる」をコンセプトにしたオリジナルグッズが発売される。</p></div>
             </div>
         </a>
         </Template></>;

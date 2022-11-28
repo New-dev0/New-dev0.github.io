@@ -20,6 +20,13 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRUhhEvDjGSZUvYDwx0vlWeYvB9D7oMOibng4tL9gxN9MpdTuN1U-DjMxa2k7mF-5J2bil0SiuC" alt="Перший гол Левандовські на ЧС: Польща в матчі з незабитим ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Збірна Польщі перемогла команду Саудівської Аравії в матчі 2-го туру групи C чемпіонату світу-2022 з футболу, який відбувся 26 листопада в Досі.</p></div>
             </div>
+        </a><a href='https://sport.24tv.ua/polshha-saudivska-araviya-oglyad-matchu-26112022-chempionat-svitu_n2205871'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Польща перемогла головну сенсацію ЧС-2022, Левандовський ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRuJY4XbUeKXfIpXl83dyBFJg61zRyppcrZMy68-TLghRD24dhDDl7zkhVKyDBdMAN4bVRqe0oR" alt="Польща перемогла головну сенсацію ЧС-2022, Левандовський ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Польща Саудівська Аравія провели гру 26 листопада 2022 в рамках матчу Чемпіонату світу з футболу 2022. Повний огляд матчу ЧС 2022, який рахунок Польща&nbsp;...</p></div>
+            </div>
         </a><a href='https://espreso.tv/chs-2022-polshcha-peremogla-saudivsku-araviyu-ta-zakhopila-liderstvo-u-grupi-c'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>ЧС-2022: Польща перемогла Саудівську Аравію та захопила ...</h3>
@@ -34,13 +41,6 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRpwKyT_LSP1oMDS9LmkXT3qP4xpDMFDdjLyr0bpnCkrlH69wqq7T1Ys4_ED4Ibu4-MKkI7I42l" alt="ЧС-2022: Польща перемогла Саудівську Аравію" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Саудівська Аравія поступилась збірній Польщі у матчі другого туру чемпіонату світу з футболу (0:2), передає Укрінформ. На 39-й хвилині перший гол Польщі на&nbsp;...</p></div>
             </div>
-        </a><a href='https://football24.ua/polshha__saudivska_araviya_onlayn_translyatsiya_matchu_chs_2022__lyevandovski_proti_proklyattya_i_golovnoyi_sensatsiyi_n748943/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Польща – Саудівська Аравія: онлайн-трансляція матчу ЧС-2022 ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTJcbVejVLxXBrOdtvEHwmL7pcm1oHS_4qxvQZ4W5inU0k3X_-urFPog26FN8SY2BTvqx5EwCiQ" alt="Польща – Саудівська Аравія: онлайн-трансляція матчу ЧС-2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Польща та Саудівська Аравія зустрічаються на Чемпіонаті світу в 2 турі групи C. Склади та посилання на онлайн-трансляцію матчу дивіться на &quot;Футбол 24&quot;.</p></div>
-            </div>
         </a><a href='https://fakty.ua/411329-polsha-s-vratarem-geroem-i-debyutnym-golom-levandovski-odolela-millionerov-iz-saudovskoj-aravii-videoobzor-matcha-chm-2022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Польща з воротарем-героєм та дебютним голом Левандовські ...</h3>
@@ -48,19 +48,19 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQuBTLfGGyCKU24YLF7CA9jTJdWdA6vsTiyngdqv3a__MExa55HR0gXT3hNCxSRLUwfUgkNy7-r" alt="Польща з воротарем-героєм та дебютним голом Левандовські ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Збірна Польщі насилу обіграла на чемпіонаті світу з футболу команду Саудівської Аравії, кожному гравцю якої після сенсаційного виграшу в Аргентини&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.rbc.ua/rus/news/polshcha-vpevneno-obigrala-saudivsku-araviyu-1669476427.html'>
+        </a><a href='https://football24.ua/polshha__saudivska_araviya_onlayn_translyatsiya_matchu_chs_2022__lyevandovski_proti_proklyattya_i_golovnoyi_sensatsiyi_n748943/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Польща впевнено обіграла Саудівську Аравію на ЧС-2022</h3>
+                <h3>Польща – Саудівська Аравія: онлайн-трансляція матчу ЧС-2022 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRoJjCjbnNtZws2G87cpJS_iDqIa2wpgzHkCPuYXdBaS46RExfCiF1nEzM4Vu7YhqvR2wd9zRHB" alt="Польща впевнено обіграла Саудівську Аравію на ЧС-2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>У рамках другого туру Чемпіонату світу-2022 у Катарі у групі С збірна Польщі з рахунком 2:0 обіграла Саудівську Аравію.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTJcbVejVLxXBrOdtvEHwmL7pcm1oHS_4qxvQZ4W5inU0k3X_-urFPog26FN8SY2BTvqx5EwCiQ" alt="Польща – Саудівська Аравія: онлайн-трансляція матчу ЧС-2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Польща та Саудівська Аравія зустрічаються на Чемпіонаті світу в 2 турі групи C. Склади та посилання на онлайн-трансляцію матчу дивіться на &quot;Футбол 24&quot;.</p></div>
             </div>
-        </a><a href='https://sport.24tv.ua/polshha-saudivska-araviya-oglyad-matchu-26112022-chempionat-svitu_n2205871'>
+        </a><a href='https://sport.ua/uk/news/605090-polsha-saudovskaya-araviya-prognoz-i-anons-na-match-chempionata-mira'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Польща перемогла головну сенсацію ЧС-2022, Левандовський ...</h3>
+                <h3>Польща – Саудівська Аравія. Прогноз та анонс на матч ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRuJY4XbUeKXfIpXl83dyBFJg61zRyppcrZMy68-TLghRD24dhDDl7zkhVKyDBdMAN4bVRqe0oR" alt="Польща перемогла головну сенсацію ЧС-2022, Левандовський ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Польща Саудівська Аравія провели гру 26 листопада 2022 в рамках матчу Чемпіонату світу з футболу 2022. Повний огляд матчу ЧС 2022, який рахунок Польща&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQHuudkwxCkUFYolvKwJt_2bBuSCamHhlwtuQveBAaZgvnFs1rnqFURZ3mw2u1acYGgV-iliecO" alt="Польща – Саудівська Аравія. Прогноз та анонс на матч ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Прогноз і анонс на матч Польща – Саудівська Аравія ⇒ ≺26.11.2022≻ ✓ Чемпіонат світу Прогнози, огляди та анонси футбольних матчів від кращих&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

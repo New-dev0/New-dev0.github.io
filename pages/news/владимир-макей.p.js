@@ -31,7 +31,7 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Умер министр иностранных дел Беларуси Владимир Макей ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTgC_ryCF7dtT7KOdRlNeJHXuzB3JYrq-7768pgldJq4lB1OuNVILOLtDEyQ2k0F7-qqUnsXx0u" alt="Умер министр иностранных дел Беларуси Владимир Макей ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSopUY9vPB3wrq0gjlmLk3F_WtnYuU2TMIhEQdf7ISwgolRcNetGncjYH76Ru64q5q3j5Fh04f4" alt="Умер министр иностранных дел Беларуси Владимир Макей ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Министр иностранных дел Беларуси Владимир Макей умер, сообщает агентство «Белта» со ссылкой на пресс-секретаря ведомства.</p></div>
             </div>
         </a><a href='https://www.forbes.ru/society/481659-umer-ministr-inostrannyh-del-belorussii-vladimir-makej'>
@@ -45,8 +45,15 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Умер глава МИД Белоруссии Владимир Макей</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQYDsoIiJHQBjCISBeL9CaQXnkKvLwDzCpIkJ1nXfBQARkxnj3SiJc2QK_3gpCpHJcnmhsV119K" alt="Умер глава МИД Белоруссии Владимир Макей" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQL24QEouS7IGI3IkIQ6wSilCmsbKh8UYp9pR1TqFoRQfpdPRwlY-L6ZnieCThPVDTjTJbb2W3I" alt="Умер глава МИД Белоруссии Владимир Макей" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Умер министр иностранных дел Белоруссии Владимир Макей. Ему было 64 года. О его смерти сообщило агентство БЕЛТА со ссылкой на пресс-секретаря министерства&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.svoboda.org/a/gosudarstvennoe-agentstvo-soobschilo-o-smerti-glavy-mid-belarusi-makeya/32150036.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Умер глава МИД Беларуси Владимир Макей</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ0HIOkatV5rfJMtOnwtSh_-xTux5CVb_9FVLfWvlpyznjfImFlYPtMQHKoPbkPvrbW8-j4FVPN" alt="Умер глава МИД Беларуси Владимир Макей" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Белорусское государственное агентство БелТА сообщило о смерти министра иностранных дел Беларуси Владимира Макея. Сообщение опубликовано со ссылкой на&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

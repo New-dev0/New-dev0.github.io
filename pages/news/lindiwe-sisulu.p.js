@@ -18,7 +18,7 @@ export default function Page() {
                 <h3>ANC to respond to Lindiwe Sisulu&#39;s formal complaint on presidential ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS63c-7puW_ouQs_6Y1KYf3iMHZfghIj2LpcIkMEMwuRWRqL2l9qU0o5pT1W1IjYn82i-F2f10V" alt="ANC to respond to Lindiwe Sisulu&#39;s formal complaint on presidential ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>JOHANNESBURG - The African National Congress (ANC) national electoral committee said it&#39;ll respond to a dispute launched by presidential hopeful Lindiwe Sisulu.</p></div>
+                <p style={{marginLeft: "15px"}}>She insists nominations in her favour from branch general meetings were not taken into consideration. FILE: Minister of Human Settlements,&nbsp;...</p></div>
             </div>
         </a><a href='https://www.news24.com/news24/politics/political-parties/puzzling-and-preposterous-kgalema-motlanthe-dismisses-lindiwe-sisulus-anc-top-3-claim-20221125'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -27,19 +27,19 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSzPsb7dQmR-rzgxTogv86Gc6R8ZWhVEeCG-I9A5qs4gV97nTi-F8rU88tTtoDwuoslXgX5ajPi" alt="&#39;Puzzling and preposterous&#39;: Kgalema Motlanthe dismisses Lindiwe ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>The ANC&#39;s electoral committee chairperson, Kgalema Motlanthe, says Tourism Minister Lindiwe Sisulu&#39;s assertion that she qualifies to be in the top three&nbsp;...</p></div>
             </div>
-        </a><a href='https://allafrica.com/stories/202211250156.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Africa: Minister Lindiwe Sisulu Disputes ANC Top Six ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSxaUYUXHBd64iFDWOaWwtgewKvmztRIS1uLuYjuiN1ege1wr1zxpQ2-LyGY4VSzsyBJZxyjO1R" alt="South Africa: Minister Lindiwe Sisulu Disputes ANC Top Six ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Deputy president: Paul Mashatile; Ronald Lamola; Oscar Mabunyane. Secretary general: Ndumiseni Ntuli; Phumulo Masualle; Fikile Mbalula. Deputy secretary-general&nbsp;...</p></div>
-            </div>
         </a><a href='https://www.sowetanlive.co.za/news/south-africa/2022-11-25-i-was-robbed-lindiwe-sisulu-tells-kgalema-motlanthe/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>I was robbed, Lindiwe Sisulu tells Kgalema Motlanthe</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSnGP611nuqpXTkI0mO-ONb95Uxa2fRYLZHRSklt37e7H8drG-86iasA3WMd1nhymzaHcp5Q3_e" alt="I was robbed, Lindiwe Sisulu tells Kgalema Motlanthe" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Tourism minister Lindiwe Sisulu believes her failed ANC presidential bid was engineered by underhanded means.</p></div>
+            </div>
+        </a><a href='https://allafrica.com/stories/202211250156.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>South Africa: Minister Lindiwe Sisulu Disputes ANC Top Six ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSxaUYUXHBd64iFDWOaWwtgewKvmztRIS1uLuYjuiN1ege1wr1zxpQ2-LyGY4VSzsyBJZxyjO1R" alt="South Africa: Minister Lindiwe Sisulu Disputes ANC Top Six ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Deputy president: Paul Mashatile; Ronald Lamola; Oscar Mabunyane. Secretary general: Ndumiseni Ntuli; Phumulo Masualle; Fikile Mbalula. Deputy secretary-general&nbsp;...</p></div>
             </div>
         </a><a href='https://iafrica.com/lindiwe-sisulu-disputes-anc-top-6-nominations/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

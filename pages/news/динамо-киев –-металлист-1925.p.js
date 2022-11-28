@@ -31,7 +31,7 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Динамо – Металлист 1925: онлайн-видеотрансляция матча ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQLT80ae68H7YOaH3b8JMuJjibG1045MAIZcP6kWSnsAREhC9WGe4xu3y7M7ZOWdGdcswM8aYBl" alt="Динамо – Металлист 1925: онлайн-видеотрансляция матча ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRcEbL_dMN65z7QshoaqFXQg5EgzYvwZ02J-EWm7AbCDt4fGY6UTMdHGntJ7zedR5aUXRKb3nI8" alt="Динамо – Металлист 1925: онлайн-видеотрансляция матча ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Онлайн трансляция матча Динамо – Металлист 1925, что играют 26 ноября 2022. Какие стартовые составы команд и текстовый онлайн 15 тура УПЛ 2022/23 смотрите&nbsp;...</p></div>
             </div>
         </a><a href='https://sportarena.com/football/upl/dinamo-metallist-1925-pryamaya-translyatsiya-matcha/'>
@@ -40,6 +40,13 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTEywnxdPdV1RIeXqHZVqNI4f3whZo69b1JNcT3NUrWNUoasQRwi_8lLYxOfuwlpUiVOLLS-3dS" alt="Динамо – Металлист 1925 прямая трансляция матча" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>26 ноября в Киеве на стадионе Динамо имени Лобановского в матче 15-го тура чемпионата Украины Динамо сыграет с Металлистом 1925.</p></div>
+            </div>
+        </a><a href='https://fcdynamo.com/ru/videos/u19-dinamo-kiyiv-metalist-1925-xarkiv-30-naikrashhi-momenti'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>U19. Динамо Киев – Металлист 1925 Харьков – 3:0. Лучшие ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSR8-vl6VygyFe5Te_Brq-3Eaf2Pt0ExdGtc44mSOf2UPCCtYOFg_RBBpjhshTubZ3auPHOFJTg" alt="U19. Динамо Киев – Металлист 1925 Харьков – 3:0. Лучшие ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В очередном туре чемпионата Украины U19 динамовцы в клубном манеже принимали сверстников из Харькова. В случае победы киевляне выходили бы на первое место&nbsp;...</p></div>
             </div>
         </a><a href='https://fcdynamo.com/ru/news/dinamo-metallist-1925-poslematchevaya-press-konferenciya-mirchi-luchesku'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -59,7 +66,7 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Динамо - Металлист-1925 - 0:0: смотреть обзор матча</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Динамо - Металлист-1925 - 0:0: смотреть обзор матча" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQfqRI983hl1G7RqS-l6-LuG12Yx7vXxPNwgjlgd_xI9FTvk599VVGB9tZBH0ETVhSTgcNEXsAG" alt="Динамо - Металлист-1925 - 0:0: смотреть обзор матча" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Динамо - Металлист-1925 - 0:0: смотреть обзор матча. После двух побед киевское &quot;Динамо&quot; снова оступилось. Футбол, Динамо Киев, Металлист-1925,&nbsp;...</p></div>
             </div>
         </a>
