@@ -11,21 +11,28 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,サッカー"/>
         <meta name="description" content="Trending News about サッカー" /></Head><Template>
             <h1 style={{fontSize: "30"}}>サッカー</h1>
-            <Image width={800} height={500} src="https://www.kataller.co.jp/topteam/wp-content/uploads/2022/11/49ef72b19c9b2addea8db508ca9b00b7-11.jpg" alt="サッカー"/>
+            <Image width={800} height={500} src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221129-00000094-spnannex-000-4-view.jpg?exp=10800" alt="サッカー"/>
             <h3>Recent News</h3>
-            <a href='https://www.kataller.co.jp/pickup/%E3%82%AB%E3%82%BF%E3%83%BC%E3%83%AC%E5%AF%8C%E5%B1%B1%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%ABgk%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF%EF%BC%81%E3%80%90-3/'>
+            <a href='https://www.frontale.co.jp/info/2022/1128_4.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>カターレ富山サッカースクールGKクリニック！【基本編③】 開催の ...</h3>
+                <h3>川崎フロンターレ オフィシャルWEBサイト</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT2312tDlTv4ykCcRk3zaZE4m-C4OG84CoAlV4OP4g17EtIlvuzPqaxlodROaJZAW0aYWRZWdVO" alt="カターレ富山サッカースクールGKクリニック！【基本編③】 開催の ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>素早いポジション修正ができるステップを身に付けよう！ 主催. 株式会社カターレ富山. 対象. 小学3年生、小学4年生. 日時. 2022年&nbsp;...</p></div>
+                <Image src="" alt="川崎フロンターレ オフィシャルWEBサイト" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>この結果、川崎フロンターレU-12は準決勝敗退で今大会を終えました。皆様のご声援ありがとうございました。 U-12監督 石川邦明コメント. 「（準決勝&nbsp;...</p></div>
             </div>
-        </a><a href='https://news.yahoo.co.jp/articles/3180f184af3fbd248ecfaac78f17b22135eb3230'>
+        </a><a href='https://news.yahoo.co.jp/articles/5b9e514542fa695e89c9545af9b9dbdcf4d6e4d7'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>「日本サッカーを強く」 世界有数のクラブも利用 AI分析ツールが ...</h3>
+                <h3>永里優季「女だからという理由で…」“レベルの低い女子サッカー ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSLlXFpljTfhxVMxdNErVhx3SqGaaFQ88YYVAPrc91xczPv1k3Ir8eRTRv_Cx7vy4v0UQcLhm-C" alt="「日本サッカーを強く」 世界有数のクラブも利用 AI分析ツールが ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>サッカー界の発展とともに年々進化を続けてきた“分析技術”。『ABEMAヒルズ』はその最新鋭となるAIを活用した分析サービスを提供する会社を取材した。</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ6cK1CZZ_NDttmGa7pM_uhwjpCWCEcXMu04xwNqzQhem_4V0Duqx47bcFbww-ulXEJVT_-Ohze" alt="永里優季「女だからという理由で…」“レベルの低い女子サッカー ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>サッカー元女子日本代表で米シカゴ・レッドスターズに所属するFW永里優季（35）が29日までに、自身のツイッターを更新。女子サッカーに対する心ない声に反論した。</p></div>
+            </div>
+        </a><a href='https://www.yomiuri.co.jp/local/kyushu/feature/CO050452/20221128-OYTAT50043/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>［道あり］熊本県立大津高校サッカー部総監督 平岡和徳さん＜６ ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQTXCQ9718x-MHje0KWxHu5jWFlAmQdY6JFJA515KV9_UU-7SM2nxCUsnoR67SFJSYf0Y-n9gqP" alt="［道あり］熊本県立大津高校サッカー部総監督 平岡和徳さん＜６ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>【読売新聞】 熊本県立大津高に赴任したのは１９９３年。同校はそれまで全国高校サッカー選手権大会に２度の出場経験があったが、いずれも初戦で敗退していた。</p></div>
             </div>
         </a>
         </Template></>;

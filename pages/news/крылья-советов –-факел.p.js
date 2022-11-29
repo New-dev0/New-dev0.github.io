@@ -11,21 +11,28 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Крылья советов – Факел"/>
         <meta name="description" content="Trending News about Крылья советов – Факел" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Крылья советов – Факел</h1>
-            <Image width={800} height={500} src="https://ss.sport-express.ru/userfiles/materials/184/1840822/large.jpg" alt="Крылья советов – Факел"/>
+            <Image width={800} height={500} src="https://img.championat.com/news2/social/c/8e/4907617.jpg" alt="Крылья советов – Факел"/>
             <h3>Recent News</h3>
-            <a href='https://www.sport-express.ru/football/rus_cup/news/krylya-sovetov-fakel-startovye-sostavy-na-match-kubka-rossii-27-noyabrya-2022-goda-2004013/'>
+            <a href='https://www.championat.com/football/news-4907617-krylya-sovetov-obygrali-fakel-v-kubkovom-matche-blagodarya-golu-cypchenko.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>«Крылья Советов» обыграли «Факел» в кубковом матче ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRCoommvmvKKLD1wTA72nmyIVjluzsHPPU09wuoDPN37p900yAbgIL7VU8XiDdlm49jWtzaTtb7" alt="«Крылья Советов» обыграли «Факел» в кубковом матче ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Завершился матч 6-го тура Фонбет Кубка России, в котором встречались самарские «Крылья Советов» и воронежский «Факел». Команды играли на стадионе&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.sport-express.ru/football/rus_cup/news/krylya-sovetov-fakel-startovye-sostavy-na-match-kubka-rossii-27-noyabrya-2022-goda-2004013/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>«Крылья Советов» — «Факел»: Пиняев не попал в заявку из-за ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSTjESmw6j-C0xNNwscrbP7udH9AVumCbhJisbXTfgabJrcmcLXvYQplmPZH7rY1qI7X0brVDzd" alt="«Крылья Советов» — «Факел»: Пиняев не попал в заявку из-за ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>«Крылья Советов» и «Факел» объявили составы на матч 6-го тура групповой стадии пути РПЛ Кубка России.</p></div>
             </div>
-        </a><a href='https://www.championat.com/football/news-4907617-krylya-sovetov-obygrali-fakel-v-kubkovom-matche-blagodarya-golu-cypchenko.html'>
+        </a><a href='https://matchpremier.ru/video/programms/krilyu-sovetov-fakel-obzor-matcha-fonbet-kubka-rossii-27112022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>«Крылья Советов» обыграли «Факел» в кубковом матче ...</h3>
+                <h3>Крылья Советов - Факел. Обзор матча FONBET Кубка России ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRCoommvmvKKLD1wTA72nmyIVjluzsHPPU09wuoDPN37p900yAbgIL7VU8XiDdlm49jWtzaTtb7" alt="«Крылья Советов» обыграли «Факел» в кубковом матче ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Завершился матч 6-го тура Фонбет Кубка России, в котором встречались самарские «Крылья Советов» и воронежский «Факел». Команды играли на стадионе&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTw2MUBgOxGDedPgyAcCp6BMXZlegzkQMOXSLr-oi_lA7ubie6Ec17lpQJn3YgR1QzVdbLYIc6x" alt="Крылья Советов - Факел. Обзор матча FONBET Кубка России ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Крылья Советов - Факел. Обзор матча FONBET Кубка России 27.11.2022 | Телеканал МАТЧ ПРЕМЬЕР. Эксклюзивные программы о российском футболе на новом&nbsp;...</p></div>
             </div>
         </a><a href='https://sport24.ru/news/football/2022-11-27-krylya-sovetov-fakel-smotret-besplatno-krylya-sovetov-fakel-onlayn-translyatsiya-krylya-sovetov-fakel-pryamaya-translyatsiya-krylya-sovetov-fakel-pryamoy-efir-krylya-sovetov-fakel-kubok-rossii-gde-smotret'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

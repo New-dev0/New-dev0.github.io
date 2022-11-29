@@ -25,7 +25,7 @@ export default function Page() {
                 <h3>Ömer Seyfettin&#39;in &quot;Yalnız Efe&quot; adlı hikayesindeki başkahramanı olan ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSGGsl-L0V141GRYOdN0CuPLVmUHDjyV_t-WPsL4ATjSE2NGlIH282qJv3IewxnG-oH750zYiF9" alt="Ömer Seyfettin&#39;in &quot;Yalnız Efe&quot; adlı hikayesindeki başkahramanı olan ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>atv ekranlarının ilgiyle takip edilen yarışma programı Kim Milyoner Olmak İster, yeni bölümüyle ekranlara damga vurmaya devam ediyor. Toplam 12 sorunun yer&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Kim Milyoner Olmak İster 27 Kasım 2022 tarihli yeni bölümünde Ömer Seyfettin&#39;in &quot;Yalnız Efe&quot; adlı hikayesindeki başkahramanı olan Yalnız Efe hangisidir? sorusu&nbsp;...</p></div>
             </div>
         </a><a href='https://www.takvim.com.tr/video/televizyon-videolari/milyonere-damga-vuran-yalniz-efe-sorusu-siklari-goren-kenan-imirzalioglunun-yuz-ifadesi-dikkat-cekti-ezel-eysan-omer-kezban'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

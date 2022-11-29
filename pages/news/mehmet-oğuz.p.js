@@ -18,21 +18,14 @@ export default function Page() {
                 <h3>&#39;Büyük Mehmet&#39; lakaplı Mehmet Oğuz hayatını kaybetti</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRdpv4Ap3qfAxCd5YNGJ0BejHe9LRMfzIj-T3xIMRIz04ASh-gsRgqlQoXlco0Ajo7hs5rM8ixb" alt="&#39;Büyük Mehmet&#39; lakaplı Mehmet Oğuz hayatını kaybetti" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Türkiye Futbol Federasyonu&#39;ndan yapılan açıklamada, &quot;Türk futbolunun değerli isimlerinden, A Milli Takımımızın eski oyuncusu Mehmet Oğuz&#39;un vefat ettiğini derin&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Türkiye A Milli Futbol Takımı, Fenerbahçe ve Galatasaray&#39;da forma giyen Büyük Mehmet lakaplı Mehmet Oğuz yaşamını yitirdi.</p></div>
             </div>
-        </a><a href='https://www.fotomac.com.tr/galatasaray/2022/11/27/galatasaray-ve-fenerbahcede-forma-giyen-eski-milli-futbolcu-mehmet-oguz-vefat-etti'>
+        </a><a href='https://www.haberler.com/haberler/mehmet-oguz-kimdir-buyuk-mehmet-mehmet-oguz-15457423-haberi/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Galatasaray ve Fenerbahçe&#39;de forma giyen eski milli futbolcu ...</h3>
+                <h3>Mehmet Oğuz kimdir? Büyük Mehmet, Mehmet Oğuz neden öldü ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS9fX8Q3UoE_ddhcrSjxUes0lnwoj3NVpJsfLn-hOC9PclKJv2ZikptpsQFg_a3Xn-KEvJ8FddM" alt="Galatasaray ve Fenerbahçe&#39;de forma giyen eski milli futbolcu ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Galatasaray ve Fenerbahçe&#39;de de forma giyen A Milli Takım&#39;ın eski oyuncularından Mehmet Oğuz 73 yaşında vefat etti.</p></div>
-            </div>
-        </a><a href='https://www.galatasaray.org/haber/kulup/mehmet-oguzu-kaybettik/52192'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mehmet Oğuz&#39;u kaybettik</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQtafOTtIsAfOaW3eeH72dxazJql1wSW0tuu1jICATtGzn8uus_EdZLxtNr5Hz_RPnVJiSkuzIF" alt="Mehmet Oğuz&#39;u kaybettik" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Kulübümüzde uzun yıllar forma giyerek takım kaptanlığı yapan, “Büyük Mehmet&quot; lakabıyla bilinen, Türk futbolunun değerli isimlerinden Mehmet Oğuz&#39;un vefat&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR75WSr6nW1VQUMryZnoUGyU7TPHxMEy2OlmgH_X4kAHsqGQJMNxk-YoakBRpgVB0HwgvwzyqPJ" alt="Mehmet Oğuz kimdir? Büyük Mehmet, Mehmet Oğuz neden öldü ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Bunun üzerine devreye giren ve Mehmet Oğuz&#39;un yakın arkadaşı olan Cemil Turan&#39;ın çabaları sonucu Fenerbahçe&#39;ye transfer oldu. Galatasaray&#39;da oynadığı dönem&nbsp;...</p></div>
             </div>
         </a><a href='https://www.fenerbahce.org/haberler/kulup/2022/11/eski-milli-futbolcumuz-mehmet-oguz-u-kaybettik'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -41,12 +34,12 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTpjDg_juZr3LlvffvQe4aPkyukic9E7Gkebu29t-HMn0IJELXhpmlGt7mxOQWFWJTVo5Zlx4F2" alt="Eski milli futbolcumuz Mehmet Oğuz&#39;u kaybettik - Fenerbahçe SK" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>1979-1980 sezonunda formamızı giyen eski milli futbolcularımızdan Mehmet Oğuz&#39;un vefatını derin bir üzüntüyle öğrendik. Merhumun cenazesi 29 Kasım Salı günü&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.cnnturk.com/spor/futbol/buyuk-mehmet-lakapli-eski-futbolcu-mehmet-oguz-vefat-etti-mehmet-oguz-kimdir'>
+        </a><a href='https://www.galatasaray.org/haber/kulup/mehmet-oguzu-kaybettik/52192'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Büyük Mehmet lakaplı eski futbolcu Mehmet Oğuz vefat etti</h3>
+                <h3>Mehmet Oğuz&#39;u kaybettik</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTeGRYdUzg-Ytwb4BTehu6Eaxhe_mMLnnOJAoCtL7oZAvnxCwzpYVClV37yOhT0-bcXt5KnEFR8" alt="Büyük Mehmet lakaplı eski futbolcu Mehmet Oğuz vefat etti" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Galatasaray&#39;dan yapılan açıklamada, &quot;Kulübümüzde uzun yıllar forma giyerek takım kaptanlığı yapan, “Büyük Mehmet&quot; lakabıyla bilinen, Türk futbolunun değerli&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQtafOTtIsAfOaW3eeH72dxazJql1wSW0tuu1jICATtGzn8uus_EdZLxtNr5Hz_RPnVJiSkuzIF" alt="Mehmet Oğuz&#39;u kaybettik" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kulübümüzde uzun yıllar forma giyerek takım kaptanlığı yapan, “Büyük Mehmet&quot; lakabıyla bilinen, Türk futbolunun değerli isimlerinden Mehmet Oğuz&#39;un vefat&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

@@ -11,42 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,South Korea vs Ghana"/>
         <meta name="description" content="Trending News about South Korea vs Ghana" /></Head><Template>
             <h1 style={{fontSize: "30"}}>South Korea vs Ghana</h1>
-            <Image width={800} height={500} src="https://library.sportingnews.com/styles/facebook_1200x630/s3/2022-11/nba-canada--7068b5ca-7a48-4496-b032-0fb29f1cfffe.jpeg?itok=HtP33yDQ" alt="South Korea vs Ghana"/>
+            <Image width={800} height={500} src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt4672be2a75589ed9/63846c7e678f637cf694b0cc/GettyImages-1444438434_(1).jpg" alt="South Korea vs Ghana"/>
             <h3>Recent News</h3>
-            <a href='https://www.sportingnews.com/us/soccer/news/south-korea-ghana-prediction-world-cup-odds-betting-tips-2022/hjxrzkqniywmzxlotciz2rdb'>
+            <a href='https://www.goal.com/en-in/news/south-korea-vs-ghana-lineups-and-live-updates/bltc95714c44310bedd'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Korea vs Ghana prediction, odds, betting tips and best bets for ...</h3>
+                <h3>South Korea vs Ghana: Lineups and LIVE updates</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTmJxPjoJY1NTvmHPnhQ9WxlON1_ZNHvYVPexYooKg_a-HjE9ty8VURO9JGCKStSCkVKvhfy72n" alt="South Korea vs Ghana prediction, odds, betting tips and best bets for ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Two teams who will feel they need to win on matchday two to stand a chance of progression meet in Group H on Monday, as Ghana face South Korea in what&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQnm1UaLUw6hl264av3dGqqSrdjPEHjX5e1HrbeXlcT_qTtepMu05OeAecJIV1f05f1w2pg2wD6" alt="South Korea vs Ghana: Lineups and LIVE updates" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>While South Korea were held to a goalless draw by Uruguay in their opening match, Ghana suffered a 3-2 defeat to Portugal in a highly competitive encounter.</p></div>
             </div>
-        </a><a href='https://theathletic.com/3932097/2022/11/27/south-korea-ghana-stream-tv-channel-predictions-start-time/'>
+        </a><a href='https://www.hindustantimes.com/sports/football/south-korea-vs-ghana-live-score-fifa-world-cup-2022-football-match-latest-updates-education-city-stadium-101669634660534.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Korea vs Ghana preview: How to stream, start time ...</h3>
+                <h3>South Korea vs Ghana, FIFA World Cup 2022 highlights: GHA beat ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSOqSe7psrgcmB9-WSZNSeSC7Bhnducu3D3hvvafSgvqpO5Kl4-_e1oSWMEmRBy5kUoIxTuu5Zp" alt="South Korea vs Ghana preview: How to stream, start time ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Everything you need to know ahead of the Group H meeting between South Korea and Ghana at the 2022 World Cup.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ6enTzZ2zmlD4o_qwYFXYt6bt3ovmgPuhPDK2ux2hzeoGvMFBt17-6THuN_gEivSr2fXlQQd-m" alt="South Korea vs Ghana, FIFA World Cup 2022 highlights: GHA beat ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>FIFA World Cup 2022, South Korea vs Ghana highlights: South Korea managed to score two in three minutes to equalise in the second half before Ghana took the&nbsp;...</p></div>
             </div>
-        </a><a href='https://soccer.nbcsports.com/2022/11/27/south-korea-vs-ghana-live-how-to-watch-stream-link-team-news/'>
+        </a><a href='https://sportstar.thehindu.com/football/fifa-world-cup/news/south-korea-ghana-live-streaming-score-commentary-schedule-updates-kor-vs-gha-soccer-qatar-2022/article66195479.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Korea vs Ghana: How to watch live, stream link, team news</h3>
+                <h3>KOR 2-3 GHA HIGHLIGHTS, World Cup 2022 updates: Resolute ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSUeIIx8eAo-0C1srLIuusfqpMr-arujwVqcRjYCcPb76uSlARPg-OhdUYl0hyg4euI-bbUSuUk" alt="South Korea vs Ghana: How to watch live, stream link, team news" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>South Korea and Ghana collide in Group H with both teams earmarking this as a must-win game in an incredibly tight group.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQopiPT_UtVaQDWiV-krO-oG34kjOy2_-6oCXHySOrJyfOhcEyGPOKklm8Q0gmzeEtt34qsyIir" alt="KOR 2-3 GHA HIGHLIGHTS, World Cup 2022 updates: Resolute ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>KOR vs GHA: Follow for all the updates, score and highlights of the FIFA World Cup match between South Korea and Ghana.</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-gb/news/south-korea-vs-ghana-predictions-tips-and-betting-odds/blt5364e49a27ba9569'>
+        </a><a href='https://www.livemint.com/news/world/south-korea-vs-ghana-prediction-fifa-world-cup-2022-11669605417899.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Korea vs Ghana: Predictions, tips &amp; betting odds</h3>
+                <h3>FIFA World Cup 2022: South Korea vs Ghana prediction, time, live ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS_Xm6CWtK4qBGNslcVfQtPZEWVQq6L0L088pqQ9rToR-PKlf763V5Im0d-sTMAyqwTRLtePXzy" alt="South Korea vs Ghana: Predictions, tips &amp; betting odds" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The African nation showed plenty of attacking intent in their opening game and backing a game with goals at both ends could offer value.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcScwzd5-fMzu3gwQ1QwLBLUgCY9i_mRQmgx1dkFl-9NQtL_4NenQxnAfHSWMY6e5tJf9w-fnOf9" alt="FIFA World Cup 2022: South Korea vs Ghana prediction, time, live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>FIFA World Cup 2022: The South Korea vs Ghana match will be an exciting one to watch as both the teams will give their best to attack and counter-attack.</p></div>
             </div>
-        </a><a href='https://www.thesun.ie/sport/football/9792641/world-cup-south-korea-ghana-time-live-stream-free-tv-channel/'>
+        </a><a href='https://khelnow.com/football/2022-11-world-football-fifa-world-cup-2022-south-korea-vs-ghana-live-updates'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Korea vs Ghana: Stream FREE, TV channel, kick-off time and ...</h3>
+                <h3>FIFA World Cup 2022: South Korea 2-3 Ghana Replay</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRhXViDZK05wixGJd6ydnlXdoN4nQeKzeXaqJrfiOrSM8L7bH4MMR9f0Bz2-rjiE_wjtejgKVuF" alt="South Korea vs Ghana: Stream FREE, TV channel, kick-off time and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>GHANA take on South Korea in the second round of World Cup group-stage games.Neither team won their opening game, as South Korea drew 0-0 with Uruguay.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR0KfmuagGMM1psbOKRqeRXlFON5mcQMLYaxbKwHzpiC9qr6STHJ4dvXgSMdjZn4fRORMq2xhs-" alt="FIFA World Cup 2022: South Korea 2-3 Ghana Replay" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Welcome to the live blog of the South Korea vs Ghana match in FIFA World Cup 2022 Group H at the Education City Stadium in Qatar.</p></div>
+            </div>
+        </a><a href='https://sports.ndtv.com/fifa-world-cup-2022/fifa-world-cup-2022-south-korea-vs-ghana-football-live-score-updates-3559328'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>South Korea vs Ghana, FIFA WC Highlights: Ghana Edge South ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRvrpmJtn9fK-2dXPFgeQ_vMpI9cuMCoiPJHg3TG1jZumzFD1GpJRut9o65SAb1PkgHnU5ja3-6" alt="South Korea vs Ghana, FIFA WC Highlights: Ghana Edge South ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>FIFA World Cup 2022, South Korea vs Ghana Highlights: Mohammed Kudus&#39; brace helped Ghana secure a 3-2 win over South Korea.</p></div>
             </div>
         </a>
         </Template></>;

@@ -41,19 +41,19 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTMFW7jfPRV3ZErS4sFyVmyeq3omKOv6PTiN1rFvuFVlMizuxi_FGaPKlsIafDBFTr7OF0UF7zV" alt="Бельгия — Марокко" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>На этом будем прощаться. Пожелаем сборной Бельгии побед в следующих матчах турнира, а команду Марокко поздравляем с победой. Ждем вас на онлайн-трансляциях&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sports.ru/football/1113660829-belgiya-marokko-onlajn-translyacziya-nachnetsya-v-1600.html'>
+        </a><a href='https://www.fontanka.ru/2022/11/27/71850011/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Бельгия проиграла Марокко во 2-м туре ЧМ – 0:2. Сабири и ...</h3>
+                <h3>Фанаты разгромили центр Брюсселя после победы Марокко над ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSQRHvmuGdjEjFCVmhLxzp2ryOT9gQTjpsKn_wRiJMCGCY8z7Q6_bnR_PiDCQXcUTvyQK-jXrMx" alt="Бельгия проиграла Марокко во 2-м туре ЧМ – 0:2. Сабири и ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Сборная Бельгии проиграла Марокко (0:2) во 2-м туре группового этапа ЧМ-2022.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTkORo73UxLpgsEG2ToViN7CGDEJUq-SwVhQFPpJAYeYoBHeAcEBuQjP0mRf6gxeseFZ51LQv9o" alt="Фанаты разгромили центр Брюсселя после победы Марокко над ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Десятки молодых людей устроили массовые беспорядки в Брюсселе после игры Бельгия — Марокко на чемпионате мира в Катаре. Судя - Происшествия - 27 ноября 2022&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.interfax.ru/world/874441'>
+        </a><a href='https://www.sports.ru/football/1113675288-belgiya-marokko-02-obzor-matcha-chempionata-mira-po-futbolu-27-112022.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>В столице Бельгии произошли беспорядки после поражения от ...</h3>
+                <h3>Бельгия — Марокко — 0:2, обзор матча Чемпионата мира по ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSDYrVIcwfQql2OgL0F9UIthfQmolfhHlOB-PeYDJvvjUgb8StBUtY3H_BYq9Io-etShOS7Hphg" alt="В столице Бельгии произошли беспорядки после поражения от ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Столкновения фанатов Марокко с полицией на улицах Брюсселя 27 ноября. Фото: EPA/Vostock-photo. Москва. 27 ноября. INTERFAX.RU - В центре Брюсселя в&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQk0CtAhzxrB60qHW5XVZ_Q-WzVUhD1a_Kic53KHf9I7tLhVyKKgobnL9xfBZAMjPvapWStcul_" alt="Бельгия — Марокко — 0:2, обзор матча Чемпионата мира по ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Команды начали игру активно, на высоких скоростях и взаимных атаках. Уже на 5-й минуте возник первый опасный момент у ворот сборной Марокко. Эден Азар&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,49ers"/>
         <meta name="description" content="Trending News about 49ers" /></Head><Template>
             <h1 style={{fontSize: "30"}}>49ers</h1>
-            <Image width={800} height={500} src="https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1127%2Fr1098083_1296x729_16%2D9.jpg" alt="49ers"/>
+            <Image width={800} height={500} src="https://cdn.vox-cdn.com/thumbor/s4Yb9vOU3GmW7lNwLHgp4MzGxwA=/0x787:4800x3300/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24233139/1445088347.jpg" alt="49ers"/>
             <h3>Recent News</h3>
-            <a href='https://www.espn.com/nfl/story/_/id/35125753/49ers-rb-elijah-mitchell-exits-vs-saints-knee-injury'>
+            <a href='https://www.ninersnation.com/2022/11/28/23481610/49ers-position-grades-saints-week-12'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>49ers RB Elijah Mitchell exits vs. Saints with knee injury</h3>
+                <h3>49ers news: Position-by-position grades from the 49ers tough win ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRnMvvTcH3Jd6k5zHqTQnAg1TVNeTtJB2ieS2W4Gu5MJmau9XW2ZXH2Fmt-DvUML2K3XSguiml2" alt="49ers RB Elijah Mitchell exits vs. Saints with knee injury" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>49ers RB Elijah Mitchell, who missed time this season because of a sprained MCL, exited Sunday&#39;s game in the third quarter because of a left knee ailment.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTMIydYJZnPeDaH_NkX1oR_O9epl6nIOfVB3bH_yxAdl7dhVfIB_m3F-wZSp0DdBFQ1-fplnA-q" alt="49ers news: Position-by-position grades from the 49ers tough win ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The 49ers offense struggled against a reinforced Saints defensive front, but the Niners defense stepped up.</p></div>
             </div>
-        </a><a href='https://www.nfl.com/news/49ers-wr-deebo-samuel-hamstring-active-vs-saints'>
+        </a><a href='https://www.nbcsports.com/bayarea/49ers/saints-flabbergasted-refs-erase-chris-olave-catch-alontae-taylor-int-vs-49ers'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>49ers WR Deebo Samuel (hamstring) active vs. Saints</h3>
+                <h3>Saints flabbergasted refs erase Chris Olave catch, Alontae Taylor ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRdBWig7tJZ34NxY_k5WHZ7vlaX0L-ufCAJhIsjIqsvD3aIUny0AZMsfai0_CD-6tWNiYYMCr3N" alt="49ers WR Deebo Samuel (hamstring) active vs. Saints" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>San Francisco 49ers wide receiver Deebo Samuel is active for Sunday&#39;s Week 12 game against the New Orleans Saints.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQmUjibsjO0UxgsIs8uN8lamEplrueZqhLpVt0px3Y3-weVa8KpXdUijK_S_FIO_F2GsZSlcw90" alt="Saints flabbergasted refs erase Chris Olave catch, Alontae Taylor ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Saints were not happy with the officiating after their 13-0 loss to the 49ers at Levi&#39;s Stadium.</p></div>
             </div>
-        </a><a href='https://www.sfchronicle.com/sports/49ers/article/49ers-Saints-live-updates-17612391.php'>
+        </a><a href='https://www.49erswebzone.com/articles/163861-49ers-defense-becoming-elite-again-observations-about-saints-49ers/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>49ers-Saints: 49ers win 13-0 in defensive grind</h3>
+                <h3>The 49ers&#39; Defense is Becoming Elite Again: 5 Observations about ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSVZXb3W7WRUd6EvP-Mo1JFlXNDgiUs9g6huKCvyFusp5IOe3vEd7icdrj2qiDy8CZG18LkgfQ4" alt="49ers-Saints: 49ers win 13-0 in defensive grind" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>After shutting out the Saints 13-0 in Levi&#39;s Stadium, the San Francisco 49ers have four straight wins to raise their record to 7-4.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQo50Y2PLR2GfLfvGMIE2KhgJ0eU4whjywYNEVCT5SThP2QZaXUS6oJF89Ny2BLzxEECryOHK81" alt="The 49ers&#39; Defense is Becoming Elite Again: 5 Observations about ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>This 2022 iteration of the 49ers is endlessly fascinating to watch. One of the best teams in football one week, getting humiliated the next.</p></div>
             </div>
-        </a><a href='https://www.ninersnation.com/2022/11/27/23480920/49ers-saints-game-recap'>
+        </a><a href='https://www.nbcsports.com/bayarea/49ers/deebo-samuel-tweets-raheem-mostert-message-after-49ers-critique-hits'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>49ers avoid a potential letdown performance in shutout victory over ...</h3>
+                <h3>Deebo Samuel tweets Raheem Mostert message after 49ers critique ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQzz2xXFazbheDHVRGRTmmB4_V8TEDjfdSN3eGiafi-FAT6YPlZNfx7dRaJydGL-FMIw18gDcqq" alt="49ers avoid a potential letdown performance in shutout victory over ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Fred Warner took advantage of a well-timed blitz from safety Talanoa Hufanga for his patented peanut punch to force a fumble against Alvin Kamara on the&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQmUjibsjO0UxgsIs8uN8lamEplrueZqhLpVt0px3Y3-weVa8KpXdUijK_S_FIO_F2GsZSlcw90" alt="Deebo Samuel tweets Raheem Mostert message after 49ers critique ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Deebo Samuel tweeted about former 49ers teammate Raheem Mostert in light of recent comments about the 49ers.</p></div>
             </div>
-        </a><a href='https://www.49ers.com/news/deebo-samuel-active-arik-armstead-out-49ers-week-12-inactives'>
+        </a><a href='https://ninerswire.usatoday.com/2022/11/28/49ers-add-cb-janoris-jenkins-to-practice-squad/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Deebo Samuel Active, Arik Armstead OUT; 49ers Week 12 Inactives</h3>
+                <h3>49ers add CB Janoris Jenkins to practice squad</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTXOjQNsnVRFVNwFbeNBpfut7DVxx71-BvxvzHuMizOfwvjVZHRMH6M40PxbpLBEALwGAodZ9db" alt="Deebo Samuel Active, Arik Armstead OUT; 49ers Week 12 Inactives" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Wide receiver Deebo Samuel is active for the 49ers matchup versus the New Orleans Saints; defensive lineman Arik Armstead will not play in Week 12.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQUVY-AbBsnsH1n_V9wmPwjHKQhzhD883e3cYtKm_eaBYqyUsW16clkf7j_fssREmVXRWoIiQmj" alt="49ers add CB Janoris Jenkins to practice squad" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The 49ers on Monday announced the addition of veteran cornerback Janoris Jenkins to their practice squad. Jenkins, a 2012 second-round pick of the Rams,&nbsp;...</p></div>
             </div>
-        </a><a href='https://ninerswire.usatoday.com/2022/11/27/nick-bosa-sack-keeps-49ers-shutout-streak-alive/'>
+        </a><a href='https://ninerswire.usatoday.com/lists/49ers-shutout-saints-score-results-stats/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Nick Bosa sack keeps 49ers&#39; shutout streak alive</h3>
+                <h3>What we learned from the 49ers&#39; shutout win over the Saints</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRqHT34XIHapFota6bKgc_5VQuXELs3-aYQbssvMp8Fq6N-RR8kxvD2HJyM8OnvMWgz95d_LhUR" alt="Nick Bosa sack keeps 49ers&#39; shutout streak alive" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The 49ers came up with another stop in a goal-to-go situation vs. the Saints to keep their 2nd-half shutout streak alive.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQpNqItqq58v76vYotvmT532McUeRR5D8HKU0hVB28HvPbeH_UYh9s0JIDtfCGKcJpLyxthxZgf" alt="What we learned from the 49ers&#39; shutout win over the Saints" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The San Francisco 49ers have some breathing room atop the NFC West after they shutout the New Orleans Saints in a 13-0 victory in Week 12.</p></div>
             </div>
-        </a><a href='https://ninerswire.usatoday.com/2022/11/27/49ers-rb-elijah-mitchell-questionable-to-return-vs-saints/'>
+        </a><a href='https://www.49erswebzone.com/articles/163863-elijah-mitchell-weeks-sprain-other-injury-updates-shanahan/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>49ers RB Elijah Mitchell ruled OUT vs. Saints</h3>
+                <h3>Elijah Mitchell to miss 6-8 weeks with MCL sprain, other 49ers injury ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQRzewcgiVSSqvJH9PhQLjNL4NRYKVOTQimoVKMI-mdqpDi2cUSDIlsmTB1-F2r9s2_mOYcpcDi" alt="49ers RB Elijah Mitchell ruled OUT vs. Saints" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The 49ers may have to play the rest of their Week 12 game against the Saints without running back Elijah Mitchell. Mitchell has a knee injury and is&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTsLPV_U8Ev50BQ1dZHCRITXdPYZf9PaiZXOAOlSBiK-Vz7uFlDjSyuLITIaAT3LrqxCX5gi9YW" alt="Elijah Mitchell to miss 6-8 weeks with MCL sprain, other 49ers injury ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>San Francisco 49ers head coach Kyle Shanahan jumped on a conference call with reporters on Monday, a day after the team&#39;s 13-0 win over the New Orleans&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.49erswebzone.com/articles/163785-raheem-mostert-wilson-dolphins-talent-49ers-actually-sling/'>
+        </a><a href='https://www.nbcsports.com/bayarea/49ers/49ers-report-card-grading-offense-defense-shutout-win-over-saints'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Raheem Mostert, Jeff Wilson say Dolphins have more talent than ...</h3>
+                <h3>49ers report card: Grading offense, defense in shutout win over Saints</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQNxlht4rY128NmR22j-GL79rQOpiZa9q2Z5hk6Fp0NS26DZIVeMaesLoTiX1Sa8Ld5RQ0ygtVY" alt="Raheem Mostert, Jeff Wilson say Dolphins have more talent than ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>With a big-time matchup between the San Francisco 49ers and Miami Dolphins quickly approaching, two former Niners have voiced their opinions about their new&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQmUjibsjO0UxgsIs8uN8lamEplrueZqhLpVt0px3Y3-weVa8KpXdUijK_S_FIO_F2GsZSlcw90" alt="49ers report card: Grading offense, defense in shutout win over Saints" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Here are the grades for the 49ers&#39; offense and defense following their shutout win over the New Orleans Saints.</p></div>
             </div>
-        </a><a href='https://www.foxnews.com/sports/49ers-jauan-jennings-showcases-incredible-concentration-great-touchdown-catch-vs-saints'>
+        </a><a href='https://www.49erswebzone.com/articles/163853-deebo-samuel-raheem-mostert-add-49ers-dolphins-hype/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>49ers&#39; Jauan Jennings showcases incredible concentration on great ...</h3>
+                <h3>Deebo Samuel, Raheem Mostert add to 49ers-Dolphins hype</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTvU8k8BncomXHDHNwEAfU0suHi7MAT4e2TXityw3MCA43rrxjIjgyNv2xzi_lOcpRNLCEbR4Q-" alt="49ers&#39; Jauan Jennings showcases incredible concentration on great ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>San Francisco 49ers wide receiver Jauan Jennings made an incredible catch against the New Orleans Saints on a pass from Jimmy Garoppolo.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQSSr262apEGdX_vB-HRtr7ywmVGotN-qL1ip6mPcY8W3tIfDOsnBPZD84hXyHHyOE6l0MywxUX" alt="Deebo Samuel, Raheem Mostert add to 49ers-Dolphins hype" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>There&#39;s already a lot of hype surrounding the Week 13 matchup between the San Francisco 49ers and the Miami Dolphins. It&#39;s the first contest between&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.49erswebzone.com/articles/163792-watch-49ers-jauan-jennings-hauls-tipped-pass-saints/'>
+        </a><a href='https://www.49erswebzone.com/articles/163860-49ers-sign-janoris-jenkins-practice-squad/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Watch: 49ers WR Jauan Jennings hauls in tipped pass for TD vs ...</h3>
+                <h3>49ers sign CB Janoris Jenkins to their practice squad</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ5eZvd7dCxsHv91FCzcS_-cofWdOJKCibCGJAARH40qxS_k6ANnT0vG2FnRt8IEQu86qAw3Ftf" alt="Watch: 49ers WR Jauan Jennings hauls in tipped pass for TD vs ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Kudos to San Francisco 49ers wide receiver Jauan Jennings for staying with the football and hauling in a tipped pass against the New Orleans Saints.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQwAojyTEdpmarN_MRHvaESmsPxqrOQ7bLV93FHbKePcNNgP40jmHc-49Ks42rHJfOZ6ur1caTP" alt="49ers sign CB Janoris Jenkins to their practice squad" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The San Francisco 49ers announced they signed cornerback Janoris Jenkins to their practice squad. The 49ers Communications staff provided the following&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

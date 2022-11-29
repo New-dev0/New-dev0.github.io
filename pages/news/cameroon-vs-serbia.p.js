@@ -11,49 +11,42 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Cameroon vs Serbia"/>
         <meta name="description" content="Trending News about Cameroon vs Serbia" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Cameroon vs Serbia</h1>
-            <Image width={800} height={500} src="https://library.sportingnews.com/styles/facebook_1200x630/s3/2022-11/nba-canada--276d09ad-aca3-4c2d-99d9-d1747fdd370b.jpeg?itok=tYpqusvJ" alt="Cameroon vs Serbia"/>
+            <Image width={800} height={500} src="https://theanalyst.com/wp-content/uploads/2022/11/cameroon-vs-serbia-prediction-world-cup.png" alt="Cameroon vs Serbia"/>
             <h3>Recent News</h3>
-            <a href='https://www.sportingnews.com/us/soccer/news/cameroon-vs-serbia-prediction-world-cup-odds-betting-tips-2022/hmjdikypjuabd44cha0d45fh'>
+            <a href='https://theanalyst.com/2022/11/cameroon-vs-saudi-arabia-prediction-preview-world-cup/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Cameroon vs. Serbia prediction, odds, betting tips and best bets for ...</h3>
+                <h3>Cameroon vs. Serbia: Prediction and Preview | The Analyst</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSxnEe70VvctRhY9hv1Q6xe-C1FPqwyHubaimV4PnMBNuc5NV5HwGeCPvAZmvwdDJlSIpwlDXA5" alt="Cameroon vs. Serbia prediction, odds, betting tips and best bets for ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cameroon and Serbia go head-to-head in Group G at the World Cup on Monday. You can check out the latest odds and expert predictions here.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR_cEhCEYoKakZm6pZaGFzQEbYO54KZEppOB8VhOdbd9w58aTtnmdW4IiyK4nKPwBgIaqoDV2hk" alt="Cameroon vs. Serbia: Prediction and Preview | The Analyst" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>We preview the 2022 World Cup match between Cameroon and Serbia, including our pre-match prediction for each team&#39;s second game in Group G.</p></div>
             </div>
-        </a><a href='https://theathletic.com/3932040/2022/11/27/cameroon-serbia-stream-tv-channel-predictions-start-time/'>
+        </a><a href='https://www.espn.com/soccer/fifa-world-cup/story/4818012/2022-world-cups-best-game-so-far-cameroon-peg-back-serbia-after-onana-exit'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Cameroon vs Serbia preview: How to stream, start time, predictions ...</h3>
+                <h3>World Cup&#39;s best game? Cameroon peg back Serbia; Onana exit</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQkdjO-0NssFWtRRz0m_p8UKCE2XNYV1tXFYPGj00Nz8Kp7zzmLm7Ksyeff1vDUKKP_5xN68sfn" alt="Cameroon vs Serbia preview: How to stream, start time, predictions ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Everything you need to know about Cameroon and Serbia&#39;s Group G meeting at the 2022 World Cup.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRXrfBdA4-sldnjE7Ud235MdKBeB83GXzj6oBFgZwvZL-GdB8aRnrElOvcxp-mGuSoXwDZk4VC7" alt="World Cup&#39;s best game? Cameroon peg back Serbia; Onana exit" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cameroon were ahead against Serbia, then went behind 3-1 before pegging them back to a draw in a topsy-turvy and incredibly fun game in Group G.</p></div>
             </div>
-        </a><a href='https://www.cbssports.com/soccer/news/world-cup-2022-cameroon-vs-serbia-start-time-betting-odds-lines-model-picks-fifa-predictions-best-bets/'>
+        </a><a href='https://theathletic.com/live-blogs/cameroon-vs-serbia-world-cup-2022-live-score-updates-result/drM8IQWD7A4D/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022 Cameroon vs. Serbia start time, betting odds, lines ...</h3>
+                <h3>World Cup 2022 result: How Cameroon came back to draw with ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTw-047XrHFM62EasGJ1ofhIqTpRUrKehvn5Ij9MkZYVRQtnoBFDaapiI4-tHx1r6e08Lk6jynz" alt="World Cup 2022 Cameroon vs. Serbia start time, betting odds, lines ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>SportsLine&#39;s soccer model simulated Serbia vs. Cameroon and locked in its 2022 World Cup picks and predictions for Group G play.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ4fp7iFnj8H0NviEaSDJctEa6S0RXL5oLZsLU3IOejXuI5HaH4-FqMdsEBY1y3_u1gqTObqZXx" alt="World Cup 2022 result: How Cameroon came back to draw with ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Depending on how the rest of the group stages go for Serbia, and despite scoring, Aleksandar Mitrovic may well rue not winning that game for Serbia. Michael&nbsp;...</p></div>
             </div>
-        </a><a href='https://soccer.nbcsports.com/2022/11/27/cameroon-vs-serbia-live-how-to-watch-stream-link-team-news/'>
+        </a><a href='https://www.sportingnews.com/us/soccer/news/cameroon-vs-serbia-world-cup-live-score-result/bmszy4fyzs3jfcxbrkfjl8if'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Cameroon vs Serbia: How to watch live, stream link, team news</h3>
+                <h3>Cameroon vs. Serbia final score, result: Indomitable Lions launch ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRtnyf-lt-J4UF9PzaOBr0JQEwn0WGZVftCTKY_pdo2a-TgHGonnx1FX-MSNeE0TDxvSzQmAMrM" alt="Cameroon vs Serbia: How to watch live, stream link, team news" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cameroon and Serbia clash in Group G as both aim to get off and running at the World Cup after losing their opening game.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR1b4jjkMxopmgU72AAa2aJDaQO2yZqPBOIX28UM0eDv57QgnyofNDhJ3G-iA-RZpJJwBkdVVN2" alt="Cameroon vs. Serbia final score, result: Indomitable Lions launch ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Vincent Aboubakar sparked a stunning second-half comeback as Cameroon avoided what would have been a record-equalling World Cup defeat against Serbia.</p></div>
             </div>
-        </a><a href='https://www.sportsmole.co.uk/football/cameroon/world-cup-2022/feature/world-cup-2022-cameroon-vs-serbia-head-to-head-record_500726.html'>
+        </a><a href='https://dknation.draftkings.com/2022/11/28/23480341/cameroon-vs-serbia-group-stage-world-cup-2022-referee-mohammed-abdulla-hassan-history-cards'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022: Cameroon vs. Serbia head-to-head record</h3>
+                <h3>Cameroon vs. Serbia: Who is the referee for Group G match in 2022 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSSOD0Oi7fM6GuoyDpkOMwARX3swtQRq_WiiTJIBTZjKRad3DQeBcCt2U2j_IsMidp53TPU2lE3" alt="World Cup 2022: Cameroon vs. Serbia head-to-head record" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ahead of Sunday&#39;s World Cup clash between Cameroon and Serbia, Sports Mole looks back at the previous meeting between the two sides.</p></div>
-            </div>
-        </a><a href='https://www.thesun.ie/sport/football/9792170/world-cup-cameroon-serbia-tv-channel-stream-free-kick-off-time-team-news/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Cameroon vs Serbia: TV channel, kick-off time, stream FREE and ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSNWeuKtPsOR191F47wto6WlvYoSDP--4tgq97U53wmmDkahnxBUQOM0tyGQ1cItixlkKVSlCcP" alt="Cameroon vs Serbia: TV channel, kick-off time, stream FREE and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>BOTH Serbia and Cameroon are looking to avoid World Cup elimination when they meet in Group G.After defeats in their opening games - Cameroon losing 1.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQiD1XzarmkcDDWwdwRHX-CN-P-viXglSiJXOg6f6nwXHF9c5WlFh3di5OX3VzbdHChFqluDJgS" alt="Cameroon vs. Serbia: Who is the referee for Group G match in 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cameron and Serbia face off on Monday, November 28, with both squads looking to get their first win of the 2022 World Cup. The match kicks off at 5 a.m. ET&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

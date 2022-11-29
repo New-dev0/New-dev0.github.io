@@ -41,19 +41,12 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRs77KnD_PCrVbLVhNppKFp2bDVtnvq_w5_r9SyqGyGKqK628-9tSqUwQxvGrGz09zx3b6P3bQO" alt="IND vs NZ 2nd ODI: बारिश के कारण मैच रद्द, न्यूजीलैंड सीरीज में 1-0 से ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>बारिश की वजह से दूसरा वनडे मैच रद्द कर दिया गया है। इस मुकाबले में कुल 12.5 ओवर का खेल हो&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.espncricinfo.com/series/india-in-new-zealand-2022-23-1322272/new-zealand-vs-india-2nd-odi-1322279/match-report'>
+        </a><a href='https://www.espncricinfo.com/series/india-in-new-zealand-2022-23-1322272/new-zealand-vs-india-2nd-odi-1322279/match-preview'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Gill and Suryakumar sparkle before rain washes out stop-start ...</h3>
+                <h3>Can India stop New Zealand&#39;s home juggernaut in high-scoring ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTuFLJe4CR4dlcvl09F965qhvIaFQ9rKiunhOdJoNmU_SFoqu0NJjcEtS5_t54EcitBNZ-gCdc3" alt="Gill and Suryakumar sparkle before rain washes out stop-start ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A stop-start day ended in victory for rain, with the Hamilton ODI washed out after only 12.5 overs of play. Suryakumar Yadav, with 34 off 25 balls, and Shubman&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.tv9hindi.com/sports/cricket-news/india-vs-new-zealand-live-cricket-score-ind-vs-nz-2nd-odi-today-match-playing-xi-latest-news-in-hindi-au115-1579433.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>इंडिया Vs न्यूजीलैंड, 2nd ODI, Highlights: बारिश के कारण मैच रद्द</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT2UNb0ekRVWMgoLLXDrHVpAoORsSyKs6iLnGKM3IW2WGhygmFt4OgTF-pm__UcLMriZk7Clfql" alt="इंडिया Vs न्यूजीलैंड, 2nd ODI, Highlights: बारिश के कारण मैच रद्द" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>IND Vs NZ, 2nd ODI, LIVE Updates : ऑकलैंड में खेले गए पहले वनडे मैच में भारत को न्यूजीलैंड के खिलाफ&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRsScQyb7FqUK7SKf0Mg1anSeFQ2Qe98VVVx8O6mJuFsHw1ZNB28RlmAaxjrbK3TxjlT-jk5sha" alt="Can India stop New Zealand&#39;s home juggernaut in high-scoring ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>With 16 matches, New Zealand have played the second-fewest ODIs of any team in the ongoing World Cup Super League. But just one more win, and they can&nbsp;...</p></div>
             </div>
         </a><a href='https://sportstar.thehindu.com/cricket/india-vs-new-zealand-2nd-odi-live-streaming-when-where-to-watch-ind-vs-nz-live-in-india-online-tv-telecast-details/article66188942.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -61,6 +54,13 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRXNEILoArL7f60HhU0i16VNTe0oPqn4T0aUXLHZVYIo0iUk83zvT_fPO5xG-jwR7KKiaWihz1m" alt="India vs New Zealand 2nd ODI 2022 Live Streaming Info: When and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>IND vs NZ 2nd ODI Live Streaming: Get Live streaming info and telecast details as India takes on New Zealand in the 2nd ODI at Seddon Park in Hamilton.</p></div>
+            </div>
+        </a><a href='https://www.tv9hindi.com/sports/cricket-news/india-vs-new-zealand-live-cricket-score-ind-vs-nz-2nd-odi-today-match-playing-xi-latest-news-in-hindi-au115-1579433.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>इंडिया Vs न्यूजीलैंड, 2nd ODI, Highlights: बारिश के कारण मैच रद्द</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT2UNb0ekRVWMgoLLXDrHVpAoORsSyKs6iLnGKM3IW2WGhygmFt4OgTF-pm__UcLMriZk7Clfql" alt="इंडिया Vs न्यूजीलैंड, 2nd ODI, Highlights: बारिश के कारण मैच रद्द" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>IND Vs NZ, 2nd ODI, LIVE Updates : ऑकलैंड में खेले गए पहले वनडे मैच में भारत को न्यूजीलैंड के खिलाफ&nbsp;...</p></div>
             </div>
         </a><a href='https://www.livehindustan.com/cricket/story-nz-vs-ind-2nd-odi-match-live-score-updates-india-vs-new-zealand-hamilton-odi-match-hindi-commentary-live-7411026.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

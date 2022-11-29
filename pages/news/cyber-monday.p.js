@@ -11,56 +11,70 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Cyber Monday"/>
         <meta name="description" content="Trending News about Cyber Monday" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Cyber Monday</h1>
-            <Image width={800} height={500} src="https://images.bfmtv.com/H_EFlFJRPPRCUiOXw-xtzb1crAI=/6x69:1254x771/1248x0/images/Cyber-Monday-profitez-des-nombreux-bons-plans-meme-apres-le-Black-Friday-1177154.jpg" alt="Cyber Monday"/>
+            <Image width={800} height={500} src="https://conteudo.imguol.com.br/c/noticias/05/2022/11/28/cyber-monday-1669636416499_v2_900x506.jpg" alt="Cyber Monday"/>
             <h3>Recent News</h3>
-            <a href='https://www.bfmtv.com/tech/bons-plans/cyber-monday-profitez-des-nombreux-bons-plans-meme-apres-le-black-friday_AB-202211270001.html'>
+            <a href='https://www.uol.com.br/tilt/ao-vivo/2022/11/28/cyber-monday-2022-melhores-descontos-promocao-iphone-air-fryer-celular.htm'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Cyber Monday : profitez des nombreux bons plans, même après le ...</h3>
+                <h3>Cyber Monday: selecionamos promoções imperdíveis de hoje (28/11)</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTsWnWTurmDx61MCJE6GuAmxqfIX6WWTUmysWvF9QvugTdfHHpilfyW8EfqxKp5ULAZIs2PMgg5" alt="Cyber Monday : profitez des nombreux bons plans, même après le ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Le Black Friday, c&#39;est terminé. Après un vendredi intense où les clients se sont bousculés pour faire de bonnes affaires, c&#39;est le retour à la normale.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSbq8zpbzSbNEGgiQ2LvinbvbIpEZZsTjF8anYCBn72aw4tC89o03vkZkFZ1Wd9eBSrcVMBqQ8v" alt="Cyber Monday: selecionamos promoções imperdíveis de hoje (28/11)" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>O MacBook Air com M1 é uma das opções de notebook da Apple no mercado. Equipado com tela de 13 polegadas e design fino, o laptop se beneficia da adoção do&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.ouest-france.fr/shopping/cyber-monday-les-meilleures-offres-valables-seulement-24-heures-8b30a5fe-6e6a-11ed-8a4c-ae62722f8615'>
+        </a><a href='https://valor.globo.com/empresas/noticia/2022/11/28/copa-do-mundo-e-cenario-economico-tiram-foco-da-cyber-monday.ghtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Cyber Monday : les meilleures offres valables seulement 24 heures</h3>
+                <h3>Copa do Mundo e cenário econômico tiram foco da Cyber Monday</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSZGjC46atxQQ5RkCpgr_gzbuUAbX-sy4h_jHhQBwbHzg85HJcN7JZWz7S6WiK_j8uOlf7E8Gsk" alt="Cyber Monday : les meilleures offres valables seulement 24 heures" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Le Cyber Monday est une opération flash qui ne dure que 24 heures. Pendant toute une journée, les enseignes marchandes mettent en avant de multiples bons&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQQ7mWr4uwhn-EO2xtHuiN9B6vzl0qP5e04XvPmu2fH9DMbHz0KWc-_J2VAUlO6RIUj1j3sdLXg" alt="Copa do Mundo e cenário econômico tiram foco da Cyber Monday" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Voltada a descontos para eletroeletrônicos, a segunda-feira seguinte à Black Friday vem em segundo plano neste ano; retorno dos fabricantes é de que o&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.edcom.fr/smartphones/41967-dernieres-heures-du-black-friday-et-premieres-heures-du-cyber-monday-quelle-sont-les-promos-disponibles.html'>
+        </a><a href='https://exame.com/negocios/cyber-monday-confira-11-produtos-que-estao-com-desconto-pos-black-friday/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Dernières heures du Black Friday et premières heures du Cyber ...</h3>
+                <h3>Cyber Monday: confira 11 produtos que estão com desconto pós ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ0hw3AHnoheO1BzecmdkSMi-KvPxPtFVrsOAXyoLNxl3S1j_GEjgr7X4iY5aFjzSaTle-F8jz6" alt="Dernières heures du Black Friday et premières heures du Cyber ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Les smartphones de la gamme Samsung Galaxy ou les différents iPhone sont encore en promo, tout comme les téléphones Xiaomi et d&#39;autres smartphones 5G. Si vous&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQnGgdPdwKC98VsWBfDHz443HTw4olcLa16Cf-BrjcqwkYRq9IjcR5cMaM6pk2crIB2wzgGtZI8" alt="Cyber Monday: confira 11 produtos que estão com desconto pós ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A Cyber ​​Monday é o evento que começa após a Black Friday, em que são oferecidos descontos semelhantes.</p></div>
             </div>
-        </a><a href='https://www.jeuxvideo.com/news/1676987/black-friday-juste-avant-le-cyber-monday-cette-barre-de-son-lg-s90qy-est-a-41.htm'>
+        </a><a href='https://valor.globo.com/empresas/noticia/2022/11/28/shopify-pode-ser-o-maior-vencedor-da-cyber-monday.ghtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Black Friday : juste avant le Cyber Monday, cette barre de son LG ...</h3>
+                <h3>Shopify pode ser o maior vencedor da Cyber Monday</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS81UcXQdK-zGtPkHYAaX-pNN9u4_HVK5WCifuWjMy4GtM5fN5uT8rxg4AXYq835hoGSrLxQ5kK" alt="Black Friday : juste avant le Cyber Monday, cette barre de son LG ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Le Black Friday, et le Cyber Monday qui arrive, touchent toutes les catégories de produits. Et c&#39;est d&#39;autant plus intéressant quand les revendeurs nous&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQnnEFpCIHI_kHBJJz_N0UirmxJ5o7cC0NejweyQRiZ6lKUgSbyZbE3da5B7VOKy2Q72I2tzuSA" alt="Shopify pode ser o maior vencedor da Cyber Monday" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Empresa de software de comércio eletrônico disse no sábado que seus comerciantes quebraram recordes da Black Friday com US$ 3,36 bilhões em vendas ao redor&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.jeuxvideo.com/news/1676871/les-25-meilleures-promotions-amazon-a-saisir-avant-le-lundi-28-novembre-2022-a-23h59-pour-le-cyber-monday.htm'>
+        </a><a href='https://www.techtudo.com.br/noticias/2022/11/cyber-monday-2022-quatro-eletronicos-que-podem-ficar-mais-baratos-hoje-bf2022.ghtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Les 25 meilleures promotions Amazon à saisir avant le lundi 28 ...</h3>
+                <h3>Cyber Monday 2022: quatro eletrônicos que podem ficar mais ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRTSi3I-4hRjYBQbzWnAPcJxd7Rrjd75nIVpAFso0KmvCb34zWtRyd4J7lDEzgPajAcpO-tKjBn" alt="Les 25 meilleures promotions Amazon à saisir avant le lundi 28 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Le Black Friday (et son petit frère Cyber Monday le 28 novembre 2022) est assurément l&#39;une des périodes commerciales les plus plebiscitées de l&#39;année : il faut&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSmRS7RTh_O8GHGu0sCZZVKBc-ufAfzttkX7RYDnwcV1c13kBYNJBXBuz-d8tvDXedghHdOZXXK" alt="Cyber Monday 2022: quatro eletrônicos que podem ficar mais ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cyber Monday 2022 acontece hoje e promete trazer as últimas promoções da Black Friday; veja produtos que podem ter queda de preço.</p></div>
             </div>
-        </a><a href='https://www.crumpe.com/2022/11/meilleures-offres-cyber-monday-ps5-economisez-gros-sur-un-tas-de-jeux-exclusifs/'>
+        </a><a href='https://www.terra.com.br/especiais/black-friday/como-aproveitar-o-estoque-da-black-friday-na-cyber-monday,63a14d2fc98b5eca376bc3af6909a2bdzot36sw4.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Meilleures offres Cyber ​​​​Monday PS5 – Économisez gros sur ...</h3>
+                <h3>Como aproveitar o estoque da Black Friday na Cyber Monday</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTKiGKfTxLdXikwMprjsLrXY4g6kiPf1w8aXYwmqKUa002kU9gQrZjuJqXOqq49jvj57jEMZzg5" alt="Meilleures offres Cyber ​​​​Monday PS5 – Économisez gros sur ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Along with huge discounts on popular PlayStation games, you can save on controllers, headsets, and more accessories.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTi1fjthNqbemYWIz3XJdoZ5I2MfKheGh2Ab1YPrLuNW66C7drS_Zdo32kaKhpHKlmfLlhYSwbV" alt="Como aproveitar o estoque da Black Friday na Cyber Monday" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>De acordo com uma pesquisa realizada pela Neotrust, em parceria com a Compre&amp;Confie, o faturamento com as vendas da Cyber Monday em 2021 foi de R$ 827,4 milhões&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.gentside.com/style/manteau-pull-baskets-5-indispensables-pour-lautomne-a-prix-casse-pendant-le-cyber-monday_art102939.html'>
+        </a><a href='https://www.moneytimes.com.br/cyber-monday-confira-as-principais-promocoes-e-descontos-desta-segunda-feira/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Manteau, pull, baskets : 5 indispensables pour l&#39;automne à prix ...</h3>
+                <h3>Cyber Monday: Confira as principais promoções e descontos desta ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSXgjYlC-ZupmzXcZxE5IgWNICXZEO-9Wx6H7jI-Xe_ujCy4QVJKCBmTid7poFVGGiMHLMrEoeT" alt="Manteau, pull, baskets : 5 indispensables pour l&#39;automne à prix ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Le Cyber Monday est le moment de faire de bonnes affaires et de renouveler votre garde-robe. Voici les meilleurs deals à shopper sur H&amp;M.…</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQJsAx5Ve_DrPgOT2bHGByr3wV2CZGa-JqlOva-bGrIYbj3tV_Be-qxpVnIxE4NXCK04i76MVlw" alt="Cyber Monday: Confira as principais promoções e descontos desta ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Nesta segunda-feira, os consumidores podem aproveitar a Cyber Monday para aproveitar condições especiais de compra. Saiba mais.</p></div>
+            </div>
+        </a><a href='https://br.investing.com/analysis/cyber-monday-vencedores-de-longo-prazo-para-apostar-em-uma-recuperacao-do-setor-de-tecnologia-200453535'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Cyber Monday: Vencedores de longo prazo para apostar em uma ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRQT89tjUzVgZRQEN5TKCCXD9ZEoxwSiscMzgbYpJAScVJBxswKUUDu53oLuXvchiiKXtn-WnSY" alt="Cyber Monday: Vencedores de longo prazo para apostar em uma ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Análises de Ações por Daniel Shvartsman abrangendo: Microsoft Corporation, Adobe Systems Incorporated, VMware Inc, Broadcom Inc. Leia as Análises de Ações&nbsp;...</p></div>
+            </div>
+        </a><a href='https://passageirodeprimeira.com/ihg-cyber-monday-ganhe-ate-10-mil-pontos-bonus-a-cada-duas-diarias/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>IHG Cyber Monday! Ganhe até 10 mil pontos bônus a cada duas ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQfjSo6CEZl0IHKPdAJQtKr085QdDZTMPvKP8msdqKrza3l8Mqg83UsbgJmAJKd-JxVE07KwJi-" alt="IHG Cyber Monday! Ganhe até 10 mil pontos bônus a cada duas ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>O IHG One Rewards está oferecendo 10.000 pontos bônus a cada duas diárias em seus hotéis. Saiba como aproveitar!</p></div>
             </div>
         </a>
         </Template></>;

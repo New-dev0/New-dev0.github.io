@@ -11,14 +11,14 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Хорватия – Канада"/>
         <meta name="description" content="Trending News about Хорватия – Канада" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Хорватия – Канада</h1>
-            <Image width={800} height={500} src="https://img.championat.com/news2/social/0/93/4907631.jpg" alt="Хорватия – Канада"/>
+            <Image width={800} height={500} src="https://img.championat.com/news/social/c/36/4907975.jpg" alt="Хорватия – Канада"/>
             <h3>Recent News</h3>
-            <a href='https://www.championat.com/football/news-4907631-horvatiya-kanada-startovye-sostavy-komand-na-match-chm-2022.html'>
+            <a href='https://www.championat.com/football/article-4907975-horvatiya-kanada-4-1-obzor-i-statistika-matcha-27-noyabrya-2022-goda-chempionat-mira-po-futbolu.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Хорватия — Канада: стартовые составы команд на матч ЧМ-2022</h3>
+                <h3>Хорваты разнесли Канаду после оскорблений их тренера ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQWDWom-JGArxajQvuDxpDQOmLROGxCYArK407Uu0O4XX5bIDHkBfj2IWpZhGiz3My9V_5UVtCm" alt="Хорватия — Канада: стартовые составы команд на матч ЧМ-2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Сегодня, 27 ноября, состоится матч 2-го тура группового этапа чемпионата мира, в котором сыграют сборные Хорватии и Канады. Встреча пройдёт на стадионе&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ-Ce_dDVipDO3LibM-Q1k2rtgxcVAjgBzNuTHz1x0rMZjldA_TocRVW9hLVp9xuNIp3H52_h1F" alt="Хорваты разнесли Канаду после оскорблений их тренера ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Финалисты ЧМ-2018 разгромили «кленовых». Перед матчем сборных Хорватии и Канады вспыхнул скандал. Его спровоцировал неосторожным высказыванием коуч канадцев&nbsp;...</p></div>
             </div>
         </a><a href='https://www.sport-express.ru/football/world/2022/news/horvatiya-kanada-lovro-mayer-zabil-v-dobavlennoe-vremya-2004251/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -34,19 +34,19 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQEQJstm8I-WoFkdy9G7VHRKilIQGeyh_aDsqo9mF8wn0uHZg99R4ZC6FGGoBr4W6R2g1PBKVqs" alt="Хорватия — Канада" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>На этом будем прощаться, пожелаем сборной Канады побед в следующих матчах турнира. А команду Хорватии поздравляем с победой! Онлайн матча для вас провел&nbsp;...</p></div>
             </div>
-        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1731925_Horvatija__Kanada__12_kanadcy_proveli_dvojnuju_zamenu_v_pereryve_matcha_ChM_2022'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Хорватия — Канада — 1:2: канадцы провели двойную замену в ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSM8N5aiqAvSqKvaLK1X09mnIuakyy6sOTaRUspL9GQhWpgfOzpdDRtIrDigWuQAtGiY9IwqbqC" alt="Хорватия — Канада — 1:2: канадцы провели двойную замену в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Сборная Канады провела двойную замену в перерыве матча чемпионата мира‑2022 с командой Хорватии.</p></div>
-            </div>
         </a><a href='https://www.sports.ru/football/1113639740-xorvatiya-kanada-startovye-sostavy-komand-na-match-chempionata-mira-po.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Хорватия — Канада: стартовые составы команд на матч ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTooClkZ336-J-iYE_wlszJMsAalmsqsG8zSQ1I8x5wli0IzgYqs001WkGfNaiHqO4P7Hu7KrND" alt="Хорватия — Канада: стартовые составы команд на матч ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR5rNYE2EGxxvbch9Pr2zKbwjR8k02wAX6INq4PYgOG-1eN-Cq08HTX8YnNRSK-kCod6EURVWms" alt="Хорватия — Канада: стартовые составы команд на матч ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Хорватия — Канада: стартовые составы команд на матч Чемпионата мира по футболу 2022 ... В заключительном матче второго тура группового этапа в группе F на&nbsp;...</p></div>
+            </div>
+        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1731949_Horvatija__Kanada__21_Petkovich_zamenil_Livajju_u_khorvatov_na_60_j_minute_matcha_ChM_2022'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Хорватия — Канада — 2:1: Петкович заменил Ливайю у хорватов ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTxx3BbsVuNFFx5bopTdp5O8FKqv1VFozGQcfDmTrAi_a3gSPD3lBgSUbZgYKy9OtOsc42ZnsiT" alt="Хорватия — Канада — 2:1: Петкович заменил Ливайю у хорватов ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сборная Хорватии провела замену на 60‑й минуте матча чемпионата мира‑2022 с командой Канады.</p></div>
             </div>
         </a><a href='https://www.sportsdaily.ru/news/khorvatiya-kanada-prognoz-na-match-chempionata-mira-27-noyabrya-ot-olimpbet'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

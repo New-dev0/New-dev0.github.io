@@ -11,70 +11,28 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,ジャパンカップ"/>
         <meta name="description" content="Trending News about ジャパンカップ" /></Head><Template>
             <h1 style={{fontSize: "30"}}>ジャパンカップ</h1>
-            <Image width={800} height={500} src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/netkeiba.png" alt="ジャパンカップ"/>
+            <Image width={800} height={500} src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221127-00020986-tspkeiba-000-1-view.jpg?exp=10800" alt="ジャパンカップ"/>
             <h3>Recent News</h3>
-            <a href='https://news.netkeiba.com/?pid=news_view&no=214673'>
+            <a href='https://news.yahoo.co.jp/articles/b5e49c91957270fff6a26e640dadd701cdb48341'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>【ジャパンCレース後コメント】ヴェラアズール R.ムーア騎手ら ...</h3>
+                <h3>【ジャパンカップ】ルメールお手上げ…絶好枠が〝災い〟７着 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSS5myGXtCAXO1h8rKc2oQDx1pEmTaz6p6k_YYSVJf8nIXD7ZdNGXIUK0dF7xsuwFG9rHwIE0DT" alt="【ジャパンCレース後コメント】ヴェラアズール R.ムーア騎手ら ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>東京12Rの第42回ジャパンカップ(3歳以上GI・芝2400m)は3番人気ヴェラアズール(R.ムーア騎手)が勝利した。勝ちタイムは2分23秒7(良)。3／4馬身差の2着に1番人気&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSy6DkgmWkZWgI2PVUf-CMxabVDAXYxHtWlM5meE64hBvb9gZVzR7uVuHa1Nhc5zoSLfZdSS9A7" alt="【ジャパンカップ】ルメールお手上げ…絶好枠が〝災い〟７着 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>ＧⅠジャパンカップ＝２０２２年１１月２７日（日曜）３歳上、東京競馬場、芝２４００メートル］ フランスから参戦したオネストはグランドグローリーに次ぐ７着に&nbsp;...</p></div>
             </div>
-        </a><a href='https://news.yahoo.co.jp/articles/d7e1d5b9370f4df6f66855146209e35787368dbb'>
+        </a><a href='https://news.yahoo.co.jp/articles/60035e55d208d59a8f4a4f645add66f00cab9487'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ヴェラアズールがG1優勝 競馬のジャパンカップ（共同通信）</h3>
+                <h3>【ジャパンカップ・ラップ回顧】スローペース決着でも〝価値あり ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSqOUouQkTnBmdAJ4WZc2fYsK8py_PrORJetWS36ANvU4meTEgeCTSEnwTwbpkcotM7HWisdFiz" alt="ヴェラアズールがG1優勝 競馬のジャパンカップ（共同通信）" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>第42回ジャパンカップ（27日・東京12R2400メートル芝18頭、G1）3番人気のヴェラアズール（ライアン・ムーア騎乗）が2分23秒7で優勝し、G1初制覇を果たすとともに1着&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTKO4HO-BMBD7L9yY9HU96cm52dCp0VcgViZq2rsxP9bxiCupy8utigUtnp15hbUr96aKq4EeUe" alt="【ジャパンカップ・ラップ回顧】スローペース決着でも〝価値あり ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>ＧⅠジャパンＣ＝２０２２年１１月２７日（日曜）３歳上、東京芝２４００メートル］ 明石 直前の３勝クラス（ウェルカムＳ）はジャックドールが勝った前年よりコンマ６&nbsp;...</p></div>
             </div>
-        </a><a href='https://news.yahoo.co.jp/articles/80736800bdf3af351bffc96248cc65b93d98b43f'>
+        </a><a href='https://news.netkeiba.com/?pid=news_view&no=214686'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>日曜メインレースの注目激走馬…東京１２Ｒジャパンカップ・Ｇ１ ...</h3>
+                <h3>【ジャパンC】パリ大賞覇者オネストは7着 ルメール「アンラッキー ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ31hvYQfwy3paT3qPScT_iCgwMz4C90VOXOwRSc3EtxNzyqz5J53aYDGidm_CB48ZYCzexBsRc" alt="日曜メインレースの注目激走馬…東京１２Ｒジャパンカップ・Ｇ１ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>東京１２Ｒジャパンカップ・Ｇ１・馬トク激走馬＝オネスト ２００５年のアルカセット以来の外国馬Ｖを目指すフランケル産駒の３歳牡馬。デビューから８戦して３勝。</p></div>
-            </div>
-        </a><a href='https://news.yahoo.co.jp/articles/b512d72e43269a4fa7d56f6a9a578de2068dfcf2'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>【競馬】「ジャパンカップ」の歴代優勝馬人気ランキング！ 第1位は ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRaE9i1qbHt3boNZFs-47MIxVQXbiLao2WwdSb4B5NJ5crg19IJH0Xml8xI2jIlhXky6NJkWpqB" alt="【競馬】「ジャパンカップ」の歴代優勝馬人気ランキング！ 第1位は ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>第2位は「コントレイル」でした。2019年から2021年にかけて活躍した競走馬で、1984年の「シンボリルドルフ」、2005年の父「ディープインパクト」に続き、日本競馬史上3頭目&nbsp;...</p></div>
-            </div>
-        </a><a href='https://sports.yahoo.co.jp/video/player/8752632'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>【GⅠレース】ジャパンカップ 11/27 (日) 東京競馬場 - スポーツナビ ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS0JRIqxh4q_Lh1Fb9j5JfYwEqVdmT8htsl8lfpTYcHqFOX0-fE0HMptg8bJbXcXFU9qEADhFn-" alt="【GⅠレース】ジャパンカップ 11/27 (日) 東京競馬場 - スポーツナビ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>【GⅠレース】ジャパンカップ 11/27 (日) 東京競馬場 -「JRA 日本中央競馬会」の動画再生ページです。</p></div>
-            </div>
-        </a><a href='https://news.netkeiba.com/?pid=news_view&no=214610'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>薄井しお里のとっておきの穴馬見つけた!…ジャパンカップ・G1 ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR0ai1tPixO3znfyQa-EZ60X4Boh0FU6gq7XNLPF0GscJEfBVJqlODmurEsklgNel-8AwcBjY7x" alt="薄井しお里のとっておきの穴馬見つけた!…ジャパンカップ・G1 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>みなさんこんにちは！薄井しお里です。 最近、家で映画をよく観ます。映画が好きというよりも音楽が好きで、歌や音楽が多めの映画や映像が好きです。</p></div>
-            </div>
-        </a><a href='https://www.sankei.com/article/20221127-FFHAVZF3GNLWPMEQQEOO2YFPLU/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ヴェラアズールが優勝 競馬のジャパンカップ</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRCveC6czrOVZMrGIn0Fgz8zB4PYx2_DnjcHuInMchdmoECfhSkUxrcS5WQQ7GQ7lx8OvLKu7bc" alt="ヴェラアズールが優勝 競馬のジャパンカップ" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>競馬の第４２回ジャパンカップ（ＧⅠ）は２７日、東京競馬場（１２Ｒ、芝２４００メートル）で１８頭が出走して行われ、３番人気のヴェラアズール（ライアン・ムーア&nbsp;...</p></div>
-            </div>
-        </a><a href='https://tospo-keiba.jp/breaking_news/23900'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>【ジャパンカップ】「異色のキャリア」で頂点に立ったヴェラ ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS7IY0AilOBdc-Yu-Ipx185ZShUAUhUjMppXX48CXh7r5W66YEeNTa3UBCzb5ehvX2dA7PsvEAC" alt="【ジャパンカップ】「異色のキャリア」で頂点に立ったヴェラ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>２７日、東京競馬場で行われた第４２回ＧⅠジャパンカップは、ムーア騎乗で３番人気のヴェラアズール（牡５・渡辺）が優勝。１７年以来、５年ぶりとなる外国馬４頭が参戦&nbsp;...</p></div>
-            </div>
-        </a><a href='https://dir.netkeiba.com/keibamatome/detail.html?no=2502'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>【ジャパンカップ 結果情報】名手の激励に応えヴェラアズールが ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRVx5YNVSwasd0-B4diq7SzczUxpLiS2eDav16Lzio6ba4BRvfuaY0Fgf06iW79Dh_W7k3W7J6X" alt="【ジャパンカップ 結果情報】名手の激励に応えヴェラアズールが ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>第42回 ジャパンカップ（2022年11月27日 G1 東京 芝2400m）はユニコーンライオンが先手を取り馬群が一団となり進む中、中団でレースを進めたR.ムーア騎手騎乗の3番人気&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRs91JLl2waHclC-Jq32LC0o7-MMknHdthdRVgKA_bfTU00ZPFsorHW21SA_QGlIGIdj7P8GJBf" alt="【ジャパンC】パリ大賞覇者オネストは7着 ルメール「アンラッキー ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>G1・ジャパンカップ(2022年11月27日 東京芝2400メートル) 国内外の強豪が集った一戦は、ヴェラアズール(牡5＝渡辺)が制し、G1初制覇を飾った。</p></div>
             </div>
         </a>
         </Template></>;

@@ -11,49 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Ferran Torres"/>
         <meta name="description" content="Trending News about Ferran Torres" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Ferran Torres</h1>
-            <Image width={800} height={500} src="https://boerse-express.com/public/images/socialshare/share_placeholder.jpg" alt="Ferran Torres"/>
+            <Image width={800} height={500} src="https://cdn.vox-cdn.com/thumbor/tQVy38fx10s6Bo_8mRj3jdPedFE=/0x430:6000x3571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24233116/1245024793.jpg" alt="Ferran Torres"/>
             <h3>Recent News</h3>
-            <a href='https://www.boerse-express.com/news/articles/luis-enrique-droht-ferran-torres-bei-jubel-526996'>
+            <a href='https://www.bavarianfootballworks.com/2022/11/28/23481600/world-cup-watch-spain-boss-luis-enrique-sends-massive-warning-ferran-torres-costa-rica-japan-germany'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Luis Enrique &quot;droht&quot; Ferran Torres bei Jubel</h3>
+                <h3>Luis Enrique has select words for Ferran Torres</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTEOxHWXfeTmwv7A4-p2TmPG1PHpKglXeIQ1shhtb29qokOTTE0Ag0NcCSisH96KsuTIszzfEeb" alt="Luis Enrique &quot;droht&quot; Ferran Torres bei Jubel" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Spaniens Teamchef Luis Enrique hat seinem Stürmer und potenziellen Schwiegersohn Ferran Torres scherzhaft gedroht. Im Video-Livestream mit Fans auf Twitch&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTfu37qUbEIIMIo-XfNQ6KBcVVALxIMX4Eoc2zXJp3ZH21PmHTtKMZuhNsDKKS7oNHhCMNhVzi2" alt="Luis Enrique has select words for Ferran Torres" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Now what&#39;s this got to do with everything? Simple: Ferran Torres is dating Sima Martinez, Luis Enrique&#39;s own daughter! World Cup 2022 - Spain - Germany&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.kleinezeitung.at/sport/fussball/wm/6220508/Mit-Luis-Enriques-Tochter-liiert_Wenn-Ferran-Torres-den'>
+        </a><a href='https://www.thesun.co.uk/sport/20568343/ferran-torres-girlfriend-sira-martinez-luis-enrique-spain/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Wenn Ferran Torres den Schnuller-Jubel macht, wird er vom Platz ...</h3>
+                <h3>Who is Ferran Torres&#39; girlfriend Sira Martinez and is she related to ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQaI31nJ0GTzMUspDsO2pXr9-YJMWQuzM2YOdKCC18lKqKtFKkfZjyhsLUUw_IA4EUl1kASjCBo" alt="Wenn Ferran Torres den Schnuller-Jubel macht, wird er vom Platz ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Spaniens Teamchef Luis Enrique hat seinem Stürmer und potenziellen Schwiegersohn Ferran Torres scherzhaft gedroht.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTcAZwCEMCa2ZBdr5HZp79pAO3nve7XtVDfFNICWhiAEKozunBX9SZZBrHPRFIdyaVQnP8IWdo7" alt="Who is Ferran Torres&#39; girlfriend Sira Martinez and is she related to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>SIRA MARTINEZ is the stunning girlfriend of Spain and Barcelona star Ferran Torres.The couple first began their relationship in 2021.Torres, 22, playe.</p></div>
             </div>
-        </a><a href='https://www.bild.de/sport/fussball/fifa-wm-2022/fussball-wm-2022-spanien-trainer-droht-ferran-torres-bei-schnuller-jubel-82070574.bild.html'>
+        </a><a href='https://sportsbrief.com/football/barcelona/28842-luis-enrique-fires-warning-spain-superstar-dating-daughter/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Fußball WM 2022: Spanien-Trainer droht Ferran Torres bei ...</h3>
+                <h3>Luis Enrique Fires Warning At Spain Superstar Who Is Dating His ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQULtQiHS71_DEJjOZdhj-943338kC2UwoAUwJc8OX9F-qXuY04DP3X7OCIaZQfOzpM8yu-XM9u" alt="Fußball WM 2022: Spanien-Trainer droht Ferran Torres bei ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Spaniens Nationaltrainer Luis Enrique freut sich über jeden Volltreffer von Ferran Torres. Na ja. Nicht ganz. Denn er ist mit seiner Tochter liiert.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRNnEal5tUAOmIRteFHfGOlEFb-SHNiAiuIerEdWqZFBM1FQv0GRS93k8uznzRSCMtDpxgWAeYD" alt="Luis Enrique Fires Warning At Spain Superstar Who Is Dating His ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>SportsBrief.com News - Luis Enrique is well aware of the fact that Spain forward Ferran Torres is dating his daughter Sira, and recently issued a hilarious&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sport1.de/news/fussball/wm/2022/11/wm-2022-luis-enrique-droht-ferran-torres-bei-daumen-jubel-mit-rauswurf'>
+        </a><a href='https://www.sportsmanor.com/soccer-news-who-is-ferran-torres-girlfriend-sira-martinez/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>WM 2022: Luis Enrique &quot;droht&quot; Ferran Torres bei Daumen-Jubel mit ...</h3>
+                <h3>Who Is Ferran Torres&#39; Girlfriend, Sira Martinez? - Sportsmanor</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRQBsXpPWkfNk_kftaQWJxZp-9mHdsUoujbRscTlOsOB2JUMfqsaQwgrd4ymRioiTHuJYe465ScbQ" alt="WM 2022: Luis Enrique &quot;droht&quot; Ferran Torres bei Daumen-Jubel mit ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Luis Enrique droht einem seiner Superstars im Scherz mit einem Rauswurf. Das hat einen familiären Hintergrund.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQIbIJUU2PNaYZnlM0YGLm5_QhMjTolWXsnHwgYgl0QhqnDpbMWjPBIIPxPCWgiOUkYcVO4ALxr" alt="Who Is Ferran Torres&#39; Girlfriend, Sira Martinez? - Sportsmanor" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>All you need to know about Sira Martinez, the Spanish equestrian who is currently dating Barcelona youngster Ferran Torres.</p></div>
             </div>
-        </a><a href='https://www.t-online.de/sport/fussball/wm/id_100087334/spanischer-coach-enrique-droht-dieser-jubel-von-ferran-torres-haette-folgen.html'>
+        </a><a href='https://sportsfinding.com/the-ideal-plan-of-ferran-torres-and-sira-martinez-before-the-spain-germany-match-i-love-you/166139/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Spanischer Coach Enrique &quot;droht&quot;: Dieser Jubel von Ferran Torres ...</h3>
+                <h3>The ideal plan of Ferran Torres and Sira Martínez before the Spain ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTpYYTGhNp9ZwqlvPyhiMxxcwZK53zW5vMvNqJb4hIKOSayJ2xlMk5zeYVRurHquWxE48izQFsd" alt="Spanischer Coach Enrique &quot;droht&quot;: Dieser Jubel von Ferran Torres ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Die Tochter von Luis Enrique und Stürmer Ferran Torres sind ein Paar. Für den spanischen Coach so weit kein Problem. Doch eine Aktion würde ihn ärgern.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQks4kOhlWvAVjE5kp1Rx_o9rTESXhkUvSnUagPXZrB-jMovDq2kv046z04OBKmlf2-STzdql0j" alt="The ideal plan of Ferran Torres and Sira Martínez before the Spain ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Luis Enrique summoned his son-in-law with the Spanish National Team and now the whole family is living together in Qatar while the soccer world cup is&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.berliner-kurier.de/fussball/wm-katar/spanien-stuermer-liebt-trainer-tochter-torres-droht-der-wm-rauswurf-wenn-er-falsch-jubelt-li.291052'>
+        </a><a href='https://www.si.com/fannation/soccer/futbol/news/luis-enrique-posts-emotional-message-for-late-daughter-xana'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Spanien-Stürmer liebt Trainer-Tochter: Torres droht der WM ...</h3>
+                <h3>Spain Manager Luis Enrique Posts Emotional Message For Late ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTTspE_Rs2oVwY7He5KFMGfqLolMlX23hrQm3D7w_oXmd35tRNIWS_DVwChMjth6kfqSCfnxDxg" alt="Spanien-Stürmer liebt Trainer-Tochter: Torres droht der WM ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Spaniens Nationaltrainer Luis Enrique hat vor dem Spiel gegen Deutschland seinem Angreifer und potenziellen Schwiegersohn Ferran Torres scherzhaft gedroht,&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQXqrUTcKVbPrCR7HIclAq6irT6y0dBIuPWFgo0c_k2nPTto5TcgA8I3W6qrxNAQhd_AQgQfB1g" alt="Spain Manager Luis Enrique Posts Emotional Message For Late ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Spain manager Luis Enrique took to Instagram on the morning of his side&#39;s World Cup game against Germany to talk about his daughter Xana, who died in 2019.</p></div>
+            </div>
+        </a><a href='https://www.fourfourtwo.com/news/luis-enrique-in-touching-tribute-to-tragic-daughter-xana-ahead-of-spain-vs-germany'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Luis Enrique in touching tribute to tragic daughter Xana ahead of ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT2BXNmRU0oNxtJMN0ES7-J0UgEanhDx0DT2N5qEONehK4vaFZYwnwNABIXdd_m0gvP4vsUxUn5" alt="Luis Enrique in touching tribute to tragic daughter Xana ahead of ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Spain coach Luis Enrique used his Instagram account to wish a happy birthday to his daughter, who tragically passed away in 2019.</p></div>
             </div>
         </a>
         </Template></>;

@@ -11,49 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Brazil vs Switzerland"/>
         <meta name="description" content="Trending News about Brazil vs Switzerland" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Brazil vs Switzerland</h1>
-            <Image width={800} height={500} src="https://www.sportsmole.co.uk//b.smimg.net/22/45/brazil.JPG" alt="Brazil vs Switzerland"/>
+            <Image width={800} height={500} src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt0bdd19507b0ee80a/638165ca678f637cf694afa0/winner_richarlison_brazil_vs_manuel_akanji_switzerland.jpg" alt="Brazil vs Switzerland"/>
             <h3>Recent News</h3>
-            <a href='https://www.sportsmole.co.uk/football/brazil/world-cup-2022/feature/world-cup-2022-brazil-vs-switzerland-head-to-head-record_500732.html'>
+            <a href='https://www.goal.com/en-gb/news/brazil-vs-switzerland-lineups-and-live-updates/blt595dc156c0634caf'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022: Brazil vs. Switzerland head-to-head record</h3>
+                <h3>Brazil vs Switzerland: Lineups and LIVE updates</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT9sYP1yyft3q9YrFd1npF10LKV_fM9fgHl8vVL2W6xFQ_RAG1CSEsPuAwrshgJq43lOmN_Yw6F" alt="World Cup 2022: Brazil vs. Switzerland head-to-head record" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ahead of Monday&#39;s World Cup clash between Brazil and Serbia, Sports Mole looks back at the previous meeting between the two sides.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTGWsdJ-lmTxgKXYh8frdCKifKW2wruDeHO-awKIr95ZkjjkYG19litgDMovIuRvSTN4zIqZIl4" alt="Brazil vs Switzerland: Lineups and LIVE updates" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Can Brazil come on top in the absence of Neymar? Brazil will face off against Switzerland in their second group stage game at the Stadium 974 - Ras Abu Aboud.</p></div>
             </div>
-        </a><a href='https://www.cbssports.com/soccer/news/world-cup-2022-brazil-vs-switzerland-start-time-betting-odds-line-expert-picks-fifa-predictions-bets/'>
+        </a><a href='https://www.goal.com/en/news/brazil-vs-switzerland-live-stream-tv-kick-off-time-where-to-watch/bltf23447af3c7d2c21'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022 Brazil vs. Switzerland start time, betting odds, line ...</h3>
+                <h3>Brazil vs Switzerland: Live stream, TV channel, kick-off time &amp; where ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQeES7noLO2y6axqNlxmfIkCJ_XMbCyx0G2qYGQWqVIRThHlcx2BXY2y_3HCc_tC0nEIFtp0DwM" alt="World Cup 2022 Brazil vs. Switzerland start time, betting odds, line ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Soccer expert Martin Green has locked in his 2022 World Cup picks and predictions for Switzerland vs. Brazil in Group G play.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTBYR6WPDSa2bKnDdSDdNigM7AjdW9yh4RsaXdHvGrDYB9hhhCPRi9A1cH4buJtR1iibPPl47RQ" alt="Brazil vs Switzerland: Live stream, TV channel, kick-off time &amp; where ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>How to watch Brazil vs Switzerland World Cup 2022 game, including kick-off time &amp; team news.</p></div>
             </div>
-        </a><a href='https://www.sportingnews.com/us/soccer/news/brazil-vs-switzerland-prediction-world-cup-odds-betting-tips-2022/o2xlkloddugvkuzumlqetlfw'>
+        </a><a href='https://theathletic.com/live-blogs/brazil-vs-switzerland-world-cup-2022-live-score-updates-result/YVvTnWI7Fgkr/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brazil vs Switzerland prediction, odds, betting tips and best bets for ...</h3>
+                <h3>World Cup result: How Brazil qualified for the round of 16 with 1-0 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSaEh60uHZJ7zL6HvVQuDDigCqR1yZeUnUiHrlSg7-Bnp0xIGNIAn8uq7zRuIa_N-hACxdQIskY" alt="Brazil vs Switzerland prediction, odds, betting tips and best bets for ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brazil will face arguably their biggest Group H test without their best player as they match up against Switzerland while the injured Neymar watches on.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSLQVOMQvvFaC4bSsD7Sp1QL03jekb270R_c2mV-bVyi_PTsAzS4UxlKWMUoqJXtFdGK0QhO45B" alt="World Cup result: How Brazil qualified for the round of 16 with 1-0 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Brazil face Switzerland in their second match of Group G at the World Cup. After a quiet first-half, Vinicius had a goal disallowed after 67 minutes for&nbsp;...</p></div>
             </div>
-        </a><a href='https://khelnow.com/football/2022-11-world-football-fifa-world-cup-brazil-vs-switzerland-predicted-lineupinjury-news-head-to-head'>
+        </a><a href='https://www.espn.com/soccer/fifa-world-cup/story/4818230/brazil-advance-to-round-of-16-as-casemiro-goal-edges-switzerland'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brazil vs Switzerland: Predicted lineup, Injury news, head-to-head</h3>
+                <h3>Brazil advance to round of 16 as Casemiro&#39;s goal edges Switzerland</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQIsvkqHDSs7zdzy9GBuwxZartfW4u891Nf1CbaVXsV04Arluw0z4XsXYe9RfpoiRwSHR1zg2Xa" alt="Brazil vs Switzerland: Predicted lineup, Injury news, head-to-head" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>World Cup 2022 features this week Switzerland locking horns with Tite&#39;s formidable Brazil in an important Group G clash at Stadium 974.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQbg3Is0ejc5xM4qMBAoosI-NmmVqL5Nv7Tu2Fb9omdu6VQNbT-XfBqnZeYTK-w5u_FO0WX-lYh" alt="Brazil advance to round of 16 as Casemiro&#39;s goal edges Switzerland" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Despite missing Neymar to injury, Brazil were able to clinch their spot in the round of 16 with a game to play in the group stage.</p></div>
             </div>
-        </a><a href='https://nypost.com/2022/11/27/brazil-vs-switzerland-odds-prediction-for-2022-world-cup/'>
+        </a><a href='https://www.sportingnews.com/au/soccer/news/brazil-vs-switzerland-world-cup-live-score-result/tmfjdutadwsb8np0kcluty6x'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brazil vs. Switzerland odds, prediction for 2022 World Cup</h3>
+                <h3>Brazil vs. Switzerland final score, result: Late Casemiro goal takes ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRgs9HrQFPTdV0PgxTU3d6cB49jPcOka2jlTeC0m3XBe0NQPQ5uAQMvM1vBFzuBtj_0x_JYWKh7" alt="Brazil vs. Switzerland odds, prediction for 2022 World Cup" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Here&#39;s the bet to make for Brazil&#39;s 2022 World Cup group stage match against Switzerland on Monday, with odds and a prediction.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTi9EklDxDCKgubU14nxD8HPu0seNXdFFzHNzLgm6Gl1ORu1sBCcJYGtXQtq2Z8-JcDLZplCRTG" alt="Brazil vs. Switzerland final score, result: Late Casemiro goal takes ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The World Cup favorites finally broke Switzerland&#39;s resolve, a late Casemiro goal securing a victory that took Brazil through from Group G.</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-us/news/brazil-vs-switzerland-predictions-tips-and-betting-odds/blt2ed2ce1b1e7957c5'>
+        </a><a href='https://www.football.london/international-football/brazil-vs-switzerland-prediction-odds-25623152'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brazil vs Switzerland: Predictions, tips &amp; betting odds</h3>
+                <h3>Brazil vs Switzerland betting preview</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTjpablHxn1ivURRwr-XYBfLhY7iyMDzpc3yrpd0ytLh2rBWwa4bKeDHHqKKpVhH2utO1xH03Gi" alt="Brazil vs Switzerland: Predictions, tips &amp; betting odds" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brazil and Switzerland are looking to book their place in the knockout stages of the World Cup when they meet on Monday.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRwZXIAr7LjuYaRkM4dORhH-oroKSI8q24mlyPxnfqVxy9R99fvD2VagF1YJS7mC4wRMck75HMA" alt="Brazil vs Switzerland betting preview" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Inside Track brings you the best in betting tips and predictions throughout the 2022 FIFA World Cup in Qatar as Brazil face Switzerland in Group G.</p></div>
             </div>
         </a>
         </Template></>;

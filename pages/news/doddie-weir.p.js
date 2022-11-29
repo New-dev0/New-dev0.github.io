@@ -11,56 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Doddie Weir"/>
         <meta name="description" content="Trending News about Doddie Weir" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Doddie Weir</h1>
-            <Image width={800} height={500} src="https://static.actu.fr/uploads/2022/11/doddie-weir-ecosse-rugby.jpg" alt="Doddie Weir"/>
+            <Image width={800} height={500} src="https://i.guim.co.uk/img/media/8dd721d0fa47b3f77a94facb1294a33c5c85152e/0_115_3072_1842/master/3072.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb94660d7826077f01f3b0427d0d414a" alt="Doddie Weir"/>
             <h3>Recent News</h3>
-            <a href='https://actu.fr/sports/rugby/pro/rugby-doddie-weir-ancien-deuxieme-ligne-international-ecossais-est-decede_55500881.html'>
+            <a href='https://www.theguardian.com/sport/2022/nov/28/doddie-weir-obituary'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Rugby. Doddie Weir, ancien deuxième ligne international écossais ...</h3>
+                <h3>Doddie Weir obituary</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSrxmqKXQBxUpkOTzQLNNnXNK1zuNqPwUcqjoBevy1jzXHkOQoUbYt1HdCelOlH-S3gz7NPUMJu" alt="Rugby. Doddie Weir, ancien deuxième ligne international écossais ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>RUGBY. L&#39;ancien deuxième ligne écossais Doddie Weir (61 sélections) est décédé ce samedi à 52 ans des suites de la maladie de Charcot.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQFkO2-wQnjaEkyfowP0lWKKT4Dow7wGQNn8rOi_54hsTyByJSz1ci5mc0Z1Tre2srjeO-KPaJf" alt="Doddie Weir obituary" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Scotland and Lions rugby player who became a campaigner after being diagnosed with motor neurone disease.</p></div>
             </div>
-        </a><a href='https://www.lerugbynistere.fr/news/rugby-lovalie-rend-hommage-a-doddie-weir-legende-ecossaise-decedee-a-52-ans-2711221733.php'>
+        </a><a href='https://www.news24.com/sport/rugby/scottish-rugby-legend-doddie-weir-dies-aged-52-20221126'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>RUGBY. L&#39;ovalie rend hommage à Doddie Weir, légende écossaise ...</h3>
+                <h3>Scottish rugby legend Doddie Weir dies aged 52</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQdLbiB6HcbYfLfmb4Xx6OV3JECp0wf-W_IoWCTLKSl7B2N0Y2yxxYZ7Utl8teP6OAVOjgJup0JAw" alt="RUGBY. L&#39;ovalie rend hommage à Doddie Weir, légende écossaise ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Depuis l&#39;annonce de son décès samedi 26 novembre au soir, les hommages se multiplient autour de Doddie Weir.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRGEGECiiIvnAYXQDWKW7KXVGCjmkc79Q8c4AfnNWfiklCrtBy4qDa-50_Axj8lzjPQDq4J1N8g" alt="Scottish rugby legend Doddie Weir dies aged 52" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Former Scottish rugby international Doddie Weir has died at the age of 52 after a long battle with Motor Neurone Disease, his family announced.</p></div>
             </div>
-        </a><a href='https://www.rugbyrama.fr/rugby/carnet-noir-doddie-weir-et-sa-croisade-je-ne-veux-pas-inspirer-la-pitie._sto9245418/story.shtml'>
+        </a><a href='https://www.skysports.com/rugby-union/news/12321/12756274/doddie-weir-rob-burrow-hails-mnd-hero-as-tributes-pour-in-for-warrior-scotland-rugby-legend'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Carnet noir - Doddie Weir et sa &quot;croisade&quot; : &quot;Je ne veux pas inspirer ...</h3>
+                <h3>Doddie Weir: Rob Burrow hails &#39;MND hero&#39; as tributes pour in for ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQwQyb9hVqjKg0Ko333w5BewlQpD-yyJIBCD3RJuET76-jJ0K-UIpzAgnDyiluTudIs5Sez9nLZ" alt="Carnet noir - Doddie Weir et sa &quot;croisade&quot; : &quot;Je ne veux pas inspirer ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>CARNET NOIR - Doddie Weir est décédé ce samedi à l&#39;âge de 52 ans des suites d&#39;une maladie neurodégénérative. L&#39;occasion de se replonger dans cette rencontre&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQLePQ42odN1a7knsA2olN1NYJe09XA_5RUyer4uML2GwGovi83TrBW-RHz3ECy2OwDoUXa3Uoo" alt="Doddie Weir: Rob Burrow hails &#39;MND hero&#39; as tributes pour in for ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Fellow motor neurone disease sufferer and campaigner Rob Burrow paid tribute to an inspirational &quot;warrior&quot; Doddie Weir following his death at the age of 52.</p></div>
             </div>
-        </a><a href='https://www.20minutes.fr/sport/rugby/4012028-20221127-rugby-symbole-lutte-contre-maladie-charcot-ancien-international-ecossais-doddie-weir-decede'>
+        </a><a href='https://www.express.co.uk/life-style/health/1702680/doddie-weir-mnd-research-funding-grant-shapps'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Rugby : Symbole de la lutte contre la maladie de Charcot, l&#39;ancien ...</h3>
+                <h3>&#39;Red tape&#39; holding back funds to fight disease that killed Doddie Weir</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQRrDMa2ARNbvyfej9hX89hfN_WVw_ErR_Door50YmQJPKX37OZYLVfefCB06IsLE9hv5QUc2qt" alt="Rugby : Symbole de la lutte contre la maladie de Charcot, l&#39;ancien ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>L&#39;ancien international écossais Doddie Weir est décédé à l&#39;âge de 52 ans, a annoncé sa famille samedi. Il souffrait depuis plusieurs années de la maladie de&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTY0YQV9jxiyYRNJ6pdTVEfZ3EySrkLS2jUZVONsFUwEs69K6O9zpYQxMkQ6iF2yWcZ4URqv0tC" alt="&#39;Red tape&#39; holding back funds to fight disease that killed Doddie Weir" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Crucial funding for motor neurone disease research is being held back by &#39;red tape and bureaucracy&#39;, campaigners have said.</p></div>
             </div>
-        </a><a href='https://www.midi-olympique.fr/2022/11/27/carnet-noir-doddie-weir-digne-jusqua-son-ultime-souffle-10831435.php'>
+        </a><a href='https://www.standard.co.uk/sport/rugby/doddie-weir-alan-tait-newcastle-falcons-scotland-motor-neurone-disease-b1043252.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Carnet Noir - Doddie Weir, digne jusqu&#39;à son ultime souffle</h3>
+                <h3>Doddie Weir was a genuine one-off... his brilliant legacy will live on</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQWdu_Of0dtmjqt5aLUJgAiUXkj0jV-obHJzmZD27kEnwvYJrV17Ea1tWFMFV8eR1xPdiCrISBXVQ" alt="Carnet Noir - Doddie Weir, digne jusqu&#39;à son ultime souffle" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Samedi soir, on a appris que Doddie Weir, qui luttait depuis six ans contre la maladie de Charcot, venait de s&#39;éteindre dans sa maison de Galashiels,&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRK9VvC3YMvaxgG3bdXs_xMC4gnGCeOHDxLc43kMdNoCIkim603bxoAf68HhL4gcSueW6aYf0Xm" alt="Doddie Weir was a genuine one-off... his brilliant legacy will live on" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Alan Tait remembers friend and former team-mate Doddie Weir, who has died after a battle with motor neurone disease.</p></div>
             </div>
-        </a><a href='https://www.epcrugby.com/2022/11/27/lepcr-en-deuil-apres-le-deces-de-doddie-weir/'>
+        </a><a href='https://www.rugbypass.com/news/scotland-head-coach-townsend-pays-tribute-to-inspirational-doddie-weir/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>L&#39;EPCR en deuil après le décès de Doddie Weir</h3>
+                <h3>Scotland head coach Townsend pays tribute to &#39;inspirational&#39; Doddie ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ28hcw0vK2zKzNDRfMfccRzW4vyGUyu0vKtd46aDuzss7DXN1EoLvkdeP84OJUGdQC8AQkzeDI" alt="L&#39;EPCR en deuil après le décès de Doddie Weir" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>L&#39;EPCR a appris avec tristesse le décès de Doddie Weir, ancien joueur de l&#39;équipe d&#39;Ecosse et des Lions britanniques et irlandais, qui s&#39;est battu avec.</p></div>
-            </div>
-        </a><a href='https://www.lequipe.fr/Rugby/Actualites/Doddie-weir-ancien-international-ecossais-est-mort/1367028'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Doddie Weir, ancien international écossais, est mort</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQJiWhpIfrsT9m4OJJ7rxMgyGJbsbs_jH-JeJ80C1oB7So7JN4rEsaV-GCDSeJRd2nsOSa_jurD" alt="Doddie Weir, ancien international écossais, est mort" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Deuxième-ligne de la sélection écossaise dans les années 1990, Doddie Weir est mort ce samedi à l&#39;âge de 52 ans. Il était atteint de sclérose latérale&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS38_Pu1tIoEMD0dtm12m8YiSxB5ueTLFh4LputAUE7byfIzUN9x8jdp9Qjs7JOdhYv3eLx5tbr" alt="Scotland head coach Townsend pays tribute to &#39;inspirational&#39; Doddie ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Scotland head coach Gregor Townsend has spoken of the “huge legacy” former team-mate Doddie Weir will have following his death.</p></div>
             </div>
         </a>
         </Template></>;

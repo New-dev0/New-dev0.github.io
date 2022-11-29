@@ -11,49 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Nick Fuentes"/>
         <meta name="description" content="Trending News about Nick Fuentes" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Nick Fuentes</h1>
-            <Image width={800} height={500} src="https://i.guim.co.uk/img/media/0791f004467799af1640fb331118832c39da2076/0_103_2126_1275/master/2126.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=260bb2a096ec590ed8eb96aaddddc95a" alt="Nick Fuentes"/>
+            <Image width={800} height={500} src="https://media0.faz.net/ppmedia/aktuell/feuilleton/4152128630/1.8492122/facebook_teaser/neue-kampagne-alter-kandidat.jpg" alt="Nick Fuentes"/>
             <h3>Recent News</h3>
-            <a href='https://www.theguardian.com/us-news/2022/nov/26/trump-nick-fuentes-dinner-reaction'>
+            <a href='https://www.faz.net/aktuell/politik/ausland/treffen-mit-nick-fuentes-trump-ist-der-kandidat-der-antisemiten-18492124.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Trump condemned for dining with white supremacist Nick Fuentes</h3>
+                <h3>Dinner mit Nick Fuentes: Trump ist der Kandidat der Antisemiten</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ_w7OD3_mBHWvAY0Kq1LA8mVGCBzcqL47FjmqAYpqU98kK8rbcdRN6ahg8YwiVm8rbrn1m3Ui3" alt="Trump condemned for dining with white supremacist Nick Fuentes" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Democrats, anti-racist groups and some Republicans criticize president for meeting Fuentes at dinner with Kanye West.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTZlP5KC_i08KG9zPac_A-uK3bnPv0npiD9c6uuLNZYhGz_uZ0FqVuG6Xt_wGJl1Bl9VbWkrNva" alt="Dinner mit Nick Fuentes: Trump ist der Kandidat der Antisemiten" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Der frühere Präsident kultiviert seine angebliche Unbedarftheit. Doch er weiß ganz genau, dass Amerikas Rechtsradikale auf ihn setzen.</p></div>
             </div>
-        </a><a href='https://www.cnn.com/2022/11/25/politics/trump-kanye-west-nick-fuentes-mar-a-lago/index.html'>
+        </a><a href='https://www.rnd.de/politik/donald-trump-trifft-sich-mit-kanye-west-und-holocaust-leugner-nick-fuentes-Q4WFE2GAHJDHZFKAOZQJJQI2SM.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Trump hosted Holocaust denier at Mar-a-Lago estate during visit ...</h3>
+                <h3>Donald Trump trifft sich mit Kanye West und Holocaust-Leugner Nick ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSbgh7Qiv6WrqTl_np855V8YMuSrWWCY092WtOZ_m_196v7GbiVVAY0vpR3HeqM7jWYHeqC9GFT" alt="Trump hosted Holocaust denier at Mar-a-Lago estate during visit ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Former President Donald Trump hosted White nationalist and Holocaust denier Nick Fuentes and Kanye West at his private Mar-a-Lago estate this week,&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQDE-oNXy2SwNh6JhHQZi2Tu5oJbSODkOMTyuu_1BRLu8zmp-3gh-Uviv6pya7lNRul7GXWW4T6" alt="Donald Trump trifft sich mit Kanye West und Holocaust-Leugner Nick ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Der republikanische Präsidentschaftsbewerber Donald Trump fühlt sich vom rechtsextremen Holocaust-Leugner Nick Fuentes offenbar gut verstanden.</p></div>
             </div>
-        </a><a href='https://www.axios.com/2022/11/25/trump-nick-fuentes-ye-kanye'>
+        </a><a href='https://www.t-online.de/nachrichten/ausland/usa/id_100087940/nach-empfang-von-rassist-nick-fuentes-parteifreunde-kritisieren-trump.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Trump talks with white nationalist Nick Fuentes at Mar-a-Lago dinner</h3>
+                <h3>Nach Empfang von Rassist Nick Fuentes: Parteifreunde kritisieren ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSdnz0zJ3tuIGcCe4mGnclNmAmYd76JeFtAQbshW9Hb3twyjKy-QzxDs2QZAp8uyyz1Anqz2-sG" alt="Trump talks with white nationalist Nick Fuentes at Mar-a-Lago dinner" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Fuentes has been labeled a &quot;white supremacist&quot; by the Justice Department.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ35yFSyrx_fsuysyRoeM9fKDzaBLHm-PvHmJbni1bu1K2ajDdz9fC8g5abvptY0tlubW2ldVkh" alt="Nach Empfang von Rassist Nick Fuentes: Parteifreunde kritisieren ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kaum hat Trump seine Kandidatur fürs Weiße Haus erklärt, macht er mit zwielichtigen Dinner-Gästen von sich reden. Beschwerden kommen nun auch von seinen&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.forbes.com/sites/brianbushard/2022/11/26/nick-fuentes-meet-the-gen-z-white-supremacist-who-dined-with-trump-and-kanye-west/'>
+        </a><a href='https://www.spiegel.de/ausland/donald-trump-parteifreunde-kritisieren-ehemaligen-us-praesidenten-nach-empfang-von-nick-fuentes-a-7ddd0eea-fcc2-4eae-8988-86c4b2a01781'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Nick Fuentes: Meet The Gen-Z White Supremacist Who Dined With ...</h3>
+                <h3>Nach Empfang von bekanntem Rassisten: Parteifreunde kritisieren ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQJQBcxDArXwM3nIemYcZcn991NeewfP9GW2wnsBP8_ExNtWp6d_57TjBbJhASCtKQxlXpS8Wfm" alt="Nick Fuentes: Meet The Gen-Z White Supremacist Who Dined With ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Former President Donald Trump was heavily criticized for holding a meeting this week that included controversial artist Kanye West and Gen-Z political&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRfL7siV1dYy5fbLhdOVzVMhKZaGDyloX1yOYKNlmaKkxri8LAHK4lNoc7eOdkZYiVckq1IvMYS" alt="Nach Empfang von bekanntem Rassisten: Parteifreunde kritisieren ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Donald Trump hat auf seinem Anwesen Mar-a-Lago neben dem Rapper Kanye West auch Nick Fuentes begrüßt, einen prominenten Rassisten.</p></div>
             </div>
-        </a><a href='https://www.politico.com/news/2022/11/25/trump-white-nationalist-nick-fuentes-kanye-00070825'>
+        </a><a href='https://www.zeit.de/politik/ausland/2022-11/usa-donald-trump-nick-fuentes-rassismus-kanye-west-antisemitismus'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Donald Trump dined with white nationalist, Holocaust denier Nick ...</h3>
+                <h3>USA: Republikaner fordern &quot;besseres Urteilsvermögen&quot; von Donald ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRS_U5o_jtwuQ8BkFCBh-gCX3HJ2xzve4kN0N2hlw3fPVmGR7J_JRidK7DX8ntqd0mopdgcdxOc" alt="Donald Trump dined with white nationalist, Holocaust denier Nick ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The former president hosted Fuentes and Kanye West at Mar-a-Lago. He said it was “quick and uneventful.”</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSnBjto5tq4ypl_TZFlJH8ZZWomuf5iSQqd0jRGjgRFQX_7otXY0kG8H5BIUJ55xmyr2hW1d1mZ" alt="USA: Republikaner fordern &quot;besseres Urteilsvermögen&quot; von Donald ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Der frühere US-Präsident sieht kein Problem in seinem Treffen mit Kanye West und dem Rassisten Nick Fuentes. Doch nun sprechen auch frühere Unterstützer&nbsp;...</p></div>
             </div>
-        </a><a href='https://nymag.com/intelligencer/2022/11/what-we-know-about-donald-trumps-dinner-with-nick-fuentes.html'>
+        </a><a href='https://www.srf.ch/news/international/mar-a-lago-treffen-mit-kanye-west-und-antisemiten-trump-in-erklaerungsnot'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>What We Know About Trump&#39;s Dinner With White Supremacist Nick ...</h3>
+                <h3>Mar-a-Lago - Treffen mit Kanye West und Antisemiten – Trump in ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRtA3rG_k0_cHc9JLb1sahrCr-VDlXP_k5r8Yx6_50AO4SO0MlBUeiahnHku-x6yEJeG__WivoO" alt="What We Know About Trump&#39;s Dinner With White Supremacist Nick ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Former president Donald Trump had dinner at his Mar-a-Lago club on November 22 with Kanye West and prominent white supremacist and anti-Semite Nick Fuentes.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRG3i4pltPLJhKCKHvnwuc0W5tW80BI9RHHkaODJl74kT_Svz6umk6dxdF7aTTXuHSepf1FrTOP" alt="Mar-a-Lago - Treffen mit Kanye West und Antisemiten – Trump in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Trump traf sich mit US-Rapper Kanye West und Antisemit Nick Fuentes. Nun erntet er Kritik – auch aus den eigenen Reihen.</p></div>
+            </div>
+        </a><a href='https://www.tagesschau.de/ausland/amerika/trump-kritik-rassisten-101.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Treffen mit Rassisten: Kritik an Trump aus eigener Partei</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQxIhYpLb0CukPZxe0OWtypodsPd3XRDoyluapBv5mGJFSm7cmF76MJGyWy_Lw7mp5R2A8v1COv" alt="Treffen mit Rassisten: Kritik an Trump aus eigener Partei" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ex-Präsident Trump ist nach dem Empfang eines bekannten Rassisten von Republikanern scharf angegriffen worden. Auch US-Rapper Kanye West war vor Ort. Beide&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

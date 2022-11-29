@@ -11,56 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Russell Wilson"/>
         <meta name="description" content="Trending News about Russell Wilson" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Russell Wilson</h1>
-            <Image width={800} height={500} src="https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/voogzxcitwi0cjnn1eoh" alt="Russell Wilson"/>
+            <Image width={800} height={500} src="https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1128%2Fr1098129_1296x729_16%2D9.jpg" alt="Russell Wilson"/>
             <h3>Recent News</h3>
-            <a href='https://www.nfl.com/news/broncos-qb-russell-wilson-dt-mike-purcell-downplay-sideline-exchange-during-loss'>
+            <a href='https://www.espn.com/nfl/story/_/id/35126310/can-broncos-russell-wilson-fixed-answering-10-questions-qb-future-struggles-blame-next'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Can Denver, Russell Wilson be fixed? Answering 10 questions</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQzHbChZUBa83UorHn4eqsOLGaN4REz_xN7pGmuUWT-0HwCkEsb8NWYyYZAVdVfEFwTUlUBENlL" alt="Can Denver, Russell Wilson be fixed? Answering 10 questions" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Russell Wilson and the Broncos weren&#39;t supposed to be 3-8. Now, after another game in which the offense sputtered, could big changes be on the way?</p></div>
+            </div>
+        </a><a href='https://www.nfl.com/news/broncos-qb-russell-wilson-dt-mike-purcell-downplay-sideline-exchange-during-loss'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Broncos QB Russell Wilson, DT Mike Purcell downplay sideline ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRjhji-SXSqZ-H_CbzCb3yBb4gJaRGR-Hqd89Au7mHOn_81AvAbaqvje35zYI4quzrnukOfsKL4" alt="Broncos QB Russell Wilson, DT Mike Purcell downplay sideline ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Broncos DT ﻿Mike Purcell﻿ was seen yelling at QB Russell Wilson on the sideline during Sunday&#39;s loss to the Panthers, highlighting another disappointing&nbsp;...</p></div>
             </div>
-        </a><a href='https://seahawkswire.usatoday.com/lists/russell-wilson-continues-struggling-twitter-piles-on/'>
+        </a><a href='https://www.si.com/nfl/2022/11/28/broncos-mike-purcell-explains-incident-with-russell-wilson'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Russell Wilson suffers another Twitter pile-on as struggles continue ...</h3>
+                <h3>Broncos&#39; Mike Purcell Explains Incident With Russell Wilson</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTocwfAZmAMkJSf8Z_dui9_xgDe40-xGBwhqx9Ef8fmDhg7lo21dr1VcNCl11JHzo1otYTLUBE_" alt="Russell Wilson suffers another Twitter pile-on as struggles continue ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Broncos QB Russell Wilson suffers another Twitter pile-on as struggles continue against Panthers in Week 12.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRSVYD4s9sNuqvjahe9VRuhyGaOkNQSMK1oNYu8H57SgMIol52HFj0m_Zyf4I9ktRTPMTab9ePu" alt="Broncos&#39; Mike Purcell Explains Incident With Russell Wilson" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Denver defensive tackle described the exchange as just “frustration,” and his quarterback also gave his side of the story.</p></div>
             </div>
-        </a><a href='https://www.sportingnews.com/us/nfl/news/russell-wilson-mike-purcell-confronted-sideline-heated-broncos-panthers/naxfghpr7xjor7e7fgdm2r4f'>
+        </a><a href='https://kdvr.com/sports/denver-broncos/is-russell-wilson-getting-sacked-more-than-he-normally-does/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Broncos QB Russell Wilson confronted by heated DL Mike Purcell ...</h3>
+                <h3>Is Russell Wilson getting sacked more than he normally does?</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRjfjFNIJcb7p3-tridrWQQRGvJvOiGXnqw7-OhmNfQL35XlXX1sLlt4mrhSHx2I4WwaxPVz1EB" alt="Broncos QB Russell Wilson confronted by heated DL Mike Purcell ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Fox cameras caught defensive tackle Mike Purcell screaming in Russell Wilson&#39;s face on the sideline amid the team&#39;s offensive struggles. Wilson, rarely&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR_ZE7qQYc7Wv7WIoFltalhVU7FRnf-K11qY2kzC1bIXQ9no4UKVpl_pRJtiui3Q3x918I8Cndl" alt="Is Russell Wilson getting sacked more than he normally does?" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>While many have said the blame for the poor season falls on head coach Nathaniel Hackett, others say it&#39;s due to poor play by Wilson. Wilson has already been&nbsp;...</p></div>
             </div>
-        </a><a href='https://bleacherreport.com/articles/10056923-broncos-russell-wilson-no-animosity-with-mike-purcell-after-heated-exchange'>
+        </a><a href='https://www.denverpost.com/2022/11/28/russell-wilson-broncos-bench-debate/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Broncos&#39; Russell Wilson: &#39;No Animosity&#39; with Mike Purcell After ...</h3>
+                <h3>Kiszla vs. Gabriel: Should the Broncos bench quarterback Russell ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQevatl4i4gVv4sAmtSNlJJ993YfsCJAyjMdDiH5ilQEqpNhDrUvQNztmG1U3OiKzUBNTXhG-KE" alt="Broncos&#39; Russell Wilson: &#39;No Animosity&#39; with Mike Purcell After ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Wilson told reporters after a 23-10 defeat to the Carolina Panthers that he and Purcell are &quot;on the same page&quot; and that &quot;there&#39;s no animosity there at all.&quot;.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRnBuZnXIwgmHDKPUT7L3M19-NeJdrIM8Cm7fCM2yxk9k5Dbi0CxpAkgalXZgQGNCPT7rVDsjDe" alt="Kiszla vs. Gabriel: Should the Broncos bench quarterback Russell ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Week to week, Wilson shows no signs of improvement. He&#39;s getting worse and beat up behind a shaky offensive line. Should the Broncos consider benching him&nbsp;...</p></div>
             </div>
-        </a><a href='https://pantherswire.usatoday.com/2022/11/27/panthers-de-brian-burns-mocks-russell-wilson-week-12/'>
+        </a><a href='https://seahawkswire.usatoday.com/2022/11/28/russell-wilson-pff-grades-stunningly-low-2022/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Panthers DE Brian Burns mocks Broncos QB Russell Wilson after sack</h3>
+                <h3>Russell Wilson PFF grade ranks lower than 4 QBs who have been ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSnlxIaOYrc5P7vArOKbSgbvbzdFs0QdiFl38qCyPfaHx9L4Jy4An5X-sbrgOJaClhTF-MIG5eq" alt="Panthers DE Brian Burns mocks Broncos QB Russell Wilson after sack" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The 23-10 victory saw Burns finish with three tackles and that pair of sacks. Those takedowns also pushed the former first-round pick to 10.0 sacks on the 2022&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQNCTtp6BODbXkIeuTYQzbLLc7-DUKk1h3-1_KUsGYzLUi9XFYd20DCL36-I5DsDHJo39wCRHHL" alt="Russell Wilson PFF grade ranks lower than 4 QBs who have been ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Pro Football Focus grades out Broncos QB Russell Wilson No. 22 among 24 starterss who haven&#39;t been benched this season.</p></div>
             </div>
-        </a><a href='https://www.forbes.com/sites/djsiddiqi/2022/11/27/russell-wilsons-contract-is-a-problem-as-denver-broncos-reach-new-low/'>
+        </a><a href='https://www.yardbarker.com/nfl/articles/russell_wilson_trade_worse_than_infamous_herschel_walker_deal/s1_13132_38178957'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Russell Wilson&#39;s Contract Is A Problem As Denver Broncos Reach ...</h3>
+                <h3>Russell Wilson trade worse than infamous Herschel Walker deal?</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSvlTdC5DF6S2pLPZG_BjgQIcUX-LAauz-bVMjssWR-iBiMns-iXNhSyRjPdlbmeEZTi1xL2NPm" alt="Russell Wilson&#39;s Contract Is A Problem As Denver Broncos Reach ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Broncos have a real issue with Russell Wilson and it&#39;s going to be an even bigger problem moving forward considering he&#39;s locked in for the long term.</p></div>
-            </div>
-        </a><a href='https://www.foxnews.com/sports/broncos-russell-wilson-gets-earful-from-teammate-criticism-social-media-as-team-falters-vs-panthers'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Broncos&#39; Russell Wilson gets earful from teammate, criticism on ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTEpeToixnURITQeJeekNoeij6hihe0hWCaZYtiwp6ngK028J3_QWSQH6DZw_lRkab4sJx1Pee3" alt="Broncos&#39; Russell Wilson gets earful from teammate, criticism on ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Denver Broncos star Russell Wilson had a miserable showing against the Carolina Panthers on Sunday and he heard about it on and off the field.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQgZq1HKB0L7b2Z52efAQqav9cVkmz-7oD0eU5oHs79HgDgycvYgtlFeAc5UFltxVoCdg82Q0wH" alt="Russell Wilson trade worse than infamous Herschel Walker deal?" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Five games into the 1989 season, with the Cowboys 0-5 and rebuilding, the team sent Walker and three draft picks to the Vikings for four players and eight&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

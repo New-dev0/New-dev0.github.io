@@ -11,14 +11,21 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Львівська область"/>
         <meta name="description" content="Trending News about Львівська область" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Львівська область</h1>
-            <Image width={800} height={500} src="https://portal.lviv.ua/wp-content/uploads/2022/11/285.jpg" alt="Львівська область"/>
+            <Image width={800} height={500} src="https://lviv.media/static/content/thumbs/1200x630/2/5c/mbyyzz---c1200x630x50px50p-up--b995cc22932ba7b8d3dfd1524bb205c2.jpg" alt="Львівська область"/>
             <h3>Recent News</h3>
-            <a href='https://portal.lviv.ua/news/2022/11/25/na-lvivshchyni-pratsevlashtuvaly-majzhe-1400-pereselentsiv'>
+            <a href='https://lviv.media/lvivshchyna/60404-chehiya-dopomozhe-vidnovlyuvati-energetichnu-infrastrukturu-lvivshini/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>На Львівщині працевлаштували майже 1400 переселенців</h3>
+                <h3>Львівська область отримає джерела резервного живлення від Чехії</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR7_Kj7Dbvx9r7hY93ENl2r3jcqsdNDuAdwWnU6dQODD_QWA51LcCKzssH2mUKZ2fHunkt9Moo9" alt="На Львівщині працевлаштували майже 1400 переселенців" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Понад пів тисячі суб&#39;єктів господарювання Львівщини забезпечили роботою 1368 внутрішньо переміщених осіб. Працедавці отримають компенсації. Про це ....</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSwAU6P3APKh_JvnCPdrOluszRB8CuJOXdEVwsdzlccfczWtbxoLyezADy_AhpnUFpF3rvvQ-_7" alt="Львівська область отримає джерела резервного живлення від Чехії" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Чеська сторона зазначила, що планує доєднатись до відновлення енергетичної інфраструктури.</p></div>
+            </div>
+        </a><a href='https://zahid.espreso.tv/chekhiya-mozhe-peredati-na-lvivshchinu-generatori-dlya-obektiv-kritichnoi-infrastrukturi'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Чехія може передати на Львівщину генератори для об&#39;єктів ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRtbv5z1532RsL5CVjYHpm_SrRZLYaiRj7ZRphQQGvF6HZYYQsT_R57wnAUeC27gKpbbK6vA9hN" alt="Чехія може передати на Львівщину генератори для об&#39;єктів ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сьогодні, 28 листопада, відбулась зустріч керівництва профільних департаментів Львівської ОВА з Генеральним консулом Чеської Республіки у Львові та&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

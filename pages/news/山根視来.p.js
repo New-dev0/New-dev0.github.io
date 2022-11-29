@@ -11,13 +11,27 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,山根視来"/>
         <meta name="description" content="Trending News about 山根視来" /></Head><Template>
             <h1 style={{fontSize: "30"}}>山根視来</h1>
-            <Image width={800} height={500} src="" alt="山根視来"/>
+            <Image width={800} height={500} src="https://sports-pctr.c.yimg.jp/dk/iwiz-sports/text/images/2022/1128/202211280084-spnaviow_2022112801229_view.jpg" alt="山根視来"/>
             <h3>Recent News</h3>
-            <a href='https://news.yahoo.co.jp/articles/2d6cfca9e3a67ea6971be72a4a13ce771a343de4'>
+            <a href='https://sports.yahoo.co.jp/column/detail/202211280084-spnaviow'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>先発でW杯デビューの山根視来「もうひと工夫必要だった ...</h3>
+                <h3>山根視来が見た62分間の新しい景色。本大会デビューのコスタリカ ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTVHVY5IF0J_O4ck_-PpXLY0r5PSX2KxZWviCpwRC5E31KldxzbsIh01YusZMQMjAZHfzcNai2W" alt="先発でW杯デビューの山根視来「もうひと工夫必要だった ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRfeTeoPbDpBtlh2uXEiB7Ml4PjdUzvIa-hmHmXOCT6dMXLxlEP3_bfzHO7nu2F2tYaPCM6Z2kl" alt="山根視来が見た62分間の新しい景色。本大会デビューのコスタリカ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>子供の頃から夢に見ていた舞台――。FIFAワールドカップカタール2022の日本代表メンバー入りを受けてそう語っていた山根…</p></div>
+            </div>
+        </a><a href='https://news.yahoo.co.jp/articles/d31c0b212490283c846987aceeba8329efbdb754'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>【W杯】悔しさを伴った山根視来のW杯デビュー。だが「終わりでは ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQnbXbCXUJ6I9ZuhAfvGVTjA77PkG9ZUuiSXp9ZNmHJq9VrDDtezU9gK_6ahIXJuIS2lAQZQnMe" alt="【W杯】悔しさを伴った山根視来のW杯デビュー。だが「終わりでは ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>日本代表は現地27日にカタール・ワールドカップのグループステージ第2戦でコスタリカと対戦し、0－1で敗れた。その試合でW杯で右サイドバックとしてプレーしたのが山根&nbsp;...</p></div>
+            </div>
+        </a><a href='https://web.gekisaka.jp/news/japan/detail/?373923-373923-fl'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>先発でW杯デビューの山根視来「もうひと工夫必要だった」 | ゲキサカ</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRcFcZIYK-lXtisjdonsIWYa7TDUpGomk1il0eP_sZeC4fCQzEyXCxBU-zDP-di23qBa8hyUgpk" alt="先発でW杯デビューの山根視来「もうひと工夫必要だった」 | ゲキサカ" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>11.27 カタールW杯E組第2節 日本0-1コスタリカ アルラーヤン] 持ち味である攻撃力を得点につなげられなかったことを悔やんだ。初戦のドイツ戦で負傷したDF酒井宏樹に&nbsp;...</p></div>
             </div>
         </a><a href='https://www.footballchannel.jp/2022/11/27/post485654/'>
@@ -46,21 +60,7 @@ export default function Page() {
                 <h3>コスタリカ戦主審オリバーに批判が！ワッキー「山根視来イエロー ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRVdGsWbgqePb6mw2Zh5qoIr2cT2x3FulenF6zFMhQyZo1FzFlq0vKhy78gUpJqj1e9lGSXyvn5" alt="コスタリカ戦主審オリバーに批判が！ワッキー「山根視来イエロー ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>コスタリカ戦主審オリバーに批判が！ワッキー「山根視来イエローはない」. ニュース文: Shota, 2022.11.27. 8:03 pm.</p></div>
-            </div>
-        </a><a href='https://news.livedoor.com/article/detail/23276111/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>【日本代表レポート】山根視来が明かした試合後のロッカールーム ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSv0KbfAcwojTbweS0mzuU6NtFMrRL4HC_Gto9CQwp_ZpFO58bDIsUDTgc-qGOjoXxWKpZfN0zr" alt="【日本代表レポート】山根視来が明かした試合後のロッカールーム ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>27日、ワールドカップのグループリーグ第2戦、日本はコスタリカに0-1と敗れた。初戦でドイツに勝ったものの、日本が払った犠牲は大きかった。その1つが2戦目にプレー&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.sanspo.com/article/20221127-6DPWYU7IPRPKFLR5KG72ZTGXDU/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>日本－コスタリカ 本田圭佑「退場はいちばん嫌。誰かほかに（ＳＢ ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTUrgoNH9-BZkl_EIW3QCexLMHWaCglk0e833UbRBjSDLRXFtf-G5ANkLunI6Oz5_U3t8OW62wB" alt="日本－コスタリカ 本田圭佑「退場はいちばん嫌。誰かほかに（ＳＢ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>サッカー・ワールドカップ（Ｗ杯）１次リーグＥ組（２７日、日本―コスタリカ、アルラヤン）７大会連続７度目の出場となる国際連盟（ＦＩＦＡ）ランキング２４位の日本&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>森保一監督率いる日本代表は27日、FIFAワールドカップ・カタール大会のグループリーグ第2戦・コスタリカ戦の前半を0-0で終了。前半終了間際にDF山根視来（川崎&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

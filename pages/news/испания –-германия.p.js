@@ -18,21 +18,35 @@ export default function Page() {
                 <h3>Эта сборная Германии не должна вылетать с ЧМ! А Испания не ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTpCfll_2zX1mVuQld36M2PMyHRlr3Qsb589-I3MvhP2siuIuQ0vFfjml3RVgglKqWJOjxSLOCR" alt="Эта сборная Германии не должна вылетать с ЧМ! А Испания не ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Немцы нашли нового бомбардира. Ханс-Дитер Флик ждал победы сборной Германии на старте ЧМ-2022 и называл матч с Испанией «досрочным финалом» после сенсационного&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Ханс-Дитер Флик ждал победы сборной Германии на старте ЧМ-2022 и называл матч с Испанией «досрочным финалом» после сенсационного поражения от Японии. Оба&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sport-express.ru/football/world/2022/news/ispaniya-germaniya-1-1-video-goly-obzor-chempionat-mira-27-noyabrya-2022-goda-2004359/'>
+        </a><a href='https://www.championat.com/football/news-4909575-luis-enrike-dogovorilis-s-flikom-o-finale-ispaniya-germaniya.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Испания — Германия: видеообзор матча ЧМ-2022</h3>
+                <h3>Луис Энрике: договорились с Фликом о финале Испания ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS_YqvCadlD4eRGi0emM7maGolE1DtjVp5PtY2LEIiywMcI-6BOQ88ysfI3MP9deLqCKkOix5vj" alt="Испания — Германия: видеообзор матча ЧМ-2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Испания — Германия: видеообзор матча ЧМ-2022 ... 27 ноября. Испания — Германия — 1:1. ... Сборная Испании сыграла вничью с командой Германии в матче второго тура&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS4FxuXcJ50_xKfvUllZqKmCKBOpyE9B6TfhmA6BiiSnqIV_mvB56Rj1OfkKedxxQ9yS7swXZlg" alt="Луис Энрике: договорились с Фликом о финале Испания ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Главный тренер сборной Испании Луис Энрике поделился мнением о наставнике Германии Хансе-Дитере Флике, а также рассказал, что они договрились встретиться в&nbsp;...</p></div>
             </div>
-        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1732067_Ispanija__Germanija__00_Nemec_Kerer_poluchil_zheltuju_kartochku_na_37_j_minute_matcha_ChM2022'>
+        </a><a href='https://www.sport-express.ru/football/world/2022/reviews/chm-2022-ispaniya-germaniya-igor-korneev-o-matche-2-tura-chempionata-mira-intervyu-2004372/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Испания — Германия — 0:0. Немец Керер получил желтую ...</h3>
+                <h3>«Не соглашусь с Маттеусом. Мусиала — не следующий Месси. И ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ63-u8LxXOkxGz6c0Us03buDlZhkfZ-TA6TRe3xEbUl-tz5BfsCLXgQ_aR2xJlg8pPfKmZRbVXVA" alt="Испания — Германия — 0:0. Немец Керер получил желтую ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Нидерландский арбитр Данни Маккели показал защитнику сборной Германии Тило Кереру желтую карточку на 37‑й минуте матча чемпионата мира‑2022 со командой&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR8c57PnasPQY9V_1CEIdcj4CP6bQXVJiC1lrn1a6cm4Ptf8NKx-YKmEX4PVMrEz4G6J1aMuVCP" alt="«Не соглашусь с Маттеусом. Мусиала — не следующий Месси. И ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Бывший полузащитник «Барселоны» — о матче 2-го тура группового турнира ЧМ-2022.</p></div>
+            </div>
+        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1732059_Ispanija__Germanija__10_Nemcy_proveli_trojnuju_zamenu_na_70_j_minute_matcha_ChM_2022'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Испания — Германия — 1:0. Немцы провели тройную замену на ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSNxQXn4e_OvxtK8DpE25VHfDG-aR_zAQkEdHOjDvIvZoABZKZHN0zFYynQNQpO93ERnDDTcqM3" alt="Испания — Германия — 1:0. Немцы провели тройную замену на ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Нападающий сборной Германии Никлас Фюллькруг заменил форварда Томаса Мюллера на 70‑й минуте матча чемпионата мира‑2022 с командой Испании.</p></div>
+            </div>
+        </a><a href='https://eurostavka.ru/news/football/germaniya-nabrala-pervye-ochki-na-chm-2022-no-eshche-daleka-ot-pley-off-fakty-o-matche-s-ispaniey'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Германия набрала первые очки на ЧМ-2022, но еще далека от ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQzTQ1XYEuRnZLHtM7do7reVj9RfDX_MW4Otey7Sq40Rt63zoMeYotGEpd57tCyi0_M3xwbivGe" alt="Германия набрала первые очки на ЧМ-2022, но еще далека от ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Последний тур в группе E будет огненным! Германия набрала первые очки на ЧМ-2022, но еще далека от плей-офф. Никлас Фюллькруг, Испания – Германия.</p></div>
             </div>
         </a><a href='https://sportrbc.ru/news/6382873a9a7947b7ed960cbc'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -45,15 +59,15 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Испания — Германия — 1:1, обзор матча Чемпионата мира по ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSOB8GD_mmGyvesHowujWTK9fi3-qjjeHnjJN_DkHR4Uw1iK-_ehVggUDxkEIR3BM-nsSYDuysG" alt="Испания — Германия — 1:1, обзор матча Чемпионата мира по ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Круглый после сейва голкипера «Баварии» угодил в перекладину и покинул поле. Подопечные Флика ответили контратакой три в три, но и она не закончилась голом. В&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcToGQGUs4CTD6q2ZHk3OCtt48kYIKoK-l4nfBif4ZjId5Pzs1cQ1oexPWR_QzMn-FJ3Bi6pwnf1" alt="Испания — Германия — 1:1, обзор матча Чемпионата мира по ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В матче группы Е Чемпионата мира по футболу в Катаре встречались сборные Испании и Германии. Игра проходила на стадионе «Аль-Байт» в Эль-Хауре,&nbsp;...</p></div>
             </div>
-        </a><a href='https://sportmail.ru/football2022/news/54034972/'>
+        </a><a href='https://bombardir.ru/news/678132-enrike-dogovorilis-s-flikom-o-finale-ispaniya-germaniya'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Испания — Германия: прогнозы и ставки</h3>
+                <h3>Энрике: «Договорились с Фликом о финале Испания – Германия»</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQPsbuCVkTB-qKqexT5sRS7UbB90sZtk3rlA2bujZRtXo3qE3IR1wZ_O2dTeogLX04_itTfhgm6" alt="Испания — Германия: прогнозы и ставки" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Матч жизни для бундестим. - новость Чемпионата мира по футболу на Спорт Mail.ru.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSNbkMxMj24dN2BJU4zAqhj0T3rotRTijSKuhOwfbEr1zLAgEfvz-TcQV7WXKxg4200_sgO_Eg1" alt="Энрике: «Договорились с Фликом о финале Испания – Германия»" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Главный тренер сборной Испании Луис Энрике рассказал о договоренности с коллегой из сборной Германии Хансом-Дитером Фликом – на «Бомбардире»</p></div>
             </div>
         </a>
         </Template></>;

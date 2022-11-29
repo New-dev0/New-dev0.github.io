@@ -31,7 +31,7 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>【訃報】映画監督の崔洋一さん（73）が膀胱がんで死去（テレビ ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ-twhLXySGEKRDnSJc5IMDA9lyXeBuN0nlYihIVz7NZDRgw6isU0lX9BVe0_BwwK9768bLOuqH" alt="【訃報】映画監督の崔洋一さん（73）が膀胱がんで死去（テレビ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRzPAxLVCVLZCuVtp332_3SG8H2KyH8PG-TO1GpP2uGbvciew7ETyeLv45XtsX5OtCvVWGXSYvY" alt="【訃報】映画監督の崔洋一さん（73）が膀胱がんで死去（テレビ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>映画「月はどっちに出ている」などで知られる映画監督の崔洋一さんが亡くなりました。73歳でした。 関係者によりますと、崔さんは27日午前1時、膀胱（ぼうこう）がんの&nbsp;...</p></div>
             </div>
         </a><a href='https://www.sanspo.com/article/20221127-KTBAF724ONMZXKXY5P65FLY4NE/'>
@@ -41,19 +41,19 @@ export default function Page() {
                 <Image src="" alt="映画監督・崔洋一さんが死去、７３歳 「月はどっちに出ている ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>「月はどっちに出ている」「血と骨」など在日コリアンの物語をリアルに描いた作品で知られる映画監督で、前日本映画監督協会理事長の崔洋一（さい・よういち）さん&nbsp;...</p></div>
             </div>
+        </a><a href='https://www3.nhk.or.jp/lnews/nagano/20221128/1010024799.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>佐久市生まれの映画監督 崔 洋一さん死去 ７３歳｜NHK 長野県の ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRWUYj6XWQFhrj7v1SMsum_pe3WiP-kZDJ6OpCDEyu4heL_jDcMb1NUOsBCt9HIF6cJkD65bCfZ" alt="佐久市生まれの映画監督 崔 洋一さん死去 ７３歳｜NHK 長野県の ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>【NHK】「月はどっちに出ている」や「血と骨」などの作品で知られる、佐久市生まれの映画監督の崔洋一さんが２７日、ぼうこうがんのため亡くなりました。 …</p></div>
+            </div>
         </a><a href='https://www.nikkansports.com/entertainment/news/202211270001309.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>映画監督の崔洋一さん死去、73歳 ぼうこうがん 93年「月はどっちに ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSI_knFhRr4pIorQsPEYcAD-D6UpWJPR21wl4kkbdE89DB7JmIY2_zrRB_3Cr3PAQUVcMzsJ8uP" alt="映画監督の崔洋一さん死去、73歳 ぼうこうがん 93年「月はどっちに ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>1993年（平5）の映画「月はどっちに出ている」などで知られる、映画監督の崔洋一（さい・よういち）さんが27日午前1時、ぼうこうがんのため、東京都内の自宅で亡…</p></div>
-            </div>
-        </a><a href='https://www.fnn.jp/articles/-/450835'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>映画監督の崔洋一さん死去 「月はどっちに出ている」など｜FNN ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRkgvuBzujwfF4bnfi_ztsVDeljvnSVysZLKtFT9PufLPTXhyWsMJinjCi2LhMYAOu0_qrV-Y59" alt="映画監督の崔洋一さん死去 「月はどっちに出ている」など｜FNN ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>崔さんは2019年に膀胱がんが見つかり、全摘手術を受けたが2021年の春、リンパ節などへの転移が確認され2022年1月、新たな抗がん剤治療を受けていることを公表して闘病中&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
