@@ -18,7 +18,7 @@ export default function Page() {
                 <h3>Luis Enrique&#39;s Spain turns passing into an elevated art, with Gavi ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRsoT7znh7TkT1MRpoKVMMM1p4daXFYZ7vbzQVJ1hn3j_HqDQ4xG-mZDUUNQrEsBrwYdWyH98_y" alt="Luis Enrique&#39;s Spain turns passing into an elevated art, with Gavi ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>It&#39;s not revolution, or counter-revolution, but an evolution, and you need to dwell into the minute and specifics to fully grasp and enjoy Spain&#39;s&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Both hypotheses are right, yet wrong. Spain plays a high-passing, high-possession, counter-pressing game; but not the way Xavi and Iniesta played it, not the&nbsp;...</p></div>
             </div>
         </a><a href='https://www.goal.com/en-ae/news/xavi-barcelona-spain-superstar-pedri-so-special/blt15e813be175a7176'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -40,6 +40,13 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQarUB-SYUFgdcg_GI8I0unYsdsHNWIQXLNaApt6NOrfGU8J1XondVBmFiyYJLpIhSAGvagBkwL" alt="Xavi Hernandez: Gavi and Pedri have everything to mark an era" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Barça coach praises his two young guns at the World Cup, hours before the Spain - Germany match.</p></div>
+            </div>
+        </a><a href='https://www.fcbarcelonanoticias.com/en/fc-barcelona/xavi-has-it-clear-gavi-and-pedri-go-to-mark-period-in-the-football_287056_102.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Xavi is clear about it: Gavi and Pedri are going to mark an era in ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQsfHBrj1HVoPM4vSCFBBexkNb88d7XrWeGaK51Oi02bUdL9uhubIwqnQfWozbeJ7Im2KolK5JJ" alt="Xavi is clear about it: Gavi and Pedri are going to mark an era in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Luis Enrique trusts fully in both and are indisputable in his approach and aim to be two of the &#39;stars&#39; of the World-wide. In the FC Barcelona are&nbsp;...</p></div>
             </div>
         </a><a href='https://the12thman.in/fifa-news-xavi-lavishes-praise-on-spain-barcelona-midfielder-pedri/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

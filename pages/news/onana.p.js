@@ -11,49 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Onana"/>
         <meta name="description" content="Trending News about Onana" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Onana</h1>
-            <Image width={800} height={500} src="https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1128%2Fr1098320_3_1296x729_16%2D9.jpg" alt="Onana"/>
+            <Image width={800} height={500} src="" alt="Onana"/>
             <h3>Recent News</h3>
-            <a href='https://www.espn.com/soccer/cameroon-crm/story/4818198/cameroon-goalkeeper-andre-onana-left-out-of-team-for-disciplinary-reasons-rigobert-song'>
+            <a href='https://www.channelstv.com/2022/11/29/cameroon-goalkeeper-onana-breaks-silence-after-being-dropped-from-team/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Cameroon goalkeeper Andre Onana left out of team for &#39;disciplinary ...</h3>
+                <h3>Cameroon Goalkeeper Onana Breaks Silence After Being Dropped ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTAiNME6xCHQ8k_HgEtJNcnTPv2ZpTYjpj6b6K4lCCrrw1t5nUhO5QghEFweVJyRbtWgFnfvBxQ" alt="Cameroon goalkeeper Andre Onana left out of team for &#39;disciplinary ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cameroon goalkeeper Andre Onana was left out of the team for their 3-3 draw with Serbia on Monday due to &quot;disciplinary reasons,&quot; Rigobert Song said.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTKTM5WTL5wq9mcJ-hfqh3vN9q4JLVvL1-e072ew_IvMYKNZTSVu4kKoS5SYN5T-UrvIEfnFAu0" alt="Cameroon Goalkeeper Onana Breaks Silence After Being Dropped ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cameroon goalkeeper Andre Onana has spoken out after he was dropped from the team at the ongoing 2023 FIFA World Cup in Qatar.</p></div>
             </div>
-        </a><a href='https://www.goal.com/en/news/why-andre-onana-not-playing-cameroon-2022-world-cup-serbia/blt327daffdffde1e09'>
+        </a><a href='https://punchng.com/cameroons-onana-breaks-silence-following-wcup-dismissal/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Why is Andre Onana not playing for Cameroon in crucial 2022 World ...</h3>
+                <h3>Cameroon&#39;s Onana breaks silence following W&#39;Cup dismissal</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS4vV-4vOQ1hF8feKYMfkdiOiO4CJFT5omjAK3gKhqmE2lbX-dpFnDjPNwpM93zIGDpe6oCZEQk" alt="Why is Andre Onana not playing for Cameroon in crucial 2022 World ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Andre Onana has been dropped entirely from Cameroon&#39;s squad for their crucial clash with Serbia at the 2022 World Cup.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTismX_7F8pol1T3aM8NpwFdAPqk0ImZ09uSXa6-0bDxDjoiEqj5Dnx5bOMIe4rjL_f-ltPKadH" alt="Cameroon&#39;s Onana breaks silence following W&#39;Cup dismissal" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cameroonian goalkeeper, Andre Onana, has broken his silence following his suspension from the team at the World Cup.</p></div>
             </div>
-        </a><a href='https://www.marca.com/en/world-cup/2022/11/28/6384923cca4741c0538b4597.html'>
+        </a><a href='https://leadership.ng/why-cameroon-sends-onana-home-from-world-cup-squad-in-qatar/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>The Onana controversy: He remains at the World Cup for now...</h3>
+                <h3>Why Cameroon Sends Onana Home From World Cup Squad In Qatar</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTK6g_tpQ4y7--Az4OmTSsCgYMuQ6hWaZnfdVVtwwpNIM5ooJJoyD9Bd-MHfUAf4sL27r-R5TaR" alt="The Onana controversy: He remains at the World Cup for now..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The official announcement of Cameroon&#39;s line-up against Serbia uncovered a mystery that had been kept under wraps. It was surprising not just to see Andre&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSdlf_2tHDgC7nJDhIyhYRQh4jBSBRDCIkwekuFlu2rrjVD_xLEh725s33nczEgHlrt9egRYWD7" alt="Why Cameroon Sends Onana Home From World Cup Squad In Qatar" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cameroonian national team&#39;s goalkeeper, Andre Onana, was dropped from his country&#39;s 2022 World Cup squad after a training ground row with manager, Rigobert.</p></div>
             </div>
-        </a><a href='https://punchng.com/cameroon-vs-serbia-onana-dropped-from-team-for-disciplinary-reasons/'>
+        </a><a href='https://dailypost.ng/2022/11/29/world-cup-onana-breaks-silence-after-being-kicked-out-of-cameroon-squad-by-song/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Cameroon vs Serbia: Onana dropped from team for disciplinary ...</h3>
+                <h3>World Cup: Onana breaks silence after being kicked out of ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTismX_7F8pol1T3aM8NpwFdAPqk0ImZ09uSXa6-0bDxDjoiEqj5Dnx5bOMIe4rjL_f-ltPKadH" alt="Cameroon vs Serbia: Onana dropped from team for disciplinary ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cameroon goalkeeper, Andre Onana, will miss his team&#39;s crucial World Cup clash with Serbia on Monday after being dropped hours before kick-off at Al Janoub&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSdi5gPzIVowz6re0P0RY-qwSfLmncW5XWSYM4Anub9RE99B9i7hTgTvOY4HjGdkDZS-oZFOZ1r" alt="World Cup: Onana breaks silence after being kicked out of ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cameroon goalkeeper, Andre Onana, has finally broken his silence after being kicked out from his side&#39;s World Cup squad. Onana insisted that there was &#39;no.</p></div>
             </div>
-        </a><a href='https://www.vanguardngr.com/2022/11/onana-to-leave-cameroon-camp-after-removal-for-disciplinary-reasons/'>
+        </a><a href='https://www.thecable.ng/cameroon-goalkeeper-onana-leaves-world-cup-after-dispute-with-coach'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Onana to leave Cameroon camp after removal for disciplinary reasons</h3>
+                <h3>Cameroon goalkeeper Onana leaves World Cup after dispute with ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTRVKEvQ_ALJWJyJ_Rs-pQqIgMZWnZt89OaeaXkUb2LBPCx4XM7GRItP2kl5pHdeI-oDojzPAhO" alt="Onana to leave Cameroon camp after removal for disciplinary reasons" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cameroon goalkeeper Andre Onana will leave the Cameroon camp immediately after he was removed from the Indomitable Lions&#39; squad for the tournament.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTZUGL2LXBVz79IPIpCTocTRziqwvug2-Yd0cdobarvfEDL5Bg9Xk-VQc5CS6zkgIPB6E0v6-BB" alt="Cameroon goalkeeper Onana leaves World Cup after dispute with ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Andre Onana, the Cameroon goalkeeper, has left the team&#39;s World Cup camp in Qatar following his suspension by the country&#39;s football federation.</p></div>
             </div>
-        </a><a href='https://dailypost.ng/2022/11/28/world-cup-real-reason-andre-onana-left-squad-cameroon-coach-rigobert-song/'>
+        </a><a href='https://www.eurosport.co.uk/football/world-cup/2022/andre-onana-speaks-out-after-2022-world-cup-bust-up-with-cameroon-coach-rigobert-song-that-saw-him-s_sto9250192/story.shtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup: Real reason Andre Onana left squad – Cameroon coach ...</h3>
+                <h3>Andre Onana speaks out after 2022 World Cup bust-up with ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSdi5gPzIVowz6re0P0RY-qwSfLmncW5XWSYM4Anub9RE99B9i7hTgTvOY4HjGdkDZS-oZFOZ1r" alt="World Cup: Real reason Andre Onana left squad – Cameroon coach ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cameroon boss Rigobert Song has suggested that indiscipline made goalkeeper Andre Onana leave the team&#39;s squad before their World Cup 3-3 draw against.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR3XXcBqmOj2Lm-tfKwk-kM5zWh1noHNzFfadSEJTfMkVCD8RyJbsJKtQzrDAC5fOEAsJitYR9d" alt="Andre Onana speaks out after 2022 World Cup bust-up with ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cameroon goalkeeper Andre Onana says he has “always behaved in a way to lead to success” after being sent home from the 2022 World Cup.</p></div>
+            </div>
+        </a><a href='https://www.goal.com/en-ng/news/cameroon-goalkeeper-onana-breaks-his-silence-after-being-dropped-from-world-cup-team/bltafe38eb81648e251'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Cameroon goalkeeper Onana breaks his silence after being ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS-aYmB7ze_Ox1ontoCC2MdXJ-uaeCb1pfuq199tm9zRUkTbQpzz4XdWCSk9E118qHphKE9mm0v" alt="Cameroon goalkeeper Onana breaks his silence after being ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cameroon goalkeeper Andre Onana has spoken about being dropped from the team during the 2022 Fifa World Cup.</p></div>
             </div>
         </a>
         </Template></>;

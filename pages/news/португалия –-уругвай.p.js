@@ -11,49 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Португалия – Уругвай"/>
         <meta name="description" content="Trending News about Португалия – Уругвай" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Португалия – Уругвай</h1>
-            <Image width={800} height={500} src="https://img.championat.com/news2/social/f/3b/4909483.jpg" alt="Португалия – Уругвай"/>
+            <Image width={800} height={500} src="https://s-cdn.sportbox.ru/images/shares/1200x600/node/88/1733216.jpg" alt="Португалия – Уругвай"/>
             <h3>Recent News</h3>
-            <a href='https://www.championat.com/football/news-4909483-portugaliya-urugvaj-fanat-vybezhal-na-pole-vo-vremya-matcha-chm-2022.html'>
+            <a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1733216_Russkij_sudja_pomog_Ronaldu_na_ChM_2022_Portugalii_podarili_levyj_penalti'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Португалия — Уругвай: фанат с радужным флагом выбежал на ...</h3>
+                <h3>Русский судья помог Роналду на ЧМ-2022. Португалии подарили ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQeIzblQ_YA1n2sPVY85mnuXuXSQrUl1vNYdrIGzJrVislwDPCFgOIkQJRR02A9uTE5j3rvHoza" alt="Португалия — Уругвай: фанат с радужным флагом выбежал на ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Во время матча 2-го тура группового этапа чемпионата мира — 2022 Португалия — Уругвай на поле стадиона «Лусаил Айконик» выбежал фанат.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTA_X3gyLTCenDv2I71cOGdaTkaRpz85tEp8VV45a12rC2u2QiXHrQ0dtRpi8wbrmPUGUzNU8dp" alt="Русский судья помог Роналду на ЧМ-2022. Португалии подарили ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Похоже, арбитры матча Португалия — Уругвай не знакомы с официальными рекомендациями ФИФА.</p></div>
             </div>
-        </a><a href='https://www.sport-express.ru/football/world/2022/reviews/chm-2022-portugaliya-urugvay-2-0-kak-proshel-match-gruppy-h-portugaliya-vyshla-v-pley-off-obzor-28-noyabrya-2022-goda-2004831/'>
+        </a><a href='https://www.championat.com/football/news-4910075-portugaliya-predstavit-fifa-dokazatelstva-togo-chto-pervyj-gol-urugvayu-zabil-ronaldu.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Магия Роналду: испугал вратаря Уругвая — и Португалия в плей ...</h3>
+                <h3>Португалия представит ФИФА доказательства того, что первый ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQs6wPg2PhlVunv-FL1FjU3-9NoXhwySENiYG-k5GdM2QviU1EzU-cAbewmSyM17gn3imYKEQpj" alt="Магия Роналду: испугал вратаря Уругвая — и Португалия в плей ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Дубль Бруну Фернандеша принес европейской сборной место в 1/8 финала. Чемпионат мира. Группа H 28 нояб, 22:00. Lusail Stadium (Лусаил).</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR1ntkC0OUYyY21eyaUG2rHx44VCMHsBqyy9v6UJH34w4ml3XI27E0DTKGwWnXIHbpmHVb1DYuC" alt="Португалия представит ФИФА доказательства того, что первый ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Португальская футбольная федерация собирается представить ФИФА доказательства того, что первый гол в матче 2-го тура группового этапа чемпионата мира между&nbsp;...</p></div>
             </div>
-        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1733003_Vybezhavshij_na_pole_v_matche_ChM_2022_Portugalija__Urugvaj_bolelshhik_okazalsa_recidivistom__SMI'>
+        </a><a href='https://prm.ua/ru/portuhalyia-uruhvay-strast-proverena-vremenem/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Выбежавший на поле в матче ЧМ-2022 Португалия — Уругвай ...</h3>
+                <h3>Португалия - Уругвай: страсть проверена временем</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQFCwHTBc4ZpQUiR7rjpZ4QKY9VMcj09rExQTJeOXoTBZCOONyrjB6cuvA5-R2fhEyXFa5L5VtG" alt="Выбежавший на поле в матче ЧМ-2022 Португалия — Уругвай ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Болельщик, который выбежал на поле во время матча чемпионата мира по футболу в Катаре между сборными Португалии и Уругвая, ранее проводил аналогичные акции,&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQDX50KJmczWhV-Yihn-skJSjYYKA2CCxs2lXrKdrNDQTa1IcRl9x9uvIddX0PKdmiaTA6nm1tD" alt="Португалия - Уругвай: страсть проверена временем" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Португалия за тур до конца группового этапа могла присоединиться к Франции и Бразилии, которые уже гарантировали себя выходом в плей-офф.</p></div>
             </div>
-        </a><a href='https://www.sports.ru/football/1113726159-portugaliya-urugvaj-20-obzor-matcha-chempionata-mira-po-futbolu-28-112.html'>
+        </a><a href='https://www.sovsport.ru/football/news/2:1048663'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Португалия — Уругвай — 2:0, обзор матча Чемпионата мира по ...</h3>
+                <h3>Португалия – Уругвай: В Adidas доказали, что Роналду не ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSeTp8VKFik0xd8zm3YiYxzTcC-t61RdTBjBUCi6Eo5zYmktPfPstWfjZojiCs8s7wa4cAnwtNl" alt="Португалия — Уругвай — 2:0, обзор матча Чемпионата мира по ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Португалия и Уругвай в своих первых матчах на мировом первенстве оставили диаметрально противоположное впечатление: португальцы в зрелищной концовке в матче с&nbsp;...</p></div>
+                <Image src="" alt="Португалия – Уругвай: В Adidas доказали, что Роналду не ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В компании adidas расставили все точки над «i», представив график касаний мяча. Из отчета следует, что датчики, встроенные в мяч, не сработали на голову Роналду&nbsp;...</p></div>
             </div>
-        </a><a href='https://sportrbc.ru/news/6384f6d59a79475df4beae98'>
+        </a><a href='https://news.obozrevatel.com/sport/football/u-ronaldu-otobrali-gol-na-chm-2022-opublikovano-dokazatelstvo-lzhi-portugalii.htm'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Португалия — Уругвай</h3>
+                <h3>У Роналду отобрали гол на ЧМ-2022. Опубликовано ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRFRrBjNAwx80WX_o7hpRbzZTe8KoQzLEY5P5tXA6ubK6pKo5NT-yWg_7V5zfuZHXcidjZ07sjg" alt="Португалия — Уругвай" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>На этом будем прощаться, пожелаем сборной Уругвая побед в следующих матчах турнира. А команду Португалии поздравляем с победой! Онлайн матча для вас провел&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRA0uZbSXaxkS1rqYvJErMEXm8rXGy8UkVwc3J8pvMvjsK8-YYCLY4PygCzBNseOeoSIk2gvNm7KA" alt="У Роналду отобрали гол на ЧМ-2022. Опубликовано ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Капитан сборной Португалии Криштиану Роналду не касался мяча во время первого взятия ворот сборной Уругвая в матче чемпионата мира 2022 года в Катаре.</p></div>
             </div>
-        </a><a href='https://www.vseprosport.ru/news/2022/11/28/portugalija-urugvaj-stavka-i-koefficienty-na-match-chempionata-mira-28-nojabrja-2022-goda'>
+        </a><a href='https://football24.ua/ru/chm_2022_portugalija_prosit_fifa_perepisat_gol_brunu_na_ronaldu__izvestna_reakcija_n749352/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Португалия — Уругвай: ставка на матч Чемпионата мира</h3>
+                <h3>ЧМ-2022: Португалия просит ФИФА переписать гол Бруну на ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTFSGJeBexSA4BiKBVUeDuSjvKlnDaKDfeykcE2f_2q39KJ357xDGj0r_BEQypnXy37ZR-BLpKD" alt="Португалия — Уругвай: ставка на матч Чемпионата мира" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Португалия — Уругвай. Ставка и коэффициенты на матч Чемпионата мира (28 ноября 2022 года). На последнем Чемпионате мира Португалия проиграла Уругваю,&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT-kNC0CFNFonSkGNkfGFM42xqzVcTMUbn_lGKOV9X7NutK14HNpWUpcB093GSrynT8lvl0ACI7" alt="ЧМ-2022: Португалия просит ФИФА переписать гол Бруну на ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Криштиану Роналду мог получить второй забитый гол на Мундиале в Катаре через кабинеты. Новости футбола Футбол 24.</p></div>
+            </div>
+        </a><a href='https://sportrbc.ru/news/6385df6d9a79471a38c69ced'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Федерация футбола Португалии захотела вернуть Роналду ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTyMLjvc0ZmG4qSgDO2uMCMrWPz0qiNaoGiTKViU_hEovOzBuJShyMA6VHBTppU-XeMUThUg_-K" alt="Федерация футбола Португалии захотела вернуть Роналду ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Федерация футбола Португалии направит в техническую комиссию ФИФА доказательства, что первый гол в матче ЧМ с Уругваем стоило записать именно на Роналду.</p></div>
             </div>
         </a>
         </Template></>;

@@ -20,13 +20,6 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQRD449a3HYHbdfKouW8BLLRNPlAcy49XOai0vSoJiw1B3RSO0mK1yz2jqt5cwkyjTlR_eFNXUR" alt="【チャンピオンズカップ・厩舎直送】１週前には鞍上・川田と初 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>ＧⅠチャンピオンズカップ＝２０２２年１２月４日（日曜）３歳上、中京競馬場、ダート１８００メートル］ シャマル（牡４・松下）は全休日の２８日朝、馬房の中で&nbsp;...</p></div>
             </div>
-        </a><a href='https://tospo-keiba.jp/anohi/23926'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>【２０１５年・チャンピオンズカップ】「マジでやってしまう ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS5xIZLCD6DWpR9hHdzqxvZlpg-gjUlmyCsoGWWx9f7GotmdH5PCI0RHrFAgQdEV0wjbrXuin41" alt="【２０１５年・チャンピオンズカップ】「マジでやってしまう ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>【あの日、あの時、あのレース】芝とダートのどちらに注目しているかと聞かれれば、それは芝のレースです。しかし、ダービーやジャパンＣといった特別なレースが念頭に&nbsp;...</p></div>
-            </div>
         </a>
         </Template></>;
 }

@@ -34,13 +34,6 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSwh5bbFwpM5ZvJDH5xrh6vK08XFQxt9f9blkAa-u-u2Q3hjwN33oxmP_EVmJBNGCRRP3vPcRkF" alt="Выглядит на 20 лет младше: Сильвестр Сталлоне поразил ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Папарацци подловили Сильвестра Сталлоне на улицах Лос-Анджелеса когда актер вынимал из багажника автомобиля свои покупки.Актер был одет в черную футбо…</p></div>
             </div>
-        </a><a href='https://gazeta.ua/articles/world-life/_76richnij-stallone-prigolomshiv-molodim-viglyadom/1122685'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>76-річний Сталлоне приголомшив молодим виглядом</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRdchAatmEoIt56l9IKy_pyy7zmmmyZTlvD9irXKajnsDK6UvdljGeleBPtz3ikp8GE79CmoF0A" alt="76-річний Сталлоне приголомшив молодим виглядом" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Папараці сфотографували американського кіноактора Сильвестра Сталлоне на вулицях Лос-Анджелеса. Актор виймав із багажника автомобіля свої покупки.</p></div>
-            </div>
         </a>
         </Template></>;
 }

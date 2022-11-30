@@ -11,49 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Benzema"/>
         <meta name="description" content="Trending News about Benzema" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Benzema</h1>
-            <Image width={800} height={500} src="https://i.eurosport.com/2022/11/28/3499160-71330368-2560-1440.jpg" alt="Benzema"/>
+            <Image width={800} height={500} src="https://s2.glbimg.com/b-uKmIwF_881IdzBalG07Wa0hk4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/G/p/h1kFjOShipM1Ivt0SvDQ/000-32vz9tb.jpg" alt="Benzema"/>
             <h3>Recent News</h3>
-            <a href='https://www.eurosport.fr/football/coupe-du-monde/2022/equipe-de-france-karim-benzema-bientot-de-retour-a-l-entrainement-le-real-madrid-etonne-du-diagnosti_sto9249140/story.shtml'>
+            <a href='https://ge.globo.com/futebol/selecoes/franca/noticia/2022/11/29/deschamps-descarta-volta-de-benzema-a-copa-do-mundo-voces-estao-procurando-coisas.ghtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Equipe de France - Karim Benzema bientôt de retour à l ...</h3>
+                <h3>Deschamps descarta volta de Benzema à Copa do Mundo: &quot;Vocês ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcScSeKpD_eiQDNEDONFDke1SZSLxahUbFJm8wC_vWMTit_i9Ru_tgeI3iuobGDwRXI4sMteLWTw" alt="Equipe de France - Karim Benzema bientôt de retour à l ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>COUPE DU MONDE 2022 – Forfait pour la Coupe du monde après une blessure à l&#39;entraînement le 19 novembre dernier, Karim Benzema pourrait reprendre l&#39;entraînement&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR7H5sJ30CQbTDp13Cm8cI8xDnY3gD-G6F0j6-qxDKUovASgJlKPFA3cQj47Gcygr7QOmRLBuAg" alt="Deschamps descarta volta de Benzema à Copa do Mundo: &quot;Vocês ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Técnico da França demonstra impaciência com tema, que surgiu diante da possibilidade de atacante voltar a treinar nesta semana.</p></div>
             </div>
-        </a><a href='https://www.europe1.fr/sport/coupe-du-monde-2022-vers-un-retour-de-karim-benzema-avec-les-bleus-4150865'>
+        </a><a href='https://www1.folha.uol.com.br/esporte/2022/11/cotado-para-voltar-a-copa-benzema-viaja-para-ilha-e-tecnico-desconversa.shtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Coupe du monde 2022 : vers un retour de Karim Benzema avec les ...</h3>
+                <h3>Cotado para voltar à Copa, Benzema viaja para ilha, e técnico ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRaNxH-XV0lOmdtGkW8LZaN8jGKgcavKlbMPMZkXNVTYOSELvFQKHEn2ysvuyiUB-ohSBIbOn9v" alt="Coupe du monde 2022 : vers un retour de Karim Benzema avec les ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>C&#39;est la rumeur qui agite le monde footballistique. Karim Benzema pourrait-il revenir dans le groupe des Bleus après son forfait pour la Coupe du monde ?</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ2MCPpoepXJoJjQBSzJNT0lkTmygQSJQzN5g7lUtiC4HX2vX8OkWJ5sz7ti5bMq2_wf6gDCu8H" alt="Cotado para voltar à Copa, Benzema viaja para ilha, e técnico ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Jogador teve um possível retorno aos treinos do Real Madrid especulado e continua na lista da França nesta Copa.</p></div>
             </div>
-        </a><a href='https://www.sports.fr/football/coupe-du-monde-2022/benzema-grosse-annonce-670070.html'>
+        </a><a href='https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/11297780/benzema-recuperado-forma-milagrosa-pronto-voltar-copa-mundo-tecnico-franca-direto-sobre-possibilidade'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Benzema, la grosse annonce</h3>
+                <h3>Benzema recuperado de forma &#39;milagrosa&#39; e pronto para voltar à ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTjICCUAgaq20_guUKUEQVwhF206VAYURk6WEnbKD6sEPImadzEmodOBBHTHK9VfZGqY9OYsgKF" alt="Benzema, la grosse annonce" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Alors que la presse espagnole laissait entendre ce lundi que Karim Benzema était quasiment remis de sa blessure, l&#39;attaquant français ne serait en réalité&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSOXv8UoISvjQwf7ynnEdlPZVHzSg7o5fZe8oylPJXmbumT2Qv3d1O74vDH9ASLB6R-eD9bFI7m" alt="Benzema recuperado de forma &#39;milagrosa&#39; e pronto para voltar à ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Após a rádio espanhola Onda Cero afirmar, na última segunda-feira (29), que o atacante Karim Benzema estaria &quot;praticamente recuperado&quot; da lesão na coxa que&nbsp;...</p></div>
             </div>
-        </a><a href='https://rmcsport.bfmtv.com/football/equipe-de-france/equipe-de-france-non-karim-benzema-n-est-pas-apte-a-rejouer-pour-le-moment_AV-202211280762.html'>
+        </a><a href='https://www.mg.superesportes.com.br/app/noticias/futebol/copa-do-mundo/catar/2022/11/29/catar-2022,3981707/tecnico-da-franca-rechaca-volta-de-benzema-e-atacante-dispara-indireta.shtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Équipe de France: non, Karim Benzema n&#39;est pas apte à rejouer ...</h3>
+                <h3>Técnico da França rechaça volta de Benzema, e atacante dispara ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQONhuypSLOhJ2ph0F4xriQVSh0nSZuNa-j0L8qfaJAfio8hxL3BnhFsvtFRgN9wLTteQ9gnnJs" alt="Équipe de France: non, Karim Benzema n&#39;est pas apte à rejouer ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Dix jours après avoir été touché à la cuisse gauche, Karim Benzema poursuit sa convalescence à Madrid, après avoir déclaré forfait pour la Coupe du monde&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRi0IkFxK4uUOg71SbsP13cBWN0NXVa5CIMyeUnJUY1nVqYAg9E6xpRiV8CrgVBL84j1jBl0Q02" alt="Técnico da França rechaça volta de Benzema, e atacante dispara ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Atacante do Real Madrid foi cortado da Seleção Francesa três dias antes do início da Copa do Mundo devido a uma lesão muscular na perna esquerda.</p></div>
             </div>
-        </a><a href='https://le10sport.com/football/equipe-de-france/equipe-de-france-benzema-de-retour-au-qatar-le-verdict-tombe-623552'>
+        </a><a href='https://www.terra.com.br/esportes/futebol/deschamps-descarta-a-possibilidade-de-reintegrar-benzema-a-selecao-francesa-para-a-copa,eed233638aa75d628cd668c59afc2ae5jiatk9jy.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Équipe de France : Benzema de retour au Qatar ? Le verdict tombe</h3>
+                <h3>Deschamps descarta a possibilidade de reintegrar Benzema à ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRjJrgbdV2QH4QY8zV93iqAPhU3r1WCP-1jGO9dDyEa2yEqdxKmVc_01RHSY7k9nEpF4lcuL9i1" alt="Équipe de France : Benzema de retour au Qatar ? Le verdict tombe" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Touché au quadriceps de la cuisse gauche avant le début du Mondial, Karim Benzema serait sur le point de retrouver les pelouses. Un retour, qui pourrait…</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRpB1QlawBjkjRu8cKit_i9QgOTHYse5vxpT0LA5I2t8GrmQFQMuZtg9ZwTNbAuniTQg2CiWt9D" alt="Deschamps descarta a possibilidade de reintegrar Benzema à ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Didier Deschamps, técnico da seleção francesa, descartou a possibilidade de reintegrar o atacante Benzema à delegação presente no Catar para a disputa da&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.ladepeche.fr/2022/11/28/mondial-2022-au-qatar-et-si-karim-benzema-revenait-en-equipe-de-france-10832918.php'>
+        </a><a href='https://gauchazh.clicrbs.com.br/esportes/copa-do-mundo/noticia/2022/11/deschamps-descarta-reintegrar-benzema-e-se-incomoda-com-pergunta-nao-sei-o-que-voce-quer-insinuar-clb230g3500110170i1g5p8nv.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Coupe du monde 2022 au Qatar : et si Karim Benzema revenait en ...</h3>
+                <h3>Deschamps descarta reintegrar Benzema e se incomoda com ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSGrOkKy_1FI0XDa4-YL0VoCy79Yjn_oGzVeCVnoTV57xM_RI1YGF2ZkMfV0MMaLfcxb7dX1dol" alt="Coupe du monde 2022 au Qatar : et si Karim Benzema revenait en ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Rien dans le règlement n&#39;interdit à Karim Benzema de revenir pour la suite de la compétition, alors qu&#39;il se rétablit rapidement de sa blessure.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTAbm7ivfQMj2pMNnR8F0d6tYbvJTu1JbXF2BtyDnSDTnP8PYba-EYQDbS1gNbMOoj48Mjgo2YV" alt="Deschamps descarta reintegrar Benzema e se incomoda com ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Treinador da França garante que atacante foi cortado por não ter condições físicas e disse que seu foco está nos 24 jogadores que seguem no plantel no&nbsp;...</p></div>
+            </div>
+        </a><a href='https://autopapo.uol.com.br/curta/carros-benzema-melhor-jogador-mundo/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Carros do melhor jogador do mundo: Benzema é amante das quatro ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRWUQn_21zhOQPvEDkzncEeZxPYPqkNS91R89AsqTc4CH_ksV144wy2ROtFVaxCrMnEcvXN6R9J" alt="Carros do melhor jogador do mundo: Benzema é amante das quatro ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Karim Benzema é o atual ganhador da Bola de Ouro e principal jogador da França. Fora da copa do mundo por uma lesão na coxa esquerda, o jogador que,&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

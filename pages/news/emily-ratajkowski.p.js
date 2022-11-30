@@ -34,26 +34,26 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQK4mmPsETTEHXZUgDOOxyN5TAWMubUoetovztH-YrD8sy4JXe5F5-GPExnrR1v1rPcUdR9_k0y" alt="Pete Davidson and Emily Ratajkowski Wore Incredibly Normal ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Christine Taylor Ben Stiller Pete Davidson Emily Ratajkowski Jordin Sparks and Dana Isaiah watch the action. Jamie Squire/Getty Images. For Pete and Emrata, no&nbsp;...</p></div>
             </div>
+        </a><a href='https://sports.yahoo.com/pete-davidson-emily-ratajkowski-public-221846738.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Pete Davidson and Emily Ratajkowski Go Public For the First Time ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRb9Xyx-6cmGI-_BOD4QSz2dqSvqp8Vk9gm5n_4mVAhm4LhUnJ2M2tMqD3uuXVIFBW4ktaEFRgG" alt="Pete Davidson and Emily Ratajkowski Go Public For the First Time ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Pete Davidson and Emily Ratajkowski take their romance courtside! The two just made their first public appearance together on Sunday night at the New York&nbsp;...</p></div>
+            </div>
         </a><a href='https://www.vanityfair.com/style/2022/11/pete-davidson-emily-ratajkowski-basketball-game-dating-rumors-photographed-hugging'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Pete Davidson and Emily Ratajkowski Fuel Dating Rumors by Going ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQK4mmPsETTEHXZUgDOOxyN5TAWMubUoetovztH-YrD8sy4JXe5F5-GPExnrR1v1rPcUdR9_k0y" alt="Pete Davidson and Emily Ratajkowski Fuel Dating Rumors by Going ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>This wasn&#39;t exactly a low-key outing for this budding relationship given that the pair were seated court-side between Ben Stiller and his wife Christine Taylor&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>A couple weeks after being photographed hugging in the hallway of a Brooklyn building, the former SNL star and the model had a date night at Madison Square&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.harpersbazaar.com/celebrity/latest/a42083967/all-photos-emily-ratajkowski-pete-davidson-nba-courtside-date-pda/'>
+        </a><a href='https://www.foxla.com/news/pete-davidson-emily-ratajkowski-courtside-nba-new-york-knicks-game'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>All the Photos from Emily Ratajkowski and Pete Davidson&#39;s ...</h3>
+                <h3>Pete Davidson and Emily Ratajkowski go public with courtside date ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSpP1fgw7iH9sETXF3X1qyuIepfSPU02o032Dd3U1pmdLjCNEOsHVHZo-kX8CvUqAO7V4tFGn2E" alt="All the Photos from Emily Ratajkowski and Pete Davidson&#39;s ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Emily Ratajkowski and Pete Davidson made their official debut as a couple over the weekend following much speculation about their burgeoning romance and one&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.glamour.com/story/pete-davidson-and-emily-ratajkowski-confirmed-dating-rumors-at-a-knicks-game'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Pete Davidson and Emily Ratajkowski Confirmed Dating Rumors at ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSx0FYHNzMbV2uhTn7-o7n0gbrgXKTJ_sO_bp-me9TIDUZn_t_w8cXxn2vrAA0_R1goTU6QJW6t" alt="Pete Davidson and Emily Ratajkowski Confirmed Dating Rumors at ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Pete Davidson and Emily Ratajkowski attended a Knicks game together, confirming all those rumors that they&#39;re dating.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQThUdub2bTLaeIk3QoO36-9a3evhnZjEs1oMtbSA7aXTpxKgiEM1tIFhcRJAeO-V0KW2eF5gEI" alt="Pete Davidson and Emily Ratajkowski go public with courtside date ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Davidson previously dated Kim Kardashian and was once engaged to Ariana Grande. Ratajkowski filed for divorce from Sebastian Bear-McClard in September.</p></div>
             </div>
         </a>
         </Template></>;

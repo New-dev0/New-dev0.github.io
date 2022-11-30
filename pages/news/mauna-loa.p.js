@@ -11,56 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Mauna Loa"/>
         <meta name="description" content="Trending News about Mauna Loa" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Mauna Loa</h1>
-            <Image width={800} height={500} src="https://www.zdf.de/assets/hawaii-mauna-loa-ausbruch-100~1280x720?cb=1669672707294" alt="Mauna Loa"/>
+            <Image width={800} height={500} src="https://img.lemde.fr/2022/11/28/42/0/960/640/1440/960/60/0/dcda0ef_5865926-01-06.jpg" alt="Mauna Loa"/>
             <h3>Recent News</h3>
-            <a href='https://www.zdf.de/nachrichten/panorama/hawaii-vulkan-mauna-loa-ausbruch-lava-100.html'>
+            <a href='https://www.lemonde.fr/planete/article/2022/11/29/le-mauna-loa-plus-gros-volcan-du-monde-est-entre-en-eruption-a-hawai_6152121_3244.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Vulkan Mauna Loa auf Hawaii bricht aus</h3>
+                <h3>Le Mauna Loa, plus gros volcan du monde, est entré en éruption à ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTR7OUOOLA8j4ptYwpEY0QWk_FjCe0PPgDQy0LuTmz2yAheyaeKyFjsOeZ1jAhxetbhNsDTIi6i" alt="Vulkan Mauna Loa auf Hawaii bricht aus" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Vor knapp 40 Jahren brach der Mauna Loa auf Hawaii das letzte Mal aus - jetzt spuckt der größte aktive Vulkan der Welt wieder Lava.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSvcG6EKIo1UgVBARw8p2mdlow_ddst0JPUDr5HMXDdDXRVFm1JoZtLJZbS-Pv52tH04WfewJ94" alt="Le Mauna Loa, plus gros volcan du monde, est entré en éruption à ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Les coulées de lave du volcan, en « pause éruptive » depuis presque quarante ans, ne menacent pas pour l&#39;instant les habitants de l&#39;île américaine.</p></div>
             </div>
-        </a><a href='https://www.faz.net/aktuell/gesellschaft/ungluecke/mauna-loa-auf-hawaii-hoechster-aktiver-vulkan-der-welt-ausgebrochen-18494992.html'>
+        </a><a href='https://www.tf1info.fr/international/video-volcan-hawai-les-images-impressionnantes-du-mauna-loa-le-plus-grand-des-volcans-actifs-au-monde-2240233.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mauna Loa auf Hawaii: Höchster aktiver Vulkan der Welt ...</h3>
+                <h3>VIDÉO - Éruption du Mauna Loa à Hawaï : les images ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQHZ83N0-6KF1hyhgcHg8uktqT8LSPs3S2VQRTCeAk1LDXjRq2cxJ5UD1gFbVSSp_RfifK9VSos" alt="Mauna Loa auf Hawaii: Höchster aktiver Vulkan der Welt ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Am späten Sonntagabend ist auf Hawaii der Vulkan Mauna Loa ausgebrochen – erstmals seit fast 40 Jahren. Gefahr durch Lavaströme besteht...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcShZ1Xn8XI00Q-XcwawTLShIgjZPMLXrk4O7GSYygtoOx9kou3HMSxNNVJ617elPbVtT3RbxfSG" alt="VIDÉO - Éruption du Mauna Loa à Hawaï : les images ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>[VIDÉO] ▶️ À Hawaï, le Manau Loa, le plus grand volcan actif au monde, s&#39;est réveillé. Cela faisait 38 ans qu&#39;il était endormi. Découvrez les images&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.derstandard.de/story/2000141304965/mauna-loa-groesster-aktiver-vulkan-der-welt-auf-hawaii-ausgebrochen'>
+        </a><a href='https://www.sudouest.fr/international/etats-unis/video-hawai-le-mauna-loa-plus-gros-volcan-actif-du-monde-crache-d-immenses-fontaines-de-lave-13184287.php'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mauna Loa: Größter aktiver Vulkan der Welt auf Hawaii ausgebrochen</h3>
+                <h3>Vidéo. Hawaï : le Mauna Loa, plus gros volcan actif du monde ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQti0PAk1-uLIw5OzmCS9-DDMihCCFyOiBydJ4k7s96UEwzx1QVEb8pT4HQSIQqDRU2F_QcvGbY" alt="Mauna Loa: Größter aktiver Vulkan der Welt auf Hawaii ausgebrochen" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Lava trete aus dem Schildvulkan Mauna Loa auf der größten hawaiianischen Insel Big Island aus, die Ortschaften an den Hängen des Vulkans seien derzeit nicht&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQMWmar6EQ9Q8fU5JI9qjSXOj1GZy4p2fR2S7IqS-Yo0ZXIftqv5pR0T8pzt2Sl-ERj0ptnzbF0" alt="Vidéo. Hawaï : le Mauna Loa, plus gros volcan actif du monde ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Après 38 ans sans effusion, le Mauna Loa, plus gros volcan actif du monde, est entré en éruption dimanche soir à Hawaï. Il crache désormais des fontaines de&nbsp;...</p></div>
             </div>
-        </a><a href='https://tri-mag.de/szene/ausbruch-des-mauna-loa-auf-hawaii-der-stand-der-dinge/'>
+        </a><a href='https://www.courrierinternational.com/article/video-a-hawaii-le-volcan-mauna-loa-est-entre-en-eruption-pour-la-premiere-fois-depuis-1984'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ausbruch des Mauna Loa auf Hawaii: Der Stand der Dinge</h3>
+                <h3>À Hawaii, le volcan Mauna Loa est entré en éruption pour la ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTY8U-34snTq64qxOThpJ-PrH6Mjxktxhrf30h7QLfMg1DMdHbVEgAZ4GRCymK0YrekjUexygx2" alt="Ausbruch des Mauna Loa auf Hawaii: Der Stand der Dinge" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Der größte Vulkan der Welt spuckt wieder Feuer. Was hat es mit dem Ausbruch des Mauna Loa auf sich, was bedeutet das für Kailua-Kona und ist der Ironman&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR-wZtrfNJr7SiPFyRAI3wfU4PNFnCCBi5EQvN2uETvLZgxlREHDALZI3vidsjFwqIJO0l9sLxm" alt="À Hawaii, le volcan Mauna Loa est entré en éruption pour la ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Après des décennies de silence et des semaines d&#39;intense activité sismique à proximité de sa caldeira, le volcan hawaïen Mauna Loa, le plus grand du monde,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.tagesschau.de/ausland/amerika/vulkanausbruch-mauna-loa-101.html'>
+        </a><a href='https://fr.euronews.com/2022/11/29/hawaii-reveil-du-plus-grand-volcan-actif-du-monde-le-mauna-loa'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mauna Loa auf Hawaii: Größter Vulkan der Welt ist ausgebrochen</h3>
+                <h3>Eruption du volcan Mauna Loa à Hawaï : faut-il s&#39;en inquiéter ?</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSQk_x59mQsMnL_6nfP4UN_mtKwgbtm9vDn2mIGJtjG8OU7EUQDQeibIcS6pHDHkgNe2VCFrKCD" alt="Mauna Loa auf Hawaii: Größter Vulkan der Welt ist ausgebrochen" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Asche und Gestein schleudert der hawaiianische Mauna Loa auf seine Hänge herab. Damit ist nach US-Angaben der weltweit größte Vulkan ausgebrochen.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT4VBXE5lLG33CbHSWU0Xwyox6isMNW8yGISdxE0d3IXKDaHYpSqMBFvqWAMEXESXst6xSxZi86" alt="Eruption du volcan Mauna Loa à Hawaï : faut-il s&#39;en inquiéter ?" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A Hawaï, le Mauna Loa s&#39;est réveillé. Il n&#39;était pas rentré en éruption depuis 1984. Quatre choses à savoir sur le plus grand volcan actif au monde.</p></div>
             </div>
-        </a><a href='https://de.euronews.com/2022/11/28/hawaii-vulkan-mauna-loa-ausgebrochen'>
+        </a><a href='https://www.huffingtonpost.fr/international/video/a-hawai-le-volcan-mauna-loa-entre-en-eruption-et-le-ciel-se-teinte-de-rouge_210868.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Hawaii: Vulkan Mauna Loa ausgebrochen</h3>
+                <h3>Le ciel d&#39;Hawaï se teinte de rouge avec l&#39;éruption du volcan Mauna ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQiJo-oCF9gb4uKN7lG0tLbj1EKIGombl2-7oCFuAPlwTQV3DzM3MusYRVWQuobYJOqzEKpoHw0" alt="Hawaii: Vulkan Mauna Loa ausgebrochen" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Fast 40 Jahre lang war der höchste aktive Vulkan der Welt ruhig.</p></div>
-            </div>
-        </a><a href='https://www.zeit.de/wissen/umwelt/2022-11/hawaii-vulkan-mauna-loa-ausbruch-erdbeben'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Hawaii: Vulkan Mauna Loa ausgebrochen</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRFF7Nmgg5ab12jGoyUHqlCg0GQb88zzMNYSTuuzed19YiyH5FYy88068-LRrmC53ZwYK_MMp-g" alt="Hawaii: Vulkan Mauna Loa ausgebrochen" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>40 Jahre lang hat der höchste aktive Vulkan der Welt auf Hawaiis größter Insel stillgelegen. Begleitet von mehreren kleinen Erdbeben hat es nun eine&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTA9PCgIRq9jnDtvRQyt_soUvbam15DICSpwUDp9ObBno2BryDke-WlEMQjSfhQ0kTwdogYVq7y" alt="Le ciel d&#39;Hawaï se teinte de rouge avec l&#39;éruption du volcan Mauna ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Le plus grand volcan actif du monde vient d&#39;entrer en éruption à Hawaï pour la première fois en 38 ans. Son réveil s&#39;observe jusque dans le ciel.</p></div>
             </div>
         </a>
         </Template></>;

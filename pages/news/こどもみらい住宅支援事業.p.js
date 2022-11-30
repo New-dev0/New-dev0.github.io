@@ -18,13 +18,13 @@ export default function Page() {
                 <h3>国土交通省｜報道資料｜こどもみらい住宅支援事業において、予算 ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="" alt="国土交通省｜報道資料｜こどもみらい住宅支援事業において、予算 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>育て世帯や若者夫婦世帯の住宅取得に伴う負担軽減を図るとともに、省エネ性能を有する住宅ストックの形成を図る「こどもみらい住宅支援事業」は、予算上限に対する交付&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>子育て世帯や若者夫婦世帯の住宅取得に伴う負担軽減を図るとともに、省エネ性能を有する住宅ストックの形成を図る「こどもみらい住宅支援事業」は、予算上限に対する&nbsp;...</p></div>
             </div>
         </a><a href='https://www.housenews.jp/executive/22919'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>こどもみらい支援事業、予算学に到達、申請受付を終了</h3>
+                <h3>こどもみらい支援事業、予算額に到達、申請受付を終了</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="こどもみらい支援事業、予算学に到達、申請受付を終了" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="" alt="こどもみらい支援事業、予算額に到達、申請受付を終了" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>住まいや暮らし、ハウスメーカーや住宅設備メーカー、地域工務店、行政、自治体まで、住宅に関するあらゆるニュースを幅広く取り上げます.</p></div>
             </div>
         </a>

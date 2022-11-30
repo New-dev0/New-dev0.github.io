@@ -17,15 +17,8 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>つぎのメインは“哀ちゃん”!? 劇場版『名探偵コナン』最新作の予告編 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQcLNrX4YklOXIcHCKeO78PcE4f4Ij9rJMV0va8cAm2Mk14VyIM7Gv76grrjBRjnLVStmJNZkQ7" alt="つぎのメインは“哀ちゃん”!? 劇場版『名探偵コナン』最新作の予告編 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>2022年11月8日に、Twitterで“哀ちゃん”というワードがトレンド入りを果たしました。きっかけとなったのは、2023年に公開される劇場版『名探偵コナン』の最新情報。</p></div>
-            </div>
-        </a><a href='https://animeanime.jp/article/2022/11/27/73803.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>「名探偵コナン」安室や風見、警察学校組も！グラデーションで ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSXJNxdG23KsCR2kxNmfvzg_ulD6p6yEjSJUIAZdf7VM47ssLWoLXEq-X9YIQRi9LFgPoj_D_1G" alt="「名探偵コナン」安室や風見、警察学校組も！グラデーションで ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>TVアニメ『名探偵コナン』より、「日常でも使用できる」をコンセプトにしたオリジナルグッズが発売される。</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTpq4kEExLiYulHwobL_x2O-dT5k33hQK2Si35LCav4BW3wihkAPXltQ60NfzmfoOEIWq6frcb2" alt="つぎのメインは“哀ちゃん”!? 劇場版『名探偵コナン』最新作の予告編 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>きっかけは11月8日に解禁された、劇場版『名探偵コナン』の予告映像です。動画が始まると、灰原哀に関わるマンガ内の絵やセリフがつぎつぎと登場。最後にタイトルの一部と&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

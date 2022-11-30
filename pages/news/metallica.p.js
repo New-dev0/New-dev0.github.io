@@ -27,6 +27,41 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS_H6Azk_YbpWts7ScYwdnxoWgKVnypnMQApvA9u6UQGTz1NGWczEjilh7XU1uxnOn78jv1ZI1C" alt="The Enduring Metal Genius of Metallica" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Metallica&#39;s current lineup includes the singer and rhythm guitarist James Hetfield and the drummer Lars Ulrich, both of whom co-founded the band; the lead&nbsp;...</p></div>
             </div>
+        </a><a href='https://www.billboard.com/culture/product-recommendations/metallica-wolverine-giving-tuesday-collaboration-shop-1235178348/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Metallica &amp; Wolverine Celebrate &#39;Giving Tuesday&#39; With a New Collab ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS9G3nn_f0JfSm2dtd7ksUn6IK8LQohuJKKPcOkK9YG7fNXHGKJjykxOi75O8QW0hK0RBiUvtCq" alt="Metallica &amp; Wolverine Celebrate &#39;Giving Tuesday&#39; With a New Collab ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>This latest collaboration, featuring collectible artwork from artist and Metallica collaboration Brandon Heart, marks the third consecutive year that Metallica&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.music-news.com/news/UK/154055/Metallica-return-with-new-album-and-mammoth-world-tour'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Metallica return with new album and mammoth world tour</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRN-HRnj_Czn2i05BNiugnpVlFIhpCbZmrVvgDjexYwi90JX2P8aTle0sSEi42LlvCSVLQWjvjC" alt="Metallica return with new album and mammoth world tour" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Metallica return with new album and mammoth world tour - The Number One music magazine feat. band &amp; artist news, reviews, interviews, videos &amp; gossip UK&nbsp;...</p></div>
+            </div>
+        </a><a href='https://variety.com/2022/music/news/metallica-new-album-72-seasons-world-tour-1235443111/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Metallica Announces New Album, &#39;72 Seasons,&#39; and Two-Year ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTO2_32ddEg867dZfZap6HzSDRoU0Mx1VMpXOpVI6VE73YjVcv6bDAYCgVpIyPYHfye-pptZE9C" alt="Metallica Announces New Album, &#39;72 Seasons,&#39; and Two-Year ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Metallica has dropped the first single from its forthcoming 12th studio album, &#39;72 Seasons,&#39; and unveiled tour dates for the next two years.</p></div>
+            </div>
+        </a><a href='https://www.distractify.com/p/lux-aeterna-metallica-meaning'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>What Is the Meaning of Metallica&#39;s New Song &quot;Lux Aeterna&quot;?</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSy28HlYhbzHMrOLeFfXQ4gwzXFUbW_C31WjI7qiQ9BqDnQpmU6FBQZ9aDQ7CXoa-XV24xc8oz2" alt="What Is the Meaning of Metallica&#39;s New Song &quot;Lux Aeterna&quot;?" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>If there&#39;s one undisputed king of heavy metal music nowadays, it goes without saying that its Metallica. The San Fransisco-based creation of&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.foxnews.com/entertainment/metallica-drummer-talks-master-puppets-collaboration-stranger-things'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Metallica drummer talks how their &#39;Master of Puppets&#39; collaboration ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS3VoqevVNenLjTE8SxOi5O97hgqWZQAwT1eQZAxJ_MUPQ-yL3Nld7qPuwY1WSYQ7ztg6H4wEbp" alt="Metallica drummer talks how their &#39;Master of Puppets&#39; collaboration ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lee Ulrich, Metallica&#39;s drummer spoke about how the famous Eddie Munson &quot;Master of Puppets&quot; scene came to be in the &quot;Stranger Things&quot; season four finale.</p></div>
+            </div>
         </a><a href='https://www.forbes.com/sites/quentinsinger/2022/11/28/metallica-announce-new-album--2203--2024-world-tour/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Metallica Announce New Album &amp; 2023-2024 World Tour</h3>
@@ -41,33 +76,12 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR-Re6AD_-qQhJxfjCbdSvTESGabTNkSJPkeh_kEDFtakE2DqvGpAW4N10MamxsgdrC6_SF7xrK" alt="Metallica announces 2 concerts in metro Phoenix. Everything fans ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Metallica&#39;s M72 tour comes to Glendale in 2023. The No Repeat Weekend features Pantera, Five Finger Death Punch, Mammoth WVH and Ice Nine Kills.</p></div>
             </div>
-        </a><a href='https://www.seattletimes.com/entertainment/music/metallica-announces-2-massive-seattle-shows/'>
+        </a><a href='https://loudwire.com/metallica-stranger-things-lars-ulrich-howard-stern-interview-video/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Metallica announces 2 massive Seattle shows</h3>
+                <h3>Lars Ulrich Reveals How Metallica + &#39;Stranger Things&#39; Collab ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTJnMgLRF4lF2pidZObWM-Bj5WC-rtnF_8NjpAl0CLcWK1fKQueQuRaCM2otm5IXwN0kYim56iM" alt="Metallica announces 2 massive Seattle shows" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Seattle headbangers are in store for a &quot;no repeat weekend&quot; when the metal gods come to town. But it&#39;s going to be a long wait.</p></div>
-            </div>
-        </a><a href='https://www.nj.com/live-entertainment/2022/11/metallica-announces-huge-2023-tour-but-theres-a-catch-if-you-want-tickets.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Metallica announces huge 2023 tour, but there&#39;s a catch if you want ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQHiVyJsHVbfk37xDNb_NBc03kjxwXAwwGmb9iCHNK5AzzF8dd14zzH_-urDzXJjAPUjeVTKJ8U" alt="Metallica announces huge 2023 tour, but there&#39;s a catch if you want ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The &#39;M72&#39; tour will feature 46 concerts in 23 cities.</p></div>
-            </div>
-        </a><a href='https://variety.com/2022/music/news/metallica-new-album-72-seasons-world-tour-1235443111/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Metallica Announces New Album, &#39;72 Seasons,&#39; and Two-Year ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRY6mYKbl3dDUXisLGtImtqBMOrnATGgnHLnpMUKb4s0bd2uI1I6KZygWLf7xzC-V8tzsa_HAWr" alt="Metallica Announces New Album, &#39;72 Seasons,&#39; and Two-Year ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Metallica has dropped the first single from its forthcoming 12th studio album, &#39;72 Seasons,&#39; and unveiled tour dates for the next two years.</p></div>
-            </div>
-        </a><a href='https://www.12news.com/article/syndication/spanish/le-contamos-lo-que-debe-saber-sobre-los-conciertos-de-metallica-en-arizona-y-su-nuevo-material-discogrfico/75-39fa008e-9afe-44e3-97e4-273fe9a74467'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Le contamos lo que debe saber sobre los conciertos de Metallica en ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRZiJxS7wB1_kmVpCNS39iGhsdFIt67mSjpn8wGakA6QVWMexPS67PD4fs-w770NjbBqQ7ZKFm4" alt="Le contamos lo que debe saber sobre los conciertos de Metallica en ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Metallica se detendrá durante dos noches en el State Farm Stadium en Glendale, Arizona con dos noches que prometen buenas dosis de metal.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTeqeOlAakCOovmeV84GU6m5eJWBVLvBwX-yCbTVXWKJKWmKIufXRhYyIXvm8rIXg3MZIw_Dy5s" alt="Lars Ulrich Reveals How Metallica + &#39;Stranger Things&#39; Collab ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Watch the video down toward the bottom of this post. &quot;That was such a mindfuck of an experience this summer,&quot; Ulrich tells host Howard Stern. &quot;It used to be,&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

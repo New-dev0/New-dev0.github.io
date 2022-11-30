@@ -20,6 +20,13 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRl3kvj6geK8rH5wJyTm40xzfm6Gr4Kf6UY02JueISj66imlvaCObYrEu538-Yg4AU4CtcEx2Ti" alt="Рождественский пост 2022: календарь питания по дням, что ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Рождественский пост в 2022 году начнется у православных христиан 28 ноября. Продлится он по 6 января. Это последний из четырех многодневных постов&nbsp;...</p></div>
             </div>
+        </a><a href='https://foma.ru/u-pravoslavnyh-nastupil-rozhdestvenskij-post-2022.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>У православных наступил Рождественский пост 2022 ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSiuWnZGb91Om5v8Jn943YwOqwDKBchnb3g7laPzZ0ujLTrO4cx4T8B0rJLuodHypv41UPCOvtj" alt="У православных наступил Рождественский пост 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В понедельник 28 ноября 2022 года у православных христиан начался Рождественский (Филиппов) пост – последний многодневный пост в календарном году.</p></div>
+            </div>
         </a><a href='https://ntr.city/news/religion/111090/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Рождественский пост 2022: календарь питания по дням недели</h3>
@@ -27,12 +34,12 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQvrhkeuMS_YpPABqpW6dVGPr2Cy3AIOidzo_csOUg0QzzowuO8AEITgrkRgW6ycbshP-fxVXEZ" alt="Рождественский пост 2022: календарь питания по дням недели" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Рождественский пост в 2022 году начинается 28 ноября. Он продлится ровно 40 дней и завершится в Сочельник, 6 января. Уже 7 января верующие разговляются и&nbsp;...</p></div>
             </div>
-        </a><a href='https://foma.ru/u-pravoslavnyh-nastupil-rozhdestvenskij-post-2022.html'>
+        </a><a href='https://tolknews.ru/obsestvo/135402-kak-pravilno-provesti-rozhdestvenskiy-post-chtobi-eto-bila-ne-prosto-dieta'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>У православных наступил Рождественский пост 2022 ...</h3>
+                <h3>Как правильно провести Рождественский пост, чтобы он был не ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSiuWnZGb91Om5v8Jn943YwOqwDKBchnb3g7laPzZ0ujLTrO4cx4T8B0rJLuodHypv41UPCOvtj" alt="У православных наступил Рождественский пост 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В понедельник 28 ноября 2022 года у православных христиан начался Рождественский (Филиппов) пост – последний многодневный пост в календарном году.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ8cXRATIklxQFb-iOR2mfydpHJqsfnzxutmG_Ydi2d8KaCi6Dy1t-uHhBo4DFgZ0kCJ-YeCM4a" alt="Как правильно провести Рождественский пост, чтобы он был не ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Рождественский пост начался в понедельник, 28 ноября. Он будет длиться 40 дней и завершится накануне светлого церковного праздника Рождества Христова.</p></div>
             </div>
         </a><a href='https://vm.ru/society/1014322-rozhdestvenskij-post-v-2022-godu-kogda-nachinaetsya-skolko-dlitsya-zachem-postitsya'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -47,13 +54,6 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRd8mnuHhB4BiDlz8vRuHEQZEfYGxhzNXuw72VvZJCd8Cb9OamK2QxYfIapHS52Wxx4RvGMy8Ii" alt="Рождественский пост 2022: что нельзя делать" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Рождество 25 декабря отмечают римо-католическая церковь, большинство протестантских церквей и православных церквей мира, поэтому Рождественский или Филипповский&nbsp;...</p></div>
-            </div>
-        </a><a href='https://soc.obozrevatel.com/prazdniki/rozhdestvenskij-post-2022-2023-chto-pod-zapretom-u-pravoslavnyih.htm'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Рождественский пост 2022-2023: когда начнется и что под ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQSRyIxQvXRUoZUGVJD0nbjuqPXWCT_OxTP5fPqzPVehe_6gNy0Qpm091st5wR2HuLpJUkaFv86" alt="Рождественский пост 2022-2023: когда начнется и что под ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Рождественский пост у православных украинцев длится с 28 ноября по 6 января. О том, как правильно соблюдать Рождественский пост, читайте в материале&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

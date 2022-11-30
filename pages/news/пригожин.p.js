@@ -13,54 +13,54 @@ export default function Page() {
             <h1 style={{fontSize: "30"}}>Пригожин</h1>
             <Image width={800} height={500} src="" alt="Пригожин"/>
             <h3>Recent News</h3>
-            <a href='https://news.ru/society/prigozhin-otreagiroval-na-obyavlenie-v-rozysk-so-storony-fbr/'>
+            <a href='https://meduza.io/news/2022/11/29/prigozhin-zayavil-chto-pogibshiy-v-ukraine-grazhdanin-zambii-byl-zaverbovan-chvk-vagnera'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Пригожин отреагировал на объявление в розыск со стороны ФБР</h3>
+                <h3>Пригожин заявил, что погибший в Украине гражданин Замбии ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRjJX1652O8RbOxgWlvRLC4bOq60kiDLJwbBIt868pWu7lPs8x9_yLfO4D9U90q5oSrxRIpksDe" alt="Пригожин отреагировал на объявление в розыск со стороны ФБР" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Отношусь к этому (объявлению в розыск. — NEWS.ru) очень позитивно. Представляете, сколько простых людей смогут подзаработать. Да и я сам был бы не прочь.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQoJ0FlXMrOnCQEtlqtRZ0hrdnDzLWsxmZySmxNlRGJ-x5W0yThwBnfT9dYNebp6jz3kHt4c7li" alt="Пригожин заявил, что погибший в Украине гражданин Замбии ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Бизнесмен Евгений Пригожин подтвердил сведения о том, что его ЧВК Вагнера завербовала в российской колонии гражданина Замбии Лемехани Ньиренду,&nbsp;...</p></div>
             </div>
-        </a><a href='https://forpost-sz.ru/a/2022-11-26/fbr-zaplatit-250-tysyach-dollarov-za-pomoshch-v-zaderzhanii-prigozhina'>
+        </a><a href='https://zerkalo.az/prigozhin-podtverdil-chto-zaverboval-v-chvk-vagnera-zeka-iz-zambii/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ФБР заплатит 250 тысяч долларов за помощь в задержании ...</h3>
+                <h3>Пригожин подтвердил, что завербовал в &quot;ЧВК Вагнера&quot; зека из ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSVJYCbiAzpYH3iDRM_IE1uyzLSDfl_kg1O3UzW6Exg_E_pXI5z6PJC_GUEI5enxJeC0q3tZ58I" alt="ФБР заплатит 250 тысяч долларов за помощь в задержании ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Служба внутренней разведки Соединённых Штатов ищет предпринимателя из Северной столицы. В субботу, 26 ноября, стало известно, что Федеральное бюро&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQh7bTM8WhOFCu3ze8zc6P-Ww0avIVhhq3UP4Nj1MeHxQabmTc6dNd0Nbf4T_2-ampBWZwhZyAi" alt="Пригожин подтвердил, что завербовал в &quot;ЧВК Вагнера&quot; зека из ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Пригожин подтвердил, что завербовал в &quot;ЧВК Вагнера&quot; зека из Замбии. О гибели Ньиренды в зоне боёв России с Украиной стало известно в середине ноября.</p></div>
             </div>
-        </a><a href='https://www.ostro.org/general/society/news/653003/'>
+        </a><a href='https://rtvi.com/news/prigozhin-zayavil-chto-pogibshij-na-ukraine-grazhdanin-zambii-sostoyal-v-chvk-vagnera/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ФБР объявило в розыск главаря ЧВК &quot;Вагнер&quot; Пригожина</h3>
+                <h3>Пригожин подтвердил, что погибший на Украине гражданин ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSbxWQLCN8Vc_lYmYW2jUo-7NCE9PhlBhESifpmx7JyCZs2IzevTNqTRDPhksAO7MCZzqhFf99d" alt="ФБР объявило в розыск главаря ЧВК &quot;Вагнер&quot; Пригожина" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Федеральное Бюро расследований объявило в розыск главаря ЧВК &quot;Вагнер&quot; Евгения Пригожина. Об этом сообщается на официальном сайте.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ5fBn9LZWF8MWTpnoEHFq4WiDZJMvYUQ34YvobK3k98mVlh5tH9YmPdRdh6RdbCv506fjqlJye" alt="Пригожин подтвердил, что погибший на Украине гражданин ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Бизнесмен Евгений Пригожин подтвердил факт гибели 23-летнего гражданина Замбии Лемехани Натана Ньиренды, который участвовал в боевых действиях на Украине в&nbsp;...</p></div>
             </div>
-        </a><a href='https://glavcom.ua/ru/news/fbr-objavilo-v-rozysk-povara-putina-obeshchajushcheho-bolshuju-nahradu-891607.html'>
+        </a><a href='https://eadaily.com/ru/news/2022/11/29/prigozhin-soobshchil-kak-pogib-na-ukraine-boec-chvk-vagner-iz-zambii'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ФБР объявило в розыск «повара Путина», обещает большую ...</h3>
+                <h3>Пригожин сообщил, как погиб на Украине боец ЧВК «Вагнер» из ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQiBV2q5zMVw4XKHVRDK9sH_ULdxLt_9eM5lq1zASZCPytWXGFXll47Knc3zgQZlURXwlk7sSfe" alt="ФБР объявило в розыск «повара Путина», обещает большую ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Пригожин подозревается в сговоре с целью вмешательства во внутреннюю политику США.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTRPIcLSXyRgCTyXKd30ChOBN1iqna9Gqe9cWertPUBO0yRxSK229t5SWFTBBzOAC1NttiGNNS-" alt="Пригожин сообщил, как погиб на Украине боец ЧВК «Вагнер» из ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>23-летний гражданин Замбии Ньиренда Лемекани Нэйтан, участвующий в составе ЧВК «Вагнер» в специальной военной операции, погиб, ворвавшись одним из первых в&nbsp;...</p></div>
             </div>
-        </a><a href='https://ug.tsargrad.tv/news/prigozhin-ocenil-svoj-rozysk-agentami-fbr-skolko-smogut-podzarabotat_673047'>
+        </a><a href='https://www.m24.ru/news/proisshestviya/29112022/526183'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Пригожин оценил свой розыск агентами ФБР: &quot;Сколько смогут ...</h3>
+                <h3>Пригожин подтвердил гибель осужденного в РФ студента из ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQen8a_850PUGRgOrhMmwlyXvVMhwvwMktsOGjv3twy2nnZ43jG9zCA3Z38a3i2TLZIMRAkuOwb" alt="Пригожин оценил свой розыск агентами ФБР: &quot;Сколько смогут ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Петербургский бизнесмен Евгений Пригожин язвительно прокомментировал сообщения о том, что он разыскивается ФБР.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS7QKRlOFkBQ3YGLw80XFfrO9_wr3_GQt_r-iqidxinoyo8xZhzuVzWQBIAM-7THcasD-rPHR8e" alt="Пригожин подтвердил гибель осужденного в РФ студента из ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Осужденный в России студент из Замбии Лемехани Натан Найренда одним из первых ворвался в окопы противника, проявив храбрость, и погиб героем 22 сентября.</p></div>
             </div>
-        </a><a href='https://vmo24.ru/news/ne_dayte_sebya_obmanut_prigozhin_prizval_ne_verit_obeshchaniyam_fbr_o_nagrade_za_informaciyu_o_ego_mestonahozhdenii'>
+        </a><a href='https://m.business-gazeta.ru/news/573831'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>«Не дайте себя обмануть»: Пригожин призвал не верить ...</h3>
+                <h3>Пригожин рассказал, как на спецоперации погиб парень из Замбии</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQVRSJ-HhsTv8OmQQbFAhu09xG6WwWwk6LDXMe_P3-blY05U7ZOUQUfAuLaEXY_B6QZaCSpJ0mx" alt="«Не дайте себя обмануть»: Пригожин призвал не верить ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Свидетельство о регистрации СМИ ЭЛ № ФС 77 - 70501. Выдано Роскомнадзором 25.07.2017. Посещая сайт vmo24.ru, Вы даете согласие на обработку файлов cookie, сбор&nbsp;...</p></div>
+                <Image src="" alt="Пригожин рассказал, как на спецоперации погиб парень из Замбии" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Бизнесмен и основатель ЧВК Вагнера Евгений Пригожин подтвердил участие в спецоперации на Украине 23-летнего гражданина Замбии Ньиренда Лемекани.</p></div>
             </div>
-        </a><a href='https://apostrophe.ua/news/world/america/2022-11-26/fbr-obyyavilo-nagradu-za-vladeltsa-chvk-vagnera-v-chem-ego-obvinyayut/284751'>
+        </a><a href='https://vnnews.ru/ya-mogu-stat-odnim-iz-vas-evgeniy-pri/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ФБР объявило награду за владельца ЧВК &quot;Вагнера&quot;: в чем его ...</h3>
+                <h3>«Я могу стать одним из вас»: Евгений Пригожин рассказал, для ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRxEOVsLPY_EDEZjWb8KGEMwGypGKSpE7nPq56vqIbiIiGKu0HAc7vMLvFMCnCzUEkD2HXxb8A8" alt="ФБР объявило награду за владельца ЧВК &quot;Вагнера&quot;: в чем его ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Об этом сообщает Федеральное бюро расследований. В ФБР отмечают, что Пригожин подозревается в сговоре с целью препятствования и уничтожения законных функций&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS-BefMPX6KiyZmnDIcFKBE7gZoYJTBmUtz7Ll2Fl_qtmlfuYppdzYPuy9AE_LT991irgz5QUkh" alt="«Я могу стать одним из вас»: Евгений Пригожин рассказал, для ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Основатель российской ЧВК «Вагнер» пролил свет на участие в боях на Украине 23-летнего гражданина Замбии Нэйтана Лемекани Ньиренды, который погиб в зоне СВО&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

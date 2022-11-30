@@ -11,49 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Portugal vs Uruguay"/>
         <meta name="description" content="Trending News about Portugal vs Uruguay" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Portugal vs Uruguay</h1>
-            <Image width={800} height={500} src="https://images.indianexpress.com/2022/11/POR-2.jpg" alt="Portugal vs Uruguay"/>
+            <Image width={800} height={500} src="https://media.cnn.com/api/v1/images/stellar/prod/221128154625-01-portugal-uruguay-match-pitch-invader-1128.jpg?c=16x9&q=w_800,c_fill" alt="Portugal vs Uruguay"/>
             <h3>Recent News</h3>
-            <a href='https://indianexpress.com/article/sports/football/fifa-world-cup-2022-live-updates-cameroon-vs-serbia-south-korea-vs-ghana-brazil-vs-switzerland-portugal-vs-uruguay-8294026/'>
+            <a href='https://www.cnn.com/2022/11/28/football/pitch-invader-rainbow-flag-2022-world-cup-spt-intl/index.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Portugal vs Uruguay FIFA World Cup 2022 Highlights: Bruno brace ...</h3>
+                <h3>Pitch invader with rainbow flag interrupts World Cup match between ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR7vJgHLVRd4ZSTbCcuQA1OWWSwmsUZOG6a_r5emhtnWU6617dfY3jnQ5IRYyI3s7-ublj64md3" alt="Portugal vs Uruguay FIFA World Cup 2022 Highlights: Bruno brace ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>World Cup 2022 Highlights, Portugal vs Uruguay Group H: It was a second straight victory for Portugal, which became the third team to reach the last 16&nbsp;...</p></div>
-            </div>
-        </a><a href='https://sportstar.thehindu.com/football/fifa-world-cup/news/portugal-vs-uruguay-live-score-fifa-world-cup-por-v-uru-qatar-2022-ronaldo-suarez-team-lineups-updates/article66196633.ece'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Portugal 2-0 Uruguay HIGHLIGHTS, FIFA World Cup: Bruno ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRk3WCUAJ8NSoExNCZjogRIVf7sN2UzxT9WwMAhEfwWNgkzhOL5GvBNwQke4OSo-DGhc0zgqGqk" alt="Portugal 2-0 Uruguay HIGHLIGHTS, FIFA World Cup: Bruno ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>POR vs URU: Welcome to Sportstar&#39;s highlights of the FIFA World Cup Group H clash between Portugal and Uruguay.</p></div>
-            </div>
-        </a><a href='https://www.livemint.com/sports/football-news/fifa-world-cup-2022-portugal-vs-uruguay-prediction-time-live-streaming-detail-11669659266366.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FIFA World Cup 2022: Portugal vs Uruguay prediction, time, live ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQLbWvKBSvfkaWzdUtFCW_bXZSkoLkXuk5yIXparesGge9jHyv6embnS3oAe7tYM14G0IY2VahO" alt="FIFA World Cup 2022: Portugal vs Uruguay prediction, time, live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>On November 28, it will be another clash of titans -- Portugal and Uruguay -- as both team will face each other at the Lusail Stadium in the Group H match&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.hindustantimes.com/sports/football/fifa-world-cup-2022-live-score-portugal-vs-uruguay-football-match-latest-updates-lusail-stadium-qatar-101669656057592.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FIFA World Cup 2022 Highlights Portugal vs Uruguay: POR qualify ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR7SOBeB4GBDaYSzYuXdYYFBeoaYbCVSR0kndvsVqEfsrDJDzyVVC5ks_iP6H-PjABHnhRgS9Zg" alt="FIFA World Cup 2022 Highlights Portugal vs Uruguay: POR qualify ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>FIFA World Cup 2022 Portugal vs Uruguay Highlights: Bruno Fernandes scored twice as Portugal defeated Uruguay in Group H to qualify for the Round of 16.</p></div>
-            </div>
-        </a><a href='https://khelnow.com/football/2022-11-world-football-fifa-world-cup-2022-portugal-vs-uruguay-live-updates'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FIFA World Cup 2022 Live Updates: Portugal vs Uruguay</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcThyWmbgbIx06Cz9K1mUaiGzoCL-xkS7ifcBuwRQ8czJV1gDAjEoIPD4Su9j2V5Fn3eOim_BGRq" alt="FIFA World Cup 2022 Live Updates: Portugal vs Uruguay" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Hello and welcome to the live blog for the FIFA World Cup 2022 group stage game between Portugal and Uruguay.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRGNy2_8hUBM4PbOgDZfS3LhzyY5tEFx0jTwfzLLxwGqSUNRYUkrefzYZktZYvL27lCo_zOcgzu" alt="Pitch invader with rainbow flag interrupts World Cup match between ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The World Cup match between Portugal and Uruguay was briefly interrupted by a pitch invader waving a rainbow flag on the field at the Lusail Iconic Stadium&nbsp;...</p></div>
             </div>
         </a><a href='https://en.as.com/soccer/portugal-vs-uruguay-live-updates-confirmed-line-ups-score-stats-and-highlights-qatar-world-cup-2022-n/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Portugal vs Uruguay summary: Fernandes double, score and ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQmzuwW_K8sH8NpVTlnbhxtTDPgvdhGl1RqGl0BxB4t97hYRnSQz1TFF2PFXL6W46O0Q-WqVXoC" alt="Portugal vs Uruguay summary: Fernandes double, score and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>After that Messi goal against Mexico, the football world will look at what Cristiano Ronaldo has stored to keep up with the Argentinian. Like in their best&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Portugal beat Uruguay and make it out of the group stages with a game to spare, likely avoiding Brazil on their path.</p></div>
+            </div>
+        </a><a href='https://theathletic.com/live-blogs/portugal-vs-uruguay-world-cup-2022-live-score-updates-result/5mJsBHpHA2XL/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>World Cup result: Portugal advances to knockout stage with 2-0 win ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSyIRuoFdfYIq4dQNo-UUA--u58OFUZSyT1dee-KomiJETcoUz8lsNI-wX1wBjfkfBmYmBKSR9h" alt="World Cup result: Portugal advances to knockout stage with 2-0 win ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Portugal have become the third team to qualify for the last 16 of the 2022 World Cup. Bruno Fernandes scored a double to ensure his country joined France&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.espn.com/soccer/report/_/gameId/633817'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Portugal vs. Uruguay - Football Match Report - November 28, 2022 ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT_PdYGISPh9Zyv-RbeO5wkdADaVtt_NPM6NAvqpAd-mqN_4bzwA-7eDwVIPScsYMAXTopCWZOo" alt="Portugal vs. Uruguay - Football Match Report - November 28, 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Bruno Fernandes scored a pair of goals as Portugal beat Uruguay 2-0 to move to six points in Group H at Lusail Iconic Stadium in Qatar on Monday night.</p></div>
+            </div>
+        </a><a href='https://www.sportingnews.com/us/soccer/news/portugal-vs-uruguay-world-cup-live-score-result/cwjvawnksshgahvh2kt86wto'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Portugal vs Uruguay final score, result: Bruno Fernandes double ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR6VKmPqVwXLFUSIrY-G8drpXRsdrgPm_uqbf_TMmUcfBYJ3bQhDrhbEZ9frJESjKHNF2Jf9DR3" alt="Portugal vs Uruguay final score, result: Bruno Fernandes double ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A second-half double from Bruno Fernandes took Portugal into the Round of 16 at World Cup 2022 and left Uruguay&#39;s hopes of joining them in progressing from&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.cbssports.com/soccer/news/world-cup-2022-portugal-vs-uruguay-start-time-betting-odds-lines-top-expert-picks-fifa-predictions-bets/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>World Cup 2022 Portugal vs. Uruguay start time, betting odds, lines ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQclr7quiTIxJ4TiQDmNVxsi7bMfhXNMweL10KoyXXUnkPoAeUSIjIoAscxDnUjSXV5TG6pd6BS" alt="World Cup 2022 Portugal vs. Uruguay start time, betting odds, lines ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Soccer expert Brandt Sutton has locked in his 2022 World Cup picks and predictions for Uruguay vs. Portugal in Group H play.</p></div>
             </div>
         </a>
         </Template></>;

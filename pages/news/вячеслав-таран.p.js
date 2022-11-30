@@ -20,13 +20,6 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSjJWLWG8bv70dp2bdR70V07OyMCY359oRNvTotgzd3HWx5lKI5lPUAiG3tIfOqwqUJvudV9LMA" alt="Основатель Forex Club Вячеслав Таран погиб при крушении ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Москва. 28 ноября. INTERFAX.RU - Проживавший в Монако предприниматель российского происхождения Вячеслав Таран, основавший в 1997 году Forex Club (в&nbsp;...</p></div>
             </div>
-        </a><a href='https://abnews.ru/2022/11/28/pogib-osnovatel-forex-club-vyacheslav-taran'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Погиб основатель Forex Club Вячеслав Таран</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTIiBtcteI2ZyIdRpbsih2X7grR0aAojfOWOy2f-ns4KYzbw5NjuUd1QjxITOOlvwSJGMICXsFB" alt="Погиб основатель Forex Club Вячеслав Таран" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Известный российский предприниматель, основатель компании Forex Club Вячеслав Таран погиб в авиакатастрофе в Монако. Вертолет с предпринимателем из РФ на&nbsp;...</p></div>
-            </div>
         </a><a href='https://www.banki.ru/news/lenta/?id=10976329'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Основатель Forex Club Вячеслав Таран погиб на пути в Монако</h3>
@@ -34,12 +27,12 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSjYI5bp9UpRZQj1_DpQ-AwGj2GIpW92i1XHdJmcbkchCE1ulUra__ElfN2eKfm-JkEsjBZFNBl" alt="Основатель Forex Club Вячеслав Таран погиб на пути в Монако" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Основатель Forex Club, президент инвестиционной компании Libertex Group Вячеслав Таран погиб при крушении вертолета по пути в Монако, рассказал Monaco Daily&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.miloserdie.ru/news/osnovatel-bf-izmeni-odnu-zhizn-vyacheslav-taran-pogib-v-aviakatastrofe/'>
+        </a><a href='https://abnews.ru/2022/11/28/pogib-osnovatel-forex-club-vyacheslav-taran'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Основатель БФ «Измени одну жизнь» Вячеслав Таран погиб в ...</h3>
+                <h3>Погиб основатель Forex Club Вячеслав Таран</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQi6RfyWwQVA1asYFbgOHCMI_7RGJmp3h3-DkEhmrBB73CbCA0Qm0Vb2j1jrPNBKvsKH54ySe_J" alt="Основатель БФ «Измени одну жизнь» Вячеслав Таран погиб в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Предприниматель и филантроп, основатель компании Forex Club и помогающего семейному устройству сирот благотворительного фонда «Измени одну жизнь» 53-летний&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTIiBtcteI2ZyIdRpbsih2X7grR0aAojfOWOy2f-ns4KYzbw5NjuUd1QjxITOOlvwSJGMICXsFB" alt="Погиб основатель Forex Club Вячеслав Таран" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Известный российский предприниматель, основатель компании Forex Club Вячеслав Таран погиб в авиакатастрофе в Монако. Вертолет с предпринимателем из РФ на&nbsp;...</p></div>
             </div>
         </a><a href='https://www.vedomosti.ru/society/news/2022/11/28/952413-sozdatel-forex-club-vyacheslav-taran-pogib'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -61,6 +54,13 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ5DB0tVJ7gMOWaje-cNW5uo3qrZEFH7CQTHYdDEykB8nWDV5D9vha5NKZLIRf5-cr1CGvXW8_6" alt="Новости" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Смерть Вячеслава Тарана подтвердили в инвестиционной компании Libertex Group, где он занимал пост президента. Вместе с ним погиб 53-летний пилот.</p></div>
+            </div>
+        </a><a href='https://www.miloserdie.ru/news/osnovatel-bf-izmeni-odnu-zhizn-vyacheslav-taran-pogib-v-aviakatastrofe/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Основатель БФ «Измени одну жизнь» Вячеслав Таран погиб в ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQi6RfyWwQVA1asYFbgOHCMI_7RGJmp3h3-DkEhmrBB73CbCA0Qm0Vb2j1jrPNBKvsKH54ySe_J" alt="Основатель БФ «Измени одну жизнь» Вячеслав Таран погиб в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Предприниматель и филантроп, основатель компании Forex Club и помогающего семейному устройству сирот благотворительного фонда «Измени одну жизнь» 53-летний&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

@@ -17,15 +17,8 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>【ジャパンカップ】ルメールお手上げ…絶好枠が〝災い〟７着 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSy6DkgmWkZWgI2PVUf-CMxabVDAXYxHtWlM5meE64hBvb9gZVzR7uVuHa1Nhc5zoSLfZdSS9A7" alt="【ジャパンカップ】ルメールお手上げ…絶好枠が〝災い〟７着 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR74Zir4j-3gkBvsov_mwUsvgg1bMqkqS6i8AHxGWHHVsd4NnQSvd0AOxDx9l92bnbirGYn-fuh" alt="【ジャパンカップ】ルメールお手上げ…絶好枠が〝災い〟７着 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>ＧⅠジャパンカップ＝２０２２年１１月２７日（日曜）３歳上、東京競馬場、芝２４００メートル］ フランスから参戦したオネストはグランドグローリーに次ぐ７着に&nbsp;...</p></div>
-            </div>
-        </a><a href='https://news.yahoo.co.jp/articles/60035e55d208d59a8f4a4f645add66f00cab9487'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>【ジャパンカップ・ラップ回顧】スローペース決着でも〝価値あり ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTKO4HO-BMBD7L9yY9HU96cm52dCp0VcgViZq2rsxP9bxiCupy8utigUtnp15hbUr96aKq4EeUe" alt="【ジャパンカップ・ラップ回顧】スローペース決着でも〝価値あり ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ＧⅠジャパンＣ＝２０２２年１１月２７日（日曜）３歳上、東京芝２４００メートル］ 明石 直前の３勝クラス（ウェルカムＳ）はジャックドールが勝った前年よりコンマ６&nbsp;...</p></div>
             </div>
         </a><a href='https://news.netkeiba.com/?pid=news_view&no=214686'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

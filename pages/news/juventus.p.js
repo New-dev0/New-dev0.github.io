@@ -11,77 +11,63 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Juventus"/>
         <meta name="description" content="Trending News about Juventus" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Juventus</h1>
-            <Image width={800} height={500} src="https://medias.lequipe.fr/img-photo-jpg/andrea-agnelli-a-droite-et-pavel-nedved-ne-sont-plus-president-et-vice-president-de-la-juve-a-martin/1500000001717549/0:0,1995:1330-640-427-75/d9eb4.jpg" alt="Juventus"/>
+            <Image width={800} height={500} src="https://s2.glbimg.com/WJCIuqRnT8q_Gv0Q3rcu-93J9Ls=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2022/z/O/DIrHmETDqUTk1tduiJJQ/nedved-e-presidente-agnelli-1.jpg-554688468.jpg" alt="Juventus"/>
             <h3>Recent News</h3>
-            <a href='https://www.lequipe.fr/Football/Actualites/La-direction-et-le-conseil-d-administration-de-la-juventus-turin-demissionnent/1367431'>
+            <a href='https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2022/11/29/conselho-da-juventus-renuncia-apos-investigacao-sobre-fraude-contabil.ghtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>La direction et le conseil d&#39;administration de la Juventus Turin ...</h3>
+                <h3>Conselho da Juventus renuncia após investigação sobre fraude ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTsGXb38DCzR1RVnm-TwuLbXkrvwbNmEEKh36x_YbtfddD_vfGFlRaj-MY5cag4WDkU0b2RqgbV" alt="La direction et le conseil d&#39;administration de la Juventus Turin ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Selon plusieurs médias italiens, l&#39;ensemble de la direction de la Juventus a décidé de démissionner, ce lundi. C&#39;est la fin de l&#39;ère Andrea Agnelli,&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRUL0vjcI2pG563-ecNE_-gC5WrxyQ3kUTDXwq3qY1nRnJVq_9gvR3KblflbgcmwcXCXCWjOLAt" alt="Conselho da Juventus renuncia após investigação sobre fraude ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>O presidente da Juventus, Andrea Agnelli, e todos os membros do conselho de administração do clube de futebol italiano se demitiram nesta terça-feira (29)&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.juventus-fr.com/28/11/2022/tremblement-de-terre-a-la-juventus-andrea-agnelli-et-pavel-nedved-demissionnent/'>
+        </a><a href='https://www.abola.pt/nnh/2022-11-29/caso-ronaldo-foi-o-rastilho-para-o-terramoto-na-juventus/966569'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Tremblement de terre à la Juventus ! Andrea Agnelli et Pavel ...</h3>
+                <h3>&#39;Caso Ronaldo&#39; foi o rastilho para o terramoto na Juventus</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQi1xhUq3BRYv7wrOfwACPymC3Fhxt9voaH8hpZ3-f-j18sQgC6Vnl84nJYUVrpvqm20a01lBIR" alt="Tremblement de terre à la Juventus ! Andrea Agnelli et Pavel ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Énorme nouvelle à la Juventus ! Sky Sports et Fabrizio Romano annoncent que le board de la Juventus, notamment composé de Pavel Nedved vice-président et&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS_O9BL-j0BBrsN_oga2oMBFr3r3uGCWx2r_Vzn2wyybDsV3rz_Z82XlZ-lHuCiomrsrtLSRCq7" alt="&#39;Caso Ronaldo&#39; foi o rastilho para o terramoto na Juventus" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Na altura, a Juventus anunciou que os jogadores abdicaram de receber esses meses mas, na verdade, os pagamentos, garante a Gazzetta Dello Sport, foram feitos &#39;&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.footmercato.net/a2373306731859045419-juventus-andrea-agnelli-et-toute-la-direction-demissionnent'>
+        </a><a href='https://www.abola.pt/nnh/2022-11-29/juventus-anunciado-o-novo-presidente-da-juventus/966480'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Juventus : Andrea Agnelli et toute la direction démissionnent !</h3>
+                <h3>Anunciado o novo presidente da Juventus</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTEo_5yMv7w0EA8fJdgC624YauBlDwEiiLBPI9DmbA1MPN4bpPchdYkmArbetslF57rMohyI4FC" alt="Juventus : Andrea Agnelli et toute la direction démissionnent !" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Véritable coup de tonnerre à Turin ! Andrea Agnelli, le président de la Juventus, et son conseil d&#39;administration ont démissionné ce lundi soir a (.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTizPylud2kOLhPgCkl2TSrrN8IDA5AbZhyilCmxdvHDD8K2EajDAJNUwp2E7fvTX0tvL9_566S" alt="Anunciado o novo presidente da Juventus" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Os membros do conselho de administração da Juventus, incluindo o presidente Andrea Agnelli e o vice-presidente Pavel Nedved, renunciaram segunda-feira à&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.lequipe.fr/Football/Actualites/La-tribune-loire-finalement-ouverte-pour-nantes-juventus-turin-en-ligue-europa/1367395'>
+        </a><a href='https://eco.sapo.pt/2022/11/28/direcao-da-juventus-demite-se-em-bloco-apos-suspeita-de-fraude/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>La tribune Loire finalement ouverte pour Nantes-Juventus Turin en ...</h3>
+                <h3>Direção da Juventus demite-se após suspeita de fraude</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQjDSoaUIGhbT9ajoLeZFghQp_F_kJV5rN3j-GcgMY_-Rs50u0tZSSsq_KTJH8zos5EIIkJWUC9" alt="La tribune Loire finalement ouverte pour Nantes-Juventus Turin en ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>L&#39;appel du FC Nantes a été entendu. La tribune Loire du stade de la Beaujoire sera finalement ouverte pour la réception de la Juventus Turin en Ligue&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR1Yf6k89uXmH_JnTFEnlfCb0xNIoPP1jyNjOYiig9Qbk2pSe3HK3-05SA2VAYDZzOiwscWic98" alt="Direção da Juventus demite-se após suspeita de fraude" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A direção do clube italiano Juventus demitiu-se esta segunda-feira, incluindo o presidente Andrea Agnelli, o vice-presidente Pavel Nedved e o CEO Maurizio&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.foot01.com/foot-europeen/italie/ita-andrea-agnelli-et-les-dirigeants-de-la-juventus-demissionnent-416486'>
+        </a><a href='https://www.jornaldenegocios.pt/empresas/desporto/detalhe/presidente-andrea-agnelli-e-restantes-administradores-demitem-se-da-juventus'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ita : Andrea Agnelli et les dirigeants de la Juventus démissionnent !</h3>
+                <h3>Presidente Andrea Agnelli e restantes administradores demitem-se ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ3TTlrkmKI-8HQkRbmtOAZN05iHo5ZjFCfaCsq85dmfhw3NoqSiSzpLEyutqZOiU1BN-jvvmRT" alt="Ita : Andrea Agnelli et les dirigeants de la Juventus démissionnent !" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Même si après son élimination précoce en Ligue des champions, la Juventus s&#39;était largement rétablie en Serie A, puisque les Turinois étaient sur six victoires&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT915DIzWmwbx4zijrMagPezkQeHO2q-NgZuU4QlMkkUhj-0aDJij3IVc0zloJS0Ktsj9cW66Ir" alt="Presidente Andrea Agnelli e restantes administradores demitem-se ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Sob proposta de Andrea Agnelli, que comandou a formação de Turim nos últimos 12 anos, e tendo em conta &#39;a relevância dos assuntos legais e técnico&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.beinsports.com/france/serie-a/news/serie-a-coup-de-tonnerre-cest-la-revolution-a/1995677'>
+        </a><a href='https://www.dn.pt/desporto/conselho-de-administracao-da-juventus-apresenta-renuncia-em-bloco-incluindo-presidente-do-clube-15396748.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Serie A - Coup de tonnerre : c&#39;est la révolution à la Juventus Turin !</h3>
+                <h3>Conselho de administração da Juventus apresenta renúncia em ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS4BrDnA_x8hUvNZlr3XjwktEFzwl0j2aig5FY4tbdHvn0h-rVzwGceoib0PL04azA20BEX5tko" alt="Serie A - Coup de tonnerre : c&#39;est la révolution à la Juventus Turin !" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Selon Sky Italia, le président de la Juventus Turin, Andrea Agnelli, et son vice-président, Pavel Nedved, ont annoncé leur démission ! La Juve va changer de&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS1XDRsKcJ88a9VwAItd6MYDmEgqpCMmatH4LTkebgxikeXSUo3wtAN3KH9q4oB9QMT8qUzzq4P" alt="Conselho de administração da Juventus apresenta renúncia em ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>O conselho de administração da Juventus apresentou renúncia em bloco, incluindo o presidente, Andrea Agnelli, e o vice-presidente, Pavel Nedved, informou,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.onzemondial.com/serie-a/2020-2021/juventus-coup-de-tonnerre-agnelli-demissionne-808287'>
+        </a><a href='https://www.ojogo.pt/internacional/noticias/direcao-da-juventus-demite-se-apos-denuncias-de-fraude-fiscal-15396785.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Juventus : coup de tonnerre, Agnelli démissionne !</h3>
+                <h3>Direção da Juventus demite-se após denúncias de fraude fiscal</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQqnZpTZJQr4gDeTC1thI90ot-DL0fXaQDrJqRpQTldaZR-3iXYHlIBurrKRq9cLTjfzHjs_2AL" alt="Juventus : coup de tonnerre, Agnelli démissionne !" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Le conseil d&#39;administration de la Juventus a annoncé sa démission. Cela inclut le président Andrea Agnelli.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRYbm-NOCqWvh-Lus7ZPGA9bfe8ZKrFUNRlF6SsmidlMEcC-H3qHqIe-0m6Qm-v5mqRGRW1Ws5-" alt="Direção da Juventus demite-se após denúncias de fraude fiscal" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Nos próximos meses o clube irá a eleições para eleger um novo presidente. Casos em investigação são referentes a 2020, ano de pandemia.</p></div>
             </div>
-        </a><a href='https://www.onzemondial.com/ligue-europa/fc-nantes-enorme-bonne-nouvelle-pour-le-choc-face-a-la-juventus-808271'>
+        </a><a href='https://www.noticiasaominuto.com/desporto/2123240/la-liga-exige-sancoes-desportivas-imediatas-a-juventus'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FC Nantes : énorme bonne nouvelle pour le choc face à la Juventus</h3>
+                <h3>La Liga exige &quot;sanções desportivas imediatas&quot; contra a Juventus</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRsZyPZTgRWMX55SBp6Y1Tr-5XY0xhwCzB7Ny5RR_te5hZaECV6J42BkzhYStmN3N_DMME-vk6a" alt="FC Nantes : énorme bonne nouvelle pour le choc face à la Juventus" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>La Tribune Loire sera finalement ouverte pour le choc de la Ligue Europa entre le FC Nantes et la Juventus Turin après l&#39;appel auprès de l&#39;UEFA.</p></div>
-            </div>
-        </a><a href='https://www.sofoot.com/la-tribune-loire-finalement-ouverte-pour-nantes-juventus-turin-522185.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>La tribune Loire finalement ouverte pour Nantes-Juve</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ9vUlF-kvjQAc1r2yibapPZC8-LVaKnKDTMC_h6NWDcumfYbxOX15vzj_pRMeSFNbUSoToQkRI" alt="La tribune Loire finalement ouverte pour Nantes-Juve" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Nul n&#39;est censé ignorer la Loire. Alors que l&#39;UEFA avait tranché en faveur d&#39;une fermeture de la tribune Loire (à cause de l&#39;utilisation ...</p></div>
-            </div>
-        </a><a href='https://tribunenantaise.fr/actus-fcnantes/nantes-juventus-les-infos-sur-la-billetterie-du-match-retour-des-barrages-deuropa-league/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Nantes - Juventus : les infos sur la billetterie du match retour des ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQR7x41oln2seN_uwUT_0bxBoyjYhhvZErTJc7pxzisu0zHvcy_8nUybCJ3oLF0KU4ZU8nF9cTO" alt="Nantes - Juventus : les infos sur la billetterie du match retour des ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Alors que le club vient d&#39;annoncer que le Tribune Loire sera bien ouverte contre la Juventus, voici les infos concernant la billetterie.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQzy80IVGGS7micnosE_eLadoQFZvCtcNq05Pr09rZDlD1J7-WESTC7osgSahNjk5urXBXo6_Ur" alt="La Liga exige &quot;sanções desportivas imediatas&quot; contra a Juventus" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>La Liga anunciou, em forma de comunicado emitido através das plataformas oficiais ao final da manhã desta terça-feira, que avançou com uma queixa junto da&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

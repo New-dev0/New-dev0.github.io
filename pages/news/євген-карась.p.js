@@ -11,9 +11,16 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Євген Карась"/>
         <meta name="description" content="Trending News about Євген Карась" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Євген Карась</h1>
-            <Image width={800} height={500} src="https://www.dsnews.ua/static/storage/thumbs/1200x630/7/9e/137d289e-adc515c44965c6a164bfecf2eae329e7.jpg?v=7595_1" alt="Євген Карась"/>
+            <Image width={800} height={500} src="https://focus.ua/static/storage/thumbs/1200x630/e/5e/0d22c987-c4578ae393e3128a61c3e74ddd4a05ee.jpeg?v=1349_1" alt="Євген Карась"/>
             <h3>Recent News</h3>
-            <a href='https://www.dsnews.ua/ukr/politics/okupanti-gotuyut-na-29-listopada-masovaniy-obstril-ukrajini-yevgen-karas-28112022-470119'>
+            <a href='https://focus.ua/uk/voennye-novosti/538813-vs-rf-gotovyat-na-29-noyabrya-massirovannyy-obstrel-ukrainy-evgeniy-karas'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>ЗС РФ готують на 29 листопада масований обстріл України ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT0JqRbHbL-orZB0qjkSsCA_ytw4HG-4C03sdgRYtxoN4m7jXZFMrm-d3W_kmb160ebh4zHAEQ-" alt="ЗС РФ готують на 29 листопада масований обстріл України ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Імовірність масштабної атаки по Україні, за словами військовослужбовця, становить 90%, а про плани Кремля обстріляти Україну свідчать численні перехоплення.</p></div>
+            </div>
+        </a><a href='https://www.dsnews.ua/ukr/politics/okupanti-gotuyut-na-29-listopada-masovaniy-obstril-ukrajini-yevgen-karas-28112022-470119'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Окупанти готують на 29 листопада масований обстріл України ...</h3>
                 <div style={{ display: "flex" }}>
@@ -34,12 +41,19 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSgkinBhqR4eHnxYTDG1eRmmBtCEjzzXAhTpHPTMZl2riVu5EicFLXfstXp7gKD-FH5fGKQaLlp" alt="&quot;Імовірність - 90%&quot;: українців попередили про новий масштабний ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>у вівторок, 29 листопада, Україну, ймовірно, накриє нова хвиля ракетних атак з боку країни-терориста Росії. Сказав боєць ЗСУ Євген Карась 28 листопада.</p></div>
             </div>
-        </a><a href='https://www.depo.ua/ukr/war/rosiya-gotue-na-29-listopada-masovaniy-obstril-ukraini-karas-202211281444142'>
+        </a><a href='https://kyiv.comments.ua/ua/news/society/developments/13875-rosiya-mozhe-zavdati-novih-udariv-po-kievu-29-listopada-podrobici.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Росія готує на 29 листопада масований обстріл України, — Карась</h3>
+                <h3>Росія може завдати нових ударів по Києву 29 листопада: подробиці</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRcfc8g_xskXYTZgXYylwGIf2LHGKKrTWBAGncSHh1btShu4145g5ujouNHFV9L4P2-cYvlmvkW" alt="Росія готує на 29 листопада масований обстріл України, — Карась" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Про це у своєму Telegram-каналі повідомив відомий український військовослужбовець, лідер організації C14 (зараз &quot;Основа майбутнього&quot;) Євген Карась, передає Depo&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ3pDOr52lrEoUXsUM8kw4xybnBrwx8jqaHf0n4_9oPu8gEHgi_zsrFiJJzBGl47gJcvguFOTwp" alt="Росія може завдати нових ударів по Києву 29 листопада: подробиці" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Російські окупанти 29 листопада можуть завдати масованого ракетного удару по українській столиці та інших містах, щоб вразити критичну інфраструктуру.</p></div>
+            </div>
+        </a><a href='https://novosti-n.org/ua/news/Zavtra-z-jmovirnistyu-90-v-Ukrayini-sprognozuvaly-novyj-masovanyj-raketnyj-udar-256364'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Завтра з ймовірністю 90%: в Україні спрогнозували новий ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQmV5EU0JanW7WGXqmWBX95UM45RPhgHArZHXUpboQ0BfYVYC2ksJZOOaNE1ve4kwtqy-EXQtU-" alt="Завтра з ймовірністю 90%: в Україні спрогнозували новий ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В Україні у вівторок, 28 листопада, з ймовірністю 90% очікується черговий масований ракетний удар по Україні з боку країни-терориста Росії.</p></div>
             </div>
         </a>
         </Template></>;
