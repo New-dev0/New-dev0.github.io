@@ -18,7 +18,7 @@ export default function Page() {
                 <h3>В МЧС назвали место и причину мощного взрыва в Челябинске</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTQ488mCFW2LKdAZpex8fZywezxH6oGjpWir0BSRiZP_I4UIsp_U1zEqfMunWHD0c1fGBWBdQno" alt="В МЧС назвали место и причину мощного взрыва в Челябинске" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Он прогремел около 17 часов и был слышен и виден во многих районах города. 29 ноября 2022, 18:14. 33 051. 74.ru. Читать в приложении.</p></div>
+                <p style={{marginLeft: "15px"}}>Он прогремел около 17 часов и был слышен и виден во многих районах города. 29 ноября 2022, 18:14. 47 535. 74.ru. Читать в приложении.</p></div>
             </div>
         </a><a href='https://www.fontanka.ru/2022/11/29/71855174/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -27,12 +27,12 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS9rTThcaMVj8KEtTw08UjRN4soqPI2CPd_KBfsN_vhiW6nYa_QP83DxxxMc1nn_YQLEVDOPfFE" alt="«Дрожали не только окна, но и стены». Мощный взрыв ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Взрыв в Челябинске, 29 ноября 2022 г. - Происшествия - 29 ноября 2022 - Новости Санкт-Петербурга - Фонтанка.Ру.</p></div>
             </div>
-        </a><a href='https://www.kommersant.ru/doc/5694149'>
+        </a><a href='https://kr-gazeta.ru/proisshestviya/na-karere-v-chelyabinske-proizoshel-silnyy-vzryv/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>На карьере по добыче щебня в Челябинске произошел взрыв</h3>
+                <h3>На карьере в Челябинске произошел сильный взрыв</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="На карьере по добыче щебня в Челябинске произошел взрыв" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В Советском районе Челябинске произошел взрыв. О «хлопке» и столбе густого черного дома горожане начали сообщать в социальных сетях около 17 часов.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQP9nZxyO0nTZOcv-duqNLDediaERwMN1zTWT1JLcL00TYb68b0T-4SossSoH87C0_7LpPH8v_m" alt="На карьере в Челябинске произошел сильный взрыв" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Жители окрестных микрорайонов поделились в соцсетях фотографиями пыльного облака и забросали СМИ вопросами о том, что произошло. - От очевидцев поступило&nbsp;...</p></div>
             </div>
         </a><a href='https://focus.ua/voennye-novosti/538923-v-chelyabinske-progremel-moshchnyy-vzryv-nad-gorodom-stolb-dyma-chto-izvestno-foto-video'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -41,6 +41,13 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRBg-SJtSQ6ZpieNPncTF-gBnLkomUg5QsJJfE0SMw6ggUulTQQKKswqv7ze012PSJYBPhpfrxg" alt="В Челябинске прогремел мощный взрыв, над городом столб ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>В МЧС РФ заявляют о плановом подрыве для добычи щебня, но местные жители говорят, что взрыв был слышен на весь город и от него задрожали окна.</p></div>
             </div>
+        </a><a href='https://www.kommersant.ru/doc/5694149'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>На карьере по добыче щебня в Челябинске произошел взрыв</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="" alt="На карьере по добыче щебня в Челябинске произошел взрыв" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В Советском районе Челябинске произошел взрыв. О «хлопке» и столбе густого черного дома горожане начали сообщать в социальных сетях около 17 часов.</p></div>
+            </div>
         </a><a href='https://polit74.ru/incident/pod_chelyabinskom_zafiksirovan_vzryv/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Под Челябинском зафиксирован взрыв</h3>
@@ -48,19 +55,12 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSd7_oxlJ7qUMd98p-fSQzZmI2gDNPB2alqGWMRMwh4CW8QS5bMSg_joZwk3GJnTXBtbK8Qlg00" alt="Под Челябинском зафиксирован взрыв" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>«По предварительным данным взрыв произошел в районе карьера по производству щебня в поселке Новосинеглазово», - рассказали в пресс-службе ГУ МЧС России по&nbsp;...</p></div>
             </div>
-        </a><a href='https://newtimes.ru/articles/detail/230847'>
+        </a><a href='https://www.unian.net/russianworld/vzryv-v-rossii-nad-chelyabinskom-podnyalsya-stolb-chernogo-dyma-12061080.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>В Челябинске прогремел мощный взрыв</h3>
+                <h3>В Челябинске прогремел мощный взрыв: над городом виден ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSXPiaeiHkZvYZak-lDpWjjp8jUHCIIQPuxSFIIh1JzD6vWnVLPV1E_9Ck2TObSWJWPEutV5lv0" alt="В Челябинске прогремел мощный взрыв" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>UPD: В МЧС сообщили, что взрыв произошел в рамках планового подрыва породы при производственной добыче щебня. В ведомстве уточнили, что инцидент произошел на&nbsp;...</p></div>
-            </div>
-        </a><a href='https://24tv.ua/ru/v-cheljabinske-29-nojabrja-2022-goda-progremel-vzryv-foto-i-video-24-kanal_n2207729'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>В российском Челябинске прогремел мощный взрыв: фото и ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTA_HweJOAebwuMmzJEsaR5_uXgvjRsDYZWGU4akNGhsQ_lL1wNrfJ5MyIYSAv6NyRNhmQZSlDsVA" alt="В российском Челябинске прогремел мощный взрыв: фото и ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Во вторник, 29 ноября, в российском Челябинске раздался мощный взрыв. Местные телеграм-каналы опубликовали фото и видео с места событий. view count.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQXwO0OjlA84FgR7Bwr10owL8azHFz7Fd2hU4a6Cx-RHLxmfMWCjKcD7GP_G1YnRFeQJDNN8uo3" alt="В Челябинске прогремел мощный взрыв: над городом виден ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В российском городе Челябинск произошел мощный взрыв. ЧП произошло на Старосмолинском карьере в районе поселка Новосинеглазово - подробности читайте на&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

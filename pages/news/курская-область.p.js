@@ -20,12 +20,12 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQe11uflvRjr9tTigsXEz7bOhxC3Nb1bj401z7CpphMFxIk6l-s_lH796hj4-IOX2aZSAVr89W3" alt="&quot;11 прилетов&quot;: в Курской области России пожаловались на ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Губернатор Курской области РФ написал об 11 прилетах. По его словам, ВСУ обстреляли Курскую область, из-за чего произошло отключение электроенергии.</p></div>
             </div>
-        </a><a href='https://bel.ru/news/2022-11-29/vsu-obstrelivayut-kurskuyu-oblast-2603200'>
+        </a><a href='https://www.rbc.ua/ukr/news/chastina-kurskoyi-oblasti-svitla-mistseva-1669751779.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Обстрел ВСУ обесточил два района Курской области — Bel.ru</h3>
+                <h3>Часть Курской области без света: местные власти говорят об ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQBUgw9gk_UMt8Hdi3qQVA6X1ggeFRENHgwruhLLvfc9HNS_Lf0VCl6Qbs0sTL3JTV9DL1yesje" alt="Обстрел ВСУ обесточил два района Курской области — Bel.ru" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Об этом сообщил губернатор Курской области Роман Старовойт. Обстрел Суджанского района происходит прямо сейчас. Подробнее на сайте издания Bel.ru.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRGK0hLnXlwYBgQqukOHxP4F0gqtOzk3OZtUN_fVotc_ytE2z9Gt9B6IZUn_kUOVCL85oGGEslP" alt="Часть Курской области без света: местные власти говорят об ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Часть Курской области без света. Местные власти начали рассказывать о якобы обстрелах со стороны Украины.</p></div>
             </div>
         </a><a href='https://46tv.ru/odnoj-strokoj/v-kurske/177929-kurskaja-oblast-podverglas-obstrelu-narusheno-jelektrosnabzhenie-dvuh-rajonov.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -53,14 +53,14 @@ export default function Page() {
                 <h3>ВСУ обстреливают Курскую область — Readovka.news</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSp0yv2XMw_fCpS7ICdGkv61v_nMLq4NnEJQWjx4gdGbYfBROwMZfV9XIFu2sJdRyZFCZkiLx7p" alt="ВСУ обстреливают Курскую область — Readovka.news" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Анастасия Федорова сегодня в 22:35. Происшествия. Зафиксировано 11 прилетов. В данный момент ВСУ обстреливают Суджанский район Курской области.</p></div>
+                <p style={{marginLeft: "15px"}}>Анастасия Федорова вчера в 22:35. Происшествия. Зафиксировано 11 прилетов. В данный момент ВСУ обстреливают Суджанский район Курской области.</p></div>
             </div>
-        </a><a href='https://www.tatar-inform.ru/news/dva-raiona-kurskoi-oblasti-casticno-ostalis-bez-elektricestva-posle-obstrela-5888303'>
+        </a><a href='https://www.nakanune.ru/news/2022/11/30/22689385/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Суджанский и Кореневский районы Курской области частично ...</h3>
+                <h3>В Курской области после обстрела ВСУ загорелся жилой дом</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSsYbe_PKHZDxBhjhyE6i_KX-7BZ3G4onSQll31GQE9fvbwj0fP5V4U7JWNU_qq_f0Qoz3_zdBa" alt="Суджанский и Кореневский районы Курской области частично ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Российская школа «Летово», где учатся ребята из Татарстана, возглавила список GlobalTop IB Schools 2022 со средним баллом выпускников 43 из 45 возможных. Ранее&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSP9cUe6ubZ0bdT0h_fYG5N5GKIK_bBsnhdtMkjp0F5cy-wbxQp8lmF-OmG6kPMrfYwf3gngZlk" alt="В Курской области после обстрела ВСУ загорелся жилой дом" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>ВСУ в очередной раз обстреляли поселок Тёткино Глушковского района Курской области. Как сообщил губернатор региона Роман Старовойт в своем телеграм-канале,&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

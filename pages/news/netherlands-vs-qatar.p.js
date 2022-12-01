@@ -11,49 +11,28 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Netherlands vs Qatar"/>
         <meta name="description" content="Trending News about Netherlands vs Qatar" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Netherlands vs Qatar</h1>
-            <Image width={800} height={500} src="https://library.sportingnews.com/styles/facebook_1200x630/s3/2022-11/Cody%20Gakpo%20Netherlands%20Qatar%20World%20Cup%202022%2011292022_0.jpg?itok=yKIWwtMl" alt="Netherlands vs Qatar"/>
+            <Image width={800} height={500} src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt74862b9bd5b09c53/6382e7fdadec453b8bd673ae/Virgil_Van_Dijk_Netherlands_Mohammed_Muntari_Qatar.jpg" alt="Netherlands vs Qatar"/>
             <h3>Recent News</h3>
-            <a href='https://www.sportingnews.com/us/soccer/news/netherlands-vs-qatar-world-cup-live-score-result/eechy6aymc34boawv4xilefg'>
+            <a href='https://www.goal.com/en-in/news/netherlands-vs-qatar-live-stream-tv-channel-kick-off-time-and-where-to-watch/bltb2cd4ff3137a2562'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Netherlands vs. Qatar final score, result: Gakpo and De Jong clinch ...</h3>
+                <h3>Netherlands vs Qatar: Live stream, TV channel, kick-off time &amp; where ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSMVbVhOEKGoolSF1b30rBHWKUWO-mae_l3zmaNeNWbJiBzo6MDpuiv_3ogB-mQLB5dISXYdm4P" alt="Netherlands vs. Qatar final score, result: Gakpo and De Jong clinch ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Netherlands clinched their place in the 2022 World Cup last 16 as Group A winners after a dominant 2-0 win over hosts Qatar.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRAO_VWh766PIWJ1ELmpA1sT0INIqCFfTBLWhCA0WWuNnBKefJQgPpJwk0ipXHoRR6eNn9Lq2mS" alt="Netherlands vs Qatar: Live stream, TV channel, kick-off time &amp; where ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Here&#39;s how you can watch Netherlands against Qatar on TV and stream the game live in the UK, US, India and more.</p></div>
             </div>
-        </a><a href='https://www.sportingnews.com/us/soccer/news/netherlands-vs-qatar-world-cup-time-live-stream-channel/bhlbow5zsc2iljkmildkxywi'>
+        </a><a href='https://sportstar.thehindu.com/football/fifa-world-cup/netherlands-qatar-live-score-news-updates-goals-highlights-fifa-world-cup-qatar-2022-schedule-ned-vs-qat/article66200606.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Netherlands vs. Qatar World Cup time, live stream, TV channel ...</h3>
+                <h3>Netherlands vs Qatar HIGHLIGHTS, FIFA World Cup: Gakpo, De ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSgXnGyuYlBvn3VkGidM03wgKKy2gGeuWmIPkJbhh4SUbDhd5yfOr2kRP5-1R2gNTBZhPFqwoNz" alt="Netherlands vs. Qatar World Cup time, live stream, TV channel ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Netherlands wrap up their 2022 World Cup Group A campaign with a clash against hosts Qatar in Al Khor on November 29.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTONwMgnPjcfmqPepHcIqej40Gw_A7Qams5rXW3VLaq1PXdO3bNhu147XFFv1vRiEvKLgjoGOyz" alt="Netherlands vs Qatar HIGHLIGHTS, FIFA World Cup: Gakpo, De ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Follow for all HIGHLIGHTS from the FIFA World Cup clash between Netherlands and Qatar.</p></div>
             </div>
-        </a><a href='https://dknation.draftkings.com/2022/11/29/23480347/netherlands-vs-qatar-group-stage-world-cup-2022-referee-bakary-gassama-history-cards'>
+        </a><a href='https://www.livemint.com/sports/football-news/netherlands-vs-qatar-prediction-fifa-world-cup-2022-11669693076455.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Netherlands vs. Qatar: Who is the referee for Group A match in 2022 ...</h3>
+                <h3>FIFA World Cup 2022: Netherlands vs Qatar prediction, time, live ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT2G9IxBbTkPAztIxsYOp-c3IUPn1DJU7ke9rf_garTGH-8hz6KwIHa6iIRfh93CV4riaGYyXDW" alt="Netherlands vs. Qatar: Who is the referee for Group A match in 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Match referee Bakary Gassama of Gambia during the FIFA Arab Cup Qatar 2021 Group A match Photo by James Williamson - AMA/Getty Images. The Netherlands and Qatar&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.cbssports.com/soccer/news/world-cup-2022-netherlands-vs-qatar-start-time-betting-odds-lines-model-picks-fifa-predictions-bets/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022 Netherlands vs. Qatar start time, betting odds, lines ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcReoKsV8-5nON75Ox4Xx3VQtXWwvexLNuzJy8lxxDAQtjv8Pg1ckS7_h0o7FHQ_dKT-r6tOWhRT" alt="World Cup 2022 Netherlands vs. Qatar start time, betting odds, lines ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>SportsLine&#39;s soccer model simulated Qatar vs. Netherlands and locked in its 2022 World Cup picks and predictions for Group A play.</p></div>
-            </div>
-        </a><a href='https://www.cbssports.com/soccer/news/netherlands-vs-qatar-live-stream-how-to-watch-2022-world-cup-live-online-tv-channel-odds-prediction/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Netherlands vs. Qatar live stream: How to watch 2022 World Cup ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRVXoVKN7V4QSxd33SYyfMJEXp0KQpXxapofx8cxCQwsMnbTmwlOfbnoDV4VRl8Ph3B4daiugZb" alt="Netherlands vs. Qatar live stream: How to watch 2022 World Cup ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Netherlands take on Qatar at Al Bayt Stadium on Tuesday in what will be the hosts&#39; final match at their 2022 FIFA World Cup. Oranje have already taken&nbsp;...</p></div>
-            </div>
-        </a><a href='https://sportsbookwire.usatoday.com/2022/11/29/2022-world-cup-netherlands-vs-qatar-odds-picks-and-predictions/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>2022 World Cup: Netherlands vs. Qatar odds, picks and predictions</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcThJMXrQjEUMdpXCF7p9ugD1V0b0f6CdgiDSmlyvXB8siGVHZZ9ba0mytQsJA5V37xhd70f5GGH" alt="2022 World Cup: Netherlands vs. Qatar odds, picks and predictions" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Analyzing Tuesday&#39;s Netherlands vs. Qatar odds and lines, with World Cup soccer expert picks, predictions and best bets.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRTs0nEO7HJ4XDsiQUArAm_JuiTAvFQ35k7pdexAkr8AGCM-33-k2CIim9Tt6h21Grdx1hr3Npz" alt="FIFA World Cup 2022: Netherlands vs Qatar prediction, time, live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>FIFA World Cup 2022: The Netherlands vs Qatar match is expected to be a one-sided one.</p></div>
             </div>
         </a><a href='https://www.aljazeera.com/news/liveblog/2022/11/29/live-netherlands-vs-qatar-world-cup'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -62,26 +41,19 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSb_GP9AEQnyMwD2Z45pmJswWFw2u1OtqJiISPWVo-oeyV5N3rBQ0bplBhokIp2vaTFTjvH-vnK" alt="Netherlands vs Qatar 2-0 – World Cup 2022: As it happened" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Mohammed Muntari made history when he scored Qatar&#39;s first World Cup goal in the game with Senegal. Live updates</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-us/news/netherlands-vs-qatar-live-stream-tv-channel-kick-off-time-and-where-to-watch/bltb2cd4ff3137a2562'>
+        </a><a href='https://khelnow.com/football/2022-11-world-football-fifa-world-cup-2022-netherlands-vs-qatar-predicted-lineup-injury-news'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Netherlands vs Qatar: Live stream, TV channel, kick-off time &amp; where ...</h3>
+                <h3>Netherlands vs Qatar: Predicted lineup, injury news, head-to-head</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRAO_VWh766PIWJ1ELmpA1sT0INIqCFfTBLWhCA0WWuNnBKefJQgPpJwk0ipXHoRR6eNn9Lq2mS" alt="Netherlands vs Qatar: Live stream, TV channel, kick-off time &amp; where ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Here&#39;s how you can watch Netherlands against Qatar on TV and stream the game live in the UK, US, India and more.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRWFyeNXVu_tthaKaQnSGxFg6hyO-L8041upOybM-Wgr-WsIIK4cQxX1UfOHrW1acCpmXh2GdwH" alt="Netherlands vs Qatar: Predicted lineup, injury news, head-to-head" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Netherlands are on the cusp of qualifying for the round of 16. They will be facing hosts Qatar who are already out of the tournament.</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-us/news/netherlands-vs-qatar-predictions-world-cup-group-stage-odds-and-best-bets/blt0000eb1c087289de'>
+        </a><a href='https://www.goal.com/en-in/news/netherlands-vs-qatar-predictions-tips-and-betting-odds/blt26a2642779e19941'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Netherlands vs Qatar Predictions: World Cup Group Stage Odds ...</h3>
+                <h3>Netherlands vs Qatar: Predictions, tips &amp; betting odds</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQZESwKkLF6ule99DhBfqusBTzYMkgQMdcZpAgb9ZvAJqqPEAuFjtoCCRh53fcES1pewGbO65El" alt="Netherlands vs Qatar Predictions: World Cup Group Stage Odds ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>There should be no problems here for the Dutch as they seek to claim a victory to finish as the winners of World Cup Group A.</p></div>
-            </div>
-        </a><a href='https://www.espn.com/soccer/report/_/gameId/633821'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Netherlands vs. Qatar - Football Match Report - November 29, 2022 ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ9fiNxKtYAm56s1CqeSVOaFc9_GxWwqGCQOkJGtr7EQmYcuF3uPNwjl0DbcS6_HEaw38C_7Svo" alt="Netherlands vs. Qatar - Football Match Report - November 29, 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Cody Gakpo netted his third goal in three games as the Netherlands comfortably beat World Cup hosts Qatar 2-0 at the Al Bayt Stadium on Tuesday to secure&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQKSHAuGZgpKOMyPntG6JKHyy9aiaM3mLr0op7sL4PErKvHYlXL-WAdVZkp06x-uuyDxjvjaxCy" alt="Netherlands vs Qatar: Predictions, tips &amp; betting odds" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Netherlands will be confident of progressing to the next round of the World Cup when they come up against Qatar on Tuesday.</p></div>
             </div>
         </a>
         </Template></>;

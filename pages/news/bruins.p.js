@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Bruins"/>
         <meta name="description" content="Trending News about Bruins" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Bruins</h1>
-            <Image width={800} height={500} src="https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1125%2Fr1096918_1296x729_16%2D9.jpg" alt="Bruins"/>
+            <Image width={800} height={500} src="https://www.boston.com/wp-content/uploads/2022/11/MKYVRQ2BNXGT4VXXBSGIORY6FE-63873a76ae8a6.jpg" alt="Bruins"/>
             <h3>Recent News</h3>
-            <a href='https://www.espn.com/nhl/story/_/id/35107665/bruins-net-nhl-record-12th-straight-home-win-open-season'>
+            <a href='https://www.boston.com/sports/boston-bruins/2022/11/30/bruins-lightning-takeaways-score-recap-result/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bruins net NHL-record 12th straight home win to open season</h3>
+                <h3>What we learned following the Bruins&#39; 5th straight win over Tampa Bay</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcThA4CwDCPFv0YtutQqCOoSJBrQ1BrvBiRapOR5A7fBhkqKrYd3DiuwlzXkWlDZZie6QZCUE-R4" alt="Bruins net NHL-record 12th straight home win to open season" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Boston Bruins beat the Carolina Hurricanes 3-2 in overtime Friday, setting the NHL record for most home victories to start a season with the win.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQMrvA47U8O7p4WASCbzF6CttMNjmndKuP6tlDYd7v9WcPvCi6hp-VilHz_hVF0tfmxj8MhMcUN" alt="What we learned following the Bruins&#39; 5th straight win over Tampa Bay" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Two months in, and at the quarter-mark of the 2022-23 season, the Boston Bruins are showing no signs of slowing down.</p></div>
             </div>
-        </a><a href='https://www.boston.com/sports/boston-bruins/2022/11/25/bruins-hurricane-recap-analysis/'>
+        </a><a href='https://www.usatoday.com/story/sports/nhl/2022/11/30/bruins-broadcaster-jack-edwards-pat-maroon-weight-lightning/10803822002/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>3 takeaways from the Bruins&#39; 3-2 triumph over the Hurricanes</h3>
+                <h3>Boston Bruins announcer Jack Edwards makes fun of Lightning ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTIXJYPhUlL8AJ283cPuFtFrwtOI7aesb5atzzn_tFg4-anrinXLNlx7bJN4czK6kFzw7Px1KQj" alt="3 takeaways from the Bruins&#39; 3-2 triumph over the Hurricanes" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Boston Bruins&#39; Nick Foligno celebrates with Jeremy Swayman (1) after defeating the Carolina Hurricanes in overtime during an NHL hockey game, Friday, Nov.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTPJN8OlP8G_spG-rqtsug5VwAjFPuGSilzNOCayRGzpB9nkaFYEOLnMLYuvZdKGD7FBqZoLKr4" alt="Boston Bruins announcer Jack Edwards makes fun of Lightning ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Boston Bruins play-by-play announcer Jack Edwards made fun of the weight of Tampa Bay Lightning forward Pat Maroon during Tuesday&#39;s NESN broadcast.</p></div>
             </div>
-        </a><a href='https://www.nbcsports.com/boston/bruins/linus-ullmark-injury-latest-update-bruins-goalies-upper-body-issue'>
+        </a><a href='https://nesn.com/2022/11/four-takeaways-from-bruins-3-1-win-over-lightning/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Linus Ullmark injury: Latest update on Bruins goalie&#39;s upper body ...</h3>
+                <h3>Four Takeaways From Bruins&#39; 3-1 Win Over Lightning</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT9X23uNCXjemj-QeGVsKnRuZ8D_zNzILwB4s6KZVcuNDCsjy5YE9ZZkOaLgnJvYk1DheI1fX8N" alt="Linus Ullmark injury: Latest update on Bruins goalie&#39;s upper body ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Bruins lost goalie Linus Ullmark to injury in Friday&#39;s win over the Hurricanes. Here&#39;s the latest update on his status.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTSwsMwd9qiZXWHhuOlA7Ir2OUaJw1cfh3Y9NjxVP3bEZ-ud95FeJjzkMj6sGRkCeZCLq5sLFt9" alt="Four Takeaways From Bruins&#39; 3-1 Win Over Lightning" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Boston Bruins are a wagon this season and continued to prove as much with a 3-1 win over the Tampa Bay Lightning on Tuesday night.</p></div>
             </div>
-        </a><a href='https://www.nbcsports.com/boston/bruins/bruins-set-impressive-nhl-record-extending-perfect-home-record'>
+        </a><a href='https://www.masslive.com/bruins/2022/11/how-tampas-pat-maroon-countered-bruins-announcer-jake-edwards-fat-joke.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bruins set impressive NHL record by extending perfect home record</h3>
+                <h3>How Tampa&#39;s Pat Maroon countered Bruins&#39; announcer Jack ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT9X23uNCXjemj-QeGVsKnRuZ8D_zNzILwB4s6KZVcuNDCsjy5YE9ZZkOaLgnJvYk1DheI1fX8N" alt="Bruins set impressive NHL record by extending perfect home record" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Bruins made NHL history and set a new record Friday afternoon by beating the Hurricanes and continuing their dominance at TD Garden this season.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTU4FDew6dLMIPEUvxCOLTM9dHfVHbAbtYN_yjds8pg7I_l0UTKF0G7O0wLAnWVFHn2x9hZ3uGG" alt="How Tampa&#39;s Pat Maroon countered Bruins&#39; announcer Jack ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Bruins announcer Jack Edwards made fun of Tampa Bay forward Pat Maroon&#39;s weight during Tuesday&#39;s broadcast.</p></div>
             </div>
-        </a><a href='https://nesn.com/2022/11/bruins-notes-jim-montgomery-provides-update-on-linus-ullmark/'>
+        </a><a href='https://www.newscentermaine.com/article/sports/nhl/bruins/boston-bruins-extend-nhl-record-season-opening-home-win-streak-bruins-lightning-score/97-377527c1-4971-4bf5-b3d7-f3b7f7076450'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bruins Notes: Jim Montgomery Provides Update On Linus Ullmark</h3>
+                <h3>Boston Bruins extend NHL-record season-opening home win streak</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTNld3ekeFjQA098R7-_7Lhw5VSGJQD33aeiiSb-JDdw-fBVcMxXDOHxZ3tR4KOQjW_OjMGeX7l" alt="Bruins Notes: Jim Montgomery Provides Update On Linus Ullmark" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Just as Jeremy Swayman returned from injury did the Bruins lose Linus Ullmark. Jim Montgomery provided an update on the goalie after the win.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQGuA0DT1m3iFqyTTv7SAcO9KZcjV-dCojo7QkvBbgz0uoIYP15LanysXbzowq4JPHrvRNSeUre" alt="Boston Bruins extend NHL-record season-opening home win streak" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Taylor Hall scored twice and the Boston Bruins extended their NHL-record streak of home victories to open a season to 13 games with a 3-1 victory over Tampa&nbsp;...</p></div>
             </div>
-        </a><a href='https://theathletic.com/3936324/2022/11/25/bruins-nhl-record-home-start/'>
+        </a><a href='https://www.cbsnews.com/boston/news/taylor-hall-bruins-third-line-best-for-team-nhl/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bruins set an NHL record with a 12-0-0 home start. How did they do it?</h3>
+                <h3>Taylor Hall loving life on Bruins third line: &quot;It&#39;s whatever&#39;s best for the ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSL0kgUupdC7f8fvQ95p0jN_7X-l2WfMfhCmnXvCEsnzP4UahUwsJf7WPrWZUfSfM_272eI29_b" alt="Bruins set an NHL record with a 12-0-0 home start. How did they do it?" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>But coach Jim Montgomery saw an opportunity. If the Bruins rallied, they would win their 12th straight game to start the season on home ice. No other team in&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS9grqIiuiwxU3bC01tjxyjraACD0mFOiT39eqVuR4CCiGaEp2v8kBa1pQ87Dky8zhCGzZoYZxY" alt="Taylor Hall loving life on Bruins third line: &quot;It&#39;s whatever&#39;s best for the ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>BOSTON -- On just about any other team, Taylor Hall would probably find himself skating on the top line. In a few other instances, he would be part of a&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.nhl.com/bruins/news/bruins-set-nhl-record-with-12th-consecutive-home-win/c-338055748'>
+        </a><a href='https://bostonhockeynow.com/2022/11/30/haggs-hall-performance-underscores-boston-bruins-overwhelming-depth/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bruins Set NHL Record with 12th Consecutive Home Win</h3>
+                <h3>Haggs: Hall Performance Underscores Bruins Overwhelming Depth</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTYgN1c_hj1pSNrWVLFCSeu3B2V2k-IaYRrY0enWKjrrexSIjBkuOJMhuTmHB7cQIBGLfx9N2c6" alt="Bruins Set NHL Record with 12th Consecutive Home Win" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Pastrnak&#39;s OT winner pushed Boston to 12-0-0 at TD Garden to start the season.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSY75p_X2mrhs9V2Gk7VMEmHcVulFu_NcBezr2XM-Dxxcx4_nj34_89j-CB8bwxi9Wk_2spNWbo" alt="Haggs: Hall Performance Underscores Bruins Overwhelming Depth" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Taylor Hall&#39;s two-goal performance against the Tampa Bay Lightning underscores the Boston Bruins overwhelming roster depth this year.</p></div>
             </div>
-        </a><a href='https://www.stanleycupofchowder.com/2022/11/25/23478500/boston-bruins-carolina-hurricanes-nhl-hockey-recap-pastrnak-krejci-davids-czechs'>
+        </a><a href='https://www.wruf.com/headlines/2022/11/30/bruins-have-had-the-lightnings-number-to-start-season/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>RECAP: Bruins come back against Canes to win 3-2 in OT!</h3>
+                <h3>Bruins have had the Lightning&#39;s number to start season - ESPN 98.1 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT76AGrFJMvVms6q5LE7-XVgMOlbKha8k83wHe2a6H4RgpZeMZT7W7hEsQaomuk8IuKXhOreliM" alt="RECAP: Bruins come back against Canes to win 3-2 in OT!" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Things started miserably. The Bruins were playing about as poorly as you can to start a game, and the Canes capitalized twice, first it was Stefan Noesen.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT7KRQea_MThX2AbQIvuJoxACDwplWsll-nFmkKp_UT-ws74gJY1OmExuKzNTKDHUXnnFMzQ-y-" alt="Bruins have had the Lightning&#39;s number to start season - ESPN 98.1 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Tampa Bay Lightning lost to the Boston Bruins for the second time in four games on Tuesday night by a score of 3-1.</p></div>
             </div>
-        </a><a href='https://www.boston.com/sports/boston-bruins/2022/11/25/bruins-reveal-2023-winter-classic-jerseys-photos-image/'>
+        </a><a href='https://www.cbssports.com/nhl/news/lightnings-pat-maroon-donates-to-mental-health-charity-after-bruins-broadcaster-comments-about-his-weight/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Look: Bruins reveal their 2023 Winter Classic jerseys</h3>
+                <h3>Lightning&#39;s Pat Maroon donates to mental health charity after Bruins ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSIyZiR_ZI-uFcyinXgB4jrLJAPYN68jDsR8Gz9tKVMdlKNZvoaDK5hOM3VwBRi3AUwg88xds_x" alt="Look: Bruins reveal their 2023 Winter Classic jerseys" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Like their prior Winter Classic uniforms, the 2023 jerseys will also pay homage to past Bruins logos and designs. Read more on Boston.com.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRo-sj0QRzGKnOzHlJkET0dH7AwsBu2ejNB7XiT6viG1u-NfawGfLE8Z8yOC4Z22mNX32yyEJqb" alt="Lightning&#39;s Pat Maroon donates to mental health charity after Bruins ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Maroon donated $2000 to the nonprofit Tampa Bay Thrives after play-by-play announcer Jack Edwards joked about his weight.</p></div>
             </div>
-        </a><a href='https://www.nbcsports.com/boston/bruins/bruins-penguins-reveal-jerseys-2023-nhl-winter-classic'>
+        </a><a href='https://thehockeywriters.com/bruins-edwards-maroon-weight-comments/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Bruins, Penguins reveal jerseys for 2023 NHL Winter Classic</h3>
+                <h3>Bruins Play-by-Play Guy Jack Edwards Steps Over the Line...Again</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT9X23uNCXjemj-QeGVsKnRuZ8D_zNzILwB4s6KZVcuNDCsjy5YE9ZZkOaLgnJvYk1DheI1fX8N" alt="Bruins, Penguins reveal jerseys for 2023 NHL Winter Classic" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Bruins and Penguins have both unveiled the jerseys they&#39;ll wear for the 2023 NHL Winter Classic at Fenway Park on Jan. 2. Check them out here.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS8v2viZorKoQnceeNL3rxXxluYMGdZ_f9hx4GpuWdDG-NjGlCw_v1eI_cfWX133kBZnWcr3A7v" alt="Bruins Play-by-Play Guy Jack Edwards Steps Over the Line...Again" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Boston Bruins TV play-by-play announcer Jack Edwards made some shaming comments about Pat Maroon of Tampa Bay and it&#39;s not his first time.</p></div>
             </div>
         </a>
         </Template></>;

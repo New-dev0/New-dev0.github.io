@@ -11,28 +11,14 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Reino Unido"/>
         <meta name="description" content="Trending News about Reino Unido" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Reino Unido</h1>
-            <Image width={800} height={500} src="https://imagens.ebc.com.br/KCQkgPirjTDDETO3Ep8NJeZA7cQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/brasil_em_pauta_mcajr_abr_1304222523.jpg?itok=bDUOc3Zi" alt="Reino Unido"/>
+            <Image width={800} height={500} src="https://media-manager.noticiasaominuto.com/1280/naom_629f029866b4d.jpg?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE1Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6ODU3LCJjcm9wWSI6LTF9fQ==" alt="Reino Unido"/>
             <h3>Recent News</h3>
-            <a href='https://agenciabrasil.ebc.com.br/economia/noticia/2022-11/brasil-e-reino-unido-assinam-acordo-para-evitar-bitributacao'>
+            <a href='https://www.noticiasaominuto.com/mundo/2124291/anunciadas-novas-sancoes-do-reino-unido-a-oficiais-russos'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brasil e Reino Unido assinam acordo para evitar bitributação</h3>
+                <h3>Anunciadas novas sanções do Reino Unido a oficiais russos</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRQgyJLNHu4ZGIqUeJx0XYLOwuWuOKgQwC-tKZw0I-ItIHZMlyFs-3p8DCWfOAgPS3tlSatOZR8" alt="Brasil e Reino Unido assinam acordo para evitar bitributação" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Para a Receita Federal, a medida aumenta segurança jurídica nas transações entre os dois países e resulta na ampliação dos fluxos bilaterais de comércio e&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www1.folha.uol.com.br/mercado/2022/11/brasil-e-reino-unido-assinam-acordo-para-acabar-com-bitributacao.shtml'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brasil e Reino Unido assinam acordo para acabar com bitributação</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTN5oH3ZLWTPIwFp7tu7sF2Wvv0-tSyX-AjVOexnjY2dftXTMcS3cEunv53HAexIsU3fAGGsSKH" alt="Brasil e Reino Unido assinam acordo para acabar com bitributação" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Iniciativa amplia comércio e investimentos entre os países e é importante para tentar vaga na OCDE, diz Receita.</p></div>
-            </div>
-        </a><a href='https://www.infomoney.com.br/economia/choques-de-rendas-levarao-o-reino-unido-a-recessao-diz-presidente-do-bc-ingles/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Choques de rendas levarão o Reino Unido à recessão, diz ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQFvBDy-dSIDtp_X3UclIDTnNN159UTbLzzsxh_qQdxqTJLRiHxahJPm6Iio-A-MbG_9bKdQiiN" alt="Choques de rendas levarão o Reino Unido à recessão, diz ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Andrew Bailey também destacou que não há motivos para que o BC não consiga reduzir a carteira de Gilts em 80 milhões de libras em 1 ano.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT29KtTzoLgI6UN5P2QacirY66koNxOYDSZoXYGVvGUUW64kYub5uaOlXHT6h0k_hBdKz3k_9i1" alt="Anunciadas novas sanções do Reino Unido a oficiais russos" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Até agora, o Reino Unido já tinha aplicado sanções financeiras a mais de 1.200 indivíduos, mais de 120 entidades, incluindo 19 bancos russos e mais de 120&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

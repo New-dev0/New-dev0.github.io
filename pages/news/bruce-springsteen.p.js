@@ -11,21 +11,14 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Bruce Springsteen"/>
         <meta name="description" content="Trending News about Bruce Springsteen" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Bruce Springsteen</h1>
-            <Image width={800} height={500} src="https://guitar.com/wp-content/uploads/2022/11/sam-fender-bruce-springsteen@2000x1500.jpg" alt="Bruce Springsteen"/>
+            <Image width={800} height={500} src="https://www.leparisien.fr/resizer/f_yF5VK92xYv1q3T1-1rQ_74mjA=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/PYFHYHNVAJGA7HI2R7TLCYUXMU.jpg" alt="Bruce Springsteen"/>
             <h3>Recent News</h3>
-            <a href='https://guitar.com/news/music-news/sam-fender-to-support-bruce-springsteen-on-upcoming-summer-2023-shows/'>
+            <a href='https://www.leparisien.fr/culture-loisirs/tv/programme-tv-du-mercredi-30-novembre-faut-pas-rever-taxi-5-bruce-springsteen-notre-selection-30-11-2022-MRSZCRIEKVBHFGFZJULQN6LETI.php'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Sam Fender to support Bruce Springsteen on upcoming summer ...</h3>
+                <h3>Programme TV du mercredi 30 novembre : «Faut pas rêver», «Taxi ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQqJoJRLAt3xWgce914Sv99Y70nvlO8SgLLrKQ8AF-usEuXakvoNjPJghC865FMYd6C0dssk99r" alt="Sam Fender to support Bruce Springsteen on upcoming summer ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Indie artist Sam Fender has announced he will support Bruce Springsteen and The E Street Band for two upcoming shows in Italy next year.</p></div>
-            </div>
-        </a><a href='https://www.1057thepoint.com/music-news/seventeen-going-thunder-road-sam-fender-opening-bruce-springsteen-italy-shows/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Seventeen Going Thunder (Road): Sam Fender opening Bruce ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTX4SzQRSPgKSHmd-3OYZm8WJpyapt4aU6mjHN7tlqfksvJ27ywQ7gmnPXC9RuftyoO0tg_-i2y" alt="Seventeen Going Thunder (Road): Sam Fender opening Bruce ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Sam Fender will be opening for Bruce Springsteen in Europe. The &quot;Seventeen Going Under&quot; artist is supporting The Boss for two shows in Italy, taking place&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQRUMtMaQAuIc_u-tSA8rPLrIwBTQJ3PIcNnUf3pwb52BsvqRqcIaQW3n_mqMFosebxqhk9VRnS" alt="Programme TV du mercredi 30 novembre : «Faut pas rêver», «Taxi ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Une balade sous le soleil du Midi, un «Taxi» rajeuni par Franck Gastambide, un voyage rock&#39;n&#39;roll avec Bruce Springsteen… Voici nos suggestions pour votre&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

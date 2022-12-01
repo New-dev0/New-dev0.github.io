@@ -13,47 +13,47 @@ export default function Page() {
             <h1 style={{fontSize: "30"}}>Wales vs England</h1>
             <Image width={800} height={500} src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt587ef67a5a87de09/6382ef88c28e34061570a688/Gareth_Bale_Wales_Harry_Kane_England.jpg" alt="Wales vs England"/>
             <h3>Recent News</h3>
-            <a href='https://www.goal.com/en/news/wales-vs-england-lineups-and-live-updates/blt31f926ea35d77273'>
+            <a href='https://www.goal.com/en-in/news/wales-vs-england-lineups-and-live-updates/blt31f926ea35d77273'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Wales vs England: Lineups and LIVE updates</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcScpuqWa4bpkJGPIJsD6RNYB8P2_MTV0mAJmC0tXmVP8w9dbhG1l9MobcXGc2ysSbQKBLWwBo1q" alt="Wales vs England: Lineups and LIVE updates" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>England&#39;s and Wales&#39; rivalry goes beyond football, for their respective fans this match is personal. The former just need a point to secure qualification to&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sportingnews.com/au/soccer/news/wales-vs-england-world-cup-live-score-result/tobeq3cqwm1jpshrclqnmqmh'>
+        </a><a href='https://sportstar.thehindu.com/football/fifa-world-cup/news/england-vs-wales-live-score-fifa-world-cup-eng-v-wal-qatar-2022-team-news-kane-bale-group-b-qualification-scenarios/article66200300.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Wales vs England: World Cup result, highlights, result as Rashford ...</h3>
+                <h3>England 3-0 Wales HIGHLIGHTS, FIFA World Cup: Rashford brace ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcREwxACLoDKiAN_l3s_Oj3mVveVIfREfi0ukl0xOlwNmNOpTh_axpeVzrDXeHh4w0hFDZodYhad" alt="Wales vs England: World Cup result, highlights, result as Rashford ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Marcus Rashford and Phil Foden made the most of their elevation to England&#39;s starting line-up as they played starring roles in a dominant 3-0 World Cup win&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSTRrX67b24sNPcYNf5-AKd2UnvyqJ68bNqbz2VUwnsEl7Jfd1rnNom69VT0MHfx86T8bkUPe1w" alt="England 3-0 Wales HIGHLIGHTS, FIFA World Cup: Rashford brace ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>ENG vs WAL: Welcome to Sportstar&#39;s highlights of the FIFA World Cup Group B clash between England and Wales.</p></div>
             </div>
-        </a><a href='https://www.skysports.com/football/wales-vs-england/live/462994'>
+        </a><a href='https://indianexpress.com/article/sports/football/fifa-world-cup-2022-live-updates-netherlands-vs-qatar-wales-vs-england-8296359/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Wales 0-3 England commentary and reaction</h3>
+                <h3>England vs Wales, FIFA World Cup 2022 Highlights: Rashford&#39;s ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS5ij3gq5ufS3UX-6LuIjx7jtlSH7NDA03BjsPjHuG_CZf_Go-Y6vXsGX04N2ut10zwiQasKvxo" alt="Wales 0-3 England commentary and reaction" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>FIFA World Cup match Wales vs England 29.11.2022. Preview and stats followed by live commentary, video highlights and match report.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTE1V9BAs-l7I6_Gb0CIDrpJ0fw1Ru31OqKS0w0-QKjP23kRNi86e-F-Xk-7hwnO1Fh98JFKWIp" alt="England vs Wales, FIFA World Cup 2022 Highlights: Rashford&#39;s ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>World Cup 2022 Highlights, Wales vs England Group B: England will next face Senegal in the round of 16. Wales finished in last place in the group and has&nbsp;...</p></div>
             </div>
-        </a><a href='https://theathletic.com/live-blogs/england-vs-wales-world-cup-2022-live-score-updates-result/rTE2jzpx4Tzn/'>
+        </a><a href='https://www.cnbctv18.com/sports/fifa-world-cup-qatar-live-updates-netherlands-vs-qatar-wales-vs-england-15288321.htm'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>England clinch top spot in Group B with 3-0 win over Wales: Live ...</h3>
+                <h3>FIFA World Cup 2022, Wales vs England Highlights: Rashford ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRqJzEqKJFgkpUZGRzaGxSfpTij3QHdzwmDlrZJFLW1FcNV67Y1R2T0FJIySrdz54IX35IzHLti" alt="England clinch top spot in Group B with 3-0 win over Wales: Live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Marcus Rashford dedicated his goals against Wales to a friend who recently died of cancer. The England forward opened the scoring before hitting the final goal&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRiEgVCVBHaVXOWoUVBUxPydjG4bbwcSx2JftGis5D7hv7QdHSUPO9zWITkwvwSnrzEJCj330iM" alt="FIFA World Cup 2022, Wales vs England Highlights: Rashford ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>FIFA World Cup 2022, Netherlands vs Qatar Live Updates: Catch all the live updates from the Group A match between the Netherlands and Qatar being played at&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.aljazeera.com/news/liveblog/2022/11/29/live-wales-vs-england-world-cup'>
+        </a><a href='https://www.livemint.com/sports/football-news/fifa-world-cup-2022-wales-vs-england-prediction-time-live-streaming-details-11669728651839.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Wales vs England 0-3: World Cup 2022 – as it happened</h3>
+                <h3>FIFA World Cup 2022: Wales vs England prediction, time, live ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT_zI55rpJPalxzvuDnWoXgpBfd_rj328zMK2GNGwjN2LW2js_qpaSRnlXsqCLg4dQSkKndGA82" alt="Wales vs England 0-3: World Cup 2022 – as it happened" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>All the updates from the FIFA World Cup 2022 match between Wales and England at Ahmed bin Ali Stadium.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS8M1gMJ5XUsb9oB4feAyeLiKR3rrPRZGeRLR3NNCLLNM5knz3r0XWT9a9pPeDkngnRXrwwrp9W" alt="FIFA World Cup 2022: Wales vs England prediction, time, live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Unless the Brits get defeated by the Wales on Tuesday, they have a very high chance of leading the group, but a win against the opponent Wales would&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.completesports.com/wales-vs-england-match-preview-and-predictions/'>
+        </a><a href='https://www.hindustantimes.com/sports/football/fifa-world-cup-2022-live-score-iran-vs-usa-wales-vs-england-football-match-latest-updates-ahmed-bin-ali-stadium-al-thumama-stadium-101669742649796.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Wales Vs England – Match Preview And Predictions</h3>
+                <h3>FIFA World Cup Highlights Iran vs USA Wales vs England: USA ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQDWQDmZ_J3FleDKbE4_f2-qPZU5qB7bVwetY7G_de5z5njYGYEV-TabD1xb9fLFrkAdaR4A8xk" alt="Wales Vs England – Match Preview And Predictions" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Wales vs England – One of the biggest World Cup letdowns thus far has been Wales. Didn&#39;t great in their first two games.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSPNpP3PneJJSVRrBjtRuWq8xFblhAEXirJphSRtCt6S56lVcZPmL3HWetGcCbcuV9oyUPxM937" alt="FIFA World Cup Highlights Iran vs USA Wales vs England: USA ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>FIFA World Cup 2022 Highlights: USA and England won their Group B fixtures vs Iran and Wales to book their Round of 16 berths. Follow here highlights of IRN&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

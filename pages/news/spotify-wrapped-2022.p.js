@@ -11,56 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Spotify Wrapped 2022"/>
         <meta name="description" content="Trending News about Spotify Wrapped 2022" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Spotify Wrapped 2022</h1>
-            <Image width={800} height={500} src="https://stylecaster.com/wp-content/uploads/2022/11/PR_2021_TopSong.jpeg" alt="Spotify Wrapped 2022"/>
+            <Image width={800} height={500} src="https://www.hna.de/bilder/2022/11/30/91949371/30405759-spotify-logo-auf-smartphone-bildschirm-45fe.jpg" alt="Spotify Wrapped 2022"/>
             <h3>Recent News</h3>
-            <a href='https://stylecaster.com/how-to-see-spotify-wrapped/'>
+            <a href='https://www.hna.de/verbraucher/spotify-wrapped-2022-das-hat-rheinland-pfalz-am-liebsten-gehoert-zr-91949371.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Spotify Wrapped Season Is Here—Here&#39;s How To See Which Artists ...</h3>
+                <h3>Spotify Wrapped 2022: Das hat Rheinland-Pfalz am liebsten gehört</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR5_Qj4h2PRrdM-RExk6r50PYFGLECe1qodHRv9Kih5XMo2RKC37ia9UdcaHnbsY8DUU1Nj6K-d" alt="Spotify Wrapped Season Is Here—Here&#39;s How To See Which Artists ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>How do you see your 2022 Spotify Wrapped? Here&#39;s how to see your top songs, artists and podcasts for the year.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSnTlNdgHH--rf_UNZ3z_0I1s7yZ4hp2jeu1Zw-cmaRoJhQr-74T8YTkM3CNOutk0D6vvaYpYb1" alt="Spotify Wrapped 2022: Das hat Rheinland-Pfalz am liebsten gehört" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Alle Jahre wieder beglückt der Musikstreaming-Dienst Spotify seine Nutzer mit einer Liste ihrer Lieblingslieder und -künstler.</p></div>
             </div>
-        </a><a href='https://consequence.net/2022/11/how-to-view-spotify-wrapped-2022/'>
+        </a><a href='https://www.giga.de/artikel/wo-finde-ich-den-spotify-jahresrueckblick-wrapped-2022/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>How To See Your 2022 Spotify Wrapped</h3>
+                <h3>Wo finde ich den Spotify-Jahresrückblick? Wrapped 2022</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQXC79DO_Iy3-5hMstrAx0x0qx8gWUtZiepN0flg5qZYgouzripfmZrHargMSkFExZAUhpLSmae" alt="How To See Your 2022 Spotify Wrapped" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>By opening the app on your iPhone, your Wrapped lists should be available on your home page along with your recently listened artists, albums, and playlists.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRAy5Ue4dHFWEYSwbfTiO_QKBMUTa2GDeCZRuy_fElKxKkvTfgc9GwYby4Zds-fWFAq8aM9qmf4" alt="Wo finde ich den Spotify-Jahresrückblick? Wrapped 2022" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Alle Jahre wieder geht es im Dezember nicht nur in die Adventszeit – der Musik-Streaming-Dienst stellt auch seinen Jahresrückblick für..</p></div>
             </div>
-        </a><a href='https://www.manchestereveningnews.co.uk/news/uk-news/spotify-wrapped-2022-drop-streaming-25624742'>
+        </a><a href='https://www.rnd.de/medien/spotify-wrapped-2022-der-jahresrueckblick-ist-da-GMRZRG6NKZLYJVSXI3I65OYWCU.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>When will Spotify Wrapped 2022 drop as streaming service teases ...</h3>
+                <h3>Spotify Wrapped 2022: Der Jahresrückblick ist da</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS1UITprVeYWa-NeywO-aVAymnhdJ3zmLFJXUYB3N-BmGN1S6pCco3bEewGVpEXPSG8jYdnSyOj" alt="When will Spotify Wrapped 2022 drop as streaming service teases ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The statistics detail how many hours users have spent listening to music and podcasts, as well as their most popular genres and artists. It also tells you what&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTJoxl1FoL7JkJ--Tq8kCMN2C4aVWZZTvmAay_3BMoGaxQ-w9IB-N1gDerjIENMTwBc9y9fB6iC" alt="Spotify Wrapped 2022: Der Jahresrückblick ist da" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Spotify bietet seinen Nutzerinnen und Nutzern seit einigen Jahren interessante Statistiken zum eigenen Hörverhalten an. Dafür erstellt der Streamingdienst&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.xxlmag.com/when-spotify-wrapped-2022-released/'>
+        </a><a href='https://www.appgefahren.de/spotify-wrapped-2022-der-grosse-audio-jahresrueckblick-ist-da-328600.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>When Is Spotify Wrapped 2022 Getting Released?</h3>
+                <h3>Spotify Wrapped 2022: Der große Audio-Jahresrückblick ist da ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQR_Qpb48QLtAF4CQV2hJDwksWh5D57LWjfTxYKhaCWwjeTfepWPCgUD7VHgMGHYLvD-qq2i2_o" alt="When Is Spotify Wrapped 2022 Getting Released?" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Spotify Wrapped is nearing its launch for 2022 as Spotify has revealed its Twitter hashtag and began teasing when users can expect their personalized&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTmtxjm1dZB4Hh3TC-myBC70c8QRJdR5Uh-62jHo4pGgaPI-CyUmrnobnbSV1Db0zmjQo_7SEto" alt="Spotify Wrapped 2022: Der große Audio-Jahresrückblick ist da ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Bei den Spotify Usern in Deutschland ist 2022 ein Podcast am beliebtesten, der bereits seit 2017 die Fans jede Woche mit humorvollen Geschichten unterhält:&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.dexerto.com/music/spotify-wrapped-2022-1997138/'>
+        </a><a href='https://www.rollingstone.de/spotify-wrapped-2022-so-kommt-man-an-den-persoenlichen-jahresrueckblick-2525371/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>When is Spotify Wrapped 2022? Release date, playlists, more</h3>
+                <h3>Spotify „Wrapped“ 2022: So kommt man an den persönlichen...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRAXqb5iAGD0I4CtzCRKu05ep_wDeGXLRc8DtKvZok1ZCzkXTIbih7Vm9L3qVhIBIZMIfwv8Oek" alt="When is Spotify Wrapped 2022? Release date, playlists, more" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>When is Spotify Wrapped 2022? If you&#39;re eager to check out your Wrapped playlist for 2022, here&#39;s everything you need to know.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS9xZ9HGlemP-owne7VeSmalebQyLYdv6OexlOqGmnrt12tPUeKqWkzY1PL6A16rcbjydSLeVG3" alt="Spotify „Wrapped“ 2022: So kommt man an den persönlichen..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Der Jahresrückblick von Spotify ist zurück. Mit „Wrapped“ wird nicht nur das eigene Hörverhalten gespiegelt, sondern es werden auch die erfolgreichsten&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.billboard.com/music/music-news/spotify-wrapped-2022-release-date-1235176934/'>
+        </a><a href='https://www.djmag.de/einzelnews/spotify-wrapped-2022-dein-musikalischer-jahresrueckblick/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Spotify Wrapped 2022: Streaming Service Promises &#39;All Will Be ...</h3>
+                <h3>Spotify Wrapped 2022: dein musikalischer Jahresrückblick</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQErjRnD8O1cI8xFI0eWmE8nSbqoES4qQTc-Fg1OFQk5oU8whlWYon1sxhVBwOU8Gp53XOgVYEg" alt="Spotify Wrapped 2022: Streaming Service Promises &#39;All Will Be ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The teases started way back in mid-October, when the streaming giant tweeted, “We want to see your Wrapped Top Artist predictions,” garnering responses from&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.independent.co.uk/arts-entertainment/music/news/spotify-wrapped-2022-music-songs-b2234464.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Spotify Wrapped 2022: How to get your personalised music data</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSzKUj8dRR29z146v2AgrjgxfZ0NZNdhBzQ0yK0tZDDMucNFhHkFaOO3ZW1dvRx15GHjAsymqdH" alt="Spotify Wrapped 2022: How to get your personalised music data" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>It&#39;s almost time to find out what songs you&#39;ve been (not so secretly) bingeing this year.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQFYGWPkfOf0ESl-efWI6T3CHyCPBZ8BvbIl2V0V_Am3dvqbcjYV-qzMn5FieSmfeoQNsNACgax" alt="Spotify Wrapped 2022: dein musikalischer Jahresrückblick" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ab sofort können alle Spotify-Nutzer ihren persönlichen Jahresrückblick erstellen lassen. Was sind deine Top-Genres? Welcher Song lief am häufigsten auf&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

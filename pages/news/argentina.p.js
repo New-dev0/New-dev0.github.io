@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Argentina"/>
         <meta name="description" content="Trending News about Argentina" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Argentina</h1>
-            <Image width={800} height={500} src="https://images.hindustantimes.com/img/2022/11/27/1600x900/ANI-20221127232-0_1669563796687_1669563796687_1669563816932_1669563816932.jpg" alt="Argentina"/>
+            <Image width={800} height={500} src="https://media.npr.org/assets/img/2022/11/30/ap22334713805422_wide-ca9ebfc0a130098d8f4802b8d09b0447764c393d-s1400-c100.jpg" alt="Argentina"/>
             <h3>Recent News</h3>
-            <a href='https://www.hindustantimes.com/sports/football/messi-argentina-spark-to-life-101669563711538.html'>
+            <a href='https://www.npr.org/2022/11/30/1139970974/lionel-messi-and-argentina-advance-at-the-world-cup-with-a-2-0-victory-over-pola'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Messi, Argentina spark to life</h3>
+                <h3>Lionel Messi and Argentina advance at the World Cup with a 2-0 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQyzQv_9MsUyv_0k2GZwGFwPYZZog19SNEWWmp6GGbsHbg_CzKBSmXKrweOzGtju0PahI_sCiEq" alt="Messi, Argentina spark to life" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Messi&#39;s goal and that of Enzo Fernandes ended thoughts of a premature exit for the Albicelestes | Football News.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRSjmQT53lg2pcRu5Qm8HUAN0LKXNayw11h88HzasJnrgjv2U83L1U3K8lfdD1kEpWKFX8n0QN4" alt="Lionel Messi and Argentina advance at the World Cup with a 2-0 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lionel Messi will grace the World Cup stage at least one more time. Argentina finished in first place in Group C to set up a match against Australia,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.thedispatch.in/fifa-world-cup-messis-magic-helps-argentina-beat-mexico-2-0/'>
+        </a><a href='https://www.espn.com/soccer/fifa-world-cup/story/4820876/argentinas-supporting-cast-leads-albiceleste-into-last-16'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FIFA World Cup: Messi&#39;s magic helps Argentina beat Mexico 2-0</h3>
+                <h3>Argentina&#39;s supporting cast leads Albiceleste into last 16</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQnvEUz22Moy45oqGZyJr64g0TF98s_vZ0Xj1lciQb5eDy4KjHTT4U4siAU49BsmpGGnjDpRLpy" alt="FIFA World Cup: Messi&#39;s magic helps Argentina beat Mexico 2-0" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Doha: Lionel Messi and Enzo Fernandez scored as Argentina defeated Mexico 2-0 in a crucial game at the FIFA World Cup on Saturday at the Lusail Stadium.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTV5CNAnCCLDvQay2EnJq-8dgrdoF44UB5TvcW-ARScPKzCUQm-R_lIk7KSsFGrg9KB710pdBsY" alt="Argentina&#39;s supporting cast leads Albiceleste into last 16" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>For once, Lionel Messi didn&#39;t have to carry Argentina on his back, and his teammates instead shouldered the burden of taking them to the last 16.</p></div>
             </div>
-        </a><a href='https://www.wionews.com/sports/fifa-world-cup-88966-fans-watched-argentina-mexico-game-live-in-stadium-biggest-crowd-in-28-years-537898'>
+        </a><a href='https://www.cnn.com/2022/11/30/football/argentina-poland-group-c-2022-world-cup-spt-intl/index.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FIFA World Cup: 88966 fans watched Argentina-Mexico game in ...</h3>
+                <h3>Lionel Messi has penalty saved but Argentina progresses to World ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQNZLU1cn7hsce2B879Jy51ix_PsTNxAYnl7MGAvuiLXls5335Q1DxBG8CiWqod7cDDs34baArr" alt="FIFA World Cup: 88966 fans watched Argentina-Mexico game in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>For reasons mainly related to on-field football, Argentina vs Mexico match on Saturday will be remembered for good. However, something else also made&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS8tzSl6wdFekHN6GNEqH-P-rK3aqS0tgXytMnreJ1yXbgAGJxpPny4pqbLhtM2JiOMK1nCfJCx" alt="Lionel Messi has penalty saved but Argentina progresses to World ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lionel Messi had a penalty saved but Argentina booked its ticket to the knockout phase of the 2022 World Cup with a 2-0 victory over Poland.</p></div>
             </div>
-        </a><a href='https://foreignpolicy.com/2022/11/27/argentina-1985-film-review-junta-trial-military-dictatorship-democracy/'>
+        </a><a href='https://www.nytimes.com/live/2022/11/30/sports/argentina-poland-world-cup-scores'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Argentina, 1985&#39; Review: Argentina&#39;s Junta Trial Was More ...</h3>
+                <h3>Argentina vs Poland Live: World Cup Scores and Standings</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTj6SpIdKpHju2P13B8XKCE6ZC_qFTBVQpSFMFR5tqEmQubrzPxq-BFZRUrkhZWjHMDQ-ZQJhdb" alt="&#39;Argentina, 1985&#39; Review: Argentina&#39;s Junta Trial Was More ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>At a time when many people feel helpless against the larger forces of war, fascism, and injustice, it feels good to see a civilian court take down a monster&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT6YGzYV_UYb5rypOqAaHpR4cS-R-_OZK-oJFC5QIhvCP0Ohs7MRAES-lHxioUlKgS6H8BG6mL9" alt="Argentina vs Poland Live: World Cup Scores and Standings" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mexico also scored to keep its World Cup hopes alive against Saudi Arabia.</p></div>
             </div>
-        </a><a href='https://www.espn.in/football/fifa-world-cup/story/4815180/messi-saves-argentinas-world-cup-hopes-mexico-tactics-fail'>
+        </a><a href='https://theathletic.com/live-blogs/poland-argentina-world-cup-2022-live-score-updates-result/U6axwGQihIZA/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Messi saves Argentina&#39;s World Cup hopes, Mexico tactics fail</h3>
+                <h3>How Argentina advanced from Group C in victory over Poland ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRGzhUExGed5cuDwoklMbDKQfn3rJvJfB4LBMAkZS2DZZbH6CSB6Y69Kbjz9f5jOb_kgspQQqy5" alt="Messi saves Argentina&#39;s World Cup hopes, Mexico tactics fail" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Argentina would&#39;ve been eliminated from the World Cup with a loss to Mexico. After a tight, nervy first half, Messi stepped up.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSDSg6RP_V46x1QRtthxTet1CfNgOxEzibTYHkMxTu3oV10WsvilZah_RRatxHbbwEO3N_awXYV" alt="How Argentina advanced from Group C in victory over Poland ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Argentina have beaten Poland 2-0 and qualified for the knockout stage of the 2022 World Cup. They will play Australia in the round of 16.</p></div>
             </div>
-        </a><a href='https://indianexpress.com/article/sports/football/lionel-messi-says-all-of-argentinas-matches-are-finals-now-8292505/'>
+        </a><a href='https://en.as.com/soccer/poland-vs-argentina-live-updates-pregame-score-stats-and-highlights-qatar-world-cup-2022-n/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Lionel Messi says all of Argentina&#39;s matches are finals now</h3>
+                <h3>Poland vs Argentina summary: score, goals, highlights 0-2 | Qatar ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTyp_GM9iXDuTVqNtFSDvVSq11_zlM0k3RF369-IHUePM0TLCxn8YKakfHpkJvOhH_IcGkQNqkg" alt="Lionel Messi says all of Argentina&#39;s matches are finals now" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>We lived with discomfort and kept the defeat in the opening match in our minds, says Messi on the shocking defeat against Saudi Arabia.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQwQOisaGbhBnQC81YtF1pUUujZduFEBzlmt0d8NC0VfEtsIY2vek0qE_L7SOBjgiXay0LNe-4M" alt="Poland vs Argentina summary: score, goals, highlights 0-2 | Qatar ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Argentina ran out 2-0 winners over Poland and ensure qualification to the second round despite their initial defeat to Saudi Arabia. Poland qualify too.</p></div>
             </div>
-        </a><a href='https://www.npr.org/2022/11/26/1139287266/lionel-messi-world-cup-argentina-wins-mexico-goal'>
+        </a><a href='https://www.latimes.com/espanol/deportes/articulo/2022-11-30/minuto-a-minuto-de-argentina-vs-polonia-en-vivo-desde-el-stadium-974-en-qatar-2022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Lionel Messi&#39;s goal revives Argentina&#39;s World Cup hopes</h3>
+                <h3>Minuto a Minuto de Argentina vs. Polonia EN VIVO desde el ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRGkZNoqm6x3DjuB_LQlKuVx_WbhVq8Mdk7lv9LU9AYI7F_1kiTplUiTXfK-CTVpkXWpuDct-c7" alt="Lionel Messi&#39;s goal revives Argentina&#39;s World Cup hopes" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Substitute Enzo Fernandez added a second goal in the 87th minute. Argentina bounced back from a shocking 2-1 loss to Saudi Arabia in its opening match. The team&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ7afoqOIwmjaAfa-yPyTrk5T0Q2Rq8_tW7D11RHE1wP0NfTtDLhFYGETDJWXX6aqRfVWhdYg-E" alt="Minuto a Minuto de Argentina vs. Polonia EN VIVO desde el ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Con un dominio de principio a fin, Argentina derrotó a Polonia el miércoles y asegurarse su clasificación de la siguiente fase de Qatar 2022.</p></div>
             </div>
-        </a><a href='https://olympics.com/en/news/argentina-qualify-fifa-world-cup-2022-knockout-round-of-16-chance'>
+        </a><a href='https://espndeportes.espn.com/futbol/reporte?juegoId=633824'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>How can Argentina qualify for FIFA World Cup 2022 round of 16 ...</h3>
+                <h3>Polonia vs. Argentina - Reporte del Partido - 30 noviembre, 2022 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTMbzrHfUKavXTL-dE6KGhdlEG09z_UyfCv9Xzn7pjARHFpEsqrsRL4i7JStVilR8QH4KdrFpxq" alt="How can Argentina qualify for FIFA World Cup 2022 round of 16 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Fortunately for Argentina and Lionel Messi, their qualification for the FIFA World Cup 2022 in Qatar is still in their own hands. A win against Poland in the&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQJ8dbQGluKkuAEHK3jtjc3rsfNmuDKjk39yWkeZdV9mMchl6lN7G3eoxTQTMqXH_QYUJr8qWKn" alt="Polonia vs. Argentina - Reporte del Partido - 30 noviembre, 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Obtén el reporte del partido Polonia vs. Argentina 2022 Copa Mundial FIFA, Fase de grupos.</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-in/news/argentina-result-qualify-last-16-2022-world-cup/blt56e7535b1a36907f'>
+        </a><a href='https://cnnespanol.cnn.com/2022/11/30/argentina-polonia-resultado-mundial-qatar-2022-en-vivo-directo/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>What result do Argentina need to qualify for last 16 of 2022 World ...</h3>
+                <h3>Resumen y resultado de Argentina 2-0 Polonia en el Mundial de ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS6NLqNTH4tK_wpK1oS1mf4ph5gKRbSGD8jGG3dRu3AGDN94W4hup36VxUHMLrR_eGJb-Y1Hg0m" alt="What result do Argentina need to qualify for last 16 of 2022 World ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Lionel Messi and his Argentina team-mates have things in their own hands again following their win over Mexico, but what result do they need to progress?</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQrQbYREYOg1ENfE4MA6iiCZpcY5jEIiaYyzYEvi6hiGD2n7vZiZgoQHW01xn1XMeicncqNQrC8" alt="Resumen y resultado de Argentina 2-0 Polonia en el Mundial de ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Argentina debe ganar para pasar sin depender de nada más para avanzar a octavos de final en el Grupo C del Mundial de Qatar. Si pierde, quedará eliminado.</p></div>
             </div>
-        </a><a href='https://www.90min.com/posts/how-can-argentina-qualify-for-the-world-cup-knockout-stages'>
+        </a><a href='https://www.tudn.com/futbol/mundial-qatar-2022/partidos-en-vivo/fase-de-grupos/polonia-vs-argentina/messi-fallo-penal-pero-argentina-vencio-a-polonia-y-paso-a-octavos-de-final-en-el-mundial-qatar-2022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>How can Argentina qualify for the World Cup knockout stages?</h3>
+                <h3>Messi falló penal, pero Argentina venció a Polonia y pasó a Octavos ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ0gPOjwqkoDKnniTRJC28f7zNHU2m48TCAnyottvMoKuApN_YWq95K7G2UxQVv39sq71iM5xPz" alt="How can Argentina qualify for the World Cup knockout stages?" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Argentina, spearheaded by a 35-year-old Lionel Messi who may never get another&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS2zDclukNnyzO3d14p0Kefbq08RLJsu7W7c0PpbmCPwo6D614Av2bTSyHqdUqIV-u4zjUQ3p51" alt="Messi falló penal, pero Argentina venció a Polonia y pasó a Octavos ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>El conjunto albiceleste fue muy superior a un tibio equipo polaco y ganó con los tantos de Alexis MacAllister y Julián Álvarez.</p></div>
             </div>
         </a>
         </Template></>;

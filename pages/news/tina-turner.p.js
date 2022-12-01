@@ -11,21 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Tina Turner"/>
         <meta name="description" content="Trending News about Tina Turner" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Tina Turner</h1>
-            <Image width={800} height={500} src="https://thumbs.web.sapo.io/?W=1200&H=630&delay_optim=1&tv=1&crop=center&bottom_overlay=https%3A%2F%2Fmag.sapo.pt%2Fassets%2Fimg%2Flifestyle-sapo%2Ffacebook-overlay.png&epic=MWQ1W57VOTQl/PRRAVMHgFhpgIacAJolebsghLWXZvFy9Za4ZUKnbVYNb1It8f/JG3QxnvsQ3BBDSpJVmlpZ8Q4TIovh3JuUhah9SVC94BrJ7aw=" alt="Tina Turner"/>
+            <Image width={800} height={500} src="https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png" alt="Tina Turner"/>
             <h3>Recent News</h3>
-            <a href='https://lifestyle.sapo.pt/fama/noticias-fama/artigos/tina-turner-10-factos-que-quase-ninguem-sabe-sobre-a-iconica-cantora'>
+            <a href='https://orf.at/stories/3295887/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Tina Turner: 10 factos que quase ninguém sabe sobre a icónica ...</h3>
+                <h3>Schweizer Gemeinde senkt wegen Tina Turner Steuern</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRTplci1fI1x_bCIy38RfswMQzwHMam97OU9lvwv9qb5yTcEj-208CeaoGXW5TL0yAr6UDnnrQq" alt="Tina Turner: 10 factos que quase ninguém sabe sobre a icónica ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Tina Turner é uma das cantoras mais icónicas de sempre, tendo sido apelidada como a grande rainha do rock and roll. Nasceu a 26 de novembro de 1939,&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ5exa1Fk9WFThOlmLN21CviwHsMfemSawVtCNeVzcsfH-AVrPuJNqRpN98_dq2oEacFGKYXgU9" alt="Schweizer Gemeinde senkt wegen Tina Turner Steuern" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Tina Turner beschert den Einwohnerinnen und Einwohnern der Schweizer Gemeinde Stäfa am Zürichsee ein Weihnachtsgeschenk: Weil der Weltstar dort im&nbsp;...</p></div>
             </div>
-        </a><a href='https://glamurama.uol.com.br/cultura-e-entretenimento/no-aniversario-de-tina-turner-relembre-5-momentos-simply-the-best-da-eterna-diva-musical/'>
+        </a><a href='https://www.blick.ch/politik/verfruehtes-weihnachtsgeschenk-wegen-tina-turner-kann-staefa-steuern-senken-id18100637.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Tina Turner faz 83: veja 5 momentos &#39;simply the best&#39; da diva musical</h3>
+                <h3>Tina Turner beschert Stäfa tiefere Steuern</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTWivAIF7_vv8hgs3rJSo9MFz6mykHXJ0Ydbm8fk3w009y4YFbu0Mz2tc3HvipX5XtL9FtHUH2N" alt="Tina Turner faz 83: veja 5 momentos &#39;simply the best&#39; da diva musical" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>No aniversário de 83 anos de Tina Turner, relembre cinco momentos &#39;simply the best&#39; da eterna diva musical.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS-bEoADNVsmf68k7nuiPOQ0zhWF7EGk6lG6t7tisvBxohEFnaJoio8tRPLsw9ugz1Ev_h9FvoR" alt="Tina Turner beschert Stäfa tiefere Steuern" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Rocksängerin Tina Turner beschert den Einwohnern von Stäfa ZH ein schönes Weihnachtsgeschenk: Wegen des Weltstars, der in der Gemeinde ein Anwesen gekauft&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.handelszeitung.ch/panorama/zuzug-von-us-rockdiva-wieso-stafa-dank-musikstar-tina-turner-die-steuern-senken-kann-551275'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Tina Turner rockt die Gemeindekasse von Stäfa</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTIkR1OScH9l9Ez4ofku-vWkXg749DlaZVyA_LscVMhWPnTnEFhP-05qObnAqeaMdJauT3m9ryV" alt="Tina Turner rockt die Gemeindekasse von Stäfa" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Die Rock-Queen hat am Zürichsee ein Anwesen gekauft – was Stäfa ausserordentlich hohe Steuererträge beschert. Die Bevölkerung profitiert.</p></div>
+            </div>
+        </a><a href='https://www.20min.ch/story/goldkuesten-gemeinde-kann-dank-tina-turner-die-steuern-senken-259111467802'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Stäfa senkt wegen Tina Turner die Steuern</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS3EvB692G5uDSg1OJiMQaq7m2ITRLUAlpfi9rGwpMQQQ8VoMIbgyZNGmzGBWB9bR-tRJ2CPWHw" alt="Stäfa senkt wegen Tina Turner die Steuern" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Die Steuern in der Gemeinde werden von 80 auf 78 Prozent gesenkt. Das dürften sie wohl dem neuen Wochenendzuhause von Tina Turner und ihrem Mann Erwin Bach zu&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.bluewin.ch/de/entertainment/tina-turner-beschert-staefa-tiefere-steuern-1499854.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Tina Turner beschert Stäfnern tiefere Steuern</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTdeeQTIbcc8S8biTMeEnHSTJKvpLxtmA-5FR4ASDu_3K3ev3CUOgMtBQ2uu_qGVOICv6LAR-Lb" alt="Tina Turner beschert Stäfnern tiefere Steuern" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Die Einwohner*innen von Stäfa ZH erhalten ein unerwartetes Weihnachtsgeschenk: Sie zahlen nächstes Jahr weniger Steuern. Zu verdanken haben sie das&nbsp;...</p></div>
+            </div>
+        </a><a href='https://zueriost.ch/gesellschaft/2022-11-30/tina-turner-beschert-staefa-tiefere-steuern'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Tina Turner beschert Stäfa tiefere Steuern</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR212KnW-83u6KMGklK7MJ8fHaKtNNoTI21kmB3Am8_YURJvEJBOuqTkgQ6RX3D9gW6gZB1h3Wk" alt="Tina Turner beschert Stäfa tiefere Steuern" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>«Der Teufel scheisst immer auf den grössten Haufen», heisst es im Volksmund salopp – oder, um sich gewählter mit de.</p></div>
             </div>
         </a>
         </Template></>;

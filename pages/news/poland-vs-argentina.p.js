@@ -11,56 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Poland vs Argentina"/>
         <meta name="description" content="Trending News about Poland vs Argentina" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Poland vs Argentina</h1>
-            <Image width={800} height={500} src="https://cdn.theathletic.com/app/uploads/2022/11/29105949/lowdown-triple-6-1-1024x575.jpg" alt="Poland vs Argentina"/>
+            <Image width={800} height={500} src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt6f7ab668cb618838/638638f935f7c351e84be162/goal---web-two-way-split--27583934-b2f5-49ed-bfeb-be0c7383450d.jpeg" alt="Poland vs Argentina"/>
             <h3>Recent News</h3>
-            <a href='https://theathletic.com/3948867/2022/11/29/poland-argentina-preview-stream-tv-channel-predictions-start-time/'>
+            <a href='https://www.goal.com/en-in/news/poland-vs-argentina-lineups-live-updates/blt73fd73809335f448'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Poland vs Argentina preview: How to stream, start time, predictions ...</h3>
+                <h3>Poland vs Argentina : Lineups and LIVE updates</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ3iq2TuhvxRPU-xA44RuIh9xtRxXNLvVLae1_n2kr-1TrJLP7t3SaUomLxtCKegT6V36CSPdFK" alt="Poland vs Argentina preview: How to stream, start time, predictions ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The match will be played at Stadium 974 in Doha. Danny Makkelie is the referee for the game. It will be the Dutchman&#39;s second game at the tournament after he&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTc7w0tsH8q82xmzwughirS6exS2Tqhi-wVkVtvPSY6oGd0OtcSbVT-3QQ8HzPJX1Q-RosN-Vq6" alt="Poland vs Argentina : Lineups and LIVE updates" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Argentina face Poland in an intriguing fixture as both teams look to secure a berth in the knockout stages.</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-us/news/poland-vs-argentina-world-cup-group-stage-odds-and-best-bets/blt1d18740b19f06997'>
+        </a><a href='https://indianexpress.com/article/sports/football/australia-vs-denmark-poland-vs-argentina-fifa-world-cup-2022-live-score-updates-goals-8298331/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Poland vs Argentina: World Cup Group Stage Odds &amp; Best Bets</h3>
+                <h3>Argentina vs Poland, FIFA World Cup 2022 Highlights: Lionel Messi ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTjpablHxn1ivURRwr-XYBfLhY7iyMDzpc3yrpd0ytLh2rBWwa4bKeDHHqKKpVhH2utO1xH03Gi" alt="Poland vs Argentina: World Cup Group Stage Odds &amp; Best Bets" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The South Americans know that a defeat would see them likely knocked out and need to go for the win in their final group game.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQIbs_m4JOyRXweY2jGfepuW6bXnq4wdqRdX779cW14jGRrZERrD96KN-FfqVNmLLXEDumYYO-c" alt="Argentina vs Poland, FIFA World Cup 2022 Highlights: Lionel Messi ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>In the next Group D match, Australia reached the World Cup last 16 for the first time since 2006 after Mathew Leckie earned them a gritty 1-0 upset win over&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.cbsnews.com/essentials/2022-fifa-world-cup-how-to-stream-todays-poland-vs-argentina-game/'>
+        </a><a href='https://www.espn.in/football/report?gameId=633824'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>2022 FIFA World Cup: How to stream the Poland vs. Argentina game</h3>
+                <h3>Poland vs. Argentina - Football Match Report - December 1, 2022 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTScdQhU_z-6FQOZ8u6F3HNpKPCY8LVpHtKMyLtqCrhTW_ava7Om1ofJKPmieT5lkIfrVJrcR2f" alt="2022 FIFA World Cup: How to stream the Poland vs. Argentina game" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Watch the Poland vs. Argentina 2022 FIFA World Cup game for free. Plus, discover more FIFA streaming options.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcToi8f2OodDc1veRkHhuwtYIOh5Lnm2SDsZGn0gOaWEF9Hlmw6MDgHRFRVyG9-1Y9h-GVCuqOjG" alt="Poland vs. Argentina - Football Match Report - December 1, 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Get a report of the Poland vs. Argentina 2022 FIFA World Cup, Group Stage football match.</p></div>
             </div>
-        </a><a href='https://soccer.nbcsports.com/2022/11/29/poland-vs-argentina-how-to-watch-live-stream-link-team-news/'>
+        </a><a href='https://khelnow.com/football/2022-11-world-football-fifa-world-cup-2022-poland-vs-argentina-live-updates'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Poland vs Argentina: How to watch live, stream link, team news</h3>
+                <h3>FIFA World Cup 2022: Poland vs Argentina Live Updates</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSjw6wSAPJXnwRU_xCFFpoh_KHAOHnFFMbB2nXEwEf7jfgFbOroQlIyjrK2GHIZKxtSSkaF1PuE" alt="Poland vs Argentina: How to watch live, stream link, team news" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Poland and Argentina didn&#39;t plan to reach the marquee match of World Cup Group C with their knockout round statuses in doubt, but here we are in Qatar.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRAOgteyUFpbR7PAu3nmqoQYRidvnY0u7PmpnBoRWHjzPvTbu9-BmuBMNfvrbXYuh-RWAk4RSx_" alt="FIFA World Cup 2022: Poland vs Argentina Live Updates" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Welcome to the live blog of the Poland vs Argentina match in FIFA World Cup 2022 Group C at Stadium 974 in Qatar.</p></div>
             </div>
-        </a><a href='https://www.sportingnews.com/us/soccer/news/poland-vs-argentina-watch-time-channel-live-stream-usa-world-cup-2022/g5d7dv0uldqh2n0vscpcx9dk'>
+        </a><a href='https://en.as.com/soccer/poland-vs-argentina-live-updates-pregame-score-stats-and-highlights-qatar-world-cup-2022-n/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>How to watch Poland vs Argentina in USA: Time, TV channel, live ...</h3>
+                <h3>Poland vs Argentina summary: score, goals, highlights 0-2 | Qatar ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR734SWsO--O1HGFnbC3cqD19HZfp6FbjzIl_6xK-vVE2gIb_psey_iyElpjiemLPwqkbJJKnoO" alt="How to watch Poland vs Argentina in USA: Time, TV channel, live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Lionel Messi and Argentina will take on Robert Lewandowski and Poland in a matchup of past and present Barcelona strikers with a spot in the 2022 World Cup&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQwQOisaGbhBnQC81YtF1pUUujZduFEBzlmt0d8NC0VfEtsIY2vek0qE_L7SOBjgiXay0LNe-4M" alt="Poland vs Argentina summary: score, goals, highlights 0-2 | Qatar ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Argentina ran out 2-0 winners over Poland and ensure qualification to the second round despite their initial defeat to Saudi Arabia. Poland qualify too.</p></div>
             </div>
-        </a><a href='https://www.cbssports.com/soccer/news/world-cup-2022-argentina-vs-poland-start-time-betting-odds-lines-expert-picks-fifa-predictions-bets/'>
+        </a><a href='https://www.aljazeera.com/news/liveblog/2022/11/30/live-poland-vs-argentina-world-cup-2022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022 Argentina vs. Poland start time, betting odds, lines ...</h3>
+                <h3>Poland vs Argentina 0-2: World Cup 2022 – as it happened</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQaMYwFE5Zkd8uI4Myqprj31O7U0CdRVxvDJuHkUvcv51I5bk6-F96FVE_xG2Y_klbhlBTE_s8x" alt="World Cup 2022 Argentina vs. Poland start time, betting odds, lines ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Soccer expert Martin Green has locked in his World Cup 2022 picks and predictions for Poland vs. Argentina in Group C.</p></div>
-            </div>
-        </a><a href='https://phillysportsnetwork.com/2022/11/29/poland-vs-argentina-betting/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Poland vs Argentina: Betting preview, best bets &amp; predictions ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQk5VfNQiLV-x_kHrzvjZEJw9xiHeskEjNfGw2Du1w9qvDVUQJW6L_hRYh6aNKun8gcfmue3Bmd" alt="Poland vs Argentina: Betting preview, best bets &amp; predictions ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>PARIS, FRANCE – NOVEMBER 13: Leo Messi looks focused prior to the French Ligue 1 match between Paris Saint-Germain (PSG) and auxerre at Parc des Princes on&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS9kGRiuvNP70UQfFOXug6doTr5Em2rbOJ1uDw49Q5Xk3E8_xPJmsYQm1x9xn90Vx4V2U8F3Et2" alt="Poland vs Argentina 0-2: World Cup 2022 – as it happened" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>All the updates from the World Cup 2022 match between Poland and Argentina at Stadium 974.</p></div>
             </div>
         </a>
         </Template></>;
