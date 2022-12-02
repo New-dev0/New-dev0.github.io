@@ -1,7 +1,7 @@
 import React from 'react';
 import Document, { Html, Head, Main, NextScript } from 'next/document';
 import Script from "next/script";
-
+import { getAnalytics, isSupported } from "firebase/analytics";
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
@@ -15,7 +15,8 @@ const firebaseConfig = {
 };
 
 // Initialize Firebase
-initializeApp(firebaseConfig);
+app = initializeApp(firebaseConfig);
+const analytics = isSupported().then(yes => yes ? getAnalytics(app) : null);
 
 
 class MyDocument extends Document {
