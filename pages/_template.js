@@ -1,6 +1,7 @@
 import styles from "../styles/Home.module.css";
 import { useRouter } from "next/router";
 import { useEffect } from "react";
+import { Navbar, Text } from "@nextui-org/react";
 
 const year = new Date().getFullYear();
 
@@ -19,6 +20,7 @@ export function Template({ children, show_footer = true, show_content = true }) 
             {show_content && <a href="/projects" style={{ justifySelf: "flex-end",  fontSize: 22, marginTop: "5px" }}>Projects</a>}
             </p>
         </header>
+        <hr style={{borderBottom:"none"}}/>
         <main className={styles.main}>
             {children}
         </main>

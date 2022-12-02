@@ -44,8 +44,8 @@ img::selection{
   }
   body{
     color: white;
-    background: linear-gradient(rgb(19, 64, 101), rgb(47, 85, 71));
-  }
+    background: #313954 
+   }
   main {
     color: white;
   }

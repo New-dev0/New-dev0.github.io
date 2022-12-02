@@ -24,7 +24,6 @@
 
 .header {
   display: flex;
-  background: linear-gradient(#332159, rgb(21, 64, 100));
   padding: 0 2rem;
   font-weight: bold;
   justify-content: space-between;
@@ -40,7 +39,7 @@
   font-size: 20px;
   padding: 2rem 0;
   margin-top: 2rem;
-  background-color: #332159;
+  background-color: #3b5e88;
 }
 
 
@@ -187,6 +186,6 @@
   }
 
   .footer {
-    background-color: rgb(34, 53, 58)
+    background-color: rgb(28, 32, 52)
   }
 }
