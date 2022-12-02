@@ -11,49 +11,70 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Kanye West"/>
         <meta name="description" content="Trending News about Kanye West" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Kanye West</h1>
-            <Image width={800} height={500} src="https://images-tt-com.nmo.at/v2/assets.tt.com/im-content/images/8b71d5a0-0628-5248-9d05-975a1211eb29?p=eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzB9fQ%3D%3D" alt="Kanye West"/>
+            <Image width={800} height={500} src="https://static.globalnoticias.pt/dn/image.jpg?brand=DN&type=generate&guid=2d396108-739e-4806-9cc2-ce75cc88c568&w=800&h=420&watermark=true&t=20221201221600" alt="Kanye West"/>
             <h3>Recent News</h3>
-            <a href='https://www.tt.com/artikel/30838629/trump-rechtfertigt-sich-fuer-abendessen-mit-kanye-west'>
+            <a href='https://www.dn.pt/cultura/kanye-west-em-nova-polemica-eu-gosto-do-hitler-15413266.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Trump rechtfertigt sich für Abendessen mit Kanye West</h3>
+                <h3>Kanye West em nova polémica: &quot;Eu gosto do Hitler&quot;</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ2DNC47ulh5IRBRIwoss2THKmOo_yNQ7XlyRuyAmFzu_6MXKuAWxmo8zlbWjO44NA1dUwADwWP" alt="Trump rechtfertigt sich für Abendessen mit Kanye West" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Kaum hat Trump seine Kandidatur fürs Weiße Haus erklärt, macht er mit zwielichtigen Dinner-Gästen von sich Reden. Einen rechtsextremen Nationalisten will er&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT7Voc-gZF01mKVwAwlmn94NSjvWMCdbNtXEN9ENBcrxvr2hU8fBciIUX5vcy9IAekqOPoZpI4D" alt="Kanye West em nova polémica: &quot;Eu gosto do Hitler&quot;" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Em mais uma entrevista polémica, Kanye West assumiu esta quinta-feira &quot;amor&quot; pelos Nazis e admiração por Adolf Hitler. As declarações foram feitas no&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.krone.at/2866773'>
+        </a><a href='https://www.jn.pt/pessoas/eu-amo-hitler-kanye-west-intensifica-retorica-antissemita-15413415.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Fragwürdige Runde - Trump wegen Dinner mit Kanye West in ...</h3>
+                <h3>&quot;Eu gosto de Hitler&quot;. Kanye West intensifica retórica antissemita</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRLsa-HCrAmM6lEddcPA7hU8_TUPoJjABbCde5y5klhm9xPsu3Is7h9PGUuGwCrJJb3s_4p9e-J" alt="Fragwürdige Runde - Trump wegen Dinner mit Kanye West in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ex-US-Präsident Donald Trump hat sich für ein gemeinsames Abendessen mit Rapper Kanye West und dem rechtsextremen Nationalisten Nick Fuentes ...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQFCB5gPNXZx6tKJuWzMap3MQqSFvSXfsbYWuKIuYWUOxH1iBd4btUTxh_G3-DQEtBlyc6kJ5lo" alt="&quot;Eu gosto de Hitler&quot;. Kanye West intensifica retórica antissemita" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>&#39;O rapper norte-americano Kanye West declarou, esta quinta-feira, o seu &quot;amor&quot; pelos nazis e a sua admiração por Adolf Hitler durante uma transmissão ao&nbsp;...</p></div>
             </div>
-        </a><a href='https://orf.at/stories/3295337/'>
+        </a><a href='https://g1.globo.com/pop-arte/musica/noticia/2022/12/01/kanye-west-elogia-hitler-e-diz-que-ama-nazistas-grupo-judeu-republicano-diz-que-ele-e-intolerante-e-vil.ghtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Trump im Clinch mit Kanye West</h3>
+                <h3>Kanye West elogia Hitler e diz que ama nazistas; grupo judeu ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSsGlgAfWJy2c47jTospQQdxcRHAZxC5iLW1yhbH1iKbHcXnC20oQFJP9qMijLrMMHWshVNaWF2" alt="Trump im Clinch mit Kanye West" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Rapper Kanye West und Ex-US-Präsident Donald Trump streiten sich in sozialen Netzwerken. Hintergrund ist ein Abendessen, das am Dienstag in Trumps Anwesen&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS-AwcZIeFnHXxbYdiS72dgFo-AK9sWrXmwL_5nlNGyg1oejaLdb4K5_lsgHRNl9LxMW6NVl-gp" alt="Kanye West elogia Hitler e diz que ama nazistas; grupo judeu ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ele falou em programa de apresentador condenado a pagar bilhões de dólares por espalhar mentiras. Mesmo sendo extremista, entrevistador rebateu: &#39;Nazistas&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.stern.de/lifestyle/leute/kanye-west--streit-mit-donald-trump-soll-eskaliert-sein-32951330.html'>
+        </a><a href='https://sicnoticias.pt/mundo/2022-12-01-Eu-gosto-do-Hitler-Kanye-West-elogia-o-lider-dos-nazis-622ca394'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Kanye West: Streit mit Donald Trump soll eskaliert sein</h3>
+                <h3>“Eu gosto do Hitler”: Kanye West elogia o líder dos nazis</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS2O8khJyb5cIJXZkBbfb3iy08q8tVoC47D0uQmSBeW1mOTb73p1j5htSGBDoUxU3JF3dwCUb6h" alt="Kanye West: Streit mit Donald Trump soll eskaliert sein" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ein Abendessen soll eskaliert sein: Donald Trump hat angeblich Kanye West angeschrien, als es um die Präsidentschaftskandidatur ging.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQDy1op72bXvdnr2v28ob1jZuJrbs2d3rucsC33g0VT1AragwJ8HVtjLx86vuxwdD5NZ4DUcac5" alt="“Eu gosto do Hitler”: Kanye West elogia o líder dos nazis" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>O cantor norte-americano está envolvido numa nova polémica.</p></div>
             </div>
-        </a><a href='https://www.zdf.de/nachrichten/politik/usa-trump-kanye-west-abendessen-100.html'>
+        </a><a href='https://www1.folha.uol.com.br/ilustrada/2022/12/kanye-west-elogia-hitler-e-diz-que-ama-nazistas-em-programa-de-extrema-direita.shtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Kanye West will Trump als Vizepräsident</h3>
+                <h3>Kanye West elogia Hitler e diz que ama nazistas em programa de ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS6k78-nM-b4FjmgjQ-a8RFcsYpUbcuYLsEANAtvA17bsDwKzZQyz-FwkMdnDQKhz_ARSwXbY-s" alt="Kanye West will Trump als Vizepräsident" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Donald Trump und Rapper Kanye West hatten ein gemeinsames Dinner: Dabei soll es auch um die US-Präsidentschaftswahl 2024 gegangen sein.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQenX320K4krxei7_-FmjLuW9z6ztfFhNjCNq-zRvXYWz7yTaanF4V-1qMfuMd5f-DSk4U2kAHu" alt="Kanye West elogia Hitler e diz que ama nazistas em programa de ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Rapper já havia dado declarações antissemitas e voltou ao assunto em programa de porta-voz de teorias da conspiração.</p></div>
             </div>
-        </a><a href='https://www.faz.net/aktuell/politik/ausland/kanye-west-berichtet-von-streit-mit-donald-trump-beim-abendessen-18489847.html'>
+        </a><a href='https://oglobo.globo.com/economia/negocios/noticia/2022/12/kanye-west-desiste-de-compra-a-parler.ghtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mar-a-Lago: Kanye West berichtet von Streit mit Donald Trump</h3>
+                <h3>Kanye West não vai mais comprar a Parler</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ0hjYvVTze2sH7hrwpaHR-U-6LFyPbJ2DRD-eBnKSj4WkC3pVqa4hxNTGe3r8Or5Y8ELcnIjdU" alt="Mar-a-Lago: Kanye West berichtet von Streit mit Donald Trump" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Der wegen Antisemitismus umstrittene Rapper deutet eine Präsidentschaftskandidatur an – und berichtet von einer empörten Reaktion Donald...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ1WqGvuxbbo-pK5NqMOM82yQF3QL7YYCLMBvuq66KIwGdR2Oxc59XylRdOpnGyncs-La1FxqKm" alt="Kanye West não vai mais comprar a Parler" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Em comunicado, a controladora da empresa disse que a decisão foi tomada em comum acordo com o artista em meados de novembro.</p></div>
+            </div>
+        </a><a href='https://revistaforum.com.br/global/2022/12/1/video-rapper-kanye-west-diz-que-gosta-de-hitler-que-ama-os-nazistas-128049.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>VÍDEO: Rapper Kanye West diz que gosta de Hitler e que ama os ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR0chFqtELAIOMH6ZZQ8VNRxONrUvWsuKNyhpcSE3VHZLGQa1IKuBn4Xnl8aWJCYOhpcOnpf-N0" alt="VÍDEO: Rapper Kanye West diz que gosta de Hitler e que ama os ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cantor estadunidense, sem qualquer receio, demonstrou admiração pelo nazismo e pelo genocida Adolf Hitler em entrevista ao teórico da conspiração Alex&nbsp;...</p></div>
+            </div>
+        </a><a href='https://portalrapmais.com/kanye-west-elogia-hitler-durante-participacao-em-podcast/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Kanye West elogia Hitler durante participação em podcast</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQjmExCLc9GBZtGWJFhtg7rWRjXdgdqEEqlxlcl7QO7LW7SVPk5PDBAaCwKgO83G48kXHggf9AA" alt="Kanye West elogia Hitler durante participação em podcast" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Depois de muitas notícias de que Kanye West elogiava Hitler para seus funcionários, o próprio artista elogiou Adolf Hitler durante uma entrevista na&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.uol.com.br/splash/noticias/reuters/2022/12/01/rapper-kanye-west-nao-planeja-mais-comprar-plataforma-de-rede-social-parler.htm'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Rapper Kanye West não planeja mais comprar plataforma de rede ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="" alt="Rapper Kanye West não planeja mais comprar plataforma de rede ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Por Helen Coster (Reuters) - A controladora da rede social Parler e o rapper norte-americano Kanye West, que agora atende por Ye, concordaram em encerrar a&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

@@ -11,21 +11,14 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Japan"/>
         <meta name="description" content="Trending News about Japan" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Japan</h1>
-            <Image width={800} height={500} src="https://www.state.gov/wp-content/uploads/2021/02/Press_release_gold_edited.png" alt="Japan"/>
+            <Image width={800} height={500} src="https://f.i.uol.com.br/fotografia/2018/09/13/15368783155b9ae6eb38cf9_1536878315_3x2_rt.jpg" alt="Japan"/>
             <h3>Recent News</h3>
-            <a href='https://www.state.gov/assistant-secretary-pyatts-travel-to-japan/'>
+            <a href='https://www1.folha.uol.com.br/colunas/monicabergamo/2022/12/japan-house-sao-paulo-inaugura-exposicao-no-mexico.shtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Assistant Secretary Pyatt&#39;s Travel to Japan - United States ...</h3>
+                <h3>Japan House São Paulo inaugura exposição no México</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSQSLssEcfHW-Iey6DkECl1YQ6HRjmWql8k7V_RL2fTeaIPMnEjnUVn2xPO4CjRQUiRi_NxlCCe" alt="Assistant Secretary Pyatt&#39;s Travel to Japan - United States ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Assistant Secretary will launch the Japan-U.S. Energy Security Dialogue with representatives of the Japanese Ministry of Foreign Affairs and Ministry of&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.freshplaza.com/asia/article/9481765/18-grapes-sold-at-eur30-in-japan/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>18 grapes sold at €30 in Japan</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR1yFaefu_2EWnZ9tCREvsWyvLvg1ut4HrUp9I6L7ZkZ9P0YRxRLNYIrfiooQb_hS7U1smFh7Av" alt="18 grapes sold at €30 in Japan" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Sembikiya can be defined as the most expensive fruit shop in the world. It is located in Tokyo, Japan and Tommaso Rossi, who lives and works in the capital,&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTj_Po1uIFIe61VFyUJizIJxeY4P-yg1g9Soy0TD4C8xsBijtQrWWwXGUqOV_F8bsZaPz8y9nio" alt="Japan House São Paulo inaugura exposição no México" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>&#39;Dô: a caminho da virtude&#39; integra parceria com a embaixada japonesa no país.</p></div>
             </div>
         </a>
         </Template></>;

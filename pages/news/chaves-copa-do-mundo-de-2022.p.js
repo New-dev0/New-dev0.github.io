@@ -11,49 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Chaves Copa do Mundo de 2022"/>
         <meta name="description" content="Trending News about Chaves Copa do Mundo de 2022" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Chaves Copa do Mundo de 2022</h1>
-            <Image width={800} height={500} src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/11/23/615x300/1_000_32qc8jb-22067214.jpg" alt="Chaves Copa do Mundo de 2022"/>
+            <Image width={800} height={500} src="https://www.lance.com.br/files/og_image/uploads/2022/11/28/6384e6a98c03d.jpeg" alt="Chaves Copa do Mundo de 2022"/>
             <h3>Recent News</h3>
-            <a href='https://interior.ne10.uol.com.br/esportes/2022/11/15131187-tabela-da-copa-do-mundo-2022-veja-o-chaveamento-das-oitavas-de-final-e-os-confrontos-do-mata-mata.html'>
+            <a href='https://www.lance.com.br/copa-do-mundo/classificacao-da-copa-do-mundo-2022-veja-a-tabela-completa-de-jogos.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>TABELA DA COPA DO MUNDO 2022: Veja o CHAVEAMENTO DAS ...</h3>
+                <h3>Classificação da Copa do Mundo 2022: veja a tabela completa de ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS2y_NmKcKEaaK2JJVaYGIqsPI5_1XfcZUeup6ECvpz2rGlvpxkqF70l-hBdudZ9l4FfaPDeIrF" alt="TABELA DA COPA DO MUNDO 2022: Veja o CHAVEAMENTO DAS ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Avançam para as oitavas de final os dois melhores colocados de cada grupo.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR1jpCLahojRZz7AzPwZTSCXOWlWoSwWs9FOswzdmHKxQ-itWf_3GUDOnX1W8DeU1Can-M6URf8" alt="Classificação da Copa do Mundo 2022: veja a tabela completa de ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Fique por dentro da situação de cada grupo e do chaveamento do Mundial do Qatar.</p></div>
             </div>
-        </a><a href='https://ge.globo.com/futebol/copa-do-mundo/noticia/2022/11/28/copa-2022-chega-a-ultima-rodada-com-tres-classificados-e-27-na-briga-veja-as-contas-nos-oito-grupos.ghtml'>
+        </a><a href='https://ge.globo.com/futebol/copa-do-mundo/noticia/2022/11/30/oitavas-de-final-copa-do-mundo-2022-entenda-como-funciona.ghtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Copa 2022 chega à última rodada com três classificados e 27 na ...</h3>
+                <h3>Oitavas de final da Copa do Mundo 2022: entenda como funciona</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQAQgsCI6QFgrEJ-d7l4JOXCSLVlIRE5573SvkRmOlJSEp9bMxjui0A24s8B3gv9Dv7wqse606d" alt="Copa 2022 chega à última rodada com três classificados e 27 na ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brasil, Portugal e França já estão nas oitavas, enquanto Catar e Canadá só cumprem tabela; com cenários desenhados, simule quem vai ser o campeão.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRtMczVsDKtNEM1Zii5NMsSsKEUcqvveAlWhiXZLWxID9wojrlDFzJVDLfZXC7fbVUwYMO2Wh6n" alt="Oitavas de final da Copa do Mundo 2022: entenda como funciona" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Próxima fase da Copa do Catar começa a ser disputada neste sábado; entenda o regulamento.</p></div>
             </div>
-        </a><a href='https://placar.abril.com.br/copa-do-mundo/quais-sao-os-confrontos-das-oitavas-de-final-da-copa-do-mundo/'>
+        </a><a href='https://jc.ne10.uol.com.br/blogs/torcedor/2022/12/15132798-oitavas-de-final-da-copa-do-mundo-2022-saiba-dia-horario-e-chaveamento-das-oitavas-na-tabela-da-copa-do-mundo-2022.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Quais são os confrontos das oitavas de final da Copa do Mundo</h3>
+                <h3>OITAVAS DE FINAL DA COPA DO MUNDO 2022: saiba dia, horário ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQgWZJbjO64hAsaJrLTFBzHFEzddNbkPz4nh0hI3YZYCIlpvCNuh0GHQqUSC4TGcwNiPNl2EF9a" alt="Quais são os confrontos das oitavas de final da Copa do Mundo" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Com o fim da fase de grupos, jogos e possíveis enfrentamentos da fase eliminatória já começam a ser definidos; confira.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRMqOfk1ixlwip0zqu5dxB9zBqPzrfXEi64RigYigDDNGpcJkQPynpatiznbaUJ7R624JS6XbcK" alt="OITAVAS DE FINAL DA COPA DO MUNDO 2022: saiba dia, horário ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A Copa do Mundo dá sequência nesta quinta, 1 de dezembro, aos jogos da última rodada da fase de grupos nas chaves E e F, revelando as seleções classificadas&nbsp;...</p></div>
             </div>
-        </a><a href='https://olympics.com/pt/noticias/criterios-de-desempate-fase-de-grupos-copa-do-mundo-fifa'>
+        </a><a href='https://radiojornal.ne10.uol.com.br/esportes/2022/12/15133145-oitavas-de-final-da-copa-do-mundo-veja-o-chaveamento-e-os-confrontos-confirmados-na-copa-do-mundo-2022.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Confira os critérios de desempate na fase de grupos da Copa do ...</h3>
+                <h3>OITAVAS DE FINAL DA COPA DO MUNDO: Veja o ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTPqnxputFLjdRSeDcQRHwhfvuv3DB87w8DVjxU1yZC4Z5bSkQHg-nxKFoZKXL-H62-Za-_rQIH" alt="Confira os critérios de desempate na fase de grupos da Copa do ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Os pontos e a diferença de gols são os principais fatores que determinam quais equipes avançam para as oitavas de final da Copa no Catar.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTEhujCIGXx1bUkbk6FOgVBKsAoUusmzOFNU6XlshsEM5pDXUNO-JIVLwoywuHYg-7zNVRiR9EQ" alt="OITAVAS DE FINAL DA COPA DO MUNDO: Veja o ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>ESTÁ CHEGANDO O MATA-MATA! Nesta semana, teve início a última e decisiva rodada da fase de grupos da Copa do Mundo 2022, no Catar.</p></div>
             </div>
-        </a><a href='https://www1.folha.uol.com.br/esporte/2022/11/brasil-e-franca-ja-estao-nas-oitavas-da-copa-veja-datas.shtml'>
+        </a><a href='https://www.goal.com/br/not%C3%ADcias/do-que-o-brasil-precisa-para-terminar-em-primeiro-do-grupo-na-copa-do-mundo-2022/blt2168358ecb44aff0'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brasil e outros seis já estão nas oitavas da Copa; veja datas</h3>
+                <h3>Do que o Brasil precisa para terminar em primeiro do grupo na ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTZW9uuOGj1YwvLVtFN0ESTHkedCWR6ajXKbDUcsIvmbZwH94LF07-0a0gkY53SGo_S6K1uSOR8" alt="Brasil e outros seis já estão nas oitavas da Copa; veja datas" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Começam a tomar forma as oitavas de final da Copa do Mundo. Brasil, França e Portugal, únicos times que venceram suas duas primeiras partidas,&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQAbhIEa8hnUMHuMppsJfdxw5PInzjg-LkySkyyGvc8EfHOaifRZiabO45QgLas2Q2_NI9NwSsd" alt="Do que o Brasil precisa para terminar em primeiro do grupo na ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A seleção brasileira vai para a última rodada da fase de grupos da Copa do Mundo tranquila. Ao vencer a Suíça, na segunda-feira (28), o Brasil já garantiu&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.uol.com.br/esporte/futebol/copa-do-mundo/2022/11/28/copa-do-mundo-oitavas-possiveis-confrontos.htm'>
+        </a><a href='https://www.otempo.com.br/copa-do-mundo/2022/oitavas-de-final-da-copa-tem-6-dos-8-jogos-definidos-saiba-datas-e-horarios-1.2775521'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Messi x Mbappé e surpresas: as oitavas da Copa se a 1ª fase ...</h3>
+                <h3>Oitavas de final da Copa tem 6 dos 8 jogos definidos: saiba datas e ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT84ppGYuJvGbcXfh61QGWJz5ikei1UK0HgmjVNTFzK4tUlRG88hSEn-i7wI8ziQ-YuYHmnpGtO" alt="Messi x Mbappé e surpresas: as oitavas da Copa se a 1ª fase ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Confira como ficariam as oitavas de final da Copa do Mundo do Qatar 2022 se a fase de grupos terminasse hoje.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ8hy_gxMIRcvTSM9B29wvRCgweGWefBy1Idj3RFP_jDfklF8sLazuhc988Xu4z-254rLLwhzYc" alt="Oitavas de final da Copa tem 6 dos 8 jogos definidos: saiba datas e ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Duelos de mata-mata da Copa do Catar começam neste sábado (3) com duas partidas por dia, do próximo sábado até terça-feira (6)</p></div>
+            </div>
+        </a><a href='https://www.cnnbrasil.com.br/esporte/quatro-confrontos-das-oitavas-de-final-da-copa-do-mundo-sao-definidos-veja-jogos/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Quatro confrontos das oitavas de final da Copa do Mundo são ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTSo77FeVkFzdxVZQg9jc7eXTKhCfzpRQZ7eL5rEgqTIWgrUSjYdyXIiiJ3rIYSPYGzs5Iqw4nB" alt="Quatro confrontos das oitavas de final da Copa do Mundo são ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Outros dois jogos da fase eliminatória haviam sido confirmados na terça-feira (29): Holanda x Estados Unidos e Inglaterra x Senegal. Conheça os estádios da Copa&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

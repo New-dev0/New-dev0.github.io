@@ -11,14 +11,28 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Потери Украины"/>
         <meta name="description" content="Trending News about Потери Украины" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Потери Украины</h1>
-            <Image width={800} height={500} src="https://ichef.bbci.co.uk/news/1024/branded_russian/0BB0/production/_127829920_gettyimages-1245052356.jpg" alt="Потери Украины"/>
+            <Image width={800} height={500} src="https://www.rbc.ua/static/img/_/g/_gettyimages_1239067748_34_1300x820.jpg" alt="Потери Украины"/>
             <h3>Recent News</h3>
-            <a href='https://www.bbc.com/russian/news-63807932'>
+            <a href='https://www.rbc.ua/ukr/news/100-tisyach-podolyak-nazvav-vtrati-ukrayini-1669920100.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Еврокомиссия оценила число погибших и раненых украинских ...</h3>
+                <h3>Не 100 тысяч. Подоляк назвал потери Украины в войне с Россией</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTdedDJA_Q6y7llBkUDDYJfLfmWy4OKTdGiTyfd1gwOfkzZo_6kqFYsVuQ-sV9jgInzr2Q8fFCm" alt="Еврокомиссия оценила число погибших и раненых украинских ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Еврокомиссия оценила потери Украины в войне с Россией в 100 тысяч военных, но заявление с такой оценкой пришлось отредактировать - речь идет не только о&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTo_HyGofNLYR19IllPGaDca8SyZm9GJ3O9Epy0HnfcRe8kXgCUiaw34TfzR7Mhz1jxaTq8q7e-" alt="Не 100 тысяч. Подоляк назвал потери Украины в войне с Россией" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Советник Офиса президента Украины Михаил Подоляк назвал реальные цифры потерь украинских военных в этой войне.</p></div>
+            </div>
+        </a><a href='https://www.bbc.com/russian/media-63812094'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Глава Еврокомиссии назвала потери Украины в войне, но потом ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTc5xaZCo15YJ_GL93xS8A0YqYRRmtdUjxq3bSawK6zoHJAcakWFf5K0gFwG8DqocSTN5m892rS" alt="Глава Еврокомиссии назвала потери Украины в войне, но потом ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Названные главой Еврокомиссии потери Украины вызвали возмущение в Киеве. Украинские власти говорят, что данные о погибших закрытые, озвучить их могут только&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.svoboda.org/a/v-ofise-prezidenta-ukrainy-otsenili-poteri-v-voyne-v-10-tysyach-pogibshih-/32157867.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>В Офисе Зеленского оценили потери в войне в 10–13 тысяч ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQxiZvtGVWT7N8GN25ra3b_gkviN-J0_u-_5NLN6y5R2oElSC1v50duSBapuUtvZyWFFZn0utGS" alt="В Офисе Зеленского оценили потери в войне в 10–13 тысяч ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Потери украинских войск с начала полномасштабного вторжения России в Украину составили от десяти до 13 тысяч человек погибшими. Об этом заявил в четверг в&nbsp;...</p></div>
             </div>
         </a><a href='https://ura.news/news/1052607176'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -31,29 +45,15 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Глава Еврокомиссии понесла потери в цифрах</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR-HUc6ff3tOafpzRcL129adQrUdh2FKXAqbQG3XaFg002JIuZfj966NaVTIocDDDtum6X3Ohjs" alt="Глава Еврокомиссии понесла потери в цифрах" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS9B13-tOYXKfl9SlqdUez65oFlVAiexBZ7vV9K0wOmhYPBmTh9Eewjb9UB5zb3K2-MSpbWB1IG" alt="Глава Еврокомиссии понесла потери в цифрах" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Выступление главы Еврокомиссии Урсулы фон дер Ляйен, состоявшееся в среду, закончилось скандалом. Она заявила, что военные потери Украины составили свыше&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.rbc.ua/ukr/news/es-nazvali-vtrati-ukrayini-viyni-sered-tsivilnih-1669797191.html'>
+        </a><a href='https://www.unian.net/war/poteri-ukrainy-v-voyne-podolyak-zayavil-chto-v-ukrainskoy-armii-pogibli-do-13-tysyach-voennyh-12064113.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>В ЕС оценили возможные потери Украины в войне среди ...</h3>
+                <h3>В Украине с 24 февраля погибли до 13 тысяч военнослужащих ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTNglCUTM8S3X3PLe8UnRRBaZFu_lRnC2PtfTXtK4AJFPjNgRXVnDDhnddgzuQRF27bJwpw-ypG" alt="В ЕС оценили возможные потери Украины в войне среди ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В Европейской комиссии оценили потери украинских военных в войне с РФ в 100 тысяч человек, а гражданских в 20 000.</p></div>
-            </div>
-        </a><a href='https://eadaily.com/ru/news/2022/11/30/zayavlenie-glavy-ek-o-bolshih-poteryah-ukrainy-vzorvalo-kiev-cifry-pereputany'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Заявление главы ЕК о больших потерях Украины взорвало Киев ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRWRRixkHSA9_zvDDWWPEigSO17vBSk3SOYonhgJZ1jIbmPxLaVZEklE0Wik3JcVJe56W5vp-H-" alt="Заявление главы ЕК о больших потерях Украины взорвало Киев ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>По оценкам Евросоюза потери Украины с начала специальной военной операции (СВО) составили свыше 100 тыс. военных и более 20 тыс. гражданских лиц.</p></div>
-            </div>
-        </a><a href='https://oboz.info/evrokomissiya-priznala-chto-poteri-ukrainy-s-nachala-svo-sostavili-uzhe-svyshe-100-tysyach-voennyh/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Еврокомиссия признала, что потери Украины с начала СВО ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRsjiLCec17Lzx-JDb3Liau1zFemwULtmOIidRkr0kMKHpddeB5CgBtzPgtwyprRaMDKyvBQqPb" alt="Еврокомиссия признала, что потери Украины с начала СВО ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Еврокомиссия оценила размер колоссальных потерь украинских вооруженных сил с начала специальной военной операции, которую проводит Россия. По официальным,&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTtgFpd6MRnhjPWweflEfkk9qjY4pxBE6bFRw_9JmTqY8S63VpunD369B1H3EIa0yEWWbmybLjl" alt="В Украине с 24 февраля погибли до 13 тысяч военнослужащих ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Советник руководителя ОП Михаил Подоляк прокомментировал слова президента ЕК Урсулы фон дер Ляєн о том, что потери украинской армии составляют 100 тыс.</p></div>
             </div>
         </a>
         </Template></>;

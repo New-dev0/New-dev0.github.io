@@ -11,56 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Japan vs Spain"/>
         <meta name="description" content="Trending News about Japan vs Spain" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Japan vs Spain</h1>
-            <Image width={800} height={500} src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt1e7ba2c93245d0d2/6387a668b506a15c10d28d16/goal---web-two-way-split--fb3373c4-40d6-4618-83d8-9c3b49547fa8.jpeg" alt="Japan vs Spain"/>
+            <Image width={800} height={500} src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt79be77f88f30be90/6385b3146b971b24f8fc9b9b/MP_Mitoma_japan_vs_Ferran_Torres_spain.jpg" alt="Japan vs Spain"/>
             <h3>Recent News</h3>
-            <a href='https://www.goal.com/en-za/news/japan-vs-spain-live-stream-tv-kick-off-time-where-to-watch/blta0a35b14a97119a2'>
+            <a href='https://www.goal.com/en-in/news/japan-vs-spain-lineups-live-updates/blt79eed777ced4df58'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Japan vs Spain: Live stream, TV channel, kick-off time &amp; where to ...</h3>
+                <h3>Japan vs Spain : Lineups and LIVE updates</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSSRHgt1UHrsNjg-Z-TReXg1fRwzkwAFxs7waLkZ07vMGRfuzdbZ9NiqJMgrNJoj6sj6tWoiKD-" alt="Japan vs Spain: Live stream, TV channel, kick-off time &amp; where to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Where to watch World Cup 2022 match Japan vs Spain on TV and online in the United Kingdom, United States and India.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSlWvrBDmo31WHSqZFgmzoFO_AGk6UtYmU-IY92La2z7w7bVNMXd4vG63VcsI_qCjiXTS_OIK1o" alt="Japan vs Spain : Lineups and LIVE updates" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Japan look to produce another massive upset but face a ruthless Spanish side in an intriguing fixture.</p></div>
             </div>
-        </a><a href='https://www.sportingnews.com/ca/soccer/news/japan-vs-spain-prediction-world-cup-odds-betting-tips-2022/al4pbdurxrqy9bkcctuyubjf'>
+        </a><a href='https://indianexpress.com/article/sports/football/croatia-vs-belgium-japan-vs-spain-fifa-world-cup-2022-live-score-updates-goals-8300227/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Japan vs Spain prediction, odds, betting tips and best bets for World ...</h3>
+                <h3>Japan vs Spain, FIFA World Cup 2022 Highlights: JPN defeat ESP ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSJbIOCISE_LnsJPyc86wlQenWzgZa6RPONf_gX2oUMEPXr43FANHsCsTQXuTgs4o6dWDdLXtUo" alt="Japan vs Spain prediction, odds, betting tips and best bets for World ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The latest odds and predictions for Japan vs Spain as each side looks to secure a place in the last 16 of the World Cup.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQq8DYABmLzx5LFePbvEq99p9iH3esmTlFz9XU4mHu9hNRFMciQ-MFGomurOIHEZMsGSLoZTej-" alt="Japan vs Spain, FIFA World Cup 2022 Highlights: JPN defeat ESP ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>World Cup 2022 Highlights, Japan vs Spain: Spain and Germany both had three points in the group. But Spain had a superior goal difference from its first&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.goal.com/en-gb/news/japan-vs-spain-predictions-tips-and-betting-odds/bltd12695a66c70e678'>
+        </a><a href='https://www.livemint.com/sports/football-news/fifa-world-cup-2022-japan-vs-spain-prediction-time-live-streaming-details-11669917975083.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Japan vs Spain: Predictions, tips &amp; betting odds</h3>
+                <h3>FIFA World Cup 2022: Japan vs Spain prediction, time, live ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQxnbl2DXK4fx9HK7ML6bsgrvzOEABFsXU7YyE6mWMncqR63vcHXI36cjdeCWL_VAN1KePKKDH4" alt="Japan vs Spain: Predictions, tips &amp; betting odds" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A draw could be enough to see both sides through to the knockout stages and backing a low-scoring game makes plenty of sense.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRpgQLKszjlh3m7nXLNjmXyEaa-Gd6nRItqcXZ-BiFQn2pdj5AjCfp-1yhW6iVJ7uCrVm6c4YxU" alt="FIFA World Cup 2022: Japan vs Spain prediction, time, live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>If Japan defeats Spain, it would be another world cup shocker. Since the Blue Samurai defeated Germany in their first match, it can repeat this and Spain&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.cbssports.com/soccer/news/world-cup-2022-spain-vs-japan-start-time-betting-odds-lines-expert-picks-fifa-predictions-best-bets/'>
+        </a><a href='http://www.espn.in/football/report?gameId=633828'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022 Spain vs. Japan start time, betting odds, lines ...</h3>
+                <h3>Japan vs. Spain - Football Match Report - December 2, 2022 - ESPN</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR610cE_DKAxnSmYTOzgn9C6gR2ujoP0Wzxj6dOJ6I4Rqbcpn4cSEWtvPAHwQ5d3pM3-od-SUeO" alt="World Cup 2022 Spain vs. Japan start time, betting odds, lines ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Soccer expert Martin Green has locked in his World Cup 2022 picks and predictions for Japan vs. Spain in Group E.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSi0SSe5QeVX5sBMCYe0YyNHEmnXyIapjx16GFpBfW3IefMDvwkCL5ZcHmTsZOhnwuNCymNS_vz" alt="Japan vs. Spain - Football Match Report - December 2, 2022 - ESPN" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Get a report of the Japan vs. Spain 2022 FIFA World Cup, Group Stage football match.</p></div>
             </div>
-        </a><a href='https://bleacherreport.com/articles/10057172-japan-vs-spain-top-storylines-odds-live-stream-for-world-cup-2022'>
+        </a><a href='https://sportstar.thehindu.com/football/fifa-world-cup/news/japan-vs-spain-live-score-fifa-world-cup-qatar-2022-jap-v-esp-lineups-streaming-group-e-qualification-round-of-16-soccer/article66211679.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Japan vs. Spain: Top Storylines, Odds, Live Stream for World Cup ...</h3>
+                <h3>JPN 2-1 ESP HIGHLIGHTS, FIFA World Cup: Doan, Tanaka goals ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTKjaBKhjyifIlptrFOrd9GvCa5GyVAbH5paMM1gqwQ-Tg9tZrDCSJ6STmQQlb9DgAs4bCMmsIj" alt="Japan vs. Spain: Top Storylines, Odds, Live Stream for World Cup ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Spain has first place in Group E in its sights at the 2022 FIFA World Cup. La Roja used a seven-goal win over Costa Rica and a draw with Germany to top the.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTXF9GbxiC5hjgSr7OfDsP2Owee6xT3rhHvxDtw7XHZbxHJQnGaBGq7Hs5w0ebyPZED7jgv0Ohb" alt="JPN 2-1 ESP HIGHLIGHTS, FIFA World Cup: Doan, Tanaka goals ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>JPN vs ESP: Welcome to Sportstar&#39;s highlights of the FIFA World Cup 2022 Group E clash between Japan and Spain from the Khalifa International Stadium.</p></div>
             </div>
-        </a><a href='https://www.foxsports.com/stories/soccer/world-cup-2022-odds-how-to-bet-japan-vs-spain'>
+        </a><a href='https://www.business-standard.com/article/sports/fifa-world-cup-qatar-live-score-japan-vs-spain-costa-rica-vs-germany-122120200015_1.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022 odds: How to bet Japan vs. Spain</h3>
+                <h3>Fifa World Cup: Giant killers Japan scalp Spain, Germany out in ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTCbOclaPGljtASUHj2PtLJeRvgdqQCk0eK9nQDigdbiJQiHg-uTXRyR90klr1jTaxc3v2QqJeS" alt="World Cup 2022 odds: How to bet Japan vs. Spain" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Here&#39;s how to bet the Japan-Spain match, from the moneyline, draw, Over/Under total odds and expert pick fro Doug McIntyre.</p></div>
-            </div>
-        </a><a href='https://www.sportingnews.com/au/soccer/news/japan-vs-spain-lineup-starting-11-world-cup-2022/vlyqidctjwl27jum5axi3f9p'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Japan vs Spain World Cup lineups, starting 11 for Group E match at ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSHP5ZNAMrx4F9Lqg2J2IYPXsOb4zt-NJjsXmGrNacY3z4Ku5qIU4LpHiZzX9cBNrzUL6FYx6Au" alt="Japan vs Spain World Cup lineups, starting 11 for Group E match at ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Luis Enrique&#39;s side were close to sealing that status already after Alvaro Morata put them ahead against Germany on the back of a 7-0 romp versus Costa Rica.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTZt9Uhd_5lMhg1bc9VcQpKwN5mHvCAgq5uvOWOXUEbgDrywUDG8qdhP0P-eoNWGkisgUHef8Ay" alt="Fifa World Cup: Giant killers Japan scalp Spain, Germany out in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Fifa World Cup 2022 Highlights: Japan stunned Spain 2-1 as they once again came back from 0-1 down in the first half. Germany, even after beating Costa Rica&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

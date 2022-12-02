@@ -11,56 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Ghana vs Uruguay"/>
         <meta name="description" content="Trending News about Ghana vs Uruguay" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Ghana vs Uruguay</h1>
-            <Image width={800} height={500} src="https://images2.minutemediacdn.com/image/upload/c_crop,w_8023,h_4512,x_0,y_673/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/90min_en_international_web/01gk20bg0xyk2cn802x5.jpg" alt="Ghana vs Uruguay"/>
+            <Image width={800} height={500} src="https://e0.365dm.com/22/11/1600x900/skysports-luis-suarez-uruguay_5982466.jpg?20221130140810" alt="Ghana vs Uruguay"/>
             <h3>Recent News</h3>
-            <a href='https://www.90min.com/posts/ghana-vs-uruguay-world-cup-team-news-lineups-prediction-02-12-22'>
+            <a href='https://www.skysports.com/football/news/11095/12759461/ghana-vs-uruguay-derek-boateng-forgives-luis-suarez-for-2010-handball-ahead-of-world-cup-grudge-match-but-wife-wants-shirt-out-of-the-house'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ghana vs Uruguay - World Cup: Team news, lineups &amp; prediction</h3>
+                <h3>Ghana vs Uruguay: Derek Boateng forgives Luis Suarez for 2010 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcThil6hMSZDV02zDAuiSNa6lXXFY9s8JZuMObxkLJGMbdGozvl66PLmSmGLrdrodAjq0QKVXvYB" alt="Ghana vs Uruguay - World Cup: Team news, lineups &amp; prediction" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Previewing Ghana vs Uruguay at the World Cup, with team news, predicted lineups &amp;&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTWJjkm_BhWEBJykxtnhLtgyg5q1UkOW80tN-aSOjNDy3WcTrGKVLjXDlwsxEiWbaFCFJ49kJ7i" alt="Ghana vs Uruguay: Derek Boateng forgives Luis Suarez for 2010 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Former Ghana midfielder Derek Boateng on swapping shirts with Luis Suarez as the country prepares for their World Cup grudge match against Uruguay.</p></div>
             </div>
-        </a><a href='https://www.standard.co.uk/sport/football/ghana-vs-uruguay-prediction-kick-off-time-tv-live-stream-team-news-latest-h2h-results-odds-world-cup-2022-preview-b1043629.html'>
+        </a><a href='https://theathletic.com/3956505/2022/12/01/ghana-uruguay-stream-tv-channel-predictions-start-time/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ghana vs Uruguay: World Cup 2022 prediction, kick-off time, TV, live ...</h3>
+                <h3>Ghana vs Uruguay preview: How to stream, start time, predictions ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRoFLFdYiQQQNcOI-ch9d_nfOWO0yqAGp7rUb0DsKIsJkCYfOdt3bfkv3if_9pWPuUprFk0XXxC" alt="Ghana vs Uruguay: World Cup 2022 prediction, kick-off time, TV, live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>12 years have now passed since that fateful quarter-final tie in South Africa, when Luis Suarez was sent off for preventing a certain winning goal with a&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQnhep_YzZGoiMVCOVxuBVamdEOkyoqvCN0o_X8m59y3Ho7dwKQsbWeRsmKuZdm1rPu8hgiizhK" alt="Ghana vs Uruguay preview: How to stream, start time, predictions ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Everything you need to know ahead of the Group H meeting between Ghana and Uruguay at the 2022 World Cup.</p></div>
             </div>
-        </a><a href='https://www.dailymail.co.uk/sport/football/article-11481119/Ghana-vs-Uruguay-World-Cup-2022-Team-news-kick-time-TV-channel-stream-head-head-record.html'>
+        </a><a href='https://www.cbssports.com/soccer/news/ghana-vs-uruguay-2022-world-cup-live-stream-tv-channel-how-to-watch-online-pick-start-time-odds/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ghana vs Uruguay - World Cup 2022: Team news, kick-off time, TV ...</h3>
+                <h3>Ghana vs. Uruguay: 2022 World Cup live stream, TV channel, how ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSj9LsyevXIsxyXmylNlTnr5JuO6ME79NQ8z9igjWqP5qtmVXRrGSRF0ZYsdHXsj2U5sVe3onIQ" alt="Ghana vs Uruguay - World Cup 2022: Team news, kick-off time, TV ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Uruguay must win. And for Ghana, this is an opportunity to make the knockouts and eliminate the South American outfit after the quarter-final exit at their&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQcEs5P-uP-m0ep1CZiPKr-ZvN7HZH0lds1I0nWztXLdYGb9xyaCsOHqaI6xT5ExT1HqHaZUcfk" alt="Ghana vs. Uruguay: 2022 World Cup live stream, TV channel, how ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Uruguay are still looking for their first win in the competition.</p></div>
             </div>
-        </a><a href='https://soccer.nbcsports.com/2022/11/29/ghana-vs-uruguay-live-how-to-watch-stream-link-team-news/'>
+        </a><a href='https://www.thesun.ie/sport/football/9826182/ghana-uruguay-tv-channel-live-stream-free-world-cup-2022/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ghana vs Uruguay: How to watch live, stream link, team news</h3>
+                <h3>Ghana vs Uruguay: TV channel, kick-off time, FREE stream and ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRBrNoc4sBCqrS34uBFbTvc7u1INHmQ3DD5vuhkf3sjliPpxDguoupDS2ahUvO-SE6378ntN4Mw" alt="Ghana vs Uruguay: How to watch live, stream link, team news" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>When you say Luis Suarez, Ghana and World Cup together, most people think of his incredible handball to deny the Black Stars victory in the quarterfinals of the&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTwQNYQajNa0-DdwqmiEw2SUHrEH4FQyTI_YfW4wUFDuQ82ty23HagVA-h9YxnuMGIPJC0FdAqE" alt="Ghana vs Uruguay: TV channel, kick-off time, FREE stream and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>GHANA take on South American giants Uruguay in their final Group H match, as they seek revenge for what happened 12 years ago.Uruguay have not scored.</p></div>
             </div>
-        </a><a href='https://www.modernghana.com/sports/1198111/ghana-vs-uruguay-we-know-how-to-beat-ghana-again.html'>
+        </a><a href='https://www.bbc.com/pidgin/articles/cnlgxjzere8o'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ghana vs Uruguay: We know how to beat Ghana again, they even ...</h3>
+                <h3>Ghana vs Uruguay: 12 years after Luis Suarez handball, Ghana go ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTFBMRYr1f_idLZGM9Vlt6T6AfF0IvBt9pNtLXy3GYgyKtFv3V_qmM7qdIoklAnAWw7xk-MyZKZ" alt="Ghana vs Uruguay: We know how to beat Ghana again, they even ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ghana rsquo;s biggest football enemy and Uruguay forward, Luiz Suarez has threatened to do what he does best to stop Ghana rsquo;s progress in another FIFA&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTH4yVhxwPtPvRdGQ6Eknv_XGVrzTg7oILCFBr8Ehai8nmvhurOawBmx3anYXtj4lljTh6uua51" alt="Ghana vs Uruguay: 12 years after Luis Suarez handball, Ghana go ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>What make de loss against Uruguay painful be say a win for Ghana in that game go be de first time African team enter semi-finals in de Fifa World Cup tournament&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.thesun.co.uk/sport/20582069/uruguay-ghana-luis-suarez-world-cup-revenge/'>
+        </a><a href='https://www.sportingnews.com/us/soccer/news/ghana-vs-uruguay-prediction-world-cup-odds-betting-tips-2022/lzqhomvwh9899lvpersf3bcs'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Fans all say the same thing with Luis Suarez&#39;s Uruguay set for group ...</h3>
+                <h3>Ghana vs Uruguay prediction, odds, betting tips and best bets for ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQgx8gA-nlNV2KC03zJpinC_XHtod-hrDX5Sc-OGjBoj6kKlPUckusqJGH5v8oOmRON0IfAz90x" alt="Fans all say the same thing with Luis Suarez&#39;s Uruguay set for group ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>FOOTBALL fans are salivating at the prospect of the potential second round of Luis Suarez versus Ghana in the World Cup.The Uruguayan striker, 35, was.</p></div>
-            </div>
-        </a><a href='https://www.reuters.com/lifestyle/sports/goal-shy-uruguay-need-repeat-infamous-2010-win-over-ghana-2022-11-28/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Goal-shy Uruguay need a repeat of infamous 2010 win over Ghana</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRrWmDiBAvJ6a0Zdo-HoTMKmHExiXwV009Hw3ktz63UixLwkCqJsWGFVLfiMdPfDgpR8sOjWBWx" alt="Goal-shy Uruguay need a repeat of infamous 2010 win over Ghana" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>LUSAIL, Qatar, Nov 28 (Reuters) - Uruguay remain goalless at the World Cup and must find their form against next opponents Ghana in a re-run of one of the&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS3MOW1siHFL8bCBeuRiyWVVT2gUlf34-Z2oVyA61Ahf6gaUOoH3hGU0UuFKqYl5SiVVc4C3Kt8" alt="Ghana vs Uruguay prediction, odds, betting tips and best bets for ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Uruguay must beat Ghana to keep their World Cup campaign alive. Here are the latest odds and score prediction.</p></div>
             </div>
         </a>
         </Template></>;

@@ -17,15 +17,15 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Мария Колесникова, ставшая лицом белорусских протестов в ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSIV8vVWd7CsO3fMJCPsoLGVw0VabEuD4ZOPi_pgEH-rPpG9PccW1nvdm5TAWN5sTEIP2e7Sd6Q" alt="Мария Колесникова, ставшая лицом белорусских протестов в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRRido4xamCR7YX1oDKTPSGnozTfVtvYqt7jqY7_LT9bhAVM7OS-Q7B8vOt9WolgqeziOCyvKXA" alt="Мария Колесникова, ставшая лицом белорусских протестов в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Мария Колесникова, ставшая одной из самых узнаваемых фигур белорусских протестов 2020 года и осужденная из-за них, попала в реанимацию.</p></div>
             </div>
-        </a><a href='https://www.rfi.fr/ru/%D0%B2-%D0%BC%D0%B8%D1%80%D0%B5/20221130-%D0%BC%D0%B0%D1%80%D0%B8%D1%8F-%D0%BA%D0%BE%D0%BB%D0%B5%D1%81%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0-%D0%B2-%D1%82%D1%8F%D0%B6%D0%B5%D0%BB%D0%BE%D0%BC-%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B8-%D0%B2-%D1%80%D0%B5%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%B8-%D0%BE%D1%82%D1%86%D0%B0-%D0%B8-%D0%B0%D0%B4%D0%B2%D0%BE%D0%BA%D0%B0%D1%82%D0%B0-%D0%BA-%D0%BD%D0%B5%D0%B9-%D0%BD%D0%B5-%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D1%8E%D1%82'>
+        </a><a href='https://www.bbc.com/russian/news-63798477'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Мария Колесникова остается в тяжелом состоянии в ...</h3>
+                <h3>Мария Колесникова доставлена в больницу, ей сделали ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTiDJ77lkvIic-qEzmwCeWDfJnD4eY1LL9EmdQRBDMM67L4e-Gqeyo0nW81h5M5xnbFzr2Xip_1" alt="Мария Колесникова остается в тяжелом состоянии в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Одна из лидеров мирных белорусских протестов 2020 года попала в реанимацию из штрафного изолятора Гомельской женской колонии. О причинах наказания штрафным&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcScJ2L_9xnl5PA_LFD5DcGBqVQusxwNAXtJGScRfMgPsNyL8tJ3kIODjm1EOFdXN46Ov0RvBHZy" alt="Мария Колесникова доставлена в больницу, ей сделали ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Одна из лидеров оппозиции Беларуси Мария Колесникова, которая уже более двух лет находится в тюрьме по политическим обвинениям, доставлена в больницу,&nbsp;...</p></div>
             </div>
         </a><a href='https://www.interfax.ru/world/874829'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -34,26 +34,26 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTUDY0RABEpAvRf7TJme6NE1w-F9TsKhtTHletrgzZX5IKw4PLy5BTKJxFq9l5B-fBv-hfQJc4o" alt="У осужденной в Белоруссии Марии Колесниковой выявили ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>30 ноября. INTERFAX.RU - Отбывающая срок в гомельской колонии оппозиционерка Мария Колесникова, по неподтвержденной информации, попала в больницу с прободной&nbsp;...</p></div>
             </div>
-        </a><a href='https://ru.euronews.com/2022/11/29/kolesnikova-belarus-hospitalization-ppp'>
+        </a><a href='https://www.kommersant.ru/doc/5694286'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Колесникова в реанимации: международная реакция</h3>
+                <h3>Белорусская оппозиционерка Колесникова попала в реанимацию</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSHDzemSLg0VkEjYXwdeCyriiXIJSCXzCycB666WaZB2L-5fFIo1NdrBc7Cjiu-D6q5DAs_Liin" alt="Колесникова в реанимации: международная реакция" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ранее сообщалось, что Колесникова была переведена в штрафной изолятор гомельской женской колонии №4.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQU8ii-a7QTV16BjXxD0n7Wb2JfUjORyZfbIkUdXUpbeKv20fjTCF7YzG_RjCWhQqwpkckZaOsv" alt="Белорусская оппозиционерка Колесникова попала в реанимацию" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Мария Колесникова, отбывающая 11-летний тюремный срок по делу о заговоре с целью захвата власти в Белоруссии, попала в реанимацию, сообщила пресс-служба&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.newsru.co.il/world/30nov2022/maria_509.html'>
+        </a><a href='https://www.golosameriki.com/a/belarus-maria-kolesnikova/6855031.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Мария Колесникова прооперирована, ее состояние тяжелое</h3>
+                <h3>Беларусь: Мария Колесникова – в реанимации</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTuxhNKtg4LqtkS71_C-0cyXlGJt-H3jheNAof5kqMskECMn0NKCRcUaloUtT35_1mj9c2WM5Xu" alt="Мария Колесникова прооперирована, ее состояние тяжелое" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>NEWSru.co.il: новости Израиля и Ближнего Востока, актуальные события в мире. Борьба с террором, война в Украине. Политика, бизнес, здоровье, развлечения,&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQSqFJvQsaNidsx1uI6ArHXDslcZtPubXEG2fB24av74GuGciTzFcKPdjUE4VjQnUD8StRdJhB5" alt="Беларусь: Мария Колесникова – в реанимации" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Одна из лидеров протестного движения в Беларуси Мария Колесникова, находящаяся в заключении, была доставлена в реанимационное отделение клиники в Гомеле.</p></div>
             </div>
-        </a><a href='https://www.rosbalt.ru/world/2022/11/30/1979850.html'>
+        </a><a href='https://www.svoboda.org/a/shtab-belorusskogo-oppozitsionera-soobschil-o-gospitalizatsii-marii-kolesnikovoy/32154281.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>У осужденной в Белоруссии активистки Колесниковой была ...</h3>
+                <h3>Лидер протестов против Лукашенко госпитализирована в ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRQFeOJUg8x8TCSHSqJXbIJC_UnGNdj0k-ccGDz_pXV3bNGiuba4AUxOKv8_gRz3UVMWQrhWX14" alt="У осужденной в Белоруссии активистки Колесниковой была ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Об этом сообщает пресс-служба экс-претендента на пост президента Белоруссии Виктора Бабарико. Врачи о диагнозе не говорят даже родственникам.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQzxsgNjMQNlB1SKHh2f-cnvBweon_ozm1nNmKnK4XCRN8uV-vf5B9usIZ_KvwlCwwBtr-5mtGg" alt="Лидер протестов против Лукашенко госпитализирована в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В сообщении штаба, который Колесникова возглавляла перед выборами, говорится, что оппозиционер была доставлена в больницу в понедельник, 28 ноября. Она была&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
