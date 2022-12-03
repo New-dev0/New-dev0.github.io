@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,ブラジル"/>
         <meta name="description" content="Trending News about ブラジル" /></Head><Template>
             <h1 style={{fontSize: "30"}}>ブラジル</h1>
-            <Image width={800} height={500} src="https://static.tokyo-np.co.jp/image/article/size1/f/7/a/1/f7a18f4cfb193a37024f4f7a9b78c8aa_1.jpg" alt="ブラジル"/>
+            <Image width={800} height={500} src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20221203-00000131-spnannex-000-12-view.jpg?exp=10800" alt="ブラジル"/>
             <h3>Recent News</h3>
-            <a href='https://www.tokyo-np.co.jp/article/216158'>
+            <a href='https://news.yahoo.co.jp/articles/1000bfd18024b278f0e037805967705274298d28'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ネイマール、２戦欠場へ ブラジル、初戦で負傷</h3>
+                <h3>世界ランク1位ブラジルが負けた…1次L敗戦は6大会ぶり“無敗記録 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ5BOkNobnFcDdTgK6AKIQV8XTSZxHGxzsBBwdrtJxZM1USGRwxwppK1gNA2yD-7v3AZoHlCeJP" alt="ネイマール、２戦欠場へ ブラジル、初戦で負傷" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>【ドーハ共同】サッカーのワールドカップ（Ｗ杯）で優勝候補ブラジルのエース、ネイマールが１次リーグＧ組の残り２試合を欠場すると２５日、ロ...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQXMTVov0gdTFA8Yc8eJgoBGfFb73iB4VByvkJ6PzKx5xSKkB60vhVdUJYVtdDD1CCVhCBK31Uj" alt="世界ランク1位ブラジルが負けた…1次L敗戦は6大会ぶり“無敗記録 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>FIFA W杯カタール大会1次リーグG組 ブラジル0―1カメルーン（2022年12月2日 ルサイル競技場）</p></div>
             </div>
-        </a><a href='https://news.yahoo.co.jp/articles/31c73a402116148fc9e6d621b8c6e2b21012de1d'>
+        </a><a href='https://www3.nhk.or.jp/news/html/20221203/k10013911761000.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ブラジル代表に痛手…初戦で負傷のネイマールとダニーロ、復帰は ...</h3>
+                <h3>ワールドカップ ブラジル敗れるも グループ1位で決勝T進出</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQyxNkDCO8lS-yFITxTy8U1oG_0fWhIxd5RU69TVyMLg4ViIVYFCYX_hi38F4tKmw2U7WchR6hi" alt="ブラジル代表に痛手…初戦で負傷のネイマールとダニーロ、復帰は ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ブラジル代表FWネイマール（パリ・サンジェルマン/フランス）と同DFダニーロ（ユヴェントス/イタリア）が、FIFAワールドカップカタール2022・グループGの残り2試合を&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQGEG5__tQWMDWW26pxYoLY8MkUVfgM4k_g-ziGVx9j875KmqgLzMZcojm8AjN1ojRq-fxZOHna" alt="ワールドカップ ブラジル敗れるも グループ1位で決勝T進出" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>【NHK】サッカーワールドカップカタール大会の1次リーグ、グループGのカメルーン対ブラジルは、ブラジルが0対1で敗れ、1次リーグで…</p></div>
             </div>
-        </a><a href='https://www.nikkansports.com/soccer/qatar2022/news/202211260000323.html'>
+        </a><a href='https://jp.reuters.com/article/brazil-us-lula-idJPKBN2SM1XL'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>【Ｗ杯】優勝候補ブラジルに難局、負傷のネイマール「競技人生で ...</h3>
+                <h3>ブラジル次期大統領、月内に訪米を検討</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="【Ｗ杯】優勝候補ブラジルに難局、負傷のネイマール「競技人生で ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>優勝候補の呼び声高いブラジルがいきなり難局に陥った。24日、セルビアとの1次リーグG組初戦でネイマールが右足首、右サイドバックで先発したダニーロも左足首を負傷…</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ-8pQIeBkD95ybjIB-8vuBsvrBVbDltf04hjnJA-8MciImyoU5yycGBc4mvnCO06D52zoCh17P" alt="ブラジル次期大統領、月内に訪米を検討" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>[ブラジリア／ワシントン ２日 ロイター] - ブラジルのルラ次期大統領は２日、今月１２日に当選が確定して以降、１月１日の就任を待たず訪米し、バイデン米大統領と&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.yomiuri.co.jp/sports/soccer/worldcup/20221126-OYT1T50095/'>
+        </a><a href='https://news.yahoo.co.jp/articles/1aa8800f0aaa1d134e2a637430e7df2dbb6aa1cf'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ブラジル白星発進、チチ監督「後半にチューニングし攻撃的に ...</h3>
+                <h3>ブラジルが肝を冷やした7分間 まさかの失点で2位転落危機に反響 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ8FNF1Nb2QTvQjo5LUcyhupIk3ky5q-DJ2JxHUTOmBlZHrgZTOwlG-fgNptboDdBqgAVuniQDZ" alt="ブラジル白星発進、チチ監督「後半にチューニングし攻撃的に ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>【読売新聞】 サッカーのＦＩＦＡワールドカップ（Ｗ杯）カタール大会は２４日、グループリーグＧ組で史上最多６度目の優勝を狙うブラジル代表が、Ｊ１名古屋などで&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQXO8iuFnJV4gjFQIl_FUS7QrlDynIu5vP5Q1AZWW_pg_uUMTrv8tv2z4ryrgZmCGy_ZJudwzDB" alt="ブラジルが肝を冷やした7分間 まさかの失点で2位転落危機に反響 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>サッカーのカタール・ワールドカップ（W杯）は2日、すでに決勝トーナメント（T）進出を決めていたG組のブラジルがカメルーンに0-1で敗れた。結果的に同組1位での16強&nbsp;...</p></div>
             </div>
-        </a><a href='https://news.yahoo.co.jp/articles/8a452fbaadfa03cfcf234dd61e8b4646b077c344'>
+        </a><a href='https://www.sankei.com/article/20221203-IU5CSHWFDFPBLN4IXIWRLFC4OA/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>「必殺技やん、こんなん」ブラジル代表FWリシャルリソンの衝撃弾 ...</h3>
+                <h3>米高官、ルラ氏と会談へ ５日にブラジル訪問</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSvQJIFCOmvjG-zlTyQRSXhXE21MueMSSFaboA8eXq8FrFxIU3zWP3PJkyjaUv7AwoAfMlosvoD" alt="「必殺技やん、こんなん」ブラジル代表FWリシャルリソンの衝撃弾 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>現地時間11月24日、カタール・ワールドカップ（W杯）グループステージ（G組）第１戦で、FIFAランキング１位のブラジルは、同21位のセルビアと対戦し、２―０で快勝を&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR-MJ48ziSviz11mw5dDC-KPwUFEwdi1olVNpfJEiO-VG4raoMKJlV88-rl2gUYFiu72t-RBrmC" alt="米高官、ルラ氏と会談へ ５日にブラジル訪問" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>米ホワイトハウスは２日、サリバン大統領補佐官（国家安全保障問題担当）が５日にブラジルの首都ブラジリアを訪問し、ボルソナロ政権の高官やルラ次期大統領らと会談&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sanin-chuo.co.jp/articles/-/303397'>
+        </a><a href='https://www.yomiuri.co.jp/sports/soccer/worldcup/20221203-OYT1T50061/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ブラジルＶＳセルビア リシャルリソンが美技ブラジル 個人技で圧倒</h3>
+                <h3>首位通過のブラジル、カメルーンに０―１で敗れる…アブバカルに ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQdQ_1j9T240S7-9fu4hih5FuzmaUz_XbrSxGSgCIxssrTm0h7F16LM94m9VlqVfQGRJAz4j6QI" alt="ブラジルＶＳセルビア リシャルリソンが美技ブラジル 個人技で圧倒" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>【評】ブラジルがリシャルリソンの２ゴールで勝った。後半１７分、ネイマールが巧みにペナルティーエリア内に持ち込み、ビニシウスのシュートをＧＫがはじいたところを&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTzzExMK-2RN_Q_h_tszH1sLfmIYhIVh6Ljb6lb42DyWSMdWlddwGBrxBBUEjT1rYauP_-H372x" alt="首位通過のブラジル、カメルーンに０―１で敗れる…アブバカルに ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>【読売新聞】 サッカーのＦＩＦＡワールドカップ（Ｗ杯）カタール大会は２日、グループリーグＧ組で、すでに決勝トーナメント進出を決めているブラジル代表が０―１で&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.dazn.com/ja-JP/news/world-cup/2022-11-25-soccer-richarlison-world-cup-brazil/1duz5kp6o6qd5z3ay8jsjre13'>
+        </a><a href='https://news.yahoo.co.jp/articles/796c3a7c8fe2145b5e6d41160fa4f43a6f110fd0'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>【動画】これぞ、王国ブラジルの華麗なゴール！ リシャーリソンの ...</h3>
+                <h3>サッカーW杯＝ブラジル代表はカメルーンに初黒星＝決勝 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTrDJlAKCQLQHAukWtoDpKM4HHMQ3jwsg4wSHt0U5PikHdRbF4BgnbtzKCPIVIJnsgerXF25e9l" alt="【動画】これぞ、王国ブラジルの華麗なゴール！ リシャーリソンの ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>【カタールW杯2022・ニュース】25日に行われたFIFAワールドカップ（W杯）カタール2022のグループG第1節・セルビア代表戦で、ブラジル代表FWリシャーリソンが2ゴールを&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRnodYeVamQrWiwNOgPauy_hHgS0XpMzYVk5IltRAFDyRGlpH1Il33k5H7BXZYzg9SSAJbqpFhR" alt="サッカーW杯＝ブラジル代表はカメルーンに初黒星＝決勝 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>2日のサッカーW杯でブラジル代表（セレソン）はカメルーン戦に0―1で敗れたがG組1位通過となり決勝トーナメントに進んだ。2日付伯字サイトが報じている。</p></div>
             </div>
-        </a><a href='https://news.yahoo.co.jp/articles/c3368bed736f9bf3295977c4267bfb23af3ad57c'>
+        </a><a href='https://www.chunichi.co.jp/article/593929'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>これぞブラジルのデザインプレー！股抜きヒールパスで絶好の機会 ...</h3>
+                <h3>ブラジル、カメルーンにまさかの敗戦 得失点差「１」でなんとか1位 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS0r4ZhJemHmRqbJaFTxzgViRVYfft9ziyOeo4UBHR8HELImvCh4fL8MDFhPwQFf2K72qr13tzl" alt="これぞブラジルのデザインプレー！股抜きヒールパスで絶好の機会 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>【FIFA ワールドカップ カタール 2022・グループG】ブラジル2－0セルビア（日本時間11月25日／ルサイル・スタジアム ）</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ-i2LyokcApNSAEsL8_t4p6Hpjefu77e3wSZeds128XdxDGJIDsGwCE3KFAWW6fICtphx4wEtc" alt="ブラジル、カメルーンにまさかの敗戦 得失点差「１」でなんとか1位 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>２日 サッカーＷ杯カタール大会 １次リーグＧ組 カメルーン０―０ブラジル（ルサイル） カメルーンがブラジルを破る歴史的一戦となった。...</p></div>
             </div>
-        </a><a href='https://www.sanspo.com/article/20221126-FU4PAD5AQBMYLP2UNPDS46KUOE/'>
+        </a><a href='https://www.tokyo-np.co.jp/article/217643'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ブラジル代表のネイマール、１次リーグ残り２戦欠場へ</h3>
+                <h3>カメルーン１―０ブラジル カメルーンが終盤に得点</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTRSqwdGZx5tisd8DKas8lD6XFIHsAM4kJFzvuF1Hd_JFdj7FPaUzVHxRye7LQuRKQwMiNDs_jQ" alt="ブラジル代表のネイマール、１次リーグ残り２戦欠場へ" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>【ドーハ共同】サッカーのワールドカップ（Ｗ杯）で優勝候補ブラジルのエース、ネイマールが１次リーグＧ組の残り２試合を欠場すると２５日、ロイター通信が報じ&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRKXW0QP3Ir12F9Gvlv5NbEAQ3eLyrwTLTvTGrcka8PFkNvomyQOC-k04tu3U42WdMKLtF8vJYY" alt="カメルーン１―０ブラジル カメルーンが終盤に得点" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>カメルーンが後半ロスタイムに均衡を破った。粘り強く守ってブラジルの攻撃に耐え、速攻を狙い続けた。後半ロスタイム、早いタイミングでの右ク...</p></div>
             </div>
-        </a><a href='https://www3.nhk.or.jp/news/html/20221125/k10013903041000.html'>
+        </a><a href='https://www.jiji.com/jc/article?k=2022120300182&g=int'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ワールドカップ ブラジル勝利 6回目の優勝へ好発進 グループG</h3>
+                <h3>ブラジル次期大統領、今月中旬にも訪米 民主主義、ウクライナ議題に</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcShyZrcfjvwgDtWtYpvewrwovspB64n6mDrlRq96V7Ui9E9gJZH33vUqYh19KTkxB9lK8uo7nT0" alt="ワールドカップ ブラジル勝利 6回目の優勝へ好発進 グループG" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>【NHK】サッカーワールドカップカタール大会の1次リーグ、グループGのブラジル 対 セルビアはブラジルが2対0で快勝し、史上最多と…</p></div>
+                <Image src="" alt="ブラジル次期大統領、今月中旬にも訪米 民主主義、ウクライナ議題に" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>【サンパウロ、ワシントン時事】ブラジルのルラ次期大統領は２日、記者団に対し、当選が確定する今月１２日以降に訪米してバイデン大統領と会談する方針を明らかにした&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

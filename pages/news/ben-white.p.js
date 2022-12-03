@@ -11,49 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Ben White"/>
         <meta name="description" content="Trending News about Ben White" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Ben White</h1>
-            <Image width={800} height={500} src="https://image.stern.de/32969258/t/3F/v1/w1440/r1.7778/-/02--england--ben-white-verlaesst-wm-team-aus-persoenlichen-gruenden--aufmacher-.jpg" alt="Ben White"/>
+            <Image width={800} height={500} src="" alt="Ben White"/>
             <h3>Recent News</h3>
-            <a href='https://www.stern.de/sport/fussball/england--ben-white-verlaesst-wm-team-aus-persoenlichen-gruenden-32969256.html'>
+            <a href='https://www.vanguardngr.com/2022/12/arsenals-ben-white-exits-england-world-cup-squad-for-personal-reasons/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>England: Ben White verlässt WM-Team aus persönlichen Gründen</h3>
+                <h3>World Cup 2022: Arsenal&#39;s Ben White exits England World Cup ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSz9bihef9PzPPOReOffg5UNl40gD9UU5RvXjb8D1juPdY32V2-EkPD30A1snQuegl43avVpXB8" alt="England: Ben White verlässt WM-Team aus persönlichen Gründen" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ben White hat das WM-Team der englischen Nationalmannschaft aus persönlichen Gründe verlassen. Eine Rückkehr von White wird nicht erwartet.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSPrR2avNIHTJSyn4wNjmKMfHZ-OJs1lT6tDwhb3_lBQxi9awly6fDAdDcqC7I0_wS4WV0exb_R" alt="World Cup 2022: Arsenal&#39;s Ben White exits England World Cup ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>England defender Ben White has left the England World Cup training base to return home for personal reasons.</p></div>
             </div>
-        </a><a href='https://www.spox.com/de/sport/fussball/wm/wm2022/2211/Artikel/england-verteidiger-ben-white-reist-aus-persoenlichen-gruenden-ab.html'>
+        </a><a href='https://www.skysports.com/football/news/12098/12758920/ben-white-england-defender-leaves-world-cup-training-base-to-return-home-for-personal-reasons'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>WM 2022: Englands Ben White reist aus persönlichen Gründen aus ...</h3>
+                <h3>Ben White: England defender leaves World Cup training base to ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR9AP_16NJ63HztW7gh0OQVhyxnpH2Xb0HZoj8xgldgKVEu5VIJlHPx79oE6gTP9jTEZJ9iPgJe" alt="WM 2022: Englands Ben White reist aus persönlichen Gründen aus ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Abwehrspieler Ben White hat das Quartier der englischen Nationalmannschaft am Mittwoch verlassen. Der Innenverteidiger des FC Arsenal kehrte aus&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSmPPwDqiOWkyIyomMUFM8K-DnDWVlxNLHcjIT0dreSBSGYyx-uIr8UN53qlAImZ3ZRt_8JMUq-" alt="Ben White: England defender leaves World Cup training base to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ben White has left Englands World Cup squad to return home and is not expected to fly back to Qatar; White did not feature in Englands first two matches and&nbsp;...</p></div>
             </div>
-        </a><a href='https://sport.sky.de/fussball/artikel/wm-2022-ben-white-reist-aus-persoenlichen-gruenden-aus-katar-ab/12758940/34240'>
+        </a><a href='https://www.goal.com/en/news/arsenal-star-ben-white-leaves-england-world-cup-squad-personal-reasons/blt080bf074b06f2ed7'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>WM 2022: Ben White reist aus persönlichen Gründen aus Katar ab</h3>
+                <h3>Arsenal star White leaves England World Cup squad for personal ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSu-aElWbXiGlTYP-W9hrdMRWAGWjuw5LbvWFHFxrwvuvc3VPAhcLKQCCsQyHLn-6xyDZk3RUKM" alt="WM 2022: Ben White reist aus persönlichen Gründen aus Katar ab" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Die englische Fußball-Nationalmannschaft muss bei der Weltmeisterschaft in Katar ab sofort ohne Verteidiger Ben White (25) auskommen.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQPfABmNJ1Er5BfuGEnLcQlYi0yyCK-EuHX9yjteso90yTB1xyL9MxsqwKPCX1urUEwpiknXnmZ" alt="Arsenal star White leaves England World Cup squad for personal ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>England have announced defender Ben White has left the Three Lions&#39; training base and is not expected to return before the end of the tournament.</p></div>
             </div>
-        </a><a href='https://www.sportbuzzer.de/artikel/personliche-grunde-england-verteidiger-ben-white-wm-ruckkehr-reaktionen/'>
+        </a><a href='https://www.harrowtimes.co.uk/news/23162246.englands-ben-white-withdraws-qatar-world-cup-squad/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Aus persönlichen Gründen: England-Verteidiger Ben White reist ab ...</h3>
+                <h3>England&#39;s Ben White withdraws from Qatar World Cup squad</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRMG_qOGJsvRhxZPYqA2DZkTnMD1LMy0MuEv_aKshdjvl-jdqszNdwegtQg2hSQU71rPlqps5u5" alt="Aus persönlichen Gründen: England-Verteidiger Ben White reist ab ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Der englische Nationalspieler Ben White hat das WM-Camp der &quot;Three Lions&quot; in Katar verlassen. Wie der englische Verband am Mittwochabend mitteilte,&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQXDbGggeXtev2xyvCPdTHIJsGquoO5iwe1ud4oT0gj7ib0LcVsWldaHRMZn8oA7dkUcOrbWF_o" alt="England&#39;s Ben White withdraws from Qatar World Cup squad" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The 25-year-old Arsenal defender is not expected to return to Qatar after being included in Gareth Southgate&#39;s 26-man squad following an impressing season in&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.nau.ch/sport/fussball-int/wm-2022-sorgen-um-england-star-ben-white-nach-abreise-aus-katar-66354851'>
+        </a><a href='https://paininthearsenal.com/2022/12/01/what-does-ben-white-news-mean-for-arsenal/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>WM 2022: Sorgen um England-Star Ben White nach Abreise aus Katar</h3>
+                <h3>What does the Ben White news mean for Arsenal?</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTPjVjxH9kz_aOXSCTHLBRov79d-Ba0_5W_ZvrAgTvXl67jKQ3QmyfuaT0czOrPMYZFbATZOvty" alt="WM 2022: Sorgen um England-Star Ben White nach Abreise aus Katar" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Das englische Nationalteam muss für die restliche WM 2022 auf die Dienste von Verteidiger Ben White (25) verzichten. Die Gründe für seine Abreise sind&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTjFjDIqpbfp2IabXe7ly72Lydagd7FffUXhwdmYkTPwg9AU1XLQ7I6lZKD30ywgEu4fH_FklxH" alt="What does the Ben White news mean for Arsenal?" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>This season, he has shown a new facet of his game: versatility. With William Saliba finally breaking into the first team and Takehiro Tomiyasu struggling with&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.krone.at/2870809'>
+        </a><a href='https://www.marca.com/en/world-cup/2022/11/30/6387acdb46163f53158b4584.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Fußball-WM - Engländer White reiste aus persönlichen Gründen ab</h3>
+                <h3>Ben White exits World Cup for personal reasons</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ7ubzVmZW54vdRX47uf7aws5Kg_P5s29FAK-qdaIx4EtecPUYLn29S5_OqYvGoAT0fv4uh7JHU" alt="Fußball-WM - Engländer White reiste aus persönlichen Gründen ab" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Der englische Verteidiger Ben White ist aus persönlichen Gründen von der Fußball-WM in Katar abgereist!</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSS34hEd52c-N_wfXeD3tTFLNAO9fpzwlWR9KWpALnTJSt_DOpItfOFllZ6sxHzWnBilFw16TlQ" alt="Ben White exits World Cup for personal reasons" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The FA didn&#39;t provide a reason for White&#39;s departure. The Arsenal center back isn&#39;t expected to join back up with England coach Gareth Southgate&#39;s squad in&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.thisdaylive.com/index.php/2022/12/01/ben-white-out-of-england-wcup-squad/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Ben White Out of England W&#39;Cup Squad</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSAvAzwsCzota8Hpo0T8xdRDUw0LaenRv6OP16P0sYu6VN8fclytZ86tIqt8leVChAQPEAx1U1x" alt="Ben White Out of England W&#39;Cup Squad" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>England defender Ben White was ruled out of the remainder of the World Cup after leaving the squad for “personal reasons”, the Football Association said on&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

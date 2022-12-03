@@ -11,49 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Ghana vs Uruguay"/>
         <meta name="description" content="Trending News about Ghana vs Uruguay" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Ghana vs Uruguay</h1>
-            <Image width={800} height={500} src="https://e0.365dm.com/22/11/1600x900/skysports-luis-suarez-uruguay_5982466.jpg?20221130140810" alt="Ghana vs Uruguay"/>
+            <Image width={800} height={500} src="https://static01.nyt.com/images/2022/12/02/multimedia/02world-cup-uruguay-ghana-floor-1-9a7e/02world-cup-uruguay-ghana-floor-1-9a7e-facebookJumbo.jpg" alt="Ghana vs Uruguay"/>
             <h3>Recent News</h3>
-            <a href='https://www.skysports.com/football/news/11095/12759461/ghana-vs-uruguay-derek-boateng-forgives-luis-suarez-for-2010-handball-ahead-of-world-cup-grudge-match-but-wife-wants-shirt-out-of-the-house'>
+            <a href='https://www.nytimes.com/live/2022/12/02/sports/uruguay-ghana-world-cup-scores'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ghana vs Uruguay: Derek Boateng forgives Luis Suarez for 2010 ...</h3>
+                <h3>Uruguay vs Ghana Live World Cup Match: Score and Updates</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTWJjkm_BhWEBJykxtnhLtgyg5q1UkOW80tN-aSOjNDy3WcTrGKVLjXDlwsxEiWbaFCFJ49kJ7i" alt="Ghana vs Uruguay: Derek Boateng forgives Luis Suarez for 2010 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Former Ghana midfielder Derek Boateng on swapping shirts with Luis Suarez as the country prepares for their World Cup grudge match against Uruguay.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRC2YIPj4Vo9w8nNtgS-ByhpWk-vAZRtaUW6DWumPwgoAolyXysXx3VMQ9-oso_OFAwIPwS-4Hw" alt="Uruguay vs Ghana Live World Cup Match: Score and Updates" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ghana has an opportunity to avenge its infamous 2010 defeat to Uruguay. South Korea and Portugal are tied, 1-1, in the other Group H game. Follow live.</p></div>
             </div>
-        </a><a href='https://theathletic.com/3956505/2022/12/01/ghana-uruguay-stream-tv-channel-predictions-start-time/'>
+        </a><a href='https://www.sportingnews.com/us/soccer/news/ghana-vs-uruguay-world-cup-live-score-result/kp0uzrcz5wrv5vwxrnn1tl9a'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ghana vs Uruguay preview: How to stream, start time, predictions ...</h3>
+                <h3>Ghana vs Uruguay final score, result: Both sides crash out of World ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQnhep_YzZGoiMVCOVxuBVamdEOkyoqvCN0o_X8m59y3Ho7dwKQsbWeRsmKuZdm1rPu8hgiizhK" alt="Ghana vs Uruguay preview: How to stream, start time, predictions ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Everything you need to know ahead of the Group H meeting between Ghana and Uruguay at the 2022 World Cup.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQjGo1rpS39LU0yzcBJC9a3oK7i_zGlJE0GPgMn-qkRgCDRadsUvoPQ1H2dA20EyI7F4nHDy5Ql" alt="Ghana vs Uruguay final score, result: Both sides crash out of World ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Uruguay capitalised on an early penalty miss from Ghana to race to a 2-0 victory over the Black Stars, but other results saw both sides dumped out of the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.cbssports.com/soccer/news/ghana-vs-uruguay-2022-world-cup-live-stream-tv-channel-how-to-watch-online-pick-start-time-odds/'>
+        </a><a href='https://www.foxsports.com/stories/soccer/world-cup-2022-top-plays-ghana-uruguay'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ghana vs. Uruguay: 2022 World Cup live stream, TV channel, how ...</h3>
+                <h3>World Cup 2022 highlights: Uruguay eliminated despite 2-0 win over ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQcEs5P-uP-m0ep1CZiPKr-ZvN7HZH0lds1I0nWztXLdYGb9xyaCsOHqaI6xT5ExT1HqHaZUcfk" alt="Ghana vs. Uruguay: 2022 World Cup live stream, TV channel, how ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Uruguay are still looking for their first win in the competition.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTj2rBEvi4gg8jHbNMRKrYrbFKbEvr9_YIDRRajCCZ6BEAAxSgYlb-NOlKRfCdUnRhvtkamAtEi" alt="World Cup 2022 highlights: Uruguay eliminated despite 2-0 win over ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The group stage of the 2022 FIFA World Cup comes a close Friday. Kicking things off, Uruguay earned a 2-0 win over Ghana. Here are the top plays!</p></div>
             </div>
-        </a><a href='https://www.thesun.ie/sport/football/9826182/ghana-uruguay-tv-channel-live-stream-free-world-cup-2022/'>
+        </a><a href='https://theathletic.com/3961183/2022/12/02/ghana-vs-uruguay-result-world-cup/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ghana vs Uruguay: TV channel, kick-off time, FREE stream and ...</h3>
+                <h3>Ghana vs Uruguay result: Both sides exit World Cup after De ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTwQNYQajNa0-DdwqmiEw2SUHrEH4FQyTI_YfW4wUFDuQ82ty23HagVA-h9YxnuMGIPJC0FdAqE" alt="Ghana vs Uruguay: TV channel, kick-off time, FREE stream and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>GHANA take on South American giants Uruguay in their final Group H match, as they seek revenge for what happened 12 years ago.Uruguay have not scored.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTaJWft4LhelhFT5cvXN0_-bD06sCnKxunyRDVP9Spt-_fSzL1_GDfJLSp88XQwBoOY-Siu-_33" alt="Ghana vs Uruguay result: Both sides exit World Cup after De ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Uruguay beat Ghana 2-0 in their final Group H match but both sides failed to qualify for the knockouts after South Korea defeated Portugal.</p></div>
             </div>
-        </a><a href='https://www.bbc.com/pidgin/articles/cnlgxjzere8o'>
+        </a><a href='https://theanalyst.com/na/2022/12/ghana-vs-uruguay-prediction-preview-world-cup/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ghana vs Uruguay: 12 years after Luis Suarez handball, Ghana go ...</h3>
+                <h3>Ghana vs. Uruguay: Prediction and Preview | The Analyst</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTH4yVhxwPtPvRdGQ6Eknv_XGVrzTg7oILCFBr8Ehai8nmvhurOawBmx3anYXtj4lljTh6uua51" alt="Ghana vs Uruguay: 12 years after Luis Suarez handball, Ghana go ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>What make de loss against Uruguay painful be say a win for Ghana in that game go be de first time African team enter semi-finals in de Fifa World Cup tournament&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRYGoYsjGzBXg_831eTs7uyaSrguG6QSVL9M4N8IWT_wyH55glaonmNslngIOlNg5EEY5FTQYCQ" alt="Ghana vs. Uruguay: Prediction and Preview | The Analyst" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>We preview the 2022 World Cup match between Ghana and Uruguay, including our pre-match prediction for each team&#39;s final game in Group H.</p></div>
             </div>
-        </a><a href='https://www.sportingnews.com/us/soccer/news/ghana-vs-uruguay-prediction-world-cup-odds-betting-tips-2022/lzqhomvwh9899lvpersf3bcs'>
+        </a><a href='https://www.espn.com/soccer/report/_/gameId/633834'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ghana vs Uruguay prediction, odds, betting tips and best bets for ...</h3>
+                <h3>Ghana vs. Uruguay - Football Match Report - December 2, 2022 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS3MOW1siHFL8bCBeuRiyWVVT2gUlf34-Z2oVyA61Ahf6gaUOoH3hGU0UuFKqYl5SiVVc4C3Kt8" alt="Ghana vs Uruguay prediction, odds, betting tips and best bets for ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Uruguay must beat Ghana to keep their World Cup campaign alive. Here are the latest odds and score prediction.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT-niPQ55SQeyUOlcc4Ib8V_DH3hWXv5LAW-W3iqXr2nBFCkuUxzbEzn368vnXiHJiD3H4vbT6g" alt="Ghana vs. Uruguay - Football Match Report - December 2, 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Get a report of the Ghana vs. Uruguay 2022 FIFA World Cup, Group Stage football match.</p></div>
+            </div>
+        </a><a href='https://espndeportes.espn.com/futbol/reporte/_/juegoId/633834'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Ghana vs. Uruguay - Reporte del Partido - 2 diciembre, 2022 - ESPN</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRUkK-_kyY_LRlFv4PdTXVhr9U9SR_lPCSzm4sHBYaBzjsC4zA7VLv-NTFfFNacpcb7vFSeYZ70" alt="Ghana vs. Uruguay - Reporte del Partido - 2 diciembre, 2022 - ESPN" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Obtén el reporte del partido Ghana vs. Uruguay 2022 Copa Mundial FIFA, Fase de grupos.</p></div>
+            </div>
+        </a><a href='https://es-us.deportes.yahoo.com/ghana-vs-uruguay-resumen-goles-175207761.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Ghana vs. Uruguay: resumen, goles y resultado del partido del ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRRxBTijPnfXeyfKE37AmKygxP4SKjz-cr8ZXSKLZIotgzJSBskDLWnoLgZRhFpZFc0R8vJ3Akw" alt="Ghana vs. Uruguay: resumen, goles y resultado del partido del ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>La Celeste le ganó 2 a 0 al elenco africano en la última fecha del grupo H pero ambos quedaron eliminados porque Corea del Sur derrotó 2 a 1 a Portugal.</p></div>
+            </div>
+        </a><a href='https://www.tudn.com/futbol/mundial-qatar-2022/partidos-en-vivo/fase-de-grupos/ghana-vs-uruguay/uruguay-derrota-ghana-queda-fuera-mundial-qatar-2022-diferencia-goles-corea'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Uruguay derrota a Ghana pero queda fuera del Mundial Qatar 2022 ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ58j8fpFmHzOKKlodkS42u967Uwexkd-L_EORSo6fYc0on9a0NUj229Sc88orlOb49FPRA11Ts" alt="Uruguay derrota a Ghana pero queda fuera del Mundial Qatar 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>La Celeste uruguaya ganó con merecimientos, pero un arbitraje tendencioso les quitó dos penales claros y son eliminados por diferencia de goles.</p></div>
+            </div>
+        </a><a href='https://us.as.com/futbol/ghana-vs-uruguay-horario-tv-como-y-donde-ver-en-usa-n/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Ghana vs Uruguay: Horario, TV; cómo y dónde ver en USA</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSfB2s6zj-Z0QVrnSB2b1BdehLIlJ4n8tAwBs4eg4bBFQJOXHrZEXsH6bVkJXrNmuhnL2C4YiVo" alt="Ghana vs Uruguay: Horario, TV; cómo y dónde ver en USA" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ghana de André Ayew y la Selección de Uruguay de Luis Suárez, se medirán este viernes por un boleto a los Octavos de Final del Mundial Qatar 2022.</p></div>
             </div>
         </a>
         </Template></>;

@@ -11,70 +11,42 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Manuel Neuer"/>
         <meta name="description" content="Trending News about Manuel Neuer" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Manuel Neuer</h1>
-            <Image width={800} height={500} src="https://images.sportbuzzer.de/v1/photos/raw/mandatory-credit-photo-by-javier-garcia-shutterstock-13634885is-goalkeeper-manue/large-16-9" alt="Manuel Neuer"/>
+            <Image width={800} height={500} src="https://f.i.uol.com.br/fotografia/2022/12/02/16699854376389f49deafd1_1669985437_3x2_rt.jpg" alt="Manuel Neuer"/>
             <h3>Recent News</h3>
-            <a href='https://www.sportbuzzer.de/artikel/manuel-neuer-rekord-wm-dfb-deutschland-costa-rica-sepp-maier-reaktionen/'>
+            <a href='https://www1.folha.uol.com.br/esporte/2022/12/manuel-neuer-bate-recorde-de-taffarel-e-se-torna-o-goleiro-com-mais-jogos-em-copas.shtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mit Einsatz gegen Costa Rica: DFB-Torwart Manuel Neuer sichert ...</h3>
+                <h3>Manuel Neuer bate recorde de Taffarel e se torna o goleiro com ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTKPqB834OlH3BTb6eBap4BPPwyG1BgLMPuZOwW22N7v4VbMGYFjNgI5Ga3hVjdRHJuh0u4hdP4" alt="Mit Einsatz gegen Costa Rica: DFB-Torwart Manuel Neuer sichert ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mit seinem Einsatz im entscheidenden WM-Gruppenspiel gegen Costa Rica hat sich DFB-Keeper Manuel Neuer zum alleinigen WM-Rekordtorwart gemacht.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSh4kwd4dOBJwTr3esveLh_XBFH7H6fhO6G7Yh82LJwK1ee-3pr-QvRZ7BQFxd24yiL5TMo0IAl" alt="Manuel Neuer bate recorde de Taffarel e se torna o goleiro com ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Antes da partida contra o Japão, pelo grupo E da Copa do Mundo de 2022, no Qatar, os onze jogadores titulares posaram para a foto oficial com a mão sobre a boca&nbsp;...</p></div>
             </div>
-        </a><a href='https://sport.sky.de/fussball/artikel/wm-2022-manuel-neuer-neuer-rekordtorwart/12759736/35857'>
+        </a><a href='https://exame.com/esporte/manuel-neuer-supera-tafarel-e-se-torna-o-goleiro-com-mais-jogos-em-copa-do-mundo/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>WM 2022: Manuel Neuer neuer Rekordtorwart</h3>
+                <h3>Manuel Neuer supera Taffarel e se torna o goleiro com mais jogos ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRSVjrDkDYkPq2oViQF6F1qz-G-i4AmQZ9KhUCeZGWgZb1GTPRTRB8I858TGOp7S2AOsb2JfDsU" alt="WM 2022: Manuel Neuer neuer Rekordtorwart" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Manuel Neuer ist alleiniger WM-Rekordtorwart. Der 36 Jahre alte Schlussmann vom FC Bayern München bestreitet am Donnerstagabend gegen Costa Rica sein 19.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR3ZFQaAssDFhOv8vkMzTEbfpb26_1eaCcET6j2cyfK2EkONtTL4ak_nAmuxqp8ODK0tAkVBUd6" alt="Manuel Neuer supera Taffarel e se torna o goleiro com mais jogos ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Aos 36 anos, Neuer jogou no Catar a sua quarta Copa do Mundo.</p></div>
             </div>
-        </a><a href='https://www.heimatsport.de/fussball/profis/international/ein-musiala-reicht-nicht-ein-team-voller-ausfaelle-selbst-torhueter-manuel-neuer-erreicht-keine-normalform-8396469'>
+        </a><a href='https://ge.globo.com/futebol/selecoes/alemanha/noticia/2022/12/02/apos-eliminacao-e-recorde-na-copa-neuer-descarta-aposentadoria-da-selecao-da-alemanha.ghtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ein Musiala reicht nicht – Ein Team voller Ausfälle: Selbst Torhüter ...</h3>
+                <h3>Após eliminação e recorde na Copa, Neuer descarta aposentadoria ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTf6Q65BRx1F-FJq1UFVCZmSkOAR4OgoWqJOgtF8A6tiEvN1kvaLcgLW92DxfGocRmObxGESdNn" alt="Ein Musiala reicht nicht – Ein Team voller Ausfälle: Selbst Torhüter ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Manuel Neuer: Der Kapitän rückte mit seinem 19. Spiel zum WM-Rekordtorhüter auf. Verhinderte gegen Fuller stark den Ausgleich, klat ...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT28QSWMhcdheX6bHj-flWfo-79sMSCN1IDS_nQ0iCugMQ3gCLLy0u6IDRJFDCHhF4Pg2LrzdFb" alt="Após eliminação e recorde na Copa, Neuer descarta aposentadoria ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Manuel Neuer quebrou recordes no Catar. Aos 36 anos, tornou-se o goleiro com mais aparições em Copas do Mundo - superando os números do brasileiro Taffarel&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.skysportaustria.at/neuer-stellt-wm-rekord-auf/'>
+        </a><a href='https://www.terra.com.br/esportes/futebol/manuel-neuer-supera-taffarel-e-sepp-maier-e-se-torna-goleiro-com-mais-jogos-em-copas,28b607b77f0e672297e68961d46a37649bhz2628.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Neuer stellt WM-Rekord auf - Sky Sport Austria</h3>
+                <h3>Manuel Neuer supera Taffarel e Sepp Maier e se torna goleiro com ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRQhXnsQFOJeKKfMUjfVdub5oJigUyy6PHvWedSVb6rd-YIvIFJobsgrQw7iNlfRgPekr19anSv" alt="Neuer stellt WM-Rekord auf - Sky Sport Austria" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Manuel Neuer hat einen WM-Rekord für Torhüter aufgestellt. Der Kapitän der deutschen Fußball-Nationalmannschaft bestritt am Donnerstagabend in Al-Khor.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQX2sld7sFi4XNhvLsPd9q7VlSM9RZebDeE6JyqNpiHTeVWoT2qR4ojRHagaEXc9TUE1poPjTHN" alt="Manuel Neuer supera Taffarel e Sepp Maier e se torna goleiro com ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Goleiro da Alemanha chega a 19 partidas em Mundiais e deixa para trás outros importantes jogadores da posição.</p></div>
             </div>
-        </a><a href='https://www.der-postillon.com/2022/12/onelove-2026.html'>
+        </a><a href='https://www.otempo.com.br/copa-do-mundo/manuel-neuer-da-alemanha-pode-se-tornar-goleiro-com-mais-jogos-em-copas-1.2775341'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Manuel Neuer will beim nächsten WM-Spiel One-Love-Binde tragen</h3>
+                <h3>Manuel Neuer, da Alemanha, pode se tornar goleiro com mais jogos ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRNzGImXNHejfAKYQJRxSoZS7ZetLtWWcdwyFqr7o07DmPLIZ8H_3WCp-g6G3b96W21PKep12Ws" alt="Manuel Neuer will beim nächsten WM-Spiel One-Love-Binde tragen" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Al-Khor (dpo) - Er will sich nicht länger zensieren lassen: DFB-Kapitän Manuel Neuer hat angekündigt, beim nächsten WM-Spiel die One-Love-Binde zu tra.</p></div>
-            </div>
-        </a><a href='https://www.sport1.de/news/fussball/wm/2022/12/wm-2022-neuer-knackt-wm-rekord'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>WM 2022: Neuer knackt WM-Rekord - und mit Monsterparade!</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS9WuW1XDp-Chi--ivLdKH-JfSG7VZUI_kljc532wGsuuGK5wxv_jl4hSOvkpfL84WCzgikwSnv" alt="WM 2022: Neuer knackt WM-Rekord - und mit Monsterparade!" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mit dem Spiel gegen Costa Rica schnappt sich Manuel Neuer einen WM-Rekord. Der 36-Jährige ist jetzt der Torhüter mit den meisten WM-Einsätzen.</p></div>
-            </div>
-        </a><a href='https://www.tag24.de/sport/fussball/fifa-weltmeisterschaft/sepp-maier-gratuliert-manuel-neuer-zu-wm-rekord-torwart-legende-besorgt-wegen-schulter-2679332'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Sepp Maier gratuliert Manuel Neuer zu WM-Rekord: Torwart ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcShhtaRN7N6Z4AC_z0RskZBIufThEFceBouh9dWguIPd_GRcP2AwRB7u-7qzKmafdlNdENHZ-x_" alt="Sepp Maier gratuliert Manuel Neuer zu WM-Rekord: Torwart ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Sepp Maier hat Nationaltorwart Manuel Neuer zu dessen bevorstehendem WM-Rekord gratuliert. Allerdings macht er sich ein wenig Sorgen um dessen Schulter.</p></div>
-            </div>
-        </a><a href='https://www.tz.de/sport/fussball/wm-rekord-sepp-maier-dfb-kapitaen-manuel-neuer-kritik-sorgen-schulter-der-nation-zr-91950584.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Sepp Maier zählt DFB-Kapitän Neuer an - „Dumm ausgeschaut“</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSEzDRBV4zEV9XnKDm7m0z8snD4GknGS8Kmc2dcLG9lJ3W55kY_frH99szC0ssvyzoeEUR_04qu" alt="Sepp Maier zählt DFB-Kapitän Neuer an - „Dumm ausgeschaut“" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Sepp Maier verliert seinen WM-Rekord an Manuel Neuer. Die Bayern-Legende macht den Nationalkeeper für zwei Gegentore mit verantwortlich.</p></div>
-            </div>
-        </a><a href='https://www.nzz.ch/sport/wm-blog-ueber-diesen-rekord-wird-sich-manuel-neuer-kaum-freuen-belgiens-trainer-tritt-nach-dem-vorrunden-aus-zurueck-ld.1714910'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Fussball-WM 2022: Deutschland scheidet aus</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTZMEBO5QXlbLknohR9-ylciCu0DtOb7L9pT45EP5VK3X6Tdeim7nLlUdyWSzodMcjs-GfbPtgg" alt="Fussball-WM 2022: Deutschland scheidet aus" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Belgiens Trainer Martinez tritt nach Out zurück. Roberto Martinez hat umgehend nach dem WM-Vorrunden-Aus seinen Rücktritt als belgischer Nationaltrainer&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT3qVgwc-VudO-uWWFgEZqO1HE3TG7f44WKZ0UVX0GtUJ7ebLcAd10a1EaKsSRBX8NhsQd5F0bF" alt="Manuel Neuer, da Alemanha, pode se tornar goleiro com mais jogos ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Neuer ultrapassá o brasileiro Claudio Taffarel e o também alemão Sepp Meier em número de jogos em Copas do Mundo.</p></div>
             </div>
         </a>
         </Template></>;

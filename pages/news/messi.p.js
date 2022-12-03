@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Messi"/>
         <meta name="description" content="Trending News about Messi" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Messi</h1>
-            <Image width={800} height={500} src="https://static.globalnoticias.pt/oj/image.jpg?brand=OJ&type=generate&guid=62735626-c820-438b-8c86-695ac73cb422&w=800&h=420&watermark=true&t=20221125112800" alt="Messi"/>
+            <Image width={800} height={500} src="https://ak.uecdn.es/p/110/thumbnail/entry_id/0_7ctkgupg/width/657/type/2/bgcolor/000000/0_7ctkgupg.jpg" alt="Messi"/>
             <h3>Recent News</h3>
-            <a href='https://www.ojogo.pt/internacional/noticias/dani-alves-visa-mbappe-ainda-nao-percebeu-que-neymar-e-messi-sao-mais-fenomenos-do-que-ele-15387051.html'>
+            <a href='https://www.marca.com/en/world-cup/2022/12/01/638879c6e2704e25b38b4581.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Dani Alves visa Mbappé: &quot;Ainda não percebeu que Neymar e Messi ...</h3>
+                <h3>The Messi and Lewandowski incident: What happens on the pitch ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSqW5EQ2Nke1GVaqDxBI4w3dVfBuEZWtDqUc9R_hSf8z8lf8suhCNnbula_ZQwQopaOrNDiSBat" alt="Dani Alves visa Mbappé: &quot;Ainda não percebeu que Neymar e Messi ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>O lateral brasileiro, que partilhou balneário com o avançado francês na temporada 2017/18, no PSG, não mordeu a língua quando questionado sobre as&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQXPdwk-dylwmRNMuYDnz2VLAyXgFWiBz4tePUaJIsEpvibPnyF1tNdiU1aBedAtFp_-iHz6SCV" alt="The Messi and Lewandowski incident: What happens on the pitch ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>One of the most striking images of the Poland vs Argentina came as the game entered its final minutes, Robert Lewandowski fouled Lionel Messi after being&nbsp;...</p></div>
             </div>
-        </a><a href='https://www1.folha.uol.com.br/esporte/2022/11/argentina-conta-com-lideranca-de-messi-para-evitar-tragedia.shtml'>
+        </a><a href='https://www.goal.com/en-ng/lists/messi-missing-penalty-better-than-ronaldo-stealing-a-goal-fans-as-argentina-march-on-in-world-cup/bltc9efba75ba02f284'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Argentina conta com liderança de Messi para evitar tragédia</h3>
+                <h3>Messi missing penalty better than Ronaldo &#39;stealing a goal&#39; - Fans as ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTvszb6Q59-_CqpQZGghBgqKyuodoM_TiiWXTOmXcpYrjCa29uZwHnBxnvAvNBkVXY7BhPfRHlP" alt="Argentina conta com liderança de Messi para evitar tragédia" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Pouco antes da subida ao gramado do Maracanã, os jogadores da seleção argentina se reuniram em círculo, e Lionel Messi discursou.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSyEZFMdhNaIxlLYGWO5zZ02ii_luoKuVkdCBlfLDcLOBQQE0l0gw8C7C7ul7jXwFpmIVjJXcOn" alt="Messi missing penalty better than Ronaldo &#39;stealing a goal&#39; - Fans as ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Fans reactions after Lionel Messi missed a penalty in Argentina&#39;s World Cup win against Poland on Wednesday night.</p></div>
             </div>
-        </a><a href='https://ge.globo.com/futebol/selecoes/argentina/noticia/2022/11/25/de-pai-para-filho-rotas-de-messi-e-tata-martino-se-cruzam-e-podem-selar-destino-do-craque-na-copa.ghtml'>
+        </a><a href='https://www.espn.com/soccer/argentina-arg/story/4821129/the-seven-tendencies-lionel-messi-displayed-against-poland'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>De pai para filho: rotas de Messi e Tata Martino se cruzam e podem ...</h3>
+                <h3>The seven tendencies Lionel Messi displayed against Poland</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSkzFyvi1q-Tcb1_jQK6RhWlh4jSuKfCw44y0hunCtsNsjBNt5xHf2i0y3YoULaKlQPqr7Q5vfw" alt="De pai para filho: rotas de Messi e Tata Martino se cruzam e podem ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Argentinos nutrem amizade que envolve pai do craque e passagens por Barcelona e seleção; neste sábado, porém, técnico pode encerrar sonho de Lionel em seu&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ1qAWM5l0wVXYjQsPijJ8LlWKoQSRY2DuV7ioa6f4jOFhkcW_4XIsJFTOMrYgaRsmGBxJhvek3" alt="The seven tendencies Lionel Messi displayed against Poland" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>It&#39;s hard to focus on one player for 90 minutes, but Gab Marcotti watched exclusively Lionel Messi take on Poland. What did he learn about the GOAT?</p></div>
             </div>
-        </a><a href='https://www.terra.com.br/esportes/futebol/argentina-tem-messi-100-em-jogo-da-vida-contra-o-mexico-para-evitar-queda-precoce-na-copa,5fa9d861f0225364c618b5639566c9fclqtxp5vr.html'>
+        </a><a href='https://www.channelstv.com/2022/11/30/messi-misses-penalty-but-argentina-advance-at-world-cup/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Argentina tem Messi 100% em &#39;jogo da vida&#39; contra o México para ...</h3>
+                <h3>Messi Misses Penalty But Argentina Advance At World Cup</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQvsoWalmlzWJ_7ZA4CBRIPwi8C0s_EEl-ZnUSX9VijfyoebT8twJo9GNV50Yt6yhPT-akjaevY" alt="Argentina tem Messi 100% em &#39;jogo da vida&#39; contra o México para ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Após a derrota surpreendente para a Arábia Saudita, o técnico Lionel Scaloni deve promover mudanças na equipe.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTsQoUA3gSk4QGmtwCcMXUr0dFASw0bYH7YyW4IB5DVqmXLR3YQefnzIZduhO9sB0aAT_Az7kMT" alt="Messi Misses Penalty But Argentina Advance At World Cup" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Poland also went through as runners-up although a 2-1 win for Mexico over Saudi Arabia in the group&#39;s other game meant Czeslaw Michniewicz&#39;s side advanced only&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/11281503/heroi-de-titulo-mundial-da-argentina-da-ultimato-para-messi-e-companhia-ou-vao-voltar-pra-casa'>
+        </a><a href='https://www.dailymail.co.uk/sport/football/article-11492115/Robert-Lewandowski-reveals-told-Lionel-Messi-frosty-moment.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Herói de título mundial da Argentina dá &#39;ultimato&#39; para Messi e ...</h3>
+                <h3>Robert Lewandowski reveals what he told Lionel Messi after their ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQD84OKqBPcHFV7o9B0TRrOF5RV8JIl6UcX3gWq9_YRvH0Oewil8JBUJliOxItUPI0QiLkz_sJF" alt="Herói de título mundial da Argentina dá &#39;ultimato&#39; para Messi e ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mario Kempes, que anotou os dois gols da final da Copa de 78, a primeira vencida pela Argentina, deu um ultimato para Messi e companhia antes de &#39;final&#39; contra&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQPd7T1lsuEM3awSRPHJpvKzKSnHAZYxT1O0w-Rd3Tw6u7ChSreSwUYau1iAzj4LdFLfV0AjkMv" alt="Robert Lewandowski reveals what he told Lionel Messi after their ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Robert Lewandowski has shared what he told Lionel Messi at full-time after the pair shared a frosty moment on the pitch during Argentina&#39;s 2-0 win against&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.cnnbrasil.com.br/esporte/tecnico-da-argentina-diz-que-messi-esta-100-e-time-fara-de-tudo-para-classificar/'>
+        </a><a href='https://www.marca.com/en/world-cup/2022/12/01/6387fb7be2704e0d138b4613.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Técnico da Argentina diz que Messi está 100% e time fará de tudo ...</h3>
+                <h3>Canelo Alvarez vs. Lionel Messi: Argentine striker refuses to ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRt0VwAAvIGLvY3LzHAB5nk-2ZEGoJdsTCSzOWStPvJGybaH9_-z7nRCCl6RZ7pzVQ3Jvd7fHCS" alt="Técnico da Argentina diz que Messi está 100% e time fará de tudo ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>O comandante ainda lembrou os tempos áureos como jogador, mas mostrou qual será a filosofia do elenco argentino. “Um jogo, você pode perder, mas o importante é&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR2KqzKxVzZOB_Oi8fDJ7I-BCRAouHwP5GD7siOXiYbq27Cvd88TH0MHH4w2toc2XLILQMae8f3" alt="Canelo Alvarez vs. Lionel Messi: Argentine striker refuses to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Saúl Canelo Álvarez acknowledged his mistake and offered apologies, and now it was Lionel Messi&#39;s turn to speak and he is clear: at no time did he&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.terra.com.br/esportes/criticas-de-zico-a-lionel-messi-repercutem-na-imprensa-argentina,6cebfc467f188ca851f0da30a1614af24k2p90kb.html'>
+        </a><a href='https://www.football.london/international-football/lionel-messi-robert-lewandowksi-tension-25636130'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Críticas de Zico a Lionel Messi repercutem na imprensa argentina</h3>
+                <h3>Lionel Messi and Robert Lewandowski true feelings revealed with ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSKEUxcnHixky4ggUf0_ZLnYB5R90WmICzPBlUuyCEhvQWREZ-m_w_hD4h6eeAzj0_kee0Ard5U" alt="Críticas de Zico a Lionel Messi repercutem na imprensa argentina" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Convidado da live &#39;Primeiro Lance&#39; na última quinta-feira, Zico repercutiu na imprensa argentina. Durante o papo com os jornalistas Marcos Uchôa e Chandy&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS1TQ9dULLoWsz1dk5ztrpThAl-ZqJyOzkKAoCwjAwf6uTMnNGZHXPtVCUYm5DXYI39UjKfKmr5" alt="Lionel Messi and Robert Lewandowski true feelings revealed with ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>World Cup news: Two footballing giants went head-to-head in a chaotic deciding group stage match in Qatar.</p></div>
             </div>
-        </a><a href='https://www.uol.com.br/esporte/colunas/tales-torraga/2022/11/25/messi-sente-dores-e-vai-para-o-sacrificio-na-decisao-de-amanha-com-o-mexico.htm'>
+        </a><a href='https://www.goal.com/en/news/disrespect-people-mexico-messi-insists-forgiveness-canelo-threat/bltc268b7ae7cdfde50'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Tales Torraga - Messi sente dores e vai para o sacrifício na decisão ...</h3>
+                <h3>&#39;I didn&#39;t disrespect the people of Mexico&#39; - Messi insists he &#39;won&#39;t ask ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQEcP8ywzrIoCdX_fec0sgddQTifC6TcTMUDiy_6VZgioeZ3q2-L_Y3g4xTawd8j32ESdFR9ym_" alt="Tales Torraga - Messi sente dores e vai para o sacrifício na decisão ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Lionel Messi está com dificuldades físicas e não chegará 100% para a decisão da Argentina amanhã contra o México, pelo Grupo C da Copa do Qatar.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSK4YFegMA-mn73CHj5Dr04fhDDOJbSo7TrThaKvbaBEUIO11py_KU7h-rgcXf8BeokhYxnzi4T" alt="&#39;I didn&#39;t disrespect the people of Mexico&#39; - Messi insists he &#39;won&#39;t ask ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>WHAT HAPPENED? A dressing room video that showed a Mexico jersey on the floor by Messi&#39;s feet after their defeat to Argentina sparked outrage from Mexican&nbsp;...</p></div>
             </div>
-        </a><a href='https://cnnportugal.iol.pt/videos/levaram-uma-bandeira-de-messi-para-o-catar-mas-ronaldo-tirou-lhe-o-protagonismo-eis-os-autores-do-momento-insolito/63812f170cf2254fb284b43e'>
+        </a><a href='https://www.goal.com/en-sa/news/canelo-apologises-to-messi-bullsh-t-comments-after-argentina-win-over-mexico/blt2c49e86c42a25935'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Levaram uma bandeira de Messi para o Catar, mas Ronaldo tirou ...</h3>
+                <h3>&#39;I got carried away&#39; - Canelo apologises to Messi for &#39;bullsh*t ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTRRGa3nrpzWxKf3yUU8tbXDivddddXUKo7cCYhvPJ2QsazhTnZjOyblQf4mPYC6vIh0GTgtoDh" alt="Levaram uma bandeira de Messi para o Catar, mas Ronaldo tirou ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Quem a colocou lá? A equipa de enviados da TVI/CNN Portugal descobriu os responsáveis e falou com eles - e são argentinos. Desporto&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ1F72663sZ1CZ_BQs6JWD4_-oLNq5DWk48_5zM7t3y7-jLHhoyPUUW-JAZt8iaaRNXopoavygW" alt="&#39;I got carried away&#39; - Canelo apologises to Messi for &#39;bullsh*t ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Saul &#39;Canelo&#39; Alvarez has apologised to Lionel Messi for comments he made towards him after his side beat Mexico at the World Cup.</p></div>
             </div>
-        </a><a href='https://www.lance.com.br/copa-do-mundo/argentina/messi-manda-recado-para-o-elenco-da-argentina-antes-de-decisao.html'>
+        </a><a href='https://www.goal.com/en-us/news/only-psg-can-afford-messi-laliga-president-questions-barcelona-re-signing-club-legend/bltf1c47c4f4542f362'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Messi manda recado para o elenco da Argentina antes de decisão</h3>
+                <h3>&#39;Only PSG can afford Messi&#39; - La Liga president questions ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQDgvcHOjOox1U_xyRpA3vjIg6kKVlPWOVTzKnD8_MvMZfgrso7wLmqfvV0hHiVlW_bDrsawIvM" alt="Messi manda recado para o elenco da Argentina antes de decisão" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Às vésperas do jogo entre Argentina e México pela Copa do Mundo, Lionel Messi tem sido um líder dentro do vestiário da &quot;Albiceleste&quot;.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS1JJwIAikeN1mj1bFJv-GAQX5Pb9M8T4-4gulssuugiIhRCz67FlXtOSIwfM6rYn4ct9Tk2aeS" alt="&#39;Only PSG can afford Messi&#39; - La Liga president questions ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>La Liga president Javier Tebas has questioned the possible return of Lionel Messi to Barcelona, claiming that only PSG can afford his wage demands.</p></div>
             </div>
         </a>
         </Template></>;

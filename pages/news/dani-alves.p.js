@@ -11,56 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Dani Alves"/>
         <meta name="description" content="Trending News about Dani Alves" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Dani Alves</h1>
-            <Image width={800} height={500} src="" alt="Dani Alves"/>
+            <Image width={800} height={500} src="https://conteudo.imguol.com.br/c/esporte/90/2022/12/01/daniel-alves-durante-coletiva-de-imprensa-da-selecao-brasileira-1669903194518_v2_615x300.jpg" alt="Dani Alves"/>
             <h3>Recent News</h3>
-            <a href='https://www.vanguardngr.com/2022/11/take-advantage-of-geniuses-messi-neymar-dani-alves-advises-mbappe/'>
+            <a href='https://www.uol.com.br/esporte/colunas/milly-lacombe/2022/12/01/coletiva-indica-que-convocacao-de-dani-alves-esta-na-dimensao-da-devocao.htm'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Take advantage of &#39;geniuses&#39; Messi, Neymar, Dani Alves advises ...</h3>
+                <h3>Milly Lacombe - Coletiva indica que convocação de Dani Alves está ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSoEti_j4UfXJ_J2fkzWqcPwjW2kq0NXhIZ6sPVf8Ceb1qUoo3xaaayuPAVrwPLUJXMyzp2ZvKL" alt="Take advantage of &#39;geniuses&#39; Messi, Neymar, Dani Alves advises ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brazilian professional footballer, Dani Alves has asked French footballer and Paris Saint-Germain forward, Kylian Mbappé to take advantage of Argentine&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ3ns97x1m6Vur-Nl1QryO2wKh5HKryUl4prRSLlfuR3sbVfIdawOHae62ULSyMBwIRu12x06Bl" alt="Milly Lacombe - Coletiva indica que convocação de Dani Alves está ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Missão e transcendência foram conceitos usados respectivamente por Daniel Alves e Tite para seguir explicando o que o lateral direito está fazendo ali.</p></div>
             </div>
-        </a><a href='https://www.goal.com/en/news/dani-alves-takes-shot-at-kylian-mbappe-his-attack-partners-are-more-phenomenal-than-him/blt7084ea3149b3e473'>
+        </a><a href='https://schoje.news/2022/12/02/dani-alves-se-prepara-para-novo-recorde-com-a-selecao-brasileira/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Dani Alves takes shot at Kylian Mbappe: &#39;His attack partners are ...</h3>
+                <h3>Dani Alves se prepara para novo recorde com a Seleção Brasileira ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRxZnGZXsceefCFuSIBW0uTyK_mUkUDg2nvUT74TGDi6SUyuBo8_5KsaI5Gk7M5KgcUpIuxWrbe" alt="Dani Alves takes shot at Kylian Mbappe: &#39;His attack partners are ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Dani Alves has thrown a dig towards Kylian Mbappe, stating he isn&#39;t as good as Paris Saint-Germain teammates Lionel Messi and Neymar.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSfDUMBxtz0HVCiiknQsegp6NVtR15LPRseQtNq85SB9dA3sixZ7OwXQ2UCC-buFOjHqYED3YVU" alt="Dani Alves se prepara para novo recorde com a Seleção Brasileira ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Aos 39 anos de idade, lateral será o capitão da Seleção Brasileira na partida contra Camarões e se tornará o jogador mais experiente a vestir a&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.marca.com/en/world-cup/2022/11/24/637f4a4346163fd9538b457b.html'>
+        </a><a href='https://www.goal.com/br/not%C3%ADcias/no-cascudao-do-brasil-dani-alves-e-os-meninos-jogam-para-confundir/blt47aaafa1da56011d'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Dani Alves: Mbappe still hasn&#39;t understood that Messi and Neymar ...</h3>
+                <h3>No &#39;Cascudão&#39; do Brasil, Dani Alves e os meninos jogam para ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQqXuxBiKYCZ9t838OBc-fd2ShSYFYS7qRS1SFiXX19caf6QmFn7WV7l4EoteRQP5NiWqW6hxhS" alt="Dani Alves: Mbappe still hasn&#39;t understood that Messi and Neymar ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Dani Alves, Pumas and Brazil national team player, has given an interview to La Gazzetta dello Sport, in which he talked about former club Paris&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRI0lejnnOTaslvfUY43nEMitcoMvE2XRvlIv4DZqdDRWpYeIcwnbjrWiQ1frcXWhi-luTqVm5V" alt="No &#39;Cascudão&#39; do Brasil, Dani Alves e os meninos jogam para ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Se Daniel Alves conseguir ser um construtor de boas jogadas poderá ficar mais claro o porquê de ter sido incluído na lista de Tite.</p></div>
             </div>
-        </a><a href='https://www.sport.es/en/news/world-cup/dani-alves-gives-mbappe-advice-give-messi-and-neymar-the-ball-79024929'>
+        </a><a href='https://jornaldebrasilia.com.br/torcida/dani-alves-ve-derrota-do-brasil-como-alerta/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Dani Alves gives Mbappe advice: Give Messi and Neymar the ball</h3>
+                <h3>Dani Alves vê derrota do Brasil como alerta</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRI2inJQGDnw2u5O8T5odSVbRo_DYwLGbTZV9cOuhLCKhmpdgmXG6dnYgtJQ0sz0_-VrgE9KyrG" alt="Dani Alves gives Mbappe advice: Give Messi and Neymar the ball" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brazil right-back Dani Alves has given an interview to the Italian newspaper &#39;Gazzetta&#39;. In it, he discusses the Seleçao&#39;s chances of winning their sixth&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTHGUCDMJAelOC1Vq5-RWsqI_XDB-OKh1Jp3zVX99odGZOu8ZDR1oRu3wn8Xg8tsmXmCyCd7fWB" alt="Dani Alves vê derrota do Brasil como alerta" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Daniel Alves vê a derrota do Brasil para Camarões como alerta para a segunda fase da Copa do Mundo Qatar 2022. Já classificado para as oitavas de final,&nbsp;...</p></div>
             </div>
-        </a><a href='https://sportsbrief.com/football/paris-saint-germain/28710-dani-alves-aims-ruthless-dig-kylian-mbappe-brazil-defender-accuses-french-star-selfishness/'>
+        </a><a href='https://www.correio24horas.com.br/noticia/nid/e-um-toque-de-atencao-afirma-dani-alves-apos-derrota-do-brasil/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Dani Alves Aims Ruthless Dig at Kylian Mbappe As Brazil Defender ...</h3>
+                <h3>&#39;É um toque de atenção&#39;, afirma Dani Alves após derrota do Brasil</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQsWqUkvYi1tQXx6N0jDCote_sFhGbY9GqBi-lam3Fde-6mhn2vLlL4DqKY6_N7t-GJKA7WlS05" alt="Dani Alves Aims Ruthless Dig at Kylian Mbappe As Brazil Defender ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>SportsBrief.com News ☆ Brazilian legend Dani Alves made his thoughts clear on Kylian Mbappe following the Frenchman&#39;s public issues with his PSG teammates&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRFS5Daphwufi-F432sFhtQZ8N1SisDrSIzSjNwosxL-MyTL9Mvm4lyTpkdxiGLbnxJX-7PpHDO" alt="&#39;É um toque de atenção&#39;, afirma Dani Alves após derrota do Brasil" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lateral ganhou oportunidade no time titular e reforçou que agora não há espaço para erros.</p></div>
             </div>
-        </a><a href='https://www.mirror.co.uk/sport/football/news/brazil-neymar-mbappe-alves-worldcup-28578791'>
+        </a><a href='https://sportbuzz.uol.com.br/noticias/futebol/dani-alves-se-torna-o-jogador-mais-velho-defender-o-brasil-em-copas.phtml'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brazil&#39;s Dani Alves aims ruthless dig at Kylian Mbappe with ...</h3>
+                <h3>Dani Alves se torna o jogador mais velho a defender o Brasil em ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRtbKQOwLGEB8IZJb0dl_AGRfrTOfWEsJpYsYEQdEERNdW1UDf_mcLHWBnT88Znfbgx4LbD3UL_" alt="Brazil&#39;s Dani Alves aims ruthless dig at Kylian Mbappe with ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>There have been murmurings of a rift between Kylian Mbappe and Neymar at Paris Saint-Germain - and Brazil superstar Dani Alves has weighed in on the&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.caughtoffside.com/2022/11/24/dani-alves-insists-mbappe-respects-messi-and-neymar-in-critical-interview/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Dani Alves accuses Mbappe of selfishness and insists Messi and ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRRNIjF4RoKklNKJQCK4WMNOBeTaLIh_4TwOSU1qCVpJxGcjwqm4q89qfwJ6t4XzfSzqd7bldP7" alt="Dani Alves accuses Mbappe of selfishness and insists Messi and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Dani Alves has given an honest interview regarding Kylian Mbappe&#39;s situation at Paris Saint-Germain, insisting he is not the main man over Neymar and Lionel&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT_Vapb5igR0l_OeR-obiIPYDvHPrqJ5eSvKA5G27hKdvhWO8M2GvCi7PBrGcoJ-UZ0WtrjDJ6L" alt="Dani Alves se torna o jogador mais velho a defender o Brasil em ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Daniel Alves entrou em campo como titular da Seleção Brasileira contra Camarões e se tornou o jogador mais velho a vestir a camisa do Brasil em Copas do&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

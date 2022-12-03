@@ -13,54 +13,54 @@ export default function Page() {
             <h1 style={{fontSize: "30"}}>Pele</h1>
             <Image width={800} height={500} src="" alt="Pele"/>
             <h3>Recent News</h3>
-            <a href='https://www.iol.co.za/sport/world-cup/brazil-coach-tite-wishes-good-health-to-pele-7817df88-16b2-4c22-9a69-adc5e176caf4'>
+            <a href='https://www.ouest-france.fr/sport/football/equipe-bresil/football-l-etat-de-pele-s-ameliore-selon-les-medecins-d01f099e-7275-11ed-bd92-7d4ffff8f3b8'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brazil coach Tite wishes &#39;good health&#39; to Pele</h3>
+                <h3>Football. L&#39;état de Pelé s&#39;améliore selon les médecins</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRv-xLenCKtawvcKH46f1iGREYV-qLawetAntX0x3utj3Yfkho1llN_VM3EVug7HY7uCx-RCNEk" alt="Brazil coach Tite wishes &#39;good health&#39; to Pele" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Pele was on Wednesday admitted to hospital for a re-evaluation of his chemotherapy treatment for a colon tumour diagnosed in September 2021.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRU_cDFf4iPiLe3W7YBU2Rfn-AscdvcavAQ2G0C8XgkYxIXM4hmQssr5PpeKeK1KRq_xm_sIQAl" alt="Football. L&#39;état de Pelé s&#39;améliore selon les médecins" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Pelé, 82 ans, souffre d&#39;une « infection respiratoire » mais son état de santé général s&#39;améliore, a indiqué vendredi l&#39;hôpital de Sao Paulo, où la légende&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.dailymaverick.co.za/article/2022-12-01-pele-stable-in-brazilian-hospital-for-cancer-treatment-re-evaluation/'>
+        </a><a href='https://www.lequipe.fr/Football/Actualites/L-etat-de-sante-de-pele-s-ameliore/1368152'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Pele &#39;stable&#39; in Brazilian hospital for cancer treatment &#39;re-evaluation&#39;</h3>
+                <h3>L&#39;état de santé de Pelé s&#39;améliore</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTypoypwbDzgAB91Nd6ZJdLOVE387LA9vT4BiZEO-7qUYJROWKojLuiMoW13VONQMnOpB8rSjoz" alt="Pele &#39;stable&#39; in Brazilian hospital for cancer treatment &#39;re-evaluation&#39;" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Pele, widely considered the greatest soccer player ever, has been admitted to hospital in São Paulo, but his daughter says there is &#39;no emergency or new&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRSmphT8oqbYfWKCXh5upC8nQQdzrwSyQPFc2NE-8907mjhlUrOqNX85vTmgUZB3VR84nbuGqsq" alt="L&#39;état de santé de Pelé s&#39;améliore" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Le Roi Pelé se porte de mieux en mieux, selon l&#39;hôpital Albert-Einstein de São Paulo qui l&#39;avait admis lundi à cause d&#39;une infection respiratoire.</p></div>
             </div>
-        </a><a href='https://www.espn.com/soccer/brazil-bra/story/4822152/brazil-great-pele-has-bronchopneumoniaremains-in-hospital-sources'>
+        </a><a href='https://www.leparisien.fr/sports/football/football-souffrant-dune-infection-pulmonaire-pele-va-mieux-assurent-ses-medecins-02-12-2022-XNNNDIDKTJF6BGYX3A3K5YPMJA.php'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brazil great Pele has bronchopneumonia, remains in hospital</h3>
+                <h3>Football : souffrant d&#39;une infection pulmonaire, Pelé va mieux ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQDp70ZF9MouRMe_AhYGJhLf52lTG1O-xa2XoHG0gKJVHoonogslnVxc6ql41GsEFk_amtBV6kK" alt="Brazil great Pele has bronchopneumonia, remains in hospital" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brazil football legend Pelé was diagnosed with bronchopneumonia on Thursday, sources told ESPN Brasil.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSQ1tI8hBrI7LSaKkagCOAy99W7srqma105fC8WSh4wIeVBr5j8EpzrsqP-K8GwaacRvChqc6c4" alt="Football : souffrant d&#39;une infection pulmonaire, Pelé va mieux ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Pelé avait été admis à l&#39;hôpital Albert Einstein pour une réévaluation de son traitement contre le cancer du côlon. Son infection respiratoire est « traitée par&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.dailymail.co.uk/sport/sportsnews/article-11490165/Brazil-football-legend-Pele-82-stable-condition-hospital.html'>
+        </a><a href='https://www.goal.com/fr/news/coupe-du-monde-2022-les-bresiliens-au-soutien-du-roi-pele/blt34d3805faa0c7108'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Tite and Brazil wish national icon Pele &#39;all the best&#39; after being ...</h3>
+                <h3>Coupe du Monde 2022 : Les Brésiliens au soutien du Roi Pelé</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTyCBRmct63gq53O5mye9Y36aacfb4JxBbLMmUiKMEaCvl0jFfQabJ5ui1e91Y-m2DA8tTKzqFA" alt="Tite and Brazil wish national icon Pele &#39;all the best&#39; after being ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>KATHRYN BATTE: Pele, who is having treatment for metastatic cancer, was taken into hospital with swelling all over his body and heart problems, but was in a&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTsK0q8X267neL8-9fDfvempcZZLU0pgDTB0rH-GOO1aCMwQkPgNQR9zXt9oB7jiDFtCrWwuqn_" alt="Coupe du Monde 2022 : Les Brésiliens au soutien du Roi Pelé" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Les supporters brésiliens ont rendu hommage à la légende du football brésilien Pelé avant la dernière rencontre de la phase de poules.</p></div>
             </div>
-        </a><a href='https://www.reuters.com/lifestyle/sports/brazil-soccer-legend-pele-thanks-supporters-during-monthly-hospital-visit-2022-12-01/'>
+        </a><a href='https://www.tf1info.fr/international/pele-souffre-d-une-infection-respiratoire-mais-son-etat-s-ameliore-2240647.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brazil soccer legend Pele thanks supporters during monthly hospital ...</h3>
+                <h3>Pelé souffre d&#39;une infection respiratoire, mais son état s&#39;améliore</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSngFO4D04Y4t_zi5fPMQGl-B9F2zp51C6dr9aq79eAFo8QTX9CsJHj8Tb6_aYzKdsjq087yJsQ" alt="Brazil soccer legend Pele thanks supporters during monthly hospital ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brazilian soccer legend Pele on Thursday said in an Instagram post that he is at the hospital for a monthly visit and thanked his supporters for the&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS6fcMYq-rd3fvT5vhzVzqTD-5tbNwHf3VKomALXXHD7urTu0jitrY57ylIm3-3ke8yUCitpIHX" alt="Pelé souffre d&#39;une infection respiratoire, mais son état s&#39;améliore" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Merci au Qatar pour cet hommage, et à tous ceux qui m&#39;envoient de bonnes ondes. Pelé. Jeudi 1er décembre, sur son compte Instagram, le roi Pelé&nbsp;...</p></div>
             </div>
-        </a><a href='https://bleacherreport.com/articles/10057367-report-soccer-icon-pele-diagnosed-with-bronchopneumonia-after-being-hospitalized'>
+        </a><a href='https://www.footmercato.net/a7837530834237434624-bresil-pele-donne-de-ses-nouvelles'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Report: Soccer Icon Pelé Diagnosed with Bronchopneumonia After ...</h3>
+                <h3>Brésil : Pelé donne de ses nouvelles</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTWP59F7P47TBJKuS1L0FJ5yKEcP67a2Jr9b7r9JeUsQXgUIkSiVRul7Yxx1fcBG25NoG178im6" alt="Report: Soccer Icon Pelé Diagnosed with Bronchopneumonia After ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brazilian soccer icon Pelé has been diagnosed with bronchopneumonia after undergoing tests Thursday and is receiving antibiotics for the illness,&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ4t7oUJtarSv9FZJe2a_XUkiF4_e0WLIS5pN-6UaIoBm0_0EJuGmfOAfqpCurnTnaMdw3Saa_h" alt="Brésil : Pelé donne de ses nouvelles" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Hospitalisé dans le cadre d&#39;une &quot;visite de routine&quot; en lien avec le traitement de son cancer, le Roi Pelé a reçu de nombreux messages de supporters venus&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.washingtonpost.com/sports/soccer/hospitalized-pele-thanks-fans-during-fight-against-cancer/2022/12/01/171a54f6-71d7-11ed-867c-8ec695e4afcd_story.html'>
+        </a><a href='https://icilome.com/2022/12/bresil-pele/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Hospitalized Pelé thanks fans during fight against cancer</h3>
+                <h3>Brésil-Pélé : Plus de peur que de mal | Icilome</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTB5-K5buN9X8SJuXWf8SXZCViXND4FCnh900CvBTf_md8UNPhRPz360T2Q1i0skrPAU5iuNJhZ" alt="Hospitalized Pelé thanks fans during fight against cancer" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brazilian soccer great Pelé thanked fans worldwide for the well-wishes he&#39;s received since being admitted to a Sao Paulo hospital amid his fight against&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQMXlHlXzUwZoEBlZ5qVhDQfOIW09Mq5-lKU9kwj7f8shJcktdmDiVsPO1ILLDTprM8Em1UHKLO" alt="Brésil-Pélé : Plus de peur que de mal | Icilome" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>L&#39;état de santé d&#39;Edson Arates do Nascimento, plus connu sous le nom de Pélé, n&#39;est pas aussi préoccupant que certaines sources le laissent croire, tente de&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

@@ -11,49 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,World Cup brackets"/>
         <meta name="description" content="Trending News about World Cup brackets" /></Head><Template>
             <h1 style={{fontSize: "30"}}>World Cup brackets</h1>
-            <Image width={800} height={500} src="https://phantom-marca.unidadeditorial.es/53f09ed0f9ca0d2b9fd828b5b1e7e87b/resize/1200/f/jpg/assets/multimedia/imagenes/2022/11/26/16694768998058.jpg" alt="World Cup brackets"/>
+            <Image width={800} height={500} src="https://cdn.vox-cdn.com/thumbor/DXUD02lotrPp-8kqAahlICKhuFA=/0x0:4331x2268/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24248968/1445427712.jpg" alt="World Cup brackets"/>
             <h3>Recent News</h3>
-            <a href='https://www.marca.com/en/world-cup/2022/11/26/6382318622601d435e8b45b8.html'>
+            <a href='https://dknation.draftkings.com/2022/12/2/23485965/world-cup-standings-round-of-16-clinching-scenarios-brazil-switzerland-cameroon-serbia-bracket'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup calculator: See the groups and the results each team ...</h3>
+                <h3>World Cup bracket: Final Group G standings and who advances to ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTgA-18jvaVJQFJU12G2Jdpx6lhz6bcHwCIgbW71gwPPc0Sxk97cUph7gt6itu-aZ-LSpKu86br" alt="World Cup calculator: See the groups and the results each team ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Football fans have already seen big favorites struggle in the 2022 World Cup group stage, with minnows taking strong sides by surprise in their tournament&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTbEBoU-nFhLCZobyu-JLqsbe7SCdws4nA8PXFnj6vwT1CDgPGKyGP4-gOd69adM5BB3bAfDWO9" alt="World Cup bracket: Final Group G standings and who advances to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Brazil celebrate during the FIFA World Cup Qatar 2022 Group G match between Brazil (1 Photo by Simon Bruty/Anychance/Getty Images. Brazil has secured a spot&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sportingnews.com/us/soccer/news/round-of-16-world-cup-teams-qualified-bracket-match-schedule-fixtures-2022/rmoambxam6sowze7tzzixiqm'>
+        </a><a href='https://en.as.com/soccer/qatar-world-cup-2022-round-of-16-bracket-games-teams-dates-and-complete-schedule-n/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Round of 16 World Cup 2022: Teams qualified, bracket, match ...</h3>
+                <h3>Qatar World Cup 2022 round of 16: bracket, games, teams, dates ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRa-Qr_9h_G6dsPggmgSY_7VljIzzFIJcMWgdxUVvzDjzhKeOtE7dbWi28J1X4gMTy6-4CNdfvU" alt="Round of 16 World Cup 2022: Teams qualified, bracket, match ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Round of 16 at the 2022 FIFA World Cup is set to begin on Saturday, December 3. All eight of the matches will be played over four days as the teams to&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRMXpD4jCABy_fq5ifqqWGFNLBlgQfrXqSgwd_SayS6Ieqgd-PnDYye--pIZRJ2afuzhBDcbIkB" alt="Qatar World Cup 2022 round of 16: bracket, games, teams, dates ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>We now know the identity of the 16 teams that are through to the knockout stages at World Cup 2022. Take a look at the last-16 schedule.</p></div>
             </div>
-        </a><a href='https://dknation.draftkings.com/2022/11/26/23477838/world-cup-2022-bracket-knockout-round-of-16-teams-seeds-matchups'>
+        </a><a href='https://soccer.nbcsports.com/2022/12/02/world-cup-2022-schedule-groups-calendar-match-schedule-brackets-how-to-watch-live-dates-scores/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup bracket: How 2022 Round of 16 is shaping up as group ...</h3>
+                <h3>World Cup 2022 schedule – how to watch, groups, calendar, match ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQekSG_vMPBSe2i128Gba3rj-srsh62RWLbagt60X2GMHc_m65kY9SmxvOHlQm04nYGPgsrzRGn" alt="World Cup bracket: How 2022 Round of 16 is shaping up as group ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The second round of group stage matches begins Friday, and more results will mean some teams have qualified for the knockout round. The seeding for these teams&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQqlzK-D7iKUJUY8CT0DAXA0nJXVtBEVAD8WsqFN9yi5ix4TVB0Nvzlx1DR3xETwcIaHFD3mPIM" alt="World Cup 2022 schedule – how to watch, groups, calendar, match ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The 2022 World Cup schedule is locked in and there is so much to look forward to as the tournament in Qatar is in the knockout rounds.</p></div>
             </div>
-        </a><a href='https://www.washingtonpost.com/sports/2022/11/25/world-cup-tiebreakers/'>
+        </a><a href='https://www.npr.org/2022/12/02/1140354827/world-cup-round-of-16-preview'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup tiebreakers and advancement scenarios, explained</h3>
+                <h3>Previewing the World Cup&#39;s round of 16: Who&#39;s in, who&#39;s out and ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRnVzG-AarZCO19fPlg3M3YXAFSWgu8afySS9ZnyXgFNYO0sOs-z02fwRXkxSXKQUrDhBlm44fV" alt="World Cup tiebreakers and advancement scenarios, explained" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Everything you need to know about the World Cup tiebreakers and advancement scenarios as the final round of the group stage matches approaches.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS4x5gwlybaBng6MqAQQtMBooOuE4b1uFDZfWY6te8wueVNtnUrP1xVl9-vp7DmQjkfghLxQxGn" alt="Previewing the World Cup&#39;s round of 16: Who&#39;s in, who&#39;s out and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>No team from outside Europe or South America has ever played in a World Cup final. This year, six teams hope to break that streak. When are the games? Who&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.eurosport.com/football/world-cup/2022/world-cup-who-has-qualified-for-the-last-16-who-will-england-play-next-group-permutations-at-qatar-2_sto9242943/story.shtml'>
+        </a><a href='https://www.foxnews.com/sports/world-cup-2022-knockout-stage-bracket-brazil-switzerland-advance-group-g'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022: Who has qualified for the last 16? Who is in ...</h3>
+                <h3>World Cup 2022: Knockout stage bracket set after Brazil ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR0RYugUIUvi7U7Sap48SGSW653U4dftJHud9WzCr4Oyub3lKIYF5DDqSQEOlY6cnyaKJFCJM24" alt="World Cup 2022: Who has qualified for the last 16? Who is in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>GROUP B &middot; All four teams can still qualify &middot; England will be assured of advancing if they avoid defeat in their final group game against Wales. &middot; Iran and the&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSOt-qtJZp7ua8nG2-2L_GaEX5U067lm889f5qv9g4N7JwDAsmPOctlmb5q5MJTtOi5MoBu4R-Q" alt="World Cup 2022: Knockout stage bracket set after Brazil ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The knockout stage bracket is set after Group G finished its games on Friday. Brazil won the group, and Switzerland clinched the second spot with its win.</p></div>
             </div>
-        </a><a href='https://www.si.com/soccer/2022/11/25/fifa-world-cup-group-tiebreaker-rules-explained'>
+        </a><a href='https://www.football.london/international-football/world-cup-last-16-england-25664365'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FIFA World Cup Group Tiebreaker Rules Explained</h3>
+                <h3>Confirmed Qatar World Cup last-16 fixtures after final group games ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcThNTOeQdBy5OBzMVYav3KA_whBvL4LRqp95JUJ3CYMgeXSk40rP0pbtnOOy_5zSYhQFF123STK" alt="FIFA World Cup Group Tiebreaker Rules Explained" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The World Cup began on Nov. 20 when the 32 nations vying for international glory opened group stage action in Qatar.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSq55b-eHTreK5DCBWlqJAsftcctNexN6Fd6blzJkdxbf96iIAVjOtIb2-4x9AT3RxJTpJ88Dvu" alt="Confirmed Qatar World Cup last-16 fixtures after final group games ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The World Cup group stages have come to an end with a few shock results seeing some big teams exit the tournament earlier than expected as England progress&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.thescore.com/us_fed/news/2501728/amp'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>2022 World Cup bracket complete after riveting group stage drama</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTXKma3v-Xo99UZsdIO3PbPWi7mNUOzAiOEhem9-WktrPrN3a_LqQ8BukekmM9-FNUsL5BNtn_8" alt="2022 World Cup bracket complete after riveting group stage drama" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>MOSCOW, RUSSIA - JULY 15: General View of of the FIFA World Cup trophy. Robbie Jay Barratt - AMA / Getty Images Sport / Getty. Share on&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
