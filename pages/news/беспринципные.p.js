@@ -18,7 +18,7 @@ export default function Page() {
                 <h3>Совладелец «Уралхима» Дмитрий Мазепин сыграл самого себя ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSF6qINM-B8FnmUSv9-l0jxoDDDss9ofu7C11TGyStMssvXsSWmMERV0CCIP_Bbry33aWikbQ7I" alt="Совладелец «Уралхима» Дмитрий Мазепин сыграл самого себя ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Евгений Ухов редактор портала FILM.ru «Сейчас очень как-то говорить опасно на эту тему, учитывая различные дела о телеграмм-каналах, которые внезапно&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Евгений Ухов редактор портала Film.ru «Сейчас очень как-то говорить опасно на эту тему, учитывая различные дела о телеграм-каналах, которые внезапно оказываются&nbsp;...</p></div>
             </div>
         </a><a href='https://www.newsler.ru/culture/2022/12/02/dmitrij-mazepin-snyalsya-v-tretem-sezone-seriala-besprincipnye'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -27,12 +27,12 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSwqv2GV_AWCpXJdFD8Kpb3V0m6eY1rm6BUGZ2ZSVdp4_Cw_jEHN65o1npEup5jeBclM7fMExae" alt="Дмитрий и Никита Мазепины снялись в третьем сезоне сериала ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>В новом сезоне российского сериала снялся известный предприниматель, председатель совета директоров компании «Уралхим», а также бывший депутат Заксобрания&nbsp;...</p></div>
             </div>
-        </a><a href='https://ulpressa.ru/2022/12/02/%D0%B1%D0%B5%D1%81%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%BD%D1%8B%D0%B5-%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D1%8F%D1%8E%D1%82-%D0%B2%D0%BB%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5-%D0%BD/'>
+        </a><a href='https://gazeta-rybinsk.ru/2022/12/03/110364'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>«Беспринципные» расширяют влияние: новый сезон сериала ...</h3>
+                <h3>«Беспринципные» расширяют влияние | новости#</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSvd9COrZb-aOzP3TkJ_KFwMJuPBU0ygTuwM_S0RjC2bRRcCGNbDaZnhiWZhTc4lOAeTGlgTP21" alt="«Беспринципные» расширяют влияние: новый сезон сериала ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Премьера третьего сезона популярного комедийного сериала «Беспринципные» (18+) состоится 1 декабря 2022 года и впервые одновременно в трех&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS0iFMzSzqvIDPZ4guj6ROX8zIrhpXU7OhRRw-sknP53IYSk5LqB8ZGjpE6O6Vx0-g8AszFQiqV" alt="«Беспринципные» расширяют влияние | новости#" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Администратор. Новый сезон сериала покажут «Кинопоиск», START и Wink. Премьера третьего сезона популярного комедийного сериала «Беспринципные» состоится 1&nbsp;...</p></div>
             </div>
         </a><a href='https://momenty.org/people/18822'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -48,12 +48,12 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSAX83YXTDqyfIa-q1VS2Yx1-YFwDimJLuubDoiA_Kraw6kOVbLndNvTlLaObIQ7SUB_Zzq_kEc" alt="Новый сезон комедии «Беспринципные» вышел на Кинопоиске ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>1 декабря состялась премьера двух эпизодов сериала по мотивам рассказов Александра Цыпкина. Любимые герои в исполнении Павла Деревянко и Оксаны Акиньшиной…</p></div>
             </div>
-        </a><a href='https://vologda-poisk.ru/news/kultura/sostoyalas-premera-tretego-sezona-komediynogo-seriala-besprintsipnye'>
+        </a><a href='https://kirovpravda.ru/dmitriy-mazepin-s-synom-nikitoy-snyalis-v-seriale-besprintsipnye-18/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Состоялась премьера третьего сезона комедийного сериала ...</h3>
+                <h3>Дмитрий Мазепин с сыном Никитой снялись в сериале ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS40jNskyh_TfFLpGIIQUDZE3ki7r-hg4PT6bWh7X1E0OAiqyKKRQNRrmsDl0cglL6-A4pQglMH" alt="Состоялась премьера третьего сезона комедийного сериала ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В третьем сезоне к роли Славика, который откровенно рассказывает о забавных приключениях очень бог.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT6Q-AgLj3QIvdFM_HqbJVSMCHgY5isrStMXENLczO9ehocSyo_HcdUvAdBK4QovZ3-M-TcFk_6" alt="Дмитрий Мазепин с сыном Никитой снялись в сериале ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Известный миллиардер, связанный с Кировской областью, сыграл роль в фильме. Премьера третьего сезона комедийного сериала «Бе&nbsp;...</p></div>
             </div>
         </a><a href='https://pravda-nn.ru/news/novyj-sezon-seriala-besprintsipnye-pokazhut-kinopoisk-start-i-wink/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

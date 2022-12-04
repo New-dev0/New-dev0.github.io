@@ -46,7 +46,7 @@ export default function Page() {
                 <h3>Эдвард Сноуден получил российский паспорт и принял присягу</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSgWpGVvj0DHgubvHirSBy5HekQWdK429vRjBOzfuxA8u1NqFxx47Dqvg2j_FtDA1XMngY5buAb" alt="Эдвард Сноуден получил российский паспорт и принял присягу" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В октябре 2020 года Эдвард Сноуден получил бессрочный вид на жительство, а в сентябре 2022 года российское гражданство. Его точное местонахождение пока не&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>«Да, получил [паспорт]. Принял присягу», — сказал он. Адвокат добавил, что виделся со Сноуденом накануне и у него все хорошо. ▽ читать продолжение новости ▽.</p></div>
             </div>
         </a><a href='https://24tv.ua/edvard-snouden-otrimav-rosiyskiy-pasport_n2210246'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -54,13 +54,6 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRfuKNcQA92KlAgUzzoQnrjE2tW3GCM7fn96_MpWoVNFvpnWXG1WZyTrI-uk_U_m2sb0Ay1ABKy" alt="Повістка буде згодом: ексспівробітник Агентства нацбезпеки ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Колишній співробітник Агентства нацбезпеки США Едвард Сноуден отримав паспорт Росії. Його дружина також подала заяву на російський паспорт - 24 Канал.</p></div>
-            </div>
-        </a><a href='https://www.svoboda.org/a/snouden-prinyal-prisyagu-i-poluchil-rossiyskiy-pasport---advokat/32158780.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Сноуден принял присягу и получил российский паспорт – адвокат</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTmdDREi3m15hzI9nuK29DYwK5A-Ke30_qZ65SKPjakzkIPCUajmpp7F2-62EuP90KSJphcBZV6" alt="Сноуден принял присягу и получил российский паспорт – адвокат" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Remember when @Snowden promised to fight for truth and justice no matter where he lived? I wonder what the new Russian citizen has to say about these grotesque,&nbsp;...</p></div>
             </div>
         </a><a href='https://ru.espreso.tv/edvard-snouden-poluchil-pasport-grazhdanina-rossii-advokat'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -76,12 +69,19 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSLQiZT5Aq_z_y_mO-dFG99OfnQwz7g1QqnLmYiKPRFz8_gHuzEBcTy0K3mkO_ItqUGXR5SE0_M" alt="Экс‑агент ЦРУ Эдвард Сноуден получил российский паспорт" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Жена Сноудена находится в стадии подачи заявления на получение паспорта.</p></div>
             </div>
-        </a><a href='https://24tv.ua/ru/jedvard-snouden-poluchil-rossijskij-pasport-24-kanal_n2210268'>
+        </a><a href='https://news.obozrevatel.com/russia/eks-sotrudnik-tsru-snouden-poluchil-rossijskij-pasport-emu-v-ssha-grozit-tyuremnyij-srok.htm'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Повестка будет со временем: экссотрудник Агентства ...</h3>
+                <h3>Экс-сотрудник ЦРУ Сноуден получил российский паспорт: ему в ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRfuKNcQA92KlAgUzzoQnrjE2tW3GCM7fn96_MpWoVNFvpnWXG1WZyTrI-uk_U_m2sb0Ay1ABKy" alt="Повестка будет со временем: экссотрудник Агентства ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Бывший сотрудник Агентства национальной безопасности США Эдвард Сноуден получил паспорт России. Его жена также подала заявление на российский паспорт - 24&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTDEuo4cB6Hi9XP-7uCDGtI_JPFq1PfZ6Af2SnKunztvAhi2FOCZyZZw2_PwEgkAYuEYgc4muRN2w" alt="Экс-сотрудник ЦРУ Сноуден получил российский паспорт: ему в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>2,6 т. Только проверенная информация у нас в Telegram-канале Obozrevatel и в Viber . Не ведитесь на фейки!</p></div>
+            </div>
+        </a><a href='https://www.ukrinform.ua/rubric-world/3626327-snouden-otrimav-rosijskij-pasport.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Сноуден отримав російський паспорт</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRTI_Ckn3UlFuoJeF6RtqWqfoCznDsNuo7BCKd7Tr0K_eFHDdLdyBFROItKz1su7hIXIPSRNFs9" alt="Сноуден отримав російський паспорт" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Колишній співробітник Агентства національної безпеки США Едвард Сноуден одержав російський паспорт. Про це повідомляє ТАСС з посиланням на адвоката Анатолія&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

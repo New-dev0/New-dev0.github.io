@@ -27,12 +27,12 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSYOrrjxR23cDD3G5EvGDLNkU_CXYBIevcn1iPvN8AWl-PlzQc4N2Yhmlkr_hESRDXsjbA-CWio" alt="Южная Корея на 91-й минуте вырвала победу у Португалии и ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Результаты и видеообзоры матчей 3-го тура группового этапа чемпионата мира в группе Н 2 декабря - Южная Корея, забив Португалии на 91-й минуте,&nbsp;...</p></div>
             </div>
-        </a><a href='https://xsport.ua/ru/football_s/news/chm-2022-yuzhnaya-koreya-portugaliya-onlayn-translyatsiya_8738721/'>
+        </a><a href='https://www.ua-football.com/foreign/worldcup/1669934434-yuzhnaya-koreya-portugaliya-smotret-onlayn-live-pryamuyu-videotranslyaciyu-matcha-chm-2022.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Все главные события матча на XSPORT.ua</h3>
+                <h3>Южная Корея – Португалия. Смотреть онлайн LIVE прямую ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTPKgqJ_ZgHHiuZOXh3yFx7N-qZNq4ji51F1tCNf23rmwt0UmNzmjvH8CzR9AiKLB8uytRokq2B" alt="Все главные события матча на XSPORT.ua" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Южная Корея – Португалия. Смотрите онлайн трансляцию матча чемпионата мира 2 декабря 2022 года. Начало в 17:00 по Киеву.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRWN-NBaNbss-q9dxrayDC3lGhKsU06WDdqC5mzlnRnuCA5kn1dW9uSbkvktvB01T-0vIxTU1Su" alt="Южная Корея – Португалия. Смотреть онлайн LIVE прямую ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Южная Корея - Португалия ⚽ 02.12.2022 ⚽ Смотреть онлайн трансляцию матча ✓ ЧМ-2022 ✓ Футбольные видеотрансляции ☛ Матчи чемпионата мира 2022 на UA-Фут.</p></div>
             </div>
         </a><a href='https://www.sport-express.ru/football/world/2022/news/yuzhnaya-koreya-portugaliya-startovye-sostavy-komand-na-match-chm-2022-2-dekabrya-2022-goda-2006587/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -41,26 +41,19 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRZVzO-_9aAysfi6DWKT3gnDEg3ibuFunmgjz5tyPXnEq9nJJpSPqeAgmbHXpuE5P-ZDlDyqdEy" alt="Корея — Португалия: Роналду выйдет в стартовом составе ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Сборные Кореи и Португалии объявили составы на матч 3-го тура групповой стадии ЧМ-2022.</p></div>
             </div>
-        </a><a href='https://sport.ua/news/605965-yuzhnaya-koreya-portugaliya-bez-fernandesha-izvestny-startovye-sostavy-komand'>
+        </a><a href='https://sport.ua/news/605970-yuzhnaya-koreya-portugaliya-2-1-privet-pley-off-video-golov-i-obzor-matcha'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Южная Корея – Португалия. Без Фернандеша. Известны ...</h3>
+                <h3>Южная Корея – Португалия – 2:1. Привет, плей-офф. Видео ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQDIEbzvdyqptE9xBBsodMtQ3yDklFQonDYzyY5rYxrd6SNOdxOjgaohXXzkVSCdUdHFcDsGyBu" alt="Южная Корея – Португалия. Без Фернандеша. Известны ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В пятницу, 2 декабря, состоится матч 3-го тура ЧМ-2022 по футболу в группе H между сборными Южной Кореи и Португалии. Все самые яркие моменты матча доступны&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTSytQBUesz1v6zAolQ7DwR7fW-BWlt6LAJmjyPZxbPWtOj9hefgw7GNMQqhwthTFNWvNdyWJVJ" alt="Южная Корея – Португалия – 2:1. Привет, плей-офф. Видео ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Обзор и видео голов матча Южная Корея – Португалия ⇒ ≺02.12.2022≻ ✓ Чемпионат мира Футбольные видео ☛ Лучшие моменты матча, обзоры и&nbsp;...</p></div>
             </div>
-        </a><a href='https://sportarena.com/football/chempionat-mira-2022/yuzhnaya-koreya-portugaliya-onlajn-translyatsiya/'>
+        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1735301_Juzhnaja_Koreja__Portugalija_luchshije_momenty_matcha_ChM_2022_po_futbolu_2_dekabra_smotret_goly_i_obzor'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Южная Корея — Португалия 2:1 онлайн трансляция матча</h3>
+                <h3>Южная Корея — Португалия: лучшие моменты матча ЧМ-2022 по ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ9_auZoU32U5D97C3_p5OdbHYchasSojwBcXuK4pRkO2uitGcaOGWbuzqRhOm02w5IuMPSWuwg" alt="Южная Корея — Португалия 2:1 онлайн трансляция матча" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Южная Корея - Португалия Смотрите прямую онлайн трансляцию матча 1-го тура ЧМ-2022 Южная Корея - Португалия в прямом эфире ⚽️ Корея играет с&nbsp;...</p></div>
-            </div>
-        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1735156_Portugalija_obazana_obygryvat_Juzhnuju_Koreju_Ronaldu__lider_kotoryj_ne_dopustit_nichjej_ili_porazhenija__portugalskij_zhurnalist'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>«Португалия обязана обыгрывать Южную Корею. Роналду ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTMVg5lGXBbNW_6Q6fThKxm8eiiDRkTedlpnuIv8N9oBXGS5NFP_zQCMgKVsGx1xNH38lxisxvw" alt="«Португалия обязана обыгрывать Южную Корею. Роналду ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Сборная Португалии не потеряет очки в матче чемпионата мира с командой Южной Кореи благодаря своему лидеру Криштиану Роналду, считает португальский&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQCT9UnDKpCCRsZv31DnAVoEhnMmyNWoQ5rzWqURtLBWGQicfE7cB8FKMiGqIXMce-QxlgwZBc2" alt="Южная Корея — Португалия: лучшие моменты матча ЧМ-2022 по ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сборная Южной Кореи одержала волевую победу над Португалией в матче третьего тура чемпионата мира в Катаре со счетом 2:1.</p></div>
             </div>
         </a>
         </Template></>;

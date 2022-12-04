@@ -27,12 +27,12 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTYf4CQ9AAoyvAHWyca5U0WR2Hvb3WRuE_vwpPU4UHIVV97F9lupIMe9GnbbdoS-t6Aj7wcs3N2" alt="Match Report: Mumbai City FC 4-1 FC Goa" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>The influential Greg Stewart started alongside Apuia and Jahouh in midfield. Jorge Pereyra Diaz was leading the line for the Islanders. He was flanked by&nbsp;...</p></div>
             </div>
-        </a><a href='https://khelnow.com/football/2022-12-indian-football-isl-2022-23-mumbai-city-vs-fc-goa-player-ratings'>
+        </a><a href='https://khelnow.com/football/2022-12-indian-football-isl-2022-23-mumbai-city-vs-fc-goa-live-updates'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ratings: Jorge Pereyra Diaz brace helps Mumbai City outclass FC ...</h3>
+                <h3>ISL 2022-23: Mumbai City vs FC Goa Live Updates</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSsmCfEAwLcV-VKdbxnhZptt0zt-i9BcuNggNbhA6ybRuhDp7YT83_aEzZI7xvYWvVwmjloL8IH" alt="Ratings: Jorge Pereyra Diaz brace helps Mumbai City outclass FC ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A Jorge Pereyra Diaz brace helped Mumbai City to earn a scintillating win over FC Goa in the Indian Super League (ISL 2022-23).</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQBubSfv4AtSupcVHQ8LbhgMdN2PqZk3e3bbo7HPiUB6DueZ7Iu6YSBF0GKtQSyMTOHZG6JGw3h" alt="ISL 2022-23: Mumbai City vs FC Goa Live Updates" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Mumbai City vs FC Goa, ISL 2022-23: Follow the live action and match updates minute by minute here on Khel Now.</p></div>
             </div>
         </a><a href='https://www.indiansuperleague.com/news/our-mistakes-cost-us-the-game-fc-goa-head-coach-carlos-pena'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -41,12 +41,12 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSB5IxpLYrl6eUC_bwogC6exbps4RbXR8qRNNfG1u55R9iyjegux29l5_qNSHoTZyw9ZrkOozQ9" alt="Our mistakes cost us the game: FC Goa head coach Carlos Pena" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>FC Goa head coach Carlos Pena was left disappointed with his team&#39;s defensive mistakes as they went down 1-4 to Mumbai City FC in the Hero Indian Super&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.footballcounter.com/2022/fc-goa-go-down-to-mumbai-city/'>
+        </a><a href='https://www.thegoan.net/sports/%EF%BB%BFmumbai-city-hand-fc-goa-14-drubbing/92093.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FC Goa go down to Mumbai City - Football Counter</h3>
+                <h3>﻿Mumbai City hand FC Goa 1-4 drubbing</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRVsaZRYmo5_VcxIhFmCdhEj9o1SSlfWSqW3rXcTtWpW-1sxcNy5aOf0yx6ZmSYqxozZDjpqYum" alt="FC Goa go down to Mumbai City - Football Counter" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A brace by Jorge Pereyra Diaz and goals from Lallianzuala Chhangte and Alberto Noguera helped Mumbai City extend their unbeaten run in the Hero Indian Super&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRCbvVEpfyo0nGVcgfHcQktIzQUrzcjnOXSAHI6VLqXuDStzqqNEC-CZOiyj_9QsXxk5BXmrln6" alt="﻿Mumbai City hand FC Goa 1-4 drubbing" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A brace by Jorge Pereyra Diaz and goals from Lallianzuala Chhangte and Alberto Noguera helped Mumbai City extend their unbeaten run in the Indian Super League (&nbsp;...</p></div>
             </div>
         </a><a href='https://www.espn.in/football/report?gameId=653365'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

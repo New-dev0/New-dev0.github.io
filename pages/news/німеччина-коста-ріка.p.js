@@ -41,13 +41,6 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSJSmnNoaKt5LG9lV29H-96yCR1p9C8_oBFV5dIJHKku-fl0XHxkS6heC2NDfVMyBwchSrbx6Ou" alt="Німеччина перемогла Коста-Рику та вилетіла з ЧС-2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Результати та відеоогляди матчів 3-го туру у групі Е на чемпіонаті світу 1 грудня – Німеччина сенсаційно завершує виступ на мундіалі після групового етапу,&nbsp;...</p></div>
             </div>
-        </a><a href='https://football24.ua/starannya_nimtsiv_zabiti_desyat_myachiv_u_videooglyadi_matchu_kosta_rika__nimechchina__24_n749750/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Старання Бундестім забити десять м&#39;ячів у відеоогляді матчу ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTIncXO8_RhHXlRoATQIIEKglKvktlo9_hzQeIWCjz25stCpYlWp-MtKFIlbYwtLR_EKismjOj0" alt="Старання Бундестім забити десять м&#39;ячів у відеоогляді матчу ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Коста-Рика поступилася Німеччині у рамках 3-го туру групового етапу ЧС-2022. Дивіться відео голів та огляд матчу на &quot;Футбол 24&quot;. Новини футболу Футбол 24.</p></div>
-            </div>
         </a><a href='https://vesti.ua/uk/sport-uk/futbol-uk/kosta-rika-nimechchina-anons-prognoz-stavki-bukmekeriv-de-divitis-chs'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Коста-Ріка – Німеччина: анонс, прогноз, ставки букмекерів, де ...</h3>
@@ -55,12 +48,19 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRdLLLz3VJvQujqOL6TY97FleqvPGaQDIk1ejvIBVQySFPPR-n8818RZuhi4rP0GaiYG984lAl9" alt="Коста-Ріка – Німеччина: анонс, прогноз, ставки букмекерів, де ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Усі матчі ЧС-2022 в Україні транслює стримінговий сервіс Megogo та регіональні канали &quot;Суспільного&quot;. ЧМ-2022, анонс дня 1 декабря. vesti.ua.</p></div>
             </div>
-        </a><a href='https://ua.tribuna.com/uk/football/1000000028949-kostarika-germaniya-24-obzor-matcha-i-video-golov/'>
+        </a><a href='https://football24.ua/starannya_nimtsiv_zabiti_desyat_myachiv_u_videooglyadi_matchu_kosta_rika__nimechchina__24_n749750/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Коста-Ріка - Німеччина - 2:4: огляд матчу та відео голів</h3>
+                <h3>Старання Бундестім забити десять м&#39;ячів у відеоогляді матчу ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Коста-Ріка - Німеччина - 2:4: огляд матчу та відео голів" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Огляд матчу ЧС-2022 Коста-Ріка - Німеччина, 1 грудня.У третьому турі групи Е Коста-Ріка програла Німеччині (2:4).</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTIncXO8_RhHXlRoATQIIEKglKvktlo9_hzQeIWCjz25stCpYlWp-MtKFIlbYwtLR_EKismjOj0" alt="Старання Бундестім забити десять м&#39;ячів у відеоогляді матчу ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Коста-Рика поступилася Німеччині у рамках 3-го туру групового етапу ЧС-2022. Дивіться відео голів та огляд матчу на &quot;Футбол 24&quot;. Новини футболу Футбол 24.</p></div>
+            </div>
+        </a><a href='https://sportarena.com/uk/footboll/chempionat-svitu-2022/kosta-rika-nimechchina-pryama-translyatsiya-matchu/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Коста-Ріка – Німеччина пряма трансляція матчу MEGOGO</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSFtiKI26cIbKR1PR2hCb3A8D0kdWECGi0frLuNe8ms3Ivul87clN3UjcJnbhA5nqOr-h2evbUn" alt="Коста-Ріка – Німеччина пряма трансляція матчу MEGOGO" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>1 грудня в Ель-Хаурі на стадіоні Ель-Байт у матчі третього туру чемпіонату світу з футболу збірна Німеччини зіграє зі збірною Коста-Ріки. Початок матчу&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

@@ -20,6 +20,13 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTGI3D4qG248I3XUC2CB53Q0SeV9sV7DLuQVT2pWz7YRzlb0CTMrJ1TrDg3_8lmgrSt_5ty1VNU" alt="Troll Movie: Netflix&#39;s newest blockbuster" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Newly released Troll comes with its sizzling plot that has got movie fans in high spirits to see what Netflix has in store for their entertainment this&nbsp;...</p></div>
             </div>
+        </a><a href='https://www.digitalspy.com/movies/a42140357/netflix-movie-troll-rotten-tomatoes-score/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>New Netflix movie Troll gets strong Rotten Tomatoes score</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTWor347M80D9PYzCptOmClKhxjpRXtMwEFbAKuSMUJreB_PWvlCknv9y1au0kXC_3QrZDtYrOj" alt="New Netflix movie Troll gets strong Rotten Tomatoes score" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Netflix&#39;s new Norwegian monster movie Troll is out on streaming service worldwide now. The film, directed by Tomb Raider 2018&#39;s Roar Uthaug,&nbsp;...</p></div>
+            </div>
         </a><a href='https://indianexpress.com/article/entertainment/movie-review/troll-movie-review-netflix-norwegian-monster-film-roar-uthaug-8302228/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Troll movie review: Netflix&#39;s spectacular new monster film blends ...</h3>
@@ -34,19 +41,12 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTtSnhtG4R91q8daZJRXVNvqTmHE2Pdv36EnJ-NJisa-gBSmbCrYgb7do_CDbSEkTy0DRMXufQw" alt="&#39;Troll&#39; Ending, Explained: Did Nora Defeat The Monster? Did The ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>&quot;Troll&quot; is a movie meant for the big screen. It&#39;s a matter of shame that we are experiencing this gargantuan and masterful piece of cinema made by Roar&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.nationalworld.com/culture/film/netflix-troll-what-2022-film-about-trailer-cast-sequel-troll-hunter-3939499'>
+        </a><a href='https://www.purewow.com/entertainment/troll-netflix'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Netflix Troll: what is 2022 film about, trailer, cast - is it a sequel to ...</h3>
+                <h3>New Monster Drama &#39;Troll&#39; Has Become the #1 Movie on Netflix After ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSNeOz_gbceY4vxHFCmcUGVKtkrV_LjnJLq_8VhN94MAj0vQC2URJ4TBmcilZVOp2n_VHcLOueN" alt="Netflix Troll: what is 2022 film about, trailer, cast - is it a sequel to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Troll is a Norwegian-language Netflix original monster movie in the style of Godzilla and King Kong. The film was shot on location around Norway.</p></div>
-            </div>
-        </a><a href='https://www.whats-on-netflix.com/news/troll-director-and-producers-discuss-netflixs-big-new-monster-movie/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Troll&#39;: Director and Producers Discuss Netflix&#39;s Big New Monster Movie</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTxMsUPpNEPsVXyIOXxMKBmcGHHujfv1S5ox6C8HOOFzQmFhHLspeJbQJcfGk-1-zttbILkKHxn" alt="&#39;Troll&#39;: Director and Producers Discuss Netflix&#39;s Big New Monster Movie" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Christopher Meir: Can you start by telling us a bit about the inspiration for the film and about the long journey it took to get to our screens? Espen Horn: We&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRd_yrZTrvuW0CDC6P8yZ7soWgcCxfNavQKHgMOL878qQd4GG51qPWEj5kwdMjH0WioM1mjOsZU" alt="New Monster Drama &#39;Troll&#39; Has Become the #1 Movie on Netflix After ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>There&#39;s a brand-new movie on Netflix titled &#39;Troll,&#39; which follows a paleontologist trying to stop a newly-awakened troll from wreaking havoc on a Norwegian&nbsp;...</p></div>
             </div>
         </a><a href='https://bloody-disgusting.com/reviews/3742109/troll-review-netflix-kaiju-movie-is-slight-on-story-but-has-a-monster-sized-heart/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -55,12 +55,12 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQxBmF5nQ7vQ8KOX4QPbeun5buYwxQZlKNPMrP2wIlX9tWUF4bFgtTLNAbRiXAbTFXSe58UN7oI" alt="&#39;Troll&#39; Review – Netflix Kaiju Movie Is Slight on Story But Has a ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Troll is now streaming on Netflix, a brand new Kaiju movie from the director of slasher movie Cold Prey and the 2018 film Tomb Raider.</p></div>
             </div>
-        </a><a href='https://www.thereviewgeek.com/troll2022-moviereview/'>
+        </a><a href='https://www.voicesfromthebalcony.com/2022/12/02/troll-2022-review/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Troll (2022) Netflix Movie Review - A big, popcorn-munching thriller ...</h3>
+                <h3>Troll (2022) Review - Voices From The Balcony</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRP6s3ZpucqDCJccuZyBbXu2LKHZACq-Yuda65AD_IYKAyTroTsh_-Tu3N0RemU09aHIoGe3_dL" alt="Troll (2022) Netflix Movie Review - A big, popcorn-munching thriller ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Troll is still a fun movie. It&#39;s a big, popcorn-munching flick that&#39;s crying out for a cinema release in the height of summer. As it stands though,&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRP_rV_ADqFNBiIN0KljtFBHncRgX_vaEgJnuMX_QChEK8GVVmLIhee_2PodIQg8xyB3REynJTx" alt="Troll (2022) Review - Voices From The Balcony" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Troll opens with a young girl and her father rock climbing in the reputed home of Norway&#39;s trolls. When the girl professes her disbelief her father tells&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

@@ -11,21 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,The Callisto Protocol"/>
         <meta name="description" content="Trending News about The Callisto Protocol" /></Head><Template>
             <h1 style={{fontSize: "30"}}>The Callisto Protocol</h1>
-            <Image width={800} height={500} src="https://images.unian.net/photos/2022_08/thumb_files/620_324_1661323614-6142.jpg?1" alt="The Callisto Protocol"/>
+            <Image width={800} height={500} src="https://img.championat.com/news2/social/4/fb/4914969.jpg" alt="The Callisto Protocol"/>
             <h3>Recent News</h3>
-            <a href='https://www.unian.net/games/vyshel-horror-the-callisto-protocol-naslednik-dead-space-ocenki-ot-pressy-i-igrokov-12065052.html'>
+            <a href='https://www.championat.com/cybersport/news-4914969-the-callisto-protocol-dlya-pk-uzhe-chinyat-rejting-v-steam-rastyot.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Вышел хоррор The Callisto Protocol, наследник Dead Space ...</h3>
+                <h3>The Callisto Protocol для ПК уже чинят. Рейтинг в Steam растёт</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTtxim9ki8O7Ilh8O_yclWJKKHfgariLJjPIziYh999FjWmd8WKROb_O7SR9VXMYcBcSfkUbFvJ" alt="Вышел хоррор The Callisto Protocol, наследник Dead Space ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Сегодня, 2 декабря, вышел хоррор The Callisto Protocol, духовный наследник Dead Space. Журналисты приняли проект прохладно, а игроки и вовсе его разгромили.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTCZNl9nliRt1L6gsQVGVRP4KvOYpHO-3YJK-IdAdZe9wKmRG3U6T08vDykMbzox44pC9hDtEv8" alt="The Callisto Protocol для ПК уже чинят. Рейтинг в Steam растёт" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Студия Striking Distance выпустила для хоррора The Callisto Protocol патч. Он решает проблему с зависаниями и вылетами на ПК.</p></div>
             </div>
-        </a><a href='https://www.cybersport.ru/tags/games/avtory-the-callisto-protocol-priznali-problemy-pk-versii-igry-i-poobeshchali-vypustit-patch'>
+        </a><a href='https://www.ixbt.com/live/games/pervye-vpechatleniya-ot-the-callisto-protocol.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Авторы The Callisto Protocol признали проблемы ПК-версии игры ...</h3>
+                <h3>Первые впечатления от The Callisto Protocol / Компьютерные и ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT_VN4dYWHaJoqqMfIUVESw1kvC3zpQtbgbSRybuXi2oQGOFJFCQVapYa8GESyXuH9eKfeOUITp" alt="Авторы The Callisto Protocol признали проблемы ПК-версии игры ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>СтудияStriking Distance подтвердила наличие проблем с производительностьюThe Callisto Protocolна ПК. Сообщение разработчиков опубликовано в офиц...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTF22LvyztdiE7HjOXWTUq2757kcRFsneNLGziqRrfFOzJXIzc96wQU911ob7iiIQpajXQfFUyx" alt="Первые впечатления от The Callisto Protocol / Компьютерные и ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сижу играю, наслаждаюсь и вижу посыпались новости, что игра ужасна оптимизирована, отвратительно идёт на PC, не имеет трассировку на XBOX Series X и классно&nbsp;...</p></div>
+            </div>
+        </a><a href='https://shazoo.ru/2022/12/03/136176/na-pc-vysel-pervyi-patc-the-callisto-protocol-ispravliaiushhii-edinstvennuiu-problemu'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>На PC вышел первый патч The Callisto Protocol, исправляющий ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQB48j5mD6XlVBfILZnXQE5gX-kXzFa9NzJcDi_aAMvBbQP4bRyWje98V7Mg14KOKQsvf9U-9KS" alt="На PC вышел первый патч The Callisto Protocol, исправляющий ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Студия Striking Distance выпустила первый патч для PC-версии The Callisto Protocol, нацеленный на исправление проблемы с тормозами компиляции шейдеров.</p></div>
+            </div>
+        </a><a href='https://www.cybersport.ru/tags/games/dlia-pk-versii-the-callisto-protocol-vyshel-patch-s-ispravleniem-zavisanii-igry'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Для ПК-версии The Callisto Protocol вышел патч с исправлением ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQqfD761dTGBNiMJ6nxv4WL5-aHiJHcHlHMA7mmEfQi_qER-NbxJfrhpDY4VsA9vPcOmMuygYa0" alt="Для ПК-версии The Callisto Protocol вышел патч с исправлением ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>СтудияStriking Distance выпустила обновление дляThe Callisto Protocol на ПК, в котором исправила некоторые проблемы с производительностью игры. ...</p></div>
+            </div>
+        </a><a href='https://gamemag.ru/news/173766/first-pc-patch-the-callisto-protocol-fixes-shader-compilation-stutters'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>The Callisto Protocol получила патч на ПК с исправлением ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRoEZ3w5k6iBbOGj9YXzMrK7iCUpRGX5c59G44JIpHxhegvaLIfDPbdaPKXrBUWaEiQ_lNv0C_EVA" alt="The Callisto Protocol получила патч на ПК с исправлением ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Striking Distance Studios выпустила первый патч для ПК-версии хоррора The Callisto Protocol. Апдейт устранил проблему с сильными статтерами,&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.igromania.ru/news/121222/Sozdateli_The_Callisto_Protocol_uluchshili_optimizaciyu_PC-versii.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Создатели The Callisto Protocol улучшили оптимизацию PC-версии</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQfrJ6qn8N5d-dxi-URGcEKHTQAtQaASrfdLY05L9KRJkgZgT3XuxJ3XO-GZeBTorMuEWLLFq1r" alt="Создатели The Callisto Protocol улучшили оптимизацию PC-версии" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Студия Striking Distance объявила о выходе первого патча для РС-версии The Callisto Protocol. Он устраняет проблемы с зависаниями игрового процесса из-за&nbsp;...</p></div>
             </div>
         </a><a href='https://dtf.ru/hard/1480671-avtory-the-callisto-protocol-my-znaem-o-problemah-s-podtormazhivaniyami-na-pk-skoro-vyydet-patch'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -33,41 +61,6 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR-yZHKBLgB22K8npBaveiHlTTmAk-2jPI_E1BQKXH4oPMgGkCSkiKHCzNytHo7rNOqETY84wdO" alt="Авторы The Callisto Protocol: «Мы знаем о проблемах с ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>We&#39;re aware that some users are experiencing stuttering issues on the PC. We&#39;ve got a patch that will be available in a few hours to improve performance, with a&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.ixbt.com/live/games/nado-bylo-igru-nazvat-mertvaya-optimizaciya-u-the-callisto-protocol-22-polozhitelnyh-otzyvov-v-stim.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>«Надо было игру назвать Мёртвая Оптимизация» - у The Callisto ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQyoEFoP8cwYrt0SCGOM02Lephk_O4_-D_9F0dgg8Zj5Wa-DT3onA4SQv5RSj6BiQP0vPQmiAUO" alt="«Надо было игру назвать Мёртвая Оптимизация» - у The Callisto ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>До релиза The Callisto Protocol получила на Metacritic 75 баллов от различных игровых изданий. В основном игру ругали за плохую.</p></div>
-            </div>
-        </a><a href='https://www.overclockers.ua/news/games/2022-12-02/131846/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Проблемный релиз The Callisto Protocol и планы разработчиков ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSpjBBvgndkpn0Sx21jN10p7OSEwR-Ca34E__L6HStQLnDwLBlrX8xWG8j2xrXZ-i7NGTCnFebY" alt="Проблемный релиз The Callisto Protocol и планы разработчиков ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Вчера состоялся релиз хоррора The Callisto Protocol от создателя Dead Space Глена Скофилда. События игры развиваются в будущем, на космической тюрьме.</p></div>
-            </div>
-        </a><a href='https://games.24tv.ua/ru/razrabotchik-gorora-the-callisto-protocol-rasskazal-chto-cherpal-vdohnovenie-v-izvestnom-multfilme_n2208700'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Разработчик хоррора The Callisto Protocol рассказал, что черпал ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTO9-8uIk9_X6lQYWFj4IC3QmcD3FwnK-T1dD6N4J1PFwy42iPAow-_KRRUiqVlEqQAV__yFpvF" alt="Разработчик хоррора The Callisto Protocol рассказал, что черпал ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Вероятно, один из самых дружелюбных мультфильмов всех времен помог разработчику кровавого хоррора The Callisto Protocol в работе над рядом игровых элементов&nbsp;...</p></div>
-            </div>
-        </a><a href='https://shazoo.ru/2022/12/03/136169/razrabotciki-the-callisto-protocol-znaiut-o-problemax-pc-versii-i-skoro-vypustiat-patc'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Разработчики The Callisto Protocol знают о проблемах PC ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQeX1-CmaqdQpHsnEyb0WIMZwx-EV-jD-TlSdjMd-mERMmI7qihIJfBrHXHSLMApuoFEeiARn2O" alt="Разработчики The Callisto Protocol знают о проблемах PC ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Callisto Protocol вышла не без проблем. PC-версия тайтла оказалась в ужасном техническом состоянии, а геймеры буквально утопили хоррор в отрицательных&nbsp;...</p></div>
-            </div>
-        </a><a href='https://games.24tv.ua/rozrobnik-gororu-the-callisto-protocol-rozpoviv-shho-cherpav_n2208613'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Розробник горору The Callisto Protocol розповів, що черпав ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTO9-8uIk9_X6lQYWFj4IC3QmcD3FwnK-T1dD6N4J1PFwy42iPAow-_KRRUiqVlEqQAV__yFpvF" alt="Розробник горору The Callisto Protocol розповів, що черпав ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ймовірно, один із найбільш доброзичливих мультфільмів усіх часів допоміг розробнику кривавого горору The Callisto Protocol у роботі над низкою ігрових&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

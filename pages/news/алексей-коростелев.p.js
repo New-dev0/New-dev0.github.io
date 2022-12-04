@@ -31,8 +31,15 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>«Дождь» уволил журналиста Алексея Коростелева за фразу о ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ4snp_gXjJeQWL-Xkea3Rqc16CACNb7FKcvL5vqblbqGwuNWDeNqKbyoKX4tlXhgAeGJ14lgRc" alt="«Дождь» уволил журналиста Алексея Коростелева за фразу о ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRXDgxFqXEGVzPEIR_oU_GhYHwxpnADqfefK5UvEjV-RraAWfcPtNDNMFZ2TluRds9gF1aIiz7S" alt="«Дождь» уволил журналиста Алексея Коростелева за фразу о ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Руководство телеканала «Дождь» (признан иностранным агентом в РФ) уволило ведущего Алексея Коростелева. Накануне, 1 декабря, в эфире «Дождя» в выпуске&nbsp;...</p></div>
+            </div>
+        </a><a href='https://meduza.io/news/2022/12/03/dva-veduschih-dozhdya-ob-yavili-ob-uhode-s-telekanala-posle-uvolneniya-svoego-kollegi-alekseya-korosteleva'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Два ведущих «Дождя» объявили об уходе с телеканала после ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTQHr7ErsIWwp4Ts9BRQh7zgJDda3mVt2pCj2GoGrosxj3ig3pZXWEVAlN_zpXJdTyN-VwAKO8H" alt="Два ведущих «Дождя» объявили об уходе с телеканала после ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ведущие телеканала «Дождь» Маргарита Лютова (также сотрудничает с «Медузой») и Владимир Роменский объявили об уходе после того, как их коллега,&nbsp;...</p></div>
             </div>
         </a><a href='https://readovka.news/news/123382'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -41,26 +48,19 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQz2fvocaYqZJ9bT8jP5lULyy0RiewCnxAy-r7Pbl7myRzDU_jlF7y8DeJJfMlW2yE9OZ1igTXe" alt="Алексей Коростелев уволен с «Дождя» в прямом эфире после ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Ранее Readovka писала Журналист издания Bild призвал расследовать казнь бойцов ВС РФ боевиками ВСУЗа это его затравили в комментариях о том, что журналист&nbsp;...</p></div>
             </div>
+        </a><a href='https://www.the-village.ru/all-village/news/korostelev-uvolnenie'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Как отреагировали коллеги Алексея Коростелева на его ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRmEvcN-55mP8aGn9GK9LXxo46IEMZzpjgwEtYm0-lfOxmxmMs6ZUCpqLu70xilmh4Vieit2iT8" alt="Как отреагировали коллеги Алексея Коростелева на его ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Эксцентричная журналистика про наших людей и для наших людей — где бы мы ни оказались теперь. Получайте регулярные дайджесты The Village по событиям в Москве,&nbsp;...</p></div>
+            </div>
         </a><a href='https://news.ru/society/uvolennyj-zhurnalist-dozhdya-obyasnil-slova-o-podderzhke-mobilizovannyh/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Уволенный журналист «Дождя» объяснил слова о поддержке ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQqayIpo1EUi1vNxZVVwqtNEnJL98QjgNOxdqF0ye0WRHiUik1-iuxRySaUgvAnD-ZAD7quOVqi" alt="Уволенный журналист «Дождя» объяснил слова о поддержке ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Ведущий «Дождя» (СМИ, исполняющее функции иностранного агента) Коростелев назвал оговоркой слова о «помощи российским солдатам с элементарными удобствами».</p></div>
-            </div>
-        </a><a href='https://nv.ua/world/countries/korostelev-zayavil-v-efire-chto-telekanal-dozhd-pomogaet-armii-rf-video-poslednie-novosti-50288233.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ведущий Дождя заявил, что телеканал помогает армии РФ, его ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ2AhEt70kWAJz4rJf60gBL2y1sBnmgUyXXtnwUfC6sUT29NIsSvHwqIsJYD0Fc4f3BLms8ymHD" alt="Ведущий Дождя заявил, что телеканал помогает армии РФ, его ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ведущий Алексей Коростелев в эфире российского телеканала Дождь заявил, что телеканал помогает российской армии, его уволили.</p></div>
-            </div>
-        </a><a href='https://eadaily.com/ru/news/2022/12/02/vysokie-otnosheniya-vedushchego-dozhdya-uvolili-za-slova-o-pomoshchi-mobilizovannym'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Высокие отношения: ведущего «Дождя» уволили за слова о ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTS4P62AeQ6SjvLVQVKOo-TTAJAgkjYcpbmAI4cABjzXbib3pk7dehlZR-Sbn2GsWdmaDihAOYU" alt="Высокие отношения: ведущего «Дождя» уволили за слова о ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Телеканал «Дождь» (иностранное СМИ, признано в РФ иноагентом) уволил ведущего Алексея Коростелева после призыва о помощи мобилизованным военнослужащим&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

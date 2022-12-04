@@ -11,77 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Сербия – Швейцария"/>
         <meta name="description" content="Trending News about Сербия – Швейцария" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Сербия – Швейцария</h1>
-            <Image width={800} height={500} src="https://www.rbc.ua/static/img/s/k/skysports_breel_embolo_switzerland_5985123_1300x820.jpg" alt="Сербия – Швейцария"/>
+            <Image width={800} height={500} src="https://img.championat.com/news/social/7/14/4915245.jpg" alt="Сербия – Швейцария"/>
             <h3>Recent News</h3>
-            <a href='https://www.rbc.ua/ukr/news/zbirna-shveytsariyi-viborola-serbiyi-mistse-1670015154.html'>
+            <a href='https://www.championat.com/football/article-4915245-chempionat-mira-2022-serbiya-shvejcariya-politicheskie-zhesty-na-matche-v-katare-chto-grozit-komandam.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Сборная Швейцарии вырвала у Сербии место в плей-офф ...</h3>
+                <h3>Что не так с матчами Сербии и Швейцарии и кто виноват в ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRGPv2CwgGVnkzv2TwN1cpX8ML5sOFFl-t9msDwJmanJSWPJDV3-SBk1CWEkiEj6OuxKL2irfwc" alt="Сборная Швейцарии вырвала у Сербии место в плей-офф ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Швейцарские сборники завоевали путевку в 1/8 финала чемпионата мира 2022 года.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTW_0nFQjLKkevCikfe15SRkgW9B19-y9uB0HNs36_Necn_DcmQ6HZPIbJbu01eyxllCqQzsz3j" alt="Что не так с матчами Сербии и Швейцарии и кто виноват в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Без показа «орлов» вчера тоже не обошлось. Матч Швейцарии и Сербии обещал быть политическим с самого начала – сборные уже встречались на ЧМ в России, и тогда&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.championat.com/football/news-4914457-serbiya-shvejcariya-gol-frojlera-vyvel-shvejcarcev-vperyod.html'>
+        </a><a href='https://www.sport-express.ru/football/world/2022/reviews/chm-2022-serbiya-shveycariya-2-3-obzor-matcha-3-go-tura-gruppovogo-etapa-chempionata-mira-2-dekabrya-2022-2006804/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Сербия — Швейцария: гол Фройлера вывел швейцарцев вперёд</h3>
+                <h3>Сербия не заслужила плей-офф. Швейцария снова ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTudfIpSPl-FzVM3mTZFCoRtkoG_lr3QTykJsm3KVuGTnGsuUL1EhpvWhLyhrvr5vegKalxRTmX" alt="Сербия — Швейцария: гол Фройлера вывел швейцарцев вперёд" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Сегодня, 2 декабря, на стадионе «974» проходит матч 3-го тура группового этапа чемпионата мира, в котором встречаются соперники по группе G — сборные Сербии&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRvMnj0hHA7wq9OemYyY8XI4MMS2G69rC6kAh5Ca5BFyX6zprUDx3FAZfLRYXXNpDZme5Q2Z7dN" alt="Сербия не заслужила плей-офф. Швейцария снова ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Конечно, не о футболе. Мы и так смотрим самый политизированный чемпионат мира, а у Сербии со Швейцарией еще есть и относительно свежая скандальная история. Вы&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sport-express.ru/football/world/2022/online/chm-2022-smotret-translyacii-gana-urugvay-koreya-portugaliya-serbiya-shveycariya-kamerun-braziliya-onlayn-i-rezultaty-kto-vyigral-i-vyshel-v-pley-off-2-dekabrya-2006274/'>
+        </a><a href='https://sportrbc.ru/news/6389e5719a794769d78be4ff'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ЧМ-2022: Бразилия уступила Камеруну, Швейцария обошла ...</h3>
+                <h3>Сербия — Швейцария</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ0m4tYgVGCu9GIX4RB11ATsVQARf7pd2tuKlJy7TpUEac_WcjyuJVB58l0bPu1pyEfWpVbW3Cm" alt="ЧМ-2022: Бразилия уступила Камеруну, Швейцария обошла ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ЧМ 2022 по футболу, матчи 2 декабря: Гана — Уругвай, Корея — Португалия, Сербия — Швейцария, Камерун — Бразилия, где смотреть прямые трансляции матчей&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR8i43EN-wZsKjrzc52o3XdUeXPgKrw74g7ak7uR0JPPgkA4sZNYEiE637R5ZUYpumqWYhxLrxR" alt="Сербия — Швейцария" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сербам не удалось ничего показать в концовке, теперь в плей-офф сыграет Швейцария. 90+9. Швейцарец Шер получил желтую. Серб&nbsp;...</p></div>
             </div>
-        </a><a href='https://tsn.ua/prosport/shveycariya-u-vidovischniy-goloviy-perestrilci-vikinula-serbiyu-z-chs-2022-ta-viyshla-do-pleyof-2215132.html'>
+        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1735437_SeRBIJa__ShVeJCARIJa__11_MITROVICh_NA_26_J_MINUTe_SRAVNaL_SCheT_V_MATChe_ChM_2022_VIDeO'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Швейцарія у видовищній гольовій перестрілці викинула Сербію з ...</h3>
+                <h3>Сербия — Швейцария — 1:1. Митрович сравнял счет на 26-й ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQhdfXsUNHDwWZH8Va-MGfR07y8zMt4drsk1QIngjCJ3cVShcdMzWpLJlz9o0aC4LIWADRyXjy-" alt="Швейцарія у видовищній гольовій перестрілці викинула Сербію з ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Збірна Швейцарії перемогла команду Сербії в матчі 3-го туру групи G чемпіонату світу-2022 з футболу. Хрестоносці залишили балканців за бортом турніру,&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTXoy9om5HRSHh8fH7p9ag9zQVJUayAf0XcDTma7c0rppr8efZfs42pMJVwYJO1mYu-an85Aqtd" alt="Сербия — Швейцария — 1:1. Митрович сравнял счет на 26-й ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Нападающий сборной Сербии Александар Митрович сравнял счет в матче третьего тура группового раунда чемпионата мира‑2022 против команды Швейцарии.</p></div>
             </div>
-        </a><a href='https://football24.ua/ru/jarkij_krah_druzej_rossii_v_videoobzore_matcha_serbija__shvejcarija__23_n749901/'>
+        </a><a href='https://www.sportmk.ru/sports/2022/12/02/serbiya-shveycariya-prognoz-na-match-chempionata-mira-2-dekabrya-ot-olimpbet.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Яркий крах друзей России в видеообзоре матча Сербия ...</h3>
+                <h3>Сербия — Швейцария: прогноз на матч чемпионата мира 2 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ17_FnFv_MuiqmSEsuzySlKioC5J1tr7uvmiqsa0kYu98gJuE_Wrz0XpNkdvYqLos1J4iYUQF2" alt="Яркий крах друзей России в видеообзоре матча Сербия ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Сербия и Швейцария устроили перестрелку в матче 3-го тура чемпионата мира. Смотрите видео голов и обзор встречи. Новости футбола Футбол 24.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQG35FTA_kddOysIWIgtbPU_L6-gd5WWA15z7VjaiPwo7cmsQ_c1bF4YACNZnjkzJtit7bKQ7Cj" alt="Сербия — Швейцария: прогноз на матч чемпионата мира 2 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сербия ни разу не выходила в плей-офф ЧМ. В Катаре у сборной еще сохранились шансы на попадание в 1/8 финала, но для этого надо побеждать Швейцарию.</p></div>
             </div>
-        </a><a href='https://www.ua-football.com/foreign/worldcup/1670017282-nikogda-ne-byli-v-pley-of-i-seychas-ne-budut-serbiya-shveycariya-2-3-obzor-matcha-i-video-golov.html'>
+        </a><a href='https://www.sports.ru/football/1113897677-serbiya-shvejczariya-23-obzor-matcha-chempionata-mira-po-futbolu-02-12.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Никогда не были в плей-оф, и сейчас не будут. Сербия ...</h3>
+                <h3>Сербия — Швейцария — 2:3, обзор матча Чемпионата мира по ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQMqc9VFA95LEry4P5q4cjxZLCW4txKjEvniYjB5r9A7csg3qjxm55MyfD_GLO-JCaFUWRYAvbI" alt="Никогда не были в плей-оф, и сейчас не будут. Сербия ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Сербия - Швейцария ⋇ 02.12.2022 ⋇ Видео обзор голов и лучших моментов матча ⋙ ЧМ-2022 ☛ Счет матча ✓ Видео футбола ☛ Обзоры игр ☝ Интервью игроков,&nbsp;...</p></div>
-            </div>
-        </a><a href='https://espreso.tv/shveytsariya-vibila-serbiyu-z-chs-2022'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Швейцарія вибила Сербію з ЧС-2022</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ1gOsCLprT72X3qbr_KUy7VfNqH0P_-fRWU1Ct15-Gp7uTgT4u5ilHVv_dk0zodAaSl16X2wJJ" alt="Швейцарія вибила Сербію з ЧС-2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>У 3-му турі групового раунду ЧС-2022 збірна Швейцарії виявилась сильнішою за Сербію. Читайте більше тут.</p></div>
-            </div>
-        </a><a href='https://www.ua-football.com/ua/foreign/worldcup/1669935696-serbiya-shveycariya-divitisya-onlayn-live-pryamu-videotranslyaciyu-matchu-chs-2022.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Сербія – Швейцарія. Дивитися онлайн LIVE пряму ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT-sWXGeqS1IeG0aKBmr2HVyXPzU9DiGQOtXTQi7oy9uFdbHJTy-61svRvmQi3VBe2WlqWIeXb4" alt="Сербія – Швейцарія. Дивитися онлайн LIVE пряму ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Сербія - Швейцарія ⚽ 02.12.2022 ⚽ Дивитись онлайн трансляцію матчу ✓ ЧС-2022 ✓ Футбольні відеотрансляції ☛ Матчі чемпіонату світу 2022 на UA-</p></div>
-            </div>
-        </a><a href='https://football24.ua/yaskraviy_krah_druziv_rosiyi_u_videooglyadi_matchu_serbiya__shveytsariya__23_n749898/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Яскравий крах друзів Росії у відеоогляді матчу Сербія ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ17_FnFv_MuiqmSEsuzySlKioC5J1tr7uvmiqsa0kYu98gJuE_Wrz0XpNkdvYqLos1J4iYUQF2" alt="Яскравий крах друзів Росії у відеоогляді матчу Сербія ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Сербія та Швейцарія влаштували перестрілку у матчі 3 туру чемпіонату світу. Дивіться відео голів та огляд зустрічі. Новини футболу Футбол 24.</p></div>
-            </div>
-        </a><a href='https://sport.ua/news/606014-serbiya-shveytsariya-2-3-video-golov-i-obzor-matcha-obnovlyaetsya'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Сербия – Швейцария – 2:3. Швейцарцы вышли в плей-офф ЧМ ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcROxM-E7cK5q1eWVXupjvfv5eJNw-6bBCKY1-qGckYiIkRcggqbuEoBWDtUJtOAli1RKKPwvHvO" alt="Сербия – Швейцария – 2:3. Швейцарцы вышли в плей-офф ЧМ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Обзор и видео голов матча Сербия – Швейцария ⇒ ≺02.12.2022≻ ✓ Чемпионат мира Футбольные видео ☛ Лучшие моменты матча, обзоры и комментарии&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSYteyTnIT9KRaxSNNZo3BuaqGisk6KBNsjLXA_cqo7M0ZguC50Bl9FjogaXOTc_aIJo9v23pGG" alt="Сербия — Швейцария — 2:3, обзор матча Чемпионата мира по ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>2 декабря сборные Сербии и Швейцарии на стадионе «Рас Абу Абуд» в столице Катара Дохе в решающем поединке выясняли, кому достанется вторая после бразильцев&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

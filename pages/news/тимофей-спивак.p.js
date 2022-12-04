@@ -27,19 +27,19 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRiD5JlHnRQdCEaf-6EM5D3SKBK4l-8eypKar3Lyi3lQ6y8HO_4MTPjGJbjP1Iear641n9vf7Pf" alt="Ушел из жизни актер и режиссер Тимофей Спивак - Аргументы ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>В Москве 30 ноября ушел из жизни актер театра и кино, кинорежиссер, сценарист Тимофей Спивак. О смерти артиста сообщила его дочь и коллега Марьяна Спивак.</p></div>
             </div>
-        </a><a href='https://moika78.ru/news/2022-12-01/832580-akter-teatra-kino-i-dublyazha-timofej-spivak-umer-v-vozraste-75-let/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Актер театра, кино и дубляжа Тимофей Спивак умер в возрасте ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQon0dSshdxrvri5XIoITankRlGMXNSLNYnNpPcd4CSTAaY3DC0Waxocmgfqp6qHO51rWzEkQrE" alt="Актер театра, кино и дубляжа Тимофей Спивак умер в возрасте ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Советский и российский актер театра и кино Тимофей Спивак ушел из жизни в 75 лет. Он скончался в среду, 30 ноября. О смерти артиста сообщила его дочь&nbsp;...</p></div>
-            </div>
         </a><a href='https://life.ru/p/1542692'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Ушёл из жизни актёр &quot;Прощания славянки&quot; и &quot;Эпидемии ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcShB0hZwJockqlr4LC3RNEf83Uo02Tk4yi2b_vggvPsKnxDbekzAJ0lrkfrkpRCFW-zV76H1Bcn" alt="Ушёл из жизни актёр &quot;Прощания славянки&quot; и &quot;Эпидемии ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Ушёл из жизни российский актёр театра и кино, режиссёр, сценарист Тимофей Спивак. Об этом в социальных сетях сообщила его дочь, известная актриса Марьяна&nbsp;...</p></div>
+            </div>
+        </a><a href='https://moika78.ru/news/2022-12-01/832580-akter-teatra-kino-i-dublyazha-timofej-spivak-umer-v-vozraste-75-let/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Актер театра, кино и дубляжа Тимофей Спивак умер в возрасте ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQon0dSshdxrvri5XIoITankRlGMXNSLNYnNpPcd4CSTAaY3DC0Waxocmgfqp6qHO51rWzEkQrE" alt="Актер театра, кино и дубляжа Тимофей Спивак умер в возрасте ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Советский и российский актер театра и кино Тимофей Спивак ушел из жизни в 75 лет. Он скончался в среду, 30 ноября. О смерти артиста сообщила его дочь&nbsp;...</p></div>
             </div>
         </a><a href='https://rtvi.com/news/akter-kino-i-dublyazha-timofej-spivak-umer-v-vozraste-75-let/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

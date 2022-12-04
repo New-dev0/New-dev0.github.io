@@ -11,21 +11,28 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Bassey Albert"/>
         <meta name="description" content="Trending News about Bassey Albert" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Bassey Albert</h1>
-            <Image width={800} height={500} src="https://media.premiumtimesng.com/wp-content/files/2018/08/Senator-Bassey-Albert-e1544638681298.jpg" alt="Bassey Albert"/>
+            <Image width={800} height={500} src="" alt="Bassey Albert"/>
             <h3>Recent News</h3>
-            <a href='https://www.premiumtimesng.com/news/headlines/568487-court-jails-ex-akwa-ibom-finance-commissioner-42-years-for-corruption.html'>
+            <a href='https://saharareporters.com/2022/12/02/ypp-governorship-candidate-akwa-ibom-senator-bassey-albert-jailed-42-years-graft-money'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>YPP Governorship Candidate In Akwa Ibom, Senator Bassey Albert ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcROLLpNoEvGr4lfsPx7sGGe_Xf5F_M3_QBOJdVzn8jg5q0Rnj2vXGqn5CkuZwxNMs3PPlfpzT0e" alt="YPP Governorship Candidate In Akwa Ibom, Senator Bassey Albert ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A Federal High Court in Uyo, Akwa Ibom State capital has sentenced the governorship candidate of the Young Progressives Party (YPP), Senator Bassey Albert&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.premiumtimesng.com/news/headlines/568487-court-jails-ex-akwa-ibom-finance-commissioner-42-years-for-corruption.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>UPDATED: Court jails ex-Akwa Ibom finance commissioner 42 years ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQxGegLGlaTNU4onlMWLoKIXj9HCviU5jcHKs_qF0p5Bkx05vQf_WGwJKn4I84O5rkpUGKsdbqM" alt="UPDATED: Court jails ex-Akwa Ibom finance commissioner 42 years ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>The Federal High Court in Uyo, Akwa Ibom State, on Thursday convicted and sentenced a former Akwa Ibom State Commissioner for Finance, Bassey Albert,&nbsp;...</p></div>
             </div>
-        </a><a href='https://saharareporters.com/2022/12/02/ypp-governorship-candidate-akwa-ibom-senator-bassey-albert-jailed-42-years-graft-money'>
+        </a><a href='https://www.vanguardngr.com/2022/12/count-me-out-of-sen-akpans-ordeal-with-efcc-akpabio/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>YPP Governorship Candidate In Akwa Ibom, Senator Bassey Albert ...</h3>
+                <h3>Count me out of Sen Akpan&#39;s ordeal with EFCC - Akpabio</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcROLLpNoEvGr4lfsPx7sGGe_Xf5F_M3_QBOJdVzn8jg5q0Rnj2vXGqn5CkuZwxNMs3PPlfpzT0e" alt="YPP Governorship Candidate In Akwa Ibom, Senator Bassey Albert ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A Federal High Court in Uyo, Akwa Ibom State capital has sentenced the governorship candidate of the Young Progressives Party (YPP), Senator Bassey Albert&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTGWTn0uiDNQnYCA-a3qdnawhLeccSuEtjuixjcW9OO3ygs9ukLecyT0J591Za9UTNY7MyyUs5v" alt="Count me out of Sen Akpan&#39;s ordeal with EFCC - Akpabio" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Senator Godswill Akpabio has described as preposterous and laughable failed attempts by some paid agents of some politicians in Akwa Ibom State to drag him&nbsp;...</p></div>
             </div>
         </a><a href='https://punchng.com/no-political-coloration-to-aibom-ypp-gov-judgment/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -33,13 +40,6 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT1x-B_eoxbLmO5C0ObgEDGgypLy4_FXsd_p79U2EhGoGM8ft5N9jh_3ciZ9_IEonR95aNSa65w" alt="&#39;No political coloration to A&#39;Ibom YPP gov judgment&#39;" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>A group under the auspices of Liberated People for Transparency and Good Representation Forum in Akwa Ibom State, has debunked speculations in some quarters&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.vanguardngr.com/2022/12/court-jails-senator-akpan-42-years-for-corruption/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Court jails Senator Akpan 42 years for corruption</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQCca7cknyiFESlh4HWXLuN7RykwZxQ2vUTtCkgpWf10lMrIGZMjifSiXHHccTkn-b4uMgletf9" alt="Court jails Senator Akpan 42 years for corruption" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>By Harris Emanuel &amp; Chioma Onuegbu. UYO—The Federal High Court sitting in Uyo, Akwa Ibom State has sentenced the senator representing Uyo senatorial&nbsp;...</p></div>
             </div>
         </a><a href='https://www.sunnewsonline.com/ypp-governorship-candidate-in-aibom-sen-bassey-albert-sentenced-to-42-yr-jail-term-for-corruption/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

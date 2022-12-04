@@ -11,56 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Кейт Миддлтон"/>
         <meta name="description" content="Trending News about Кейт Миддлтон" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Кейт Миддлтон</h1>
-            <Image width={800} height={500} src="https://focus.ua/static/storage/thumbs/1200x630/f/e3/1c4a11ae-aa03efc4aac9bbb007add804caa20e3f.jpg?v=8787_1" alt="Кейт Миддлтон"/>
+            <Image width={800} height={500} src="https://n1s2.hsmedia.ru/fa/99/49/fa9949bede4e68a866a94ee742ebf1be/1200x630_0xac120003_5256008521670061226.png" alt="Кейт Миддлтон"/>
             <h3>Recent News</h3>
-            <a href='https://focus.ua/uk/lifestyle/538517-keyt-middlton-rasskazala-kakie-metody-vospitania-perenyala-u-sobstvennyh-roditeley'>
+            <a href='https://www.starhit.ru/style/vyvela-zelenyi-v-trendy-keit-middlton-nadela-izumrudy-pod-plate-ottenka-sochnoi-travy-852943/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Кейт Міддлтон розповіла, які методи виховання перейняла у ...</h3>
+                <h3>Вывела зеленый в тренды: Кейт Миддлтон надела изумруды ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTedNZrsb8Hn44g9BgQJc1KzpYa9gV2M9zHsZfd4ykyBKXtGYBIQwPYLCJ20MnMsk8SyT-ZuYPy" alt="Кейт Міддлтон розповіла, які методи виховання перейняла у ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Кейт Міддлтон та принц Вільям виховують трьох спадкоємців — принца Джорджа, принцесу Шарлотту та принца Луї.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRUnqMkNItpSMDDvoDndFmsfMtEgPtuRPMED7X4lMjzCwHs9BejKIhxjI7utCdfIEKKQRpe2D7_" alt="Вывела зеленый в тренды: Кейт Миддлтон надела изумруды ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Принц Уильям и его очаровательная супруга стали почетными гостями премии Earthshot Prize 2022 в рамках официального визита в США.</p></div>
             </div>
-        </a><a href='https://focus.ua/lifestyle/538517-keyt-middlton-rasskazala-kakie-metody-vospitaniya-perenyala-u-sobstvennyh-roditeley'>
+        </a><a href='https://spletnik.ru/303600'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Кейт Миддлтон рассказала, какие методы воспитания переняла ...</h3>
+                <h3>Кейт Миддлтон и принц Уильям посетили премию Earthshot Prize ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTedNZrsb8Hn44g9BgQJc1KzpYa9gV2M9zHsZfd4ykyBKXtGYBIQwPYLCJ20MnMsk8SyT-ZuYPy" alt="Кейт Миддлтон рассказала, какие методы воспитания переняла ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Кейт Миддлтон и принц Уильям воспитывают трех наследников — принца Джорджа, принцессу Шарлотту и принца Луи.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTldw1sEgImoe4Obv629SZN74KoEYcv8ioU9YrA_WkiB88eW2AdYu3onaPLrOrz7dTd6sPEv-31" alt="Кейт Миддлтон и принц Уильям посетили премию Earthshot Prize ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>На ней были аквамариновое платье с открытыми плечами Solace London и комплект украшений, который очень любила Диана — серьги и колье-чокер королевы Марии I,&nbsp;...</p></div>
             </div>
-        </a><a href='https://ua.korrespondent.net/lifestyle/4538598-keit-middlton-podilylasia-metodamy-vykhovannia-ditei'>
+        </a><a href='https://focus.ua/lifestyle/539475-arendovannoe-plate-i-kole-princessy-diany-keyt-middlton-porazila-publiku-novym-obrazom'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Кейт Міддлтон поділилася методами виховання дітей</h3>
+                <h3>Арендованное платье и колье принцессы Дианы. Кейт Миддлтон ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTJEvBsEYKlKLVUvv-EcoyVHQLp-0B6apnKs17nc9OtihViB2l1pIUYN7e2zzdPiz3E7_DU6MBA" alt="Кейт Міддлтон поділилася методами виховання дітей" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Вона виховує трьох спадкоємців королівської родини. Деякі методи принцеса перейняла від своїх батьків.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSfAe6umnYpRpDWubmXp8T1Mc1-GvXiIDLAxfiaSwrJxZ2WccHe1nC2BSKwUnH_87hjGD3GNJUA" alt="Арендованное платье и колье принцессы Дианы. Кейт Миддлтон ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Аренда платья обошлась принцессе Уэльской в 90 долларов, а сам наряд стоит 525 долларов.</p></div>
             </div>
-        </a><a href='https://focus.ua/uk/lifestyle/538511-koroleva-belgii-matilda-skopirovala-obraz-keyt-middlton'>
+        </a><a href='https://www.marieclaire.ru/vestnik/konfuz-po-amerikanski-zelenoe-plate-keit-middlton-stalo-memom/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Королева Бельгії Матильда скопіювала образ Кейт Міддлтон</h3>
+                <h3>Конфуз по-американски: зеленое платье Кейт Миддлтон стало ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSizhhE9vsolI9PTvNVTVVhYE1Ncn3_kC43SEwzHnABu7B03u5OuA3Xh4h4J_N2-TX7e9XTQNtm" alt="Королева Бельгії Матильда скопіювала образ Кейт Міддлтон" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Королева Бельгії з&#39;явилася на офіційному прийомі у білій сукні з кейпом.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSfmjs-W9ThYWj2fowj-52Y3818V6aEj8BxKHrjb0W_864GFzwpcuDrL-7gE7iOe7mduTeONkpA" alt="Конфуз по-американски: зеленое платье Кейт Миддлтон стало ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Новый выход Уэльской неожиданно стал объектом для насмешек в соцсетях. | MARIECLAIRE.</p></div>
             </div>
-        </a><a href='https://focus.ua/uk/lifestyle/538462-u-keyt-middlton-poyavilos-novoe-lyubimoe-ukrashenie'>
+        </a><a href='https://showbiz.24tv.ua/ru/kejt-middlton-ssha-zelenom-plate-foto-princem-uiljamom-showbiz_n2210575'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>У Кейт Міддлтон з&#39;явилася нова улюблена прикраса</h3>
+                <h3>В зеленом платье и из колье принцессы Дианы: Кейт Миддлтон ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQn6zhBib8d3IleCrokWf7qJIcNi3ABU2-BSAaXeKSNgnrbu99NaBWLEFfvIMoT30RVGoNm8RXp" alt="У Кейт Міддлтон з&#39;явилася нова улюблена прикраса" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Брошка в стилі ар-деко за 14 500 фунтів стерлінгів була зроблена ювелірним будинком Bentley &amp; Skinner. Вважається, що Кейт отримала брошку в подарунок на своє&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTzOClCSY9bEuYpbzdR_A3038vDrT3usubizIfFC0X2_dXj0D4wb0dBMnDOwxG9y663TFNO3x8h" alt="В зеленом платье и из колье принцессы Дианы: Кейт Миддлтон ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Принц и принцесса Уэльски впервые за 8 лет прилетели в США. Там Уильям вручил премию The Earthshot Prize 2022. На события его жена поразила элегантностью.</p></div>
             </div>
-        </a><a href='https://korrespondent.net/lifestyle/4538598-keit-myddlton-podelylas-metodamy-vospytanyia-detei'>
+        </a><a href='https://www.eg.ru/showbusiness/2799922-goryachiy-poceluy-middlton-poymali-s-tatuirovannym-krasavcem/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Кейт Миддлтон поделилась методами воспитания детей</h3>
+                <h3>Горячий поцелуй: Миддлтон поймали с татуированным ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTJEvBsEYKlKLVUvv-EcoyVHQLp-0B6apnKs17nc9OtihViB2l1pIUYN7e2zzdPiz3E7_DU6MBA" alt="Кейт Миддлтон поделилась методами воспитания детей" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Она воспитывает троих наследников королевской семьи. Некоторые методы принцесса переняла у своих родителей.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRpKmoK5_4rfdG7S02IyLJ_GwSAfNXopIpdkDkOEjSJ7igl7hsKLM8M-5-1qjHabn8VIK2-tr35" alt="Горячий поцелуй: Миддлтон поймали с татуированным ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Камера запечатлела, как Кейт Миддлтон нежно касалась чужого мужчины. Супруга принца Уильяма не скрывала эмоций.</p></div>
             </div>
-        </a><a href='https://www.kiz.ru/content/sekrety-zvezd/mne-povezlo-s-semey-keyt-middlton-perechislila-kak-roditeli-delali-ee-detstvo-schastlivym/'>
+        </a><a href='https://www.starslife.ru/2022/12/03/kejt-middlton-v-izumrudnom-kole-chokere-princessy-diany/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>«Мне повезло с семьей»: Кейт Миддлтон перечислила, как ...</h3>
+                <h3>Кейт Миддлтон в изумрудном колье-чокере принцессы Дианы</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="«Мне повезло с семьей»: Кейт Миддлтон перечислила, как ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Жена принца Уильяма не скрывает, что в плане воспитания детей она часто советуется с собственной матерью. Уэльская убеждена: если ей удалось вырасти&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRzOgkhAwCf4a7LB3Lzz5tHvTWSullwkY83t0PAxjUyxsIq1Sk9qtlx8dsearunfn1__3hdECgH" alt="Кейт Миддлтон в изумрудном колье-чокере принцессы Дианы" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Принц Уильям и Кейт Миддлтон вместе со многими знаменитостями посетили церемонию вручения премии Earthshot Prize Awards в MGM Music Hall в Бостоне,&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

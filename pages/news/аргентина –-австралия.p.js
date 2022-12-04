@@ -11,49 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Аргентина – Австралия"/>
         <meta name="description" content="Trending News about Аргентина – Австралия" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Аргентина – Австралия</h1>
-            <Image width={800} height={500} src="https://ss.sport-express.ru/userfiles/materials/184/1842663/large.jpg" alt="Аргентина – Австралия"/>
+            <Image width={800} height={500} src="https://img.championat.com/news2/social/8/41/4915587.jpg" alt="Аргентина – Австралия"/>
             <h3>Recent News</h3>
-            <a href='https://www.sport-express.ru/stavki-na-sport/reviews/argentina-avstraliya-prognoz-i-stavka-na-match-chempionata-mira-po-futbolu-3-dekabrya-2022-goda-2006150/'>
+            <a href='https://www.championat.com/football/news-4915587-argentina-avstraliya-startovye-sostavy-komand-na-match-1-8-finala-chm-2022.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Аргентина — Австралия: Месси и Ко уверенно влетят в ...</h3>
+                <h3>Аргентина — Австралия: стартовые составы команд на матч 1/8 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcThVABphu9dFvy8t24-YkP28UcnoAW9Us77PSxM5JE456ytkF77ynm_ZpRi7Gp2bqRtTfjBdrXl" alt="Аргентина — Австралия: Месси и Ко уверенно влетят в ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Прогноз на матч Аргентина — Австралия в рамках чемпионата мира по футболу 3 декабря 2022 года в Катаре.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQZOuAFAOkSc2xvgrDMCeMFbQm7RLDGokQr8PYd5JMRFRp4Xo9Xzfl8v8ZRLEgQ8IcUETPjG2SS" alt="Аргентина — Австралия: стартовые составы команд на матч 1/8 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сегодня, 3 декабря, состоится матч 1/8 финала чемпионата мира, в котором встретятся сборные Аргентины и Австралии. Команды сыграют на стадионе «Ахмед бин&nbsp;...</p></div>
             </div>
-        </a><a href='https://eurostavka.ru/news/football/argentina-avstraliya-prognoz-stavki-i-koeffitsienty-bukmekerov-na-1-8-chm-2022'>
+        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1735982_ARGeNTINA__AVSTRALIJa__10_LIONeL_MeSSI_NA_35_J_MINUTe_VYVeL_ARGeNTINCeV_VPeReD_V_MATChe_1_8_FINALA_ChM_2022_VIDeO'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Аргентина – Австралия: прогноз, ставки и коэффициенты ...</h3>
+                <h3>Аргентина — Австралия — 1:0. Лионель Месси открыл счет на ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRQOOoC0ZLcsuJtMEC56853seYnlOGDjB-IfX_Cmdf0RbRZbvu6Mw4CbmIqgiZ10o0WGzv9IOyN" alt="Аргентина – Австралия: прогноз, ставки и коэффициенты ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Аргентинцы считались фаворитом ЧМ, но начали турнир с сенсационного слива Саудовской Аравии (1:2), прервав серию без поражений из 36 матчей.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTdZCvyATlHZcthpmwopUfOLhg7lL1Lzqy6AtC_WwtMPEHPekVhvX7CjwUlMapj0xmY6QWdNsMu" alt="Аргентина — Австралия — 1:0. Лионель Месси открыл счет на ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Нападающий сборной Аргентины Лионель Месси открыл счет в матче 1/8 финала чемпионата мира‑2022 с командой Австралии.</p></div>
             </div>
-        </a><a href='https://www.vseprosport.ru/news/2022/12/02/argentina-avstralija-prognoz-kf-3-79-na-match-chempionata-mira-3-dekabrja-2022-goda'>
+        </a><a href='https://sportrbc.ru/news/638b08ff9a79473022ae1a62'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Аргентина — Австралия: прогноз на матч Чемпионата мира</h3>
+                <h3>Аргентина — Австралия</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ2imvlTq2ox_k0tf5Np_dhdmuOM_FWlLdVZNg2jei_saIBvibOL_0rcXEqoMGobBZ7XZ2b6uZ-" alt="Аргентина — Австралия: прогноз на матч Чемпионата мира" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Аргентина — Австралия. Прогноз (кф 3.79) на матч Чемпионата мира (3 декабря 2022 года). Аргентина. Аргентина. Чемпионат Мира. Плей-офф. 03.12.2022.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQeOjzLsD8FU_Uv9-p_CHy2UiJp-iT-DxyNorTEFvTptcH6DS4h6H67QQsu9-ErxjTfYSt9eCRW" alt="Аргентина — Австралия" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Финальный свисток! Поздравляем сборную Аргентины с выходом в 1/4 финала, где аргентинцы встретятся с командой Нидерландов.</p></div>
             </div>
-        </a><a href='https://www.championat.com/bets/news-4913773-argentina-avstraliya-vo-skolko-nachalo-translyacii-gde-smotret-match-1-8-finala-chm-2022.html'>
+        </a><a href='https://www.sports.ru/football/1113878840-argentina-avstraliya-startovye-sostavy-komand-na-match-chempionata-mir.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Аргентина — Австралия: во сколько начало трансляции, где ...</h3>
+                <h3>Аргентина — Австралия: стартовые составы команд на матч ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQLPP3uQcvouTP98rz1HCIp0mJoElt_MBfuhndZMsrnbxwSV6tRJ0uqjJB82mlfeVsLR_CFhVio" alt="Аргентина — Австралия: во сколько начало трансляции, где ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>3 декабря на ЧМ-2022 по футболу в матче 1/8 финала встретятся сборные Аргентины и Австралии. Начало игры — в 22:00 мск. В прямом эфире эту встречу на&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQN6ws4_uYydWWUScEzKXfJq4NlUbWjFSvs0_psDVrG_YZgu7w0JvQoKPamTqWufmxyPbCjObj8" alt="Аргентина — Австралия: стартовые составы команд на матч ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Аргентина: Мартинес – Молина, Отаменди, Ромеро, Акунья – Де Поль, Мак Аллистер, Фернандес – Гомес, Месси, Альварес. Австралия: Райан – Дегенек, Суттар, Роулз,&nbsp;...</p></div>
             </div>
-        </a><a href='https://sport24.ru/news/football/2022-12-02-argentina-avstraliya-prognoz-i-stavka-na-match-chm-2022-3dekabrya-ot-aleksandra-mostovogo'>
+        </a><a href='https://www.sport-express.ru/football/world/2022/reviews/chm-2022-argentina-avstraliya-kak-sbornaya-avstralii-vyhodila-v-pley-off-na-chm-2006-2006937/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>«Им ничего не светит». Мостовой предсказал итог матча ...</h3>
+                <h3>«Чтобы быть конкурентоспособными, вы должны страдать». Как ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRARpKji6IvCodbDYmsZSFawKGrpCq6oJ5bnuKR6JWhCxSYPy1JxCtfHcLnk4xjUiTcCZcodnn1" alt="«Им ничего не светит». Мостовой предсказал итог матча ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Самые свежие новости российского и мирового спорта только на сайте Sport24.ru! Интервью со спортсменами, онлайн трансляции, аналитика и прогнозы,&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRkA6rNyrJrfKpusa3T26r2NTi5AQyP3OCwkeiVbtw_zelH766f8p2djTp5sm8T9WR59m0M2q0u" alt="«Чтобы быть конкурентоспособными, вы должны страдать». Как ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Проиграли только будущим чемпионам мира. Чемпионат мира. 1/8 финала 03 дек, 22:00. Ahmad bin Ali Stadium (Эр-Райян).</p></div>
             </div>
-        </a><a href='https://www.sports.ru/football/1113803103-argentina-avstraliya-03-122022-koefficzienty-bukmekerov-na-match-chemp.html'>
+        </a><a href='https://matchtv.ru/football/matchtvnews_NI1735676_Argentina__Avstralija_gde_smotret_pramuju_translaciju_matcha_3_dekabra_ChM_2022_po_futbolu'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Аргентина — Австралия, 03.12.2022: коэффициенты букмекеров ...</h3>
+                <h3>Аргентина — Австралия: где смотреть прямую трансляцию ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSgAhTD5eF26p-iJvWmID82dI4W9e1cR30wTam4oNrRgCbbQiXLSkYP_9ufZ-fXoEGVwBoN4GCr" alt="Аргентина — Австралия, 03.12.2022: коэффициенты букмекеров ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>У аргентинской команды есть все шансы на уверенную победу в матче. Букмекерская контора Fonbet предлагает коэффициент 1,62 на победу Аргентины с форой -1,5 и 2,&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQBh_BpMWzFSW0_wTKHQLNtWAGj-QxXPjhntUHIwWHCzjYU-2iPg8gEIKjeecd51WXhfRGHEtdb" alt="Аргентина — Австралия: где смотреть прямую трансляцию ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Матч 1/8 финала чемпионата мира‑2022 по футболу между сборными Аргентины и Австралии пройдет в субботу, 3 декабря.</p></div>
             </div>
         </a>
         </Template></>;

@@ -18,7 +18,21 @@ export default function Page() {
                 <h3>Jubin Nautiyal injured after falling from staircase, rushed to hospital ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRJRGvTQ0VfNtwfbubQW74jMPRnG_3o6cKuA7XtuStCRoPekM6OMgm_b2xxjlH0hn0oSn4L-j20" alt="Jubin Nautiyal injured after falling from staircase, rushed to hospital ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Lagatar24 Desk. New Delhi, Dec 2: Singer Jubin Nautiyal met with an accident following which he was rushed to a hospital in Mumbai.</p></div>
+                <p style={{marginLeft: "15px"}}>New Delhi, Dec 2: Singer Jubin Nautiyal met with an accident following which he was rushed to a hospital in Mumbai. He was diagnosed with a broken elbow,&nbsp;...</p></div>
+            </div>
+        </a><a href='https://economictimes.indiatimes.com/news/new-updates/jubin-nautiyal-shares-health-update-after-accident-says-god-saved-me/articleshow/95954495.cms'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Jubin Nautiyal shares health update after accident, says &#39;God saved ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSnuRrXDxZuZy-ATv4JlEG6nZvJbzzD-52euZmMJY8B4oGPlKjDzbGkZeC23301WKQx8a4CRY8m" alt="Jubin Nautiyal shares health update after accident, says &#39;God saved ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The singer took to social media and wrote that God saved him from any major mishap. He also shared a photograph from the hospital and thanked his audience&nbsp;...</p></div>
+            </div>
+        </a><a href='https://pragativadi.com/recovering-well-jubin-nautiyal-discharged-from-hospital/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>&#39;Recovering Well&#39;: Jubin Nautiyal Discharged From Hospital</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTQzjVTxNXimbno06Qpew8P2jdI5MlmjlAv8s-l_5vkNOjlmntCgIU4u8AY_OBRIHaYliWJsPrs" alt="&#39;Recovering Well&#39;: Jubin Nautiyal Discharged From Hospital" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Bollywood singing sensation Jubin Nautiyal who was hospitalized after falling from staircase, got discharged from the hospital on Saturday after treatment.</p></div>
             </div>
         </a><a href='https://www.amarujala.com/photo-gallery/dehradun/singer-jubin-nautiyal-injured-in-accident-entertainment-bollywood-news-uttarakhand-news-in-hindi'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -27,6 +41,20 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRuT78bye1Ra_7-oBWhQjkSfLvjyl-A8aopzgi2jUelVf1cYDq8pk6YbgXlNlAbG9ClNonEBJEG" alt="Jubin Nautiyal: सीढ़ियों से गिरे सिंगर के सिर पर आई गंभीर चोट, सीएम धामी ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>फेमस बॉलीवुड गायक जुबिन नौटियाल एक दुघर्टना का शिकार हो गए। अपने&nbsp;...</p></div>
             </div>
+        </a><a href='https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/jubin-nautiyal-gives-health-update-from-hospital-says-got-discharged-and-am-recovering-well/articleshow/95952523.cms'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Jubin Nautiyal: हाथ में पट्टी और चेहरे पर मुस्कुराहट... जुबिन नौटियाल ने ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT-ssB6kEWP9GhkYoqpsQaeIodc75CYfPocMWTIuBzFolPbW_0Hvkax4XqqDyokte8o-zmI_pob" alt="Jubin Nautiyal: हाथ में पट्टी और चेहरे पर मुस्कुराहट... जुबिन नौटियाल ने ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>&#39;तू सामने आए&#39;, &#39;मानिके&#39; जैसे हिट गाने देने वाले और अपनी पर्सनल लाइफ से अक्सर सुर्खियों&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.jagran.com/entertainment/bollywood-jubin-nautiyal-health-update-after-the-accident-jubin-nautiyal-shared-a-picture-from-the-hospital-bed-23242046.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Jubin Nautiyal Health Update: एक्सीडेंट के बाद जुबिन ने हॉस्पिटल बेड से ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRstOtkBDlmLC-RmGpC1NcOs_GCE5CtH4gnM5qJfFxNQng5zXWpoStQQ8rS8UcwM13tKPewvakK" alt="Jubin Nautiyal Health Update: एक्सीडेंट के बाद जुबिन ने हॉस्पिटल बेड से ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>नई दिल्ली, जेएनएन। पॉपुलर बॉलीवुड प्लेबैक सिंगर जुबिन नौटियाल हाल ही में एक बड़ी&nbsp;...</p></div>
+            </div>
         </a><a href='https://www.hindustantimes.com/entertainment/music/singer-jubin-nautiyal-injures-himself-after-falling-from-stairs-to-undergo-surgery-in-mumbai-hospital-101669969922149.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Jubin Nautiyal injures himself after falling off stairs, to undergo surgery</h3>
@@ -34,33 +62,19 @@ export default function Page() {
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQYpqG4AesPjwzh93g0rEi-YymdPQKN8GuSJyKHEshksglOPyh6s1OpbEqVKe3_73K-pH9ws6Jc" alt="Jubin Nautiyal injures himself after falling off stairs, to undergo surgery" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Jubin Nautiyal fell from the stairs and injured himself. The singer will undergo surgery in a Mumbai hospital.</p></div>
             </div>
-        </a><a href='https://economictimes.indiatimes.com/magazines/panache/singer-jubin-nautiyal-sustains-multiple-injuries-after-falling-down-stairs-to-undergo-surgery/videoshow/95937388.cms'>
+        </a><a href='https://www.indiatv.in/entertainment/bollywood/jubin-nautiyal-health-update-know-how-is-singer-jubin-nautiyal-s-health-now-said-god-saved-me-2022-12-03-908447'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Singer Jubin Nautiyal sustains multiple injuries after falling down ...</h3>
+                <h3>Jubin Nautiyal Health Update: जानिए अब कैसी है सिंगर जुबिन नौटियाल की ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="" alt="Singer Jubin Nautiyal sustains multiple injuries after falling down ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Singer Jubin Nautiyal is currently not keeping well as he sustained multiple injuries after falling down stairs. According to the &#39;Raataan Lambiyan&#39;&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ8gBHFEeVc43J6OP4K2Y8AXu_JMYXg-B0RXtNMM92hfGlch3R93O-i_JcOLDbCHVDMK-eSpOom" alt="Jubin Nautiyal Health Update: जानिए अब कैसी है सिंगर जुबिन नौटियाल की ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>जुबिन नौटियाल शुक्रवार को अपने घर पर सीढ़ियों से गिर गए थे। हादसे में उनकी कोहनी टूट गई&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.koimoi.com/bollywood-news/jubin-nautiyal-is-hospitalised-after-breaking-his-elbow-cracked-his-ribs-hurt-his-head-in-an-accident/'>
+        </a><a href='https://www.agniban.com/jubin-nautiyal-discharged-hospital-singer-health-condition-social-media/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Jubin Nautiyal Is Hospitalised After Breaking His Elbow, Cracked ...</h3>
+                <h3>जुबिन नौटियाल हॉस्पिटल से हुए डिस्‍चार्ज, सिंगर ने सोशल मीडिया पर फैंस को ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQIl-8m-B0jsLtQgKVGNphYkn3jcMwWekVwhg6A9FthJN0bli9VuLxoMhu9Pc9QFcBG5NxBkLRT" alt="Jubin Nautiyal Is Hospitalised After Breaking His Elbow, Cracked ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Popular Indian heartthrob and singing sensation Jubin Nautiyal was in an accident in the early hours of Thursday morning.</p></div>
-            </div>
-        </a><a href='https://www.aajtak.in/entertainment/bollywood-news/story/singer-jubin-nautiyal-share-health-update-after-injured-in-accident-says-thanks-for-blessings-tmovb-1587881-2022-12-02'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>सिंगर जुबिन नौटियाल ने शेयर किया हेल्थ अपडेट, कहा- भगवान ने बचा लिया</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQyr6H8-TLtpuDdHydchaecO1jX2V9DIu79DpWYjwe0_oiuPCPsiO79gjPo43NGYYCn-lU7ADhX" alt="सिंगर जुबिन नौटियाल ने शेयर किया हेल्थ अपडेट, कहा- भगवान ने बचा लिया" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>फैंस जुबिन नौटियाल को लेकर लगातार परेशान दिखाई दे रहे थे. हर कोई उनके ठीक होने की दुआ&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.thehindu.com/entertainment/singer-jubin-nautiyal-injured-after-falling-from-stairs-rushed-to-hospital/article66214613.ece'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Singer Jubin Nautiyal injured after falling from stairs, rushed to hospital</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQUzxuReT28HjRTb-1iG3dFLduu9ACv7qeQ4QMA5tUlRasnsUJkIfRQV8kDE7emonGHsCrQHVKv" alt="Singer Jubin Nautiyal injured after falling from stairs, rushed to hospital" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>In a statement, the singer&#39;s representative said Nautiyal “broke his elbow, cracked his ribs and hurt his head” after the fall.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRQYXeTOxemFzXQpZlL5VnrRLWahanIuBNzc_D311I80_Z92orjzQdi0AM6Kf1mMhXULJvCYW5L" alt="जुबिन नौटियाल हॉस्पिटल से हुए डिस्‍चार्ज, सिंगर ने सोशल मीडिया पर फैंस को ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>जुबिन नौटियाल हॉस्पिटल से हुए डिस्‍चार्ज, सिंगर ने सोशल मीडिया पर फैंस को बताया सेहत का&nbsp;...</p></div>
             </div>
         </a><a href='https://www.abplive.com/states/up-uk/uttarakhand-cm-pushkar-singh-on-jubin-nautiyal-injured-and-admitted-in-mumbai-hospital-2272517'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -68,20 +82,6 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ_lu5SGIa9zxh_xGe5ESu5t2SNtZ89FPwKhGvYLkvh3u_bZW8zkUvOFtpCSfPUlllVpJk79Mj-" alt="सीढ़ी से गिरे सिंगर जुबिन नौटियाल, कोहनी टूटी, सिर और पसलियों में आई चोट ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Jubin Nautiyal Injured: सिंगर जुबिन नौटियाल के चोटिल होने पर सीएम सीएम पुष्कर सिंह धामी (Pushkar Singh&nbsp;...</p></div>
-            </div>
-        </a><a href='https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/jubin-nautiyal-slip-face-big-accident-rush-in-hospital/articleshow/95933921.cms'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Jubin Nautiyal Injured: सीढ़‍ियों से गिरे जुबिन नौटियाल मुंबई के अस्पताल ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRK7TM3pRgSBoIxal-944l56UxHovjM1rU-RSHlHbqune_ZTQ704AooDnwqInUBqtBux9IhF2ta" alt="Jubin Nautiyal Injured: सीढ़‍ियों से गिरे जुबिन नौटियाल मुंबई के अस्पताल ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>बॉलीवुड के मशहूर सिंगर जुबिन नौटियाल एक हादसे का शिकार हो गए हैं। एक कार्यक्रम में&nbsp;...</p></div>
-            </div>
-        </a><a href='https://indianexpress.com/article/entertainment/music/raatan-lambiyaan-singer-jubin-nautiyal-falls-from-staircase-hospitalised-after-sustaining-head-elbow-injury-8302301/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Raatan Lambiyaan&#39; singer Jubin Nautiyal falls from staircase ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS1gE6wGtsrRc57A1m7pZBF5t0-RddHk3IjJ-mzu8eHl0keyKq7UKXJPccWWNAIaVmGZS9NwoYC" alt="&#39;Raatan Lambiyaan&#39; singer Jubin Nautiyal falls from staircase ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Popular singer Jubin Nautiyal met with an accident on Friday early morning. The singer has crooned chartbusters like “Raataan Lambiyan” from Sidharth&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

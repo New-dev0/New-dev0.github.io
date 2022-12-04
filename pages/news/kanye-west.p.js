@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Kanye West"/>
         <meta name="description" content="Trending News about Kanye West" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Kanye West</h1>
-            <Image width={800} height={500} src="https://img.etimg.com/thumb/msid-95947479,width-1070,height-580,imgsize-33618,overlay-economictimes/photo.jpg" alt="Kanye West"/>
+            <Image width={800} height={500} src="" alt="Kanye West"/>
             <h3>Recent News</h3>
-            <a href='https://economictimes.indiatimes.com/news/international/world-news/musk-kicks-kanye-west-off-twitter-after-swastika-post/articleshow/95947475.cms'>
+            <a href='https://www.vanguardngr.com/2022/12/elon-musk-suspends-kanye-west-from-twitter/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Musk kicks Kanye West off Twitter after Swastika post</h3>
+                <h3>Elon Musk suspends Kanye West from Twitter</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSnqhsD64RXxCuaI-eAyE_OUI0kaVobR5LkeeU5hh3hVIw6ypoaT0BnGmeA31EO7BkzRtX6EWPC" alt="Musk kicks Kanye West off Twitter after Swastika post" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Elon Musk kicked Kanye West off Twitter on Friday &quot;for incitement to violence,&quot; after the rapper posted a picture that appeared to show a swastika&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTr-WsXyuHycNu0B7xZ9w_CYhNpJpj55D4e_LlDmA3CGsnov-477UxOCpc2VAYJydgMKQRYyHsL" alt="Elon Musk suspends Kanye West from Twitter" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The United States rapper, Kanye West has been suspended from Twitter, after being accused of &quot;inciting violence&quot; over harsh tweets, barely two months after&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.amarujala.com/photo-gallery/entertainment/bollywood/elon-musk-suspended-kanye-west-twitter-account-for-this-reason'>
+        </a><a href='https://www.channelstv.com/2022/12/02/musk-kicks-kanye-west-off-twitter-after-swastika-post/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Kanye West Twitter: अमेरिकी रैपर कान्ये वेस्ट का ट्वीटर अकाउंट हुआ ...</h3>
+                <h3>Musk Kicks Kanye West Off Twitter After Swastika Post</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSw_SsVgoTQ_0EdmdpdXba657VxcubgIYNEbqsZDaALG6LZGlLTmniXlKvfdMcsme8rszaIwj3y" alt="Kanye West Twitter: अमेरिकी रैपर कान्ये वेस्ट का ट्वीटर अकाउंट हुआ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>फिलहाल अब अमेरिकी रैपर कान्ये वेस्ट का ट्वीटर अकाउंट सस्पेंड कर दिया गया है। जानकारी के&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTcDhGmZMuWddyDwtgiLM88MIE9ghO1X5bKEP216j7Mgtc4xXJGeHc9VcC8WBFQiOYxdDNNB6n5" alt="Musk Kicks Kanye West Off Twitter After Swastika Post" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The post came hours after an interview with conspiracy theorist Alex Jones, in which West sparked outrage by declaring his “love” of Nazis and admiration for&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.bbc.com/news/business-63826675'>
+        </a><a href='https://www.washingtonpost.com/technology/2022/12/03/kanye-antisemitism-reddit-holocaust/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Elon Musk suspends Kanye West from Twitter for inciting violence</h3>
+                <h3>Reddit users turn Kanye West page into a Holocaust awareness forum</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTUdGawsqXdI6aw77OMA86c0WPR0lccPqVPsjwzhLuhEH_DQzLnmOobw863Q8ID5MdjjujEkPNI" alt="Elon Musk suspends Kanye West from Twitter for inciting violence" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The US rapper, who now goes by the name Ye, posted a series of erratic tweets - one of which appeared to show a symbol combining a swastika and a Jewish star.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQUcrzseII_WR-WD3vRe_vUQWFoG4DpaqH1B4ADsxC7uLKEhq0YJ1OeqzX8qM2GuPGvGp2egiVy" alt="Reddit users turn Kanye West page into a Holocaust awareness forum" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Fans who have turned against Ye for his antisemitic remarks began flooding the r/Kanye page with Holocaust-education posts.</p></div>
             </div>
-        </a><a href='https://www.abplive.com/news/world/kanye-west-twitter-account-suspended-elon-musk-says-i-tried-my-best-2272588'>
+        </a><a href='https://www.vanguardngr.com/2022/12/kanye-west-accuses-kim-of-affair-with-nba-star-chris-paul/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Kanye West: &#39;हिटलर&#39; समर्थक कान्ये वेस्ट का ट्विटर अकाउंट सस्पेंड, एलन ...</h3>
+                <h3>Kanye West accuses Kim of affair with NBA star, Chris Paul</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS-4_OCgCCdcdTr7fq44s3O0iUScBi5vVois9zYWeEp6SS7zJCmBTldOBNVESsJzILV7EHs8MIB" alt="Kanye West: &#39;हिटलर&#39; समर्थक कान्ये वेस्ट का ट्विटर अकाउंट सस्पेंड, एलन ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>हिटलर का समर्थन करने पर कान्ये वेस्ट का ट्विटर अकाउंट सस्पेंड कर दिया गया है. इससे पहले&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTvXUjLDKJy9KQcm8ZOyzhNZ9KlrgYqRjYll3irSZrA0LSnC1eX50u9_kIKJpxJDRfYLg5mYxHX" alt="Kanye West accuses Kim of affair with NBA star, Chris Paul" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>American rapper Kanye West has claimed that his ex-wife Kim Kardashian is having an affair with Phoenix Sun basketballer Chris Paul.</p></div>
             </div>
-        </a><a href='https://www.washingtonpost.com/technology/2022/12/02/kanye-west-twitter-suspended-elon-musk/'>
+        </a><a href='https://www.marca.com/en/lifestyle/celebrities/2022/12/03/638ae56a46163fafac8b457e.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Elon Musk says Kanye West suspended from Twitter after swastika ...</h3>
+                <h3>Bill Burr was spot-on when comparing Kanye West to Adolf Hitler in ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSLkIWacfbGrr9z3JTEQcRg7_ZSIxI7rvA-qhWBlN3EaBte3xi-mmuXOpDxkoSVuqCdrJQzy4Ch" alt="Elon Musk says Kanye West suspended from Twitter after swastika ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Musk said Ye was suspended for “incitement to violence” after his swastika tweet and his praise of Hitler in an interview with Infowars&#39;s Alex Jones.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQTJ_F5rdF0zgClGaoVrDVffXtFN-duXIIJ3Gt69tBYxdLHMWzWDaqGCp45peGPRjY8GVcIO_22" alt="Bill Burr was spot-on when comparing Kanye West to Adolf Hitler in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The controversial rapper recently expressed his admiration of Hitler and the Nazi party while on the Alex Jones podcast. Video thumbnail.</p></div>
             </div>
-        </a><a href='https://www.aljazeera.com/news/2022/12/2/musk-boots-kanye-west-off-twitter-for-swastika-star-of-david-post'>
+        </a><a href='https://www.xxlmag.com/akon-defends-kanye-west-praising-hitler-nazis/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Musk boots Kanye West off Twitter for swastika-Star of David post</h3>
+                <h3>Akon Defends Kanye West for Praising Hitler, Nazis</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTOrmZfujQDVgoK2hgARdcMvhM9QljXbDTpBg8Sn4g0baIY-3gKU1Z5InLp3pODw-Ii_DGgfDJB" alt="Musk boots Kanye West off Twitter for swastika-Star of David post" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Twitter has suspended rapper Ye, formerly known as Kanye West, after he tweeted a picture of a swastika merged with the Star of David.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT68wYv1vQ_RU2rHjrFv5xte39OGydUz3lh-XMyab4nHn1S0jrggLZA9jf5Z0Un12y7fO_W3FUZ" alt="Akon Defends Kanye West for Praising Hitler, Nazis" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Akon defends Kanye West after he praised Adolph Hitler and telling anyone offended by Ye&#39;s anti-Semitic remarks to not take things too personally.</p></div>
             </div>
-        </a><a href='https://www.livemint.com/news/world/heres-why-kanye-west-s-twitter-account-was-suspended-11669973336961.html'>
+        </a><a href='https://www.forbes.com/sites/danidiplacido/2022/12/03/fans-finally-turn-against-kanye-west-embrace-taylor-swift/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Kanye West&#39;s Twitter account suspended again. Here&#39;s why | Mint</h3>
+                <h3>Fans Finally Turn Against Kanye West, Embrace Taylor Swift</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRuMCjCATCGvFczrxT1yi6K5Ph6300B57YxFnQSQUO1oU9eyCvKKuNLOB3gvFIUkIj_38RBeOEa" alt="Kanye West&#39;s Twitter account suspended again. Here&#39;s why | Mint" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Two months after it was reinstated, Twitter Inc on 2 December suspended Kanye West&#39;s account again. New microblogging site owner Elon Musk said he had&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTQGUjgk9I0K7FFh5zsh_eOKwWGbeHtr_fJilu4nHS11FIwFF5uHuwdR3gckLiwmjTbL9WdBlV8" alt="Fans Finally Turn Against Kanye West, Embrace Taylor Swift" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Back in 2016, Kanye “Ye” West was beginning to voice support for former President Donald Trump, and Taylor Swift was widely suspected of being a closet&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.tmz.com/2022/12/02/kanye-west-kim-kardashian-cheated-chris-paul-twitter/'>
+        </a><a href='https://variety.com/2022/music/news/kanye-west-reddit-taylor-swift-appreciation-holocaust-awareness-1235448134/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Kim Kardashian Did Not Cheat on Kanye West with Chris Paul ...</h3>
+                <h3>Kanye West&#39;s Massive Reddit Page Overtaken by Taylor Swift ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSofFGSErWtmgyXsm2dhf6cAaNGvYv5A6okhsWrDpu2Rt9tDXcm5ZWrKBlnVjKWt2iW8RNA8ooE" alt="Kim Kardashian Did Not Cheat on Kanye West with Chris Paul ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Kanye West is doing everything he can to deflect attention away from his praising of Hitler, even throwing out false allegations about his ex-wife Kim&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQZgu7gSnQULQpGBDz1Duk_hp3ajxWJYS12hl5-VjuRR6rNCEvKS0-jnhAeBy8fet55HzfNufNL" alt="Kanye West&#39;s Massive Reddit Page Overtaken by Taylor Swift ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Kanye West Reddit page, which has more than 700000 subscribers, has turned into a Holocaust awareness and Taylor Swift fan page.</p></div>
             </div>
-        </a><a href='https://nymag.com/intelligencer/2022/12/not-even-alex-jones-can-help-kanye-west.html'>
+        </a><a href='https://www.tmz.com/2022/12/03/bella-thorne-supports-elon-musk-kanye-west-twitter-antisemitic/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Not Even Alex Jones Can Help Kanye West</h3>
+                <h3>Bella Thorne Supports Elon Musk Banning Kanye West on Twitter</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRRWoPmcr8tNxuZo3Px4jc-VyoWjoeNTdRrsupuc1sgfTQhhpyBOTUAkM5XQw-vS34F5GINV0lx" alt="Not Even Alex Jones Can Help Kanye West" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The rapper now known as Ye made countless antisemitic comments and even praised Adolf Hitler during an episode of Alex Jones&#39; show.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRM50ZNzTteS6RxZxdttNfq3GIPleTpEKep7lBIJ9j0eJahbb4epS2zmmRF8LzQSRD5ADqV2ITg" alt="Bella Thorne Supports Elon Musk Banning Kanye West on Twitter" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Bella Thorne is not only friends with Elon Musk, she&#39;s also a big fan of his decision to temporarily kick Kanye West off the platform for spreading&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.washingtonpost.com/history/2022/12/02/hitler-kanye-west-black-germans-holocaust/'>
+        </a><a href='https://radionigeria.gov.ng/2022/12/02/kanye-west-again-gets-suspension-from-twitter/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>A history lesson for Ye: Hitler would have sterilized your children</h3>
+                <h3>Kanye West again gets suspension from Twitter - FRCN HQ</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRBcL-PqQpVJpoa2H2eEDD50Rp7APKy-IVqbGscDWjJs-cffjXDDG157CZoZL1x518fbMFZzDqB" alt="A history lesson for Ye: Hitler would have sterilized your children" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ye, the rapper formerly known as Kanye West, praised Adolf Hitler, despite the Nazi dictator&#39;s hatred of Black people.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTpjySZGjTY3gUT6L6XSUDhGxEqYnmD2Ak6DG1iqDVmH0aXwA-8RwMHoxg9ECjFleStQhE62ydO" alt="Kanye West again gets suspension from Twitter - FRCN HQ" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kanye West, accused of inciting violence and has been suspended from Twitter over offensive tweets - just two months after his last ban.</p></div>
             </div>
         </a>
         </Template></>;

@@ -11,77 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Камерун – Бразилия"/>
         <meta name="description" content="Trending News about Камерун – Бразилия" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Камерун – Бразилия</h1>
-            <Image width={800} height={500} src="https://ss.sport-express.ru/userfiles/materials/184/1842941/large.jpg" alt="Камерун – Бразилия"/>
+            <Image width={800} height={500} src="https://ss.sport-express.ru/userfiles/materials/184/1843329/large.jpg" alt="Камерун – Бразилия"/>
             <h3>Recent News</h3>
-            <a href='https://www.sport-express.ru/football/world/2022/news/kamerun-braziliya-onlayn-video-translyaciya-matcha-gruppy-g-chm-2022-2-dekabrya-2022-smotret-pryamoy-efir-na-match-premer-2006440/'>
+            <a href='https://www.sport-express.ru/football/world/2022/news/kamerun-braziliya-1-0-video-goly-obzor-chempionat-mira-2-dekabrya-2022-goda-2006815/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Камерун — Бразилия: прямая трансляция матча ЧМ-2022</h3>
+                <h3>Камерун — Бразилия: видеообзор матча ЧМ-2022</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTx74qmNZwNdPI0eq2BUWYbjDIFjHLxd1Qv6x2HwNDQM1KwqHE-6WCQ4XYA-ttQkV5a-n61IfiS" alt="Камерун — Бразилия: прямая трансляция матча ЧМ-2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>2 декабря в Лусаиле (Катар) сборная Камеруна сыграет против Бразилии в матче группы G чемпионата мира-2022 по футболу.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSef1c3-hX9SMeORlFLmRZ7e-xir7dv6d0W1sdoh7YmE1qvfOxs6GfQ1DaGKwXIT4Mdk6GB6gAY" alt="Камерун — Бразилия: видеообзор матча ЧМ-2022" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сборная Камеруна победила команду Бразилии в матче третьего тура группового этапа чемпионата мира-2022 со счетом 1:0.</p></div>
             </div>
-        </a><a href='https://www.rbc.ua/ukr/news/braziliya-prograla-zbirniy-kamerunu-ostanniy-1670016548.html'>
+        </a><a href='https://www.championat.com/football/news-4911183-kamerun-braziliya-pryamaya-translyaciya-matcha-chempionata-mira-2022-nachnyotsya-v-22-00.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Бразилия проиграла сборной Камеруна последний матч ...</h3>
+                <h3>Камерун — Бразилия: прямая трансляция матча чемпионата ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSDt1nT_ZT3vVyxfZNu7BKpD7J6Wyem0YqjX3wu43GJoGX6iUy0RTaWlx-ZokzanieYl4FahZDU" alt="Бразилия проиграла сборной Камеруна последний матч ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Камерунская сборная нанесла бразильцам первое поражение на чемпионате мира 2022 года.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTRJhtTpugs_Q9yqzppgvaSEseT7-Ue1Qwo5yFPfWo0q8pmZIcbvrQgGyx8LhUPJxIojfqIufEG" alt="Камерун — Бразилия: прямая трансляция матча чемпионата ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сегодня, 2 декабря, на стадионе «Лусаил Айконик» состоится матч 3-го тура группового этапа чемпионата мира, в котором сыграют соперники по группе G&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.championat.com/football/news-4914435-kamerun-braziliya-golov-v-pervom-tajme-zabito-ne-bylo.html'>
+        </a><a href='https://www.sportmk.ru/sports/2022/12/02/kamerun-braziliya-prognoz-na-match-chempionata-mira-2-dekabrya-ot-olimpbet.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Камерун — Бразилия: голов в первом тайме забито не было</h3>
+                <h3>Камерун — Бразилия: прогноз на матч чемпионата мира 2 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSV2K66IfKk6p47mooFXsHWxgcL94C2Z6B17hLc0hR8nqw-q_UPUT8E7YXtMZkSsyNnfBUK00F3" alt="Камерун — Бразилия: голов в первом тайме забито не было" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Сегодня, 2 декабря, на стадионе «Лусаил Айконик» проходит последний матч группового этапа на чемпионате мира в Катаре. Встречаются соперники по группе G&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRGSz_RRHGodp2p4XgsZz5PFeSCSVmt2GamU2VJfjL1JI8sqHDtx6uAoJiB7iSRiyjUg1O1MvkJ" alt="Камерун — Бразилия: прогноз на матч чемпионата мира 2 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Бразилия вышла плей-офф, но постарается закрепить успех в матче против Камеруна. Букмекерская компания Olimpbet* подсказывает выгодные ставки и рассказывает&nbsp;...</p></div>
             </div>
-        </a><a href='https://sport.24tv.ua/ru/kamerun-brazilija-prognoz-igru-chempionata-mira-2022-24-kanal_n2210115'>
+        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/spbnews_NI1735126_Kamerun__Brazilija_gde_smotret_onlajn_match_2_dekabra_2022_chempionat_mira_po_futbolu'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Камерун попытается прервать победную серию Бразилии ...</h3>
+                <h3>Камерун — Бразилия: где смотреть онлайн матч 2 декабря 2022 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQmijlLWrQ6MbLERUxEg4kLNsHCbvQN_1xjoSvrAj6h5fEP2J-XvFh9eSho9vpP4arXpjO5RWAm" alt="Камерун попытается прервать победную серию Бразилии ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Прогноз на матч Камерун – Бразилия, который пройдет на Чемпионате мира по футболу 2022 года. Команды сыграют 2 декабря 2022 года. Ставки букмекеров на матч&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRLoSOhV1N6swNqUqJY0qSVJfGawaweX7KgkmZCNqXI25pdC_NdxvEV3zQKG4eoR85EU3PoDikZ" alt="Камерун — Бразилия: где смотреть онлайн матч 2 декабря 2022 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Встреча пройдет на стадионе «Лусаил». Прямую трансляцию игры можно посмотреть на телеканалах «Матч! Футбол 1» и «Матч! Страна», а также сайтах sportbox.ru и&nbsp;...</p></div>
             </div>
-        </a><a href='https://telegraf.com.ua/sport-cat/2022-12-02/5724676-kamerun-braziliya-onlayn-matcha-chm-2022'>
+        </a><a href='https://www.vseprosport.ru/news/2022/11/30/kamerun-brazilija-prognoz-kf-6-00-na-match-chempionata-mira-2-dekabrja-2022-goda'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Камерун - Бразилия: 1:0 хроника матча ЧМ-2022</h3>
+                <h3>Камерун — Бразилия: прогноз на матч Чемпионата мира</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQXx9ycygQEDY9jZnKBNhiKGAz9qs2Bbe0rS6nLLKoBI2Ato0F_g4LvZQeAAwAd_5PZhiqSZokJ" alt="Камерун - Бразилия: 1:0 хроника матча ЧМ-2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Мы используем Куки! Хорошо. Камерун - Бразилия: 1:0 хроника матча ЧМ-2022. Автор.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRqvrqm5p3qBySvZdPWrGRiVHhBEqsRUOwKML5By3wfX_D6l-x1hybuuaz6eao0iWx52FvnPbVQ" alt="Камерун — Бразилия: прогноз на матч Чемпионата мира" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В матче Чемпионата мира 2 декабря сборная Камеруна сыграет против Бразилии. Кто возьмет верх в этом поединке? Какие ставки будут наиболее надежными сегодня?</p></div>
             </div>
-        </a><a href='https://fakty.ua/ru/411638-kamerun-sensacionno-obygral-braziliyu-no-proletel-mimo-1-8-finala-videoobzory-matchej-chm-2022'>
+        </a><a href='https://www.sports.ru/football/1113897896-kamerun-braziliya-10-obzor-matcha-chempionata-mira-po-futbolu-02-12202.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Камерун сенсационно обыграл Бразилию, но «пролетел» мимо ...</h3>
+                <h3>Камерун — Бразилия — 1:0, обзор матча Чемпионата мира по ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRtnUZLKXlbNhDPgErULHwErVuMGO7ZVzRyohLqh_iOhe-P2v_v7E66-3EbVBT3sB_dZhMXIMs7" alt="Камерун сенсационно обыграл Бразилию, но «пролетел» мимо ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Результаты и видеообзоры матчей 3-го тура группового этапа чемпионата мира по футболу в группе G 2 декабря - Камерун сенсационно обыграл Бразилию,&nbsp;...</p></div>
-            </div>
-        </a><a href='https://football24.ua/ru/kamerun__brazilija_startovye_sostavy_i_onlajn_transljacija_matcha_chm_2022_n749865/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Камерун – Бразилия: стартовые составы и онлайн-трансляция ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTeevl8yFt8KTm8r9aYw8cURwid6XCEY1yoNcQpHTm8JCfIrv3_0VhbnJyKx-KjLNhA_OmhRvUw" alt="Камерун – Бразилия: стартовые составы и онлайн-трансляция ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Камерун и Бразилия сойдутся в матче 3-го тура группового этапа чемпионата мира-2022. Смотрите стартовые составы команд и онлайн-трансляцию встречи в этой&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.rbc.ua/rus/news/braziliya-prograla-zbirniy-kamerunu-ostanniy-1670016548.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Бразилія програла збірній Камеруну останній матч групового ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSDt1nT_ZT3vVyxfZNu7BKpD7J6Wyem0YqjX3wu43GJoGX6iUy0RTaWlx-ZokzanieYl4FahZDU" alt="Бразилія програла збірній Камеруну останній матч групового ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Камерунська збірна завдала бразильцям першої поразки на чемпіонаті світу 2022 року.</p></div>
-            </div>
-        </a><a href='https://football24.ua/kamerun__braziliya_startovi_skladi_ta_onlayn_translyatsiya_matchu_chs_2022_n749861/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Камерун – Бразилія: стартові склади та онлайн-трансляція ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTeevl8yFt8KTm8r9aYw8cURwid6XCEY1yoNcQpHTm8JCfIrv3_0VhbnJyKx-KjLNhA_OmhRvUw" alt="Камерун – Бразилія: стартові склади та онлайн-трансляція ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Камерун та Бразилія зійдуться в матчі 3-го туру групового етапу чемпіонату світу-2022. Дивіться стартові склади команд та онлайн-трансляцію зустрічі у цій&nbsp;...</p></div>
-            </div>
-        </a><a href='https://champion.com.ua/wc2022/2022/12/02/916519/kamerun-brazyliya-onlayn-translyatsiya-live-chs-2022'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Камерун - Бразилія - онлайн-трансляція LIVE - ЧС-2022</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="" alt="Камерун - Бразилія - онлайн-трансляція LIVE - ЧС-2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>MEGOGO и Суспільне Спорт покажут матч Чемпионата мира-2022 между Камеруном и Бразилией.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSV599eyTA1A-g4_ysuxkZef5cYcqOn9qsq6O2JuTQ9sdSaJ_yL3CAAJpUGKOzVpb2uIK3ZTIdb" alt="Камерун — Бразилия — 1:0, обзор матча Чемпионата мира по ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Тренер латиноамериканской команды Тите, дабы избежать травм и дисквалификаций перед плей-офф, этой возможностью воспользовался. В том числе на поле появился и&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

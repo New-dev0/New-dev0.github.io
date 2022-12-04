@@ -11,14 +11,28 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Morocco vs Spain"/>
         <meta name="description" content="Trending News about Morocco vs Spain" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Morocco vs Spain</h1>
-            <Image width={800} height={500} src="" alt="Morocco vs Spain"/>
+            <Image width={800} height={500} src="https://static.standard.co.uk/2022/12/02/07/WCMoroccoSpainV1.jpg?width=1200&width=1200&auto=webp&quality=75" alt="Morocco vs Spain"/>
             <h3>Recent News</h3>
-            <a href='https://football-italia.net/morocco-vs-spain-predictions-betting-tips/'>
+            <a href='https://www.standard.co.uk/sport/football/morocco-vs-spain-prediction-kick-off-time-tv-live-stream-team-news-latest-h2h-results-odds-world-cup-2022-preview-b1044612.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Morocco vs Spain: World Cup 2022 prediction, kick-off time, TV, live ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTHIzNVjrlA7F5q7JN7J22-6lLi456n1mRO69Jex-51Y0OS-wRWlaSVo41LjTFokNVpafdvQ-gX" alt="Morocco vs Spain: World Cup 2022 prediction, kick-off time, TV, live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Morocco&#39;s reward for winning a World Cup group also containing Belgium and Croatia is a World Cup last-16 clash with Spain.</p></div>
+            </div>
+        </a><a href='https://football-italia.net/morocco-vs-spain-predictions-betting-tips/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Morocco vs. Spain Predictions, Betting Tips and Odds</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQCbMamYYheOTGhRaxbboHXFtS9fY_WNz07mOmtCuxzbFsH5wwhnzqNIJtjXCL8pxZb-0QyZruf" alt="Morocco vs. Spain Predictions, Betting Tips and Odds" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>The surprise winners of Group F look to keep their run going in these Morocco vs. Spain World Cup predictions.</p></div>
+            </div>
+        </a><a href='https://www.football-espana.net/2022/12/02/key-selection-calls-for-luis-enrique-ahead-of-morocco-v-spain'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Key selection calls for Luis Enrique ahead of Morocco v Spain</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSfzcBX9tA3bfcG_L6RUktnHCYW71caON3bxTyDYyv0F6xmorn4HFflG6Z1bdXLZ1YZRl38vFSp" alt="Key selection calls for Luis Enrique ahead of Morocco v Spain" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Spain head coach Luis Enrique faces his first 2022 World Cup knockout game on December 6 as La Roja take on Morocco.</p></div>
             </div>
         </a><a href='https://www.thesun.co.uk/sport/20627812/morocco-vs-spain-tv-channel-stream-free-kick-off-time-team-news-prediction-world-cup-2022/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -34,33 +48,12 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT1qzGntZfkY1nklOrhwV6LdhCqwMItrKWiL3v1q4ga9AE7Z_uQnboeaIHx8vXjuTjAdupMUEce" alt="Morocco vs Spain, World Cup 2022 last 16: Date, kick-off time and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Plus, head-to-head record, latest odds and how both teams have fared in Qatar so far.</p></div>
             </div>
-        </a><a href='https://www.thelines.com/world-cup-round-of-16-odds-spain-morocco-betting-preview-expected-goals-2022/'>
+        </a><a href='https://www.fanduel.com/theduel/posts/morocco-vs-spain-prediction-best-bet-2022-world-cup-spanish-punch-ticket-to-quarterfinals-01gka4vp8wwb'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Spain Vs Morocco: 2022 World Cup Round of 16 Odds, Expected ...</h3>
+                <h3>Morocco vs Spain Prediction &amp; Best Bet for 2022 World Cup ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQo445bfhf8D_hJz956aXE0t8q3BOzZcjAny13O82sipkKfCVi04bsrelAVgvrCEOrBgRi6-D61" alt="Spain Vs Morocco: 2022 World Cup Round of 16 Odds, Expected ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Spain take on Morocco in the Round of 16 in the 2022 FIFA World Cup. Find Spain vs. Morocco odds, a full betting preview, and expected goals:</p></div>
-            </div>
-        </a><a href='https://sports.bwin.com/en/news/football/morocco-vs-spain-prediction/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Morocco vs Spain Prediction, Betting Tips &amp; Odds | 06/12/22 | bwin</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTDNbeecIrb-0CXrYZhKfeXwAY30OwwNWIDZsw9xBNk_JKvxT-xyqp3IUa5WqOT49whEouF-XJv" alt="Morocco vs Spain Prediction, Betting Tips &amp; Odds | 06/12/22 | bwin" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>We like 9/4 for La Roja to win by exactly one goal as our top Morocco vs Spain prediction and have other World Cup betting tips and odds.</p></div>
-            </div>
-        </a><a href='https://www.betshoot.com/football/188696-Morocco-vs-Spain-predictions/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Morocco vs Spain Prediction and Betting Tips | Dec 6, 2022</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="" alt="Morocco vs Spain Prediction and Betting Tips | Dec 6, 2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Morocco vs Spain prediction, match preview and betting tips by DamirJ on Tuesday, 6 December 2022 - H2H, Stats &amp; Results - Odds: 2.31.</p></div>
-            </div>
-        </a><a href='https://www.dazn.com/en-SE/news/soccer/japan-vs-croatia-time-tv-channel-preview-and-how-to-watch-fifa-world-cup-round-of-16-match/of25r6gdnhpz1ba8c12215nvj'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Japan vs. Croatia: Time, TV channel, preview and how to watch FIFA ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQbDtNAfLvi52qDwj50RLrbgdKX_s-Okb9fnQKNJHgRsfGoycpds39pgeE3lAXix3IRqBYxp-TF" alt="Japan vs. Croatia: Time, TV channel, preview and how to watch FIFA ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A surprising group winner faces an established European power. Group E was perhaps the most unpredictable of all at Qatar 2022, with Japan topping a group that&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS0jFrGP6lnvqJfO_o3nCWnZQJOnPoknhkWWLB-z-OibYXx6gvgIJoAmdwvqxFHjtyRa8yfzSOE" alt="Morocco vs Spain Prediction &amp; Best Bet for 2022 World Cup ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The 2022 FIFA World Cup has reached the knockout stage with some exciting matchups&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

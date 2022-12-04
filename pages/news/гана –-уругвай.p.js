@@ -38,7 +38,7 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Гана — Уругвай — 0:2, обзор матча Чемпионата мира по ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS5nV-9kFi3Xmk8YJ2ucXhAuIs2aT8s4r_uKWvx9PTxd8P0nOweAIEnQvz2ajYVRv9nB0KRF4JU" alt="Гана — Уругвай — 0:2, обзор матча Чемпионата мира по ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSYtarJHz1zlLh1I1_DffOHYLEGKvtUYGihEszbkq2kJX9DOhlFMYx7DbxAkI7yZmp-vhL9V3KA" alt="Гана — Уругвай — 0:2, обзор матча Чемпионата мира по ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Предматчевый расклад был предельно простым — южноамериканцам необходимо было выигрывать с преимуществом в как можно больше мячей, а африканцам достаточно было&nbsp;...</p></div>
             </div>
         </a><a href='https://sportrbc.ru/news/6389e2699a7947682349c549'>
@@ -55,12 +55,12 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSlYADuXTtNOG2vc-NH5c5uLriowAtdghgLn4iOkCHZZ_rYNkN3fsv3Ud5KRVTclSgqy8Alc_g_" alt="ЧМ-2022: Уругвай напрасно одолел сборную Ганы и пролетел ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Латиноамериканская команда не пополнила список участников плей-офф чемпионата мира 2022 года.</p></div>
             </div>
-        </a><a href='https://sport24.ru/news/football/2022-12-02-gana-urugvay-match-tv-smotret-onlayn-match-tv-pryamoy-efir-match-tv-pryamaya-translyatsiya-chempionat-mira-po-futbolu-2022-smotret-onlayn-chm-pryamaya-translyatsiya'>
+        </a><a href='https://www.vseprosport.ru/news/2022/12/02/gana-urugvaj-stavka-i-koefficienty-na-match-chempionata-mira-2-dekabrja-2022-goda'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ЧМ-2022. Гана — Уругвай. Прямая трансляция: смотреть онлайн ...</h3>
+                <h3>Гана — Уругвай: ставка на матч Чемпионата мира</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTUCrx0iFYYocZh5FTTFSZKxgAy3VS6tzOMkaGlLCXGWc7Gb08qLSi36Keb6EIeKemfg8I2L1p3" alt="ЧМ-2022. Гана — Уругвай. Прямая трансляция: смотреть онлайн ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Самые свежие новости российского и мирового спорта только на сайте Sport24.ru! Интервью со спортсменами, онлайн трансляции, аналитика и прогнозы,&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSObpcv4OzgPXxtlPgyF9N1GMEgAUXCdYVc1bxxMzYbYxkYe8ezCJVcvKgIbPtfhIrTgXHchfJv" alt="Гана — Уругвай: ставка на матч Чемпионата мира" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Гана — Уругвай. Ставка и коэффициенты на матч Чемпионата мира (2 декабря 2022 года). Гана и Уругвай между собой 2 декабря могут определить второго&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

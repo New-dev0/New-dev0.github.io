@@ -11,14 +11,14 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Paises Baixos"/>
         <meta name="description" content="Trending News about Paises Baixos" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Paises Baixos</h1>
-            <Image width={800} height={500} src="https://www.santos.sp.gov.br/../../static/files_www/styles/newspagemodal/public/field/image/isabela_carrari_0352.jpg" alt="Paises Baixos"/>
+            <Image width={800} height={500} src="https://www.diplomaciabusiness.com/wp-content/uploads/2022/12/embaixador-dos-paises-baixos-no-brasil.jpg" alt="Paises Baixos"/>
             <h3>Recent News</h3>
-            <a href='https://www.santos.sp.gov.br/?q=noticia/autoridades-do-reino-dos-paises-baixos-estreitam-relacao-com-santos'>
+            <a href='https://www.diplomaciabusiness.com/embaixador-dos-paises-baixos-no-brasil-faz-visita-oficial-a-pernambuco/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Autoridades do Reino dos Países Baixos estreitam relação com ...</h3>
+                <h3>Embaixador dos Países Baixos no Brasil faz visita oficial a ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRIwDIim67-0pODhlKNQYzMbXRa2P0B7Kd63Jo9MOmcONq9_JrRiQJmLNDS74DYCFbjqc6K77nG" alt="Autoridades do Reino dos Países Baixos estreitam relação com ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>O grupo foi recepcionado pelo prefeito Rogério Santos, pela vice-prefeita Renata Bravo (titular da Secretaria da Mulher, Cidadania e Direitos Humanos) e pelo&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcREw_6BQWBJI35lMUG0EwjXL9mHKk2NbH17XJY9EnFzIreQ2SNrLQharWnYL-dIPSfjelnn9lpz" alt="Embaixador dos Países Baixos no Brasil faz visita oficial a ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>“Temos desenvolvido relações econômicas com esse representante do continente europeu. Recentemente, firmamos acordo com a empresa holandesa Van Oord para a&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
