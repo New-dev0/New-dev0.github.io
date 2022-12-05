@@ -11,21 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Gabriel Jesus"/>
         <meta name="description" content="Trending News about Gabriel Jesus" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Gabriel Jesus</h1>
-            <Image width={800} height={500} src="https://img2.thejournal.ie/article/5937067/river/?height=400&version=5937069" alt="Gabriel Jesus"/>
+            <Image width={800} height={500} src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltbd9903d514328d64/638b38c53ff7b2213bc327b4/Gabriel_Jesus_Brazil_WC_2022.jpg" alt="Gabriel Jesus"/>
             <h3>Recent News</h3>
-            <a href='https://www.the42.ie/world-cup-news-5937067-Dec2022/'>
+            <a href='https://www.goal.com/en-us/news/gabriel-jesus-brazil-injury-tite-arsenal/blt5080c1ae48713304'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Gabriel Jesus out for rest of World Cup, while Senegal boss a doubt ...</h3>
+                <h3>Tite slams &#39;evil lies&#39; suggesting Gabriel Jesus played injured for ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQlbhcBNLDkH4sIuBdrsfPTwT6eePAB5AEnceEo5De7FCZ3nFu7ZL8yaVyyu5HlkiCjvT3xeEX7" alt="Gabriel Jesus out for rest of World Cup, while Senegal boss a doubt ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The extent of the Arsenal forward&#39;s injury remains unclear, while Senegal manager Aliou Cisse is sick.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTAZ-VZMjuPt0OnNvdZexQap6T0rirGM7PrT9ByYEgeGy_QTc7QRqgw_tgRSZ9-CIqWdwNy7qGo" alt="Tite slams &#39;evil lies&#39; suggesting Gabriel Jesus played injured for ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Brazil head coach Tite has lashed out at claims that Arsenal star Gabriel Jesus was playing at the World Cup with a pre-existing injury.</p></div>
             </div>
-        </a><a href='https://www.rte.ie/sport/soccer/2022/1203/1339781-gabriel-jesus-world-cup-is-over/'>
+        </a><a href='https://www.goal.com/en-gb/news/arsenal-games-gabriel-jesus-miss-world-cup-injury-brazil/blt4f1ff3dfeedb5648'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Gabriel Jesus&#39; World Cup is over</h3>
+                <h3>Which Arsenal games will Gabriel Jesus miss following World Cup ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ6aQovLHCppBL-FU7AZEFezugcA9EyJALMiMQiGH21-AQG02dWj2aNBBvTtPjX9B1vvDcVXaxf" alt="Gabriel Jesus&#39; World Cup is over" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brazil&#39;s forward Gabriel Jesus and defender Alex Telles have both been ruled out of the rest of the World Cup after picking up injuries in their final Group&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQSgCXkq-R5PB-pw-e7be-nQmcU0eIv2VajfnsdrMP9fFTwcU_c9j4-h5CpR8JX-21qfcKTRSKA" alt="Which Arsenal games will Gabriel Jesus miss following World Cup ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Gabriel Jesus has picked up a knee injury and is set for a spell on the sidelines.</p></div>
+            </div>
+        </a><a href='https://leadership.ng/qatar-2022-gabriel-jesusalex-telles-ruled-out-of-world-cup-with-injuries/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Qatar 2022: Gabriel Jesus,Alex Telles Ruled Out Of World Cup With ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRoSxhnUjvXucd-49ZF3k1xT3oUagjd6DPmYVLybUmgMHpO44bx-A4Z7aUI-I5o5ii01DWRwJfh" alt="Qatar 2022: Gabriel Jesus,Alex Telles Ruled Out Of World Cup With ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Gabriel Jesus and Alex Telles have been ruled out of the rest of the World Cup after picking up injuries in Brazil&#39;s 1-0 defeat by Cameroon on Friday.</p></div>
+            </div>
+        </a><a href='https://www.football.london/arsenal-fc/news/gabriel-jesus-arsenal-injury-announcement-25669200'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Gabriel Jesus best and worst case injury scenario revealed with ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRe-1zoyY8CUIX4s3-YhfY8lV_4TI6w66vM2nXj7Ncx0uxgVnf23pjgTpw17NUsYvj5dXNvJDpO" alt="Gabriel Jesus best and worst case injury scenario revealed with ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Latest Arsenal news takes a closer look at Gabriel Jesus&#39; injury and what would be the best and worst-case scenario amid speculation that he&#39;s facing up to&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.eurosport.com/football/arsenal-blow-as-brazilian-striker-gabriel-jesus-set-to-miss-up-to-three-months-reports_sto9258776/story.shtml'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Arsenal blow as Brazilian striker Gabriel Jesus set to miss up to ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT4IwxKjlmpPTa1uYKHTL_ulw5IyhHe-Shl_6levnYEtQcXGzPaTs70y-o84uSP5v_qt2yUravW" alt="Arsenal blow as Brazilian striker Gabriel Jesus set to miss up to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Brazil and Arsenal striker Gabriel Jesus picked up the knee injury in his country&#39;s World Cup 2022 group stage clash with Cameroon which subsequently ruled him&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.dailymail.co.uk/sport/football/article-11500471/Brazil-boss-Tite-hits-claims-Gabriel-Jesus-injured-World-Cup.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Brazil boss Tite hits back at claims Gabriel Jesus was ALREADY ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS8VIsic9aZs7XbmyRD3Z30eyHzPGNbwQVgr_LV80UfJys6JQydzjNDSbkEtua5LguYk6vnrNDq" alt="Brazil boss Tite hits back at claims Gabriel Jesus was ALREADY ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Brazil boss Tite has strenuously denied claims that Gabriel Jesus was already injured before heading to Qatar for the 2022 World Cup.</p></div>
             </div>
         </a><a href='https://www.skysports.com/football/news/11095/12760880/gabriel-jesus-brazil-forward-to-miss-rest-of-world-cup-with-knee-injury-and-may-be-absent-for-arsenal-league-games'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -33,27 +61,6 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTDRO_uFBXXEMO0IUtnh70z1kFRisJi0Vi_SPlVAMEcjbQrHiIG8k15KiEvJ2KKcSbDRzsi7eIQ" alt="Gabriel Jesus: Brazil forward to miss rest of World Cup with knee ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Gabriel Jesus came off on 64 minutes in Brazils 1-0 defeat to Cameroon on Friday; the Brazil striker will miss the rest of the tournament with a knee injury&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.eurosport.com/football/world-cup/2022/brazil-hit-by-injury-blow-arsenal-s-gabriel-jesus-and-man-utd-s-alex-telles-ruled-out-of-world-cup-r_sto9256461/story.shtml'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brazil hit by injury blow: Arsenal&#39;s Gabriel Jesus and Man Utd&#39;s Alex ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRcvMKbS35zotJTquRzlnVZxCRGVmvBd0cQOdS2uGmMcxWroJz13yf-ErspkK0Z_fS3sCLTrpvb" alt="Brazil hit by injury blow: Arsenal&#39;s Gabriel Jesus and Man Utd&#39;s Alex ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brazil pair Gabriel Jesus and Alex Telles are out of the World Cup, that is according to a report from Globo.</p></div>
-            </div>
-        </a><a href='https://www.theguardian.com/football/2022/dec/03/brazil-blow-as-gabriel-jesus-and-alex-telles-are-ruled-out-of-world-cup'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Brazil blow as Gabriel Jesus and Alex Telles are ruled out of World ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSiJkQv_D_uQHhU_qw6tazDSuPhangxVA-C0W2Em6ueu5S83oTqo-qaxTEjw0RR5QyHpCM8MU1r" alt="Brazil blow as Gabriel Jesus and Alex Telles are ruled out of World ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Brazil forward Gabriel Jesus and the defender Alex Telles are out of the rest of the World Cup after being injured against Cameroon.</p></div>
-            </div>
-        </a><a href='https://theathletic.com/3964172/2022/12/03/gabriel-jesus-injury-arsenal-world-cup/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Arsenal&#39;s Gabriel Jesus out of World Cup due to knee injury</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQRBplKphMEqvs5TEZCGmHdtRS38S62WFDQ8vMvtEqNDMWJNk-ygQHN2xXQas1KPpioQmJnZnyT" alt="Arsenal&#39;s Gabriel Jesus out of World Cup due to knee injury" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Gabriel Jesus will miss the rest of the World Cup. The Arsenal striker suffered an injury to his right knee during the defeat against Cameroon on Friday.</p></div>
             </div>
         </a>
         </Template></>;

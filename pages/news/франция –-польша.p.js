@@ -11,56 +11,63 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Франция – Польша"/>
         <meta name="description" content="Trending News about Франция – Польша" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Франция – Польша</h1>
-            <Image width={800} height={500} src="" alt="Франция – Польша"/>
+            <Image width={800} height={500} src="https://img.championat.com/news2/social/6/56/4916663.jpg" alt="Франция – Польша"/>
             <h3>Recent News</h3>
-            <a href='https://www.vseprosport.ru/news/2022/12/03/francija-polsha-prognoz-kf-6-50-na-match-chempionata-mira-4-dekabrja-2022-goda'>
+            <a href='https://www.championat.com/football/news-4916663-franciya-polsha-mbappe-udvoil-preimuschestvo-francuzov.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Франция — Польша: прогноз на матч Чемпионата мира</h3>
+                <h3>Франция — Польша: Мбаппе удвоил преимущество французов</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTNLuoHLMtPIBT0ghjBX7WZff6--j2SCsr3eSEqco-bbrH2pXO33QiiNrcb_uVfctXS9XiLKGNe" alt="Франция — Польша: прогноз на матч Чемпионата мира" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Польша и Франция проиграли в последних поединках в группе. Кто сумеет 4 декабря пробиться в четвертьфинал? – ответ есть в прогнозе.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR76v8imcyYeF6C1dg3tTQEyPY7ox6_AqWe4vXXF9pDe5C0Dfz2We6k7uf1rTm-zwHrD6knOTIX" alt="Франция — Польша: Мбаппе удвоил преимущество французов" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В эти минуты проходит матч 1/8 финала чемпионата мира 2022 между сборными Франции и Польши. Команды играют на стадионе «Эль-Тумама» в Дохе. Стартовый&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sport-express.ru/stavki-na-sport/reviews/franciya-polsha-prognoz-i-stavka-na-match-4-dekabrya-chempionat-mira-po-futbolu-2022-2006912/'>
+        </a><a href='https://www.sport-express.ru/football/world/2022/news/franciya-polsha-vo-skolko-nachalo-i-gde-smotret-pryamuyu-translyaciyu-matcha-1-8-finala-chempionata-mira-2022-4-dekabrya-2007399/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Франция — Польша: Мбаппе и Гризманн помогут Левандовски ...</h3>
+                <h3>Франция — Польша: во сколько начало и где смотреть прямую ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS-dANxDV13dXfYOCutp11nIyFV614tk_FKGChf0YWpStnIK4uszqe-6Rhq3OuPEXD6plBVnvd9" alt="Франция — Польша: Мбаппе и Гризманн помогут Левандовски ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Прогноз на матч Франция — Польша в рамках чемпионата мира по футболу 4 декабря 2022 года в Катаре.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRwIOkMyTkH9bH89qqlikfodsT3z2uZMG6QqCtpAFnSlB-Vf_FDHaM6bcc_UY88mKi2ixH7e6Bg" alt="Франция — Польша: во сколько начало и где смотреть прямую ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В воскресенье, 4 декабря, сборная Франции сыграет против Польши в матче 1/8 финала чемпионата мира по футболу-2022 в Катаре. Встреча пройдет на стадионе&nbsp;...</p></div>
             </div>
-        </a><a href='https://soccer365.ru/news/16607/'>
+        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1736282_Francija__Polsha_gde_smotret_onlajn_matcha_4_dekabra_chempionat_mira_po_futbolu'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Франция ― Польша: превью</h3>
+                <h3>Франция — Польша: где смотреть онлайн матча 4 декабря ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTaYsE89mAw-WTEx_V9UAE3ZFGk9A_c_CtfgOPjCnEu4Hk8nqAGaWYzUcIE2kadIcWldbv7r12h" alt="Франция ― Польша: превью" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Рассказываем о раскладах на матч Франции и Польши в рамках 1/8 финала чемпионата мира-2022.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTuyloT37vtBuDLyT9ahrUJ0eI9xmCVt-MLtjZVNbN8Ls0EFJ2mBMx_1gvrNnBht0IUzGoQ9YGr" alt="Франция — Польша: где смотреть онлайн матча 4 декабря ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>За игрой также можно следить на сайтах matchtv.ru и sportbox.ru. Телеканал «Матч ТВ» стал эксклюзивным правообладателем чемпионата мира по футболу 2022 года на&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.championat.com/bets/article-4915001-franciya-polsha-prognoz-na-match-chempionata-mira-4-dekabrya-2022-goda-gde-smotret-onlajn-besplatno-translyaciya.html'>
+        </a><a href='https://sportrbc.ru/news/638c9b239a7947817f08a1f2'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Франция — Польша. Мбаппе выбьет Левандовского</h3>
+                <h3>Франция — Польша</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTluPwom0EUGjX4tG1xXiL1HN5y1_7NQkkn0SXjlR-bh8VzByFsM1ZP-Z_Q42vJ03WQ2q9eCaih" alt="Франция — Польша. Мбаппе выбьет Левандовского" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Щенсны не волшебник, и он вряд ли прикроет команду от столь резвой атаки, какая есть у Дешама.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTtSNhxYEebBbTpX01tGVpXNendNQdZUIeNSSnS7FYUJQKtPPwjM84yVE76jsWjqmhSc7fXrEsc" alt="Франция — Польша" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>На этом будем прощаться, пожелаем сборной Польши удачи и поблагодарим за игру на этом турнире. А команду Франции поздравляем с победой и проходом в&nbsp;...</p></div>
             </div>
-        </a><a href='https://sport24.ru/news/football/2022-12-03-frantsiya-polsha-prognoz-i-stavka-na-match-chm-2022-4dekabrya-ot-aleksandra-mostovogo'>
+        </a><a href='https://www.vseprosport.ru/news/2022/12/04/francija-polsha-stavka-i-koefficienty-na-match-chempionata-mira-4-dekabrja-2022-goda'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Мостовой поделился крепкой ставкой на матч 1/8 ЧМ Франция ...</h3>
+                <h3>Франция — Польша: ставка на матч Чемпионата мира</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSbPSpr0WNd0NOapBCM7iFNrQoqw_xvKv8fl0JWpHebsq1YBOyhPDSN0PSes8-APmXNku6EEHdh" alt="Мостовой поделился крепкой ставкой на матч 1/8 ЧМ Франция ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Самые свежие новости российского и мирового спорта только на сайте Sport24.ru! Интервью со спортсменами, онлайн трансляции, аналитика и прогнозы,&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTb_9e4cyb-r6UHB-B0HoZpAkydn_uNv6TfQKGJ9afJdaYOdnsj_bBNvR_o16LJIGnOrd1Atw8Y" alt="Франция — Польша: ставка на матч Чемпионата мира" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Франция — Польша. Ставка и коэффициенты на матч Чемпионата мира (4 декабря 2022 года). Сборная Франции в поединке 1/8 финала Чемпионата мира сыграет против&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sports.ru/football/1113907836-chm-2022-francziya-polsha-pryamaya-translyacziya.html'>
+        </a><a href='https://www.sport-interfax.ru/875285'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ЧМ 2022: Франция — Польша прямая трансляция</h3>
+                <h3>Франция - Польша. Онлайн</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSosQMCq3DGofleCl6QcPLw_GSIlbX7s85RrSDSW7vO-c_IS8oKRSmSEn06Ba5aw6bH3MMHFg8v" alt="ЧМ 2022: Франция — Польша прямая трансляция" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ЧМ 2022: Франция — Польша прямая трансляция ... Французские футболисты приехали в Катар защищать свой титул и перед ними стоит задача попасть в финал. Сборная&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQpzcER29lu5CFa345PdFtrRwPlg32T5bYotU_vVugSGkE2VPui5a9GNxong3Auh8yS1E4vE3lS" alt="Франция - Польша. Онлайн" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Спасибо вам за внимание и до новых встреч! Все, финальный свисток! Сборная Франции со счетом 3:1 победила Польшу и вышла в четвертьфинал.</p></div>
             </div>
-        </a><a href='https://www.footboom.com/foreign/worldcup2022/1670056236-frantsiia-polshcha-anons-ta-prohnoz-matchu.html'>
+        </a><a href='https://www.sports.ru/football/1113953494-francziya-polsha-31-obzor-matcha-chempionata-mira-po-futbolu-04-122022.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Франция – Польша. Анонс и прогноз матча</h3>
+                <h3>Франция — Польша — 3:1, обзор матча Чемпионата мира по ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTHdev8uVtw2uK400jcpY_w0Duep2Ju0DrYbgciWJCFlshW1Cft_wKEcOI8ogzckC6luDPs8gqk" alt="Франция – Польша. Анонс и прогноз матча" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Прогноз на матч Франция — Польша ✓ Состоится 04.12.2022 в рамках турнира Чемпионат мира-2022 ⚽ Статистика и анализ матча ✔️ Коэффициенты букмекеров.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQFWX-pUps5IjPu5CSVdrevZfaXVdlIJzIkchy1iPbzdEHyJvZcmZG6uqwWHnoC7Szp4W7iFo4n" alt="Франция — Польша — 3:1, обзор матча Чемпионата мира по ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Франция с первым минут стала контролировать мяч. На 20-й секунде французы заработали опасный штрафной. Первые пять минут вместили в себя угловой, розыгрыш&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.sport-express.ru/football/world/2022/reviews/chm-2022-franciya-polsha-pochemu-u-polshi-net-shansov-protiv-francii-mnenie-i-prognoz-2007421/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Трус не играет в футбол! Почему у Польши нет шансов против ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSzMKEATRSG1ebzh8yVJnU5bBPW7QZA2emMP9NfqUaJR_gUUZYKLpvR9m6Lu5Pl7A-LqW7GBtjM" alt="Трус не играет в футбол! Почему у Польши нет шансов против ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сказка о мальчике Роби, который стал большим нападающим, но подлецом. Мнение. В конце августа 1988 года в семье Ивоны и Кшиштофа Левандовски, жившей в&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

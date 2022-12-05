@@ -11,56 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Mbappe"/>
         <meta name="description" content="Trending News about Mbappe" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Mbappe</h1>
-            <Image width={800} height={500} src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt722464ff7528d87b/6388892549df2e4f2e1d34e2/goal---web-two-way-split--7f3481f4-be85-4bd2-8a2d-41f398cc15f8.png" alt="Mbappe"/>
+            <Image width={800} height={500} src="" alt="Mbappe"/>
             <h3>Recent News</h3>
-            <a href='https://www.goal.com/en-za/news/mbappe-different-beast-struggle-against-walker-if-france-england-world-cup-quarter-final-walcott/blt9b51494f4ace1029'>
+            <a href='https://www.sozcu.com.tr/spor/dunyadan-spor/fransa-polonya-maci-canli-yayin-dunya-kupasi-son-16-turu-7517020/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Mbappe a &#39;different beast&#39; but would &#39;struggle&#39; against Walker if ...</h3>
+                <h3>Fransa Polonya&#39;yı rahat geçerken Kylian Mbappe yıldızlaştı</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTHZAXdITMLD-12hOdgrDuv85GnPdUHsvshY522tuKjGgHGemcX_mPIoWZyaa6ZjkMfEqd9M8rj" alt="Mbappe a &#39;different beast&#39; but would &#39;struggle&#39; against Walker if ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Theo Walcott claims that although Kylian Mbappe is a &quot;different beast&quot; he would &quot;struggle&quot; against Kyle Walker if France and England meet in Qatar.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQhJ0BB7PaW_OL5TiUAyjnqZG8G6ken_-ZDho96BDdCsNfONarAVSoRxmz94D0lFLcA8HTRCqSE" alt="Fransa Polonya&#39;yı rahat geçerken Kylian Mbappe yıldızlaştı" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Son dünya şampiyonu unvanlı Fransa, 2022 Dünya Kupası Son 16 Turu&#39;nda Polonya&#39;yı mağlup ederek çeyrek finale adını yazdırdı. Fransa&#39;nın yıldız futbolcusu Kylian&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.dailymail.co.uk/sport/football/article-11490051/Rio-Ferdinand-claims-Kyle-Walker-defender-planet-pace-stop-Mbappe.html'>
+        </a><a href='https://www.trtspor.com.tr/haber/2022-dunya-kupasi/katarda-mbappenin-gecesi-266397.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Rio Ferdinand claims Kyle Walker is &#39;the only defender on the planet ...</h3>
+                <h3>Katar&#39;da Mbappe&#39;nin gecesi</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTCAVxe_fH3o5oXdwcXzB8teut9AEyPRz0yDVftxuik_dVfwRFBtoWaZaG5xSfY1de5ows4DppM" alt="Rio Ferdinand claims Kyle Walker is &#39;the only defender on the planet ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>England could potentially face France in the quarter-finals of the World Cup and in that scenario dealing with Mbappe would undoubtedly be one of the&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQG-bxlbPaddXwHScoFuPSQt5ZXZ_dumMU6dTX0O7KeEa5yC67hjUC65GI_ezS7P4rAqClDllAB" alt="Katar&#39;da Mbappe&#39;nin gecesi" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Fransa&#39;nın yıldız oyuncusu Kylien Mbappe, Polonya karşısında 2 gol atarak turnuvadaki gol sayısını 5&#39;e yükseltti. Rusya 2018&#39;de de 4 gol atan Mbappe,&nbsp;...</p></div>
             </div>
-        </a><a href='https://talksport.com/football/1263185/kylian-mbappe-kyle-walker-theo-walcott-france-world-cup-england/'>
+        </a><a href='https://www.urfadegisim.com/mbappe-dunya-kupasi-na-damga-vuruyor/68846/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Kylian Mbappe &#39;would struggle&#39; against Kyle Walker&#39;s physicality ...</h3>
+                <h3>Mbappe, Dünya Kupası&#39;na damga vuruyor</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSUYqiErpYtgPjnTuGIwQqWtji83d7VTWMbTBbXJJj7jxsihCN95s-qEs2hs9FkHlNTLzTw3eRz" alt="Kylian Mbappe &#39;would struggle&#39; against Kyle Walker&#39;s physicality ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Theo Walcott believes France forward Kylian Mbappe would struggle against the physicality of England defender Kyle Walker.The Three Lions will meet Le.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSqJCj5-tyvqibcA_alqdd_DcV6qspF4_31N-i5VuJIN_fp8zHDcHZd1j-kZovKyaXEXAmfghSV" alt="Mbappe, Dünya Kupası&#39;na damga vuruyor" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Katar&#39;da düzenlenen FIFA 2022 Dünya Kupası&#39;nda Fransa, Polonya&#39;yı 3-1 yendi ve çeyrek final bileti aldı. Fransa&#39;nın 2 golünü Cezayir asıllı Fransız...</p></div>
             </div>
-        </a><a href='https://www.thesun.co.uk/sport/20615216/england-world-cup-kylian-mbappe-manchester-united-france/'>
+        </a><a href='https://www.ensonhaber.com/kralspor/dunya-kupasi/mbappeden-polonyaya-muthis-gol'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>England have only player in the world who can stop Mbappe say ...</h3>
+                <h3>Mbappeden Polonyaya müthiş gol</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTyv27opOZazM4OgBZvJnf7evVjPw7bC5ILzMXfFG402Hj1SmRLSIAklOOPuT4IqfUg0qijT5G1" alt="England have only player in the world who can stop Mbappe say ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ENGLAND have the only player &quot;on the planet&quot; that can stop France superstar Kylian Mbappe in the 2022 World Cup, claim Rio Ferdinand and Gary Neville.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTQW7cl9JLV12kG51eGWBZj5M9mELhqPC4oXSm8I6bLbJiWaOlWF-q1TpfeGlLfW4Uf-_7JSvCj" alt="Mbappeden Polonyaya müthiş gol" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Fransa&#39;nın Polonya&#39;yı 3-1 mağlup ederek çeyrek finale yüksekdiği maçta Kylian Mbappe, 2 gol attı. Mbappe&#39;nin 2&#39;nci golü ise büyük beğeni topladı.</p></div>
             </div>
-        </a><a href='https://punditarena.com/football/rudi-kinsella/kyle-walker-kylian-mbappe-england-france/'>
+        </a><a href='https://www.gazeteduvar.com.tr/mbappe-atti-son-sampiyon-ceyrek-finale-kaldi-haber-1592176'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Theo Walcott on why Kylian Mbappe could struggle against England</h3>
+                <h3>Mbappe attı, son şampiyon çeyrek finale kaldı</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRgTqmuUmbm3ReqAgpcnVQCkKs0ukTp25IjcVP2s6fOCzhB2uLr2Uv5ya_omJxP9yHMET2ucmJt" alt="Theo Walcott on why Kylian Mbappe could struggle against England" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Walcott feels as though Kyle Walker would be the key to stopping Mbappe, as he would likely play right-back against France, with the Frenchman playing on the&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQKNfY4FI6XpuLeE8T49iYqlDP7G2Fm4D4v0IIwHy2893yfEAjuCK6VrVPpvBo1sR5Ji3BR8ZUS" alt="Mbappe attı, son şampiyon çeyrek finale kaldı" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Dünya Kupası son 16 turunda Fransa ile Polonya çeyrek final için mücadele etti. Fransa Mbappe&#39;nin 2 gol bulduğu maçtan 3-1 galip ayrılarak çeyrek finale&nbsp;...</p></div>
             </div>
-        </a><a href='https://dailypost.ng/2022/12/01/world-cup-hes-different-walcott-names-england-star-to-nullify-mbappe/'>
+        </a><a href='https://www.birgun.net/haber/mbappe-buyuledi-giroud-rekor-kirdi-fransa-ceyrek-finale-yukseldi-412414'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup: He&#39;s different – Walcott names England star to nullify ...</h3>
+                <h3>Mbappe büyüledi, Giroud rekor kırdı, Fransa çeyrek finale yükseldi</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR5z44gW_XwklfJfkQaGjs6aFacpe8E6slIHNe_5XGOd1p7saFHkj_BTjc6CCTy2ycuCUQ66H1V" alt="World Cup: He&#39;s different – Walcott names England star to nullify ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Former Arsenal star, Theo Walcott has said France&#39;s main man, Kylian Mbappe would struggle against the physicality of England defender Kyle Walker.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRr2AtMMePelh1IoTObi2D2Yl0GG7DrRjMrKRIPvvQg7alAV7kpeSfy6ybvycSOIEDuC7wRYNaz" alt="Mbappe büyüledi, Giroud rekor kırdı, Fransa çeyrek finale yükseldi" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Fransa, Dünya Kupası&#39;nda Polonya 3-1 mağlup etti ve çeyrek finali yükseldi. Kylian Mbappe&#39;nin 2 gol 1 asistle yıldızlaştığı maçta Olivier Giroud ise&nbsp;...</p></div>
             </div>
-        </a><a href='https://metro.co.uk/2022/12/01/world-cup-2022-theo-walcott-claims-kylian-mbappe-will-struggle-against-england-star-17862443/'>
+        </a><a href='https://www.kurdistan24.net/tr/story/84365-D%C3%BCnya-Kupas%C4%B1%E2%80%99nda-Fransa-%C3%A7eyrek-finalde:-Mbappe%E2%80%99den-2-gol-1-asist'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022: Theo Walcott claims Kylian Mbappe will &#39;struggle ...</h3>
+                <h3>Dünya Kupası&#39;nda Fransa çeyrek finalde: Mbappe&#39;den 2 gol 1 asist</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSyAC5GzJXx9CVg0HVZdcY6kA1rY4svZ7Woz80fUtaNWtpG9B32gWVh2Rf3UOATYXtSW0qRQdbu" alt="World Cup 2022: Theo Walcott claims Kylian Mbappe will &#39;struggle ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Theo Walcott believes Kylian Mbappe would &#39;struggle&#39; against Kyle Walker if England met France at the World Cup. England have secured their place in the&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSJz3m8sisMrzikMNBA9cLUgMO1Bi3C40xH6bzC-pL5e_GDfpwqtWpPIN5TvGvejxbkHrsPw_f-" alt="Dünya Kupası&#39;nda Fransa çeyrek finalde: Mbappe&#39;den 2 gol 1 asist" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Dünya Kupası son 16 turunda Fransa ile Polonya karşı karşıya geldi. Mücadele 3-1 Fransa üstünlüğüyle sona erdi. Maçta goller; 44. dakikada Olivier Giroud, 74.</p></div>
             </div>
         </a>
         </Template></>;

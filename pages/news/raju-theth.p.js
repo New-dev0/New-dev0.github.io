@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Raju Theth"/>
         <meta name="description" content="Trending News about Raju Theth" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Raju Theth</h1>
-            <Image width={800} height={500} src="https://images.hindustantimes.com/img/2022/12/03/1600x900/sikar_1670061662017_1670061669024_1670061669024.png" alt="Raju Theth"/>
+            <Image width={800} height={500} src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202212/theth_collage-sixteen_nine.jpg?VersionId=4o6PkrYGDrdx9IFMrP54yBBAca5knfDo" alt="Raju Theth"/>
             <h3>Recent News</h3>
-            <a href='https://www.hindustantimes.com/india-news/gangster-raju-theth-shot-dead-in-rajasthan-s-sikar-nia-suspects-lawrence-bishnoi-s-hand-101670059607221.html'>
+            <a href='https://www.indiatoday.in/india/story/gangster-raju-theth-supporters-call-for-bandh-sikar-cops-probe-gang-war-rajasthan-2305039-2022-12-04'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Gangster Raju Theth killed in Rajasthan; NIA suspects Lawrence ...</h3>
+                <h3>Gangster Raju Theth&#39;s supporters call for bandh in Sikar, cops probe ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSBuQWMs5gxki9mOdtj1XIEeMCPuxGWX1wGOlmM9oj8rS0-I-HYxSLl2E8V2s0Eh5sU-zRjbI51" alt="Gangster Raju Theth killed in Rajasthan; NIA suspects Lawrence ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The NIA, while seeking the remand of Lawrence Bishnoi, stated that contract killing is happening in neighbouring Rajasthan as the gangster&#39;s involvement is&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTCXLLKh7o9A4HvBRFHyazwrHl4V5dKAX4p8pjOTQktZIFJH7Ug_VRrT5ZGxoh097Q-T7lgtGNp" alt="Gangster Raju Theth&#39;s supporters call for bandh in Sikar, cops probe ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>After Raju Theth was shot dead at his residence in Rajasthan&#39;s Sikar on Saturday, police are trying to investigate who could be behind the gangster&#39;s murder&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.abplive.com/states/rajasthan/rajasthan-news-raju-theth-murder-how-anandpal-and-balbir-became-known-enemies-of-raju-theth-know-ann-2273344'>
+        </a><a href='https://www.hindustantimes.com/cities/jaipur-news/gangster-raju-theth-murder-rajasthan-police-nab-5-accused-including-1-minor-101670154202434.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Raju Theth Murder: आनंदपाल और बलबीर कैसे बने राजू ठेहट के जानी ...</h3>
+                <h3>Gangster Raju Theth murder: Rajasthan police nab 5 accused ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQMTjcF-I5wubTdc9T5hD1dJprqQ9jhPT2-VfyJ_McS2QMKZoRiB5sGT5eLnMw5gnTZxbUU610P" alt="Raju Theth Murder: आनंदपाल और बलबीर कैसे बने राजू ठेहट के जानी ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Rajasthan Crime: गैंगस्टर राजू ठेहट की राजस्थान के सीकर में आज दिन दहाड़े गोली मारकर हत्या कर&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRNRPOcgN8Ex_FOg7usjmi7E2vzj7vlejfL4nW6-LQW_5fromw4_8AgY5CYK7vhwRalKFkonWSS" alt="Gangster Raju Theth murder: Rajasthan police nab 5 accused ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Police said Theth, who had more than two dozen cases against him, was involved in a rivalry with the dreaded criminal Anandpal Singh, who was killed in a&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.opindia.com/2022/12/lawrence-bishnoi-gang-kills-gangster-raju-theth-in-rajasthan/'>
+        </a><a href='https://www.abplive.com/states/rajasthan/rajasthan-sikar-all-accused-of-gangster-raju-thehat-murder-case-arrested-cm-ashok-gehlot-said-will-give-punishment-2273762'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Rajasthan: Gangster Raju Theth shot dead in Sikar, Lawrence ...</h3>
+                <h3>Raju Theth Murder: गैंगस्टर राजू ठेहट हत्याकांड के सभी आरोपी गिरफ्तार ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQCwfl56UnLMdNfuDt7OytdjUTe3yPGt2SD83nOuZSgFaJS5kQLt30BUYVitgWqqGvIXVzCoblw" alt="Rajasthan: Gangster Raju Theth shot dead in Sikar, Lawrence ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>On Saturday, December 3, gangster Raju Theth was shot dead in broad daylight near his house in Udyog Nagar in Rajasthan&#39;s Sikar by unknown attackers.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRm8WeKlzRslzxkheHGCKWbvS6B3A96hfe--EbsjTT9Z9i01kaiGzwJFjdq8GkCyZQFpQQLazKQ" alt="Raju Theth Murder: गैंगस्टर राजू ठेहट हत्याकांड के सभी आरोपी गिरफ्तार ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Rajasthan News: गैंगस्टर राजू ठेहट हत्याकांड के सभी आरोपियों को झुंझुनूं से गिरफ्तार कर लिया&nbsp;...</p></div>
             </div>
-        </a><a href='https://hindi.moneycontrol.com/news/india/trends/gangster-raju-theth-was-shot-dead-in-rajasthan-sikar-lawrence-bishnoi-gang-claims-responsibility-917631.html'>
+        </a><a href='https://www.aajtak.in/crime/police-and-intelligence/story/sikar-police-action-gangster-raju-theth-murder-case-two-accused-detained-ntc-1588423-2022-12-04'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Raju Theth Shot: गैंगवार से दहला राजस्थान का सीकर! गैंगस्टर राजू ठेठ की ...</h3>
+                <h3>गैंगस्टर राजू ठेठ मर्डर केस: पुलिस का ताबड़तोड़ एक्शन, सभी 5 आरोपी ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR2PVIROPCPn5c4gUXb_r4s2lzgGFC_tk7faOMeFNK4riYgJlYDMzWFclj7YcrJojgqAc1UAZqR" alt="Raju Theth Shot: गैंगवार से दहला राजस्थान का सीकर! गैंगस्टर राजू ठेठ की ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Gangster Raju Theth Shot: राजू ठेठ की शनिवार सुबह 10 बजे सीकर के पिपराली मार्ग स्थित उसके घर के पास&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSHNtM7b9T_QGjuh4rib4POBFN9DKmzWGMynUkyGN0OiQlTdHVngLQs9ZnfbUlLnLy2xrS2TxIk" alt="गैंगस्टर राजू ठेठ मर्डर केस: पुलिस का ताबड़तोड़ एक्शन, सभी 5 आरोपी ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>राजस्थान के सीकर जिले में गैंगस्टर राजू ठेठ की हत्या के बाद पुलिस एक्शन मोड में आ गई है&nbsp;...</p></div>
             </div>
-        </a><a href='https://indianexpress.com/article/cities/jaipur/gangster-raju-theth-shot-dead-rajasthans-sikar-8303936/'>
+        </a><a href='https://www.outlookindia.com/national/minor-among-5-detained-in-gangster-raju-theth-s-murder-in-rajasthan-news-242342'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Gangster Raju Theth shot dead in Rajasthan&#39;s Sikar, assailants flee</h3>
+                <h3>Minor Among 5 Detained In Gangster Raju Theth&#39;s Murder In ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSKTiIp_r5p-OPWZLuJfwSERR57IGb5sk9V_Gi6G2H-rwDOGXPs5BCw7ce--izEcJktGgIL4mV7" alt="Gangster Raju Theth shot dead in Rajasthan&#39;s Sikar, assailants flee" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Theth was a rival of gangster Anandpal Singh who was killed in an encounter by the Rajasthan police in 2017.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSFfF93IY4FeMw2QRyjE5mOK7d4rsKpN9kLPIcFSqNjHXW5R5uLh4J5h024qWP0DfGyPI42iyBb" alt="Minor Among 5 Detained In Gangster Raju Theth&#39;s Murder In ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Rajasthan: Gangster Raju Theth was killed on Saturday in a hail of bullets outside his house, while another man, Tarachand Kadwasara, was also hit by&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.indiatoday.in/india/story/gangster-raju-theth-shot-dead-in-rajasthans-sikar-2304763-2022-12-03'>
+        </a><a href='https://www.indiatvnews.com/news/india/raju-theth-murder-sikar-gangwar-cm-ashok-gehlot-statement-rajasthan-fighting-gangsters-from-haryana-other-states-lawrence-bishnoi-gang-latest-updates-2022-12-04-828615'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Gangster Raju Theth shot in Rajasthan&#39;s Sikar, Lawrence Bishnoi ...</h3>
+                <h3>Raju Theth murder: Rajasthan fighting gangsters from Haryana ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT0sPbw6-e18pq0b1XvjKXpQqCHAEZ3x__EzgSfHT2PpFCr_ea8uyq4wn9IoQO7kDiMldJaE9qk" alt="Gangster Raju Theth shot in Rajasthan&#39;s Sikar, Lawrence Bishnoi ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Sources revealed that Anandpal gang and Lawrence Bishnoi gang were working together. Rohit Godara, the history-sheeter of the Lawrence gang, has taken&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSuQbm_ZEfW6na5M8r8v9jrX5dwP6LJyQGtKYWLYuWZpcMiJ_IxsK2H2w1lGl3GPZbiaFRp71od" alt="Raju Theth murder: Rajasthan fighting gangsters from Haryana ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Raju Theth murder: Gangster Anandpal was killed in a police encounter and since then members of the Anandpal gang are said to have joined the Lawrence&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.indiatvnews.com/news/india/history-sheeter-raju-theth-shot-dead-rajasthan-sikar-gangwar-heavy-police-deployed-bjp-targets-congress-latest-updates-2022-12-03-828456'>
+        </a><a href='https://www.livehindustan.com/rajasthan/story-raju-theth-murder-case-update-news-jat-community-leaders-sit-on-strike-at-sikar-district-hospital-demanding-arrest-of-the-accused-7442037.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>BJP targets Congress after history-sheeter Raju Theth shot dead in ...</h3>
+                <h3>राजू ठेहट मर्डर केस: गरमाई जाट सियासत, जाट नेता धरने पर बैठे; सीकर बंद</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ5sLoqwpMMcHncKmRmvbsiAWcs5Kkm37Z4lmtU0AV8Q-f7Rj06DKyGxlymqyY7eDb9nPjV0mqi" alt="BJP targets Congress after history-sheeter Raju Theth shot dead in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Raju Theth death: Rajasthan minister Pratap Singh Khachariyawas told media that a thorough probe will be done and all the culprits will be brought to&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQLoTkZrUvWoXPJEeGEbeMSr8O0nJ7lqo6z5NRUBaV_miYfaP7lq05DV-ALUkuiAYnPVLb4A7I_" alt="राजू ठेहट मर्डर केस: गरमाई जाट सियासत, जाट नेता धरने पर बैठे; सीकर बंद" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>राजस्थान के सीकर जिले में शनिवार को हुए गैंगस्टर राजू ठेहट हत्याकांड से जाट सियासत&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.aajtak.in/crime/police-and-intelligence/story/gangster-raju-theth-murder-case-4-out-of-5-suspects-identified-by-police-rajasthan-blockade-across-the-state-ntc-1588269-2022-12-03'>
+        </a><a href='https://www.amarujala.com/rajasthan/raju-theth-murder-rohit-godara-of-bishnoi-gang-apologized-for-tarachand-death'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>राजस्थान: गैंगस्टर राजू ठेठ की हत्या के बाद पूरे प्रदेश में नाकेबंदी, 5 में से 4 ...</h3>
+                <h3>Raju Theth Murder : ताराचंद की मौत पर बिश्नोई गैंग के रोहित गोदारा ने ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRb6jGBiGHU-2rsbkV3aVbajbrJX-UYASQBy_0EZPbzyN8P-XSOhcWZVgfC3877Xz7Aa_23p5qf" alt="राजस्थान: गैंगस्टर राजू ठेठ की हत्या के बाद पूरे प्रदेश में नाकेबंदी, 5 में से 4 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>पुलिस बदमाशों की तलाश में चप्पा-चप्पा छान रही है. वहीं हालात देखते हुए सीकर के बाजार&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ4Rklr1YjTE2nKC_PDqZNxxrgLsGWUfYFndb03kpbC-DRtmLrXmJ8DzfRR4dGUJ_wD7fAzjzVV" alt="Raju Theth Murder : ताराचंद की मौत पर बिश्नोई गैंग के रोहित गोदारा ने ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Raju Theth Murder : ताराचंद की मौत पर बिश्नोई गैंग के रोहित गोदा&nbsp;...</p></div>
             </div>
-        </a><a href='https://english.jagran.com/india/rajasthan-gangwar-gangster-raju-theth-killed-outside-his-home-in-sikar-lawrence-bishnoi-gang-claims-responsibility-10056220'>
+        </a><a href='https://www.patrika.com/jaipur-news/raju-theth-gangster-found-in-minister-s-godown-shot-dead-by-police-7903097/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Rajasthan Gangwar: Gangster Raju Theth Killed Outside His Home ...</h3>
+                <h3>Raju Theth: मंत्री के गोडाउन में मिला गैंगेस्टर, राजस्थान पुलिस ने मारी गोली</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQzpOdBG7OEsAG3E799ZeiRTwUGXwkty7bnlFGQadRbir2ED-TeIRMeHcq5h-vVnYgK8X6clUp5" alt="Rajasthan Gangwar: Gangster Raju Theth Killed Outside His Home ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Rajasthan Gangwar: In a video message on Facebook, Godara said that it was the revenge for slain Rajasthan gangsters Anandpal Singh and Balbir Banuda.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTa8RNuOXvCzkaXyi9dPZjvG5lUD6s9bmNkVaNLzHCMYzJ5XBLsB8dOV5XdXY8UPw4GntK_eX6Z" alt="Raju Theth: मंत्री के गोडाउन में मिला गैंगेस्टर, राजस्थान पुलिस ने मारी गोली" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Raju Theth murder: राजस्थान पुलिस की इन हत्यारों से मुठभेड़ हुई वह प्रदेश के ही एक मंत्री से&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.amarujala.com/rajasthan/the-person-making-video-of-raju-theth-murder-was-shot-dead'>
+        </a><a href='https://www.theweek.in/news/india/2022/12/04/five-arrested-for-murder-of-gangster-raju-theth-in-rajasthan.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Raju Theth Murder: गैंगस्टर की हत्या का वीडियो बना रहे एक व्यक्ति को ...</h3>
+                <h3>Five arrested for murder of Gangster Raju Theth in Rajasthan</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT4wo7B0_avlRcAZ2dX-GZkJ2fT3aW4ndULTQhZ5kQTCTehxNCycVt7Sm6PA63mVpTs1fghO6cN" alt="Raju Theth Murder: गैंगस्टर की हत्या का वीडियो बना रहे एक व्यक्ति को ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>राजू ठेहट की हत्या करने आए बदमाशों ने दो और अन्य लोगों को गोली मार दी।&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRcqxEUM0wFvUVunLj222sVhy4g6_ygvnSkt5CKYc0Iw4mWKDhIc33ygssqnkFbSVcx1NGoRPs0" alt="Five arrested for murder of Gangster Raju Theth in Rajasthan" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Police personnel investigate after gangster Raju Theth was shot dead by four men at his residence in Sikar district on Saturday | PTI.</p></div>
             </div>
         </a>
         </Template></>;

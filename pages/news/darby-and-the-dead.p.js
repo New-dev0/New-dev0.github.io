@@ -27,19 +27,19 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTWR_cdesi7tPTeX0ceLcRWqYmfNmYwWdq6XmXvvF4Kk87om2p-ASaXtbHwMod4qceq_S8NBcvI" alt="&#39;Darby and the Dead&#39; Director Silas Howard Talks Dark Comedy and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>The supernatural teen comedy Darby and the Dead follows high schooler Darby Harper (Riele Downs), as she juggles the ability to see dead people with trying&nbsp;...</p></div>
             </div>
-        </a><a href='https://blackgirlnerds.com/riele-downs-talks-darby-and-the-dead/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Riele Downs Talks &#39;Darby and the Dead&#39;</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRTPHsCHzza0udEE5hicRYfi37lLHFEfHzPD4IXo5wZTP5QTRM62oPFT4oV2yUo5wuNNnISCptb" alt="Riele Downs Talks &#39;Darby and the Dead&#39;" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Typically, American Black folks don&#39;t fool around with the dead. We may respect, revere, and reference them, but talking with them and solving their&nbsp;...</p></div>
-            </div>
         </a><a href='https://www.cosmopolitan.com/entertainment/movies/a42125289/darby-and-the-dead-exclusive-clip/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Exclusive: &#39;Darby and the Dead&#39; Introduces Our New Favorite Love ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQxa6N46Qp9lHJFbGeD1zuCV6hdl6BUru2JUrb1MC2U27lOUo4lJC4zdhm4SqVHGtrFD8ZxpM_b" alt="Exclusive: &#39;Darby and the Dead&#39; Introduces Our New Favorite Love ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Auli&#39;i Cravalho, Asher Angel, and Riele Downs star in Hulu&#39;s &#39;Darby and the Dead,&#39; and &#39;Cosmo&#39; has an exclusive clip from the Hulu film to watch for free&nbsp;...</p></div>
+            </div>
+        </a><a href='https://blackgirlnerds.com/riele-downs-talks-darby-and-the-dead/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Riele Downs Talks &#39;Darby and the Dead&#39;</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRTPHsCHzza0udEE5hicRYfi37lLHFEfHzPD4IXo5wZTP5QTRM62oPFT4oV2yUo5wuNNnISCptb" alt="Riele Downs Talks &#39;Darby and the Dead&#39;" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Typically, American Black folks don&#39;t fool around with the dead. We may respect, revere, and reference them, but talking with them and solving their&nbsp;...</p></div>
             </div>
         </a><a href='https://www.indiewire.com/2022/12/darby-and-the-dead-review-hulu-1234787400/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

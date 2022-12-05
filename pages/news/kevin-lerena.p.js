@@ -20,47 +20,40 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSoa0ZYu3TdvLXvP0CmFTG0Z6OIoNuQpuqOoWZaK9ln2UQ-vrQuwfdDIjVXRt7qwOGvi80XT01a" alt="Kevin Lerena&#39;s challenge ends in third-round defeat against Daniel ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Daniel Dubois got up from three visits to the canvas to stop Kevin Lerena in the third round in London on Saturday night to retain his WBA regular&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.boxingscene.com/daniel-dubois-goes-down-three-times-blasts-out-kevin-lerena-third--170898'>
+        </a><a href='https://www.boxingscene.com/photos-daniel-dubois-nearly-shocked-stops-kevin-lerena-third--170909'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Daniel Dubois Goes Down Three Times, But Blasts Out Kevin ...</h3>
+                <h3>Photos: Daniel Dubois Nearly Shocked, Stops Kevin Lerena in Third</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRyIpcQ6UCSEPaZKk1nKvaVoUHjC1SJyfVcPk_x6Ecf4sPhhWELq1WuWIr7U53RdwRMn6tF-5il" alt="Daniel Dubois Goes Down Three Times, But Blasts Out Kevin ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Daniel Dubois held on to his WBA &#39;regular&#39; heavyweight title in remarkable circumstances, as he climbed off the floor three times in the first round having&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQPyeOTRJ8ege3viCm4AUs8dr4t9Edg1WYDaqeynAm4oqIsaPs5B8PZdW5_c-_5-8oVM8dvk7KH" alt="Photos: Daniel Dubois Nearly Shocked, Stops Kevin Lerena in Third" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Dubois, Lerena Fight Photos Gallery - Tottenham Hotspur Stadium - For the WBA &quot;regular&quot; heavyweight title, Daniel Dubois (19-1, 18 KOs) was put down three&nbsp;...</p></div>
+            </div>
+        </a><a href='https://ewn.co.za/2022/12/04/britain-s-dubois-retains-belt-in-boxing-bout-against-sa-s-lerena'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Britain&#39;s Dubois retains belt in boxing bout against SA&#39;s Lerena</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSO-qLhSRb3oabZ3h_uwI2l_DHpgzVpmw8QSoYssDVemYNVbYGXfMWn38Iml6lF5awyl4xVktze" alt="Britain&#39;s Dubois retains belt in boxing bout against SA&#39;s Lerena" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The WBA has a 3-knockdown rule, meaning if a fighter is downed 3 times in any round, the contest will automatically end via TKO.</p></div>
+            </div>
+        </a><a href='https://www.dazn.com/en-ZA/news/other/daniel-dubois-suggests-injury-caused-knockdowns-against-kevin-lerena/1jcvb2y8lf49011vqtpzomqet7'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Daniel Dubois suggests injury caused knockdowns against Kevin ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSJal7_BOMCyQy1chRMmV7VGd_QNPlWsNNSGnJ-WVScj-BlfSqWjp2uXebIEHNZKd6Nc_EcCvGp" alt="Daniel Dubois suggests injury caused knockdowns against Kevin ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Daniel Dubois suggested that knee problems were at the root of at least one knockdown in his win over Kevin Lerena. The 25-year-old defended his WBA regular&nbsp;...</p></div>
             </div>
         </a><a href='https://www.mirror.co.uk/sport/boxing/daniel-dubois-kevin-lerena-fight-28648259'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Daniel Dubois dropped three times but recovers to KO Kevin Lerena</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRXu-_m4l7yzP0D8dFKs5-CpDu8vdfv0yhQNoonHis9ViyciDtI1eQRa22rNfggRBzlyNHVKz0u" alt="Daniel Dubois dropped three times but recovers to KO Kevin Lerena" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Dubois, who was defending the &#39;regular&#39; version of the WBA belt held by Oleksandr Usyk, was the odds-on favourite to prevail on the undercard of Tyson Fury vs&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Daniel Dubois rallied from the brink of disaster to stop Kevin Lerena and salvage his heavyweight career. The Brit was dropped three times in the first&nbsp;...</p></div>
             </div>
         </a><a href='https://www.dailymail.co.uk/sport/boxing/article-11498891/Daniel-Dubois-recovers-knocked-THREE-times-beat-Kevin-Lerena.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Daniel Dubois recovers from being knocked down THREE times to ...</h3>
                 <div style={{ display: "flex" }}>
                 <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQAaD9cphEQ01yzqcd9RQrMNLNPJ06j3S-pb-gHtnxfly8KBiQ45m9oVTXajBBDCTbgKGZuOxQ9" alt="Daniel Dubois recovers from being knocked down THREE times to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The British heavyweight was at serious risk of losing his WBC heavyweight title after a horrific opening round in which he appeared to suffer a knee injury.</p></div>
-            </div>
-        </a><a href='https://www.ringtv.com/647216-daniel-dubois-rises-from-three-opening-round-knockdowns-halts-kevin-lerena-in-the-third/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Daniel Dubois rises from three opening-round knockdowns, halts ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRIEZnNF5TVEDBSRP_QNViZbMYJ37yaoWYyEJ4bsmLlPh2eLRk2cbkDA-OWLNkhcfu1vZSchNdP" alt="Daniel Dubois rises from three opening-round knockdowns, halts ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>LONDON – Daniel Dubois faced a dicey homecoming on Saturday, but the strapping British heavyweight up-and-comer came out victorious with a TKO at the end of&nbsp;...</p></div>
-            </div>
-        </a><a href='https://talksport.com/sport/boxing/1266168/daniel-dubois-down-kevin-lerena-ko-knockout-highlights-tyson-fury-vs-derek-chisora-undercard/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Daniel Dubois DOWN three times in round one, but knocks out ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS4rikrHehoYBd5kNVmH2UbzePF_QcY1FGXCH5iQo-yGh0sjvU5H2KNNsZpUpvRpWRoY2vSm7xt" alt="Daniel Dubois DOWN three times in round one, but knocks out ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Brit suffered a knee injury when he first went down, but battled on to snatch a big victory on the undercard of Tyson Fury vs Derek Chisora 3. Dubois came&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.standard.co.uk/sport/boxing/dubois-vs-lerena-fight-result-knee-injury-b1044651.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Daniel Dubois defies disastrous start and injury to stop Kevin Lerena ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTSBqDLIgiKddVW2pQm2eBFeRdlNrAR_xhXFNDg5B5NCVqBoZJfcsbQiBa51h1HXlPn9yfVz8Ly" alt="Daniel Dubois defies disastrous start and injury to stop Kevin Lerena ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Daniel Dubois dragged himself off the canvas and defied injury to retain his WBA &#39;regular&#39; world heavyweight title in a dramatic first defence against Kevin&nbsp;...</p></div>
+                <p style={{marginLeft: "15px"}}>Daniel Dubois claimed a stunning victory after knocking out Kevin Lerena despite being sent to the canvas three times in the opening round.</p></div>
             </div>
         </a>
         </Template></>;

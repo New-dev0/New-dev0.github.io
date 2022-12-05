@@ -11,56 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Pele"/>
         <meta name="description" content="Trending News about Pele" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Pele</h1>
-            <Image width={800} height={500} src="https://www.cumhuriyet.com.tr/Archive/2022/12/3/2008636/kapak_174214.jpg" alt="Pele"/>
+            <Image width={800} height={500} src="" alt="Pele"/>
             <h3>Recent News</h3>
-            <a href='https://www.cumhuriyet.com.tr/spor/peleden-kotu-haber-2008636'>
+            <a href='https://www.iol.co.za/sport/world-cup/pray-for-pele-says-brazil-assistant-coach-cesar-sampaio-941c6dc6-3b55-40ea-838b-03f81ab24924'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Pele&#39;den kötü haber!</h3>
+                <h3>&#39;Pray for Pele,&#39; says Brazil assistant coach Cesar Sampaio</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSYGkGeCzCI8ln09G9IDWgWzDy8RTBBWJvgK1ITJO1GTbf8mUixt6ETEqPYfjEQGuygxaYaq_Ym" alt="Pele&#39;den kötü haber!" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brezilyalı futbol efsanesi Pele&#39;nin kemoterapiye olumlu yanıt vermediği ve kendisi için endişe verici saatlere girildiği belirtildi.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTFtMx0DsJK4u3ehLEwg7OW7wwaqYwcaeOZB7C4VURDcYhg0yxcyxkS9c_SXt1K7T4XSvMorli3" alt="&#39;Pray for Pele,&#39; says Brazil assistant coach Cesar Sampaio" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Brazil&#39;s assistant coach Cesar Sampaio has asked the footballing world to send its prayers to Pele as the icon receives treatment for colon cancer and a&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.fotomac.com.tr/futbol/2022/12/03/peleden-uzen-haber-geldi'>
+        </a><a href='https://olympics.com/en/news/pele-goals-scored-football-career-how-many'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Pele&#39;den üzen haber geldi!</h3>
+                <h3>Pele&#39;s goal record: Numbers that justify why Brazilian legend is &#39;King&#39;</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQZigFy0SR_jPcA2Ug0caoCCeAaR0Q9KfOTbblDh7u4BwHJ65I_uWTvtuTyJXBfM_Hks-SzGfM4" alt="Pele&#39;den üzen haber geldi!" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Futbol efsaneleri arasında yer alan Pele ile ilgili endişe veren haberler geliyor. Son olarak 82 yaşındaki eski yıldızın kemoterapiya olumlu yanıt vermediği&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTlBOJEufUrhRseqbmlM1GYrGvsbHWQLRvER3ug80mKRdOCIKK5uR-7-wozLOa1FRnxY9VPrTB7" alt="Pele&#39;s goal record: Numbers that justify why Brazilian legend is &#39;King&#39;" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Pele has scored 77 goals in 92 international matches for Brazil and 680 goals in official club matches. His overall career goals tally, however,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.haberturk.com/pele-kemoterapiye-yanit-vermiyor-3544389-spor'>
+        </a><a href='https://ewn.co.za/2022/12/03/world-cup-lights-up-to-show-support-for-hospitalised-pele'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Pele, kemoterapiye yanıt vermiyor!</h3>
+                <h3>World Cup lights up to show support for hospitalised Pele</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcR0AR-89G7Eav6iXwt2T2bhKHO7c2aRqBgubLhuznHDl5RbvTYGx81wpJF042RHH68FxEVKXrGZ" alt="Pele, kemoterapiye yanıt vermiyor!" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Kanser tedavisi gören efsane futbolcu Pele&#39;nin kemoterapiye cevap vermediği açıklandı.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSfi9s4UqWhqDUAXXVEfAWWBMKRRJueqHg8SpYanyh2_PlVziZM2ThnKypmfrtlv0ZjsOeC3xcP" alt="World Cup lights up to show support for hospitalised Pele" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Lusail Stadium in Doha, which will host the World Cup final on December 18, and the Aspire Tower next to the Khalifa Stadium, were adorned with pictures&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.ntvspor.net/futbol/pele-den-kotu-haber-endise-veren-saatler-638b570f66db228e5cb02c37'>
+        </a><a href='https://www.crowrivermedia.com/national/entertainment/pele-insists-he-is-full-of-energy-amid-cancer-fight/article_51ce035f-a1a4-5911-89b9-63c9a0df5cde.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Pele&#39;den kötü haber: Endişe veren saatler...</h3>
+                <h3>Pele insists he is &#39;full of energy&#39; amid cancer fight</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ-cpODAtGIPBN0EznxzH4TxAFISz6jIGmf2OJMiudUftiX7adXOVuIP2aAP0xDYJqAQ49_TQyb" alt="Pele&#39;den kötü haber: Endişe veren saatler..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Pele&#39;nin sağlık durumuyla ilgili endişe verici bilgiler gelmeye başladı. Brezilya basınına göre, 82 yaşındaki futbol efsanesi kemoterapiye olumlu yanıt&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT-y_UWmrwEgLYHNQXPzU8YKsnoKzPaqfEepM34tYywuLJgT-dRPY8elVqRgtLGXmT6aUXfDYoO" alt="Pele insists he is &#39;full of energy&#39; amid cancer fight" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>He has been undergoing chemotherapy treatment since September 2021 and has been said to no longer be responding to the treatment. Pele was taken into hospital&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.fanatik.com.tr/peleden-kotu-haber-geldi-2312141'>
+        </a><a href='https://www.cnn.com/2022/12/03/football/pele-football-world-well-wishes-intl-spt/index.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Pele&#39;den kötü haber geldi!</h3>
+                <h3>Pelé says he&#39;s &#39;strong&#39; and &#39;with a lot of hope&#39; in social media update</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSJ2ncxjgREt29jn1SfPt-xua5tW_W4beZ3crG-Das1_6C9DS7VLDpoiGXkCWglmQvXYVosWydo" alt="Pele&#39;den kötü haber geldi!" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Futbol efsaneleri arasında yer alan Pelenin sağlık durumuyla ilgili endişe verici bilgiler gelmeye başladı. Brezilya basınına göre, 82 yaşındaki futbol&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSq2vqee1YYuzT-ulFfCo7m4bMC8K_5dli8i_R8qTknG4nvrh0BvOWOMupa3sRHIFPOx87vPMCh" alt="Pelé says he&#39;s &#39;strong&#39; and &#39;with a lot of hope&#39; in social media update" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Brazilian soccer great Pelé says he&#39;s &quot;strong&quot; and has &quot;a lot of hope&quot; as he continues his treatment for colon cancer.</p></div>
             </div>
-        </a><a href='https://www.aydinlik.com.tr/haber/pele-palyatif-bakima-alindi-353960'>
+        </a><a href='https://www.theguardian.com/football/2022/dec/04/brazil-assistant-coach-cesar-sampaio-asks-people-to-pray-for-pele'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Pele, palyatif bakıma alındı</h3>
+                <h3>Brazil assistant coach César Sampaio asks people to pray for Pelé</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRE9I8n9YatGk2-u5pFLSFwWUmPqSwaJFibYUB8Pp8lcQV1XO2K0d8bHqOE8IJkWMnONR3Kf0bu" alt="Pele, palyatif bakıma alındı" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Brezilyalı futbol efsanesi Pele, Salı günü yaşadığı &quot;kalp rahatsızlığı&quot; sonrasında Sao Paulo&#39;daki Albert Einstein Hastanesi&#39;ne kaldırılmıştı.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRgFWMDF4pwXSww47ucCkn9jKssbjL3Jj8k_PP4B3_7U2R036FIwlY1XQvVg0fLczClgt1N7eg3" alt="Brazil assistant coach César Sampaio asks people to pray for Pelé" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>César Sampaio, an assistant coach at the World Cup, said: &#39;Regardless of religion, please say a prayer,&#39; while Pelé said from hospital: &#39;I want to keep&nbsp;...</p></div>
             </div>
-        </a><a href='https://onedio.com/haber/futbol-efsanesi-pele-den-kotu-haber-yogun-bakima-alindi-1111729'>
+        </a><a href='https://www.southcoastregister.com.au/story/8006798/brazil-coach-tites-hopes-for-ailing-pele/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Futbol Efsanesi Pele&#39;den Kötü Haber: Yoğun Bakıma Alındı</h3>
+                <h3>Brazil coach Tite&#39;s hopes for ailing Pele</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTe4hEHqPenfcB6iBcKD8pfKRcgzS2y2wHif3BYT4M2BRiH4iQQ-G7BCRCG6rsIYUwaDqEvLm3W" alt="Futbol Efsanesi Pele&#39;den Kötü Haber: Yoğun Bakıma Alındı" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Dünya futbolunun en büyük efsanelerinden biri olarak bilinen Brezilyalı Pele&#39;nin sağlık durumu ile ilgili gelen haberler kötü.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTGA-hT9zdI-fIAMnftKOsZtuG53OJrMGFgwbiwwwUS5Yx_y9HwStNsOs5rAGrU_R1BGdGq1wZw" alt="Brazil coach Tite&#39;s hopes for ailing Pele" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Brazil head coach Tite has wished three-time World Cup winner Pele good health, recalling how he was left...</p></div>
             </div>
         </a>
         </Template></>;

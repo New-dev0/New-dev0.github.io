@@ -20,12 +20,12 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQTXN30KY_gNceUK0y1BvKmCoKkgFdydMBgrDTiFWGlVPzxLoqmoRyTag0DeOLBqmwcRuQh8-WU" alt="&#39;Lady Chatterley&#39;s Lover&#39; Makes Sex Scenes Look Like Works of Art" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Netflix&#39;s Lady Chatterley&#39;s Lover updates the book&#39;s treatment of sex, presenting the act as not just an erotic force, but a miraculous one.</p></div>
             </div>
-        </a><a href='https://slate.com/culture/2022/12/lady-chatterleys-lover-netflix-movie-sex-scenes.html'>
+        </a><a href='https://indianexpress.com/article/explained/lady-chatterleys-lover-obscenity-trials-ranjit-udeshi-8304311/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>A Detailed Review of the Sex Scenes in Netflix&#39;s Latest Steamy ...</h3>
+                <h3>Lady Chatterley&#39;s Lover on Netflix: Obscenity trials the book faced ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRIhEfSEV7EzBNyFbPqONv9QRyxleDuDE1qGRttLnn5nGAOAJrsvIeO2TBjViAbhMP4-9u3e2GP" alt="A Detailed Review of the Sex Scenes in Netflix&#39;s Latest Steamy ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The new Lady Chatterley&#39;s Lover is surprisingly explicit—except that it leaves out the book&#39;s most scandalous part.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTCdN9MD74D74oA3jXNochpoE5GCfs-fw2dXQmxL_gac-8QAlOgOZ9l8XYbi-nKH1VuAhLaWXTp" alt="Lady Chatterley&#39;s Lover on Netflix: Obscenity trials the book faced ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>What is DH Lawrence&#39;s novel about, and why did it raise such a row when first published? What was the Ranjit Udeshi case around it in India,&nbsp;...</p></div>
             </div>
         </a><a href='https://www.thereviewgeek.com/ladychatterleyslover-endingexplained/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -34,33 +34,33 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcReNI4-WkhGtFcY7wBXi32F8SiMoUie6_7E7n7XuOpVg1OBs8VFiuBnFbVea9lQGs2YF9n630nF" alt="Lady Chatterley&#39;s Lover (2022) Ending Explained - Do Connie and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Directed by Laure de Clermont-Tonnerre and based on the 1928 novel by D. H. Lawrence, Lady Chatterley&#39;s Lover is a romantic drama about Lady Constance&nbsp;...</p></div>
             </div>
-        </a><a href='https://indianexpress.com/article/explained/lady-chatterleys-lover-obscenity-trials-ranjit-udeshi-8304311/'>
+        </a><a href='https://www.hindustantimes.com/entertainment/hollywood/lady-chatterley-s-lover-review-emma-corrin-leads-a-vacant-netflix-adaptation-101670075822410.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Lady Chatterley&#39;s Lover on Netflix: Obscenity trials the book faced ...</h3>
+                <h3>Lady Chatterley&#39;s Lover review: Emma Corrin leads a vacant Netflix ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTCdN9MD74D74oA3jXNochpoE5GCfs-fw2dXQmxL_gac-8QAlOgOZ9l8XYbi-nKH1VuAhLaWXTp" alt="Lady Chatterley&#39;s Lover on Netflix: Obscenity trials the book faced ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>What is DH Lawrence&#39;s novel about, and why did it raise such a row when first published? What was the Ranjit Udeshi case around it in India,&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ1suUxBQplchafVJKxUg6rUu6tFcVSo1iwypkc-qtCPnkEvuuyQ53jEZUFXbqRfvK-4Ai2kFFq" alt="Lady Chatterley&#39;s Lover review: Emma Corrin leads a vacant Netflix ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lady Chatterley&#39;s Lover review: Directed by Laure de Clermont-Tonnerre, Lady Chatterley&#39;s Lover struggles to capture the torment and thrill of the original&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.vogue.com/article/lady-chatterleys-lover-31-thoughts-i-had'>
+        </a><a href='https://www.theguardian.com/culture/2022/dec/03/what-links-lady-chatterleys-lover-to-walkabout-and-william-hurt'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>31 Thoughts I Had Watching &#39;Lady Chatterley&#39;s Lover&#39;</h3>
+                <h3>What links Lady Chatterley&#39;s Lover to Walkabout and William Hurt?</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRFhXXPB5CjhfNCACT8RjjFGsejHIqCFkq4gXm0ESFUOiEkpWHKSX1HYM74O4_vdDFtOzdI2NIE" alt="31 Thoughts I Had Watching &#39;Lady Chatterley&#39;s Lover&#39;" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Oh, shit, Clifford and Constance hire a smokin&#39; hot gamekeeper, Oliver Mellors, who looks like a slightly younger Ethan Hawke. Wait, is that Ethan Hawke? Okay,&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ0uam28BXYL9lO5E7L4SbLZOfrpvfrnPfT9yWvgtCrqAqLmlstFQPqQWtFed7XfqHTEwNsA8pD" alt="What links Lady Chatterley&#39;s Lover to Walkabout and William Hurt?" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The DH Lawrence classic inexorably leads to violent UK theatre, a stunning John Barry soundtrack and the erotic thriller Body Heat.</p></div>
             </div>
-        </a><a href='https://time.com/6238167/lady-chatterleys-lover-review/'>
+        </a><a href='https://readysteadycut.com/2022/12/04/where-was-lady-chatterleys-lover-filmed/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Netflix&#39;s Steamy &lt;i&gt;Lady Chatterley&#39;s Lover&lt;/i&gt; Breathes Fresh Life ...</h3>
+                <h3>Where was Netflix&#39;s Lady Chatterley&#39;s Lover filmed?</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRanOqnRKYRjL1PFf16kE3UNJ0u0KzxCSPO8OqmDwcQYDD6ZNuICVmxY12VNiQmtpLQscTRNx4J" alt="Netflix&#39;s Steamy &lt;i&gt;Lady Chatterley&#39;s Lover&lt;/i&gt; Breathes Fresh Life ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>To rescue a book from its status as a punchline is a noble goal, and Laure de Clermont-Tonnerre has pulled it off with her thoughtful and radiantly carnal&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSohdGEnoIF9c35yT6CcRhlsvASb64poyML2iLS6Wr3Mna4JN9duaW0UTLr6K6xd5P0D0B9Ab93fg" alt="Where was Netflix&#39;s Lady Chatterley&#39;s Lover filmed?" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Where was the Netflix film Lady Chatterley&#39;s Lover filmed? We discuss the popular streaming movie and its locations.</p></div>
             </div>
-        </a><a href='https://www.nytimes.com/2022/12/02/movies/emma-corrin-lady-chatterleys-lover.html'>
+        </a><a href='https://www.cosmopolitan.com/uk/entertainment/a42140132/lady-chatterlys-lover-sex-scenes/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>For Emma Corrin, Identity Is an Ever-Evolving Project</h3>
+                <h3>Lady Chatterley&#39;s Lover fans all agree over one detail</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSyUuK34P1hma2pPT9FAK9XGrBZ0JLVty280vw34ewgafEXnQu0tnu2JlHC-rrf5xTCHf9dvY1b" alt="For Emma Corrin, Identity Is an Ever-Evolving Project" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Onscreen and off, the nonbinary star of “Lady Chatterley&#39;s Lover” and “The Crown” has been exploring gender and the cost and responsibility of being heard.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT28ueQMhwd6bZ4Z56Iqg5mZ3xpdzhFz-V1oZHGP79v-h4JKo3uRce8Zz17diKG4uWI_dKDrQuV" alt="Lady Chatterley&#39;s Lover fans all agree over one detail" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The period drama film - an adaptation of the novel by the same name by DH Lawrence - stars The Crown actor Emma Corrin. But before you get a vision of stuffy&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

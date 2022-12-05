@@ -7,18 +7,18 @@ import Image from "next/image";
 export default function Page() {
     const md = useMediaQuery(960);
     return <><Head>
-        <title>РЕН ТВ</title>
-        <meta name="keywords" content="news,trending,latest,sports,breaking,top,РЕН ТВ"/>
-        <meta name="description" content="Trending News about РЕН ТВ" /></Head><Template>
-            <h1 style={{fontSize: "30"}}>РЕН ТВ</h1>
-            <Image width={800} height={500} src="" alt="РЕН ТВ"/>
+        <title>Рен-ТВ</title>
+        <meta name="keywords" content="news,trending,latest,sports,breaking,top,Рен-ТВ"/>
+        <meta name="description" content="Trending News about Рен-ТВ" /></Head><Template>
+            <h1 style={{fontSize: "30"}}>Рен-ТВ</h1>
+            <Image width={800} height={500} src="https://kprf.ru/m/900/600/t/img/2022/12/grafik-1.jpg" alt="Рен-ТВ"/>
             <h3>Recent News</h3>
-            <a href='https://news.ru/moskva/ren-tv-v-moskve-proizoshlo-dtp-s-uchastiem-deputata-mosobldumy/'>
+            <a href='https://kprf.ru/politindx/214998.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>РЕН ТВ: в Москве произошло ДТП с участием депутата ...</h3>
+                <h3>Хронометраж партийного телеэфира («Первый», «Россия», НТВ ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTDSeKbAmWLuCibgXXtGKsQbtRkmMviKZN0XDpgOJS0z3UgsBzRwYe5U1jwjzF9z33WleLBWvJ4" alt="РЕН ТВ: в Москве произошло ДТП с участием депутата ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>ДТП с участием депутат Мособлдумы произошло в центре Москвы. Авария произошла на пересечении улицы Грузинский вал и Большого Кондратьевского переулка,&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQYUAs4rMmoLRjUaRsPiOnsWSJCayHKlw5e7sfATeCZa_OcyRmvMWx98O3qaoAz-cm2zpfZojNa" alt="Хронометраж партийного телеэфира («Первый», «Россия», НТВ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Динамика новостного партийного эфира, 2022 г. Таким образом, в период с 27 ноября по 3 декабря по сравнению с прошлой неделей резко упал объём политического&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

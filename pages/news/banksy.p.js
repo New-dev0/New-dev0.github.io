@@ -34,13 +34,6 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR7VY4LVfsF6YJORg3F0OOm9WUynZDVva16pTRXs7BwB-06fUBY9tPhM_8bsUXYd0jqzNmsckUa" alt="Ukrainekrieg: Kriminelle schneiden Banksy-Bild aus Hauswand" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>In der Ukraine ist kurz nach der Entstehung ein Bild des Streetart-Künstlers Banksy von Kriminellen aus der Wand geschnitten worden. Im...</p></div>
             </div>
-        </a><a href='https://de.euronews.com/2022/12/03/dreister-diebstahl-eines-banksy-werkes-in-kiew-polizei-greift-rechtzeitig-ein'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Dreister Diebstahl eines Banksy-Werkes in Kiew - Polizei greift ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT44lwM9tPjOtow_MZcI3JXeoAbS2ecNnXaopvvKUrCu4IFmbXnsporiNHekfNFSUlULGn-1XDf" alt="Dreister Diebstahl eines Banksy-Werkes in Kiew - Polizei greift ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Acht Menschen zwischen 27 und 60 Jahren versuchen in Kiew, ein Banksy-Werk zu stehlen. Der dreiste Raub missglückt, weil Anwohner die Polizei verständigen.</p></div>
-            </div>
         </a><a href='https://www.spiegel.de/panorama/justiz/ukraine-kriminelle-versuchen-banksy-bild-zu-stehlen-a-889700ff-14a8-4099-885d-0c41ca95cbae'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Ukraine: Kriminelle versuchen, Banksy-Bild zu stehlen</h3>
@@ -48,12 +41,19 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRAmDl4V-uTjZtLXKRg5xO0NLUdvQ5X9z3YstiGsNxSDhV_-sZ8-yvpP6MqDVNqOXxrg33ThB0D" alt="Ukraine: Kriminelle versuchen, Banksy-Bild zu stehlen" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Sieben Bilder soll der britische Street-Art-Künstler auf ukrainischen Kriegsruinen hinterlassen haben. Eines davon nahmen mutmaßliche Diebe ins Visier – und&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.welt.de/vermischtes/kriminalitaet/article242467755/Banksy-Bild-in-Kiew-Kriminelle-schneiden-Graffiti-direkt-aus-der-Hauswand.html'>
+        </a><a href='https://de.euronews.com/2022/12/03/dreister-diebstahl-eines-banksy-werkes-in-kiew-polizei-greift-rechtzeitig-ein'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Banksy-Bild in Kiew: Kriminelle schneiden Graffiti direkt aus der ...</h3>
+                <h3>Dreister Diebstahl eines Banksy-Werkes in Kiew - Polizei greift ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSjQ6rYu_xsCmX3G-plkSFRnYu-twbAB3fOK5Fp-gFLGiGqBz-kgZZgGK0q5vp0dkb30VxfzIJb" alt="Banksy-Bild in Kiew: Kriminelle schneiden Graffiti direkt aus der ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>In der Ukraine ist ein Bild des Streetart-Künstlers Banksy von Kriminellen kurzerhand aus der Wand geschnitten worden. Im Kiewer Vorort Hostomel hätten&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT44lwM9tPjOtow_MZcI3JXeoAbS2ecNnXaopvvKUrCu4IFmbXnsporiNHekfNFSUlULGn-1XDf" alt="Dreister Diebstahl eines Banksy-Werkes in Kiew - Polizei greift ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Acht Menschen zwischen 27 und 60 Jahren versuchen in Kiew, ein Banksy-Werk zu stehlen. Der dreiste Raub missglückt, weil Anwohner die Polizei verständigen.</p></div>
+            </div>
+        </a><a href='https://www.ndr.de/kultur/Banksy-Bild-in-der-Ukraine-aus-einer-Wand-geschnitten,kulturkurzmeldung2682.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Banksy-Bild in der Ukraine aus einer Wand geschnitten</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR3_nFtuxXR4RzA3cpeNvIHlm7SBqBPV503gqEgWA1fvgKi4j4uCS1IGIh7fYFeYgcds7i8BN5J" alt="Banksy-Bild in der Ukraine aus einer Wand geschnitten" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>In einem Vorort von Kiew ist kurz nach seiner Entstehung ein Bild des Streetart-Künstlers Banksy aus der Wärmedämmung einer Wand geschnitten worden.</p></div>
             </div>
         </a>
         </Template></>;

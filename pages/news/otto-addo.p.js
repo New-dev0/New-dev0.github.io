@@ -20,13 +20,6 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTyleWfRwxr8QoEiSkiXlkBDlqqE5oBTUCYQkk9Gh7deemzFR6ldlaymfsSVxYjekTwpg1lGbFQ" alt="Zukunft in Deutschland - Nach WM-Aus: Otto Addo hört als Ghana ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Ghana war als Zweiter der Gruppe H ins dritte Spiel gegangen, aber durch ein 0:2 gegen Uruguay ausgeschieden. Mit Genehmigung von Borussia Dortmund übernahm&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.spox.com/de/sport/fussball/bundesliga/2212/Artikel/bvb-news-geruechte-borussia-dortmund-offenbar-an-ksc-profi-tim-breithaupt-interessiert.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>BVB, News und Gerüchte: Karlsruhes Tim Breithaupt wohl ein ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRT25EzixWzsOAKe-vk5qKVOF4PnYfaWhUrD7WxzgR5HkVEYa0vTwoDuwvplyGocDHmDtPduCLn" alt="BVB, News und Gerüchte: Karlsruhes Tim Breithaupt wohl ein ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Tim Breithaupt vom Zweitligisten Karlsruher SC steht angeblich auf der Wunschliste des BVB. Doch es gibt namhafte Konkurrenz. Außerdem: Otto Addo beendet&nbsp;...</p></div>
-            </div>
         </a><a href='https://www.sport1.de/news/fussball/wm/2022/12/wm-2022-otto-addo-bleibt-beim-bvb-und-hort-als-ghana-coach-auf'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>WM 2022: Otto Addo bleibt beim BVB und hört als Ghana-Coach auf</h3>
@@ -47,6 +40,13 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQKBPLlrtDBXdLcy5akMcZ9vtDjuzrepdkj5XMbAkzXPpTuQn5ra9hBtD-GK4GQOvTNDCboVvyp" alt="Otto Addo tritt als Nationaltrainer von Ghana zurück" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Otto Addo gibt seinen Posten als Trainer der ghanaischen Nationalmannschaft auf.</p></div>
+            </div>
+        </a><a href='https://www.spox.com/de/sport/fussball/bundesliga/2212/Artikel/bvb-news-geruechte-borussia-dortmund-offenbar-an-ksc-profi-tim-breithaupt-interessiert.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>BVB, News und Gerüchte: Karlsruhes Tim Breithaupt wohl ein ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRT25EzixWzsOAKe-vk5qKVOF4PnYfaWhUrD7WxzgR5HkVEYa0vTwoDuwvplyGocDHmDtPduCLn" alt="BVB, News und Gerüchte: Karlsruhes Tim Breithaupt wohl ein ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Tim Breithaupt vom Zweitligisten Karlsruher SC steht angeblich auf der Wunschliste des BVB. Doch es gibt namhafte Konkurrenz. Außerdem: Otto Addo beendet&nbsp;...</p></div>
             </div>
         </a><a href='https://bvbwld.de/2022/12/03/otto-addo-gibt-job-als-ghana-trainer-auf-und-bleibt-beim-bvb/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>

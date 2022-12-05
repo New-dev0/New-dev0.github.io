@@ -11,70 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Eagles"/>
         <meta name="description" content="Trending News about Eagles" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Eagles</h1>
-            <Image width={800} height={500} src="https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/eagles/vfj1fasiogkihndb5wex" alt="Eagles"/>
+            <Image width={800} height={500} src="https://metrophiladelphia.com/wp-content/uploads/2022/12/AP22338714364678-1200x800.jpg" alt="Eagles"/>
             <h3>Recent News</h3>
-            <a href='https://www.philadelphiaeagles.com/news/morning-roundup-packers-eagles-night-wont-soon-forget-draftkings'>
+            <a href='https://metrophiladelphia.com/hurts-has-3-td-passes-plus-td-run-eagles-beat-titans/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Morning Roundup: A night Eagles fans won&#39;t soon forget</h3>
+                <h3>Hurts has 3 TD passes plus TD run, Eagles beat Titans 35-10 ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQmaqBglz9G8NeIqgSidBqf4slNDQMwMZgHYZiQk3AYqVNFMApvovc0eyj_0A5eGrlSIbrAyUdi" alt="Morning Roundup: A night Eagles fans won&#39;t soon forget" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The phrase &quot;rewriting the record books&quot; became a tired phrase during the Eagles&#39; 40-33 victory over the Green Bay Packers.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQqHwyXatvXFyOGtnkWuvDjZxAG0SxJCdP8lQlrKVaiFcjIqISlhc_MlN6Q0CAXaS21nGl-aGB2" alt="Hurts has 3 TD passes plus TD run, Eagles beat Titans 35-10 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Jalen Hurts strengthened his MVP bid by throwing for 380 yards and three touchdowns and running for another score, and A.J Brown caught two touchdown passes&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.philadelphiaeagles.com/news/spadaro-red-zone-success-a-key-to-eagles-10-1-start'>
+        </a><a href='https://www.nfl.com/news/eagles-wr-a-j-brown-on-two-td-game-vs-titans-this-one-meant-a-lot-to-me'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Spadaro: Red zone success a key to Eagles&#39; 10-1 start</h3>
+                <h3>Eagles WR A.J. Brown on two-TD game vs. Titans: &#39;This one meant a ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT8QnLhWnSxWFDX8ZZ-whH_IAEy1_dnreVKAlNMVva5pC_6TCV1umoiT0NLJHsNZKXRyebxKLMk" alt="Spadaro: Red zone success a key to Eagles&#39; 10-1 start" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Read about that and get the latest on the injury front, plus a first look at the Tennessee Titans.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTXCiSVzU957h4sbSSFqddn9ImQ2MMedNyNJYcDteOCVj3QpR4ZoqGDo0_7J2H6dshBZWDDfryM" alt="Eagles WR A.J. Brown on two-TD game vs. Titans: &#39;This one meant a ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>With eight receptions for 119 yards and two touchdowns in a win over the Titans, Eagles WR A.J. Brown explains how important it was to get some revenge&nbsp;...</p></div>
             </div>
-        </a><a href='https://theeagleswire.usatoday.com/lists/philadelphia-eagles-packers-national-reaction-post-game-jalen-jurts/'>
+        </a><a href='https://www.philadelphiaeagles.com/news/game-recap-titans-vs-eagles-week-13-2022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>National reactions: Eagles move to 10-1 after running all over the ...</h3>
+                <h3>Game Recap: Eagles 35, Titans 10</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcREDwGpa_XaY7IzEenMysuP_I3a8iu1gSHjslOOSbKcDra0fd9CXmWzNFSck6sFpa76_bkDUpSs" alt="National reactions: Eagles move to 10-1 after running all over the ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>One of the hosts on NFL Network&#39;s Good Morning Football, Schrager is high on the Eagles&#39; offensive line and “Stoutland University.”.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRxH_bak5rUtppNFgjZej4voCksISRGSmf2-peV5Prte93QllZA4H7CqQVyt7G-H3Wrjc3FMkiG" alt="Game Recap: Eagles 35, Titans 10" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Eagles dominated the Tennessee Titans for a 35-10 victory at Lincoln Financial Field. Quarterback Jalen Hurts was magnificent, throwing for 380 yards&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.inquirer.com/eagles/eagles-jordan-davis-injured-reserve-tennessee-titans-week-13-20221128.html'>
+        </a><a href='https://www.nbcsports.com/philadelphia/eagles/eagles-overreactions-learning-important-lesson-even-huge-win-vs-titans'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Eagles&#39; Jordan Davis, who is eligible to return from IR, is &#39;feeling ...</h3>
+                <h3>Eagles overreactions: Learning important lesson even in huge win ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSQXV_EioT_cR3KRN0sQelmp8tBpZ3kBfeVWDp2cdn9ibA34Qp1aKypxGTUgWNOw1VSZwA1LBGS" alt="Eagles&#39; Jordan Davis, who is eligible to return from IR, is &#39;feeling ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The rookie defensive tackle, who has missed the last four games with a high ankle sprain, could return as soon as Sunday against the Tennessee Titans.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ-yvaAmV2OVaAE8XZ6HfaHupwIvYHYjNztwtJYzCY8wvg2fvSwuu3kNlupSK0o-37lORf5uE_v" alt="Eagles overreactions: Learning important lesson even in huge win ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Howie Roseman once had an up-and-down relationship with Eagles fans. Right now it&#39;s nothing but up. Roseman evaluated his roster after the loss to the Bucs&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sbnation.com/nfl/2022/11/28/23482288/the-eagles-offense-just-knows-how-to-win'>
+        </a><a href='https://www.espn.com/nfl/story/_/id/35180940/eagles-aj-brown-scores-emphatic-40-yard-td-former-team'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>The Eagles offense just knows how to win</h3>
+                <h3>Eagles&#39; A.J. Brown scores twice against former team</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTQSf8qT8IqStwmt38Sz3cGfeOVoGKJf6U-CWNbVXYFPV6So_mAV2jXSWrDsgEtY2CKeK7rSvbn" alt="The Eagles offense just knows how to win" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Packers came into the game 11th in the NFL in Pass Defense DVOA, but by both DVOA and EPA/play they&#39;ve been one of the worst teams in the NFL against the&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS10EPgvD5OlBiGKQAtfYN8X2h8_jj5nH7FKlSiUSUPOuzjSO_Du1skrP7I13eXiYN2yMEiJ1n4" alt="Eagles&#39; A.J. Brown scores twice against former team" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>WR broke through a ____ penalty to walk into the end zone against team that traded him on draft night.</p></div>
             </div>
-        </a><a href='https://packerswire.usatoday.com/2022/11/28/packers-miss-16-tackles-on-defense-during-loss-to-jalen-hurts-eagles/'>
+        </a><a href='https://www.tennesseetitans.com/news/titans-drop-second-straight-this-one-a-35-10-loss-to-the-eagles'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Packers miss 16 tackles on defense during loss to Jalen Hurts, Eagles</h3>
+                <h3>Titans Drop Second Straight, This One a 35-10 Loss to the Eagles</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTaigyCwxSUXFjP-PU4p_XkIiA21rPtlkTwY0h6QuXKlIiQy6JamvFqF3mquH4SCmQ_zuUjB1xS" alt="Packers miss 16 tackles on defense during loss to Jalen Hurts, Eagles" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Packers matched a season-high with 16 missed tackles on Sunday night against the Eagles.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRoEo06C2yk9Y35hSFifS7M6vECUQXbZTiK3kvu9d2SP5FcqGGM5JyhhjQH1iQln_rVRI4Z7M8w" alt="Titans Drop Second Straight, This One a 35-10 Loss to the Eagles" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>PHILADELPHIA – Oh, brother. In the city of brotherly love, the Philadelphia Eagles proved to be too much to handle for the Tennessee Titans.</p></div>
             </div>
-        </a><a href='https://deadspin.com/the-eagles-look-good-but-here-s-who-they-should-be-war-1849827711'>
+        </a><a href='https://www.nbcsports.com/philadelphia/eagles/eagles-injury-update-quez-watkins-eagles-vs-titans-nfl'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>The Eagles look good, but here&#39;s who they should be wary of in the ...</h3>
+                <h3>Eagles injury update: Quez Watkins leaves with shoulder injury</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQX5PPVcRMKSyyw3Ctcs2IycfGTpYjsWf6fQy-3c1sYKFwlqZeTI2x1_82ah_u2V7yENzojHzwE" alt="The Eagles look good, but here&#39;s who they should be wary of in the ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Philadelphia Eagles have dominated the NFC over the first three months of the season en route to a league-best 10-1 start. Besides the game against&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.inquirer.com/eagles/eagles-super-bowl-hurts-sirianni-nfl-packers-20221128.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Eagles win vs. Packers shows the offense is Super Bowl-caliber and ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQxiRpFzN0N2hF6byacp7jB7uRj9hqCXwEmLEvGzb3GCk-ZMt93dep-4sP4bsyIZ03gi8F5sgg1" alt="Eagles win vs. Packers shows the offense is Super Bowl-caliber and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Eagles defense didn&#39;t have its best day and the special teams are suspect, but Jalen Hurts and the offense have made the Super Bowl very much in reach&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.mainlinemedianews.com/2022/11/27/hurts-breaks-club-record-as-eagles-beat-packers/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Hurts breaks club record as Eagles beat Packers</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTBNQKX0BoOuNOLc5-MQVFX6XGX0FTPC6Z_hM29iyhcjc364dGYn4eyvEzMZmS9TZ2NALp0c4hb" alt="Hurts breaks club record as Eagles beat Packers" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>PHILADELPHIA — The Eagles faltered after grabbing an early two-touchdown lead but bounced back behind Jalen Hurts, who set the single-game club rushing&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRC5ImHt4qlSlykUp9P36hvViOff-SNCvVbxSJmzxYxD8TmR7A7Wz4V-khSYMkK4qrgKYPsRD4p" alt="Eagles injury update: Quez Watkins leaves with shoulder injury" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Quez Watkins exited the Eagles&#39; game against the Titans on Sunday afternoon late in the third quarter.</p></div>
             </div>
         </a>
         </Template></>;

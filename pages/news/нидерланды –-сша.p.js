@@ -41,19 +41,26 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSDbylcW3CaX9x35iyOLLyPCrRijVQlu8WlgcvctTZz6D0JN9gQ3XWvPbVWx7bQ2mL2ebUzl50" alt="Нидерланды — США" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Поздравляем сборную Нидерландов с выходом в 1/4 финала и ждем матч Аргентины и Австралии (22:00), в котором станет известен следующий соперник голландцев. 90+3.</p></div>
             </div>
-        </a><a href='https://www.sportmk.ru/sports/2022/12/03/niderlandy-ssha-prognoz-na-match-chempionata-mira-3-dekabrya-ot-olimpbet.html'>
+        </a><a href='https://sportmail.ru/football2022/news/54128626/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Нидерланды — США: прогноз на матч чемпионата мира 3 ...</h3>
+                <h3>Нидерланды — США: прогнозы и ставки</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQG83sCYzVbT1lOutFzrvd8FFOXpWm-nEbMSfa92uFckvtDnbxPe9TVkyIad8rY6NtvatfMB3wW" alt="Нидерланды — США: прогноз на матч чемпионата мира 3 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Нидерландам пока не попадались стоящие соперники &middot; За океаном тоже умеют играть в футбол &middot; Olimpbet считает, что основным временем встреча не ограничится.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRSpR_ILNmjEInhjQCjSg_Bt6Srs5ZEM9339NbsaY2asJRrtaQkYaQRudEzmCNQNEp4LGAJgkA2" alt="Нидерланды — США: прогнозы и ставки" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Чего ждать от первого матча финала чемпионата мира 2022 в Катаре. - новость Чемпионата мира по футболу на Спорт Mail.ru.</p></div>
             </div>
-        </a><a href='https://www.sports.ru/football/1113918427-niderlandy-ssha-31-obzor-matcha-chempionata-mira-po-futbolu-03-122022.html'>
+        </a><a href='https://eurostavka.ru/news/football/niderlandy-ssha-prognoz-stavki-i-koeffitsienty-bukmekerov-na-1-8-chm-2022'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Нидерланды — США — 3:1, обзор матча Чемпионата мира по ...</h3>
+                <h3>Нидерланды – США: прогноз, ставки и коэффициенты ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcS6TrDn-2jiIh6YSr6SqEK4d4iLjnteAT7G51Z04uD4hZkOLNwJYfBUWG9yH8eOQZ4Pfg6XiB-L" alt="Нидерланды — США — 3:1, обзор матча Чемпионата мира по ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Матч между Нидерландами и США открывал плей-офф Чемпионата мира, и уже от этой встречи были большие ожидания. Несмотря на то, что европейская команда была явным&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTmLd0zFL4PmNla3Trr96lLlOdiJLofVGU7fURU_ZLka_HTQeA6aI88EUWurADn7ctaSgSU3mx5" alt="Нидерланды – США: прогноз, ставки и коэффициенты ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Луи ван Гал тащит голландцев в четвертьфинал. Что покажут американцы? Нидерланды – США: прогноз, ставки и коэффициенты букмекеров на 1/8 ЧМ-.</p></div>
+            </div>
+        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1735887_NIDeRLANDY__SShA__10_ARBITR_DOBAVIL_1_MINUTU_K_PeRVOMU_TAJMU_MATChA_ChM_2022'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Нидерланды — США — 1:0. Арбитр добавил одну минуту к ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTfS-3rq2gWV9henMiGyqW_RPw8gVuHH2spZlPrE9uJr3EdnHsOPfx4aDadeB2QBIVp5Q98Qw6iEg" alt="Нидерланды — США — 1:0. Арбитр добавил одну минуту к ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Телеканал «Матч ТВ» является эксклюзивным правообладателем чемпионата мира по футболу 2022 года на территории России. В рамках соглашения с ФИФА «Матч ТВ»&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

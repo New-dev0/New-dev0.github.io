@@ -11,77 +11,77 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Biathlon"/>
         <meta name="description" content="Trending News about Biathlon" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Biathlon</h1>
-            <Image width={800} height={500} src="https://api-tvthek.orf.at/assets/segments/0145/95/c756fd198444da6270babb86228df0cb3b9e07ee.jpeg" alt="Biathlon"/>
+            <Image width={800} height={500} src="https://reshape.sport1.de/c/t/7e9ce66b-e141-4838-b7ef-575c9993c6b2/1200x630" alt="Biathlon"/>
             <h3>Recent News</h3>
-            <a href='https://tvthek.orf.at/live/Biathlon-Weltcup-Kontiolahti-Herren-Einzel/14201577'>
+            <a href='https://www.sport1.de/news/wintersport/biathlon/2022/12/magisches-biathlon-comeback-das-marchen-der-lisa-theresa-hauser'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Biathlon-Weltcup Kontiolahti: Herren Einzel vom 29.11.2022 um 13 ...</h3>
+                <h3>Magisches Biathlon-Comeback! Das Märchen der Lisa Theresa ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ3WWywsrEG7SOH6pWvZEK-swyp6-IotGWwYpxQFnTgL1O8DOBAmt-jIhrQAiPLhiiAOWAkElLR" alt="Biathlon-Weltcup Kontiolahti: Herren Einzel vom 29.11.2022 um 13 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Simon Eder landete am Dienstag im Einzel-Bewerb über 20 km im finnischen Kontiolahti als bester österreichischer Athlet nur auf dem 33. Rang. Der 39-jährige&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTpxWFyqSpDf3pxut3_2xX3rPAx35rZo1siMbmEg4mpTywnPXVQzcmLcoc_S4BrUjRkih1LPsVZ" alt="Magisches Biathlon-Comeback! Das Märchen der Lisa Theresa ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Das erste Weltcup-Woche der Biathlon-Saison ist geprägt von einigen Überraschungen. Für eine Österreicherin läuft es überraschend gut, obwohl hinter ihr&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.krone.at/2869490'>
+        </a><a href='https://www.krone.at/2873855'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Überraschendes Podest - ÖSV beim Biathlon-Auftakt im ...</h3>
+                <h3>Vor Heimweltcup - Biathlon-Herren betreiben Schadensbegrenzung</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSvSWj4t0Ghpnc4Ex1dEB3CaAXPilHWk8eczrfizB0tTm_s0668ptCztaIfIIXJYo7sR_jObYFn" alt="Überraschendes Podest - ÖSV beim Biathlon-Auftakt im ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Der Schwede Martin Ponsiluoma hat am Dienstag zum Auftakt der Biathlon-Weltcup-Saison triumphiert. Der 27-Jährige setzte sich in Kontiolahti in ...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRDecLVEl5mBlLEWPe_3GlsnUzEHzr3amewW7khg4EwVndDbLxlbjq8m6OhgEGwlYB6BNj21wtN" alt="Vor Heimweltcup - Biathlon-Herren betreiben Schadensbegrenzung" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Die österreichischen Biathleten haben im letzten Rennen vor dem Heimweltcup in Hochfilzen Schadensbegrenzung betrieben. Nach dem schwachen Sprint in ...</p></div>
             </div>
-        </a><a href='https://www.spox.com/de/sport/mehrsport/wintersport/2211/Artikel/einzelrennen-herren-maenner-kontiolahti-heute-liveticker.html'>
+        </a><a href='https://www.spox.com/de/sport/mehrsport/wintersport/2212/Artikel/biathlon-verfolgung-der-frauen-in-kontiolahti-heute-im-liveticker.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Biathlon: David Zobel Dritter zum Auftakt in Kontiolahti - Roman ...</h3>
+                <h3>Deutsche Biathletinnen in der Verfolgung ohne Chance - Biathlon ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTGGr4m3n5RtvEPyjUCX3y8QaH9bHBM4x29n3QZj0WcrmLi5EITMIW-xR_pJQs8on2Z1F0VO1L5" alt="Biathlon: David Zobel Dritter zum Auftakt in Kontiolahti - Roman ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>David Zobel hat den deutschen Biathleten einen traumhaften Saisoneinstand beschert. Der 26-Jährige lief beim Weltcup-Auftakt im finnischen Kontiolahti im&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSop2JXTKkUs5FCHS8L4aHB0pyPdtWRg2SJkNx2pzNGDIMkwmOc0YIJJ5EKGhqKUXrTk7XXU1aM" alt="Deutsche Biathletinnen in der Verfolgung ohne Chance - Biathlon ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Beim Abschluss des Biathlon-Weltcups im finnischen Kontiolahti gab es für die DSV-Frauen nichts zu holen. Bei der 10 Kilometer langen Verfolgung wurde&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sport1.de/news/wintersport/biathlon/2022/11/biathlon-live-weltcup-auftakt-in-kontiolahti-im-tv-stream-ticker'>
+        </a><a href='https://volksblatt.at/sport/sprintsiegerin-hauser-in-biathlon-verfolgung-neunte-742381/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Biathlon LIVE: Weltcup-Auftakt, heute Einzel der Frauen in ...</h3>
+                <h3>Sprintsiegerin Hauser in Biathlon-Verfolgung Neunte</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQyP8oTiLx0_oDjMUbO7roFV686SbgC90TnGQBRUyNACgyG3UO40B78BbkVzpUFI3ZxKiIZvOUv" alt="Biathlon LIVE: Weltcup-Auftakt, heute Einzel der Frauen in ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Die Biathlon-Saison öffnet ihre Pforten. Zum Start sind die Athleten in Finnland gefordert. SPORT1 zeigt ihnen, wo sie die Wettbewerbe im TV verfolgen&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRO-sRp4YTI1UZ5vB32mGscuYfmO2AlpjYAuPFXhy2kS6aasQj1_vg6YLDjRqimRRHpf9afa-cF" alt="Sprintsiegerin Hauser in Biathlon-Verfolgung Neunte" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Biathletin Lisa Hauser hat ihre Pole Position in der Verfolgung von Kontiolahti nicht ausnützen können. Die Sprintsiegerin rutschte am Sonntag im letzten&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sport1.de/news/wintersport/biathlon/2022/11/biathlon-deutscher-coup-bei-biathlon-auftakt-in-kontiolahti'>
+        </a><a href='https://www.sportnews.bz/artikel/wintersport/biathlon/live-die-verfolgung-der-damen'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Biathlon: Deutscher Coup bei Biathlon-Auftakt in Kontiolahti</h3>
+                <h3>LIVE | Die Verfolgung der Damen</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTQLrnu5Gs_Wo6baZfnwTWZnQ9wbizkn3VkxzoBJY803BUH3337J4d32pwj1DioM-qzhsUUVoL9" alt="Biathlon: Deutscher Coup bei Biathlon-Auftakt in Kontiolahti" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Beim Weltcup-Auftakt im Biathlon überrascht ein deutscher Skijäger. Vor allem am Schießstand zeigt David Zobel starke Nerven - dank der Tipps von Erik&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR932elMfp61L8GwOQGZjJ4-mZB_Gl4_bPt3reNRwlmXc3Hqw7C5L2_5W_i_xySC6KpmnP32Ejr" alt="LIVE | Die Verfolgung der Damen" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Am Sonntag steht im finnischen Kontiolahti die Biathlon-Verfolgung der Damen auf dem Programm. Los geht es ab 14:15 Uhr. Was ist drinnen für Dorothea Wierer&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sportschau.de/wintersport/biathlon/biathlon-einzel-kontiolahti-zobel-100.html'>
+        </a><a href='https://www.sportschau.de/wintersport/biathlon/biathlon-verfolgung-frauen-kontiolahti-100.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Biathlon in Kontiolahti: Zobel nach Podest-Coup: &quot;An Lesser gedacht&quot;</h3>
+                <h3>Biathlon in Kontiolahti: Simon siegt in der Verfolgung - Voigt wird ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS7Ui5tgbUvS7eaeqgVkCJLaX3XiDjej9uPnQDs5BP5aRaTqB4x5AxP0WlsxP5C5TXG83F5ySFf" alt="Biathlon in Kontiolahti: Zobel nach Podest-Coup: &quot;An Lesser gedacht&quot;" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Zum ersten Mal schafft es David Zobel in Kontiolahti aufs Weltcup-Podest. Damit überrascht der Spätstarter alle - vor allem sich selbst.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSnPvMg2Rxe4AtRc0NwLdSA5OBODETh9VhvaqVNr3U0G_x92qespS463nGBUxTAk3eIh9TruS4k" alt="Biathlon in Kontiolahti: Simon siegt in der Verfolgung - Voigt wird ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Vanessa Voigt hat den deutschen Biathlon-Frauen beim Weltcup in Kontiolahti das nächste Top-Ten-Ergebnis beschert.</p></div>
             </div>
-        </a><a href='https://www.swp.de/unterhaltung/tv/biathlon-kontiolathi-2022-zeitplan-startzeiten-weltcup-uebertragung-tv-livestream-ard-eurosport-67849399.html'>
+        </a><a href='https://www.spox.com/de/sport/mehrsport/wintersport/2212/Artikel/biathlon-verfolgung-der-herren-kontiolahti-liveticker.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Biathlon Weltcup in Kontiolathi: Zeitplan, TV-Übertragung &amp; Stream</h3>
+                <h3>Verfolgung: Biathlet Rees knapp am Podest vorbei - Biathlon der ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS9eGt5SYTjYjTzImaLB5YzybP0In-4tJQ3es6r-SkaYN4CiG6zqjeSAWFIueP1qVf3DFxmTgws" alt="Biathlon Weltcup in Kontiolathi: Zeitplan, TV-Übertragung &amp; Stream" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Am Dienstag startete die Biathlon-Weltcup-Saison 2022/23. Beim ersten Weltcup in Kontiolathi stehen acht Wettbewerbe auf dem Programm. Alle Infos hier.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTfvTqQvlDDhqPhUikN7jXIFhxtP3ey9z6nquFEHDTXleu8MqGO8ME-RigFUPvqRjeCnB-zGwPN" alt="Verfolgung: Biathlet Rees knapp am Podest vorbei - Biathlon der ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Wenig Überraschung bei der 12,5 Kilometer langen Verfolgung der Herren: Johannes Thingnes Bö siegt erwartungsgemäß vor seinem Landsmann Sturla Holm Laegreid&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sportnews.bz/artikel/wintersport/biathlon/live-auf-die-plaetze-fertig-los-der-start-der-biathlon-saison'>
+        </a><a href='https://www.sportschau.de/wintersport/biathlon/biathlon-verfolgung-maenner-kontiolahti-100.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>LIVE | Auf die Plätze, fertig, los: Der Start der Biathlon-Saison</h3>
+                <h3>Biathlon: Roman Rees erneut bester Deutscher in der Verfolgung</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSPJR7O56ccIIqvehtfMSWtpUxvUQWNcnzvpKCIw4BIB6L9rBkfcostIcbINE1Y273zoim9J4bD" alt="LIVE | Auf die Plätze, fertig, los: Der Start der Biathlon-Saison" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Endlich legen auch die Skijäger los: Am Dienstag ab 13.15 Uhr werden die Herren mit ihrem Einzel-Bewerb die Saison eröffnen. In Kontiolahti sind zwei&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQHM4QHPfFW41PiO8wfxZNTOY5NIktXtU_a4dWfCT8HFtKOBlX23vuUO8vDo8F-LCb92kgiAOHF" alt="Biathlon: Roman Rees erneut bester Deutscher in der Verfolgung" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Roman Rees hat auch im Verfolgungsrennen von Kontiolahti einen überzeugenden Auftritt hingelegt. Der Sieg ging einmal mehr nach Norwegen.</p></div>
             </div>
-        </a><a href='https://www.meinbezirk.at/kitzbuehel/c-sport/hochfilzen-ist-fuer-den-weltcup-geruestet_a5740678'>
+        </a><a href='https://www.chiemgau24.de/wintersport/biathlon/biathlon-heute-im-liveticker-die-verfolger-am-sonntag-in-kontiolahti-zr-91955044.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Biathlon Weltcup Hochfilzen: Hochfilzen ist für den Weltcup gerüstet ...</h3>
+                <h3>Biathlon: Drei DSV-Athleten überzeugen zum Abschluss in Finnland</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTmiMufZXjsD2j6XPIbwAK8CabxzON-A0CazAwwviyS0y8F5zhVOFR2UAHmlTB9X684MlDAdUPG" alt="Biathlon Weltcup Hochfilzen: Hochfilzen ist für den Weltcup gerüstet ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Von 8. bis 11. Dezember sechs Weltcuprennen in Hochfilzen; Vorbereitungen laufen auf Hochtouren, Nachhaltigkeit im Fokus. HOCHFILZEN.Von 8. bis 11.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSyxfiLZ-yLxxBrJeKF8pAAbN2D1g0l9niL-R4AGa3xnqbvbYf-06k8PYRAZ-rvjEkOgT-p3ys_" alt="Biathlon: Drei DSV-Athleten überzeugen zum Abschluss in Finnland" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Der Weltcup 2022/23 im Biathlon wurde am Sonntag fortgesetzt. Die Deutschen verpassten das Podest deutlich, reisen dennoch zufrieden weiter nach Hochfilzen.</p></div>
             </div>
-        </a><a href='https://www.sportnews.bz/artikel/wintersport/biathlon/weltcup-start-ein-suedtiroler-biathlet-ueberrascht-im-hohen-norden'>
+        </a><a href='https://www.spox.com/de/sport/mehrsport/wintersport/2212/Artikel/biathlon-sprint-der-frauen-in-kontiolahti-heute-im-liveticker.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Weltcup-Start: Ein Südtiroler überrascht im hohen Norden</h3>
+                <h3>Weidel bei Hauser-Sieg knapp am Podest vorbei</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS1pAmlHTkdAB90yZ2jHCVLuZflD9M-MsIZIPz3Sk5GmkaFzexyQAYr93u9K2k3niNL9I6qXwUt" alt="Weltcup-Start: Ein Südtiroler überrascht im hohen Norden" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Das erste Biathlon-Rennen der Saison 2022/23 ist geschlagen. Im Einzel-Wettkampf in Kontiolahti (Finnland) sorgte ein Schwede für den Sieg – und ein&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSUQvwlRUDGwaXYldSEXGdD3_gl5WiTBiVFRgeEDxTTQvhynZKBjrs651DYqlH47fnbpb0rghof" alt="Weidel bei Hauser-Sieg knapp am Podest vorbei" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Anna Weidel ist beim Sprint der Frauen in Kontiolahti beste Deutsche vor Denise Herrmann-Wick. Der Sieg geht an eine Österreicherin.</p></div>
             </div>
         </a>
         </Template></>;

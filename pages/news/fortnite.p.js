@@ -11,70 +11,63 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Fortnite"/>
         <meta name="description" content="Trending News about Fortnite" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Fortnite</h1>
-            <Image width={800} height={500} src="https://static.actugaming.net/media/2022/12/fortnite-conclusion-chapitre-3-fracture.jpg" alt="Fortnite"/>
+            <Image width={800} height={500} src="https://img.championat.com/news2/social/0/0f/4916175.jpg" alt="Fortnite"/>
             <h3>Recent News</h3>
-            <a href='https://www.actugaming.net/fortnite-evenement-fracture-chapitre-3-535835/'>
+            <a href='https://www.championat.com/cybersport/news-4916175-vedmak-doom-novaya-karta-i-massa-novovvedenij-segodnya-startuet-4-ya-glava-fortnite.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Fortnite : (Re)Vivez l&#39;événement &quot;Fracture&quot; concluant le Chapitre 3 ...</h3>
+                <h3>«Ведьмак», DOOM, новая карта и масса нововведений. Сегодня ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSkdArr_mICR5azphnJeS7YCyRxYaTqBU97JBYusOxNM0nF0bDiRoL4pQtduyr5BOceYEzObbdk" alt="Fortnite : (Re)Vivez l&#39;événement &quot;Fracture&quot; concluant le Chapitre 3 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Annoncé il y a seulement 15 jours, l&#39;événement &quot;Fracture&quot; concluant le Chapitre 3 de Fortnite vient de se terminer et avec lui, un grand spectacle&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSsxhqQBc9ttGUO5H_rO6dYZPyvaedIolzZL7qZYPZuR3BxgUxo8bmV73arCc-OljSPZ4iwkiF-" alt="«Ведьмак», DOOM, новая карта и масса нововведений. Сегодня ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ночью прошёл не очень громкий финал третьей главы Fortnite, где игроки очень долго выполняли не очень интересные задачи и посмотрели пару роликов,&nbsp;...</p></div>
             </div>
-        </a><a href='https://gamewave.fr/fortnite/fortnite-quand-et-a-quelle-heure-commence-la-saison-1-du-chapitre-4/'>
+        </a><a href='https://www.ixbt.com/news/2022/12/04/fortnite-unreal-engine-5-1-windows-7-windows-8-1.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Fortnite : Quand et à quelle heure commence la saison 1 du chapitre 4</h3>
+                <h3>Fortnite перешла на Unreal Engine 5.1 с выходом первого сезона ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTCofnaJc8XgGXHkGeuV5cLRKoK_VOn4ILYMO9bBrEC3VPfsmjt2VZSZQ9_iT9HM1Y0EzAZE9JL" alt="Fortnite : Quand et à quelle heure commence la saison 1 du chapitre 4" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Comme vous devez le savoir, Epic Games aime faire monter la pression en ne divulguant pas ou peu d&#39;informations concernant la nouvelle saison et sa sortie. Pour&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRCGLMImzQMudV7aGImynmu3gisIBPLz8Kty0Ol7nEokXLhgQi1_G3mPU3vKF6kl1Y_C9mKSbYL" alt="Fortnite перешла на Unreal Engine 5.1 с выходом первого сезона ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сегодня Epic Games анонсировала первый сезон четвертой главы «Королевская битвы» Fortnite. Новшеств в игре очень много, но, пожалуй, самое главное&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.francelive.fr/article/france-live/fortnite-la-mise-a-jour-du-chapitre-4-aura-lieu-ce-dimanche-4-decembre-ce-qu-il-faut-savoir-7745830/'>
+        </a><a href='https://gamemag.ru/news/173795/welcome-to-fortnite-battle-royale-chapter-4-season-1'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Fortnite : la mise à jour du Chapitre 4 aura lieu ce dimanche 4 ...</h3>
+                <h3>Геральт и Палач Рока врываются в Fortnite – стартовала 4 глава ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTvaJSHD2FIfIcaPlV-pJJH19Sd8TKOo7ldJFQsDcqomK2LIumUamsY7R83_bdJeXOLHLXQ_9Kg" alt="Fortnite : la mise à jour du Chapitre 4 aura lieu ce dimanche 4 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Une nouvelle mise à jour conséquente aura lieu sur Fortnite au cours de ce week-end des 3 et 4 décembre 2022. Comme à son habitude, Epic Games reste discret&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTvkavy4In0SxnZcgROaVJOXDSmx3xWzgoCqAhmdrH_37ALKjxw-FkTRDE24QXcJ11YdbIpp9V4" alt="Геральт и Палач Рока врываются в Fortnite – стартовала 4 глава ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Компания Epic Games в очередной раз масштабно обновила Fortnite, запустив в популярной королевской битве четвертую главу с новой картой и множеством других&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sortiraparis.com/loisirs/gaming/articles/286213-fortnite-chapitre-4-map-skins-nouveautes-que-nous-reserve-la-saison-1'>
+        </a><a href='https://dtf.ru/games/1483466-dumgay-geralt-novaya-karta-i-perehod-na-ue-5-1-s-podderzhkoy-nanite-i-lumen-detali-chetvertoy-glavy-fortnite'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Fortnite Chapitre 4 : map, skins, nouveautés... que nous réserve la ...</h3>
+                <h3>Думгай, Геральт, новая карта и переход на UE 5.1 с поддержкой ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRJIa9Ie_vLtPBMXAojScdY_8G_wPhsffPI_8lSK1UrBmxdXCmAJyi7aDYfUDbocxgEa-XX_7hl" alt="Fortnite Chapitre 4 : map, skins, nouveautés... que nous réserve la ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Alors que l&#39;événement Fortnite Fracture, concluant le chapitre 3 du jeu signé Epic Games, vient de se terminer ce samedi 3 décembre 2022, voilà qu&#39;une&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRB0qriFxS3XEBoL5YD5tQ_fuYwuOZnxNBdFydI-DfCVhcUACmTP3ai0_qc1jjH9_uMkIneW9e8" alt="Думгай, Геральт, новая карта и переход на UE 5.1 с поддержкой ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>3 декабря 2022 года Epic Games провела большой ивент в Fortnite, в рамках которого игрокам пришлось по кускам собирать новую карту королевской битвы — в том&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.millenium.org/news/397895.html'>
+        </a><a href='https://shazoo.ru/2022/12/04/136182/geralt-iz-rivii-dumsleer-i-motocikly-v-novoi-glave-fortnite'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Fortnite chapitre 4 : quand peut-on rejouer ? Heure de début de la ...</h3>
+                <h3>Геральт из Ривии, Думслеер и мотоциклы в новой главе Fortnite</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTAii4NUoYBZyf5syaDtv6Rvi2Iyta7R33AMhLEuhVVEXYRRd_rVZtDD5PJxBb_4yG7qzoQhAST" alt="Fortnite chapitre 4 : quand peut-on rejouer ? Heure de début de la ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Tout ça c&#39;est bien beau, sauf qu&#39;à l&#39;heure où nous écrivons ces lignes, il est impossible de jouer à Fortnite. Epic Games nous refait le coup de l&#39;écran de&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSPO81Z6Xqb6FPBvqfY3g_ippKjy_Whd83kN7HozLl93VDB_FlBtEIlAwn7dEWlaxnYNOiyvQmQ" alt="Геральт из Ривии, Думслеер и мотоциклы в новой главе Fortnite" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В Fortnite стартовала четвертая глава со множеством геймплейных и технических нововведений и улучшений. В первую очередь стоит глянуть сюжетный ролик с тем,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.millenium.org/news/397896.html'>
+        </a><a href='https://www.playground.ru/fortnite/news/fortnite_pereshla_na_unreal_engine_5_1_i_teper_ispolzuet_nanite_i_lumen-1250090'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Fortnite Chapitre 4 : Mr Beast, Doom, Hulk, The Witcher... Grosses ...</h3>
+                <h3>Fortnite перешла на Unreal Engine 5.1 и теперь использует ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRwh8rtSeKH8rMs0FGPiFbp3MuRLCpFuV9h1pJ-34TX5b3ob5VpheKVuPrlpzcaNAl74onEcf1F" alt="Fortnite Chapitre 4 : Mr Beast, Doom, Hulk, The Witcher... Grosses ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Nous sommes à présent dans l&#39;entre-deux, à mi-chemin entre les Chapitre 3 et 4. Et Epic Games tease fortement la saison toute proche, avec des aperçus des&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS7cmRZE_VExRox2VHsMJb8s78j71z6Uy0-4PfS0ZIrZ6qhLp1pfs26_yps72_C957oTx8ApEkl" alt="Fortnite перешла на Unreal Engine 5.1 и теперь использует ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Компания Epic Games запустила Fortnite Chapter 4, открыв новый сезон популярной бесплатной игры. Это не просто новый сезон, так как образовался совершенно&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.crumpe.com/2022/12/heure-de-debut-du-chapitre-4-de-fortnite-quand-les-serveurs-fortnite-seront-ils-sauvegardes/'>
+        </a><a href='https://cyber.sports.ru/games/1113936511-v-fortnite-dobavyat-xalka-geralta-i-yutubera-mrbeast.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Heure de début du chapitre 4 de Fortnite : quand les serveurs ...</h3>
+                <h3>В Fortnite добавят Халка, Геральта и ютубера MrBeast</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQqCmGV2dl7yHxskjEPsm80w_HbYlOlIouHKk_Hf7Ift838iVLo0emJ2ZGsc3_EVR6rbmeFPg2_" alt="Heure de début du chapitre 4 de Fortnite : quand les serveurs ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mais rien de tout cela n&#39;a d&#39;importance tant que les serveurs Fortnite ne permettent pas aux joueurs de revenir dans le jeu. Epic aime garder cela une surprise,&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTxv3fFYeEBFxtwU8ikhaYejpJR9VMO78EvuwtZnBnb3HyxPEzckTRHCMrY8Kfv1cbDrFHiWsGz" alt="В Fortnite добавят Халка, Геральта и ютубера MrBeast" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Epic Games показали трейлер 1-го сезона 4-й главы Fortnite. В ролике старая карта королевской битвы разрушается с помощью космических сил и складываться&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.netcost-security.fr/jeux-video/132555/fortnite-doom-slayer-geralt-de-rivia-hulk-et-la-nouvelle-carte-ont-fuite/'>
+        </a><a href='https://www.playground.ru/fortnite/news/gejmplejnyj_trejler_chetvyortoj_glavy_fortnite-1250047'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Fortnite : DOOM Slayer, Geralt de Rivia, Hulk et la nouvelle carte ont ...</h3>
+                <h3>Геймплейный трейлер четвёртой главы Fortnite</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTknX65qXu05uLhdbQUr3ArPMsF4Qy4Egeal_1mh3DZZjLIuzvaXh5lMcXZPNGvEXZpH6uDc3Br" alt="Fortnite : DOOM Slayer, Geralt de Rivia, Hulk et la nouvelle carte ont ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Quelques heures à peine avant le dernier événement Fortnite Fracture, plusieurs mineurs de données ont mis au point des données de jeu intéressantes qui,&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.netcost-security.fr/jeux-video/132551/fortnite-spoilers-et-fuites-devenements-de-fracture-tous-les-details/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Fortnite: Spoilers et fuites d&#39;événements de fracture; Tous les détails</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTvZEAN4gFt4P6RfMT5uJqK6xlqqLmdR9tqHVlRXikoedL3bRcvIJRywEKpYDdV6uWyMQZ4n-h8" alt="Fortnite: Spoilers et fuites d&#39;événements de fracture; Tous les détails" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Environ six heures avant le dernier événement Fracture de la saison 4 de Fortnite, Epic Games en a décrypté un grand nombre de fichiers, ce qui a entraîné&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSovhQovrSsZWUq0dDJ-oAEZzypYbbVvVT8tZFIm-V9U7XHsFJX4hp1CDl8ponPSuNF49-X-dKB" alt="Геймплейный трейлер четвёртой главы Fortnite" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Четвёртая глава Fortnite стала доступна сегодня, 4 декабря 2022 года, с новой картой от Epic Games, на которой можно получить полностью новый опыт.</p></div>
             </div>
         </a>
         </Template></>;

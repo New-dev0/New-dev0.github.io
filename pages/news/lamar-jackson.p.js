@@ -11,49 +11,56 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Lamar Jackson"/>
         <meta name="description" content="Trending News about Lamar Jackson" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Lamar Jackson</h1>
-            <Image width={800} height={500} src="https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/dyi5oqedh4mms6hqidug" alt="Lamar Jackson"/>
+            <Image width={800} height={500} src="https://www.wokv.com/resizer/zpAdnVJZQIU0ElS1GF1Nhsjhp_s=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/EPONGVNO5FGQNAP7JLTMRPU6MI.jpg" alt="Lamar Jackson"/>
             <h3>Recent News</h3>
-            <a href='https://www.nfl.com/news/ravens-hc-john-harbaugh-says-he-addressed-vulgar-tweet-with-lamar-jackson'>
+            <a href='https://www.wokv.com/sports/lamar-jackson-leaves/N5CYFTEXLLCYCBONJMT5DKAEOA/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ravens HC John Harbaugh says he addressed vulgar tweet with ...</h3>
+                <h3>Lamar Jackson leaves game with knee injury after sack</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQ6PXU5JbcULXOGs40tAgozJ5TTdNs9gvYl-3JFZDoy_3762aDY7sGcTzLHTQBlGgkxGPE0zIYJ" alt="Ravens HC John Harbaugh says he addressed vulgar tweet with ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A day after Lamar Jackson deleted a vulgar and offensive tweet directed at a critic, Baltimore Ravens head coach John Harbaugh told reporters he met with&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS5rjhq-LpsVMDaNyE_QCsDi89OlyjC30C-lXNoCed1TSZQgn5OCVIs7oSpUNvDfmmkUhG-xIKm" alt="Lamar Jackson leaves game with knee injury after sack" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Moments later, the Baltimore star emerged from the sideline tent and went down the tunnel, leaving the offense in backup Tyler Huntley&#39;s hands. Jackson appeared&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.espn.com/nfl/story/_/id/35132616/harbaugh-lamar-jackson-met-character-tweet'>
+        </a><a href='https://www.nfl.com/news/ravens-qb-lamar-jackson-knee-injury-broncos'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Harbaugh, Lamar Jackson met after &#39;out of character&#39; tweet</h3>
+                <h3>Ravens QB Lamar Jackson suffers knee sprain in win over Broncos</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQyMYAB9o9GBLM4MboUJpaiF0ULf3CnuLKNbzKhtBq1PfQakRGJBf1Egn7Yg1ewY7mmzVLw4BVb" alt="Harbaugh, Lamar Jackson met after &#39;out of character&#39; tweet" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Ravens coach John Harbaugh said he has spoken to Lamar Jackson about the quarterback&#39;s vulgar tweet in response to an online critic.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRZEjXf1PijJM_czANxLhERSny_rxUm9TnLUaJQtax1_QZfNo_UekC9ncR0UkvxjLz9rS2lZ8Kq" alt="Ravens QB Lamar Jackson suffers knee sprain in win over Broncos" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lamar Jackson suffered a knee sprain and did not return in the Baltimore Ravens&#39; 10-9 win over the Denver Broncos. Head coach John Harbaugh told reporters&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.cbssports.com/nfl/news/lamar-jackson-vulgarly-responds-on-twitter-to-fan-after-ravens-loss-john-harbaugh-addresses-situation-with-qb/'>
+        </a><a href='https://www.espn.com/nfl/story/_/id/35181168/ravens-qb-lamar-jackson-ruled-knee-injury'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Lamar Jackson vulgarly responds on Twitter to fan after Ravens loss ...</h3>
+                <h3>Ravens say QB Lamar Jackson&#39;s knee injury not season-ending</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRltS6HMdjmwQBLt1ZojbOM8zEsl9upqJ8cSmuikZZexO8M_w-muAvAYZ6-BfGyNlwh85EgAzr8" alt="Lamar Jackson vulgarly responds on Twitter to fan after Ravens loss ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Jackson definitely didn&#39;t appreciate what this fan tweeted out after the stunning loss to Jacksonville.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQbYs0sfyKuZ6IYctVrpbWQWVHzMJVtoL1Kd-v35meilBfJD0kJ0i6FGSx9GP1qEE1uTglkeWqg" alt="Ravens say QB Lamar Jackson&#39;s knee injury not season-ending" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>BALTIMORE -- Lamar Jackson&#39;s knee injury is not a season-ending one, but there is no definitive timetable for the Pro Bowl quarterback&#39;s return,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.tmz.com/2022/11/28/lamar-jackson-responds-fan-twitter-emotional-jaguars-loss-deletes-vulgar-tweet-nfl/'>
+        </a><a href='https://www.cbssports.com/nfl/news/lamar-jackson-injury-update-ravens-qb-avoids-season-ending-knee-issue-to-have-mri-monday-per-report/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>John Harbaugh Calls Lamar Jackson&#39;s Vulgar Tweet &#39;So Out Of ...</h3>
+                <h3>Lamar Jackson injury update: Ravens QB avoids season-ending ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTLqVLwfunCYsJQphUeATS4Ajlt-FYHeSr57b1MCXK28sRk4OjAmXTKwTH20ZqNju5yQbRvSib9" alt="John Harbaugh Calls Lamar Jackson&#39;s Vulgar Tweet &#39;So Out Of ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Lamar Jackson deleted a vulgar Tweet hours after sending it ... and his head coach, John Harbaugh, called it &quot;out of character&quot; for the QB.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQXzxt1gX6OaOwQzLBnnHbSXllpxNcAsugXpNA1IHHZi6nboozl58H8P4-HjwZXGQQL3tyEbY2p" alt="Lamar Jackson injury update: Ravens QB avoids season-ending ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>&#39;We&#39;ll see if he can go back this week. If not, he&#39;ll be [back] sometime after that shortly,&#39; John Harbaugh said.</p></div>
             </div>
-        </a><a href='https://www.si.com/nfl/2022/11/28/lamar-jackson-choice-words-reporter-twitter-controversy'>
+        </a><a href='https://www.baltimoreravens.com/news/lamar-jackson-knee-injury-broncos-week-13'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Lamar Jackson Has Choice Words for Reporter Amid Twitter ...</h3>
+                <h3>Lamar Jackson&#39;s Knee Injury Isn&#39;t Season Ending</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSvvu_p7ahjKrVb8uf4sFCOaOFwo8piBYCGb8e6M3K_cgbMwfpaoAsmLeVk8MPkb2latdeRg2w5" alt="Lamar Jackson Has Choice Words for Reporter Amid Twitter ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The journalist wrote a story about Jackson&#39;s deleted tweet, and the Ravens quarterback took issue with the wording.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQmMPzEiFQ5FekMq91imRTSNgC4BfiibKgH5JBUcXYtPw3KiseQbWp5L0JOiUu3UmWNPtlP8ZpN" alt="Lamar Jackson&#39;s Knee Injury Isn&#39;t Season Ending" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lamar Jackson went to the locker room after being sacked in the Ravens&#39; Week 13 game against the Broncos.</p></div>
             </div>
-        </a><a href='https://www.sportsnet.ca/nfl/article/ravens-john-harbaugh-speaks-with-lamar-jackson-about-offensive-tweet/'>
+        </a><a href='https://www.baltimorebeatdown.com/2022/12/4/23492774/ravens-qb-lamar-jackson-being-evaluated-for-a-knee-injury-nfl-injury-news'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ravens&#39; John Harbaugh speaks with Lamar Jackson about offensive ...</h3>
+                <h3>Ravens QB Lamar Jackson ruled OUT vs. Broncos</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRk4b_LaoPXVmHdqOFxg1v0brgSN0XZC_O5_WyOuIvpzfuImse5YWy8Hwlh7TL5hyE8JNlpMvEe" alt="Ravens&#39; John Harbaugh speaks with Lamar Jackson about offensive ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Baltimore coach John Harbaugh said he spoke with Lamar Jackson on Monday about the star quarterback&#39;s profane postgame tweet directed at a fan a day earlier&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRv0FaGLvVwgSIAdJ1CFz6gc1HHZ2zZl4PbCrr83Bsq8zGLsNpgKGQVEuncqLnWiSOi3LeiEnRY" alt="Ravens QB Lamar Jackson ruled OUT vs. Broncos" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Baltimore Ravens have announced quarterback Lamar Jackson has been ruled out for the remainder of the game against the Denver Broncos with a knee injury.</p></div>
+            </div>
+        </a><a href='https://www.baltimoresun.com/sports/ravens/bs-sp-ravens-quarterback-lamar-jackson-injury-broncos-20221204-gr536tsp5zgqxd2tarlzwmw64a-story.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Ravens QB Lamar Jackson exits game vs. Broncos with knee injury ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSVxHDjSQKqef8FExBpfhFSroHf-n_4UGCIlXyupx0nzaroZvY_yxvTe0WouLib7OyUzhmUnWPV" alt="Ravens QB Lamar Jackson exits game vs. Broncos with knee injury ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lamar Jackson left the game after being sacked by Denver outside linebacker Jonathon Cooper with 14 seconds left in the first quarter.</p></div>
             </div>
         </a>
         </Template></>;

@@ -24,15 +24,8 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Шлеменко — Исмаилов: Шторм проиграл Лысому хищнику ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS7QY2gekqT-1SCtyQLupZLJYC9mzMv8qsLFunz7OMcFILXYZLX751hTU7B2jgiksm6f3nM0y2k" alt="Шлеменко — Исмаилов: Шторм проиграл Лысому хищнику ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ76F-O4IoflYja3891qF2IKt_VRv4m1EZkZy0LR9dsyXoJtQGHgDZ9i2WKUBnxH9p7fY5A8hEd" alt="Шлеменко — Исмаилов: Шторм проиграл Лысому хищнику ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Шлеменко — Исмаилов: где смотреть трансляцию боя Александр Шлеменко — Магомед Исмаилов, видео, какой канал, РЕН ТВ, сайт Спорт-Экспресс, ютуб канал Ушатайка&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.sports.ru/boxing/1113903268-rcc-13-ismailov-protiv-shlemenko-shtyrkov-baxytzhanuly-i-drugie-boi.html'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>RCC 13: Исмаилов одержал победу над Шлеменко, Штырков ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTeJMjqTC5LOExEB_k6a-wrgPsFWzJqGck_Oso-WbTUHfpCTgJu38f3-gUL3u0G4_JCnONXZDPPlw" alt="RCC 13: Исмаилов одержал победу над Шлеменко, Штырков ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>В Екатеринбурге 3 декабря состоялся турнир RCC 13. В главном событии вечера прошел бой средневесов Александра Шлеменко (61-15) и Магомеда Исмаилова (18-3).</p></div>
             </div>
         </a><a href='https://news.sportbox.ru/Vidy_sporta/edinoborstva/spbnews_NI1736091_Kto_tam_bazaril_pro_dva_raunda_Ismailov_prevratil_lico_Shlemenko_v_krovavoje_mesivo'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -41,11 +34,18 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRpx8-iuP4Q-flrADU-D7abXSBdnYs9qB1nDZvfkQpO0poHMeqzNUa5Mw9JClVSt3ePaZ-VR4PD" alt="«Кто там базарил про два раунда?» Исмаилов превратил лицо ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Поединок Александра Шлеменко и Магомеда Исмаилова считался одним из самых ожидаемых событий этого года в российском MMA.</p></div>
             </div>
+        </a><a href='https://www.sports.ru/boxing/1113940668-taktarov-pro-boj-shlemenko-ismailov-kto-to-v-uralskix-pelmenyax-kto-to.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Тактаров про бой Шлеменко – Исмаилов: «»Кто-то в «Уральских ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQdp87UA8RfbgqxeRVbVJZoZm0BIWQ8CYtJzTS6yzND9OFWa6BN47XGgdWuIJMBfMjKag1PYpmP" alt="Тактаров про бой Шлеменко – Исмаилов: «»Кто-то в «Уральских ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Такой бой не оценивается. Они провели встречу для публики. Это их уровень, я что могу поделать? Кто-то в «Уральских пельменях», кто-то в Stand Up и Comedy Club,&nbsp;...</p></div>
+            </div>
         </a><a href='https://sportrbc.ru/news/638b78aa9a794747f9aad749'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Исмаилов одержал победу над Шлеменко в главном поединке года</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTy5wAAeZdaAWSChtWq0KmjVdXYVxhDr757Dul8oeRWrZv4vs8rZA90kQBaZCapOcbm06Fgh4JL" alt="Исмаилов одержал победу над Шлеменко в главном поединке года" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRAX8q0gq--Kaa-KDcUXQXURHejpkBtuSLnY8MOH2x7HmofInSaLGaH1wukWi8t6heP7X3_Rv0i" alt="Исмаилов одержал победу над Шлеменко в главном поединке года" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Магомед Исмаилов победил Александра Шлеменко. Бой продлился все пять раундов и завершился единогласным решением судей (50:44) в пользу Исмаилова.</p></div>
             </div>
         </a><a href='https://mma.metaratings.ru/news/polnyi-kard-rcc-13-slemenko-ismailov-styrkov-bakytzanuly-55600/'>

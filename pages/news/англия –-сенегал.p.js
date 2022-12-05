@@ -11,56 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Англия – Сенегал"/>
         <meta name="description" content="Trending News about Англия – Сенегал" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Англия – Сенегал</h1>
-            <Image width={800} height={500} src="https://eurostavka.ru[object Object]" alt="Англия – Сенегал"/>
+            <Image width={800} height={500} src="https://img.championat.com/news2/social/6/94/4917025.jpg" alt="Англия – Сенегал"/>
             <h3>Recent News</h3>
-            <a href='https://eurostavka.ru/news/football/angliya-senegal-prognoz-stavki-i-koeffitsienty-bukmekerov-na-1-8-chm-2022'>
+            <a href='https://www.championat.com/football/news-4917025-angliya-senegal-3-0-rezultat-matcha-1-8-finala-chm-2022-4-dekabrya-2022-goda.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Англия – Сенегал: прогноз, ставки и коэффициенты букмекеров ...</h3>
+                <h3>Сборная Англии разгромила Сенегал и вышла в 1/4 финала ЧМ ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTbtdpDdVfc7_SMTr0unc7opRT3OtmiZWV_CSnCCtIHnS4yMgRxCIJGPlj9Zf8Mt5uaSSA6_KLQ" alt="Англия – Сенегал: прогноз, ставки и коэффициенты букмекеров ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Англия – Сенегал: прогноз, ставки и коэффициенты букмекеров на 1/8 ЧМ-2022 ... Чемпионы мира 1966 года отправляются в поход за новым титулом. Первый соперник в&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRfgf3fg2R2wxbMIjdcJAOY2waWrxj1mYMX8ZJQz19Bx-urV8StrlillaYtTWY7tpnRBRlpluIy" alt="Сборная Англии разгромила Сенегал и вышла в 1/4 финала ЧМ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сегодня, 4 декабря, состоялся матч 1/8 финала чемпионата мира по футболу, в котором играли сборные Англии и Сенегала. Команды встретились на стадионе&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sport-express.ru/stavki-na-sport/reviews/angliya-senegal-prognoz-i-stavka-na-match-4-dekabrya-chempionata-mira-po-futbolu-2022-2006934/'>
+        </a><a href='https://sportrbc.ru/news/638c9c119a7947817b704f2d'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Англия — Сенегал: Кулибали и Менди не панацея против Кейна ...</h3>
+                <h3>Англия — Сенегал</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS8ED7R34RRKLK2sDW7eYh1VquuSjdJHRvoZ4drr6IJm0GE2Af8o_Kx-QdU9hkkzpVpYBLkKK9v" alt="Англия — Сенегал: Кулибали и Менди не панацея против Кейна ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Прогноз на матч Англия — Сенегал в рамках чемпионата мира по футболу 4 декабря 2022 года в Катаре.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRfixJZaeEX89wWi_jLdgHPH97MAMK_CEfbf2MwNffUYw5qJOzCoF8xszJzmSjoDVhMGmRWnfh8" alt="Англия — Сенегал" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>На этом будем прощаться, пожелаем сборной Сенегала удачи и поблагодарим за игру на этом турнире. А команду Англии поздравляем с победой и проходом в&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.vseprosport.ru/news/2022/12/03/anglija-senegal-prognoz-kf-4-50-na-match-chempionata-mira-4-dekabrja-2022-goda'>
+        </a><a href='https://www.sport-express.ru/football/world/2022/news/angliya-senegal-3-0-video-goly-obzor-matcha-chm-2022-4-dekabrya-2022-goda-2007671/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Англия — Сенегал: прогноз на матч Чемпионата мира</h3>
+                <h3>Англия — Сенегал: видеообзор матча ЧМ-2022</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRliG3PPeggAJlIZvEadWh89EBD5FVDLgHiuu0uY8qZAehypgQFEKJf23p3IAOnKO-0mBl5MJSx" alt="Англия — Сенегал: прогноз на матч Чемпионата мира" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Англия — Сенегал. Прогноз (кф 4.50) на матч Чемпионата мира (4 декабря 2022 года). Англия. Англия. Чемпионат Мира. Плей-офф. 04.12.2022. 22:00 МСК. Сенегал.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSOa5HeIfgV7ULGofldL3r5ms2jmFMsQp4j1caf-03h1-pGKV3qY2EIoojfC9xajilfAWZvoyz3" alt="Англия — Сенегал: видеообзор матча ЧМ-2022" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Сборная Англии разгромила Сенегал (3:0) в матче 1/8 финала чемпионата мира-2022.</p></div>
             </div>
-        </a><a href='https://www.championat.com/bets/article-4915023-angliya-senegal-prognoz-na-match-chempionata-mira-4-dekabrya-2022-gde-smotret-onlajn-besplatno-pryamaya-translyaciya.html'>
+        </a><a href='https://eurostavka.ru/news/football/angliya-senegal'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Англия — Сенегал. Кейн закончит африканскую сказку</h3>
+                <h3>Англия вышла в четвертьфинал, разгромив Сенегал. Факты об ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSu6YZz_ROdV7sxdFP5cqW_P0McZKIcjreY_TfHc3PWYTtim4oMxVPI9GryLGS819CwqCg-7KX3" alt="Англия — Сенегал. Кейн закончит африканскую сказку" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Начало – в 22:00 мск. Эксперты уже дали прогноз, они считают фаворитами номинальных хозяев: поставить на победу англичан в букмекерских конторах можно с&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSKwZqTXety-EdzPQWTvamOZc0H4Z0r6B0EatOAGcjf9y6Off6UATXATGR1s1NgLTsBMCUdPzXp" alt="Англия вышла в четвертьфинал, разгромив Сенегал. Факты об ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Англия и Сенегал вышли на поле в четвертом матче первой стадии плей-офф ЧМ-2022. Команда Гарета Саутгейта предсказуемо выиграла на стадионе «Эль-Байт» в&nbsp;...</p></div>
             </div>
-        </a><a href='https://riamo.ru/article/602668/angliya-senegal-gde-smotret-onlajn-match-chm-po-futbolu-2022'>
+        </a><a href='https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI1736351_Anglija__Senegal_gde_smotret_onlajn_matcha_4_dekabra_chempionat_mira_po_futbolu'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Англия – Сенегал: где смотреть онлайн матч ЧМ по футболу 2022</h3>
+                <h3>Англия — Сенегал: где смотреть онлайн матча 4 декабря ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTKmL3e2q_pCl15RSzp7hvCouz40OqOqQyTPtXUpeSL5ugOSQNxCeA_J3Mex6MiTvn0_6-xyShT" alt="Англия – Сенегал: где смотреть онлайн матч ЧМ по футболу 2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>РИАМО - 4 дек. В рамках 1/8 чемпионата мира по футболу-2022 в Катаре в воскресенье на стадионе «Эль-Байт» пройдет матч между сборными Англии и Сенегала.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS0_1V_grqG8d87FMlQtCtrxCu6gQ5lJyFdsUQL4UeLjFWAkHCDs1W7P5VZa-uVgQ86CUOjqD9Z" alt="Англия — Сенегал: где смотреть онлайн матча 4 декабря ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Матч 1/8 финала чемпионата мира по футболу между командами Англии и Сенегала пройдет в воскресенье, 4 декабря. Прямую трансляцию можно будет увидеть на&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.footboom.com/foreign/worldcup2022/1670094621-anhliia-senehal-anons-ta-prohnoz-matchu.html'>
+        </a><a href='https://sportmail.ru/football2022/news/54131324/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Англия - Сенегал. Анонс и прогноз матча</h3>
+                <h3>Англия — Сенегал: прогнозы и ставки</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTpc6AXYwFak7vMVB7jcYmghCh8uKokVTNTDK6zmnmuBEVyLOn2iFtR0A35ZDWi_U78MLJccbTP" alt="Англия - Сенегал. Анонс и прогноз матча" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Прогноз на матч Англия — Сенегал ✓ Состоится 04.12.2022 в рамках турнира Чемпионат мира-2022 ⚽ Статистика и анализ матча ✔️ Коэффициенты букмекеров.</p></div>
-            </div>
-        </a><a href='https://rostov.tsargrad.tv/news/chm-2022-anglija-senegal-4-dekabrja-gde-i-vo-skolko-posmotret-transljaciju_677636'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>ЧМ-2022 Англия – Сенегал 4 декабря: где и во сколько ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR7I3TuF8NTNImjLJ4l17a0b0y00mQiLunXy9vvnSGsSobpWmd7O6-Dd5LAHKqOeQALlfYdrm3E" alt="ЧМ-2022 Англия – Сенегал 4 декабря: где и во сколько ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Царьград рассказывает, где и когда можно посмотреть 1/8 плей-офф чемпионата мира по футболу в Катаре.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQ24iCiG1NggTWUYcJZGSioNXUlJL57CtMRk2RP0CY_CzEFpN41viyYMHvEjQkLIC0LuLUDHmdD" alt="Англия — Сенегал: прогнозы и ставки" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ждем команду Саутгейта в четвертьфинале. - новость Чемпионата мира по футболу на Спорт Mail.ru.</p></div>
             </div>
         </a>
         </Template></>;

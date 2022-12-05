@@ -31,22 +31,8 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>サンド伊達みきお 渡辺徹さんが演じた「太陽にほえろ！」ラガー ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTCxV4h1gZ3LuAz941-HsQIuAeMR1ibEIQm1PoU3kf6bhY_xYlNbQrHyl2HQw10hwC1-xYALSh3" alt="サンド伊達みきお 渡辺徹さんが演じた「太陽にほえろ！」ラガー ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTr1uvslNWp4ctA9Zcjh9YDpcWUkvC--QvhOatrDiTNnpmqkEj6fyxlJH3c1a6v7p5Kh_QpWlbU" alt="サンド伊達みきお 渡辺徹さんが演じた「太陽にほえろ！」ラガー ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>お笑いコンビ、サンドウィッチマンが3日、パーソナリティーを務めるニッポン放送「ザ・ラジオショー」（土曜午後1時）に出演し、11月28日に敗血症のため61歳で亡くなっ&nbsp;...</p></div>
-            </div>
-        </a><a href='https://news.yahoo.co.jp/articles/27d04b00574f3c9963ff61991f28ce4e16008af8'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>和田アキ子 渡辺徹さんの訃報を受け「ショックで立ち上がれなくて ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTjtKU5cS29BMH6rWQ0K-FA1UiXYGQvBt0vtrEkeqAoSh4w1UGRIIUdz0CsdpwMKDFFrQ5MgD0C" alt="和田アキ子 渡辺徹さんの訃報を受け「ショックで立ち上がれなくて ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>歌手・和田アキ子（72）が3日、メインパーソナリティーを務めるニッポン放送「ゴッドアフタヌーン アッコのいいかげんに1000回」に出演。渡辺徹さんが亡くなったことを&nbsp;...</p></div>
-            </div>
-        </a><a href='https://news.yahoo.co.jp/articles/2b88c57ed9a009ba1fa6acf2085ec81960f0bb74'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>渡辺徹さん ただの微熱から容態急変…１０日あまりの出来事に妻 ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQVF6_q7UhFewSpNU4rpDQJ2_vzWeefwAI3NcrDA7zIt4-UtEoQwNSfCEZr8Aq5UylIqAv08IDA" alt="渡辺徹さん ただの微熱から容態急変…１０日あまりの出来事に妻 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>11月28日に敗血症で亡くなった俳優でタレントの渡辺徹さん（享年61）と妻の榊原郁恵（63）ははおしどり夫婦で有名だった。</p></div>
             </div>
         </a><a href='https://news.yahoo.co.jp/articles/84ccbe83adecae9e89f36d0a65a249818d627fed'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -55,12 +41,12 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ76q5LIxagOua0QWuhzd9Xsk-ynMmcvMI6m3RJr0i0zDOhmpWxG3FwbsFrEC6kByiiiiEl4SUw" alt="追悼・渡辺徹”52kg減量”に成功時の「激ヤセ」衝撃写真（FRIDAY）" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>俳優でタレントの渡辺徹さんが、11月28日に亡くなった。61歳の若さだった。死因は敗血症。11月20日に発熱、腹痛などの症状が出たため、都内の病院で検査を受け入院し&nbsp;...</p></div>
             </div>
-        </a><a href='https://nlab.itmedia.co.jp/nl/articles/2212/03/news064.html'>
+        </a><a href='https://news.yahoo.co.jp/articles/f194726f90b64fb65fdc2f7b2aca0659b97108fa'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>急死の渡辺徹さん息子・裕太のブログに反響 “父親似の明るさ”へ徹 ...</h3>
+                <h3>渡辺徹さんは１１月講演の朝に微熱 新型コロナ疑い検査も陰性だっ ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSeTpplYiG3ofAsJvFSPUpzPhF1nGobC_iLbDFglvMMOZhl0kRNJFo-4N_Y5vlqvWTxTtCw8vuw" alt="急死の渡辺徹さん息子・裕太のブログに反響 “父親似の明るさ”へ徹 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>テレビで家族共演することもあった芸能一家。 (1/2)</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSbLZXDVnFbt1OPUkS-pFOnr3EJH0NxXVunjbqluuX56C7cVw2eMiD12AYqlpNnIb5pU2fbGbdk" alt="渡辺徹さんは１１月講演の朝に微熱 新型コロナ疑い検査も陰性だっ ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>11月28日に敗血症のため死去した俳優でタレントの渡辺徹さん（享年61）は体調の異変を感じた当初、新型コロナウイルスの感染を疑っていたようだ。</p></div>
             </div>
         </a><a href='https://bunshun.jp/articles/-/59173'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -68,6 +54,27 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcScVsEJf2ZX6b6pMuTB0hZpn8LstZOO5FXca8b91Rc2tWVccOzARBOuxFrdLcdOBXrRKEhCu0F6" alt="【渡辺徹さん追悼】「整った容姿が目立ち、女性から絶大な人気を ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>俳優の渡辺徹さん（61）が11月28日に敗血症のため死去したことを、所属先の文学座が公式サイトで発表した。20日に発熱、腹痛等の症状が出たため都内の病院を受診した&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.tokyo-np.co.jp/article/217649'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>渡辺徹さんを悼む 演劇愛し、芸域も広く 人ひきつけた絶品の話術</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSufnVT5klmvcmFVn7nryN9RPNNqpjZC1iiFKN9vwKH-b3-aK8mz33XE3ok8FJQoB_SSTBgmWSp" alt="渡辺徹さんを悼む 演劇愛し、芸域も広く 人ひきつけた絶品の話術" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>十一月二十八日に敗血症のため六十一歳で亡くなった渡辺徹さんは、テレビのバラエティー番組などで見せたままの気さくで親しみやすい人柄で、マ...</p></div>
+            </div>
+        </a><a href='https://news.yahoo.co.jp/articles/f8c68bb2d6cbf0d65868344d8b4d7243208d2925'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>サンド富澤たけし「自分だって確実に残りの時間は減っていってる ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQPlqhgcLsD4ka_QwfRK7qouieT-agb2c6MD0JYqHFAK_46j4lj6DX4z4eONxu3ALaY22wWuuN3" alt="サンド富澤たけし「自分だって確実に残りの時間は減っていってる ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>お笑いコンビ、サンドウィッチマンの富澤たけし（48）が3日、公式ブログを更新。敗血症のため亡くなった俳優渡辺徹さんとの思い出を振り返った。</p></div>
+            </div>
+        </a><a href='https://news.yahoo.co.jp/articles/ffd997f65a17763014300e11f6812562ff94a1a5'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>生島ヒロシ、渡辺徹さんしのぶ「息子の裕太さんのことを心配し ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTLTwdeynCGgeqfY82wHrnuwAyPPwqjJrt0Iaj8EIdVJuj6iASJLkb8IGQgjXVwNZlvrLpytEXI" alt="生島ヒロシ、渡辺徹さんしのぶ「息子の裕太さんのことを心配し ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>アイドルですごい人気だった」と振り返る。渡辺さんは、その後も何度も生島がパーソナリティーを務めるラジオ番組にも出演。「『アイドルの後はお相撲さんになったんだよね&nbsp;...</p></div>
             </div>
         </a><a href='https://www.sakigake.jp/news/article/20221202AK0030/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
