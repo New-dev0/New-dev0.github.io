@@ -11,56 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,South Korea vs Portugal"/>
         <meta name="description" content="Trending News about South Korea vs Portugal" /></Head><Template>
             <h1 style={{fontSize: "30"}}>South Korea vs Portugal</h1>
-            <Image width={800} height={500} src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt1812a8fc0db0ccb9/6388f37ad3d8ed2f9ca4f743/GettyImages-1245185314.jpg" alt="South Korea vs Portugal"/>
+            <Image width={800} height={500} src="https://www.sportsmole.co.uk//b.smimg.net/22/48/vincent-aboubakar.jpg" alt="South Korea vs Portugal"/>
             <h3>Recent News</h3>
-            <a href='https://www.goal.com/en-za/news/south-korea-vs-portugal-live-stream-tv-kick-off-where-to-watch/blt3881a923c2fd6f17'>
+            <a href='https://www.sportsmole.co.uk/football/brazil/world-cup-2022/preview/preview-brazil-vs-south-korea-prediction-team-news-lineups_501175.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Korea vs Portugal: Live stream, TV channel, kick-off time ...</h3>
+                <h3>Preview: Brazil vs. South Korea - prediction, team news, lineups</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSVvk3QM0OLnBuiEufb80iiMEGPkl-5nLgibnpcqV8jw8_7FTNo63TWzkVQkpwRhR6HNQjUDA5h" alt="South Korea vs Portugal: Live stream, TV channel, kick-off time ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Here&#39;s how you can watch South Korea vs Portugal on TV and stream the game live in the UK, US, India and more.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQxL_a_HmCP9jbpkzzOP29F5OhNa33OLAYegxntfapU2HEYmakLJtizk57a06H3Ujp98vOImdmD" alt="Preview: Brazil vs. South Korea - prediction, team news, lineups" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Sports Mole previews Monday&#39;s World Cup clash between Brazil and South Korea, including predictions, team news and possible lineups.</p></div>
             </div>
-        </a><a href='https://mashable.com/article/south-korea-vs-portugal-livestream-2022-world-cup-group-h'>
+        </a><a href='https://totalfootballanalysis.com/match-analysis/fifa-world-cup-2022-south-korea-vs-portugal-tactical-analyisis-tactics'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Korea vs Portugal livestream: How to watch World Cup Group ...</h3>
+                <h3>FIFA World Cup 2022: South Korea vs Portugal - tactical analysis</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT-nlF8YKOThIh_qiX_VAZZsDUyqCjRUra6T9owSkuP8N60wqgH3aHSj1Eh9CDuC4DjHp8fJTL2" alt="South Korea vs Portugal livestream: How to watch World Cup Group ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The 2022 World Cup is underway in Qatar. See the schedule for each round as well as how to livestream every game of the tournament.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRBHAv3k9iBUHxUyCS4DoklcSKQUmHyiAsKEZkcH8FHZwmCdrYURZ-IenhC0GQeWTDwIp6TixwO" alt="FIFA World Cup 2022: South Korea vs Portugal - tactical analysis" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>This is a tactical analysis of South Korea vs Portugal and the tactics used by both managers. Through this analysis, we explore the tactics used by South&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.sportingnews.com/us/soccer/news/south-korea-vs-portugal-prediction-world-cup-odds-betting-tips-2022/hz5bk0agu2szdxg99xwakpqj'>
+        </a><a href='https://www.allkpop.com/article/2022/12/mamamoos-whee-in-revealed-to-have-watched-the-south-korea-vs-portugal-game-live-at-the-stadium'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Korea vs Portugal prediction, odds, betting tips and best bets ...</h3>
+                <h3>MAMAMOO&#39;s Whee In revealed to have watched the South Korea vs ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTHG_EGWMcHCtqvCiZ0twfMHIiOpI3PIlsW6B_el8F0y-GBuPHLCa1dcEQSK3HgzllOl7CPlGFR" alt="South Korea vs Portugal prediction, odds, betting tips and best bets ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>South Korea must beat Portugal to keep their World Cup campaign alive. Can they manage it? Here are the latest odds and our prediction.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSZZv-1vLvvNTi625OMYegSwu8qUAsZshuaAQrUr4PBJGrfO14QbUNnrKAA5CPTpiCtoY8Bg7Of" alt="MAMAMOO&#39;s Whee In revealed to have watched the South Korea vs ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>On Instagram, Whee In updated fans with images taken at the stadium after South Korea&#39;s victory over Portugal at the &#39;2022 Qatar World Cup.&#39; In the caption, she&nbsp;...</p></div>
             </div>
-        </a><a href='https://en.as.com/soccer/south-korea-vs-portugal-times-how-to-watch-on-tv-stream-online-world-cup-2022-n/'>
+        </a><a href='https://dailytrust.com/what-i-said-after-my-substitution-against-south-korea-ronaldo-clears-air/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Korea vs Portugal: times, how to watch on TV, stream online ...</h3>
+                <h3>&#39;What I said after my substitution against South Korea&#39;, Ronaldo ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRll-bOuYgeKB0t8bIMM71FWQrO5W5-SgUdw0qhZnn_MRhasYoG3LMafT3IB0LpOJPsSLzmPeLU" alt="South Korea vs Portugal: times, how to watch on TV, stream online ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>South Korea need to beat already-through Portugal if they&#39;re to have any hope of qualifying for the World Cup last 16.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQY6heKmH_UHvdwCRA3R06908ELJvWpT3y61sc0tXzuZBPpuBoHLrom-OuA_93yShbVZleW1_8f" alt="&#39;What I said after my substitution against South Korea&#39;, Ronaldo ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cristiano Ronaldo has denied he swore at Portugal coach Fernando Santos after being substituted during a dramatic 2-1 defeat to South Korea...</p></div>
             </div>
-        </a><a href='https://www.cbsnews.com/essentials/2022-fifa-world-cup-how-to-stream-the-south-korea-vs-portugal-game/'>
+        </a><a href='https://www.goal.com/en-us/news/i-told-him-to-shut-up-ronaldo-explains-furious-reaction-substitution-portugal-world-cup-defeat-south-korea/bltf2de10573a9f05e8'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>2022 FIFA World Cup: How to stream the South Korea vs. Portugal ...</h3>
+                <h3>&#39;I told him to shut up&#39; - Ronaldo explains furious reaction to ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRqXJkx30OZ8otoMJ5U8Z2E5Jw7x1wLYqHDlqhQfwxOVlrkQF0kweOZQYb3OVGSv8E9tvMn_3Ma" alt="2022 FIFA World Cup: How to stream the South Korea vs. Portugal ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Watch the South Korea vs. Portugal 2022 FIFA World Cup game for free. Plus, discover more FIFA streaming options.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT-44Ejj84U1_y23YL_uVkgm-YvZ8DuxwJtxNuiS0y4nKQzm8IS9lAODrSgU_m1QMIaZ9P_ruRQ" alt="&#39;I told him to shut up&#39; - Ronaldo explains furious reaction to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cristiano Ronaldo has insisted that his angry reaction to being substituted against South Korea was aimed at an opponent, not the Portugal manager.</p></div>
             </div>
-        </a><a href='https://theathletic.com/3956628/2022/12/01/south-korea-portugal-stream-tv-channel-predictions-start-time/'>
+        </a><a href='https://theanalyst.com/2022/12/brazil-vs-south-korea-world-cup-2022-prediction-and-preview/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Korea vs Portugal preview: How to stream, start time ...</h3>
+                <h3>Brazil vs South Korea Prediction: World Cup | The Analyst</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRv-TS-cW5jMKamxfwOtNg6v9YTaSbDKJcvDhkETIx6MZ2Wsh-mw6TPR7O_AchmqRjO7m58ItHJ" alt="South Korea vs Portugal preview: How to stream, start time ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Everything you need to know ahead of the Group H meeting between South Korea and Portugal at the 2022 World Cup.</p></div>
-            </div>
-        </a><a href='https://www.cbssports.com/soccer/news/south-korea-vs-portugal-live-stream-how-to-watch-2022-world-cup-live-online-tv-channel-prediction-odds/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>South Korea vs. Portugal live stream: How to watch 2022 World Cup ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQEiwJOAtfl01EpfRGKA49AyY2AHgm4bJfvwssPWKOU1UUmnt4Dgx_6b1Z8mfudtwLACQ1QdNbX" alt="South Korea vs. Portugal live stream: How to watch 2022 World Cup ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Portugal meet South Korea at Education City Stadium in Al Rayyan on Friday with Fernando Santos&#39; men already into the FIFA 2022 World Cup knockout phase.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRrlMfANa0nYseBIu7ycWO8RBNs7_BxtTCUdnkOo7UxodgCv0oZnQRz3xRMIOdg2vsTsHcen0gO" alt="Brazil vs South Korea Prediction: World Cup | The Analyst" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>After winning Group G, Brazil face Group H runners-up South Korea in the round of 16 at Qatar 2022. We preview the knockout stage match ahead of kick-off at&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

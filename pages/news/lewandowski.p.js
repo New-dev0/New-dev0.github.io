@@ -11,56 +11,70 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Lewandowski"/>
         <meta name="description" content="Trending News about Lewandowski" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Lewandowski</h1>
-            <Image width={800} height={500} src="https://cdnuploads.aa.com.tr/uploads/Contents/2022/11/26/thumbs_b_c_458d4a4061db72779b948e5f93d3088c.jpg?v=183600" alt="Lewandowski"/>
+            <Image width={800} height={500} src="" alt="Lewandowski"/>
             <h3>Recent News</h3>
-            <a href='https://www.aa.com.tr/tr/dunyadan-spor/lewandowski-dunya-kupasindaki-ilk-golunu-atti/2748927'>
+            <a href='https://www.ouest-france.fr/sport/football/robert-lewandowski/coupe-du-monde-difficile-a-dire-maintenant-lewandowski-n-est-pas-sur-d-etre-au-mondial-2026-afebef80-7404-11ed-9402-c361be74b85c'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Lewandowski, Dünya Kupası&#39;ndaki ilk golünü attı</h3>
+                <h3>Coupe du monde. « Difficile à dire maintenant » : Lewandowski n&#39;est ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRJyt_mNBsx5FmzPj8grSkQuOOsAzk-7OvJAfKcw1Cx-lqCrIstasTV6kfvZMlCvapceodd0xFU" alt="Lewandowski, Dünya Kupası&#39;ndaki ilk golünü attı" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>2022 FIFA Dünya Kupası&#39;nda Polonya, C Grubu&#39;ndaki ikinci maçında Suudi Arabistan&#39;ı 2-0 yendi. Polonyalı yıldız Lewandowski, Dünya Kupası&#39;ndaki ilk golünü&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQPf118X-uZ5qqqAtdpcXpfMv-dulWVnjpG812w2TTQN4Hp64ZKyw7eRzAHfaT-AgGeqLGAJC0W" alt="Coupe du monde. « Difficile à dire maintenant » : Lewandowski n&#39;est ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>... « Physiquement, je n&#39;ai pas peur » de rester en équipe nationale en vue du Mondial 2026, a assuré l&#39;attaquant polonais Robert Lewandowski, mais « c&#39;est&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.gazeteduvar.com.tr/lewandowski-ilk-golunu-atti-gozyaslarini-tutamadi-haber-1591015'>
+        </a><a href='https://www.lemonde.fr/football/article/2022/12/04/coupe-du-monde-2022-la-petite-solitude-de-robert-lewandowski-grand-attaquant-de-l-equipe-de-pologne_6152898_1616938.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Lewandowski ilk golünü attı, gözyaşlarını tutamadı</h3>
+                <h3>Coupe du monde 2022 : la petite solitude de Robert Lewandowski ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRP9SAvg4BXHfy_axf1ngOgVzYq2kjnkTTpB9cKF6ws8FvoXU0VZ4hFhviNjmGmug-gqfJslMJe" alt="Lewandowski ilk golünü attı, gözyaşlarını tutamadı" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Suudi Arabistan&#39;ı 2-0 yendikleri maçta, dünya kupalarındaki ilk golünü atan Polonyalı yıldız Lewandowski, gol sonrasında gözyaşlarına hakim olmadı.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSklrMWA22SSJq8MMaTjA-5OyXsH3Ze2qJa4B74P6zdgGSHW0OWsF1pV8cY90ihWmVOTpL1Y4kq" alt="Coupe du monde 2022 : la petite solitude de Robert Lewandowski ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Principale menace polonaise pour la défense française en huitième de finale, le buteur vedette s&#39;est souvent retrouvé isolé lors de Mondial au Qatar,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.goal.com/tr/haber/lewandowski-dunya-kupasi-ndaki-ilk-golunu-atti-szczesny-penalti-kurtardi-polonya-suudi-arabistan-macindan-sag-cikti/blt2a3f134460988b79'>
+        </a><a href='https://www.onzemondial.com/coupe-du-monde-2022/france-pologne-le-gros-regret-de-lewandowski-apres-la-defaite-809258'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Lewandowski, Dünya Kupası&#39;ndaki ilk golünü attı! Szczesny penaltı ...</h3>
+                <h3>France – Pologne : le gros regret de Lewandowski après la défaite</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS7VsnvFANZ-0MhQJgU9sw7V7I0cquV7Ncl4K8QI1gR_q1QQHFmrzBXeW5nsc_G0LCj6ZfKiTVY" alt="Lewandowski, Dünya Kupası&#39;ndaki ilk golünü attı! Szczesny penaltı ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Robert Lewandowski, Polonya&#39;nın Suudi Arabistan&#39;ı mağlup ettiği maçta ilk Dünya Kupası golünü attı.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT_RPj7ChLQH7xMMgMzWN1j1A4r1PW7Jd7LyH-6lqNu7b80GVwLCURO9BLw9hubpIYRvCTo2m7y" alt="France – Pologne : le gros regret de Lewandowski après la défaite" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Zapping Onze Mondial CDM 2022 : Allemagne, retour vers les sommets ? Analyse de Patrick Guillou ! Robert Lewandowski a peut-être joué son&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.ntvspor.net/futbol/lewandowski-yi-aglatan-gol-pele-detayi-63822a9f66db228e5caffe83'>
+        </a><a href='https://www.lejsl.com/insolite/2022/12/04/le-jsl-a-telephone-a-lewandowski'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Lewandowski&#39;yi ağlatan gol: Pele detayı</h3>
+                <h3>Insolite. Le JSL a téléphoné à Lewandowski</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSTF1EDJ1MqzDwRM-6arN-XoTCUwtUddVlhyRdc_3Y0r2_WcGavdXhuWttqgm3H39NnxZsbZ8HK" alt="Lewandowski&#39;yi ağlatan gol: Pele detayı" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Polonya, Dünya Kupası C grubunda Suudi Arabistan&#39;ı 2-0 mağlup etti. Maçta ikinci golü atan Lewandowski ilki başardı.</p></div>
+                <Image src="" alt="Insolite. Le JSL a téléphoné à Lewandowski" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Avant le France - Pologne ce dimanche nous avons tenté de joindre Lewandowski. Mission réussie. Mais au bout de la ligne, c&#39;était Jean-Pierre, brocanteur de&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.birgun.net/haber/lewandowski-muradina-erdi-polonya-galibiyete-uzandi-411426'>
+        </a><a href='https://www.sports.fr/football/coupe-du-monde-2022/lewandowski-declaration-seme-doute-672178.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Lewandowski muradına erdi, Polonya galibiyete uzandı</h3>
+                <h3>Lewandowski, la déclaration qui sème le doute</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQOxki7Qk-yLupDMWlSxJHcY9MednqcABZN3aeZTnnx8jxxbwilIgl40k6XEOC3wcMP2jBDgQ5V" alt="Lewandowski muradına erdi, Polonya galibiyete uzandı" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Polonya, Dünya Kupası C grubunda Suudi Arabistan ile karşılaştı. Maçı 2-0 Polonya kazanırken, yıldız golcü Robert Lewandowski, Dünya Kupası&#39;nda fileleri&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQLFaEv2RgKU-XPRG9vTg0aJBvSZ_SBsa2hPWXpnLEZO0aqGmpGTj_opBLQS0YWqcelR8LGGmsD" alt="Lewandowski, la déclaration qui sème le doute" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>La Pologne n&#39;aura pas fait de miracle. Opposés à l&#39;équipe de France en huitième de finale du Mondial 2022, ce dimanche après-midi à Doha, les Aigles Blancs se&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.takvim.com.tr/galeri/spor/polonya-suudi-arabistani-devirdi-robert-lewandowski-dunya-kupasindali-ilk-golunu-atti-gozyaslarini-tutamadi'>
+        </a><a href='https://www.sofoot.com/la-deception-lewandowski-522477.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Polonya, Suudi Arabistan&#39;ı devirdi: Robert Lewandowski, Dünya ...</h3>
+                <h3>La déception Lewandowski</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTZp7F5VcNMgETdS-G0hjMVRz3jzGYnDJSMJyocmdRAIyVR0q7TswuLGWskChIe2dIebqQ_Vh8a" alt="Polonya, Suudi Arabistan&#39;ı devirdi: Robert Lewandowski, Dünya ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Katar&#39;da düzenlenen 2022 Dünya Kupası&#39;nda heyecan sürüyor... C grubu 2. hafta karşılaşmasında Polonya, Suudi Arabistan 2-0 mağlup etti.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRviEJmCzo1UMyVFXf3tieQsotf52_MH1886H2sOfJ4K5jR5-kdAMhUVYInjlxw3RjME64fCIuO" alt="La déception Lewandowski" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Attendu comme le leader d&#39;une équipe de Pologne fragile, Robert Lewandowski a finalement quitté cette Coupe du monde 2022 tel que les Aigles l&#39;ont entamée :&nbsp;...</p></div>
             </div>
-        </a><a href='https://onedio.com/haber/lewandowski-dunya-kupasi-nda-golle-tanisti-polonya-kazandi-1110019'>
+        </a><a href='https://www.ladepeche.fr/2022/12/04/mondial-2022-france-pologne-si-lewandowski-est-lun-des-meilleurs-buteurs-du-monde-cest-aussi-grace-a-lewandowska-10845914.php'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Lewandowski Dünya Kupası&#39;nda Golle Tanıştı, Polonya Kazandı</h3>
+                <h3>Mondial 2022 - France-Pologne : si Lewandowski est l&#39;un des ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTj2IHM5A0nHrxCIr26RLq4RijY6qOBrB8tjiP1jGA11N2Zay-iaxtFWai5KFLARkKylCeO-17a" alt="Lewandowski Dünya Kupası&#39;nda Golle Tanıştı, Polonya Kazandı" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>2022 Dünya Kupası C Grubu&#39;nda yer alan Polonya ve Suudi Arabistan karşı karşıya geldi. Polonya maçı 2-0 kazanırken, Lewandowski bir ilke imza attı.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQzm4ZjHSk_zKhMCX5sk81x0b06YOanhRsjijYmydT95cv4JVkI2UWXdnayviC2dqtiD2LMBKCZ" alt="Mondial 2022 - France-Pologne : si Lewandowski est l&#39;un des ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ce dimanche 4 décembre, les Bleus défient les Polonais et leur redoutable attaquant (16h), pour une place en quarts de finale de la Coupe du monde de foot&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.lequipe.fr/Football/Actualites/Robert-lewandowski-apres-l-elimination-de-la-pologne-face-aux-bleus-peut-etre-que-si-on-marque-le-premier-but/1368465'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Robert Lewandowski après l&#39;élimination de la Pologne face aux ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQv-G-q1cKZhwumohJf6lkEOoF2l_WglrTcwJBi2h3BSxbrlsP5JbrhtTwfrOF3q0iWJ6cNircX" alt="Robert Lewandowski après l&#39;élimination de la Pologne face aux ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Robert Lewandowski, l&#39;attaquant polonais, regrettait les occasions manquées en première période face à l&#39;équipe de France (1-3), dimanche en 8es de finale&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.goal.com/fr/news/goal50-robert-lewandowski-vs-karim-benzema/bltc05a9a272343dec5'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>GOAL50: Robert Lewandowski vs Karim Benzema</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQoEw4rA_qDXjckb1ezqqZ6pHwuHYt6L48-VMgGCzmj0K_AgvtPtyExPsoofwghoWq0spyQSE3R" alt="GOAL50: Robert Lewandowski vs Karim Benzema" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ils sont les meilleurs attaquants du monde aujourd&#39;hui, mais qui de Robert Lewandowski ou Karim Benzema obtiendra votre vote GOAL50 ?</p></div>
             </div>
         </a>
         </Template></>;

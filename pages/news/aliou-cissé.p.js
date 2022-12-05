@@ -11,14 +11,14 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Aliou Cissé"/>
         <meta name="description" content="Trending News about Aliou Cissé" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Aliou Cissé</h1>
-            <Image width={800} height={500} src="https://www.allezpaillade.com/wp-content/uploads/2022/11/Icon_BAP_291122_93_153-scaled.jpg" alt="Aliou Cissé"/>
+            <Image width={800} height={500} src="https://derivates.kicker.de/image/upload/c_crop,x_0,y_140,w_3031,h_1705/w_1200,q_auto/v1/2022/12/04/ed6d9c52-593e-435e-bc39-a51b29f77503.jpeg" alt="Aliou Cissé"/>
             <h3>Recent News</h3>
-            <a href='https://www.allezpaillade.com/anciens/le-senegal-daliou-cisse-file-en-8e-du-mondial-et-affrontera-langleterre/'>
+            <a href='https://www.kicker.de/ciss-laesst-seine-zukunft-offen-928293/artikel'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>[Anciens] Le Sénégal d&#39;Aliou Cissé file en 8e du Mondial et ...</h3>
+                <h3>Senegals Trainer Aliou Cissé lässt seine Zukunft offen</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQ72k7vVGk1d6PwqOPKbjec-DMqXCoYpf3UbeaN95rkkB2mtL2_CgNh8tfvD-fR5l1-Pa7jt4HU" alt="[Anciens] Le Sénégal d&#39;Aliou Cissé file en 8e du Mondial et ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>L&#39;affaire était loin d&#39;être entendue quand, après un départ frustrant, les Sénégalais devait obligatoirement remporter ses deux autres matchs.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSkJ04e5_hYiI6qk_IhsWNlfEufX4j61zUBlMIXWnT8Qo5_W4vfON1N71njxsuYOzQnOUnwyRA5" alt="Senegals Trainer Aliou Cissé lässt seine Zukunft offen" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Aliou Cissé hat Senegal bis ins Achtelfinale der WM geführt, doch nach dem 0:3 gegen England ließ der 46-Jährige die Fragen nach seiner Zukunft&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

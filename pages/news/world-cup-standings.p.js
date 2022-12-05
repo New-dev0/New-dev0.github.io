@@ -7,60 +7,60 @@ import Image from "next/image";
 export default function Page() {
     const md = useMediaQuery(960);
     return <><Head>
-        <title>World Cup standings</title>
-        <meta name="keywords" content="news,trending,latest,sports,breaking,top,World Cup standings"/>
-        <meta name="description" content="Trending News about World Cup standings" /></Head><Template>
-            <h1 style={{fontSize: "30"}}>World Cup standings</h1>
-            <Image width={800} height={500} src="" alt="World Cup standings"/>
+        <title>World Cup Standings</title>
+        <meta name="keywords" content="news,trending,latest,sports,breaking,top,World Cup Standings"/>
+        <meta name="description" content="Trending News about World Cup Standings" /></Head><Template>
+            <h1 style={{fontSize: "30"}}>World Cup Standings</h1>
+            <Image width={800} height={500} src="https://ss-i.thgim.com/public/football/6sbl91/article66213506.ece/alternates/FREE_1200/Morocco.jpg" alt="World Cup Standings"/>
             <h3>Recent News</h3>
-            <a href='https://www.nytimes.com/live/2022/11/30/sports/argentina-poland-world-cup-scores'>
+            <a href='https://sportstar.thehindu.com/football/fifa-world-cup/news/fifa-world-cup-points-table-group-f-standings-morocco-vs-canada-croatia-vs-belgium-qatar-2022/article66213484.ece'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Argentina vs Poland Live: World Cup Scores and Standings</h3>
+                <h3>FIFA World Cup 2022 points table, Group F standings after ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT6YGzYV_UYb5rypOqAaHpR4cS-R-_OZK-oJFC5QIhvCP0Ohs7MRAES-lHxioUlKgS6H8BG6mL9" alt="Argentina vs Poland Live: World Cup Scores and Standings" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Mexico also scored to keep its World Cup hopes alive against Saudi Arabia.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSVheS6qQGZEEVCSgYBZQKUrtVmYULNQTWX2nrpBlQWLBD2HW--WBI041OI-1-WOifLE7UlizWI" alt="FIFA World Cup 2022 points table, Group F standings after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>FIFA World Cup 2022 points table: Morocco registered a resounding 2-1 win over Canada to top group, while Croatia and Belgium played out a goalless draw.</p></div>
             </div>
-        </a><a href='https://dknation.draftkings.com/2022/11/30/23485853/world-cup-standings-round-of-16-stage-clinching-scenarios-argentina-mexico-poland-ksa-result-bracket'>
+        </a><a href='https://www.wionews.com/sports/fifa-world-cup-2022-rankings-points-table-and-team-standings-of-all-groups-after-day-12-539470'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup bracket: Final Group C standings and who advances to ...</h3>
+                <h3>FIFA World Cup 2022 Rankings - points table and team standings of ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQj9IJflZdvM0QHiidSTb85-kGsC3fAus1Rbfgtws7WagkGc7UEWjhNU1tisxgEAwGsjyL-NJQ7" alt="World Cup bracket: Final Group C standings and who advances to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Robert Lewandowski of Poland and Salem Al Dawsari of Saudi Arabia in action during the FIFA Photo by Visionhaus/Getty Images. The 2022 World Cup heads into the&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSCYY9qvfaUPl7OL49eUcL3aBUIZpSBtQeTllMpvIUN1J2rjEZBedSccc9GyopRjUUqGWMVdlYy" alt="FIFA World Cup 2022 Rankings - points table and team standings of ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>FIFA World Cup 2022 Points Table &amp; Standings: Two groups of the FIFA World Cup 2022, Group E and Group F, went into action on day 12 of the mega event.</p></div>
             </div>
-        </a><a href='https://en.as.com/soccer/group-c-world-cup-2022-final-standings-who-qualified-for-the-round-of-16-and-who-is-out-n/'>
+        </a><a href='https://www.bbc.com/pidgin/sport-63818370'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Group C World Cup 2022 final standings: Who qualified for the ...</h3>
+                <h3>World cup standings: Messi, Rashford shine, Morocco and Japan ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT6LHgb4t86UNn03hAAMk9CwWsv3uTAxSaKVjQSdqS9AXAdQ93vqaU7YZ3izcYYe7Ju2kzOHTsL" alt="Group C World Cup 2022 final standings: Who qualified for the ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>World Cup Group C came to a tense conclusion when a last-minute goal scored by Saudi Arabia threatened to upset the apple cart.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT0Fc-kYTGq6PMfJiOn3Ebye4iybMF6mAe8PnQ2f4tJNyERsMWZMh2c7ice2jLq1KcaaAkp7TaD" alt="World cup standings: Messi, Rashford shine, Morocco and Japan ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Di Qatar 2022 Fifa World Cup don dey reach wia di tension go high pass as e be. Dis na as kontris don begin qualify for di next round of di competition,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.cbssports.com/soccer/news/world-cup-scores-live-updates-saudi-arabia-vs-mexico-poland-vs-argentina-score-fifa-world-cup-standings/live/'>
+        </a><a href='https://dknation.draftkings.com/2022/12/2/23485965/world-cup-standings-round-of-16-clinching-scenarios-brazil-switzerland-cameroon-serbia-bracket'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup scores: Mexico eliminated on goal difference as ...</h3>
+                <h3>World Cup bracket: Final Group G standings and who advances to ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRqJI4YNDoolCXGR8-IpKkWLjHFYeI3tC1p97jOo_VFPjx2qg7GSj-ZRVK3-aO26qa1WAr7tXJ7" alt="World Cup scores: Mexico eliminated on goal difference as ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>For much of the match it looked like the fair play tiebreaker would be the deciding factor with Mexico and Poland equal on points, goal differential and goals&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTbEBoU-nFhLCZobyu-JLqsbe7SCdws4nA8PXFnj6vwT1CDgPGKyGP4-gOd69adM5BB3bAfDWO9" alt="World Cup bracket: Final Group G standings and who advances to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Brazil celebrate during the FIFA World Cup Qatar 2022 Group G match between Brazil (1 Photo by Simon Bruty/Anychance/Getty Images. Brazil has secured a spot&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.the-sun.com/sport/6802836/world-cup-2022-group-c-live-table-poland-argentina-saudi-arabia-mexico/'>
+        </a><a href='https://en.as.com/soccer/world-cup-2022-group-g-final-standings-who-qualified-for-the-round-of-16-and-who-is-out-n/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>World Cup 2022 Group C LIVE TABLE: Standings as Argentina TOP ...</h3>
+                <h3>World Cup 2022 Group G final standings: who qualified for the round ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQgfbyxonuuC2KGK-EOIgsYNzqmQLwVbQ8sWNRX9wwSjjDQ4YYZn23yw6J8szWwFw1oG-a8ajJV" alt="World Cup 2022 Group C LIVE TABLE: Standings as Argentina TOP ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Lionel Messi and co fell to defeat in the opening game of the group to Saudi Arabia but victories over Mexico and Poland saw them finish top. Advertisement.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQBW5l7VGhqi7Dz2WbEgs101PA5jvhj149UUB4cwyO2ntiXzS1JYxcls7AhvJNyz37u4FKjDIDl" alt="World Cup 2022 Group G final standings: who qualified for the round ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The line-up for World Cup 2022 last 16 is complete, after matchday three in Group G was played on Friday.</p></div>
             </div>
-        </a><a href='https://theathletic.com/live-blogs/poland-argentina-world-cup-2022-live-score-updates-result/U6axwGQihIZA/'>
+        </a><a href='https://www.thequint.com/sports/fifa-world-cup-2022-points-table-updated-team-standings-here-check-the-top-teams-and-other-details'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>How Argentina advanced from Group C in victory over Poland ...</h3>
+                <h3>FIFA World Cup 2022 Points Table: Updated Top Teams Standings ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSDSg6RP_V46x1QRtthxTet1CfNgOxEzibTYHkMxTu3oV10WsvilZah_RRatxHbbwEO3N_awXYV" alt="How Argentina advanced from Group C in victory over Poland ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Argentina have beaten Poland 2-0 and qualified for the knockout stage of the 2022 World Cup. They will play Australia in the round of 16.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT_H_nl8Ol7IUucMda5w6jrm93zw3E7ttvPBypJrLprLDQQaLuAsPSLB9gmcY7_qZIw-8bujmlx" alt="FIFA World Cup 2022 Points Table: Updated Top Teams Standings ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The FIFA World Cup 2022 Points Table is updated here after every match. You can take a look at the points table of all groups to see the top teams.</p></div>
             </div>
-        </a><a href='https://sportstar.thehindu.com/football/fifa-world-cup/news/fifa-world-cup-points-table-live-updates-qatar-2022-group-c-d-stage-standings-matches-goals-gf-ga/article66206204.ece'>
+        </a><a href='https://www.nytimes.com/interactive/2022/sports/world-cup/world-cup-bracket.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>FIFA World Cup points table Group C: Argentina, Poland through to ...</h3>
+                <h3>2022 World Cup Bracket: The Knockout Stage</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTIeMZO9O5Q9KiX0-hmJmV0lpwpe8YahfC_VGB9bJObN6TTNthUknsbOuqNCgD8H7imW0jqjH9y" alt="FIFA World Cup points table Group C: Argentina, Poland through to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A much-changed France was beaten by Tunisia, while Australia beat Denmark 1-0 to clinch the final berth from Group D. Argentina finished as the table-topper in&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRh8GJ7UhY5pqcwmt_KHzbSaqIUldEXPEeqIfBMI_mn69eKIl46c4NV87e05pn49U0UFDmP7lFO" alt="2022 World Cup Bracket: The Knockout Stage" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>It&#39;s “win or go home” time in the World Cup&#39;s knockout stage. Follow live coverage of all the games from The New York Times.</p></div>
             </div>
         </a>
         </Template></>;

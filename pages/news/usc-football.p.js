@@ -7,74 +7,81 @@ import Image from "next/image";
 export default function Page() {
     const md = useMediaQuery(960);
     return <><Head>
-        <title>USC football</title>
-        <meta name="keywords" content="news,trending,latest,sports,breaking,top,USC football"/>
-        <meta name="description" content="Trending News about USC football" /></Head><Template>
-            <h1 style={{fontSize: "30"}}>USC football</h1>
-            <Image width={800} height={500} src="https://d3jycsk0m72ya7.cloudfront.net/images/2022/11/25/2022-FB-USCPharmKeys-ND-web_fx1F8.png?preset=large.socialmediaimage" alt="USC football"/>
+        <title>USC Football</title>
+        <meta name="keywords" content="news,trending,latest,sports,breaking,top,USC Football"/>
+        <meta name="description" content="Trending News about USC Football" /></Head><Template>
+            <h1 style={{fontSize: "30"}}>USC Football</h1>
+            <Image width={800} height={500} src="https://d3jycsk0m72ya7.cloudfront.net/images/2022/12/2/usc-trojans-football-caleb-williams-pac-12-championship.jpg?preset=large.socialmediaimage" alt="USC Football"/>
             <h3>Recent News</h3>
-            <a href='https://usctrojans.com/news/2022/11/25/usc-football-notre-dame-irish-trojans-game-preview-lincoln-riley-caleb-williams'>
+            <a href='https://usctrojans.com/news/2022/12/2/usc-trojans-football-game-recap-utah-utes-pac-12-championship-game-caleb-williams.aspx'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Game Preview: USC Football Hosts Rival Notre Dame for First Time ...</h3>
+                <h3>No. 4 USC Football Falls To No. 11 Utah At Pac-12 Championship ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTDfiyeLYK6X7zzoWlVgumLMRhwO4p060FpZ0ieLFo9XQ8zn0_DjPrJJt0OpJKj-uW-DOCCbkIT" alt="Game Preview: USC Football Hosts Rival Notre Dame for First Time ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Trojans will face the Irish at home for the team&#39;s final game in the Coliseum for the 2022 season.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRKDiFsVFgEF6OiyS6hHhE1pXALHb9g_rOfl5YoISQwsrumKhQ_6WJoufEeDe13ZRUF6T-QPVEH" alt="No. 4 USC Football Falls To No. 11 Utah At Pac-12 Championship ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Caleb Williams threw for 363 yards and three TDs as the Trojans await their bowl destination on Selection Sunday.</p></div>
             </div>
-        </a><a href='https://www.ndinsider.com/story/sports/football/2022/11/26/notre-dame-usc-college-football-rivalry-game-ncaa-transfer-portal/69675304007/'>
+        </a><a href='https://clutchpoints.com/usc-football-3-people-most-to-blame-for-pac-12-title-game-loss-to-utah'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Culture wars: Notre Dame-USC rivalry offers modern referendum on ...</h3>
+                <h3>USC football: 3 people most to blame for Pac-12 title game loss to ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTFLEYTs3KZ52o3JXj8Ana9eExmjOmAtrp_SD7VIM9R3E5b-pwjrsKNDtAmlKy1nbacUscj-_5j" alt="Culture wars: Notre Dame-USC rivalry offers modern referendum on ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>SOUTH BEND — No program restocked more aggressively through the transfer portal last offseason than USC. The sixth-ranked Trojans, 10-1 as they face No.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSx8MHP5PaVGlTOZRcepcqWXT0lTEBTgQRqbV9aZqbpeOvNKeB5pAKKPROC7WdfIim7etBE4JzB" alt="USC football: 3 people most to blame for Pac-12 title game loss to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>We name the people most at fault for USC football&#39;s loss to Utah in the Pac-12 Championship on Friday Night.</p></div>
             </div>
-        </a><a href='https://nypost.com/2022/11/26/notre-dame-vs-usc-predictions-college-football-picks-odds-today/'>
+        </a><a href='https://www.cbssports.com/college-football/news/bowl-projections-ohio-state-slides-into-college-football-playoff-after-usc-falls-in-pac-12-championship-game/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Notre Dame vs. USC predictions: College football picks and odds</h3>
+                <h3>Bowl projections: Ohio State slides into College Football Playoff after ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSkbX1MPkxTjg2P3lTN6mfMV9bFn6N6IvgTk7cH6tJfjcAp4AcM20EhmWrRdfYoo27xtTfcjvkN" alt="Notre Dame vs. USC predictions: College football picks and odds" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Our college football betting writer brings you his best betting picks and predictions for the matchup between No. 15 Notre Dame and No.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRO1unQA9yXhdFf3TngbJpYFYGx2R3p3JUSsspyAk4Z8vQTx0_un2aA1XvRoHZrCwFyOTzM7pPj" alt="Bowl projections: Ohio State slides into College Football Playoff after ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Ohio State beat Clemson 49-28 in the semifinal two years ago before ultimately falling to Alabama in the 2021 CFP National Championship. The No. 6 Crimson Tide&nbsp;...</p></div>
             </div>
-        </a><a href='https://trojanswire.usatoday.com/2022/11/26/usc-football-program-has-been-rejuvenated-in-2022/'>
+        </a><a href='https://247sports.com/college/usc/LongFormArticle/USC-football-recap-Pac-12-championship-game-Utah-football-Utes-Trojans--199371755/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>USC football program has been rejuvenated in 2022</h3>
+                <h3>Five takeaways from USC&#39;s loss to Utah in Pac-12 championship ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSUEPyV8WAleUVGrWKRtTRFXT99OprqH1XiD8xHn54mbxZ2ab0HZU13tkwsEPBPo4PSdVsMaTJe" alt="USC football program has been rejuvenated in 2022" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Maybe USC will beat Notre Dame on Saturday in the Los Angeles Coliseum. Maybe it won&#39;t. That point aside, let&#39;s simply stop for a moment to reflect on the&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSs1tEUrN9ZILMzfCMygBI6ZyLHKYD4EqUOy29pdxfQ5M1rqjwpjKChA4y6yILlLBbhgLB8Z5Q6" alt="Five takeaways from USC&#39;s loss to Utah in Pac-12 championship ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>After the Trojans led 17-3 with 12:08 left in the second quarter, the Utes scored 24 straight points and finished the game on a 44-7 run. USC cut Utah&#39;s lead to&nbsp;...</p></div>
             </div>
-        </a><a href='https://247sports.com/college/usc/Article/USCFootballcom-staff-picks-against-spread-USC-Trojans-Notre-Dame-Fighting-Irish-Las-Vegas-198538286/'>
+        </a><a href='https://www.latimes.com/sports/story/2022-12-03/la-times-sports-letters-usc-utah-college-football-playoff'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>USCFootball.com staff picks against the spread for USC vs. Notre ...</h3>
+                <h3>Letters: So long USC and the College Football Playoff</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSJIsnl_7UEVfv64WCc4i4qjv4Yrda845LYA7MEgT7vw2zPL3mIXmFrVEyh8B6AagCo7rnI5Z2x" alt="USCFootball.com staff picks against the spread for USC vs. Notre ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>This week the Trojans back at home in the Coliseum taking on the Notre Dame Fighting Irish with a kickoff time set for at 4:30 p.m. PT with the game on ABC. The&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTUPy9GToQMXk2zd1ID8GdSeFc4pW1ArpPb9RFsl8vungfGyX19THZWfYdxvegTrGNHLrK0RuIh" alt="Letters: So long USC and the College Football Playoff" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>An injured Caleb Williams, a porous defense and Lincoln Riley&#39;s hubris turn into a Pac-12 championship loss for USC on Friday night.</p></div>
             </div>
-        </a><a href='https://www.si.com/college/usc/football/how-to-watch-usc-vs-notre-dame-football'>
+        </a><a href='https://www.uscannenbergmedia.com/2022/12/02/despite-the-loss-usc-football-is-officially-back/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>How to watch USC vs. Notre Dame football: Live stream online, TV ...</h3>
+                <h3>Despite the loss, USC football is officially back</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRmOWorHf7_FdyVUcSGMWt3BtFt5pfxeWRTBbwyuNPRrTvkGKyoymbtWfvf1T7lQ2KMpSxPUVYb" alt="How to watch USC vs. Notre Dame football: Live stream online, TV ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>No. 6 USC and No. 15 Notre Dame square off for the 92nd time on Saturday in the Trojans&#39; final home game of the season at the Los Angeles Memorial Coliseum.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTbNtGaSh7STDn2DfWW7BmUiIjUCmNR7guWxOEwls5Zw0nQT5TvSYUALQzGdxsWaqfcAQ-0k5s8" alt="Despite the loss, USC football is officially back" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Caleb Williams is looking down the field. He is wearing a cardinal helmet with a. Sophomore quarterback Caleb Williams scans the field in USC&#39;s loss to Utah in&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.latimes.com/sports/usc/liveblog/usc-notre-dame-live-updates'>
+        </a><a href='https://deadspin.com/usc-craps-out-in-vegas-but-trojans-were-playing-entire-1849850378'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>No. 6 USC vs. No. 15 Notre Dame: Caleb Williams and Trojans ...</h3>
+                <h3>USC craps out in Vegas, but Trojans were playing entirely with ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTqHzS73sVMBPwSX3cEH3EY6m3CCRjHihRQpaB9IegKM0P7PsunaoQug0qvkmIk6PTkD0dLcur1" alt="No. 6 USC vs. No. 15 Notre Dame: Caleb Williams and Trojans ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>USC needs a win over Notre Dame to extend its push for a spot in the College Football Playoff semifinals. Kickoff is at 4:30 p.m. and it airs on ABC.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQmm-oa5pnZx9vamsVOaBMR9ZvlOaSOztg_1r_pVZLgAtWYTbE80zffi1vcHh1B-JfHoupO4zVi" alt="USC craps out in Vegas, but Trojans were playing entirely with ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Utah wins Pac-12 for second straight season, ending Lincoln Riley and Caleb Williams&#39; hopes of a playoff bid.</p></div>
             </div>
-        </a><a href='https://247sports.com/college/usc/Article/Stat-Pack-Where-USC-football-stands-statistically-following-Week-12-198217256/'>
+        </a><a href='https://www.forbes.com/sites/adamzagoria/2022/12/03/ohio-state-favored-to-make-college-football-playoff-after-utah-knocks-off-usc-in-pac-12-title-game/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Stat Pack: Where USC football stands statistically following Week 12</h3>
+                <h3>Ohio State Favored To Make College Football Playoff After Utah ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQmSCsO-piMoeGRWVO8TVWk4CUvY2RwQugM7ek325kVDZJ9K31Y60NXQn6M18nfiKwE9dXwZvvN" alt="Stat Pack: Where USC football stands statistically following Week 12" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>I also pull out interesting or impressive stat standings/trends. Here is where USC stands after a Week 12 win over UCLA. The first number in parentheses&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTZjcbLsl54_ns7p6qja69mo2CzZEikRWGB5_vslpSSNogEVcZ9rflDYEQHRBBeLj76x3ewsE7E" alt="Ohio State Favored To Make College Football Playoff After Utah ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Cameron Rising and Utah dominated Southern California in the Pac-12 title game on Friday night in Las Vegas, opening the door for Ohio State to make the&nbsp;...</p></div>
             </div>
-        </a><a href='https://theathletic.com/3930295/2022/11/25/usc-recruiting-duce-robinson/'>
+        </a><a href='https://reignoftroy.com/posts/ex-usc-football-head-coach-qb-collapse-finish-season-sec-kiffin-dart'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>USC recruiting reset: Trojans seek strong finish to Lincoln Riley&#39;s ...</h3>
+                <h3>Ex-USC Football Head Coach, QB collapse to finish season in SEC</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSwu-JkGAy1MMO586a9mUgeNfSSaW4fcKPH5eBb5vK94OIhVQFmVS196aML69lJjCfmTG1U1Kfc" alt="USC recruiting reset: Trojans seek strong finish to Lincoln Riley&#39;s ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>LOS ANGELES — Three weeks ago, Lincoln Riley sat in his office and told the truth about the state of USC&#39;s roster while talking to reporters over Zoom.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ4FB_kU2LhJATkKZ-wBpisIiiVzS9ZJoUlrwI4gsIjiJsDF-W7hGIl4p6mJCv291VXH5rbAfdw" alt="Ex-USC Football Head Coach, QB collapse to finish season in SEC" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Former USC Football Head Coach Lane Kiffin and former USC Football QB Jaxson Dart&nbsp;...</p></div>
+            </div>
+        </a><a href='https://nypost.com/2022/12/03/usc-loss-opens-college-football-playoff-door-for-ohio-state/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>USC loss throws college football playoff into chaos, Ohio State lurks</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT0W4Y4SU89xlG2lAKzTca_YsUPDy4lflGdWZJNVSrfgKWOE15LM4WVtriKT8JWoDMactfJKC2H" alt="USC loss throws college football playoff into chaos, Ohio State lurks" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>USC got decimated by Utah, 47-24, in the Pac-12 championship game in Las Vegas on Friday night, opening the door for the likelihood that they will get&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

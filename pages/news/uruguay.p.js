@@ -11,49 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Uruguay"/>
         <meta name="description" content="Trending News about Uruguay" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Uruguay</h1>
-            <Image width={800} height={500} src="" alt="Uruguay"/>
+            <Image width={800} height={500} src="https://images.hindustantimes.com/img/2022/12/03/1600x900/uruguay_1670051459180_1670051510976_1670051510976.png" alt="Uruguay"/>
             <h3>Recent News</h3>
-            <a href='https://www.sozcu.com.tr/spor/dunyadan-spor/portekiz-uruguay-maci-canli-yayin-dunya-kupasi-h-grubu-7505964/'>
+            <a href='https://www.hindustantimes.com/sports/football/watch-uruguay-players-scuffle-with-referee-chase-him-to-the-tunnel-after-shocking-exit-from-fifa-world-cup-2022-101670050689617.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Portekiz Uruguay karşısında Bruno Fernandes ile turladı</h3>
+                <h3>Watch: Uruguay players scuffle with referee, chase him to the tunnel</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSZodiHeDS1rQemxCRLOflnBwPl7ShgRg_0KQS6IRyymkIT8uDtVs-Sn3YSuc0S0ANyNPRV-hM5" alt="Portekiz Uruguay karşısında Bruno Fernandes ile turladı" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Portekiz, Dünya Kupası H Grubu ikinci maçında Uruguay&#39;ı mağlup ederek gruptan çıkmayı garantiledi. Uruguay ve Portekiz&#39;in birer topunda direkler gole izin&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRfXjmtV2bCAlIFPuJO9V6IzbEZLPnj7Atyw7NVmN_i-bpMiR1nJbljSxwWgruYT041ob7h7gIf" alt="Watch: Uruguay players scuffle with referee, chase him to the tunnel" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Uruguay won 2-0 against Ghana in their last group stage match on Friday but their shocking exit despite winning , didn&#39;t go down well with their players.</p></div>
             </div>
-        </a><a href='https://www.fotomac.com.tr/dunya-kupasi-2022/haberler/2022/11/28/portekiz-uruguay-maci-canli-izle-portekiz-uruguay-canli-anlatim-2022-dunya-kupasi'>
+        </a><a href='https://www.espn.in/football/fifa-world-cup/story/4823313/uruguay-beat-ghana-again-at-world-cup-but-suffer-early-exit'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Portekiz Uruguay maçı CANLI İZLE Portekiz-Uruguay canlı anlatım ...</h3>
+                <h3>Uruguay beat Ghana again at World Cup but suffer early exit</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQieoqhGmnu7jtMLpod6zMwmG_UQq55dTS_NVX-UXLr723vSUzl8nL5XErNde1yFdazuUm6xbx5" alt="Portekiz Uruguay maçı CANLI İZLE Portekiz-Uruguay canlı anlatım ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>2022 Dünya Kupası H Grubu maçında Portekiz ile Uruguay karşı karşıya geliyor. İlk maçını Gana karşısında galip gelerek kazanan Portekiz, Güney Kore&#39;yle&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTvdACwxoMA8wNO0tQrfjPbyG0TJaIvf2trj37AscmZrJMBEy0ddCNWHte9-KN6qLO1gHLZ2YWS" alt="Uruguay beat Ghana again at World Cup but suffer early exit" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>AL WAKRAH, Qatar -- Luis Suarez thought the job was done. The veteran forward exited Uruguay&#39;s final group stage match with a 2-0 lead and received good&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.fanatik.com.tr/ronaldolu-portekiz-son-16da-portekiz-uruguay-mac-sonucu-2-0-2022-dunya-kupasi-mac-ozeti-2311419'>
+        </a><a href='https://economictimes.indiatimes.com/news/international/us/uruguay-players-lose-their-calm-after-world-cup-exit-as-they-chase-referee-down-the-tunnel-watch-video/articleshow/95947588.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Ronaldo&#39;lu Portekiz son 16&#39;da! Portekiz-Uruguay maç sonucu: 2-0 ...</h3>
+                <h3>Uruguay players lose their calm after World Cup exit as they chase ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRwdr7VaCTE0u_-3sOXC46RF-YgHA0WfDBOjKZulWNfBB9_KaSDikobOcgy7GuWse8WXOxYWlEc" alt="Ronaldo&#39;lu Portekiz son 16&#39;da! Portekiz-Uruguay maç sonucu: 2-0 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>64. dakikada Bruno Fernandes sol kanattan ortaladı, ceza sahasında Cristiano Ronaldo dokunmaya çalıştı ancak çabası yeterli olmadı. Fakat buna rağmen top kaleye&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS3A4zc3D5srX1XyaycnBBHs1NagNSinAfawtVi9kpewG_i7QKdofQQXL1uvtfo16u8HFrlT80v" alt="Uruguay players lose their calm after World Cup exit as they chase ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Uruguayan players chase the referee down the tunnel after a humiliating early exit from the 2022 FIFA World Cup.</p></div>
             </div>
-        </a><a href='https://www.sabah.com.tr/galeri/yasam/trt1-portekiz-uruguay-maci-izle-28-kasim-2022-dunya-kupasi-h-grubu-portekiz-uruguay-maci-sifresiz-kesintisiz-canli-izle'>
+        </a><a href='https://indianexpress.com/article/explained/the-hand-of-the-devil-and-why-the-ghana-uruguay-game-is-such-a-big-deal-8302414/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>TRT1 PORTEKİZ URUGUAY MAÇI CANLI YAYIN İZLE! Dünya ...</h3>
+                <h3>&#39;The Hand of the Devil&#39; and why the Ghana-Uruguay game is such a ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcR0j2P4kkzsEgSlYLyryj1r0KnlTQR55ffHB-A9MQw1GYAw0khR8exmfoTVuw-Xx3MLM7fPNUUU" alt="TRT1 PORTEKİZ URUGUAY MAÇI CANLI YAYIN İZLE! Dünya ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Dünya Kupası heyecanı sürerken bu akşam H Grubu ikinci maçında Portekiz ve Uruguay karşı karşıya geliyor. Kupadaki ilk maçında Gana ile karşılaşan Portekiz,&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSQPO266RpMbTeCGg-70xoEfzsKhFDoz3Hq-ThhYHp7HAez8uqbzUvtviAUwOHiW52pnVaBPUs7" alt="&#39;The Hand of the Devil&#39; and why the Ghana-Uruguay game is such a ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>As Ghana and Uruguay face each other to decide who goes through to the next round of this World Cup, a look-back at what happened in 2010,&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.ensonhaber.com/kralspor/dunya-kupasi/portekiz-uruguayi-maglup-etti'>
+        </a><a href='https://www.tribuneindia.com/news/fifa-2022/stunned-uruguay-win-but-dumped-out-of-world-cup-on-goals-scored-457317'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Portekiz, Uruguayı mağlup etti</h3>
+                <h3>Stunned Uruguay win but dumped out of World Cup on goals scored</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRozVu2MZktud4Jg1VC6VGSiUQoSZDQUnTZtzfeFfqYbZ4Olr4du4D2TMcu1wDR7oQ0_2zwG4wI" alt="Portekiz, Uruguayı mağlup etti" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Katar&#39;ın ev sahipliğinde düzenlenen 2022 Dünya Kupası&#39;nda H Grubu&#39;nun ikinci maçları başlarken Fernando Santos&#39;un ekibi Portekiz ile Diego Alonso&#39;nun&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTIC7vDjdtBD8Jb4hrVZggOTR3zc2lHjG1q_ysCGAAh4tfYkIZ6GWqyUbHjmE4lreFU3jpg1Uae" alt="Stunned Uruguay win but dumped out of World Cup on goals scored" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Giorgian de Arrascaeta netted twice in six minutes as a resurgent Uruguay beat Ghana 2-0 on Friday in a battle for their World Cup survival, only to crash&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.cnnturk.com/spor/2022-dunya-kupasi/portekiz-2-0-uruguay-mac-ozeti-izle'>
+        </a><a href='https://www.marca.com/en/world-cup/2022/12/03/638b2c1622601d3e0f8b4607.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Portekiz 2-0 Uruguay MAÇ ÖZETİ</h3>
+                <h3>Uruguay vs. Ghana fallout: Cavani and Gimenez to face punishment ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTbC3-1xF0mOPtyrRDy7itDdmdK_Y4mVqmx6UxvinhQ74cjzG_RRdZuQQJ70_QxSpB7uQv6zoiN" alt="Portekiz 2-0 Uruguay MAÇ ÖZETİ" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Uruguay&#39;da Maxi Gomez, 72. dakikada oyuna girdi. Gomez&#39;in oyuna girdikten 2 dakika sonra çektiği şut direkte patladı. Galatasaray forması giyen Fernando Muslera&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRHDJ8vwud9VBbT2g06wedMQHEgeYM_ArCLVEa2u9ooZLjxP7s0spUFzFOpdixmJcaAP5rOXLv3" alt="Uruguay vs. Ghana fallout: Cavani and Gimenez to face punishment ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The World Cup group game between Uruguay and Ghana was far from settled after the final whistle. Following a decision to ignore a penalty appeal by referee&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

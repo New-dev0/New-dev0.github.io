@@ -20,6 +20,34 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRv3FLzPdwNz-OltZTXqT_5WXpfqyJswSxOTdBX-gsEW27bhinT2WC70Rjs70E_bjAMJhAflWL7" alt="Arrest warrant issued in Tampa for Antonio Brown" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>The active warrant stems from a domestic battery incident involving a woman, Tampa Police said. On Nov. 28 at approximately 1:30 p.m., Brown and the woman were&nbsp;...</p></div>
             </div>
+        </a><a href='https://www.cbssports.com/nfl/news/antonio-brown-wanted-by-florida-police-after-arrest-warrant-issued-following-domestic-incident/'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Antonio Brown wanted by Florida police after arrest warrant issued ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTSCPmFZCSMl2hcMGG1vVOb0djMSlD6FT-MVUOnGPJ1m_hI_66wyfZleZ4HxX_027ifDwnmIpeL" alt="Antonio Brown wanted by Florida police after arrest warrant issued ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The former NFL star was involved in a dispute with the mother of his children on Monday, according to Tampa police.</p></div>
+            </div>
+        </a><a href='https://deadspin.com/kanye-west-and-antonio-brown-s-antics-should-be-the-end-1849847042'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Kanye West and Antonio Brown&#39;s antics should be the end of Donda ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSiRTsiTfP19ig6dY1S0VljLpXnz-ZOYT5XGInpCOgPIzlYsN6HNZHhLPC-7-vudXH9sArrsL-x" alt="Kanye West and Antonio Brown&#39;s antics should be the end of Donda ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>If you stand with clowns don&#39;t get mad when you wind up in a circus. To borrow an old lyric from Kanye West, “it all fell down” on Thursday when the founder&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.cnn.com/2022/12/01/us/antonio-brown-tampa-arrest-warrant/index.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Tampa Police issue arrest warrant for former Buccaneers receiver ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQahjvWpDanqIGji6VHeMM8opWdLG8OTTrtCq0lj_dz3RWNSlHEoQcNvCaFxuxbIDqDm1oMvr58" alt="Tampa Police issue arrest warrant for former Buccaneers receiver ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Tampa Police Department has issued an arrest warrant for former NFL player Antonio Brown after a &quot;domestic battery incident with a woman,&quot; police said&nbsp;...</p></div>
+            </div>
+        </a><a href='https://www.sportingnews.com/us/nfl/news/antonio-brown-arrest-warrant-misdemeanor-battery-charge/hmff8sv1i2sbcm0cxdkwamal'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Antonio Brown arrest warrant: What to know about misdemeanor ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR94b1DoQ2NBedpfJVPnkNvhaAtB3hh_GVGSxD5GxXhwrKUF5_P0wbq06m4hT4ky6Du7p2LQPZM" alt="Antonio Brown arrest warrant: What to know about misdemeanor ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>A warrant for the arrest of former NFL wide receiver Antonio Brown has been issued based on charges of battery domestic violence.</p></div>
+            </div>
         </a><a href='https://www.fox13news.com/news/former-buccaneer-antonio-brown-faces-domestic-violence-accusation-in-tampa'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Tampa police issue arrest warrant for former Buccaneer Antonio ...</h3>
@@ -33,27 +61,6 @@ export default function Page() {
                 <div style={{ display: "flex" }}>
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQP7cUF1oYMk6YRgWbkGYJN2pl9AMM0EF2p4ZFAhzOUKSxPTbRRqWSzHepKmTp6u-F7lYNKpIoe" alt="Antonio Brown faces battery charge after alleged domestic incident" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Tampa police tried to serve the former NFL wide receiver, who last played for the Buccaneers, with an arrest warrant Thursday.</p></div>
-            </div>
-        </a><a href='https://www.abcactionnews.com/sports/tampa-police-attempting-to-arrest-former-buccaneers-receiver-antonio-brown'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Tampa Police attempting to arrest former Buccaneers receiver ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQWKMgODa5PnQzzcTLL9Nxn4Y_OY-NqrKktAiv1auWcaGgkJRNFcUFupEGDjFs0S9vbuG7e6431" alt="Tampa Police attempting to arrest former Buccaneers receiver ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A warrant for former Tampa Bay Buccaneers wide receiver Antonio Brown has been issued, and Tampa Police are expected to execute the warrant.</p></div>
-            </div>
-        </a><a href='https://abcnews.go.com/Sports/police-seek-arrest-former-nfl-wide-receiver-antonio/story?id=94299179'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Police seek to arrest former NFL wide receiver Antonio Brown for ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS6RkkddtwYA9eA9MZNecP5-lHQ58JfAc_LOigBC0Kwoxgu04jmAjb_4UY69LQfIdimgTr7N3nA" alt="Police seek to arrest former NFL wide receiver Antonio Brown for ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>An arrest warrant has been issued in Florida for former NFL star Antonio Brown in connection with a domestic violence incident earlier this week.</p></div>
-            </div>
-        </a><a href='https://www.latimes.com/sports/story/2022-12-01/former-nfl-star-antonio-brown-arrest-warrant-alleged-domestic-incident'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Antonio Brown faces arrest warrant after alleged incident</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSRtx6HHH9blJfNm7jGzJuSMzu5UAZk4UuFooH2PF5n0GM9zr6eIJfQ0RZD6DUrIl1bH5GTTMzE" alt="Antonio Brown faces arrest warrant after alleged incident" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Antonio Brown is wanted on a battery charge in Tampa stemming from an alleged domestic incident in which he is said to have thrown a shoe at a woman.</p></div>
             </div>
         </a>
         </Template></>;

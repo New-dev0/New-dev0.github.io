@@ -11,56 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,France vs Poland"/>
         <meta name="description" content="Trending News about France vs Poland" /></Head><Template>
             <h1 style={{fontSize: "30"}}>France vs Poland</h1>
-            <Image width={800} height={500} src="https://images2.minutemediacdn.com/image/upload/c_crop,w_5089,h_2862,x_0,y_312/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/90min_en_international_web/01gk4t0yvgqa2sqbc4vz.jpg" alt="France vs Poland"/>
+            <Image width={800} height={500} src="" alt="France vs Poland"/>
             <h3>Recent News</h3>
-            <a href='https://www.90min.com/posts/france-vs-poland-world-cup-team-news-lineups-prediction-04-12-22'>
+            <a href='https://www.vanguardngr.com/2022/12/france-vs-poland-we-must-show-respect-in-last-16-tie-deschamps/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>France vs Poland - World Cup: Team news, lineups &amp; prediction</h3>
+                <h3>France vs Poland: We must show respect in last 16 tie — Deschamps</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRr_RyIpSS3VrqnzW8Nv6bblRQHjt6VIdg448ZzX08r8c6ntFbtHR9he0rusEvheulYH8RNsvQ3" alt="France vs Poland - World Cup: Team news, lineups &amp; prediction" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Both nations advanced despite losing their final group games. Yet, while Didier&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSWIZZKTapGbawY2JOOk5dfJyF2FDaqMmOt3BtF8XUP6lYUhbZxLi8k2W_JBhX_fguwZ9f45WkE" alt="France vs Poland: We must show respect in last 16 tie — Deschamps" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>France manager Didier Deschamps says the World Cup holders must show respect to Poland when both nations meet in the last 16 in Qatar on Sunday.</p></div>
             </div>
-        </a><a href='https://www.standard.co.uk/sport/football/france-vs-poland-prediction-kick-off-time-tv-live-stream-team-news-latest-h2h-results-odds-world-cup-2022-preview-b1044095.html'>
+        </a><a href='https://www.goal.com/en-ng/news/france-vs-poland-lineups-and-live-updates/blt8414d78a773c9a1d'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>France vs Poland: World Cup 2022 prediction, kick-off time, TV, live ...</h3>
+                <h3>France vs Poland : Lineups and LIVE Updates</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTov9lSjS_jktM5hn5nrJWyHrjprJhQ9pX7K1F6CeHOFAfOhTF82fMFPc-a3NH-GbzbrhGmrvWx" alt="France vs Poland: World Cup 2022 prediction, kick-off time, TV, live ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Champions France have broken the long-standing World Cup curse and will feel confident about progressing into the quarter-finals, potentially to meet&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcTX6BzHmOexLGxL-kYqeBapragxVvtHJ4F5l-lcg22skg0YzXuX6_oIUZhnuvuK2bquh0K1ubUL" alt="France vs Poland : Lineups and LIVE Updates" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Defending champions France take on Poland in their FIFA World Cup 2022 Round of 16 clash on Sunday afternoon.</p></div>
             </div>
-        </a><a href='https://uk.yahoo.com/sports/news/france-vs-poland-lineups-predicted-175718281.html'>
+        </a><a href='https://www.sportingnews.com/au/soccer/news/france-vs-poland-world-cup-live-score-result/xvtmw8lz8l4qu6miczupcjqd'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>France vs Poland lineups: Predicted XIs, confirmed team news and ...</h3>
+                <h3>France vs Poland score, result, highlights: Giroud and Mbappe put ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS5eVi4UWA_Sal5ajty2q3Xnc3lnoJ0r_yNXgRDrvJaAcd4aYDst2623m5pxmXP4hOO6LforW9m" alt="France vs Poland lineups: Predicted XIs, confirmed team news and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Didier Deschamps is expected to revert to his strongest lineup for France&#39;s round-of-16 clash with Poland on Sunday. The world champions were afforded the&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTzI0T1FG_E6-cJuRU4GgpHwve5dJp3KqCDq1SqfAcqYASewc7_vREhvFuGjP7r0UpfjHNI7ndv" alt="France vs Poland score, result, highlights: Giroud and Mbappe put ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The Sporting News tracked live scoring updates and highlights for France vs Poland at the 2022 World Cup. Follow for complete results from the Round of 16&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.telegraph.co.uk/world-cup/2022/12/01/france-vs-poland-world-cup-2022-last-16-date-kick-off-time-tv/'>
+        </a><a href='https://www.bbc.com/pidgin/articles/cd15n01zl2xo'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>France vs Poland, World Cup 2022 last 16: Date, kick-off time and ...</h3>
+                <h3>France vs Poland highlight: Kylian Mbappe double, Olivier Giroud ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQimWvZfxLT38RugiPlGjnjW0sxkwF_5105uKwnvhzrlu9eN1t_QvSR9tGe85TCvVdjPd1wXeKn" alt="France vs Poland, World Cup 2022 last 16: Date, kick-off time and ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Plus, head-to-head record and how both teams have fared in Qatar so far.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTzfbCx_hEplLu9hs0EPeZIn3UKgeciMkWuh3r_Ifs1cWoDjcTxfx_UU5OVPo_ZtQzN7zRg0pr2" alt="France vs Poland highlight: Kylian Mbappe double, Olivier Giroud ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Kylian Mbappe don become di highest goal scorer for di Qatar 2022 Fifa World Cup wit five goals.</p></div>
             </div>
-        </a><a href='https://www.fanduel.com/theduel/posts/france-poland-prediction-best-bet-2022-world-cup-disgruntled-french-take-out-aggression-poles-01gk7e7k8jcx'>
+        </a><a href='https://www.marca.com/en/football/fifa-world-cup/france-poland-directo/2022/12/04/01_0117_20221204_368_511.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>France vs Poland Prediction &amp; Best Bet for 2022 World Cup ...</h3>
+                <h3>France 3-1 Poland: Goals and highlights - World Cup 2022</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSsHKBjqwIZk_gIny2_aADnTOVoAjP0N1UdXJLaZDgCbUqpIWKxzqtRx_wArAro2i7NUCLAzihH" alt="France vs Poland Prediction &amp; Best Bet for 2022 World Cup ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The 2022 FIFA World Cup has reached the knockout stage with some exciting matchups&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQPOZmFtbAm9b2DfBhjEVL_SODo-hfeDgnkUOdjYyFDSUcFeMimYTJqsMSB8Yk1LryM64RgGEJY" alt="France 3-1 Poland: Goals and highlights - World Cup 2022" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Match ends, France 3, Poland 1. France 3-1 Poland Two stunning Mbappe goals capped a brilliant second half performance from France as they moved up th.</p></div>
             </div>
-        </a><a href='https://www.thelines.com/france-vs-poland-world-cup-knockout-round-of-16-odds-2022/'>
+        </a><a href='https://www.skysports.com/football/france-vs-poland/live/463016'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>France Vs. Poland: 2022 World Cup Round of 16 Odds, Expected ...</h3>
+                <h3>World Cup 2022: France vs Poland LIVE! Holders look to seal last ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcROQCunX6mW36dn-LCFOxjQCDezXcu_ET_Sh9SKWPflxtBGSvVsdtZ8vBK6cA2znKcyEUB1Ul-L" alt="France Vs. Poland: 2022 World Cup Round of 16 Odds, Expected ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>France vs. Poland odds for the World Cup Round of 16 Knockout Stage match, along with sportsbook promos, expected goals metrics and bets:</p></div>
-            </div>
-        </a><a href='https://www.oddschecker.com/us/insight/soccer/world-cup/20221201-france-vs-poland-round-of-16-world-cup-odds-sportsbooks-give-france-78pp-chance-to-defeat-poland'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>France vs. Poland Round of 16 World Cup Odds: Sportsbooks Give ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR_NNwQD0VAfyegUKOZUR2GLYckHZNuGed2lFuRLq_ShEdczpOJL_0UX371VjQuY97oHAvobnTR" alt="France vs. Poland Round of 16 World Cup Odds: Sportsbooks Give ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>France has advanced to the knockout stage after winning their group and is now slated to take on Poland. Sportsbooks see the matchup as a one-sided affair&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRW9PbT69wB_ztxIEjVSSgY_pr-OjmyqpUBCaYK67LPtiniQVeyqP-N3O1wX-_2SWegJ-Y_R7T4" alt="World Cup 2022: France vs Poland LIVE! Holders look to seal last ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>FIFA World Cup match France vs Poland 04.12.2022. Preview and stats followed by live commentary, video highlights and match report.</p></div>
             </div>
         </a>
         </Template></>;
