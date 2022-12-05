@@ -1,7 +1,7 @@
 import {Template} from "../_template";
 import styles from "../../styles/Projects.module.css";
 import Head from "next/head";
-import { useMediaQuery } from './../useMediaQuery';
+import { useMediaQuery } from '../useMediaQuery';
 import Image from "next/image";
 
 export default function Page() {
