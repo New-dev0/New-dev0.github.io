@@ -44,15 +44,15 @@ export default function News() {
         </Head>
         <Template title={content?.title} show_content={false}>
             {(content?.ok == false) ? <h1>Page not Found!</h1> :
-                <>{content?.image && <Image width={800} height={500} src={content?.image} alt={content?.title} />}
+                <>{content?.image && <Image style={{ borderRadius: 10 }} width={750} height={500} src={content?.image} alt={content?.title} />}
                     <h3 style={{ textDecoration: "underline" }}>Recent News</h3>
                     {content?.articles?.map(article => {
-                        return <a href={article.url} key={article.url}>
+                        return <a href={article.url} key={article.url} style={{ width: "100%", display: "flex", justifyContent: "center" }}>
                             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto" : "90vh" }}>
                                 <h3>{extractContent(article.title)}</h3>
                                 <div style={{ display: "flex" }}>
                                     <Image src={article?.image?.imageUrl} alt={content?.title} height={150} width={250} style={{ marginLeft: "15px" }} />
-                                    <p style={{ marginLeft: "15px" }}>{extractContent(article.snippet)}</p></div>
+                                    <p style={{ paddingLeft: "15px" }}>{extractContent(article.snippet)}</p></div>
                             </div>
                         </a>
                     })}
