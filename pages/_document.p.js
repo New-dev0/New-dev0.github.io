@@ -15,12 +15,12 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <meta name="theme-color" content="#003399" />
-          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4464694750922288"
-   crossOrigin="anonymous"></script>
           </Head>
         <body>
           <Main />
           <NextScript />
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4464694750922288"
+     crossorigin="anonymous"></script>
         </body>
       </Html>
     );
