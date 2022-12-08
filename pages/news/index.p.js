@@ -14,7 +14,7 @@ export default function Page() {
     </Head>
     <Template show_content={false}>
         {Object.entries(news).map(hash => {
-            return <div>
+            return <div key={0}>
                 <a href={router.pathname+ `/${hash[0]}`}>
                     {hash[0]}
                     </a>

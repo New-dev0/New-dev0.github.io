@@ -47,7 +47,7 @@ export default function News() {
                 <>{content?.image && <Image width={800} height={500} src={content?.image} alt={content?.title} />}
                     <h3 style={{ textDecoration: "underline" }}>Recent News</h3>
                     {content?.articles?.map(article => {
-                        return <a href={article.url}>
+                        return <a href={article.url} key={article.url}>
                             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto" : "90vh" }}>
                                 <h3>{extractContent(article.title)}</h3>
                                 <div style={{ display: "flex" }}>
