@@ -11,12 +11,12 @@ function TitlePress(router) {
     }
 }
 
-export function Template({ children, show_footer = true, show_content = true }) {
+export function Template({ children, title = "New-Dev0", show_footer = true, show_content = true }) {
     const router = useRouter();
     return <>
         <header className={styles.header}>
             <p style={{width: "100%", justifyContent: "space-between", display: "flex"}}>
-                <span onClick={() => TitlePress(router)}>New-Dev0</span>
+                <span onClick={() => TitlePress(router)}>{title}</span>
             {show_content && <a href="/projects" style={{ justifySelf: "flex-end",  fontSize: 22, marginTop: "5px" }}>Projects</a>}
             </p>
         </header>
