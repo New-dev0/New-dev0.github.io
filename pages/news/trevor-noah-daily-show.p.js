@@ -11,56 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Trevor Noah Daily Show"/>
         <meta name="description" content="Trending News about Trevor Noah Daily Show" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Trevor Noah Daily Show</h1>
-            <Image width={800} height={500} src="https://ichef.bbci.co.uk/news/1024/branded_news/3433/production/_127936331_chelsea.jpg" alt="Trevor Noah Daily Show"/>
+            <Image width={800} height={500} src="https://hips.hearstapps.com/hmg-prod/images/index-noah-1670601896.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*" alt="Trevor Noah Daily Show"/>
             <h3>Recent News</h3>
-            <a href='https://www.bbc.com/news/world-us-canada-63911350'>
+            <a href='https://www.esquire.com/entertainment/tv/a42198520/trevor-noah-the-daily-show-farewell/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Trevor Noah: Who will take over The Daily Show?</h3>
+                <h3>Trevor Noah Signs Off From The Daily Show</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQPTFSfvL2UdDpYuK4XeevSzgjrNa9eru8vdKbBU9QtpuJ20C39otblqyvTaXSINNGz27TnKp8e" alt="Trevor Noah: Who will take over The Daily Show?" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Trevor Noah will leave big shoes to fill at the helm of the beloved late-night satirical show.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS-HS9_46ygMn-DXKc92QN_-Tqttge1l78SLseT0OF0Wg6lnyABMc0VyZIPq3L02TkwQR2mJdcG" alt="Trevor Noah Signs Off From The Daily Show" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>&quot;Please don&#39;t forget the world is a friendlier place than the Internet or the news would make you think,&quot; Noah said in his final sign-off from &#39;The Daily&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.goldderby.com/article/2022/daily-show-host-replace-trevor-noah/'>
+        </a><a href='https://www.nytimes.com/2022/12/09/arts/television/trevor-noah-daily-show-final-episode.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Who should take over as host of &#39;The Daily Show&#39; after Trevor Noah ...</h3>
+                <h3>Trevor Noah&#39;s Optimism Set His Version of &#39;The Daily Show&#39; Apart</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRZeTGdb49F-TGNrTU1sfn0lPjRZN93UWAXY-STolzWpdGpi8XvJs9sp9WrXP7aYUkg71S1XFu5" alt="Who should take over as host of &#39;The Daily Show&#39; after Trevor Noah ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Comedy Central announced a slate of guest hosts including Al Franken, Hasan Minhaj, Chelsea Handler, and Wanda Sykes, to name just a few.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRVBWuSsVfTbJTRv4kfct-BUFLtlTWAv9IjbgiBiCS1TMnGiaNgebyvq9TSS5EoVy6_J8VS9tG9" alt="Trevor Noah&#39;s Optimism Set His Version of &#39;The Daily Show&#39; Apart" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Though his final episode made the mysterious reason for his departure a running joke, his specials and memoir suggest he was always comfortable with&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.distractify.com/p/trevor-noah-guest-hosts'>
+        </a><a href='https://www.vanityfair.com/hollywood/2022/12/trevor-noah-daily-show-finale'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;The Daily Show&#39; Reveals Guest Hosts Amid Trevor Noah&#39;s Exit</h3>
+                <h3>Trevor Noah Says Goodbye to &#39;The Daily Show&#39; With Nostalgic ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQjIJHO_M_ugYHR2gmbDUtEMmM8i-w-vz59mlcgZHeYj2IzviQLaed_DgDHxT-0w0KcKfwIXBUh" alt="&#39;The Daily Show&#39; Reveals Guest Hosts Amid Trevor Noah&#39;s Exit" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Trevor Noah is leaving &#39;The Daily Show&#39; on Dec. 8, 2022, and when he bids farewell, a variety of guest hosts will take over the series.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSVKZtNqjDtkqwpOFxr4-S7P0JUsssDcTZGp9XS3QgOQPNyM73G2t80WsLvXFFr4icmcevGBST6" alt="Trevor Noah Says Goodbye to &#39;The Daily Show&#39; With Nostalgic ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>With cameos from Oprah, Issa Rae, Tracee Ellis Ross, Vice President Kamala Harris, and more.</p></div>
             </div>
-        </a><a href='https://www.geo.tv/latest/457399-the-daily-show-reveals-celebrity-guest-hosts-line-up-after-trevor-noah-departure'>
+        </a><a href='https://www.avclub.com/the-daily-show-trevor-noah-final-episode-goodbye-1849876350'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;The Daily Show&#39; reveals celebrity guest hosts line-up after Trevor ...</h3>
+                <h3>Trevor Noah gives one last tearful goodbye to The Daily Show</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTL1knUifI8u01-4wIdMMiqdTHDagxzDlGh3T7wWB_TqjTDKyRjpfz0TYlWJRnI_3JY5Zk_VagD" alt="&#39;The Daily Show&#39; reveals celebrity guest hosts line-up after Trevor ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The host line-up include Al Franken, Chelsea Handler, D.L. Hughley, Leslie Jones, John Leguizamo, Hasan Minhaj, Kal Penn, Sarah Silverman, Wanda Sykes and&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQy36S6wPIs6P4jx-LW876mS3u5cOAR5vh_9j1CWNbJ0B2Yx8NKWWogF83L8EbWf_RncArF05Dm" alt="Trevor Noah gives one last tearful goodbye to The Daily Show" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>After seven years, the comedian ended his hosting gig for the Comedy Central late show on Thursday night.</p></div>
             </div>
-        </a><a href='https://www.outkick.com/daily-show-replace-trevor-noah-wokesters-list/'>
+        </a><a href='https://www.theguardian.com/culture/2022/dec/09/trevor-noah-daily-show-final-episode-recap'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>&#39;Daily Show&#39; To Try Out A List Of Wokesters To Replace Trevor Noah</h3>
+                <h3>Trevor Noah on his final Daily Show: &#39;If you truly want to learn about ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQgO2Rgczkgf9LYdgWK4CNJluSi20I8OHxWlPimrNzkjVk3pF4N8P7A8To4uyX57bgStp_G4f40" alt="&#39;Daily Show&#39; To Try Out A List Of Wokesters To Replace Trevor Noah" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Leslie Jones; Al Franken; Sarah Silverman; Chelsea Handler; Wanda Sykes; D.L. Hughley; John Leguizamo; Kal Penn; Marlon Wayans; Hasan Minhaj. Leslie Jones is&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcR_1roirEtnZaPvBo8HGSPWj8JG3cVLs_-wQeE9hWbuypirum-FQM942pE0N3DAUnCidUogT-9T" alt="Trevor Noah on his final Daily Show: &#39;If you truly want to learn about ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Noah says farewell after seven years on the Daily Show, and late-night hosts discuss Brittney Griner&#39;s release from Russian prison.</p></div>
             </div>
-        </a><a href='https://www.tvinsider.com/1072766/trevor-noah-daily-show-kelli-giddish-svu-harry-meghan-cma-country-christmas-reba/'>
+        </a><a href='https://www.tmz.com/2022/12/09/trevor-noah-daily-show-last-episode-farewell/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Trevor Noah Leaves &#39;Daily Show,&#39; Kelli Giddish Departs &#39;SVU,&#39; &#39;Harry ...</h3>
+                <h3>Trevor Noah Signs Off &#39;Daily Show&#39; with Emotional Farewell</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSpwt4PU98ZZvAjEW7Gjp8yUFecgWwgeq5YWIJTf7FIeDwegtMx2rVCzN_qtdx681iM5KbI8wOD" alt="Trevor Noah Leaves &#39;Daily Show,&#39; Kelli Giddish Departs &#39;SVU,&#39; &#39;Harry ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Trevor Noah Leaves &#39;Daily Show,&#39; Kelli Giddish Departs &#39;SVU,&#39; &#39;Harry &amp; Meghan&#39; Tell All to Netflix, ABC Goes Country with CMA Christmas and Reba Profile &middot; The&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.startribune.com/al-franken-to-be-among-the-guest-hosts-on-the-daily-show/600234045/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Al Franken to be among the guest hosts on &#39;The Daily Show&#39;</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRhCnx9MCS0pfLIfvG9r5xiIO__PEqZZVBzo1ufFXsduxpqX7Q1bj4RWPksgQ7vG_-g3wov48iZ" alt="Al Franken to be among the guest hosts on &#39;The Daily Show&#39;" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The cable network has announced that Al Franken, Chelsea Handler, D.L. Hughley, Leslie Jones, John Leguizamo, Hasan Minhaj, Kal Penn, Sarah Silverman, Wanda&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTCQsHFpgzw7YVkx4x12XHjd029X3Ldp_X5DkuyQe5QMyugQoXk17cE3AGQabVNXMMlZJJ79-AS" alt="Trevor Noah Signs Off &#39;Daily Show&#39; with Emotional Farewell" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Trevor Noah said his final farewell to &quot;The Daily Show&quot; Thursday night and on his way to the exit, he got pretty emotional talking about who he credits for&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

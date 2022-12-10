@@ -11,77 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Meghan Markle"/>
         <meta name="description" content="Trending News about Meghan Markle" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Meghan Markle</h1>
-            <Image width={800} height={500} src="http://s.glbimg.com/en/ho/static/globocom2012/img/fb_marca.png" alt="Meghan Markle"/>
+            <Image width={800} height={500} src="https://cdn.vox-cdn.com/thumbor/f3A5bfHIprftHS16ez9zUFaY5ak=/0x0:3241x1697/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24279812/Harry___Meghan_Archival_Kitchen_1.jpg" alt="Meghan Markle"/>
             <h3>Recent News</h3>
-            <a href='https://vogue.globo.com/celebridades/noticia/2022/12/meghan-markle-diz-nao-ter-contato-com-irma-samantha-nao-sei-sua-data-de-nascimento.ghtml'>
+            <a href='https://www.vox.com/culture/23502170/netflix-harry-meghan-review'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Meghan Markle diz não ter contato com irmã Samantha: &quot;Não sei ...</h3>
+                <h3>Netflix&#39;s Prince Harry and Meghan Markle docuseries brings nothing ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQbB35aEWS29suGXpO9XW491jKYLEO82LERt0OopRKaNtii0q0yx8Glf7iXNORInkyFftVws3MO" alt="Meghan Markle diz não ter contato com irmã Samantha: &quot;Não sei ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Meghan Markle criticou sua meia-irmã na série documental “Harry &amp; Meghan” da Netflix, acusando Samantha Markle de fabricar uma relação em meio à sua fama.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSvn5PE00tVNy5qKjPaI65KnzU9VL5VeZ1kG644gb-KGn-ZWppEIAVN8wsOQqq0BBjo2vyp6prx" alt="Netflix&#39;s Prince Harry and Meghan Markle docuseries brings nothing ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>“We&#39;ve never been allowed to tell our story,” says Prince Harry bitterly in the third episode of Netflix&#39;s new docuseries Harry &amp; Meghan.</p></div>
             </div>
-        </a><a href='https://www.bbc.com/portuguese/internacional-63895627'>
+        </a><a href='https://www.vanityfair.com/style/2022/12/in-defense-of-meghan-markles-medieval-times-curtsy-joke'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Como Harry e Meghan ganham dinheiro após deixarem cargos na ...</h3>
+                <h3>In Defense of Meghan Markle&#39;s Medieval Times Curtsy Joke</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTBJ0UqOvFgvU_dCYAJFqRm0LEZ3pZykq58dbF6HpqBLxzzt7fu2SaTx67_JFx8ii9EUB7-8iYL" alt="Como Harry e Meghan ganham dinheiro após deixarem cargos na ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Duque e a duquesa de Sussex estão lançando novo documentário como parte de um lucrativo acordo com a Netflix.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSM41fLYkAbn40Zr2jDKiS7lu6ulWjADvlLZZIw3v22V_YU556IPcXoD21jPbhCqawJQ150q820" alt="In Defense of Meghan Markle&#39;s Medieval Times Curtsy Joke" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>In &#39;Harry &amp; Meghan,&#39; the duchess uses a bit of very American humor to poke fun at her overenthusiastic initial attempt to show respect to the late queen.</p></div>
             </div>
-        </a><a href='https://glamour.globo.com/beleza/cabelo/noticia/2022/12/o-coque-de-meghan-markle-e-o-penteado-perfeito-para-as-festas-de-final-de-ano-saiba-como-reproduzir.ghtml'>
+        </a><a href='https://pagesix.com/2022/12/09/meghan-markle-prince-harry-deny-megxit-was-about-privacy/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>O coque de Meghan Markle é o penteado perfeito para as festas de ...</h3>
+                <h3>Meghan Markle, Prince Harry deny &#39;Megxit&#39; was about wanting &#39;privacy&#39;</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTGeZhtjBPFQU6RJ7sLwjLXgwMGCqT8zEwWvyx4RpXU9x-Fk13E-W_Fj9IEZSyOQPNK1WDF_MYh" alt="O coque de Meghan Markle é o penteado perfeito para as festas de ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Isso feito, as mechas foram enroladas em um coque baixo, na base do pescoço. O resultado é um penteado clássico, mas com um fator “uau” dos fios estilizados em&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRejhTxj4MtAe_k8aTzNyUYITr3YMlecdCRYBjUuhBH2XQ4_YJxQG7tIA3w3R-bVPuyNiEIScng" alt="Meghan Markle, Prince Harry deny &#39;Megxit&#39; was about wanting &#39;privacy&#39;" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Meghan Markle and Prince Harry denied on Thursday that they relinquished their titles as senior members of the royal family in &quot;Megxit&quot; to garner more&nbsp;...</p></div>
             </div>
-        </a><a href='https://vogue.globo.com/celebridades/noticia/2022/12/harry-compara-meghan-markle-com-princesa-diana-mesma-compaixao-e-confianca.ghtml'>
+        </a><a href='https://www.etonline.com/meghan-markle-and-prince-harrys-rep-speaks-out-amid-netflix-doc-criticism-195770'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Harry compara Meghan Markle à princesa Diana: &quot;mesma ...</h3>
+                <h3>Meghan Markle and Prince Harry&#39;s Rep Speaks Out Amid Netflix ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSSQRuVLixNYH8JadpmBG7BGrSxtDx37IZMIVKAezH9Ox1lZqhuInylpruVCRErA5pTaaAFUvNZ" alt="Harry compara Meghan Markle à princesa Diana: &quot;mesma ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>No primeiro episódio de &#39;Harry &amp; Meghan&#39;, ele falou da insegurança e do medo de perder &quot;mais uma mulher da sua vida&quot; devido à perseguição da imprensa&nbsp;...</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcT-3WyjVteaZqizRb5MWI2mBIFuOa65NaCLBGyT5TzIiZL598p05gqrazQ8Wploc3FwxWJxbBq5" alt="Meghan Markle and Prince Harry&#39;s Rep Speaks Out Amid Netflix ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>In a statement to ET, the Duke and Duchess of Sussex&#39;s Global Press Secretary addresses criticism of their Netflix docuseries, which largely stems from the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.metropoles.com/colunas/claudia-meireles/serie-harry-e-meghan-estreia-na-netflix-e-causa-rebulico-na-realeza'>
+        </a><a href='https://www.glamour.com/story/meghan-markle-and-prince-harry-say-they-never-asked-for-complete-privacy'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Série Harry &amp; Meghan estreia na Netflix e causa rebuliço na realeza</h3>
+                <h3>Meghan Markle and Prince Harry Say They Never Asked for ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTG7wzABghw1IeSVDKfcuJ1sUBvFnxJWO2IWWn5Asq94P0ju7FSM3MJr4m78-Nj4vyO74tNikgD" alt="Série Harry &amp; Meghan estreia na Netflix e causa rebuliço na realeza" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>A produção impacta a realeza britânica. A primeira parte da série mostra os bastidores do início do relacionamento de Harry e Meghan.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRTb4OBxBY6txbrPUxy6vUt4XnokskViPXn8Hol9Kx5DrNd4dbRymMMd13C4IcjjqlX6mBxsfMr" alt="Meghan Markle and Prince Harry Say They Never Asked for ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Following the premiere of their Netflix series, Harry and Meghan&#39;s spokesperson reiterated the couple&#39;s desire for a life of public service.</p></div>
             </div>
-        </a><a href='https://br.noticias.yahoo.com/meghan-markle-detalhes-bizarros-primeiro-193200147.html'>
+        </a><a href='https://www.tmz.com/2022/12/09/bbc-reporter-prince-harry-meghan-markle-media-untrue-netflix-documentary-engagement/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Meghan Markle: detalhes bizarros do primeiro encontro com Kate ...</h3>
+                <h3>BBC Reporters Say Prince Harry, Meghan Markle&#39;s Media Claims ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQz1HTEGd2X7YHU4QmDg1KwkeOLhSZopIedTFPyFxzeHHFA8Z6V9o_1LnFDWiwEtQYo47nkNqvC" alt="Meghan Markle: detalhes bizarros do primeiro encontro com Kate ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Esses e muitos detalhes foram contados na série documental &#39;Harry &amp; Meghan&#39;, que estreou na Netflix nesta...</p></div>
-            </div>
-        </a><a href='https://www.ofuxico.com.br/noticias/meghan-markle-e-principe-harry-recebem-reconhecimento-em-nova-york/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Meghan Markle e Príncipe Harry recebem reconhecimento em Nova ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQtBzGpfh4bwNHBSJnV1sWdbfUFb4vDV6ts2rTLMBwiXUvaIIzlZ_-eqPulF7nrkEGh-mnHRPaA" alt="Meghan Markle e Príncipe Harry recebem reconhecimento em Nova ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Meghan Markle e Príncipe Harry viajaram esta semana a Nova York para participarem da gala anual da fundação Robert F. Kennedy.</p></div>
-            </div>
-        </a><a href='https://www.ofuxico.com.br/noticias/principe-harry-compara-meghan-markle-a-mae-princesa-diana/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Príncipe Harry compara Meghan Markle à mãe, Princesa Diana</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRb8agTZ7KdujmYNiHhMwGM17PP5fsiI9kuj-HJPEZqoxzCnUfSYp2PD1s087gxw1x3YLeElY2d" alt="Príncipe Harry compara Meghan Markle à mãe, Princesa Diana" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>O príncipe Harry comparou Meghan Markle, com a mãe dele, Princesa Diana, em declaração no novo documentário da Netflix, Harry &amp; Meghan.</p></div>
-            </div>
-        </a><a href='https://www.eonline.com/br/news/1357624/filhos-de-principe-harry-e-meghan-markle-roubam-a-cena-em-documentario'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Filhos de príncipe Harry e Meghan Markle roubam a cena em ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRmRqSny8KdIY7sOnQvSuoiHgYqwd93NS5TYE-d8ywNGB7yrzfinXHc0OsfgcQN1p6gKJNmgBse" alt="Filhos de príncipe Harry e Meghan Markle roubam a cena em ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Em documentário da Netflix, Harry e Meghan compartilham raras imagens de sua vida familiar com Archie e Lilibet.</p></div>
-            </div>
-        </a><a href='https://aventurasnahistoria.uol.com.br/noticias/historia-hoje/meghan-markle-revela-como-foi-primeiro-jantar-com-principe-william-e-kate-middleton.phtml'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Meghan Markle revela como foi primeiro jantar com Príncipe William ...</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSDnF6OpTDBc2txpbcifP1qnZBcO9F6Puq7XDiYH4i_RbAcf1pb8lREMgMdXU3ryDznA-daSM7P" alt="Meghan Markle revela como foi primeiro jantar com Príncipe William ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Meghan Markle contou na série como foi o primeiro encontro dela com o cunhado, o Príncipe Willian, e a esposa, Kate Middleton. Ela disse que foi a partir de tal&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTsOqK6HLUFXcnzwU0OxsTgTP37K0XTb6LPXn2TrZKwnfhfOPtcSvUbYq58IJlllkYIlcQEG00q" alt="BBC Reporters Say Prince Harry, Meghan Markle&#39;s Media Claims ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Some UK reporters are firing back at Meghan Markle and Prince Harry ... specifically about them claiming their royal engagement interview was rehearsed,&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

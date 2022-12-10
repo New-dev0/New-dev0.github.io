@@ -24,7 +24,7 @@ export default function Page() {
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>Carlos Correa in prime free agency position with shortstop-needy ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSMzp705kcnEQR_uvPTDpWgSmsulvsJ6LBjcGLjYbDNXeW53jH83a7f9LkuDqp-VgZYh3JjN1c5" alt="Carlos Correa in prime free agency position with shortstop-needy ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRTSuQfTJ-aDRDO7EuoGhS49ZaA2ftX2x6Mixtf89X9nFrC_h8dNiE_CueFT-_XQ1SvkQj_d94N" alt="Carlos Correa in prime free agency position with shortstop-needy ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>It turns out Carlos Correa is very fortunate to have struggled in last year&#39;s free-agent market.</p></div>
             </div>
         </a><a href='https://larrybrownsports.com/baseball/giants-new-favorite-carlos-correa-free-agent/608322'>
@@ -34,12 +34,12 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ8OQDFsDRyAQCJiaUZmVj_6B7YC5a9ZDXnQbEr9iqt5f-jxhlQp3ujQHTMr__H4aqznvHgzeIX" alt="Report: New favorite to sign Carlos Correa emerges" height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Jul 23, 2022; Detroit, Michigan, USA; Minnesota Twins shortstop Carlos Correa (4) looks into the crowd from the dugout during the seventh inning in a game&nbsp;...</p></div>
             </div>
-        </a><a href='https://sportsnaut.com/new-frontrunner-emerges-carlos-correa-free-agency/'>
+        </a><a href='https://clutchpoints.com/mlb-rumors-giants-in-drivers-seat-for-carlos-correa-after-aaron-judge-whiff'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>New frontrunner emerges in Carlos Correa free agency sweepstakes</h3>
+                <h3>RUMOR: Giants &#39;in driver&#39;s seat&#39; for Carlos Correa after Aaron Judge ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRrWA8-c-fkxdT7rhJiv8WqT-oKfI-BCKgInyhxHc5rljGQQl1MTjbzA-Qvdy1wk-z3nQarOt_k" alt="New frontrunner emerges in Carlos Correa free agency sweepstakes" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Carlos Correa has been linked to a number of teams in MLB free agency, but which franchise is the current frontrunner to land the 2x All-Star shortstop?</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRlF6BT1mEFht5zFnAqlZWpi5qlkb2TjtWvLl2RDS8k4E9ox9r_XVQbdQEj5T52Mlixx1heGFZC" alt="RUMOR: Giants &#39;in driver&#39;s seat&#39; for Carlos Correa after Aaron Judge ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The San Francisco Giants are seen as the frontrunners to land shortstop Carlos Correa after whiffing on Aaron Judge.</p></div>
             </div>
         </a><a href='https://www.knbr.com/2022/12/08/jon-morosi-on-knbr-very-plausible-scenario-giants-could-add-carlos-correa/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
@@ -48,19 +48,19 @@ export default function Page() {
                 <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRZtc7-CzYydki-bheS3xUiNTLCDNs1WqgeLvmv7RKt-gYtd8T1xFK9y5Amy-dXbTOI4vmwlXsR" alt="Jon Morosi on KNBR: &#39;Very plausible scenario&#39; Giants could add ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>The most high-profile player remaining is shortstop Carlos Correa, a two-time All-Star and platinum glove winner. MLB Network insider Jon Morosi joined Tolbert&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.truebluela.com/2022/12/8/23500218/dodgers-carlos-correa-interest-free-agent-rumors'>
+        </a><a href='https://sportsnaut.com/new-frontrunner-emerges-carlos-correa-free-agency/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Dodgers news: Carlos Correa most likely won&#39;t be pursued by Los ...</h3>
+                <h3>New frontrunner emerges in Carlos Correa free agency sweepstakes</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcQIXV3vUU9iUp2k_thRIs-AbwcJaAouvrYB06-hKS21ffaFDCr1SLZHTOIX_PJ3-0tqhiPygC7Z" alt="Dodgers news: Carlos Correa most likely won&#39;t be pursued by Los ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Gavin Lux may be the Opening Day shortstop as the Dodgers have missed out on marquee shortstops and do not seem to be pursuing Carlos Correa.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRrWA8-c-fkxdT7rhJiv8WqT-oKfI-BCKgInyhxHc5rljGQQl1MTjbzA-Qvdy1wk-z3nQarOt_k" alt="New frontrunner emerges in Carlos Correa free agency sweepstakes" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Carlos Correa has been linked to a number of teams in MLB free agency, but which franchise is the current frontrunner to land the 2x All-Star shortstop?</p></div>
             </div>
-        </a><a href='https://clutchpoints.com/mlb-rumors-giants-in-drivers-seat-for-carlos-correa-after-aaron-judge-whiff'>
+        </a><a href='https://dodgersnation.com/dodgers-passing-on-carlos-correa-proves-its-not-actually-winning-over-everything/2022/12/08/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>RUMOR: Giants &#39;in driver&#39;s seat&#39; for Carlos Correa after Aaron Judge ...</h3>
+                <h3>Dodgers Passing on Carlos Correa Proves It&#39;s Not Actually Winning ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRlF6BT1mEFht5zFnAqlZWpi5qlkb2TjtWvLl2RDS8k4E9ox9r_XVQbdQEj5T52Mlixx1heGFZC" alt="RUMOR: Giants &#39;in driver&#39;s seat&#39; for Carlos Correa after Aaron Judge ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The San Francisco Giants are seen as the frontrunners to land shortstop Carlos Correa after whiffing on Aaron Judge.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcSMDmmmg51vnNMcCXxtQt27i02R3SS98u9hU0nbBsg3dR4WuGq8BQIOPmx63Hode73dBxCh94fp" alt="Dodgers Passing on Carlos Correa Proves It&#39;s Not Actually Winning ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>If the Dodgers were serious about winning, they would worry about signing the best players on the market, not the feelings of their fans.</p></div>
             </div>
         </a>
         </Template></>;

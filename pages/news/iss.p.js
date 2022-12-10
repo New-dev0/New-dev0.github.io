@@ -20,6 +20,13 @@ export default function Page() {
                 <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTfNjyR-EpOczjx6O9UHW9FisSyyQ4UVCKg-VggbcylOkDyH2Xgv7MLaxUVeLG3pWQs8wXIVfGt" alt="日本初の宇宙ステーション ポストISS、国内ベンチャーが計画 - 毎日 ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>日本の宇宙ベンチャー「DigitalBlast（デジタルブラスト）」（東京都千代田区）が、独自の商用宇宙ステーション建設を計画していることがわかった。</p></div>
             </div>
+        </a><a href='https://prtimes.jp/main/html/rd/p/000000392.000051782.html'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>JAXA監修「THE ISS METAVERSE」でリアルタイムの宇宙飛行士の ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRUlumVC7zrhrCbNq1OuYs7EU7FGxQrP5lT84kwXz4H6TtTfToA7oacGs1Ovz9SRzpAejyAjJBf" alt="JAXA監修「THE ISS METAVERSE」でリアルタイムの宇宙飛行士の ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>三井不動産株式会社のプレスリリース（2022年12月9日 15時52分）JAXA監修[THE ISS METAVERSE]でリアルタイムの宇宙飛行士の視点を体験！[HELLO SPACE WORK！</p></div>
+            </div>
         </a>
         </Template></>;
 }

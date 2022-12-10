@@ -11,49 +11,49 @@ export default function Page() {
         <meta name="keywords" content="news,trending,latest,sports,breaking,top,Netherlands vs Argentina"/>
         <meta name="description" content="Trending News about Netherlands vs Argentina" /></Head><Template>
             <h1 style={{fontSize: "30"}}>Netherlands vs Argentina</h1>
-            <Image width={800} height={500} src="" alt="Netherlands vs Argentina"/>
+            <Image width={800} height={500} src="https://img.rasset.ie/001cf8c1-1600.jpg" alt="Netherlands vs Argentina"/>
             <h3>Recent News</h3>
-            <a href='https://www.vanguardngr.com/2022/12/netherlands-vs-argentina-what-to-expect-in-second-match-of-quarter-finals/'>
+            <a href='https://www.rte.ie/sport/world-cup-2022/2022/1209/1340968-world-cup-2022-netherlands-v-argentina-updates/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Netherlands vs Argentina: What to expect in second match of quarter ...</h3>
+                <h3>World Cup 2022: Argentina through on penalites - recap</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTW9U-d22VrKh-rklJt_0zzf0E2khkP9tf7W1EI9sGMaAcgOIAMFBWYDyut5fsEWaC3NZlkB6s5" alt="Netherlands vs Argentina: What to expect in second match of quarter ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>FIFA World Cup in Qatar will resume with quarter finals on Friday after a two-day break of breathtaking matches from group stages and the round of 16 but&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTlCHkALDEdDx6yoTgbwNv4Xfbj_24E5OxEbXzbWxmesKJIgU-qOplJLqtqX7gt9ejXGig-HY1T" alt="World Cup 2022: Argentina through on penalites - recap" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Argentina are through to the semi-finals of the World Cup after beating the Netherlands 4-3 on penalties with the sides level 2-2 after extra-time.</p></div>
             </div>
-        </a><a href='https://theanalyst.com/2022/12/netherlands-vs-argentina-world-cup-2022-prediction-and-match-preview/'>
+        </a><a href='https://www.skysports.com/football/netherlands-vs-argentina/report/463021'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Netherlands vs. Argentina Prediction and Preview | The Analyst</h3>
+                <h3>World Cup 2022 - Netherlands 2-2 Argentina AET (3-4 on pens ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRDrH9PfrBTnQUIRPSzTlTtf9G29Qix0inooKCDwp1nSwbCIvWfqbCeodZhqi86tQYWmbi0w07N" alt="Netherlands vs. Argentina Prediction and Preview | The Analyst" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>After prevailing against USA and Australia, Netherlands and Argentina face off in the second quarter-final at Qatar 2022. We preview the game ahead of kick-off&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTLSaIjYOuZqLKczsACf3qo2j21j39f3BVcjWmGum4bA2q1QWgHCWWRENsBlT2leEybW6ZGIVeL" alt="World Cup 2022 - Netherlands 2-2 Argentina AET (3-4 on pens ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Match report as Emiliano Martinez saves two penalties to ensure Argentina make it into World Cup last four; Nahuel Molinas strike and Lionel Messis penalty&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.90min.com/posts/netherlands-vs-argentina-world-cup-quarter-final-team-news-lineups-prediction-09-12-22'>
+        </a><a href='https://www.bbc.com/pidgin/articles/c0k1xnek1rpo'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Netherlands vs Argentina - World Cup quarter-final: Team news ...</h3>
+                <h3>Netherlands vs Argentina highlights: Wout Weghorst double no fit ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR-eQmm-bpgiBqqJ1EOcuTfijQYrQWIQZnKpk4YE3YiVNR3T0Wan9KtW2yoxsRg6NLTDmaJGN1v" alt="Netherlands vs Argentina - World Cup quarter-final: Team news ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Preview of the Netherlands&#39; World Cup quarter-final against Argentina, including team news, lineups and prediction.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRsccMWiyIVwH9EU8wiI4na7qWOtlyQHSwLNMb5atRGV407l3i783YI9RWdesh9l4E0FmnCKLhU" alt="Netherlands vs Argentina highlights: Wout Weghorst double no fit ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Di two kontris dey meet for World Cup eight years afta dem bin play di semi final game for 2014 World Cup, wia Argentina win via penalty shootout.</p></div>
             </div>
-        </a><a href='https://www.mirror.co.uk/sport/football/news/van-dijk-messi-world-cup-28681591'>
+        </a><a href='https://www.aljazeera.com/sports/2022/12/9/recap-netherlands-vs-argentina-world-cup'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Virgil van Dijk debunks Lionel Messi theory ahead of Netherlands vs ...</h3>
+                <h3>Recap: Netherlands vs Argentina – World Cup 2022</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcT6LMdKj6kdiiFDALK82lxbYt5Yq-enzpAAPAhhYnsPa7xxQvvNrB9FdGmrlrunLJOUo0R420Iq" alt="Virgil van Dijk debunks Lionel Messi theory ahead of Netherlands vs ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The Netherlands and Argentina will meet in the quarter-finals of the World Cup on Friday, with the match-up between Lionel Messi and Virgil van Dijk&nbsp;...</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcS-fKggLRgA8KNunXlQV-GtU9VgNd9eEzeNEF-BbmrrpNuvyxB0z7K3DnegtHycEMQ9vZC35Gwd" alt="Recap: Netherlands vs Argentina – World Cup 2022" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Argentina win 4-3 on penalties after Netherlands had come back from two goals down to equalise in normal time.</p></div>
             </div>
-        </a><a href='https://www.sportingnews.com/au/soccer/news/netherlands-argentina-history-head-to-head-world-cup-record/n5d6d6asq5oncbv2n6jxi0hr'>
+        </a><a href='https://www.foxsports.com/stories/soccer/world-cup-2022-top-plays-netherlands-argentina-quarterfinals'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Netherlands vs Argentina history: Head-to-head World Cup matches ...</h3>
+                <h3>Netherlands vs. Argentina highlights: Argentina advances in thriller</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTSPSc-lXJh73y2YFNtJEvOcIQe0B9gQMcN-Eq1Skajco738WWsW_h6Q5SwVnHEuRVNDLk_oWR_" alt="Netherlands vs Argentina history: Head-to-head World Cup matches ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Argentina&#39;s push to a potential World Cup final puts them up against old foes the Netherlands at the quarterfinal stage of Qatar 2022.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTUcWHENoQVIN6guJC65xbY9DuINEHAMaF8MQK1u9k8M8jV-JPzx_dsBUZJI2UPTFYnOuZ3QanQ" alt="Netherlands vs. Argentina highlights: Argentina advances in thriller" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Argentina defeated the Netherlands in a thrilling World Cup quarterfinal match on Friday. Here are the highlights!</p></div>
             </div>
-        </a><a href='https://www.covers.com/soccer/world-cup/netherlands-vs-argentina-world-cup-picks-predictions-december-9-2022'>
+        </a><a href='https://www.irishtimes.com/sport/soccer/2022/12/09/world-cup-quarter-final-live-updates-qatar-2022-argentina-netherlands-lionel-messi/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Netherlands vs Argentina World Cup Picks and Predictions ...</h3>
+                <h3>Argentina see off Netherlands in nailbiter: As it happened</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcT0M_-o0vc2PxEW-krwT9XTy-qlbSYNLwn7GT01trep3Th91AwL4s9WwX1r0Zn6f2q307TWS8Fj" alt="Netherlands vs Argentina World Cup Picks and Predictions ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>World Cup prediction, odds, and betting tips for Netherlands vs Argentina on December 9. World Cup free pick and game analysis.</p></div>
+                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcQWrioRtYeehDOa07AP2vKcIDKhvJ087ixE0VCFxKZPVvNcF6VZ__bCeVZePy5F0qxpuMkKhrdW" alt="Argentina see off Netherlands in nailbiter: As it happened" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Lionel Messi looks to keep World Cup dream alive against Louis van Gaal&#39;s Dutch side.</p></div>
             </div>
         </a>
         </Template></>;

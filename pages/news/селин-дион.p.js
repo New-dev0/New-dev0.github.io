@@ -27,40 +27,40 @@ export default function Page() {
                 <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQvivOPcY6saA2dJ0jYD9pcZUaFTLnwPpmBqKEQ8VXmJZmRUmQguDxqpRKWpVA83pQHm_Z6RGem" alt="У певицы Селин Дион диагностировали синдромом мышечной ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Певица Селин Дион отменила концерты в Великобритании и Европе в следующем году, рассказав, что у нее был диагностирован синдром мышечной скованности.</p></div>
             </div>
-        </a><a href='https://spbdnevnik.ru/news/2022-12-08/vrachi-postavili-neuteshitelnyy-diagnoz-u-selin-dion-redkoe-neizlechimoe-zabolevanie'>
+        </a><a href='https://newizv.ru/news/culture/09-12-2022/pevitsa-selin-dion-zayavila-chto-neizlechimo-bolna-sindrom-zhestkogo-cheloveka'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Врачи поставили неутешительный диагноз: у Селин Дион ...</h3>
+                <h3>Селин Дион заявила, что неизлечимо больна синдромом ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcR-m3SXvTBzMvMfezoOzSnuS4VeJiYgtYolM6bpDe3bu56Gh7QQrHEsKjsmnh7mpK0jzNcoyYVi" alt="Врачи поставили неутешительный диагноз: у Селин Дион ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Всемирно известная певица, 54-летняя Селин Дион, узнала о страшном диагнозе. У нее диагностировали синдром мышечной скованности. С этим недугом знаменитость&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.starhit.ru/novosti/u-selin-dion-vyyavili-redkoe-neizlechimoe-zabolevanie-854075/'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>У Селин Дион выявили редкое неизлечимое заболевание</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRVNde7RjSfAaPPNA10-ulHFmacjDWdZen90B5j38FHL3N-ZdhW28-9a2t5QveNz1l7y3hw9PxB" alt="У Селин Дион выявили редкое неизлечимое заболевание" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Селин Дион в личных соцсетях выступила с обращением, в котором рассказал о тяжелом недуге. Теперь ей придется отменить все ближайшие гастроли и лечиться у&nbsp;...</p></div>
-            </div>
-        </a><a href='https://www.interfax.ru/world/876027'>
-            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Селин Дион отменила концерты из-за неизлечимого заболевания</h3>
-                <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcRHvIUoev3hVRUu6ZK1nKcYBfL1o1u5SHG0sHNjddaTxahPh_7Jqcc0cb6WFslmQY_z95qRKaf8" alt="Селин Дион отменила концерты из-за неизлечимого заболевания" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Москва. 8 декабря. INTERFAX.RU - Канадская певица Селин Дион отменит февральское турне по Европе из-за проблем со здоровьем, передает CNN.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcRdWlNBqds8XRcGXxBGZHjhpm-qvelL58AUqCVYd1-iYgCurDL8zf_Ry8mooIqLbuMtBMdq-OTB" alt="Селин Дион заявила, что неизлечимо больна синдромом ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Знаменитая канадская певица, автор песен, композитор и актриса Селин Дион объявила, что врачи диагностировано у нее редкое и неизлечимое неврологическое&nbsp;...</p></div>
             </div>
         </a><a href='https://www.kommersant.ru/doc/5708613'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
                 <h3>У Селин Дион выявили редчайшее неврологическое ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcRuI_q7ySgM3r5zzBu5ksL7YWCIJUeBypNHAm9l4HHj1Ntqjd8qXKOVWv1sw9GSf1e25oP1lxSP" alt="У Селин Дион выявили редчайшее неврологическое ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTTZtjLkFj6acJxwHzjmg2Dcj6FFCFJSD8AIigGy1Jhb_Mh6bKzcRZOGvsLNmoRYom3G2GIxh_Q" alt="У Селин Дион выявили редчайшее неврологическое ..." height={150} width={150} style={{marginLeft: "15px"}}/>
                 <p style={{marginLeft: "15px"}}>Канадская певица Селин Дион сообщила, что страдает редким неврологическим расстройством — синдромом мышечной скованности. Об этом она рассказал в своем&nbsp;...</p></div>
             </div>
-        </a><a href='https://klops.ru/news/2022-12-08/262626-odno-na-million-u-pevitsy-selin-dion-diagnostirovali-redkoe-i-neizlechimoe-nevrologicheskoe-zabolevanie'>
+        </a><a href='https://dni.ru/showbiz/2022/12/9/514290.html'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Одно на миллион: у певицы Селин Дион диагностировали ...</h3>
+                <h3>Певице Селин Дион диагностировали неизлечимое заболевание</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTPjX87s0HTLs44a58wUOlnfcPoXZxwwGEKLzui7SRc0CjehsfvxDsBFahjfhoI4N5zS-ZtulvV" alt="Одно на миллион: у певицы Селин Дион диагностировали ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>«У меня уже давно проблемы со здоровьем. Мне было очень трудно столкнуться с ними и рассказать обо всём, через что я прошла. Недавно у меня диагностировали&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTfOaSFfA2v_YIG6t-C1YWGA9PVIAAg8FI4adVt3g970QC1BAK7ZdEdq8dHLuMAPt8l53ka-s4T" alt="Певице Селин Дион диагностировали неизлечимое заболевание" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>В личном блоге певица сообщила, что ей диагностировали неизлечимое неврологическое заболевание. Как сообщает телеканал.</p></div>
+            </div>
+        </a><a href='https://tolknews.ru/obsestvo/136181-chto-za-zabolevanie-diagnostirovali-u-pevitsi-selin-dion'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>Что за заболевание диагностировали у певицы Селин Дион ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcSzorT570AkeCt2XCbC6vNTdXRSD41ykKlGVpkcBz5_HPDAdzuk_8oGppHXwL11vGBQ0kCqnNdu" alt="Что за заболевание диагностировали у певицы Селин Дион ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>О проблемах исполнительницы со здоровьем впервые стало известно в январе этого года, когда артистка отменила свое турне Courage по Северной Америке.</p></div>
+            </div>
+        </a><a href='https://www.soyuz.ru/news/23590'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>У Селин Дион обнаружили неизлечимую неврологическую ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcTPjX87s0HTLs44a58wUOlnfcPoXZxwwGEKLzui7SRc0CjehsfvxDsBFahjfhoI4N5zS-ZtulvV" alt="У Селин Дион обнаружили неизлечимую неврологическую ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Селин Дион рассказала, что ей диагностировали синдром мышечной скованности. Его также называют синдромом ригидного человека – это редкое неврологическое&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;

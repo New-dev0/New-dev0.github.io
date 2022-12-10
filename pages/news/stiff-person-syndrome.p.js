@@ -7,53 +7,60 @@ import Image from "next/image";
 export default function Page() {
     const md = useMediaQuery(960);
     return <><Head>
-        <title>Stiff person syndrome</title>
-        <meta name="keywords" content="news,trending,latest,sports,breaking,top,Stiff person syndrome"/>
-        <meta name="description" content="Trending News about Stiff person syndrome" /></Head><Template>
-            <h1 style={{fontSize: "30"}}>Stiff person syndrome</h1>
-            <Image width={800} height={500} src="https://www.wokv.com/resizer/kmaSvQv4Ulre8lp-KxuCzcCogl0=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/AJAKL35JMBQ6RCLOXD752TCNAY.jpg" alt="Stiff person syndrome"/>
+        <title>Stiff Person Syndrome</title>
+        <meta name="keywords" content="news,trending,latest,sports,breaking,top,Stiff Person Syndrome"/>
+        <meta name="description" content="Trending News about Stiff Person Syndrome" /></Head><Template>
+            <h1 style={{fontSize: "30"}}>Stiff Person Syndrome</h1>
+            <Image width={800} height={500} src="https://images.indianexpress.com/2022/12/celine-dion-1200.jpg" alt="Stiff Person Syndrome"/>
             <h3>Recent News</h3>
-            <a href='https://www.wokv.com/entertainment/celine-dion-cancels/BPGDM6DN353CU7RH4KVDIWLQF4/'>
+            <a href='https://indianexpress.com/article/lifestyle/health/celine-dion-stiff-person-syndrome-causes-symptoms-treatment-8314853/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Celine Dion cancels shows because of stiff person syndrome</h3>
+                <h3>What is &#39;Stiff-Person Syndrome&#39;, the rare neurological disorder ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQoZHcekKV6OhjMkMl4nZ5ksBabWsFO3uyRInbUKJEGKrAf9OOsB-OHqhmVei8Ul0hmPPPqjN1t" alt="Celine Dion cancels shows because of stiff person syndrome" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>&quot;Unfortunately, the spasms affect every aspect of my daily life, sometimes causing difficulties when I walk and not allowing me to use my vocal cords to sing&nbsp;...</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcS6-wt3O7jkuvCCEYZpZE-ZJ0eY2-BJw5v5YAzLBZv1F40XbxyctQCxOTe2YLiyyBZfMuMPn0b-" alt="What is &#39;Stiff-Person Syndrome&#39;, the rare neurological disorder ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>&quot;While we&#39;re still learning about this rare condition, we now know that this is what has been causing all of the spasms that I&#39;ve been having,&quot; the singer&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.cnn.com/2022/12/08/health/stiff-person-syndrome-explainer/index.html'>
+        </a><a href='https://www.indiatoday.in/health/story/what-is-stiff-person-syndrome-severe-condition-celine-dion-suffers-from-2307118-2022-12-09'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>What is stiff person syndrome? Diagnosis, symptoms and treatment</h3>
+                <h3>What is Stiff-person Syndrome, severe condition Celine Dion suffers ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQ0rMuurvWx8xhO3OoEnQBriqj_fHiMJeFf3E4DAEPZ0P_wtgF7Hjo5lD8HRYBCpi_QIp_JsF9u" alt="What is stiff person syndrome? Diagnosis, symptoms and treatment" height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Stiff person syndrome is a rare neurological condition that can take years to diagnose and tailor treatment.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcTf0Xxcjg85WO2FkWXRC5eWrChNPa0yffkpqh3rWbrH3KZ-ERmksxyle3B8fWpw2d-HK6bG7iRy" alt="What is Stiff-person Syndrome, severe condition Celine Dion suffers ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>In an emotional video, Celine Dion revealed she has Stiff-person Syndrome, a rare neurological disorder. This illness results in stiffness and spasms in the&nbsp;...</p></div>
             </div>
-        </a><a href='https://www.npr.org/2022/12/08/1141538144/celine-dion-stiff-person-syndrome-canceled-shows'>
+        </a><a href='https://www.smithsonianmag.com/smart-news/what-is-stiff-person-syndrome-celine-dion-announces-diagnosis-of-rare-disease-180981266/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Céline Dion was diagnosed with stiff-person syndrome. Here&#39;s how ...</h3>
+                <h3>What Is Stiff Person Syndrome? Celine Dion Announces Diagnosis ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcQyaNhuWeCwMDwSC6b8milK5_xoifpbZCefK0t_btJ54iucXV_wt4BBh9p53IuZRJY-0RL8zrWu" alt="Céline Dion was diagnosed with stiff-person syndrome. Here&#39;s how ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The singer repeatedly postponed performances in the past year because of severe muscle spasms. In a tearful Instagram post, she revealed she has been&nbsp;...</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcS0V25kaNp53_Dj-CNUf-SKkb71DNW2Pk2pBbmLELu62JBv7tvUFoEu2ep6uW2eNCrC5zUrKUwA" alt="What Is Stiff Person Syndrome? Celine Dion Announces Diagnosis ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>The rare neurological disease affects about one to two people in a million.</p></div>
             </div>
-        </a><a href='https://www.nbcnews.com/health/health-news/celine-dion-stiff-person-syndrome-symptoms-rcna60784'>
+        </a><a href='https://economictimes.indiatimes.com/news/new-updates/what-is-stiff-person-syndrome-a-rare-neurological-condition-celine-dion-suffers-from/articleshow/96112449.cms'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Stiff-person syndrome: What to know about Celine Dion&#39;s rare ...</h3>
+                <h3>What is stiff-person syndrome, a rare neurological condition Celine ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcSnM3MWXoKTt1twdkfB5UY2-a2WCCOyl3f61YY2uCH0UejSli0cq8lbqnF7xz6alaJosWH1auHS" alt="Stiff-person syndrome: What to know about Celine Dion&#39;s rare ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>Celine Dion&#39;s diagnosis with stiff-person syndrome has called attention to the rare disorder, which causes muscle spams and rigidity in the torso and limbs.</p></div>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcSTptbcy0XAPQl0ldr-j3X1jA1N6y63xZYhmVbpqVDVm3Db-tK3RGJeUPbaFYO0L16IHdV2jO68" alt="What is stiff-person syndrome, a rare neurological condition Celine ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Celine Dion claims the disease has harmed her vocal chords and has hampered her ability to sing. Know more about this rare neurological condition.</p></div>
             </div>
-        </a><a href='https://fortune.com/well/2022/12/08/celine-dion-stiff-person-syndrome-symptoms/'>
+        </a><a href='https://time.com/6239728/what-is-stiff-person-syndrome/'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Céline Dion was diagnosed with stiff-person syndrome. What to ...</h3>
+                <h3>What It&#39;s Like to Live With Stiff Person Syndrome</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQmA6YtkQj1gbhYVCnEunki7-jAWjAMVrVqV_uu1jeFtmqNbBcG7mvJ7cgdaHPwwoN7_BpS4RN8" alt="Céline Dion was diagnosed with stiff-person syndrome. What to ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>In an emotional Instagram video post, the singer opened up about her rare neurological disorder—forcing her to postpone her European tour.</p></div>
+                <Image src="https://t3.gstatic.com/images?q=tbn:ANd9GcT7NpiiFPdubuklmEMjzrryTSdBCAgTKaFfViJzVHxR4uC2A_JIKJb3cdeJ0PxaoF2uyi0LGkvt" alt="What It&#39;s Like to Live With Stiff Person Syndrome" height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Celine Dion just announced she was diagnosed with the rare neurological condition. Here&#39;s what it&#39;s like to have stiff person syndrome.</p></div>
             </div>
-        </a><a href='https://www.euronews.com/next/2022/12/08/stiff-person-syndrome-what-is-the-rare-neurological-disorder-celine-dion-has-been-diagnose'>
+        </a><a href='https://www.ndtv.com/world-news/celine-dion-has-stiff-person-syndrome-what-it-is-and-how-it-is-treated-3591923'>
             <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
-                <h3>Stiff person syndrome: What is the rare neurological disorder Celine ...</h3>
+                <h3>Celine Dion Has Stiff-Person Syndrome. What It Is And How It Is ...</h3>
                 <div style={{ display: "flex" }}>
-                <Image src="https://t0.gstatic.com/images?q=tbn:ANd9GcTllXhDapRbIaW1sKm3_u1zsoGRCbsjBO6cM5h7NIq0k9o7GzyzxgjIMF82rYxFL5OVayoFiFKj" alt="Stiff person syndrome: What is the rare neurological disorder Celine ..." height={150} width={150} style={{marginLeft: "15px"}}/>
-                <p style={{marginLeft: "15px"}}>The singer has been diagnosed with stiff person syndrome, a rare neurological condition with debilitating symptoms.</p></div>
+                <Image src="https://t1.gstatic.com/images?q=tbn:ANd9GcRdVOa54SDqcYkXB-njkpdWDiihJWpkkQaQu-CodUq5FMJZABzmZf-B8mcFbrRmn5w1uyJOrF0e" alt="Celine Dion Has Stiff-Person Syndrome. What It Is And How It Is ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Singer Celine Dion paused all of her performances after she was diagnosed with Stiff Person Syndrome, bringing attention to this rare disorder.</p></div>
+            </div>
+        </a><a href='https://www.mathrubhumi.com/health/features/celine-dion-suffers-from-stiff-person-syndrome-1.8118778'>
+            <div className={styles.card} style={{ maxWidth: "90%", width: md ? "auto": "90vh"}}>
+                <h3>&#39;പാടാൻ കഴിയാത്ത വിധം ഈ രോഗം ...</h3>
+                <div style={{ display: "flex" }}>
+                <Image src="https://t2.gstatic.com/images?q=tbn:ANd9GcQLF7eRQWqOeQQYD0Zyjg0DPYObJ3TfprmwyzyRB3hJuqlN1FKCK0YHkiup8BKzczS_-N2j8vgr" alt="&#39;പാടാൻ കഴിയാത്ത വിധം ഈ രോഗം ..." height={150} width={150} style={{marginLeft: "15px"}}/>
+                <p style={{marginLeft: "15px"}}>Content Highlights: celine dion suffers from stiff-person syndrome &middot; Share this Article &middot; സ്‌ക്രീനില്‍ കണ്ടതിനേക്കാള്‍ വലിയ&nbsp;...</p></div>
             </div>
         </a>
         </Template></>;
