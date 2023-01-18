@@ -1,6 +1,6 @@
 import { Template } from "../_template";
 import { useRouter } from "next/router";
-import { useEffect } from "react";
+import { useEffect, useMemo } from "react";
 import Image from "next/image";
 import Head from "next/head";
 import { useState } from "react";
@@ -24,7 +24,7 @@ export default function News() {
     const { hash } = router.query;
     const [content, saveContent] = useState();
 
-    useEffect(() => {
+    useMemo(() => {
         if (!router.isReady) {
             return;
         }
