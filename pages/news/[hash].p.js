@@ -30,7 +30,7 @@ export default function News() {
         }
         fetch(`/api/news?hash=${hash}`).then(d => d.json().then(saveContent))
     }, [hash]);
-    if (hash == undefined) {
+    if (hash === undefined || !content) {
         return <LoadingPage />
     }
 
