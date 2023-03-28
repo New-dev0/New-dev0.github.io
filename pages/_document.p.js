@@ -22,7 +22,7 @@ class MyDocument extends Document {
           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4464694750922288"
             crossOrigin="anonymous"></script>
           <p>
-            <script src='https://inklinkor.com/tag.min.js' data-zone="5399934" async></script>
+            <script src='https://inklinkor.com/tag.min.js' data-zone="5832770" async></script>
           </p>
         </body>
       </Html>
