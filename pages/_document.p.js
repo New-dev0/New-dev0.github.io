@@ -15,6 +15,7 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <meta name="theme-color" content="#003399" />
+          <meta name="google-site-verification" content="36ah3nCHuXtdK7fUwqKUSVQiilma6gIKJSM2Ewbs0DY" />
         </Head>
         <body>
           <Main />
