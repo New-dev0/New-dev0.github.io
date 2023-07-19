@@ -1,8 +1,8 @@
 name: "Update Content"
 
 on:
-  schedule:
-    - cron:  '0 0 * * *' # Every Day
+#  schedule:
+#    - cron:  '0 0 * * *' # Every Day
   workflow_dispatch:
 
 jobs:
