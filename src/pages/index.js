@@ -3,13 +3,17 @@ import Head from 'next/head';
 import Image from 'next/image';
 import Link from 'next/link';
 import { motion, useAnimation } from 'framer-motion';
-import AnimatedBackground from '../components/AnimatedBackground';
 import { CodeIcon, RocketIcon, StarIcon } from '../components/SVGAssets';
 import SkillVisualization from '../components/SkillVisualization';
 import dynamic from 'next/dynamic';
+import ShootingStarBackground from '../components/ShootingStarBackground';
+import WavesAnimation from '../components/WavesAnimation';
+import AnimatedBackground from '../components/AnimatedBackground';
+import BombMarioAnimation from '../components/BombMarioAnimation';
 
 const ReactTypingEffect = dynamic(() => import('react-typing-effect'), {
   ssr: false,
+  loading: () => <span>Full Stack Developer</span>
 });
 
 const socialLinks = [
@@ -32,7 +36,7 @@ const AvatarAnimation = () => {
         className="absolute inset-0 bg-primary rounded-full blur-xl opacity-30"
         variants={{
           initial: { scale: 1 },
-          hover: { scale: 1.2 },
+          hover: { scale: 1.1 },
         }}
         transition={{ duration: 0.3 }}
       />
@@ -40,15 +44,15 @@ const AvatarAnimation = () => {
         className="relative z-10"
         variants={{
           initial: { scale: 1 },
-          hover: { scale: 1.1 },
+          hover: { scale: 1.05 },
         }}
         transition={{ duration: 0.3 }}
       >
         <Image
           src="https://avatars.githubusercontent.com/u/69723581?v=4"
           alt="Devesh Pal"
-          width={200}
-          height={200}
+          width={180}
+          height={180}
           className="rounded-full border-4 border-primary shadow-lg"
         />
       </motion.div>
@@ -56,48 +60,17 @@ const AvatarAnimation = () => {
   );
 };
 
-const PacmanLoader = () => {
-  return (
-    <div className="flex items-center justify-center h-screen">
-      <div className="pacman-world">
-        <div className="pacman-container">
-          <div className="pacman">
-            <div className="pacman-eye"></div>
-          </div>
-        </div>
-        <div className="ghosts-container">
-          <div className="ghost blinky"></div>
-          <div className="ghost pinky"></div>
-          <div className="ghost inky"></div>
-          <div className="ghost clyde"></div>
-          </div>
-{/*
-        <div className="dots">
-          {[...Array(10)].map((_, i) => (
-            <div key={i} className="dot" style={{animationDelay: `${i * 0.1}s`}}></div>
-          ))}
-        </div>*/}
-        <div className="maze">
-          <div className="maze-row"></div>
-          <div className="maze-row"></div>
-          <div className="maze-row"></div>
-        </div>
-      </div>
-    </div>
-  );
-};
+const ClientOnlyAvatarAnimation = dynamic(() => Promise.resolve(AvatarAnimation), {
+  ssr: false,
+});
 
 export default function Home() {
-  const [isLoading, setIsLoading] = useState(true);
+  const [isClient, setIsClient] = useState(false);
   const controls = useAnimation();
 
   useEffect(() => {
-    const timer = setTimeout(() => {
-      setIsLoading(false);
-      controls.start("visible");
-    }, 3000); // Show loading for 3 seconds
-
-    return () => clearTimeout(timer);
+    setIsClient(true);
+    controls.start("visible");
   }, [controls]);
 
   const containerVariants = {
@@ -125,104 +98,106 @@ export default function Home() {
     <div className="min-h-screen bg-gradient-to-br from-background-start to-background-end text-foreground overflow-hidden">
       <Head>
         <title>Devesh Pal - Full Stack Developer</title>
+        <meta name="description" content="Devesh Pal is a Full Stack Developer specializing in AI, bots, and cutting-edge web technologies." />
+        <meta name="keywords" content="Devesh Pal, Full Stack Developer, AI, Bots, Web Development" />
+        <meta name="author" content="Devesh Pal" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta property="og:title" content="Devesh Pal - Full Stack Developer" />
+        <meta property="og:description" content="Devesh Pal is a Full Stack Developer specializing in AI, bots, and cutting-edge web technologies." />
+        <meta property="og:image" content="https://avatars.githubusercontent.com/u/69723581?v=4" />
+        <meta property="og:url" content="https://newdev0.me" />
+        <meta name="twitter:card" content="summary_large_image" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <AnimatedBackground />
+      {isClient && <AnimatedBackground />}
+      <ShootingStarBackground />
+      <WavesAnimation />
+      <BombMarioAnimation />
 
       <motion.main
-        className="relative z-30 flex flex-col items-center justify-center min-h-screen p-8 max-w-6xl mx-auto"
+        className="relative z-20 flex flex-col items-center justify-center min-h-screen p-8 max-w-6xl mx-auto"
         variants={containerVariants}
         initial="hidden"
-        animate="visible"
+        animate={isClient ? "visible" : "hidden"}
       >
-        {isLoading ? (
-          <PacmanLoader />
-        ) : (
-          <>
-            <motion.div 
-              variants={itemVariants}
-              className="absolute top-8 right-8 z-50"
+        <motion.div 
+          variants={itemVariants}
+          className="absolute top-8 right-8 z-50"
+        >
+          <Link href="/projects" className="btn btn-primary flex items-center">
+            <RocketIcon />
+            <span className="ml-2">View Projects</span>
+          </Link>
+        </motion.div>
+
+        <motion.div variants={itemVariants} className="mb-12 animate-float">
+          <ClientOnlyAvatarAnimation />
+        </motion.div>
+        <motion.h1 variants={itemVariants} className="text-5xl font-bold mb-4 gradient-text">
+          Devesh Pal
+        </motion.h1>
+        <motion.h2 variants={itemVariants} className="text-4xl mb-8 text-secondary">
+          <ReactTypingEffect
+            text={["Full Stack Developer", "AI Enthusiast", "Bot Creator"]}
+            cursorRenderer={cursor => <h2>{cursor}</h2>}
+            displayTextRenderer={(text, i) => {
+              return (
+                <h2 className="text-4xl">
+                  {text.split('').map((char, i) => {
+                    const key = `${i}`;
+                    return (
+                      <span
+                        key={key}
+                        style={i%2 === 0 ? { color: 'var(--primary)' } : { color: 'var(--secondary)' }}
+                      >{char}</span>
+                    );
+                  })}
+                </h2>
+              );
+            }}
+          />
+        </motion.h2>
+        <motion.p variants={itemVariants} className="text-xl mb-12 max-w-2xl text-center text-foreground">
+          Crafting innovative solutions with AI, bots, and cutting-edge web technologies.
+        </motion.p>
+        
+        <motion.div variants={itemVariants} className="flex flex-wrap justify-center gap-6 mb-12">
+          {socialLinks.map((link) => (
+            <motion.a
+              key={link.name}
+              href={link.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center space-x-2 bg-content-background px-4 py-2 rounded-full transition-all duration-300 hover:bg-primary group"
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
             >
-              <Link href="/projects" passHref>
-                <motion.a
-                  className="btn btn-primary"
-                  whileHover={{ scale: 1.05 }}
-                  whileTap={{ scale: 0.95 }}
-                >
-                  View Projects
-                </motion.a>
-              </Link>
-            </motion.div>
+              <svg className="w-6 h-6 text-primary group-hover:text-white" viewBox="0 0 24 24" fill="currentColor">
+                <path d={link.icon} />
+              </svg>
+              <span className="text-foreground group-hover:text-white">{link.name}</span>
+            </motion.a>
+          ))}
+        </motion.div>
 
-            <motion.div variants={itemVariants} className="mb-12 animate-float">
-              <AvatarAnimation />
-            </motion.div>
-            <motion.h1 variants={itemVariants} className="text-5xl font-bold mb-4 gradient-text">
-              Devesh Pal
-            </motion.h1>
-            <motion.h2 variants={itemVariants} className="text-3xl mb-8 text-secondary">
-              <ReactTypingEffect
-                text={["Full Stack Developer", "AI Enthusiast", "Bot Creator"]}
-                cursorRenderer={cursor => <h2>{cursor}</h2>}
-                displayTextRenderer={(text, i) => {
-                  return (
-                    <h2>
-                      {text.split('').map((char, i) => {
-                        const key = `${i}`;
-                        return (
-                          <span
-                            key={key}
-                            style={i%2 === 0 ? { color: 'var(--primary)' } : { color: 'var(--secondary)' }}
-                          >{char}</span>
-                        );
-                      })}
-                    </h2>
-                  );
-                }}
-              />
-            </motion.h2>
-            <motion.p variants={itemVariants} className="text-xl mb-12 max-w-2xl text-center text-foreground">
-              Crafting innovative solutions with AI, bots, and cutting-edge web technologies.
-            </motion.p>
-            
-            <motion.div variants={itemVariants} className="flex flex-wrap justify-center gap-6 mb-12">
-              {socialLinks.map((link) => (
-                <motion.a
-                  key={link.name}
-                  href={link.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center space-x-2 bg-content-background px-4 py-2 rounded-full transition-all duration-300 hover:bg-primary group"
-                  whileHover={{ scale: 1.05 }}
-                  whileTap={{ scale: 0.95 }}
-                >
-                  <svg className="w-6 h-6 text-primary group-hover:text-white" viewBox="0 0 24 24" fill="currentColor">
-                    <path d={link.icon} />
-                  </svg>
-                  <span className="text-foreground group-hover:text-white">{link.name}</span>
-                </motion.a>
-              ))}
-            </motion.div>
-
-            <motion.section variants={itemVariants} className="mb-12 w-full">
-              <h3 className="text-3xl font-bold mb-6 text-accent flex items-center justify-center">
+        <motion.section variants={itemVariants} className="mb-12 w-full">
+          <h3 className="text-3xl font-bold mb-6 text-accent flex items-center justify-center">
+            <StarIcon />
+            <span className="ml-2">Skills</span>
+          </h3>
+          <div className="flex flex-wrap justify-center gap-4">
+            {skills.map((skill, index) => (
+              <span key={index} className="bg-content-background text-foreground px-4 py-2 rounded-full text-sm font-semibold hover:bg-primary hover:text-white transition-all duration-300 flex items-center">
                 <CodeIcon />
-                <span className="ml-2">Skills</span>
-              </h3>
-              <div className="flex flex-wrap justify-center gap-4">
-                {skills.map((skill, index) => (
-                  <span key={index} className="bg-content-background text-foreground px-4 py-2 rounded-full text-sm font-semibold hover:bg-primary hover:text-white transition-all duration-300">
-                    {skill}
-                  </span>
-                ))}
-              </div>
-            </motion.section>
-          </>
-        )}
+                <span className="ml-2">{skill}</span>
+              </span>
+            ))}
+          </div>
+        </motion.section>
       </motion.main>
 
-      <footer className="relative z-30 text-center text-foreground py-4">
+      <footer className="relative z-20 text-center text-foreground py-4">
         <p>© {new Date().getFullYear()} Devesh Pal. All rights reserved.</p>
       </footer>
     </div>
