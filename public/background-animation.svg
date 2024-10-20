@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 1000 1000">
+  <defs>
+    <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="rgba(59, 130, 246, 0.3)" />
+      <stop offset="100%" stop-color="rgba(16, 185, 129, 0.1)" />
+    </radialGradient>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(59, 130, 246, 0.2)" />
+      <stop offset="100%" stop-color="rgba(236, 72, 153, 0.2)" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Animated blobs -->
+  <path fill="url(#grad1)">
+    <animate attributeName="d" dur="15s" repeatCount="indefinite" values="
+      M600,-650C732,-516,767,-258,734,-33C701,192,600,384,468,515C335,646,168,715,-16,731C-200,747,-400,710,-563,589C-726,468,-853,264,-867,44C-881,-176,-783,-412,-620,-574C-457,-737,-229,-825,10,-835C248,-845,496,-777,600,-650Z;
+      M544,-672C688,-551,775,-355,791,-157C807,41,752,241,647,391C542,542,387,643,212,701C37,759,-158,775,-339,717C-520,659,-685,527,-775,351C-865,175,-879,-45,-812,-239C-745,-433,-597,-601,-430,-697C-263,-793,-77,-817,119,-821C315,-825,522,-809,544,-672Z;
+      M600,-650C732,-516,767,-258,734,-33C701,192,600,384,468,515C335,646,168,715,-16,731C-200,747,-400,710,-563,589C-726,468,-853,264,-867,44C-881,-176,-783,-412,-620,-574C-457,-737,-229,-825,10,-835C248,-845,496,-777,600,-650Z
+    " />
+  </path>
+  
+  <path fill="url(#grad2)">
+    <animate attributeName="d" dur="18s" repeatCount="indefinite" values="
+      M544,-672C688,-551,775,-355,791,-157C807,41,752,241,647,391C542,542,387,643,212,701C37,759,-158,775,-339,717C-520,659,-685,527,-775,351C-865,175,-879,-45,-812,-239C-745,-433,-597,-601,-430,-697C-263,-793,-77,-817,119,-821C315,-825,522,-809,544,-672Z;
+      M600,-650C732,-516,767,-258,734,-33C701,192,600,384,468,515C335,646,168,715,-16,731C-200,747,-400,710,-563,589C-726,468,-853,264,-867,44C-881,-176,-783,-412,-620,-574C-457,-737,-229,-825,10,-835C248,-845,496,-777,600,-650Z;
+      M544,-672C688,-551,775,-355,791,-157C807,41,752,241,647,391C542,542,387,643,212,701C37,759,-158,775,-339,717C-520,659,-685,527,-775,351C-865,175,-879,-45,-812,-239C-745,-433,-597,-601,-430,-697C-263,-793,-77,-817,119,-821C315,-825,522,-809,544,-672Z
+    " />
+  </path>
+  
+  <!-- Animated lines -->
+  <path fill="none" stroke="rgba(59, 130, 246, 0.3)" stroke-width="5">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite" values="
+      M0,500 Q250,300 500,500 T1000,500;
+      M0,500 Q250,700 500,500 T1000,500;
+      M0,500 Q250,300 500,500 T1000,500
+    " />
+  </path>
+  
+  <path fill="none" stroke="rgba(236, 72, 153, 0.3)" stroke-width="5">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite" values="
+      M0,600 Q250,800 500,600 T1000,600;
+      M0,600 Q250,400 500,600 T1000,600;
+      M0,600 Q250,800 500,600 T1000,600
+    " />
+  </path>
+  
+  <!-- Animated dots -->
+  <g>
+    <circle cx="100" cy="100" r="3" fill="#60A5FA">
+      <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="300" cy="400" r="3" fill="#60A5FA">
+      <animate attributeName="opacity" values="0;1;0" dur="4s" begin="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="700" cy="200" r="3" fill="#60A5FA">
+      <animate attributeName="opacity" values="0;1;0" dur="4s" begin="2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="900" cy="800" r="3" fill="#60A5FA">
+      <animate attributeName="opacity" values="0;1;0" dur="4s" begin="3s" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>

@@ -1,0 +1,264 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background-start: #0f172a;
+  --background-end: #1e293b;
+  --foreground: #e2e8f0;
+  --primary: #3b82f6;
+  --secondary: #60a5fa;
+  --accent: #93c5fd;
+  --content-background: rgba(255, 255, 255, 0.05);
+}
+
+body {
+  color: var(--foreground);
+  background: linear-gradient(135deg, var(--background-start), var(--background-end));
+  font-family: 'Inter', sans-serif;
+  min-height: 100vh;
+}
+
+@layer base {
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold mb-4;
+  }
+
+  h1 {
+    @apply text-4xl sm:text-6xl;
+  }
+
+  h2 {
+    @apply text-3xl sm:text-5xl;
+  }
+
+  h3 {
+    @apply text-2xl sm:text-4xl;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply px-6 py-3 rounded-full font-semibold transition-all duration-300 transform hover:scale-105;
+  }
+
+  .btn-primary {
+    @apply bg-primary text-white hover:bg-opacity-90;
+  }
+
+  .btn-secondary {
+    @apply bg-secondary text-white hover:bg-opacity-90;
+  }
+
+  .card {
+    @apply bg-content-background backdrop-filter backdrop-blur-lg p-6 rounded-xl shadow-lg transition-all duration-300 hover:shadow-2xl;
+  }
+}
+
+@layer utilities {
+  .gradient-text {
+    @apply text-transparent bg-clip-text bg-gradient-to-r from-primary via-secondary to-accent;
+  }
+
+  .hover-lift {
+    @apply transition-transform duration-300 hover:-translate-y-2;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--background-end);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--primary);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--secondary);
+}
+
+/* Animations */
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+.animate-float {
+  animation: float 4s ease-in-out infinite;
+}
+
+@keyframes pacman {
+  0% { clip-path: polygon(100% 74%, 44% 48%, 100% 21%); }
+  25% { clip-path: polygon(100% 60%, 44% 48%, 100% 40%); }
+  50% { clip-path: polygon(100% 50%, 44% 48%, 100% 50%); }
+  75% { clip-path: polygon(100% 59%, 44% 48%, 100% 35%); }
+  100% { clip-path: polygon(100% 74%, 44% 48%, 100% 21%); }
+}
+
+@keyframes dot {
+  0%, 100% { opacity: 0; }
+  50% { opacity: 1; }
+}
+
+.animate-pacman {
+  animation: pacman 0.5s linear infinite;
+}
+
+.animate-dot {
+  animation: dot 0.5s linear infinite;
+}
+
+/* Pac-Man Loader Animation */
+.pacman-container {
+  position: absolute;
+  top: 50%;
+  left: -50px;
+  transform: translateY(-50%);
+  animation: move-pacman 4s linear infinite;
+  z-index: 10;
+}
+
+.pacman {
+  width: 0px;
+  height: 0px;
+  border-right: 30px solid transparent;
+  border-top: 30px solid var(--primary);
+  border-left: 30px solid var(--primary);
+  border-bottom: 30px solid var(--primary);
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  animation: eat 0.35s linear infinite;
+}
+
+.pacman-eye {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  top: 10px;
+  left: 15px;
+  background: #000;
+}
+
+@keyframes eat {
+  0% { transform: rotate(0deg); }
+  50% { transform: rotate(45deg); }
+  100% { transform: rotate(0deg); }
+}
+
+@keyframes move-pacman {
+  0% { left: -50px; }
+  100% { left: 100%; }
+}
+
+.dots {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  transform: translateY(-50%);
+  display: flex;
+  justify-content: space-around;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  background: var(--secondary);
+  border-radius: 50%;
+  animation: disappear 4s linear forwards;
+}
+
+@keyframes disappear {
+  0% { opacity: 1; transform: scale(1); }
+  80% { opacity: 1; transform: scale(1); }
+  100% { opacity: 0; transform: scale(0); }
+}
+
+.maze {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.maze-row {
+  height: 10px;
+  background: linear-gradient(90deg, var(--primary) 50%, transparent 50%);
+  background-size: 20px 100%;
+  opacity: 0.3;
+}
+
+.maze-row:nth-child(2) {
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.maze-row:nth-child(3) {
+  bottom: 0;
+}
+
+/* Pac-Man World */
+.pacman-world {
+  position: relative;
+  width: 300px;
+  height: 100px;
+  background-color: #000;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.ghosts-container {
+  position: absolute;
+  top: 50%;
+  right: -120px;
+  transform: translateY(-50%);
+  display: flex;
+  animation: move-ghosts 4s linear infinite;
+}
+
+.ghost {
+  width: 25px;
+  height: 25px;
+  margin: 0 5px;
+  border-radius: 13px 13px 0 0;
+  position: relative;
+  animation: ghost-eaten 4s linear infinite;
+}
+
+.ghost::before {
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  width: 100%;
+  height: 5px;
+  background: currentColor;
+  border-radius: 0 0 5px 5px;
+}
+
+.blinky { background-color: #FF0000; animation-delay: 0.5s; }
+.pinky { background-color: #FFB8FF; animation-delay: 1s; }
+.inky { background-color: #00FFFF; animation-delay: 1.5s; }
+.clyde { background-color: #FFB852; animation-delay: 2s; }
+
+@keyframes move-ghosts {
+  0% { right: -120px; }
+  100% { right: 100%; }
+}
+
+@keyframes ghost-eaten {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0; transform: scale(0); }
+}
