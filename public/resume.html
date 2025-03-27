@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Devesh Pal - Software Developer Resume, specializing in AI integration, automation, and developer tools">
+    <meta name="keywords" content="Software Developer, Python, TypeScript, JavaScript, SDK Development, API Integration, Platform Development, AI, Machine Learning">
+    <title>Devesh Pal - Software Developer Resume</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 0.4cm;
+        }
+        
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Arial, Helvetica, sans-serif;
+            line-height: 1.4;
+            color: #333;
+            background: #fff;
+            padding: 15px;
+            margin: 0;
+            font-size: 13px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: 0 auto;
+            padding: 8px;
+        }
+
+        .header {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 20px;
+            gap: 20px;
+        }
+
+        .header-content {
+            flex: 1;
+        }
+
+        .avatar {
+            width: 100px;
+            height: 100px;
+            border-radius: 50px;
+            object-fit: cover;
+            border: 2px solid #eee;
+            flex-shrink: 0;
+        }
+
+        h1 {
+            font-size: 24px;
+            font-weight: 600;
+            margin: 0 0 8px 0;
+            line-height: 1.2;
+        }
+
+        h2 {
+            font-size: 18px;
+            font-weight: 600;
+            margin: 18px 0 10px 0;
+            padding-bottom: 4px;
+            border-bottom: 1px solid #eee;
+        }
+
+        h3 {
+            font-size: 15px;
+            font-weight: 600;
+            margin: 5px 0;
+        }
+
+        .subtitle {
+            font-size: 15px;
+            font-weight: normal;
+            margin-bottom: 10px;
+            color: #555;
+            line-height: 1.3;
+        }
+
+        .contact-info {
+            margin-bottom: 10px;
+        }
+
+        .location {
+            font-size: 13px;
+            color: #555;
+            margin-bottom: 5px;
+        }
+
+        .email {
+            font-size: 13px;
+            color: #555;
+            margin-bottom: 5px;
+        }
+
+        .email a {
+            color: #0366d6;
+            text-decoration: none;
+        }
+
+        .social-links {
+            display: flex;
+            gap: 16px;
+            margin: 10px 0;
+        }
+        
+        .social-link {
+            color: #555;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 20px;
+            height: 20px;
+        }
+        
+        .social-link:hover {
+            color: #000;
+        }
+        
+        .social-link svg {
+            width: 100%;
+            height: 100%;
+            fill: currentColor;
+        }
+
+        section {
+            margin-bottom: 18px;
+        }
+
+        .about-text {
+            line-height: 1.4;
+            margin-bottom: 15px;
+        }
+
+        .experience-item, .project-list {
+            margin-bottom: 15px;
+            page-break-inside: avoid;
+        }
+
+        .company-name {
+            font-size: 16px;
+            font-weight: 600;
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+        }
+        
+        .job-location {
+            font-size: 13px;
+            color: #555;
+            margin-left: auto;
+            font-weight: normal;
+        }
+        
+        .job-title {
+            font-weight: 600;
+            font-size: 14px;
+            margin: 3px 0;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .job-duration {
+            color: #555;
+            font-weight: normal;
+            margin-left: auto;
+        }
+        
+        .project-link {
+            margin-left: 6px;
+            font-size: 13px;
+            color: #0366d6;
+            text-decoration: none;
+        }
+        
+        .project-link:hover {
+            text-decoration: underline;
+        }
+
+        .tags {
+            margin: 5px 0;
+        }
+
+        .tag {
+            display: inline-block;
+            background: #f5f5f5;
+            padding: 1px 6px;
+            border-radius: 3px;
+            font-size: 11px;
+            margin-right: 4px;
+            margin-bottom: 3px;
+            color: #333;
+        }
+
+        .position {
+            font-weight: 600;
+            font-size: 14px;
+            margin: 3px 0;
+        }
+
+        ul, .job-description {
+            margin: 5px 0;
+            padding-left: 18px;
+            list-style-type: disc;
+        }
+
+        li {
+            margin-bottom: 2px;
+            line-height: 1.4;
+        }
+
+        .keywords {
+            display: none;
+        }
+
+        .cert-list {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+
+        .cert-item {
+            margin-bottom: 0;
+        }
+
+        .cert-title {
+            font-weight: 600;
+            margin-bottom: 2px;
+            font-size: 13px;
+        }
+
+        .cert-issuer {
+            font-size: 12px;
+            color: #555;
+        }
+
+        .skills-section {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin: 10px 0;
+        }
+
+        .skills-category {
+            margin-bottom: 8px;
+        }
+
+        .skills-category-title {
+            font-weight: 600;
+            margin-bottom: 3px;
+        }
+
+        .skill-level {
+            display: block;
+            font-size: 11px;
+            color: #666;
+            margin-top: -1px;
+        }
+
+        .divider {
+            border-top: 1px solid #eee;
+            margin: 15px 0;
+        }
+
+        /* Fix for projects section */
+        .company {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 3px;
+            align-items: baseline;
+        }
+        
+        .company .company-name {
+            margin-right: auto;
+        }
+        
+        .company .date {
+            color: #555;
+            font-size: 13px;
+        }
+
+        .project-list p {
+            margin: 3px 0;
+        }
+
+        /* Make current focus display horizontally */
+        .current-focus {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            padding-left: 18px;
+        }
+
+        .current-focus li {
+            width: calc(50% - 10px);
+        }
+
+        @media print {
+            body {
+                padding: 0;
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
+            }
+            
+            .container {
+                width: 100%;
+                max-width: none;
+            }
+            
+            section, .experience-item, .project-list, .cert-item {
+                page-break-inside: avoid;
+            }
+            
+            h2 {
+                page-break-after: avoid;
+            }
+            
+            a {
+                color: #0366d6 !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <img src="https://avatars.githubusercontent.com/u/69723581?v=4" alt="Devesh Pal" class="avatar">
+            <div class="header-content">
+                <h1>Devesh Pal</h1>
+                <div class="subtitle">Software Developer | Platform Development | API Integration | SDK Development</div>
+                <div class="contact-info">
+                    <div class="location">Location: India</div>
+                    <div class="email">Email: <a href="mailto:newdev0@outlook.com">newdev0@outlook.com</a></div>
+                </div>
+                
+                <div class="social-links">
+                    <a href="https://github.com/New-dev0" class="social-link" title="GitHub: New-dev0">
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+                        </svg>
+                    </a>
+                    <a href="https://twitter.com/_newdev0" class="social-link" title="Twitter: _newdev0">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/>
+                        </svg>
+                    </a>
+                    <a href="https://t.me/karboncopy" class="social-link" title="Telegram: karboncopy">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.306.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.064-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/>
+                        </svg>
+                    </a>
+                    <a href="https://www.newdev0.me/" class="social-link" title="Portfolio">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <path d="M12 2C6.486 2 2 6.486 2 12s4.486 10 10 10 10-4.486 10-10S17.514 2 12 2zm7.931 9h-3.032c-.188-2.812-.74-5.03-1.536-6.455C18.273 5.818 20.366 8.182 19.931 11zM16.5 12c0 .97-.104 1.9-.281.5h-8.438A12.59 12.59 0 017.5 12c0-.97.104-1.9.281-2.5h8.438c.177.6.281 1.53.281 2.5zM12 4.069c1.011 0 1.97 1.392 2.509 3.931H9.491C10.03 5.46 10.989 4.069 12 4.069zM7.137 4.545C6.341 5.97 5.789 8.188 5.601 11H2.57c-.435-2.818 1.657-5.182 4.567-6.455zM2.57 13h3.032c.188 2.812.74 5.03 1.536 6.455C4.227 18.182 2.134 15.818 2.57 13zM12 19.931c-1.011 0-1.97-1.392-2.509-3.931h5.018C13.97 18.539 13.011 19.931 12 19.931zm4.863.524c.796-1.425 1.348-3.643 1.536-6.455h3.032c-.435 2.818-2.529 5.182-4.568 6.455z"/>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </header>
+
+        <!-- Hidden keywords for ATS optimization -->
+        <div class="keywords">
+            Software Developer Python TypeScript JavaScript SDK Development API Integration Platform Development AI Machine Learning Automation Developer Tools Bot Development React Three.js Telegram API Twitter API Pyrogram Telethon Node.js Dart HTML CSS Open Source Full Stack Development Climate Fintech Remote Work
+        </div>
+
+        <section id="summary">
+            <h2>Professional Summary</h2>
+            <p class="about-text">
+                Software Developer with expertise in AI integration, automation, and developer tooling. Demonstrated success in building scalable applications and performant systems. Specializes in SDK development, API integration, and platform architecture. Active open-source contributor focused on Telegram bots, Twitter integrations, and Switch platform development.
+            </p>
+        </section>
+
+        <section id="experience">
+            <h2>Professional Experience</h2>
+            <div class="experience-item">
+                <div class="company-name">SwitchX<span class="job-location">Remote</span></div>
+                <div class="job-title">Founding Member<span class="job-duration">June 2023 - Present</span></div>
+                <div class="tags">
+                    <span class="tag">Platform Development</span>
+                    <span class="tag">TypeScript</span>
+                    <span class="tag">SDK Development</span>
+                    <span class="tag">System Architecture</span>
+                </div>
+                <ul class="job-description">
+                    <li>Core founding member of SwitchX platform, focusing on developer tools and infrastructure development</li>
+                    <li>Architected and engineered key SDK components enabling seamless integration with the platform</li>
+                    <li>Collaborated with stakeholders to define platform architecture and developer experience strategies</li>
+                </ul>
+            </div>
+
+            <div class="experience-item">
+                <div class="company-name">Switch Labs<span class="job-location">Remote</span></div>
+                <div class="job-title">Developer Library Lead<span class="job-duration">July 2023 - Present</span></div>
+                <div class="tags">
+                    <span class="tag">Python</span>
+                    <span class="tag">SDK Development</span>
+                    <span class="tag">API Integration</span>
+                    <span class="tag">Technical Documentation</span>
+                </div>
+                <ul class="job-description">
+                    <li>Led development of client libraries and SDKs for the Switch platform</li>
+                    <li>Designed and implemented consistent APIs across multiple programming languages</li>
+                    <li>Created comprehensive documentation and provided developer support</li>
+                    <li>Optimized library performance and reduced implementation complexity</li>
+                </ul>
+            </div>
+
+            <div class="experience-item">
+                <div class="company">
+                    <div class="company-name">Open Source Contributions</div>
+                    <div class="date">2022 - Present</div>
+                </div>
+                <div class="tags">
+                    <span class="tag">Python</span>
+                    <span class="tag">TypeScript</span>
+                    <span class="tag">JavaScript</span>
+                    <span class="tag">Collaboration</span>
+                </div>
+                <div class="position">Project Lead & Core Contributor</div>
+                <ul class="job-description">
+                    <li>Led TgTwitterStreamer project (86 stars, 69 forks) for streaming Twitter content to Telegram</li>
+                    <li>Core contributor to Ultroid project (2.8k stars, 7.9k forks), delivering key features</li>
+                    <li>Developed integration systems and automation tools for social media platforms</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="skills">
+            <h2>Technical Skills</h2>
+            <div class="skills-section">
+                <div class="skills-category">
+                    <div class="skills-category-title">Programming Languages</div>
+                    <div>Python <span class="skill-level">Advanced</span></div>
+                    <div>TypeScript <span class="skill-level">Advanced</span></div>
+                    <div>JavaScript <span class="skill-level">Advanced</span></div>
+                    <div>Dart <span class="skill-level">Intermediate</span></div>
+                    <div>HTML/CSS <span class="skill-level">Proficient</span></div>
+                </div>
+                <div class="skills-category">
+                    <div class="skills-category-title">Frameworks & Libraries</div>
+                    <div>Telegram Bot API <span class="skill-level">Expert</span></div>
+                    <div>Twitter API <span class="skill-level">Advanced</span></div>
+                    <div>Pyrogram <span class="skill-level">Advanced</span></div>
+                    <div>Telethon <span class="skill-level">Advanced</span></div>
+                    <div>Node.js <span class="skill-level">Intermediate</span></div>
+                    <div>React <span class="skill-level">Intermediate</span></div>
+                    <div>Three.js <span class="skill-level">Intermediate</span></div>
+                </div>
+                <div class="skills-category">
+                    <div class="skills-category-title">Core Competencies</div>
+                    <div>SDK Development <span class="skill-level">Expert</span></div>
+                    <div>API Integration <span class="skill-level">Expert</span></div>
+                    <div>Bot Development <span class="skill-level">Expert</span></div>
+                    <div>Automation <span class="skill-level">Advanced</span></div>
+                    <div>System Architecture <span class="skill-level">Intermediate</span></div>
+                    <div>Documentation <span class="skill-level">Advanced</span></div>
+                </div>
+            </div>
+        </section>
+
+        <section id="projects">
+            <h2>Featured Projects</h2>
+            <div class="project-list">
+                <div class="company-name">Enviro - Climate Fintech Application
+                    <a href="https://github.com/enviro-app/enviro" class="project-link">GitHub</a>
+                </div>
+                <div class="tags">
+                    <span class="tag">JavaScript</span>
+                    <span class="tag">React Native</span>
+                    <span class="tag">Climate Fintech</span>
+                    <span class="tag">Rapyd API</span>
+                    <span class="tag">Mobile Development</span>
+                </div>
+                <p>Mobile application built for the Rapyd Climate Fintech Hackathon. Designed to help users track and reduce their carbon footprint through integrated payment solutions. Integrated Rapyd API for transaction processing and analytics.</p>
+            </div>
+            
+            <div class="project-list">
+                <div class="company-name">switch-ts - TypeScript SDK
+                    <a href="https://github.com/New-dev0/switch-ts" class="project-link">GitHub</a>
+                </div>
+                <div class="tags">
+                    <span class="tag">TypeScript</span>
+                    <span class="tag">SDK Development</span>
+                    <span class="tag">API Integration</span>
+                    <span class="tag">Documentation</span>
+                </div>
+                <p>Comprehensive TypeScript client library for Switch platform development. Features include type-safe API interactions, middleware support, and extensive documentation. Enables developers to integrate with Switch platform services efficiently.</p>
+            </div>
+            
+            <div class="project-list">
+                <div class="company-name">SpotifyIG - Media Integration
+                    <a href="https://github.com/New-dev0/SpotifyIG" class="project-link">GitHub</a>
+                </div>
+                <div class="tags">
+                    <span class="tag">Python</span>
+                    <span class="tag">Spotify API</span>
+                    <span class="tag">Instagram API</span>
+                    <span class="tag">Automation</span>
+                </div>
+                <p>Automated solution that connects Spotify and Instagram, automatically creating and uploading Instagram stories from currently playing Spotify songs. Implements both platform APIs with authentication handling and media processing.</p>
+            </div>
+        </section>
+
+        <section id="certifications">
+            <h2>Professional Certifications</h2>
+            <div class="cert-list">
+                <div class="cert-item">
+                    <div class="cert-title">Natural Language Processing with Azure AI</div>
+                    <div class="cert-issuer">Microsoft (April 2024)</div>
+                </div>
+                <div class="cert-item">
+                    <div class="cert-title">Azure AI Vision Solution Development</div>
+                    <div class="cert-issuer">Microsoft (March 2024)</div>
+                </div>
+                <div class="cert-item">
+                    <div class="cert-title">Intelligent Document Processing with Azure AI</div>
+                    <div class="cert-issuer">Microsoft (March 2024)</div>
+                </div>
+                <div class="cert-item">
+                    <div class="cert-title">Generative AI with Azure OpenAI Service</div>
+                    <div class="cert-issuer">Microsoft (March 2024)</div>
+                </div>
+                <div class="cert-item">
+                    <div class="cert-title">Postman API Student Expert Certification</div>
+                    <div class="cert-issuer">Postman (February 2024)</div>
+                </div>
+                <div class="cert-item">
+                    <div class="cert-title">Strategic Problem Solving & Innovation</div>
+                    <div class="cert-issuer">LinkedIn Learning (November 2024)</div>
+                </div>
+            </div>
+        </section>
+
+        <section id="professional-focus">
+            <h2>Professional Focus</h2>
+            <ul class="current-focus">
+                <li>AI/ML integration in enterprise applications</li>
+                <li>Developer tooling and automation solutions</li>
+                <li>Open-source project development and contribution</li>
+                <li>3D visualization and interactive platforms</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html> 
